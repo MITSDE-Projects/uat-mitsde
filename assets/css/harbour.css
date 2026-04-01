@@ -1,0 +1,95 @@
+/* harbour page  */
+
+.harbourbanner{
+    background: #FFF5D6 url(../images/course/harbour/banner.jpg) top center no-repeat;
+    background-size: cover;
+    padding-top: 2rem;
+    width: 100lvw;
+    height: 50lvh;
+  }
+  
+  
+  /* harbour page  */
+  
+  
+  #centered{
+    background-color: #fcdbc6;
+    color: #000;
+  
+  }
+  .card1{
+    box-shadow: 0px 0px 10px 5px lightblue;
+    
+  }
+  
+  .card1 {
+    width: 300px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+    margin: auto;
+    margin: 10px 0px 30px 0px;
+    /* background-color: #ccc; */
+    
+  }
+  .card1 img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+  }
+  .card1 h4 {
+    margin-bottom: 5px;
+  }
+  .card p {
+    color: #777;
+    margin-bottom: 15px;
+  }
+  
+  
+  
+
+
+
+
+
+.card{
+    box-shadow: 0px 0px 10px 2px lightblue;
+    cursor: pointer;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+
+.invisible-content {
+    display: none;
+}
+
+@media screen and (min-width: 769px) and (max-width: 2000px) {
+  .industrymentor {
+    margin-left: 30px;
+}
+}
+
+.container-fluid{
+  padding-left: 0;
+}
+
+/* top 10 student  */
+.cer-slider h1{
+  font-size: 30px;
+ 
+}
+
+.cer-slider h1{color: var(--text-color);font-family: var(--font-family-SB);font-size: 38px;font-weight: 700;line-height: 44px; margin-top: 1.5rem;}
+/* top 10 student  */
+
+.enroll-certification .fintech-certi h1{
+  color: var(--text-color);
+  font-family: var(--font-family-SB);
+  font-size: 38px;
+  font-weight: 700;
+  line-height: 44px;
+}

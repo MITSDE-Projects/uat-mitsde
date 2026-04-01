@@ -1,0 +1,10 @@
+RewriteEngine On
+RewriteBase /apna-advantage/
+
+# Do not rewrite real files or folders
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+# Only rewrite empty or root requests
+RewriteRule ^$ index.php [L]

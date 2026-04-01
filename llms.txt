@@ -1,0 +1,143 @@
+# MITSDE (MIT School of Distance Education)
+
+> **MITSDE (MIT School of Distance Education / MIT Pune Distance Education)** is a premier institute for online and distance learning, offering Executive MBA, PGDM, PGDBA, certificate courses, and corporate training programs.  
+
+---
+
+## Home  
+- [Home](https://mitsde.com/): Official website homepage of MIT School of Distance Education with complete course and admission details.  
+
+---
+
+## Programs  
+
+### Executive MBA Programs  
+- [Executive MBA Programs](https://mitsde.com/executive-mba): Overview of Executive MBA programs designed for working professionals.  
+  - [EMBA in Finance Management](https://mitsde.com/executive-mba-finance-management): Learn financial planning, investment strategies, and corporate finance for leadership roles.  
+  - [EMBA in Human Resource Management](https://mitsde.com/executive-mba-human-resource-management): Focus on HR strategy, talent management, and organizational development.  
+  - [EMBA in Marketing Management](https://mitsde.com/executive-mba-marketing): Covers branding, market research, consumer behavior, and digital marketing.  
+  - [EMBA in Operations Management](https://mitsde.com/executive-mba-in-operations): Skills in production planning, quality management, and supply chain optimization.  
+  - [EMBA in Project Management](https://mitsde.com/executive-mba-in-project-management): Training in project planning, execution, and risk management.  
+  - [EMBA in Business Analytics and AI](https://mitsde.com/executive-mba-in-business-analytics-and-ai): Learn analytics tools, AI applications, and data-driven decision-making.  
+
+### Online PGDM Executive Programs  
+- [Online PGDM Executive Programs](https://mitsde.com/post-graduate-diploma-in-management-executive): Specialized PGDM courses for mid-level professionals.  
+  - [Chief Digital Marketing Strategist Program](https://mitsde.com/digital-marketing-strategist): Master advanced digital marketing strategies and leadership.  
+  - [PGDM Executive In Modern Project Management](https://mitsde.com/pgdm-executive-in-modern-project-management): Emphasis on agile, lean, and innovative project methods.  
+  - [PGDM Executive In Technology & Operations Management](https://mitsde.com/pgdm-executive-in-technology-and-operations-management): Covers IT integration with operations and process automation.  
+  - [PGDM Executive In Human Capital Management](https://mitsde.com/pgdm-executive-in-human-capital-management): HR analytics, workforce planning, and leadership roles.  
+  - [PGDM Executive In Banking & Financial Services](https://mitsde.com/pgdm-executive-in-banking-financial-services): Learn modern BFSI practices, financial regulations, and risk management.  
+  - [PGDM Executive In Finance Management](https://mitsde.com/pgdm-executive-in-finance-management): Corporate finance, budgeting, and investment decision-making.  
+  - [PGDM Executive In Strategic Marketing Management](https://mitsde.com/pgdm-executive-in-strategic-marketing-management): Advanced marketing and global brand positioning.  
+  - [PGDM Executive In Material Management](https://mitsde.com/pgdm-executive-in-material-management): Efficient material planning, procurement, and inventory management.  
+  - [PGDM Executive In Global Logistics & Supply Chain Management](https://mitsde.com/pgdm-executive-in-global-logistics-and-supply-chain-management): Supply chain optimization and international trade logistics.  
+  - [PGDM Executive In Construction And Project Management](https://mitsde.com/pgdm-executive-in-construction-and-project-management): Project management for construction and infrastructure sectors.  
+
+### Online PGDM Programs in India  
+- [Online PGDM Programs in India](https://mitsde.com/post-graduate-diploma-in-management): AICTE-approved PGDM courses for graduates and working professionals.  
+  - [Online PGDM Course In Project Management](https://mitsde.com/pg-diploma-in-project-management): Comprehensive learning in project planning and leadership.  
+  - [Online PGDM Course In Operations Management](https://mitsde.com/pg-diploma-in-operations-management): Enhances production, logistics, and operational strategies.  
+  - [PGDM Human Resource Management](https://mitsde.com/pg-diploma-in-human-resource-management): Prepares for HR, talent acquisition, and organizational roles.  
+  - [PGDM In Information Technology](https://mitsde.com/pg-diploma-in-information-technology): Combines IT and business management for modern enterprises.  
+  - [Online PGDM In Marketing Management](https://mitsde.com/pg-diploma-in-marketing-management): Branding, sales, and consumer marketing strategies.  
+  - [Online PGDM In Finance Management](https://mitsde.com/pg-diploma-in-finance-management): Corporate finance and investment-focused PGDM.  
+  - [PGDM In Logistics and Supply Chain](https://mitsde.com/pg-diploma-in-supply-chain-management): Supply chain planning and warehouse management.  
+  - [PGDM In Material Management](https://mitsde.com/pg-diploma-in-material-management): Efficient material planning and purchase management.  
+  - [PGDM In Banking & Financial Services](https://mitsde.com/pg-diploma-in-banking-finance): Covers retail banking, risk management, and BFSI operations.  
+  - [Online PGDM Course in Construction And Project Management](https://mitsde.com/pg-diploma-in-construction-and-project-management): Construction project lifecycle management.  
+
+### Post Graduate Certificate in Management  
+- [Post Graduate Certificate in Management](https://mitsde.com/post-graduate-certificate-in-management): Short-term PGCM programs for skill-focused learning.  
+  - [PGCM Business Analytics](https://mitsde.com/post-graduate-certificate-in-business-analytics): Data analytics and BI tools for business decision-making.  
+  - [PGCM Digital Marketing](https://mitsde.com/post-graduate-cetificate-in-digital-marketing): Practical skills in online marketing and social media campaigns.  
+
+### Post Graduate Diploma in Business Administration (PGDBA)  
+- [Post Graduate Diploma in Business Administration](https://mitsde.com/post-graduate-diploma-in-business-administration): Distance learning PGDBA with multiple specializations.  
+  - [PGDBA Operations Management](https://mitsde.com/pgdba-in-operations-management): Specialization in operations, production, and quality management.  
+  - [PGDBA Finance Management](https://mitsde.com/pgdba-in-finance): Learn accounting, corporate finance, and investments.  
+  - [PGDBA Human Resource Management](https://mitsde.com/pgdba-in-human-resource-management): HR leadership, workforce analytics, and employee relations.  
+  - [PGDBA Information Technology](https://mitsde.com/pgdba-in-information-technology): IT-focused specialization for business applications.  
+  - [PGDBA Marketing Management](https://mitsde.com/pgdba-in-marketing-management): Marketing strategy, sales management, and branding.  
+
+### Career Accelerator Program  
+- [Career Accelerator Program](https://mitsde.com/#): Short-term career-focused certification courses.  
+  - [Enterprise Data Specialist Certification Program](https://mitsde.com/power-bi-certification): Microsoft Power BI and data visualization training.  
+
+### Professional Certificate Program  
+- [Professional Certificate Program](https://mitsde.com/#): Professional skill-based certifications for career growth.  
+  - [Certification In Project Management](https://mitsde.com/certification-in-project-management): Tools and methods for managing projects effectively.  
+  - [Certification In Marketing Management](https://mitsde.com/certification-in-marketing-management): Covers marketing tactics and brand promotion.  
+  - [Certification In Human Resource Management](https://mitsde.com/certification-in-human-resource-management): Learn HR fundamentals and employee management.  
+  - [Certification In Operations Management](https://mitsde.com/certification-in-operations-management): Covers business operations and workflow efficiency.  
+  - [Certification In Material Management](https://mitsde.com/certification-in-material-management): Procurement and resource allocation training.  
+  - [Certification In Logistics and Supply Chain](https://mitsde.com/certification-in-supply-chain-management): SCM skills for trade and commerce.  
+  - [Certification In Finance Management](https://mitsde.com/certification-in-finance-management): Finance basics for career advancement.  
+
+---
+
+## Dual Program  
+- [Dual Program (PGDM Executive + EMBA)](https://mitsde.com/pgdm-executive-emba-dual-program): Dual specialization combining PGDM Executive and EMBA.  
+
+## Application  
+- [Application](https://mitsde.com/#): Online application form for program enrollment.  
+
+---
+
+## Knowledge Centre  
+- [PGDM vs MBA](https://mitsde.com/knowledge-center/mba-vs-pgdm-which-one-is-better-for-your-career): Detailed comparison between PGDM and MBA.  
+- [Career Switcher](https://mitsde.com/knowledge-center/pgdm-for-career-switchers): Why PGDM is a good option for career changers.  
+- [Working Professionals](https://mitsde.com/knowledge-center/pgdm-a-good-option-for-working-professionals): Benefits of PGDM for employed professionals.  
+- [Scope of PGDM](https://mitsde.com/knowledge-center/scope-of-pgdm-in-india): Career opportunities after completing PGDM.  
+- [Finance Career](https://itsde.com/knowledge-center/best-career-opportunities-after-completing-a-finance-course): Jobs and career paths in finance after PGDM.  
+- [PGDM Marketing](https://mitsde.com/knowledge-center/how-a-pgdm-in-marketing-shapes-your-career-trajectory): Role of PGDM in marketing careers.  
+- [PGDM Operations](https://mitsde.com/knowledge-center/jobs-after-pgdm-in-operations-management): Job roles and opportunities in operations after PGDM.  
+
+---
+
+## Blog  
+- [Blog](https://blog.mitsde.com/): Articles and insights on education, careers, and management.  
+
+## Admission Process  
+- [Admission Process](https://mitsde.com/application-process): Step-by-step admission process at MITSDE.  
+
+## FAQs  
+- [FAQs](https://mitsde.com/faq): Frequently asked questions about courses, admissions, and exams.  
+
+## Refer A Friend  
+- [Refer A Friend](https://mitsde.com/refer-friend): Referral program for students.  
+
+## Download Brochure  
+- [Download Brochure](https://mitsde.com/download-brochure): Download course brochure in PDF format.  
+
+---
+
+## Learner Assistance  
+- [Placement](https://mitsde.com/placement): Placement assistance and recruiter details.  
+  - [Alumni Portal](https://alumni.mitsde.com/): Connect with MITSDE alumni community.  
+- [Academic](https://mitsde.com/academic): Academic support and guidance services.  
+- [MIT Office of Career Services](https://mitsde.com/mit-office-of-career-services): Career services and job assistance for students.  
+  - [For External Learners](https://mitsde.com/mocs-for-external-learner): Career services for non-MITSDE learners.  
+- [Student Support](https://mitsde.com/chat-with-support): Online student support and chat helpdesk.  
+- [Fee Payment](https://mitsde.com/learner-type-payment): Secure online fee payment gateway.  
+- [Sample Certificate](https://mitsde.com/sample-certificate): Preview of MITSDE course completion certificate.  
+- [AICTE Feedback Facility](https://mitsde.com/aicte-feedback-facility): AICTE-mandated feedback submission portal.  
+
+---
+
+## Corporate Upskilling  
+- [Corporate Upskilling](https://mitsde.com/corporate-upskilling/): Customized learning and training programs for organizations.  
+
+---
+
+## Social Media  
+- [Facebook](https://www.facebook.com/MITPuneDistanceEducationOnline): Official MITSDE Facebook page.  
+- [Instagram](https://www.instagram.com/mitdistanceeducation/): Updates and posts on Instagram.  
+- [LinkedIn](https://www.linkedin.com/school/mitsde/): MITSDE LinkedIn company profile.  
+- [YouTube](https://www.youtube.com/@MITSDEPune): Official YouTube channel with learning videos.  
+
+---
+
+## Contact  
+- **Email:** admissions@mitsde.com  
+- **Phone:** 9112-207-207  
+- **Address:** MIT Alandi Campus, Moshi-Alandi Road, Opp. Gajanan Maharaj Sansthan, Pune, Maharashtra 412105

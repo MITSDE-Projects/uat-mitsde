@@ -1,0 +1,85 @@
+.nav-pills .nav-link {
+  display: block;
+  padding: 0.8rem 1rem;
+  margin-bottom: 10px;
+  font-size: 1rem;
+  font-weight: 500;
+  color: var(--text-color);
+  font-family: var(--font-family-SB);
+  font-size: 1.1rem;
+  font-weight: 700;
+  background-color: #dcdde1;
+  border-radius: 0.25rem;
+}
+
+.nav .nav-link.active {
+  color: #fff;
+  background-color: #f27420;
+  position: relative;
+}
+
+.nav .nav-link.active::after {
+  content: "";
+  /* border-right: 4px solid #000; */
+  height: 100%;
+  position: absolute;
+  right: -1px;
+  top: 0;
+  border-radius: 5px 0 0 5px;
+}
+
+.tabtwocss1,
+.tabtwocss2 {
+  border: 1px solid #ddd;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 15px;
+  background-color: #fff;
+}
+
+.tabtwocss1{
+  position: sticky;
+  top: 150;
+  z-index: 999;
+  background: #ffffff;
+  /* Adjust as needed */
+}
+
+.tabtwocss1 {
+  height: 600px;
+  /* Adjust height as needed */
+  overflow-y: auto;
+  scroll-padding-top: 0rem;
+  scrollbar-color: #f47521 #ecf0f1;
+  scrollbar-width: thin;
+}
+
+/* chat -with suppport */
+
+/* harbour page */
+
+.tabtwocss1,
+.tabtwocss2 {
+  border: 1px solid #ddd;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 15px;
+  background-color: #fff;
+}
+
+.tabtwocss1 {
+  position: sticky;
+  top: 150;
+  z-index: 999;
+  background: #ffffff;
+  /* Adjust as needed */
+}
+
+.tabtwocss2 {
+  height: 600px;
+  /* Adjust height as needed */
+  overflow-y: auto;
+  scroll-padding-top: 0rem;
+  scrollbar-color: #f47521 #ecf0f1;
+  scrollbar-width: thin;
+}
+
+/* harbour page  */

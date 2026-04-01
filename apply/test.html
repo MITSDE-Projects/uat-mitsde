@@ -1,0 +1,42 @@
+<html>
+
+
+
+<div id="divToPrint">
+
+Test 
+Test
+Test
+
+
+
+</div>
+
+<input type="submit" value="Download Application Form" onclick="PrintDiv();" style="background-color:#F47A35;color:#FFF;font-size:20px;">
+
+
+
+	<script type="text/javascript">
+	
+	
+	
+    function PrintDiv() {
+        
+        //alert("IN FORM");
+       
+        var divToPrint = document.getElementById('divToPrint');
+        
+       
+       var popupWin = window.open('', '_blank', 'width=770,height=1020');
+       popupWin.document.open();
+       popupWin.document.write('<html><body onload="window.print()">' + divToPrint.innerHTML + '</html>');
+       popupWin.document.close();
+	
+ 
+
+	
+       }
+       
+	 </script>
+
+</html>

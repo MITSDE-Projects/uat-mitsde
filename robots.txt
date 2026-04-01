@@ -1,0 +1,91 @@
+User-agent: *
+allow: /
+User-agent: Semrushbot-SA Allow: /
+sitemap: https://mitsde.com/sitemap.xml
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: DeepseekBot
+Allow: /public/
+Disallow: /private/
+
+User-agent: *
+allow: /
+User-agent: Semrushbot-SA Allow: /
+sitemap: https://mitsde.com/sitemap.xml
+
+
+##############################
+# Major Search Engine Bots
+##############################
+
+# Google Search
+User-agent: Googlebot
+Allow: /
+
+# Bing Search
+User-agent: Bingbot
+Allow: /
+
+# Yahoo Search
+User-agent: Slurp
+Allow: /
+
+# Yandex Search
+User-agent: Yandex
+Allow: /
+
+# Baidu Search
+User-agent: Baiduspider
+Allow: /
+
+# DuckDuckGo Bot
+User-agent: DuckDuckBot
+Allow: /
+
+# Apple Search Bot
+User-agent: Applebot
+Allow: /
+
+##############################
+# Major AI Bots
+##############################
+
+# OpenAI GPTBot (used for ChatGPT / GPT training)
+User-agent: GPTBot
+Allow: /
+
+# Anthropic ClaudeBot
+User-agent: ClaudeBot
+Allow: /
+
+# Perplexity AI Bot
+User-agent: PerplexityBot
+Allow: /
+
+# Google AI Crawler (Gemini/Bard training)
+User-agent: Google-Extended
+Allow: /
+
+# Microsoft AI Bot (Bing AI / Copilot)
+User-agent: BingAI
+Allow: /
+
+# Common Crawl (used by many AI models)
+User-agent: CCBot
+Allow: /
+
+# OpenAI's web crawler
+User-agent: OAI-SearchBot
+Allow: /
+
+# DeepSeek AI Crawler
+User-agent: DeepseekBot
+Allow: /

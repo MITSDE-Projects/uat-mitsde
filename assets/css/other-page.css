@@ -1,0 +1,68 @@
+/* last css class */
+
+/* hero 14 */
+
+/* refer to course  ----   >      course-common-internal.css */
+
+
+/* ************************* */
+
+
+
+/* last css   ---- otherpagecss  */
+
+
+
+
+
+
+.otherpagecss {
+    color: #000;
+    /* overflow-x: hidden; */
+    height: 100%;
+    /* background: #00BCD4; */
+    /* background-image: url("/assets/images/media/common-images-new/remaning-course-page/newbackgraund-image.jpg");
+    background: url("./assets/images/media/common-images-new/remaning-course-page/newbackgraund-image.jpg"); */
+    /* background-image: url("../images/media/common-images-new/remaning-course-page/newbackgraund-image.jpg"); */
+    background-repeat: no-repeat;
+    background-size: 100% 100%
+}
+
+.card {
+    padding: 30px 40px;
+
+    margin-bottom: 60px;
+    border: none !important;
+    -webkit-box-shadow: 0 6px 12px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0 6px 12px 0 rgba(0, 0, 0, 0.2)
+}
+
+.blue-text {
+    color: orangered
+}
+
+.form-control-label {
+    margin-bottom: 0
+}
+
+input,
+textarea,
+button {
+    padding: 8px 15px;
+    border-radius: 5px !important;
+    margin: 5px 0px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    font-size: 18px !important;
+    font-weight: 300
+}
+
+input:focus,
+textarea:focus {
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+    border: 1px solid #00BCD4;
+    outline-width: 0;
+    font-weight: 400
+}

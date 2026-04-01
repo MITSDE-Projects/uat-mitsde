@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html >
+  <head>
+    <meta charset="UTF-8">
+    <title>Reveal Form Fields as Needed with CSS :checked</title>
+    
+    
+    <link rel="stylesheet" href="css/normalize.css">
+
+    
+        <link rel="stylesheet" href="css/style.css">
+
+    
+    
+    
+    
+  </head>
+
+  <body>
+
+    <form method="post" action="#">
+  
+  <h4>Which do you like more?</h4>
+  <div>
+    <div>
+      <table width="100%" border="1">
+        <tr>
+    <td width="49%"><input type="radio" name="choice-animals" id="choice-animals-dogs" required>
+      <label for="choice-animals-dogs">I like dogs more</label></td>
+    <td width="46%"><span class="reveal-if-active">Good call. What's the name of your fav
+      orite dog?    
+      <input type="text" id="which-dog" name="which-dog" class="require-if-active" data-require-pair="#choice-animals-dogs">
+    </span></td>
+    <td width="5%">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+
+      <div class="reveal-if-active"></div>
+    </div>
+    
+    <div>
+      <input type="radio" name="choice-animals" id="choice-animals-cats">
+      <label for="choice-animals-cats">I like cats more</label>
+    
+      <div class="reveal-if-active">
+        <label for="which-cat">Why? Cats are weird. Respond.</label>
+        <input type="text" id="which-cat" name="which-cat" class="require-if-active" data-require-pair="#choice-animals-cats">
+      </div>
+    </div>
+  </div>
+  
+  <h4>Would you like a dollar?</h4>
+  <div>
+    <input type="checkbox" name="choice-dollar" id="choice-dollar">
+    <label for="choice-dollar">Sure.</label>
+
+    <div class="reveal-if-active">
+      Wouldn't we all.
+    </div>
+  </div>
+  
+  <div>
+    <input type="submit" value="Submit">
+  </div>
+      
+</form>
+    <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+
+        <script src="js/index.js"></script>
+
+    
+    
+  </body>
+</html>

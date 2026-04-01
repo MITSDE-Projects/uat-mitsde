@@ -1,0 +1,68 @@
+/* * Prefixed by https://autoprefixer.github.io * PostCSS: v8.4.14, * Autoprefixer: v10.4.7 * Browsers: last 4 version */
+.container-fluid {
+    color: #000;
+    overflow-x: hidden;
+    height: 100%;
+   
+    /* background-image: url("../images/common-images/form-bg.jpg"); */
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    /* background-image: linear-gradient( 135deg, #FCCF31 10%, #F55555 100%); */
+    background-image: linear-gradient(120deg, #cfbfbf 0%, #f89443 100%);
+    /* background-color: #ffff; */
+
+    
+}
+
+
+.card {
+    padding: 30px 40px;
+    
+    
+    margin-bottom: 60px;
+    border: none !important;
+    -webkit-box-shadow: 0 6px 12px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0 6px 12px 0 rgba(0, 0, 0, 0.2)
+}
+#card1 {
+    padding: 30px 40px;
+
+   
+    width: 65%;
+    
+    
+    margin-bottom: 60px;
+    border: none !important;
+    -webkit-box-shadow: 0 6px 12px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0 6px 12px 0 rgba(0, 0, 0, 0.2);
+    margin: 0 auto;
+}
+
+.blue-text {
+    color: orangered
+}
+
+.form-control-label {
+    margin-bottom: 0
+}
+
+/* input,
+textarea {
+    padding: 8px 15px;
+    border-radius: 5px !important;
+    margin: 5px 0px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    font-size: 18px !important;
+    font-weight: 300
+}
+
+input:focus,
+textarea:focus {
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+    border: 1px solid #00BCD4;
+    outline-width: 0;
+    font-weight: 400
+} */

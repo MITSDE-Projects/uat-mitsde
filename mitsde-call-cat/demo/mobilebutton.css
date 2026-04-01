@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+@media ( max-width: 1500px) {
+        .hidden-destop {
+          display: none;
+        }
+}
+
+@media ( max-width: 767px) {
+  .hidden-mobile {
+    display: none;
+  }
+}
+
+@media (max-width: 1500px) {
+  .show-destop {
+    display: inline;
+  }
+}
+@media (max-width: 767px) {
+    .show-mobile {
+      display: inline;
+    }
+
+.button-bar {
+  padding: 2px;
+  position: sticky;
+  bottom: 0;
+  z-index: 99999;
+
+}
+
+.button2 {
+  display: block;
+  padding: 12px;
+  width: 100%;
+  text-align: center;
+  bottom:0;
+  z-index: 99999;
+}
+.flex {
+  display: flex;
+  justify-content: center;
+  background-color:white;
+  z-index: 99999;
+}
+
+.flex-item + .flex-item {
+  margin-left: 5px;
+  z-index: 99999;
+}
+
+
+      }

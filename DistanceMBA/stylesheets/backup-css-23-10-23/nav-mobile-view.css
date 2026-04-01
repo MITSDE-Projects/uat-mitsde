@@ -1,0 +1,50 @@
+/* Add the media query for screens with a width of 768px or less */
+@media screen and (max-width: 768px) { 
+    
+    
+    #fixdemotest{
+        overflow-y:scroll;
+        height: 270px;
+        margin-bottom: 150px;
+        /* bottom: 50px; */
+        
+        
+
+    }
+
+    
+    
+    #mainnav-mobi {
+        display: block;
+        margin: 0 auto;
+        width: 100%;
+        position: fixed;
+        background-color: #222222;
+        z-index: 1000;
+        margin-top: -92px;
+    
+    & li {
+        overflow-y: scroll;
+        max-height: 270px; /* Adjust the maximum height as needed */
+        /* bottom: 15px; */
+        
+        
+    }
+    /* Apply styles to all <li> tags */ 
+    
+
+    /* Apply custom styles to the last two <li> elements with the "scrollable" class */
+    li.scrollable {
+        overflow-y: scroll;
+        max-height: 270px; /* Adjust the maximum height as needed */
+        /* bottom: 20px; */
+        
+    }
+}
+}
+
+@media screen and (min-width: 769px) and (max-width: 1400px){
+    #mainnav{
+        margin:-8px;
+    }
+}

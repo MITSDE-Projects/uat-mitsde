@@ -1,0 +1,406 @@
+@media screen and (max-width: 960px) and (min-width: 320px) {
+    .formdiv {  width:100%!important; }
+    
+     
+   
+     
+     input {
+    border: 1px solid  #848576; 
+    -webkit-box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1); 
+    -moz-box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1); 
+    box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1); 
+    padding: 15px;
+    background: rgba(255,255,255,255);
+    margin: 0 0 10px 0;
+    width:100% !important; 
+}
+input[type=text]:focus {
+    background-color: #f2f2f2;
+    width:100%;
+}
+select {
+    border: 1px solid  #848576;
+    -webkit-box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1); 
+    -moz-box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1); 
+    box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1); 
+    padding: 15px;
+    background: rgba(255,255,255,0.5);
+    margin: 0 0 10px 0;
+}
+input[type=text]:focus {
+    background-color: lightblue;
+}
+
+input[type=text]  { width:100%; margin-top:10px;
+     
+}
+     
+#des-apt{
+  text-align:justify;
+  font-size:14px;
+  position:relative;
+  top:28px;
+  font-weight:bold;     
+}
+  
+#termcondi{
+    position:relative;
+    top:0px;
+}       
+#fogotpass{
+        margin-left: -200px;
+}   
+#img-logo-id{
+   width:350px !important;    
+}     
+     
+     
+}
+
+
+
+
+@media screen and (max-width: 1920px) and (min-width: 1024px) {	
+		
+		.wrapper-640,.container
+		{
+			background: #fff;
+			width:1170px;
+		}
+        .formdiv
+        {
+            width:49%;
+            padding-left:3%;
+            padding-right:1%;
+            padding-top:0px;
+            padding-bottom:20px;
+            position: relative;
+            float: left;
+            display: block;
+	        margin-bottom: 10px;
+					
+
+        }
+        .formdiv1
+        {
+            float: left;
+            /*background: yellow;*/
+        }
+        .formdiv2
+        {
+            float: right;
+            /*background: red;*/
+        }
+
+        .formdiv1:after {
+        content: "";
+  //background-color: #000;
+  position: absolute;
+  width: 1px;
+  height: 80%;
+  top: 5%;
+  left: 105%;
+  display: block;
+}
+
+
+
+
+#label-confirm-password{
+    position:relative;
+     left:74%;
+     top:0px;
+     font-size:15px; 
+}
+
+#label-password{
+  position:relative;
+  left:85%;
+  top:1px;
+  font-size:15px;   
+    
+}
+#label-contact{
+ position:relative;
+ left:77%;
+ top:0px;
+ font-size:15px;     
+}
+#label-email{
+  position:relative;
+  left:90%;
+  top:10px;
+  font-size:15px;     
+    
+}
+#div-terms-cond{
+width: 100%;
+position: relative;
+left: 52px;
+top: -18px;
+font-size: 12px;      
+    
+}
+#checkbox-pos{
+  position:relative;
+  right:-30px;
+  top:1px;
+  font-size:15px;
+  width:3%;    
+}
+#des-apt{
+  text-align:center;
+  font-size:14px;
+  position:relative;
+  top:28px;
+  font-weight:bold;     
+}
+        .formcontainer
+        {
+            /*background: red;*/
+            margin: auto;
+            display: block;
+            height: 100%;
+        }
+		
+       .formcontainer input
+       {
+        width: 100%;
+		border-radius:5px;
+       }
+        .formcontainer select
+       {
+        width: 100%;
+		border-radius:5px;
+       }
+      .mheader
+      {
+        box-shadow:none;
+      }
+      .errorslogin
+      {
+        padding: 10px;
+        position: relative;
+        display: block;
+        width: 100%;
+        color: red;
+        text-align: left;
+      }
+	  .formcontainer input[type=submit]
+	  {
+		width: 99px;
+		margin-left: 40%;
+		font-size:14px;
+		background: #606062;
+		color:#fff;
+           
+              
+                position:relative;
+                top:-10px;
+                border-radius:5px !important;  
+	  }
+
+     #form-reg label {
+      position:relative;
+      left:92%
+      top:10px;  
+
+    }
+    
+    input {
+    border: 1px solid  #848576; 
+    -webkit-box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1); 
+    -moz-box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1); 
+    box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1); 
+    padding: 15px;
+    background: rgba(255,255,255,255);
+    margin: 0 0 10px 0;
+}
+input[type=text]:focus {
+    background-color: #f2f2f2;
+}
+select {
+    border: 1px solid  #848576;
+    -webkit-box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1); 
+    -moz-box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1); 
+    box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1); 
+    padding: 15px;
+    background: rgba(255,255,255,0.5);
+    margin: 0 0 10px 0;
+}
+input[type=text]:focus {
+    background-color: lightblue;
+}
+
+input[type=text]  { width:100%; margin-top:10px;
+     
+}
+    
+    
+    
+    
+}
+
+
+.navbar-default{
+    background-color:transparent !important;
+}
+
+.reveal-if-active {
+  opacity: 0;
+  max-height: 0;
+  overflow: hidden;
+  font-size: 16px;
+  -webkit-transform: scale(0.8);
+          transform: scale(0.8);
+  -webkit-transition: 0.5s;
+  transition: 0.5s; 
+}
+.reveal-if-active label {
+  display: block;
+  margin: 0 0 3px 0; font-size:12px;
+}
+.reveal-if-active input[type=text]
+				  input[type=select] {
+  width: 100%;
+}
+input[type="radio"]:checked ~ .reveal-if-active, input[type="checkbox"]:checked ~ .reveal-if-active {
+  opacity: 1;
+  max-height: 100px;
+  padding: 10px 20px;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+  overflow: visible;
+}
+
+body {
+	background-attachment:fixed;
+	background-position:50% 50%;
+	background-size:cover;
+	margin:0;
+	padding:0; font-family: 'open_sansregular', sans-serif; font-size:13px;
+}
+.bg-pic { //background-image:url("../img/bg.jpg"); }
+
+
+.wrapper {
+	margin:0 auto;
+	outline:none;
+	padding:40px 15px;
+	-webkit-box-sizing:content-box;
+	-moz-box-sizing:content-box;
+	box-sizing:content-box;
+}
+
+.content { padding:15px;
+}
+
+
+.wrapper-640 { margin:0 auto; max-width:1100px;}
+
+.minput{width:40%; margin-right:32px; float:left; height:30px;}
+.mminput{width:20%; margin-right:22px; float:left;}
+.binput{width:50%; margin-right:22px; float:left;}
+.ninput{width:30%; margin-right:32px; float:none;}
+
+.mj-forms {
+	background-color:#f9fafd;
+	-webkit-border-radius:3px;
+	-moz-border-radius:3px;
+	-o-border-radius:3px;
+	border-radius:3px;
+	-webkit-box-shadow:0 2px 5px rgba(0,0,0,.6);
+	-moz-box-shadow:0 2px 5px rgba(0,0,0,.6);
+	-o-box-shadow:0 2px 5px rgba(0,0,0,.6);
+	box-shadow:0 2px 5px rgba(0,0,0,.6);
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	box-sizing:border-box;
+	color:rgba(0,0,0,.54);
+	line-height:1;
+	position:relative; padding:10px; height:900px;
+}
+.j-forms {
+	height: auto;
+}
+
+.j-forms .header {
+	background-color:#E04C46;
+	border-top:1px solid #848576;
+	-webkit-border-radius:3px 3px 0 0;
+	-moz-border-radius:3px 3px 0 0;
+	-o-border-radius:3px 3px 0 0;
+	border-radius:3px 3px 0 0;
+	-webkit-box-shadow:0 6px 3px -3px rgba(63,81,181,.5);
+	-moz-box-shadow:0 6px 3px -3px rgba(63,81,181,.5);
+	-o-box-shadow:0 6px 3px -3px rgba(63,81,181,.5);
+	box-shadow:0 6px 3px -3px rgba(63,81,181,.5);
+	display:block;
+	position:relative;
+}
+.mheader {
+	//background-color: #f38040 ;
+	//border-top:1px solid #848576;
+	-webkit-border-radius:3px 3px 0 0;
+	-moz-border-radius:3px 3px 0 0;
+	-o-border-radius:3px 3px 0 0;
+	border-radius:3px 3px 0 0;
+        display:block;
+	position:relative;
+        
+}
+
+label{
+	margin:0 0 3px 0;
+	padding:0px;
+	display:block;
+	font-weight: bold; margin-bottom:15px;
+}
+
+
+/* Dividers
+=============================== */
+.divider,
+.divider-text { border-top:1px solid #848576 ; height:0; margin-top:7px; margin-bottom:10px;  }
+
+.divider-text { text-align:center; }
+
+.divider-text span {
+	border:1px solid #848576;
+	-webkit-border-radius:3px;
+	-moz-border-radius:3px;
+	-o-border-radius:3px;
+	border-radius:3px;
+	background-color:#f9fafd;
+	color:#E04C46;
+	font-size:16px;
+	padding:2px 15px;
+	position:relative;
+	top:-9px;
+	white-space:nowrap;
+}
+

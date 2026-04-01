@@ -1,0 +1,227 @@
+.mit-text1{
+    text-align: justify;
+    margin-top: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+    text-overflow: ellipsis;
+    
+}
+#check{
+    display: none;
+}
+.content{
+    display: none;
+    text-align: justify;
+    margin-top: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+    transition: 0.5s linear;
+}
+label{
+    display: inline-block;
+    margin-top: 5px;
+    color: black;
+    text-decoration: underline;
+    cursor: pointer;
+    font-weight: 600;
+    
+}
+label:hover{
+    color: orangered;
+}
+#check:checked ~ .content{
+    display: block;
+    /* text-align: justify; */
+}
+#check:checked ~ label{
+    visibility: hidden;
+}
+#check:checked ~ label:after{
+    content:"Show Less";
+    display: block;
+    visibility: visible;
+}
+
+
+@media (max-width: 767px) {
+   
+    
+    #newimagesmobi {
+        background: url(../images/slides/date2-mobi.jpg);
+        /* height: auto; */
+        height: 100%;
+        width: 100%;
+        background-size: cover;
+        background-repeat: no-repeat; 
+        
+    }
+    .test-images img{
+        display: none;
+
+    }
+    
+}
+/* @media screen and (min-width: 769px) and (max-width: 1200px){
+   
+} */
+
+
+.hero-test{
+    & p{
+        color: #fff;
+
+    }
+    & a{
+        color: #fff;
+
+    }
+    a:hover{
+        color: #f47521;
+    }
+}
+
+
+
+
+/* .hero-test p, a{
+    color: #fff;
+
+}
+.hero-test a:hover{
+    color: #f47521;
+
+} */
+
+
+.parallax-test1 { background-image: url(../images/courseimages/PGDM/PGDM-EMBA-Banner\ \(01\).jpg); 
+    /*background-repeat :round;*/
+}
+.parallax-test2 { background-image: url(../images/courseimages/PGDM/PGDM-\(Exe\)-+-EMBA-Banner.jpg); 
+    /*background-repeat :round;*/
+}
+
+
+
+
+
+/************************************************************************************************************************/
+
+
+
+/*  HOME PAGE REMOVE H1 TAG */
+
+.removeh1tag{
+    font-size: 20px;
+    color: #333333;
+    font-weight: 600;
+}
+
+
+
+/*  HOME PAGE REMOVE H1 TAG */
+
+/* rightnavbar */
+
+/* rightnavbar */
+
+.removelineheight li{
+    line-height: 25px;
+    /* background-color: red; */
+}
+.removehover {
+    /* Add your default styles for the ul element here */
+    /* For example, set the text color to black and background color to white: */
+    color: black;
+    cursor: default;
+    /* background-color: white; */
+    /* Other default styles go here */
+}
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+/* .kushal123 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+
+
+/* .toggleBtn3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 20px;
+    
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+} */
+  
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .hero a{
+    color: #fff;
+
+}
+.hero a:hover{
+    color: #f47521;
+} */
+
+/* @media (max-width: 480px) {
+   
+    .kushal{
+        width: 100%;
+    }
+   
+   
+    .kushal{
+        height: auto;
+    }
+    .kushal img{
+        background: url(../images/slides/tax-saving-mobile.jpg);
+        background: url(/images/slides/tax-saving-mobile.jpg);
+        height: auto;
+        width: 100%;
+    }
+    
+} */

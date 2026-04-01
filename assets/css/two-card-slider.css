@@ -1,0 +1,74 @@
+.slider-container {
+    position: relative;
+    width: 100%;
+    margin: auto;
+    overflow: hidden;
+    padding: 20px 0;
+}
+
+.slider .item {
+    padding: 10px;
+}
+
+
+.cus-card img {
+    width: 100%;
+    /* Ensures the image adapts to the card width */
+    height: auto;
+    /* Maintains aspect ratio */
+    /* border-radius: 80%; */
+    /* Makes the entire image circular */
+    border: 3px solid #f47420;
+    /* Adds a bold blue border */
+    padding: 3px;
+    /* Space between the image and border */
+    object-fit: cover;
+    /* Ensures the image fits well inside the circular shape */
+    display: block;
+    /* Removes any extra spacing */
+    margin: 0 auto;
+    /* Centers the image */
+}
+
+
+
+
+.prev,
+.next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(0, 0, 0, 0.6);
+    color: white;
+    border: none;
+    padding: 12px;
+    cursor: pointer;
+    z-index: 1000;
+    border-radius: 50%;
+    width: 45px;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 0.3s ease-in-out;
+}
+
+.prev:hover,
+.next:hover {
+    background: #f47420;
+    transform: translateY(-50%) scale(1.1);
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+.prev {
+    left: 10px;
+}
+
+.next {
+    right: 10px;
+}
+
+.prev i,
+.next i {
+    font-size: 20px;
+}

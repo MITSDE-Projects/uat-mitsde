@@ -1,0 +1,671 @@
+<?php
+ob_start();
+require 'class.phpmailer.php'; 
+require 'class.smtp.php'; 
+?>
+
+<?php
+if(isset($_GET['SourcePath']) && $_GET['SourcePath']!=''){
+    
+$_SESSION['SourcePath'] = $_GET['SourcePath'];  
+    
+$get = $_SESSION['SourcePath'];
+
+}
+
+if($get=="Agency-Precizen")
+{
+$vender = "2$36$140"; // Precizen
+}
+
+if($get=="Agency-Twigz" || $get=="Agency-Twigz1" || $get=="Agency-Twigz2" || $get=="Agency-Twigz3" || $get=="Agency-Twigz4" || $get=="Agency-Twigz5")
+{
+$vender ="2$36$152";  // Twigz
+}
+if($get == "Agency-Collegedunia")
+{
+$vender = "2$36$153"; // College Dunia
+}
+
+$DS_Google = @substr($get, @strpos($get, "-","-") + 0,16); 
+if($DS_Google=="Agency-Google-DS")
+{
+$vender="2$36$156";  // DS
+}
+$DS_FB = @substr($get, @strpos($get, "-","-") + 0,12);
+if($DS_FB=="Agency-FB-DS")
+{
+$vender = "2$36$157";  // DS
+}
+
+
+if(!isset($_GET['SourcePath']) && $_GET['SourcePath']=='' && $_SESSION['SourcePath']=='') {
+    
+    $vender = '2$35$137'; 
+    $get = 'Registration Form';
+}
+
+
+?>
+
+
+
+<?
+//echo '<pre>'; print_r($_SERVER); exit;
+if(isset($_GET['source']) && $_GET['source']!="")
+{
+    session_start(); 
+    $_SESSION['src'] = $_GET['source'];
+    
+}
+
+
+if(!isset($_SESSION['src']) && $_SESSION['src']=="") {
+    
+    $_SESSION['src']='oth';
+    
+}
+
+if(!isset($_GET['source'])){
+
+    $_SESSION['src']='oth';
+    
+}
+
+
+if($_GET['source']==""){
+
+    $_SESSION['src']='oth';
+    
+}
+
+
+ //echo $_SESSION['src']; exit;
+
+require('includes/config.php');
+include_once("../php/commonfunctions.php");
+//if logged in redirect to members page
+if( $user->is_logged_in() ){ header('Location: ../page1_form.php'); }
+
+//if form has been submitted process it
+if(isset($_POST['register'])){
+
+
+echo "</br>IP-->".$IP=$_SERVER['REMOTE_ADDR'];
+	//very basic validation
+	if(strlen($_POST['email']) < 5)
+	{
+		$error[] = 'Email is too short.';
+	} else {
+		$stmt = $db->prepare('SELECT email FROM student WHERE email = :email');
+		$stmt->execute(array(':email' => $_POST['email']));
+		$row = $stmt->fetch(PDO::FETCH_ASSOC);
+
+		if(!empty($row['email']))
+		{
+			//$error[] = 'Email provided is already in use.';
+		}
+
+	}
+
+	
+	if(strlen($_POST['phonenumber']) > 15){
+		$error[] = 'Invalid contact number.';
+	}
+	
+	if(strlen($_POST['password']) < 5){
+		$error[] = 'Password is too short.';
+	}
+
+	if(strlen($_POST['passwordConfirm']) < 5){
+		$error[] = 'Confirm password is too short.';
+	}
+
+	if($_POST['password'] != $_POST['passwordConfirm']){
+		$error[] = 'Passwords do not match.';
+	}
+
+	//email validation
+	if(!filter_var($_POST['email'], FILTER_VALIDATE_EMAIL)){
+	    $error[] = 'Please enter a valid email address';
+	} else {
+		$stmt = $db->prepare('SELECT email FROM student WHERE email = :email');
+		$stmt->execute(array(':email' => $_POST['email']));
+		$row = $stmt->fetch(PDO::FETCH_ASSOC);
+
+		if(!empty($row['email'])){
+			$error[] = 'Email provided is already in use.';
+		}
+
+	}
+
+
+	//if no errors have been created carry on
+	if(!isset($error)){
+
+		//hash the password
+		$hashedpassword = $user->password_hash($_POST['password'], PASSWORD_BCRYPT);
+
+		//create the activasion code
+		$activasion = md5(uniqid(rand(),true));
+
+		try {
+ 	//insert into database with a prepared statement
+			$stmt = $db->prepare('INSERT INTO student (password,email,active,phonenumber,src,name,lastname,formstatus,bloodgroup) VALUES (:password, :email, :active, :phonenumber, :src, :name, :lastname,"registered", :bloodgroup)');
+			
+//echo $stmt; exit;
+
+if($_SESSION['src']=="") { $_SESSION['src']='oth'; }
+
+$stmt->execute(array(
+				':password' => $hashedpassword,
+				':email' => $_POST['email'],
+				':active' => $activasion,
+                ':phonenumber' => $_POST['phonenumber'],
+                ':src' => $_SESSION['src'], 
+				':name' => $_POST['name'],
+			    ':lastname' => $_POST['lastname'],
+			    ':bloodgroup' => $IP,
+				
+			));
+///echo $stmt->insert_id; exit;
+
+
+                     //   echo  $stmt; exit;
+
+
+			$id = $db->lastInsertId('memberID');
+			$email =  $_POST['email'];
+			//send email
+			
+
+
+			
+			
+		   $mail  = new PHPMailer();
+           ob_start(); //Turn on output buffering
+           $email =  $_POST['email'];
+?>        
+                
+                 <p></p><p>Username : <?=$_POST['email'];?></p><p>Password:<?=$_POST['password'];?></p><p>To activate your account, please click <a href='https://mitsde.com/apply/register/activatedat.php?x=<?=$id?>&xz=<?=$_POST['phonenumber'];?>&y=<?=$activasion;?>&src=<?=$_SESSION['src']?>'>Here</a></p>
+			     <p>Regards,<br>Team MIT SDE</p>
+
+                 <?php
+                   $body  = ob_get_clean();
+                         
+                         
+                         //$mail->Mailer = "mail";
+                         // $mail->IsSMTP(); // telling the class to use SMTP
+                          $mail->IsMail(); // telling the class to use SMTP
+                          $mail->SMTPDebug  = 2;                     // enables SMTP debug information (for testing) // 1 = errors and messages
+                        // $mail->SMTPSecure = "ssl";                 // sets the prefix to the servier                                          // 2 = messages only
+                          $mail->SMTPAuth   = true;                  // enable SMTP authentication
+                         $mail->SMTPSecure = "ssl";                 // sets the prefix to the servier
+                         $mail->Host       = "smtp.gmail.com";      // sets GMAIL as the SMTP server
+                         $mail->Port       = 465;                   // set the SMTP port for the GMAIL
+                         $mail->Username   = "no-replay@mitsde.com";  // GMAIL username
+                         $mail->Password   = "No@mitsde";            // GMAIL password           // GMAIL password
+                        
+                        /*$mail->IsSMTP(); // telling the class to use SMTP
+                        $mail->IsSMTP(); // telling the class to use SMTP
+                          //$mail->IsMail(); // telling the class to use SMTP
+                          $mail->SMTPDebug  = 2;                     // enables SMTP debug information (for testing) // 1 = errors and messages
+                        // $mail->SMTPSecure = "ssl";                 // sets the prefix to the servier                                          // 2 = messages only
+                          $mail->SMTPAuth   = true;                  // enable SMTP authentication
+                        $mail->SMTPSecure = "tls";                 // sets the prefix to the servier
+                        $mail->Host       = "email-smtp.us-east-1.amazonaws.com";      // sets GMAIL as the SMTP server
+                        $mail->Port       = 2587;                   // set the SMTP port for the GMAIL
+                        $mail->Username   = "AKIA5OQ6466FZWEYNNVJ";  // GMAIL username
+                        $mail->Password   = "BB8uQenn6fCEjW791mFxeUgQ39xwI/9PEBDPz7uasG58";  */          // GMAIL password
+                
+                
+                       
+                        $mail->SetFrom('admissions@mitsde.com', 'MIT School of Distance Education');
+                       
+                        $mail->AddReplyTo('no-reply@mitsde.com', 'No-Reply');
+                       
+                        $mail->Subject = "MIT SDE: Registration 2023 / 24";
+                       
+                        $mail->AltBody = "To view the message, please use an HTML compatible email viewer!"; // optional, comment out and test
+                       
+                        $mail->MsgHTML($body);
+                       
+                          $address = $email;
+                          $mail->AddAddress($address);
+                          $mail->AddBCC('jayjeet.deshmukh@mitsde.com');
+                          $mail->AddBCC('abhishek.kalyana@mitsde.com');
+                          $mail->AddBCC('umesh.ghatale@mitsde.com');
+                          $mail->AddBCC('pravin.patare@mitsde.com');
+                          $mail->AddBCC('william.murmu@mitsde.com');
+                          $mail->AddBCC('shivraj.pachawadkar@mitsde.com');
+                          $mail->AddBCC('sanjay.gaikwad@mitsde.com');
+                        
+                      
+                        
+                    
+                       
+                        $mail->Send();
+
+			//$url="https://www.mitsde.com/register/activatedat.php?x=".$id."&y=".$activasion."&xz=".$_POST['phonenumber'];
+			//$shorturl=BitUrlGen($url);
+			
+		//	$msg="Dear candidate, request you to activate your account, please click on ".$url." - sent on ".$_POST['email']." Regards, Team MIT SDE";
+	    //	$msg="Your registration for DAT application is now complete. Please check your registered email id or click here ".$url." for details. Regards, Team MIT SDE";
+		//	GetSMSUrl($msg,$_POST['phonenumber']);
+			
+			
+		
+		?>
+		<p></p><p>Username : <?=$_POST['email'];?></p><p>Password:<?=$_POST['password'];?></p><p>To activate your account, please click <a href='#'>Here</a></p>
+			     <p>Regards,<br>Team MIT SDE</p>
+		<?
+		
+		
+			
+		//	header('Location:https://www.mitsde.com/apply/register/index.php?action=joined');
+		header('Location:https://www.mitsde.com/thank-you-for-registration');
+	
+	
+			//exit;
+			//redirect to index page
+
+		//else catch the exception and show the error.
+		} catch(PDOException $e) {
+		    $error[] = $e->getMessage();
+		}
+
+	}
+
+}
+
+
+if(isset($_POST['login']))
+{
+	$email = $_POST['email'];
+	$password = $_POST['password'];
+	
+	if(isset($email) && $email!=="" && isset($password) && $password!=="")
+	{
+
+            
+
+		$stmt = $db->prepare("SELECT email,lastPage,phonenumber FROM student WHERE email = :email");
+               	$stmt->execute(array(':email' => $email));
+		
+		$i=0;
+		while($row = $stmt->fetch(PDO::FETCH_ASSOC))
+                 {
+			//echo "IN WHILE"; 
+                        //echo '<pre>'; print_r($row); exit;
+                        //exit;
+                     
+
+
+                      $i++;
+			if($row['email']==$email)
+			{
+				
+				$page = $row['lastPage'];
+				$_SESSION['email'] = $email;
+				$_SESSION['phonenumber'] = $row['phonenumber'];
+				$user->login($email,$password);
+					
+					 if(!empty($page))
+					 {
+						header('Location: ../'.$page);
+					 }
+					 else
+					 {
+						 header('Location: ../page1_form.php');
+					 }
+					 
+					 
+				}
+				
+				
+				
+				else
+				{
+					unset($_SESSION['email']);
+                                
+		$error[] = 'Wrong username or password or your account has not been activated.';			
+				}
+		}
+		if($i==0)
+		{
+			unset($_SESSION['email']);
+                          
+		$error[] = 'Invalid username or password.';		
+		}
+	}
+     else
+	 {
+		unset($_SESSION['email']);
+                
+		$error[] = 'Invalid username or password.';		
+	 }	
+}
+	
+	//end if submit
+//include header template
+//require('layout/header.php'); 
+
+?>
+<!DOCTYPE HTML>
+<html>
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Admissions 2023 / 24</title>
+	<!--<link href="../css/style.css" rel="stylesheet" />-->
+	<link rel="stylesheet" href="style/main.css"> 
+	<link rel="stylesheet" href="style/bootstrap.css"> 
+	 <link rel="stylesheet" href="style/style_index.css"> 
+	 
+	<script src="../js/common.js"></script>
+    <script src="js/jquery-1.10.2.min.js"></script>
+	<script src="js/captch_vali.js"></script>
+    
+<!-- Form Validation code---------->
+
+<script type="text/javascript">
+
+var ck_name = /^[A-Za-z0-9 ]{3,100}$/;
+var ck_email = /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/;
+var ck_username = /^[A-Za-z0-9_]{1,20}$/;
+var ck_password =  /^[A-Za-z0-9!@#$%^&*()_]{6,20}$/;
+var ck_mob =  /^[\s()+-]*([0-9][\s()+-]*){10}$/;
+
+
+function validate1(menuContactform)
+{
+//alert('hi');
+
+ var name = menuContactform.name.value;
+ var lastname = menuContactform.lastname.value;
+ var email = menuContactform.email.value;
+ var phonenumber = menuContactform.phonenumber.value;
+
+ var errors = [];
+ 
+ if (!ck_name.test(name)) {
+  errors[errors.length] = "Please Enter Name.";
+ }
+ 
+ if (!ck_name.test(lastname)) {
+  errors[errors.length] = "Please Enter Your last name";
+ }
+  
+ if (!ck_email.test(email)) {
+  errors[errors.length] = "You must enter a valid email address.";
+ }
+ if (!ck_mob.test(phonenumber)) {
+  errors[errors.length] = "You must enter a valid Mobile.";
+ }
+
+ 
+ 
+ 
+ if (errors.length > 0) {
+  reportErrors(errors);
+  return false;
+ }
+ 
+ return true;
+}
+
+function reportErrors(errors){
+ var msg = "Please Enter Valide Data...\n";
+ for (var i = 0; i<errors.length; i++) {
+  var numError = i + 1;
+  msg += "\n" + numError + ". " + errors[i];
+ }
+ alert(msg);
+}
+</script>
+
+
+
+<style>
+    button {
+  border: 1px solid #0066cc;
+  background-color: #0099cc;
+  color: #ffffff;
+  padding: 5px 10px;
+}
+
+button:hover {
+  border: 1px solid #0099cc;
+  background-color: #00aacc;
+  color: #ffffff;
+  padding: 5px 10px;
+}
+
+button:disabled,
+button[disabled]{
+  border: 1px solid #999999;
+  background-color: #cccccc;
+  color: #666666;
+  cursor: no-drop
+}
+
+</style>
+<script>
+var code;
+function createCaptcha() {
+  //clear the contents of captcha div first 
+  document.getElementById('captcha').innerHTML = "";
+  
+  var charsArray =
+  "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ@!#$%^&*";
+  var lengthOtp = 6;
+  var captcha = [];
+  for (var i = 0; i < lengthOtp; i++) {
+    //below code will not allow Repetition of Characters
+    var index = Math.floor(Math.random() * charsArray.length + 1); //get the next character from the array
+    if (captcha.indexOf(charsArray[index]) == -1)
+      captcha.push(charsArray[index]);
+    else i--;
+  }
+  var canv = document.createElement("canvas");
+  canv.id = "captcha";
+  canv.width = 100;
+  canv.height = 50;
+  var ctx = canv.getContext("2d");
+  ctx.font = "25px Georgia";
+  ctx.strokeText(captcha.join(""), 0, 30);
+  //storing captcha so that can validate you can save it somewhere else according to your specific requirements
+  code = captcha.join("");
+  document.getElementById("captcha").appendChild(canv); // adds the canvas to the body element
+}
+function validateCaptcha() {
+  event.preventDefault();
+  debugger
+  if (document.getElementById("cpatchaTextBox").value == code) {
+    //alert("Valid Captcha")
+    document.getElementById('register').disabled=false;
+  }else{
+    alert("Invalid Captcha. try Again");
+    createCaptcha();
+  }
+}
+
+</script>
+
+
+
+<link rel="canonical" href="https://www.mitsde.com/apply/register/index.php" />
+</head>
+
+<body class="bg-pic" style="margin-top:-2px;margin-bottom:8px;" onload="createCaptcha()">
+ 
+   <div class="wrapper-640" >
+	
+		<div class="mheader" style="">
+		<div class="formheading" style="margin-top:10px;">	</div>
+	    </div>
+	    
+   </div>
+
+<!-- Menu Starts-->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+
+<link href="../datcss/style.css" rel="stylesheet" type="text/css" media="all" />
+
+
+<!-- start plugins -->
+<script type="text/javascript" src="../datjs/jquery.min.js"></script>
+<script type="text/javascript" src="../datjs/bootstrap.js"></script>
+<script type="text/javascript" src="../datjs/bootstrap.min.js"></script>
+<!-- start slider -->
+<link href="../datcss/slider.css" rel="stylesheet" type="text/css" media="all" />
+<script type="text/javascript" src="../datjs/modernizr.custom.28468.js"></script>
+<script type="text/javascript" src="../datjs/jquery.cslider.js"></script>
+		
+		<!-- //Owl Carousel Assets -->
+<!----font-Awesome----->
+   	<link rel="stylesheet" href="fonts/datcss/font-awesome.min.css">
+
+
+
+<div class="container" style="clear:both;position:relative;top:-20px;">
+
+<div class="row">
+           <div class="col-md-6"><a href="https://www.mitsde.com/" target="_blank"><img src="https://www.mitsde.com/apply/images/logo-1.png" width=200 height=80 style="float:left;"/></a><br/>
+		<p style="margin-top:-10px;  margin-bottom:15px;font-size:14px;clear:both;font-family:'Roboto', sans-serif;">Approved by A I C T E, Govt.of India.</p></div>
+           
+           
+           <div class="col-md-6" style="margin-top:10px;">
+               <div class="col-md-3" > <a href="https://mitsde.com/ContactUs"><h4>Contact Us</h4></a></div>
+               <div class="col-md-3" ><h4>admissions@mitsde.com</h4></div>
+               
+               
+               
+           </div>
+       </div>
+      
+
+<div style="" id="des-apt"></div>
+        <div class="errorslogin">
+        <?php
+				//check for any errors
+				if(isset($error)){
+					foreach($error as $error){
+						echo '<p class="bg-danger" style="font-size:16px;">'.$error.'</p>';
+					}
+				}
+
+				//if action is joined show sucess
+                if(isset($_GET['action'])){
+					//check the action
+					switch ($_GET['action']) {
+						case 'active':
+							echo "<h4 class='bg-success'>Your account is now active you may now login.</h4>";
+							break;
+						case 'reset':
+							echo "<h4 class='bg-success'>Please check your inbox for a reset link.</h4>";
+							break;
+						case 'resetAccount':
+							echo "<h4 class='bg-success'>Password changed, you may now login.</h4>";
+							break;
+						case 'joined':
+							echo "<h4 class='bg-success'>Registration successful, please activate your account by clicking on the link emailed you (Please check junk/spam mails).</h4>";
+							break;
+					}
+                }
+				?>
+    </div>
+  
+   <div class="formcontainer">
+        <div class="formdiv formdiv1">
+      
+       <h3 style="float:right;">New User? Register</h3>
+            <br><br><br>
+           
+            <form role="form" method="post"  name="menuContactform" id="menuContactform"  novalidate="novalidate" action="" onSubmit="return validate1(this);" autocomplete="off" style="position:relative;top:10px;">
+                
+                	<input type="hidden" name="csrf_test_name" value="e678298614a47d7e40efe0ccaf02b49c" />
+					<input type="hidden" id="product_id3" name="product_id3" value="0" />
+					<input type="hidden" id="product_name3" name="product_name3" value="" />
+				    <input type="hidden" name="request_type3" value="Enquiry" />
+                
+                
+               <div class="row">
+                <div class="col-sm-6">
+                    <label style="left: 66%; padding-top: 10px;" id="label-email">First Name <sanp style="color:red;">*</sanp></label>
+			        <input name="name" type="text" id="name" style="font-size: 14px;" required  placeholder="First Name" value="<?=$_POST['name']?>">
+                </div>
+                <div class="col-sm-6">
+                    <label style="left: 66%;" id="label-email">Last Name <sanp style="color:red;">*</sanp></label>
+			        <input name="lastname" type="text" id="lastname" style="font-size: 14px;" required  placeholder="Last Name" value="<?=$_POST['lastname']?>">
+                </div>
+             </div>
+                
+			
+                 <label style="" id="label-email">Email <sanp style="color:red;">*</sanp></label>
+			<input name="email" type="email" id="email" style="margin-top:0px;font-size: 14px;" required  placeholder="Email Address" value="<?=$_POST['email']?>">
+             <label style="" id="label-contact">Contact Number <sanp style="color:red;">*</sanp></label>
+			 <input name="phonenumber" type="text" id="phonenumber" style="margin-top:-8px;font-size: 14px;" required  placeholder="Contact Number" maxlength="15" minlength="15" value="<?=$_POST['phonenumber']?>" onkeypress="return isNumberKey(event);">
+			
+			 <input type="hidden" name="vender" value="<?=$get?>">
+			 <input type="hidden" name="SourcePath" value="<?=$vender?>">
+	          <input name="pagename" type="hidden" value="ApplyNow"  />
+
+             <label style="" id="label-password">Password <sanp style="color:red;">*</sanp> </label>
+			 			 
+			  <input name="password" type="password" id="password" style="margin-top:-8px;font-size: 14px;"  value=""  required placeholder="Password">
+                <label style="" id="label-confirm-password">Confirm Password <sanp style="color:red;">*</sanp></label>
+                
+			  <input name="passwordConfirm" type="password" id="passwordConfirm" style="margin-top:-8px;font-size: 14px;"  required value=""  placeholder="Confirm Password" >
+			 <div><label id="label-password" style="left: 80%;">Enter captcha <sanp style="color:red;">*</sanp></label></div>
+			 <div class="row" >
+			    
+                <div class="col-sm-4" id="captcha" style="background-color:pink;">
+			
+			 </div>
+            <div class="col-sm-8">
+                 
+             <input type="text" placeholder="Enter Captcha" style="margin-top:0px;font-size: 14px;" onblur="validateCaptcha()" id="cpatchaTextBox"/>
+             </div> 
+             </div>
+             <br>
+<input type="checkbox" required style="" id="checkbox-pos"><div style="" id="div-terms-cond"><a href="#" target="_blank" id="termcondi">I authorize MIT-SDE representative to contact me,this will override DND/NDNC registry</a></div>
+              <br>
+            	<div><button type="submit" name="register" id="register" disabled="disabled" value="Register" style="background:#606062;color:#FFF;width:99px;font-size: 14px;padding:5px 10px;" onClick = "validate('menuContactform')">Register</button></div>
+            </form>
+           <div style="border-right:10px solid rgb(59,59,59);height:100%;"></div>
+            
+        </div>
+          
+        <!--<div class="formdiv formdiv2" style="border-left:2px solid #8d8d8d; padding-top:0px;">-->
+             <div class="formdiv formdiv2">
+              <h3>Existing User? Login</h3>
+            <br>
+            <form role="form" method="post" action="" autocomplete="off" style="margin-top:-7px;">
+
+<div style="width:100%;float:left;"> <div style="float:left;width:50%"></div> <div style="float:left;width:50%"><!--To Pay Fees :<input type="radio" name="datcheck" value="datpay" style="position: relative;top: 0px;left:5px;width:13px;">--></div></div>
+       
+                <label style="font-size:15px;">Email</label>
+                <input name="email" type="email"  id="email" style="font-size: 14px; margin-top: -8px;" placeholder="Email" value="<?php if(isset($error)){ echo $_POST['email']; } ?>" size="30%">
+                <label style="font-size:15px;">Password</label>
+                <input name="password" type="password"  style="font-size: 12px; margin-top: -8px;" id="password" placeholder="Password" size="30%">
+                 <div><input type="submit" name="login" value="Login" style="background:#606062;color:#FFF;width:99px;font-size: 14px;padding: 5px 10px;top: 36px;"></div>
+				   <div id="fogotpass" >
+						 <a href='reset.php' style="font-family: inherit;font-size:14px; margin-top: 100px; margin-left: 320px;" >Forgot your Password?</a>
+					</div><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+            </form>
+			
+        </div>
+		
+   </div>
+   <br>
+		<br>
+		<br>
+</div>
+
+<!--<script src="https://www.kenyt.ai/botapp/ChatbotUI/dist/js/bot-loader.js" type="text/javascript" data-bot="193956757"></script>-->
+<!--<script src="https://extraaedgeresources.blob.core.windows.net/demo/mitsde/Chatbot/js/chat.js"></script>-->
+<script src="https://eequeuestorage.blob.core.windows.net/documents/mitsde/Chatbot/js/chat.js"></script>
+
+
+</body>
+</html>

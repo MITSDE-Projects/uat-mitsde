@@ -1,0 +1,1280 @@
+.jobtitle
+{
+  font-size:18px;
+  /*padding-right: 60px;*/
+  /*float: left;*/
+}
+.jobtitleadmin
+{
+  cursor: pointer;
+}
+.jddiv
+{
+  padding: 10px;
+  /*padding-left: 25px;*/
+  height: auto;
+  float: left;
+  border-top:1px solid #fbc12f;
+  border-bottom:1px solid #fbc12f;
+}
+.jobtitleadmin
+{
+  font-size: 16px;
+}
+.jddiv p
+{
+  padding-top: 3px;
+  padding-bottom: 3px;
+  margin-bottom: 0px;
+}
+.headingjob
+{
+  font-size: 16px;
+}
+.descjob
+{
+  font-size: 14px;
+}
+.jdomain
+{
+  font-size:16px;
+  padding: 10px;
+  padding-left: 0px;
+  /*padding-left: 25px;*/
+  width:100%;
+  float: left;
+  cursor: pointer;
+}
+.innerPageContent{
+  padding: 0 0 35px;
+  min-height: 400px;
+}
+#coursenote li
+{
+  padding-bottom: 10px;
+}
+.pageTitleBaloon{
+  width: 220px;
+  background: #fbc12f;
+  color: #fff;
+  border-radius: 4px;
+  border-bottom-left-radius: 0;
+  padding: 6px 0 6px 35px;
+  position: relative;
+  margin-bottom: -9px;
+  z-index: 1;
+  margin-left: -12px;
+}
+.pageTitleBaloon:before{
+  content: "";
+  display: block;
+  position: absolute;
+  top: 100%;
+  border-top:10px solid #fbc12f;
+  border-left:10px solid transparent;
+  border-right:10px solid transparent;
+  left: 0;
+}
+.noSidebar{
+  border-bottom-left-radius: 4px;
+}
+.noSidebar:before{
+  display: none;
+}
+.pageTitleBaloon h4{
+  font-size: 20px;
+  text-transform: uppercase;
+}
+.pageTitleBaloon h4 a{
+  color: #fff;
+}
+.pageTitleBaloon h4 a.lightHeading{
+  font-size: 18px;
+}
+.sideBarNav{
+  padding-top: 10px;
+}
+.sidebarTabLinks{
+  width:  233px;
+  margin-left: -19px;
+  border: 1px solid #dcdcda;
+  position: relative;
+}
+.sidebarTabLinks > li{
+  padding-left: 30px;
+  position: relative;
+}
+.sidebarTabLinks > li:before{
+  content: "";
+  top: 50%;
+  left: 9px;
+  position: absolute;
+  display: block;
+  height: 13px;
+  width: 13px;
+  border-radius: 50%;
+  background: transparent;
+  margin-top: -8px;
+  z-index: 1;
+}
+.sidebarTabLinks > li.active:before{
+  background: #fbc12f;
+}
+.sidebarTabLinks > li.lastActive{
+  margin-bottom: 10px;
+}
+.sidebarTabLinks:before{
+  content: "";
+  left: 15px;
+  display: block;
+  position: absolute;
+  width: 1px;
+  background: #fbc12f;
+  height: 100%;
+  z-index: 1;
+}
+.sidebarTabLinks > li  a{
+  font-size: 13px;
+  margin-right: 15px;
+  padding: 9px 0 9px 10px;
+  border-bottom: 1px solid #dcdcda;
+  display: block;
+  color: #fbc12f;
+}
+.sideNavActive{
+  padding: 13px 0 11px 45px;
+  background: #848576;
+  margin-right: -1px;
+  margin-left: -1px;
+}
+.sidebarTabLinks .sideNavActive a{
+  color: #fff;
+  font-size: 14px;
+  border: 0;
+  font-weight: 500;
+  /*margin-right: 0*/
+}
+.sideNavActive li a{
+  border-top: 1px solid #fbc12f;
+}
+.sidebarTabLinks .lastSidebarLink{
+  border: 0;
+}
+.breadCrumbs{
+  font-size: 10px;
+  color: #fbc12f;
+  margin-bottom: 10px;
+}
+.breadCrumbs li{
+  padding: 0 0 0 5px;
+}
+.breadCrumbs .fa{
+  margin-left: 5px;
+  font-size: 12px
+}
+.breadCrumbs a{
+  color: #cfcec9;
+}
+.pageContent > p{
+  line-height: 18px;
+  text-align: justify;
+  margin-bottom: 20px;
+}
+.innerBanner{
+  padding: 0 0 10px;
+  margin-top: -5px;
+}
+.bannerImg{
+  border-bottom: 1px solid #ddd;
+  position: relative;
+}
+.bannerImg .container{
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: auto;
+  bottom: 0;
+  top: 0;
+}
+.bannerImg img{
+  width: 100%;
+}
+.sidebarFirst{
+  padding: 14px 0 6px 30px;
+}
+.learningCenterList li a{
+  display: block;
+  position: relative;
+}
+.learningCenterList li span{
+  display: block;
+  color: #848576;
+  padding: 8px 0;
+  font-weight: 500;
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  text-align: center;
+  font-size: 14px;
+  background: rgba(255,255,255,0.85);
+}
+.learningCenterList a img{
+  width: 100%;
+}
+.bannerName{
+  position: absolute;
+  right: 15px;
+  padding: 0 10px 7px;
+  display: inline-block;
+  top: 0;
+  font-size: 26px;
+  text-shadow: 2px 0 5px rgba(188,188,188,0.75);
+}
+.bannerTakshashila,
+.bannerBanaras{
+  color: #fff;
+  border-bottom: 1px solid #fff;
+}
+.bannerNalanda{
+  color: #848576;
+  border-bottom: 1px solid #848576;
+}
+.leftArrow,
+.rightArrow{
+  position: absolute;
+  font-size: 63px;
+  color: #fff;
+  top: 50%;
+  margin-top: -30px;
+  text-shadow: 2px 0 5px rgba(188,188,188,0.75)
+}
+.leftArrow{
+  left: -40px;
+}
+.rightArrow{
+  right: -40px;
+}
+.bannerPagers{
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  margin-left: -40px
+}
+.bannerPagers li{
+  height: 16px;
+  width: 16px;
+  background: #ffffff;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+.bannerPagers li.active{
+  background: #fbc12f;
+}
+.yellowHeading span{
+  font-size: 18px;
+}
+.pathList{
+  width: 85%;
+}
+.pathList li{
+  border-bottom: 1px solid #fdde90;
+  margin-bottom: 10px;
+}
+.pathList h5{
+  font-size: 13px;
+  font-weight: 700;
+  margin: 5px 0;
+}
+.yellowCircle {
+  height: 130px;
+  width: 130px;
+  background: #fdcd62;
+  border-radius: 50%;
+  display: table;
+}
+.yellowCircle span {
+  display: table-cell;
+  vertical-align: middle;
+  color: #fff;
+  font-weight: 700;
+  font-size: 13px;
+  padding: 0 13px;
+  text-transform: capitalize;
+}
+.academicLists{
+  margin-bottom: 20px;
+  padding: 30px 0;
+  box-shadow: 0 0 3px rgba(0,0,0,0.1);
+}
+.academicLists li{
+  max-width: 130px;
+  padding: 0;
+  vertical-align: top;
+  margin: 0 32px;
+}
+.icon-downSpear{
+  display: inline-block;
+  height: 19px;
+  width: 20px;
+  margin: 10px 0;
+}
+
+.academicLists p{
+  width: 90px;
+  color: #848576;
+  line-height: 18px;
+  margin: 0 auto;
+}
+.karadImg{
+  width: 17.5%;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 36px;
+}
+.karadImg img{
+  width: 100%;
+}
+.karadInfo{
+  width: 73%;
+  display: inline-block;
+  vertical-align: top;
+}
+.karadInfo h5{
+  font-weight: bold;
+  font-size: 13px;
+  margin: 20px 0;
+}
+.karadInfo p{
+  margin-bottom: 0;
+}
+.karadInfo p{
+  margin-bottom: 15px;
+}
+.karadInfo .yellowText{
+  margin-bottom: 0
+}
+.aboutKarad{
+  padding: 5px 8px;
+  box-shadow: 0 0 3px rgba(0,0,0,0.19);
+  margin: -5px 0 25px;
+}
+.sidebarTabLinks .sidebarInactive{
+  background: #fff;
+  margin-right: 0;
+  margin-left: 0;
+}
+.sidebarTabLinks .sidebarInactive:before{
+  display: none;
+}
+.sidebarTabLinks .sidebarInactive a{
+  color: #fbc12f;
+  font-weight: 400;
+  font-size: 13px;
+  border-bottom: 1px solid #dcdcda;
+}
+.connectTourLists a{
+  display: block;
+}
+.connectTourLists a img{
+  width: 100%;
+}
+.connectTourLists{
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+.campusAddress{
+  margin-top: -10px;
+}
+.contactusList{
+  margin-bottom: 20px;
+  color: #848576
+}
+.allcontacts{
+  margin-top: 30px;
+  padding-top: 10px;
+  border-top: 1px solid #fbc12f;
+}
+.mainAddress{
+  margin-top: 20px;
+}
+.enquiryDetails {
+  margin-bottom: 30px;
+}
+.formPadding{
+  padding: 15px 10px;
+}
+.formShadow{
+  box-shadow: 0 0 4px rgba(0,0,0,0.2);
+}
+.enquiryDetails .form-group .form-control{
+  font-size: 13px;
+  border: 0;
+  box-shadow: none;
+  border-radius: 0;
+  padding-left: 10px;
+  border-bottom: 1px solid #fbc12f;
+}
+.enquiryDetails .form-group {
+  margin-bottom: 7px;
+}
+.aboutDesignEducation .yellowHeading{
+  margin-bottom: 10px;
+}
+.hasSubNavs > a{
+  font-size: 15px;
+}
+.sidebarTabLinks .hasSubNavs ul li {
+  position: relative;
+}
+.sidebarTabLinks .hasSubNavs ul li a{
+  font-size: 13px;
+  font-weight: 400;
+  border-top: 1px solid #fbc12f;
+  padding: 9px 0 9px 20px;
+}
+.sidebarTabLinks > li.hasSubNavs:before{
+  display: none;
+}
+.sidebarTabLinks .hasSubNavs li.active:before {
+  content: "";
+  top: 50%;
+  left: -20px;
+  position: absolute;
+  background: #fbc12f;
+  display: block;
+  height: 13px;
+  width: 13px;
+  border-radius: 50%;
+  margin-top: -8px;
+  z-index: 1;
+}
+.programList li i{
+  color: #fbc12f;
+  font-size: 10px;
+  margin-right: 7px;
+}
+.programList,
+.aboutDesignEducation p{
+  margin-bottom: 20px;
+}
+.sideNavActive.hasSubNavs ul{
+  padding-right: 10px;
+}
+.underLineHeading{
+  font-size: 18px;
+  padding-right: 20px;
+  margin-top: 20px;
+  border-bottom: 1px solid #fbc12f;
+  padding-bottom: 5px;
+  font-weight: 700;
+  display: inline-block;
+}
+.hindiLogoImg{
+  max-width: 180px;
+}
+.hindiLogoImg img{
+  width: 100%;
+}
+.teamInfo,
+.teamListImages{
+  display: inline-block;
+}
+.teamInfo{
+  margin-left: 20px;
+  vertical-align: bottom;
+}
+.teamList{
+  width: 100%;
+}
+.teamList li{
+  width: 390px;
+  position: relative;
+  float: left;
+  box-shadow: 0 0 3px rgba(0,0,0,0.19);
+  padding: 7px 10px;
+  margin-bottom: 35px;
+  transition: 0.5s all ease;
+}
+.teamInfo p b{
+  font-size: 15px;
+}
+.secondaryOpenIcon,
+.secondaryOpenIcon:focus,
+.secondaryOpenIcon:hover,
+.openTeamInfo:focus,
+.openTeamInfo:hover,
+.openTeamInfo{
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  display: block;
+  width: 21px;
+  background: #fbc12f;
+  color: #fff;
+  text-align: center;
+  font-size: 22px;
+  line-height: 21px;
+}
+.teamList li > p{
+  margin-top: 10px;
+  opacity: 0;
+}
+.teamList li > p,
+.activeInfo .openTeamInfo .plus,
+.minus {
+  display: none;
+}
+.teamList .activeInfo{
+  width: 100%;
+}
+.teamList .activeInfo > p,
+.activeInfo .openTeamInfo .minus{
+  display: block;
+}
+.teamList .activeInfo > p{
+  opacity: 1;
+}
+.evenList{
+  margin-right: 65px;
+}
+.patron{
+  position: relative;
+}
+.sidebarFirst .patron .morePatron{
+  position: absolute;
+  display: block;
+  right: 0;
+  font-size: 24px;
+  color: #fbc12f;
+  top: 5px;
+  font-weight: 300;
+  border-bottom: 0;
+  padding: 0;
+  height: 25px;
+  width: 25px;
+}
+.patronPage + ul{
+  display: none;
+}
+.icon-patronPlus{
+  display: block;
+  height: 14px;
+  width: 14px;
+  background-position: 0 -24px;
+  margin: 5px;
+}
+.icon-patronMinus{
+  background-position: 0 -38px;
+}
+.learningCentersWrap h4{
+  font-size: 24px;
+}
+.learningCentersWrap p{
+  margin-bottom: 40px;
+}
+.needReformationBanner{
+  box-shadow: 0 -4px 6px rgba(0,0,0,0.5)
+}
+.tourListsConnect{
+  display: table;
+  width: 266px;
+  text-align: center;
+  height: 183px;
+  box-shadow: 0 0 3px #ccc;
+  padding: 20px;
+}
+.tourListsConnect1{
+    width: 200px;
+    height: 170px;
+}
+.tourListsConnect a{
+  display: table-cell;
+  height: 100px;
+  vertical-align: middle;
+  margin: 20px;
+  border: 1px solid #fbc12f;
+  border-radius: 2px;
+}
+.tourListsConnect a span{
+  color: #fbc12f;
+}
+.greyBorderBox a{
+  border: 1px solid #848576;
+}
+.greyBorderBox a span{
+  color: #848576;
+}
+.redBorderBox a{
+  border: 1px solid #f38040;
+}
+.redBorderBox a span{
+  color: #f38040;
+}
+.tourListsConnect a span{
+  font-size: 20px;
+}
+.tourListsConnect:hover{
+  background: #fbc12f;
+}
+.tourListsConnect:hover a{
+  border: 1px solid #fff;
+}
+.tourListsConnect:hover a span{
+  color: #fff;
+}
+.redBorderBox:hover{
+  background: #f38040;
+}
+.greyBorderBox:hover{
+  background: #848576;
+}
+
+
+
+.orangeBorderBox a{
+  border: 1px solid #E04239;
+}
+.orangeBorderBox a span{
+  color: #E04239;
+}
+.orangeBorderBox:hover{
+  background: #E04239;
+}
+
+
+
+.execEduList{
+  margin-top: 30px;
+}
+.execEduList li{
+  margin-bottom: 20px;
+  font-size: 15px;
+}
+.yellowBullets{
+  display: inline-block;
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+  margin-right: 15px;
+  background: #fbc12f;
+}
+.pageContent .getInTouchHeading{
+ margin-bottom: 10px;
+}
+.submitBtn{
+  width: 94px;
+  background: #fbc12f;
+  color: #fff;
+  border: 0;
+  padding: 6px 0;
+  border-radius: 3px;
+  font-size: 13px;
+  font-weight: 700;
+  float: right;
+}
+.brochureBtn{
+  width: 155px;
+}
+.areaInterest{
+  padding-left: 10px;
+  margin-bottom: 5px;
+  font-weight: 500;
+  font-size: 15px;
+}
+.subArea{
+  margin-bottom: 5px;
+  padding-left: 11px;
+  font-size: 15px;
+}
+.brochureForm .form-group .form-control{
+  padding-left: 0;
+}
+.linksWrap{
+  font-size: 13px;
+  margin-right: 0;
+  padding: 9px 0 9px 10px;
+  border-bottom: 1px solid #dcdcda;
+  margin-right: 15px;
+  color: #fbc12f;
+}
+.lastSidebarList .linksWrap{
+  border: 0;
+}
+.newSidebar .linksWrap a{
+  border-bottom: 0;
+  display: inline-block;
+  padding: 0;
+  margin-right: 0;
+}
+.linksWrap > a{
+  float: left;
+}
+.linksWrap > i{
+  float: right;
+  cursor: pointer;
+  display: inline-block;
+  margin-top: 4px;
+}
+.icon-plus{
+  height: 13px;
+  width: 12px;
+  background-position: 0 -52px;
+}
+.innerLinksWrap{
+  margin-right: 0;
+}
+.innerSidebarLists{
+  display: none;
+  padding-top: 10px;
+}
+.innerSidebarLists li:first-child .innerLinksWrap{
+  border-top: 1px solid #fbc12f;
+}
+.openSideinnerLinks{
+  padding-bottom: 0;
+  border-bottom: 0;
+}
+.visionSmallBanner{
+  padding: 40px 200px;
+}
+.halfDiv{
+  width: 50%;
+  float: left;
+}
+.whyAviList li{
+  font-size: 24px;
+  margin-bottom: 7px;
+}
+.whyAviList li span{
+  font-size: 30px;
+  font-weight: 500;
+}
+.whyAviList li .orangeTexts{
+  color: #f9a930;
+}
+.whyAviList li .redTexts{
+  color: #f37a34;
+}
+.whyAviImg{
+  padding-left: 30px;
+  padding-top: 50px;
+}
+.whyAviImg img{
+  width: 100%;
+}
+.keyDiffList{
+  width: 380px;
+}
+.keyDiffList li{
+  width: 222px;
+  height: 222px;
+  position: relative;
+  background: url('../images/key-flowers.png') no-repeat;
+  display: table;
+  opacity: 0;
+  transition: all 0.5s ease;
+}
+.keyDiffList li p{
+  display: table-row;
+  font-size: 16px;
+  vertical-align: middle;
+  width: 100%;
+  height: 100%;
+}
+.keyDiffList p span{
+  display: table-cell;
+  padding: 0 31px;
+  vertical-align: middle;
+}
+.keyDiffRight:before,
+.keyDiffLeft:before{
+  content: "";
+  display: block;
+  width: 13px;
+  height: 13px;
+  border-radius: 50%;
+  position: absolute;
+  background: #fdc23f;
+  border: 2px solid #fff;
+  right: 23px;
+  top: 31px;
+}
+.keyDiffRight:before{
+  right: 0;
+  left: 23px;
+}
+.keyDiffLeft{
+  margin-left: -2px;
+  float: left;
+  left: 50%;
+  background-size: 0;
+}
+.keyDiffLeft.animates{
+  background-size: 100% 100%;
+  opacity: 1;
+  left:0;
+}
+.keyDiffRight{
+  margin-right: -2px;
+  float: right;
+  right: 50%;
+}
+.keyDiffRight.animates{
+  background-size: 100% 100%;
+  right: 0;
+  opacity: 1;
+}
+.keyDiffWrap{
+  position: relative;
+  margin-left: 90px;
+  display: inline-block;
+  padding-bottom: 40px;
+}
+.keyDiffWrap:before{
+  display: block;
+  width: 1px;
+  left: 50%;
+  height: 100%;
+  content: "";
+  position: absolute;
+  background: rgba(0,0,0,0.4);
+}
+.phaseInfo{
+  width: 490px;
+  padding-top: 30px;
+  margin-bottom: 20px;
+  text-align: justify;
+}
+.phaseImg{
+  padding-left: 30px;
+}
+.phaseImg img{
+  max-width: 420px;
+}
+.phaseLeftInfo{
+  padding-right: 35px;
+}
+
+.phaseRightInfo{
+  padding-left: 35px;
+}
+.yellowRule{
+  border-bottom: 1px solid #fdc23f;
+  padding-bottom: 10px;
+}
+.greyColor{
+  color: #848576;
+}
+.yellowHeading.greyColor{
+  font-size: 22px;
+}
+.irTeamList{
+  margin-left: -15px;
+}
+.irTeamList li{
+  margin: 0 0 15px 17px;
+  padding: 0;
+}
+.irTeamList li img{
+  border-radius: 3px;
+}
+.galleryList{
+  margin-left: -10px;
+}
+.galleryList li {
+  margin: 0 0 21px 5px;
+}
+.galleryList li a{
+  width: 152px;
+  height: 109px;
+  display: block;
+  overflow: hidden;
+  border-radius: 4px;
+}
+.galleryList a img{
+  height: 100%;
+}
+
+.ques
+{
+    font-weight:bold;
+    font-size:16px;
+    margin:2px;
+}
+.ans
+{
+    margin-bottom:10px;
+    text-align: justify;
+}
+
+/* News Section */
+
+     .careerWrap{
+    background: #fff;
+    border-top: 1px solid #ddd;
+    padding: 100px 0;
+}
+.newsWrap{
+    background: #fff;
+    padding: 10px 0;
+}
+.newsWrap ul.row{
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+}
+.newsWrap h3 {
+    font-size: 16px;
+    line-height: 26px;
+}
+.newsWrap p a {
+    color: #ffc740;
+    font-weight: 700;
+}
+.newsWrap h1{
+    margin-bottom: 60px;
+}
+.newsWrap .section-header h2{
+    margin-bottom: 40px;
+}
+.homeNewsWrap{
+    border: 0;
+    padding-top: 0;
+}
+.mediaLogo {
+    width: 100%;
+    margin: 0 auto;
+}
+.mediaLogo img {
+    width: 100%;
+    margin-bottom: 20px;
+    box-shadow: 0 0 20px;
+}
+
+ul.news-ul {
+    list-style: none;
+}
+
+
+.wrapper {
+	width:960px;
+	margin:150px auto;
+}
+.demof {
+border: 1px solid #ccc;
+}
+.demof ul {
+padding: 0;
+list-style: none;
+}
+.demof li {
+padding: 5px;
+}
+.demof li.odd {
+background: #fafafa;
+}
+.demof li:after {
+content: '';
+display: block;
+clear: both;
+}
+.demof span {
+float: left;
+width:80px;
+height:80px;
+background:#FDC23F;
+font-size:14px;
+color:#000;
+margin-right:5px;
+padding-top:5px;
+text-align: center;
+}
+
+.demof li:nth-child(3n) span{
+background:#E04C46;
+}
+.demof li:nth-child(2n) span{
+
+background:#F2803F;
+}
+.demof a {
+font-size: 16px;
+color: #84858F;
+}
+
+
+
+a.applyNowBold {
+  color:#E04C46;
+  font-weight:bold;
+  font-size: 20px;
+}
+
+
+
+@media only screen and (max-width: 1000px)
+{
+
+.pedagogy
+  {
+   font-size:35px;
+  }
+    .responsive-block {
+        width: 100%;
+    }
+
+    .yellowHeading.greyColor {
+        font-size: 36px;
+    }
+
+    .yellowHeading span {
+        font-size: 24px;
+    }
+
+     .li-padding li {
+        padding: 10px 0;
+        line-height: 52px;
+    }
+
+    .whyAviList li {
+        font-size: inherit;
+    }
+
+    .sideBarNav {
+        display: none;
+    }
+
+    .innerBanner{
+      padding: 0px 0 10px;
+    }
+
+    .innerPageContent {
+        padding: 40px 0 35px;
+        min-height: 400px;
+    }
+
+    .bannerName {
+        font-size: 45px;
+    }
+
+    .karadImg {
+        width: 50%;
+    }
+
+    .karadInfo {
+        width: 99%;
+    }
+
+    .teamList li {
+        width: 100%;
+    }
+
+    .teamInfo, .teamListImages {
+        display: inline-block;
+        width: 47%;
+    }
+
+    .teamListImages img {
+        width: 100%;
+    }
+
+    .galleryList li {
+        width: 100%;
+    }
+
+    .galleryList li a {
+        width: 100%;
+        height: auto;
+    }
+
+    .galleryList a img {
+        height: auto;
+        width:100%;
+    }
+
+    b.responsive-font, a.responsive-font {
+        font-size: 36px;
+    }
+
+    .pathList {
+        width: 100%;
+    }
+
+    .pathList h5 {
+        font-size: 30px;
+    }
+
+    .pathList li {
+        border-bottom: 3px solid #fdde90;
+        margin: 20px 0px;
+    }
+
+    .karadInfo h5 {
+        font-size: 32px;
+    }
+
+    .teamInfo p {
+        text-align: left;
+    }
+
+    .teamInfo p b {
+        font-size: 32px;
+    }
+
+    .ans {
+        margin-bottom: 25px;
+        text-align: justify;
+    }
+
+    .ques
+		{
+			font-weight:bold;
+			font-size:32px;
+			margin:2px;
+		}
+
+    /*.keyDiffList p span {
+        display: table-cell;
+        padding: 0 31px;
+        font-size: 36px;
+        vertical-align: middle;
+    }*/
+
+    .enquiryDetails .form-group .form-control {
+        font-size: 32px;
+    }
+
+    .form-control {
+        display: block;
+        width: 100%;
+        height: 34px;
+        padding: 32px 12px;
+    }
+
+    .submitBtn {
+        width: 100%;
+        padding: 15px 0;
+        font-size: 30px;
+    }
+
+    .secondaryOpenIcon, .secondaryOpenIcon:focus, .secondaryOpenIcon:hover, .openTeamInfo:focus, .openTeamInfo:hover, .openTeamInfo {
+        font-size: 30px;
+        width: 50px;
+        line-height: 50px;
+    }
+
+    .tourListsConnect {
+        margin: 2% 0;
+        padding: 20px;
+        display: table;
+        width: 100%;
+        text-align: center;
+        height: 200px;
+        box-shadow: 0 0 3px #ccc;
+    }
+
+    .tourListsConnect a span {
+        font-size: 36px;
+    }
+
+    .breadCrumbs {
+        margin-bottom: 40px;
+        text-align: left;
+    }
+
+    .breadCrumbs .fa {
+        font-size: 25px;
+    }
+
+    .breadCrumbs a {
+        font-size: 26px;
+    }
+
+    .pageContent > p {
+        line-height: 52px;
+    }
+
+    /* News Responsive */
+
+    .newsWrap ul.row{
+        padding-left: 0;
+    }
+
+    .newsWrap h3 {
+        font-size: 36px;
+        line-height: 52px;
+    }
+
+    h3.news-h3 {
+        font-size: 40px;
+    }
+
+    .wide-padding-news-container {
+        padding-left: 0;
+        padding-right: 33px;
+    }    
+    
+     /* News & Events - Optional */ 
+    
+    .demof span {
+        width: 100%;
+        font-size: 30px;
+        color: white;
+        padding-top: 14px;
+    }
+    
+    .demof a {
+        font-size: 26px;
+    } 
+   
+
+    /* Key Differentiators */
+
+    .keyDiffList{
+        margin-top: 5%;
+      width: 100%;
+    }
+    .keyDiffList li{
+        clear: both;
+      width: 50%;
+        height: auto;
+      position: relative;
+      background: url('../images/key-flowers.png') no-repeat;
+      display: table;
+      opacity: 0;
+      transition: all 0.5s ease;
+    }
+    .keyDiffList li p{
+      display: table-row;
+      font-size: 36px;
+      vertical-align: middle;
+      width: 100%;
+      height: 100%
+    }
+
+    .keyDiffWrap{
+        margin-top: 10%;
+        margin-left: 0;
+    }
+    
+    .keyDiffRight.animates, .keyDiffLeft.animates {
+        background-size: 100% auto;
+    }
+
+    a.applyNowBold {
+      padding: 10px 0;
+      float: left;
+      width: 30%;
+      font-size: 30px;
+    }
+
+}
+
+
+
+
+  @media only screen and (max-width: 700px) {
+    .f1  {
+       font-size: 35px;
+	   
+    }
+  }

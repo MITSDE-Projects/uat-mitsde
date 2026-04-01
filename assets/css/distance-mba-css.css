@@ -1,0 +1,56 @@
+.container-fluid {
+  padding-left: 0;
+  padding-right: 0;
+}
+/* Distance MBA mumbai page css */
+
+.whoCard{
+ 
+  height: 23lvh;
+
+  .card-body, .row{
+    background-color: #f5f5f5;
+    display: flex;
+    
+    align-items: center;
+    color: var(--text-color);
+  font-family: var(--font-family-R);
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 28px;
+  }
+}
+
+.fintech-module a {
+  text-decoration: none;
+}
+
+/* Distance MBA kolkata page css */
+
+.col-md-8.hero15 ul {
+  line-height: 1.8; /* Adjust the line height as needed */
+  color: var(--text-color);
+  font-family: var(--font-family-R);
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 28px;
+}
+
+/* Distance MBA kolkata page css */
+
+.hero16{
+  color: var(--text-color);
+  font-family: var(--font-family-R);
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 28px;
+}
+
+
+
+/* last css */ 
+
+/* .hero16 */
+
+/* last css */
+
