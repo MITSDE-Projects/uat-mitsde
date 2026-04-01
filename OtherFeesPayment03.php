@@ -220,9 +220,9 @@ if ($stmt->fetch()) {
                                 value="<?php echo htmlspecialchars($transactionId, ENT_QUOTES, 'UTF-8'); ?>" />
                             <input type="hidden" name="currency" value="INR" />
                             <input type="hidden" name="redirect_url" id="redirect_url"
-                                value="https://mitsde.com/ccavResponseHandler01.php" />
+                                value="https://uat.mitsde.com/ccavResponseHandler01.php" />
                             <input type="hidden" name="cancel_url" id="cancel_url"
-                                value="https://mitsde.com/ccavResponseHandler01.php" />
+                                value="https://uat.mitsde.com/ccavResponseHandler01.php" />
                             <input type="hidden" name="language" value="EN" />
 
                             <div class="row justify-content-between text-left">

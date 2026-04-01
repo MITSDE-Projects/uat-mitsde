@@ -40,7 +40,7 @@ if ($stmt->fetch()) {
 
     <meta property="og:title" content="Online Payment | Other Fees Payment By HDFC | Pay Online">
     <meta property="og:site_name" content="MIT School of Distance Education">
-    <meta property="og:url" content="https://mitsde.com/OtherFeesPayment02">
+    <meta property="og:url" content="https://mitsde.com/new-admission-form-payment">
     <meta property="og:description"
         content="Earn a Post Graduate Distance Diploma (PGDM) in Project Management which is affordable, industry-relevant and taught by Industry experts in Live sessions.">
     <meta property="og:type" content="website">
@@ -270,9 +270,9 @@ if ($stmt->fetch()) {
                             <input type="hidden" name="order_id" value="<?php echo $transactionId; ?>" />
                             <input type="hidden" name="currency" value="INR" />
                             <input type="hidden" name="redirect_url" id="redirect_url"
-                                value="https://mitsde.com/new-erp-ResponseHandler.php" />
+                                value="https://uat.mitsde.com/new-erp-ResponseHandler.php" />
                             <input type="hidden" name="cancel_url" id="cancel_url"
-                                value="https://mitsde.com/new-erp-ResponseHandler.php" />
+                                value="https://uat.mitsde.com/new-erp-ResponseHandler.php" />
                             <input type="hidden" name="language" value="EN" />
 
                             <div class="row justify-content-between text-left">
