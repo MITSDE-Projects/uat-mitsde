@@ -241,7 +241,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 col-lg-12 fintech-certi">
-                        <h2>Overview of MITSDE Bootcamp </h2>
+                        <h2>Over of MITSDE Bootcamp </h2>
                     </div>
                     <div class="col-md-12 col-lg-12 fin-feature hero11">
                         <p>MITSDE Bootcamp, a specialized offering from the MIT School of Distance Education, provides intensive, hands-on training in Business Analytics and Digital Marketing. Conducted by industry experts, the program features live, interactive sessions with real data sets over weekends. It focuses on 100% practical hands-on learning with real data sets, enhancing skills and applications, ensuring participants can immediately apply their learning to real-world scenarios and enhance their professional capabilities.</p>
