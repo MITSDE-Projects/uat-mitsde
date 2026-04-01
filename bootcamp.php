@@ -690,7 +690,7 @@
                                                     Enterprise Insight Analyst | Data Analyst | Corporate Trainer
                                                 </td>
                                                 <td class="text-success fw-bold">Free</td>
-                                                <td><span class="badge bg-warning text-dark">Upcoming</span></td>
+                                                <td><span class="badge bg-success">Completed</span></td>
                                             </tr>
 
                                             <tr>
@@ -699,6 +699,50 @@
                                                 <td>
                                                     Nayana Menon<br>
                                                     Enterprise Insight Analyst | Data Analyst | Corporate Trainer
+                                                </td>
+                                                <td class="text-success fw-bold">Free</td>
+                                                <td><span class="badge bg-success">Completed</span></td>
+                                            </tr>
+
+                                            <tr>
+                                                <td>1st Mar 2026</td>
+                                                <td>Power BI Fundamentals & Power Query Essentials</td>
+                                                <td>
+                                                    Speaker Name: Dr. Chanakya Kumar<br>
+                                                    Designation: Academician, Researcher, Business Analyst, Data Scientist and Trainer
+                                                </td>
+                                                <td class="text-success fw-bold">Free</td>
+                                                <td><span class="badge bg-success">Completed</span></td>
+                                            </tr>
+
+                                            <tr>
+                                                <td>14th Mar 2026</td>
+                                                <td>Power BI Data Modeling & Query Management</td>
+                                                <td>
+                                                    Speaker Name: Dr. Chanakya Kumar<br>
+                                                    Designation: Academician, Researcher, Business Analyst, Data Scientist
+                                                </td>
+                                                <td class="text-success fw-bold">Free</td>
+                                                <td><span class="badge bg-success">Completed</span></td>
+                                            </tr>
+
+                                            <tr>
+                                                <td>29th March 2026</td>
+                                                <td>Basics and Essential Functions in Excel</td>
+                                                <td>
+                                                    Speaker Name: Dr. Chanakya Kumar<br>
+                                                    Designation: Academician, Researcher, Business Analyst, Data Scientist and Trainer
+                                                </td>
+                                                <td class="text-success fw-bold">Free</td>
+                                                <td><span class="badge bg-success">Completed</span></td>
+                                            </tr>
+
+                                            <tr>
+                                                <td>5th April 2026</td>
+                                                <td>MS Excel - Logical Functions</td>
+                                                <td>
+                                                    Speaker Name: Dr. Chanakya Kumar<br>
+                                                    Designation: Academician, Researcher, Business Analyst, Data Scientist and Trainer
                                                 </td>
                                                 <td class="text-success fw-bold">Free</td>
                                                 <td><span class="badge bg-warning text-dark">Upcoming</span></td>
@@ -827,8 +871,20 @@
                                                     PMP®/CAPM® Trainer | Project, Program & Portfolio Leader
                                                 </td>
                                                 <td class="fw-bold ">₹10030</td>
+                                                <td><span class="badge bg-danger">Closed</span></td>
+                                                <td><span class="badge bg-success">Completed</span></td>
+                                            </tr>
+
+                                            <tr>
+                                                <td>12th Apr to 10th May 2026</td>
+                                                <td>PMP® Certification Training Program</td>
+                                                <td>
+                                                    Prof. Mayank Parkhi<br>
+                                                    PMP®/CAPM® Trainer | Project, Program & Portfolio Leader
+                                                </td>
+                                                <td class="fw-bold ">17700</td>
                                                 <td><span class="badge bg-success">Open</span></td>
-                                                <td><span class="badge bg-info text-dark">Ongoing</span></td>
+                                                <td><span class="badge bg-warning text-dark">Upcoming</span></td>
                                             </tr>
 
                                         </tbody>
