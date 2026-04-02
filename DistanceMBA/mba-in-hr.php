@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
     <!-- Page Title -->
-<title>Distance MBA in Vijaywada| Distance Management Courses</title>
+<title>Distance MBA in HR</title>
 
     <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
@@ -15,7 +15,7 @@
 <meta name="author" content="" />
     <meta name="author" content="#">
     <meta name="robots" content="index, follow" />
-	<link rel="canonical" href="https://mitsde.com/DistanceMBA/tamilnadu" />
+	<link rel="canonical" href="https://mitsde.com/DistanceMBA/mba-in-hr" />
 	<meta name="p:domain_verify" content="1533ce8d983d86bc4dcac9b9c87d4a31"/>
     <!-- Mobile Specific Metas -->
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">

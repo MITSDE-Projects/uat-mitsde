@@ -15,7 +15,7 @@
 
     <!-- CANONICAL TAG -->
 
-    <link rel="canonical" href="https://mitsde.com/sde-policy.php" />
+    <link rel="canonical" href="https://mitsde.com/sde-policy" />
 
     <!-- CANONICAL TAG -->
     <!-- Page Title -->

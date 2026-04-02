@@ -15,7 +15,7 @@
     <meta name="keywords"
         content="" />
     <!-- CANONICAL TAG -->
-    <link rel="canonical" href="https://mitsde.com/material management" />
+    <link rel="canonical" href="https://mitsde.com/supply-chain-analytics" />
     <!-- CANONICAL TAG -->
 
     <?php include "5-common-seo-tag-1.php" ?>
@@ -24,7 +24,7 @@
 
     <meta property="og:title" content="HR Analytics: Beginner’s Guide | MIT SDE">
     <meta property="og:site_name" content="MIT School of Distance Education">
-    <meta property="og:url" content="https://mitsde.com/material management">
+    <meta property="og:url" content="https://mitsde.com/supply-chain-analytics">
     <meta property="og:description"
         content="Organisations run on people. Every strategy, system and solution only works when there’s a team behind it, making decisions, solving problems and keeping things moving. The way these people are supported, developed and managed plays a direct role in how well the organisation performs. This is where human capital management comes in. ">
     <meta property="og:type" content="website">

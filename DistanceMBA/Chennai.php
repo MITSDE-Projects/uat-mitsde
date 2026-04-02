@@ -87,12 +87,12 @@
                     <div class="col-md-12 col-lg-6">
                         <div class="css-details">
                             <div class="stc-det student-sec inner-sec">
-                                <img src="../assets/images/progress.svg" alt="">
+                                <img src="../assets/images/progress.svg" alt="Progress indicator icon">
                             </div>
                             <img src="../assets/images/city/power-bi-course-in-chennai.jpg" class="banner-img"
                                 alt="Distance MBA in Chennai | Online MBA Colleges, Degree, Programs">
                             <div class="stc-det course-sec inner-sec">
-                                <img src="../assets/images/walet.svg" alt="">
+                                <img src="../assets/images/walet.svg" alt="Wallet icon for payment">
                             </div>
                         </div>
                     </div>

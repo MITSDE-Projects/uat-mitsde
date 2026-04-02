@@ -15,7 +15,7 @@
 <meta name="author" content="" />
     <meta name="author" content="#">
     <meta name="robots" content="index, follow" />
-	<link rel="canonical" href="https://mitsde.com/DistanceMBA/tamilnadu" />
+	<link rel="canonical" href="https://mitsde.com/DistanceMBA/Himachal_pradesh" />
 	<meta name="p:domain_verify" content="1533ce8d983d86bc4dcac9b9c87d4a31"/>
     <!-- Mobile Specific Metas -->
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">

@@ -174,7 +174,7 @@
                     <div class="col-md-12 col-lg-6">
                         <div class="css-details">
                             <div class="stc-det student-sec inner-sec">
-                                <img src="assets/images/course/ex-mba/Marketing-Management_Icon 1.jpg" alt="">
+                                <img src="assets/images/course/ex-mba/Marketing-Management_Icon 1.jpg" alt="Marketing-Management">
                             </div>
                             <img src="assets/images/course/ex-mba/executive-mba-in-marketing.jpg" class="banner-img"
                                 alt="executive-mba-in-marketing-management">
