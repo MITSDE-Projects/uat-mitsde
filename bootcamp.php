@@ -125,6 +125,33 @@
             min-height: 560px;
             margin: 0 30px;
         }
+        .pmp-hero {
+            background: linear-gradient(180deg, #fff8e8 0%, #fffdf7 100%);
+            padding: 18px 0 0;
+        }
+        .pmp-hero .container {
+            max-width: 1240px;
+        }
+        .pmp-hero-link {
+            display: block;
+            border-radius: 18px;
+            overflow: hidden;
+            box-shadow: 0 16px 40px rgba(0, 0, 0, 0.12);
+            background: #fff;
+        }
+        .pmp-hero-link img {
+            display: block;
+            width: 100%;
+            height: auto;
+        }
+        @media (max-width: 767.98px) {
+            .pmp-hero {
+                padding: 10px 0 0;
+            }
+            .pmp-hero-link {
+                border-radius: 12px;
+            }
+        }
     </style>
     <!-- font awesome css -->
 
@@ -143,7 +170,7 @@
     <?php include "header.php" ?>
     <!-- Header Nav End --->
     <main class="main-body">
-        <section class="banner inner-banner">
+        <!-- <section class="banner inner-banner">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 col-lg-6 main-banner">
@@ -173,6 +200,14 @@
                         </div>
                     </div>
                 </div>
+            </div>
+        </section> -->
+
+        <section class="banner inner-banner pmp-hero">
+            <div class="container">
+                <a class="pmp-hero-link" href="https://mitsde.com/Paid-Workshop.php?workshop_amt=15045&amp;pagename=PMP" target="_blank" rel="noopener noreferrer">
+                    <img src="assets/images/common-images/PMP-Certification.jpg" class="img-fluid w-100" alt="PMP Certification registration banner">
+                </a>
             </div>
         </section>
 
@@ -834,7 +869,7 @@
                                                     Dilip Balasubramanian<br>
                                                     Technology Professional, Data Scientist, Analytics Trainer, Project Management Expert, and Ex-KPMG Consultant
                                                 </td>
-                                                <td class="fw-bold ">₹353</td>
+                                                <td class="fw-bold ">353</td>
                                                 <td><span class="badge bg-danger">Closed</span></td>
                                                 <td><span class="badge bg-success">Completed</span></td>
                                             </tr>
@@ -846,7 +881,7 @@
                                                     Ms. Gomati Ghosh<br>
                                                     Professional Communication Coach
                                                 </td>
-                                                <td class="fw-bold ">₹589</td>
+                                                <td class="fw-bold ">589</td>
                                                 <td><span class="badge bg-danger">Closed</span></td>
                                                 <td><span class="badge bg-success">Completed</span></td>
                                             </tr>
@@ -858,7 +893,7 @@
                                                     Cdr. Ram<br>
                                                     LinkedIn Branding Specialist
                                                 </td>
-                                                <td class="fw-bold">₹589</td>
+                                                <td class="fw-bold">589</td>
                                                 <td><span class="badge bg-danger">Closed</span></td>
                                                 <td><span class="badge bg-success">Completed</span></td>
                                             </tr>
@@ -870,7 +905,7 @@
                                                     Prof. Mayank Parkhi<br>
                                                     PMP®/CAPM® Trainer | Project, Program & Portfolio Leader
                                                 </td>
-                                                <td class="fw-bold ">₹10030</td>
+                                                <td class="fw-bold ">10030</td>
                                                 <td><span class="badge bg-danger">Closed</span></td>
                                                 <td><span class="badge bg-success">Completed</span></td>
                                             </tr>
