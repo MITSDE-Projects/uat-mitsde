@@ -487,7 +487,7 @@
 
                             <a class="nav-link" id="marksheet-certification-queries-tab" data-bs-toggle="pill"
                                 href="#marksheet-certification" role="tab" aria-controls="marksheet-certification"
-                                aria-selected="false">Placement Skills (Exclusive)
+                                aria-selected="false">Placement Skills (Freshers)
 
 
                             </a>
@@ -879,61 +879,69 @@
                                                     <strong>Placement Training Series</strong>
                                                 </th>
                                                 <tr>
+                                                    <th>Sr. No.</th>
                                                     <th>Date</th>
-                                                    <th>Subject</th>
-                                                    <th>Trainer Details</th>
+                                                    <th>Time</th>
+                                                    <th>Session Name</th>
+                                                    <th>Objective</th>
                                                 </tr>
                                             </thead>
                                             <tbody>
                                                 <tr>
-                                                    <td>11 Sep 24</td>
-                                                    <td>Ace The Interview</td>
-                                                    <td>Mr. Bipin Datar, Global Business Strategist &amp; Mentor with 40
-                                                        Years of Expertise Across 13 MNCs</td>
-
+                                                    <td>1</td>
+                                                    <td>13 Apr 26</td>
+                                                    <td>6:30-8:00 pm</td>
+                                                    <td>Resume Building Hub Part 1</td>
+                                                    <td>Build foundational ATS-friendly resume structure.</td>
                                                 </tr>
                                                 <tr>
-                                                    <td>12 Sep 24</td>
-                                                    <td>Resume Revamp</td>
-                                                    <td>Ms. Kishita Thakar, Executive Coach | Leadership Coach, Building
-                                                        CXO and Founder brands on LinkedIn</td>
+                                                    <td>2</td>
+                                                    <td>14 Apr 26</td>
+                                                    <td>6:30-8:00 pm</td>
+                                                    <td>Resume Building Hub Part 2</td>
+                                                    <td>Finalize and polish tailored resumes.</td>
                                                 </tr>
                                                 <tr>
-                                                    <td>18 Sep 24</td>
-                                                    <td>Networking for Job Search</td>
-                                                    <td>Mr. Bipin Datar, Global Business Strategist &amp; Mentor with 40
-                                                        Years of Expertise Across 13 MNCs</td>
+                                                    <td>3</td>
+                                                    <td>20 Apr 26</td>
+                                                    <td>6:30-8:00 pm</td>
+                                                    <td>LinkedIn Profile Optimization Hub Part 1</td>
+                                                    <td>Optimize core profile for professionalism/SEO.</td>
                                                 </tr>
                                                 <tr>
-                                                    <td>18 Sep 24</td>
-                                                    <td>Salary Negotiation</td>
-                                                    <td>Ms. Kishita Thakar, Executive Coach | Leadership Coach, Building
-                                                        CXO and Founder brands on LinkedIn</td>
+                                                    <td>4</td>
+                                                    <td>21 Apr 26</td>
+                                                    <td>6:30-8:00 pm</td>
+                                                    <td>LinkedIn Profile Optimization Hub Part 2</td>
+                                                    <td>Boost visibility and networking.</td>
                                                 </tr>
                                                 <tr>
-                                                    <td>25 Sep 24</td>
-                                                    <td>Basic Career Assessment</td>
-                                                    <td>Mr. Bipin Datar, Global Business Strategist &amp; Mentor with 40
-                                                        Years of Expertise Across 13 MNCs</td>
+                                                    <td>5</td>
+                                                    <td>27 Apr 26</td>
+                                                    <td>6:30-8:00 pm</td>
+                                                    <td>Communication Skills Hub Part 1</td>
+                                                    <td>Build verbal/non-verbal foundations.</td>
                                                 </tr>
                                                 <tr>
-                                                    <td>9 Oct 24</td>
-                                                    <td>Digital Decorum Training / Virtual Interview Etiquette</td>
-                                                    <td>Mr. Bipin Datar, Global Business Strategist &amp; Mentor with 40
-                                                        Years of Expertise Across 13 MNCs</td>
-                                                </tr>
-
-                                                <tr>
-                                                    <td>16 Oct 24</td>
-                                                    <td>Adapting to Workplace Culture</td>
-                                                    <td>Mr. Bipin Datar, Global Business Strategist &amp; Mentor with 40
-                                                        Years of Expertise Across 13 MNCs</td>
+                                                    <td>6</td>
+                                                    <td>28 Apr 26</td>
+                                                    <td>6:30-8:00 pm</td>
+                                                    <td>Communication Skills Hub Part 2</td>
+                                                    <td>Apply in interview scenarios.</td>
                                                 </tr>
                                                 <tr>
-                                                    <td>23 Oct 24</td>
-                                                    <td>Communic ation Training (Verbal &amp; Body- language)</td>
-                                                    <td>Mr. Bipin Datar, Global Business Strategist &amp; Mentor with 40
-                                                        Years of Expertise Across 13 MNCs</td>
+                                                    <td>7</td>
+                                                    <td>4 May 26</td>
+                                                    <td>6:30-8:00 pm</td>
+                                                    <td>Networking &amp; Job Search Strategy Hub</td>
+                                                    <td>Develop strategic networking/job search plans.</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>8</td>
+                                                    <td>18 May 26</td>
+                                                    <td>6:30-8:00 pm</td>
+                                                    <td>Technical Round Prep Hub (Common)</td>
+                                                    <td>Master universal tech interview strategies.</td>
                                                 </tr>
 
                                             </tbody>
