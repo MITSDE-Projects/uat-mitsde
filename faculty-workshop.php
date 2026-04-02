@@ -219,9 +219,9 @@ if ($stmt->fetch()) {
                             <input type="hidden" name="order_id" value="<?php echo htmlspecialchars($transactionId, ENT_QUOTES, 'UTF-8'); ?>" />
                             <input type="hidden" name="currency" value="INR" />
                             <input type="hidden" name="redirect_url" id="redirect_url"
-                                value="https://mitsde.com/faculty-workshop-ResponseHandler.php" />
+                                value="https://uat.mitsde.com/faculty-workshop-ResponseHandler.php" />
                             <input type="hidden" name="cancel_url" id="cancel_url"
-                                value="https://mitsde.com/faculty-workshop-ResponseHandler.php" />
+                                value="https://uat.mitsde.com/faculty-workshop-ResponseHandler.php" />
                             <input type="hidden" name="language" value="EN" />
 
 

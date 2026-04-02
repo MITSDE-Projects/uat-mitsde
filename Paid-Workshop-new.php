@@ -282,9 +282,9 @@ if ($stmt->fetch()) {
                                 value="<?php echo htmlspecialchars($transactionId); ?>" />
                             <input type="hidden" name="currency" value="INR" />
                             <input type="hidden" name="redirect_url" id="redirect_url"
-                                value="https://mitsde.com/paid-workshop-ResponseHandler.php" />
+                                value="https://uat.mitsde.com/paid-workshop-ResponseHandler.php" />
                             <input type="hidden" name="cancel_url" id="cancel_url"
-                                value="https://mitsde.com/paid-workshop-ResponseHandler.php" />
+                                value="https://uat.mitsde.com/paid-workshop-ResponseHandler.php" />
                             <input type="hidden" name="language" value="EN" />
 
                             <div class="w-50">
