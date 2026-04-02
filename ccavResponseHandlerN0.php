@@ -205,8 +205,8 @@ $dotamt[0];
 										payment_source, PayerBankID, transationDate, t_process_id, 
 										payment_confirmation_status, PayeeInstituteID, PayeeBankID, 
 										PayeeACNo, PayeeACName, PayeeBranch, PayeeBankAddress, 
-										PayeeIFSCCode, S_Flag, response, F_Flag, API_DT, json_rs_payment
-									) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)");
+										PayeeIFSCCode, S_Flag, response, F_Flag, API_DT, course_id, json_rs_payment
+									) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)");
 
                                     $payment_source = 'ICICI';
                                     $payer_bank = '1';
@@ -247,6 +247,7 @@ $dotamt[0];
                                         $paymentMessage,
                                         $f_flag,
                                         $apidataTime,
+                                        0,
                                         $postfeeData
                                     ]);
 

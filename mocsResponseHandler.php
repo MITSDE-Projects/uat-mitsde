@@ -139,7 +139,7 @@ $dotamt[0];
 										payment_source, PayerBankID, transationDate, t_process_id, 
 										payment_confirmation_status, PayeeInstituteID, PayeeBankID, 
 										PayeeACNo, PayeeACName, PayeeBranch, PayeeBankAddress, 
-										PayeeIFSCCode, S_Flag, F_Flag) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)");
+										PayeeIFSCCode, S_Flag, F_Flag, API_DT,course_id) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)");
 
                                 $payment_source = 'ICICI';
                                 $payer_bank = '1';
@@ -173,7 +173,9 @@ $dotamt[0];
                                     $payee_address,
                                     $payee_ifsc,
                                     '0',
-                                    '1'
+                                    '1',
+                                    $apidataTime,
+                                    0
                                 ]);
 
                                 $stmt = null; // close PDO statement

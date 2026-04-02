@@ -196,8 +196,8 @@ $learnerstatus[1];
 										payment_source, PayerBankID, transationDate, t_process_id, 
 										payment_confirmation_status, PayeeInstituteID, PayeeBankID, 
 										PayeeACNo, PayeeACName, PayeeBranch, PayeeBankAddress, 
-										PayeeIFSCCode, S_Flag, response, F_Flag, harbouroffering, learnerstatus, API_DT, json_rs_payment
-									) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)");
+										PayeeIFSCCode, S_Flag, response, F_Flag, harbouroffering, learnerstatus, API_DT, course_id, json_rs_payment
+									) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)");
 
                                     $payment_source = 'ICICI';
                                     $payer_bank = '1';
@@ -240,6 +240,7 @@ $learnerstatus[1];
                                         $temp1['fees_type'],
                                         $learnerstatus[1],
                                         $apidataTime,
+                                        0,
                                         $postfeeData
                                     ]);
 

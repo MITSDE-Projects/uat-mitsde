@@ -132,8 +132,8 @@ $dotamt[0];
                             } else {
                                 try {
                                     $stmt = $conn->prepare("INSERT INTO ai_transaction
-                                    (name,email,phone,institution,Role,pagename,amount,PayU_ID,t_process_id,DT,type)
-                                    VALUES (?,?,?,?,?,?,?,?,?,?,?)");
+                                    (name,email,phone,institution,Role,pagename,amount,PayU_ID,t_process_id,DT,type,response,API_DT,json_rs_payment)
+                                    VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?)");
 
                                     $stmt->execute(array(
                                         $temp1['student_name'],
@@ -146,7 +146,10 @@ $dotamt[0];
                                         $transationID[1],
                                         $orderID[1],
                                         $DT,
-                                        "ai"
+                                        "ai",
+                                        "null",
+                                        $apidataTime,
+                                        "null"
                                     ));
                                     $stmt = null; // close PDO statement
                         

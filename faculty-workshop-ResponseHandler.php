@@ -133,8 +133,8 @@ echo "<center>";
 
                                 try {
                                     $stmt = $conn->prepare("INSERT INTO ai_transaction
-                                    (name,email,phone,institution,pagename,reg_id,experience,amount,PayU_ID,t_process_id,DT,type)
-                                    VALUES (?,?,?,?,?,?,?,?,?,?,?,?)");
+                                    (name,email,phone,institution,pagename,reg_id,experience,amount,PayU_ID,t_process_id,DT,type,response,API_DT,json_rs_payment)
+                                    VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)");
 
                                     $stmt->execute(array(
                                         $temp1['name'],
@@ -148,7 +148,10 @@ echo "<center>";
                                         $transationID[1],
                                         $orderID[1],
                                         $DT,
-                                        "workshop"
+                                        "workshop",
+                                        "null",
+                                        $apidataTime,
+                                        "null"
                                     ));
 
                                     $stmt = null; // close PDO statement
