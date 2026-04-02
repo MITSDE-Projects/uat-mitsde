@@ -134,8 +134,8 @@ $dotamt[0];
 								$ReceiptType = ($feeheadid == '60' || $feeheadid == '61') ? 'CF' : 'OC';
 
 								$stmt = $conn->prepare("INSERT INTO old_student_transaction
-								(leadID,name,email,phone,CourseName,SpecializationID,FeeHeadID,FeesType,ReceiptType,amount,PayU_ID,payment_source,PayerBankID,transationDate,t_process_id,payment_confirmation_status,PayeeInstituteID,PayeeBankID,PayeeACNo,PayeeACName,PayeeBranch,PayeeBankAddress,PayeeIFSCCode,S_Flag,F_Flag)
-								VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)");
+								(leadID,name,email,phone,CourseName,SpecializationID,FeeHeadID,FeesType,ReceiptType,amount,PayU_ID,payment_source,PayerBankID,transationDate,t_process_id,payment_confirmation_status,PayeeInstituteID,PayeeBankID,PayeeACNo,PayeeACName,PayeeBranch,PayeeBankAddress,PayeeIFSCCode,S_Flag,F_Flag,API_DT)
+								VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)");
 
 								$stmt->execute([
 									$LeadID[1],
@@ -162,7 +162,8 @@ $dotamt[0];
 									"Mayur Colony Kothrud Pune address",
 									"HDFC0000149",
 									"0",
-									"1"
+									"1",
+									$apidataTime
 								]);
 
 								$stmt = null; // close PDO statement
