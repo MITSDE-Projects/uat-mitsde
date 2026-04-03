@@ -4,7 +4,7 @@
             <div class="col-md-12 col-lg-4 fintech-certi fee-section">
                 <h4>Program <br> Fees</h4>
                 <div class="price-enquiry">
-                    <h3>₹ 96,000 /-</h3>
+                    <h3>₹ 1,05,000 /-</h3>
                     
                      <?php include "single-common-button-add-all-fees-courses-code.php" ?>
 
@@ -34,20 +34,21 @@
                     <div class="fee-card">
                         <h5 class="card-title">Course fee - Installment</h5>
                         <div class="card-body">
-                            <button type="button" class="btn btn-primary mit-button w-100">₹ 96,000 /-</button>
+                            <button type="button" class="btn btn-primary mit-button w-100">₹ 1,05,000 /-</button>
                             <ul class="fee-list">
-                                <li><span style="font-size: 12px;">At the time of admission-</span>₹ 26,000 /- </li>
-                                <li>Within 3 months - ₹ 35,000/-</li>
-                                <li>Within 6 months - ₹ 35,000/-</li>
+                                <li><span style="font-size: 12px;">At the time of admission-</span>₹ 30,000 /- </li>
+                                <li>Within 3 months - ₹ 33,000/-</li>
+                                <li>Within 6 months - ₹ 33,000/-</li>
+                                <li><b>Special Discount - ₹ 9,000</b></li>
                             </ul>
                         </div>
                     </div>
                     <div class="fee-card">
                         <h5 class="card-title">Course fee - Lumpsum</h5>
                         <div class="card-body">
-                            <button type="button" class="btn btn-primary mit-button w-100">₹ 96,000 /-</button>
+                            <button type="button" class="btn btn-primary mit-button w-100">₹ 1,05,000 /-</button>
                             <ul class="fee-list">
-                                <li>Discount- ₹ 6,000 /-</li>
+                                <li>Discount- ₹ 15,000 /-</li>
                                 <li>-</li>
                                 <li><b>Total Lumpsum- ₹ 90,000 /-</b></li>
                             </ul>

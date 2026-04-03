@@ -32,7 +32,7 @@
                         <span class="mtsk-fee"></span>
                         <div class="program-feature">
                             <p>Program Fee </p>
-                            <span>₹ 95,000 /-</span>
+                            <span>₹ 1,00,000</span>
                         </div>
                     </li>
                     <li><button type="button" class="btn btn-primary mit-button enquire-btn" data-bs-toggle="modal"
