@@ -127,7 +127,7 @@
                 "name": "What is the fee for the Executive PGDM program?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "The fee is ₹95,000."
+                    "text": "The fee is ₹ 1,00,000."
                 }
             },
             {
@@ -275,7 +275,7 @@
                                 <span class="mtsk-fee"></span>
                                 <div class="program-feature">
                                     <p>Program Fee </p>
-                                    <span>₹ 95,000 /-</span>
+                                    <span>₹ 1,00,000 /-</span>
                                 </div>
                             </li>
                             <li><button type="button" class="btn btn-primary mit-button enquire-btn"
@@ -372,7 +372,7 @@
                                 <p class="card-text">Accelerate your leadership journey & master digital marketing strategies to drive business growth!</p>
                                 <div class="course-fee">
                                     <p>Course Fees</p>
-                                    <p>&#8377; 95,000 /-</p>
+                                    <p>&#8377; 1,00,000 /-</p>
                                 </div>
                                 <a href="pgdm-executive-in-digital-marketing"> <button type="button"
                                         class="mtsk-arrow card-button"></button></a>
@@ -392,7 +392,7 @@
                                 <p class="card-text">Enhance your analytical expertise & lead data-driven decisions to power business success!</p>
                                 <div class="course-fee">
                                     <p>Course Fees</p>
-                                    <p>&#8377; 95,000 /-</p>
+                                    <p>&#8377; 1,00,000 /-</p>
                                 </div>
                                 <a href="pgdm-executive-in-business-analytics"> <button type="button"
                                         class="mtsk-arrow card-button"></button></a>
@@ -412,7 +412,7 @@
                                 <p class="card-text">Advance your IT leadership skills & drive digital innovation with strategic technology management!</p>
                                 <div class="course-fee">
                                     <p>Course Fees</p>
-                                    <p>&#8377; 95,000 /-</p>
+                                    <p>&#8377; 1,00,000 /-</p>
                                 </div>
                                 <a href="pgdm-executive-in-information-technology"> <button type="button"
                                         class="mtsk-arrow card-button"></button></a>
@@ -432,7 +432,7 @@
                                 <p class="card-text">Strengthen your financial expertise & lead strategic decisions that drive business growth!</p>
                                 <div class="course-fee">
                                     <p>Course Fees</p>
-                                    <p>&#8377; 95,000 /-</p>
+                                    <p>&#8377; 1,00,000 /-</p>
                                 </div>
                                 <a href="pgdm-executive-in-finance-management"> <button type="button"
                                         class="mtsk-arrow card-button"></button></a>
@@ -455,7 +455,7 @@
                                     strategies!</p>
                                 <div class="course-fee">
                                     <p>Course Fees</p>
-                                    <p>&#8377; 95,000 /-</p>
+                                    <p>&#8377; 1,00,000 /-</p>
                                 </div>
                                 <a href="pgdm-executive-in-modern-project-management"> <button type="button"
                                         class="mtsk-arrow card-button"></button></a>
@@ -477,7 +477,7 @@
                                     success!</p>
                                 <div class="course-fee">
                                     <p>Course Fees</p>
-                                    <p>&#8377; 95,000 /-</p>
+                                    <p>&#8377; 1,00,000 /-</p>
                                 </div>
                                 <a href="pgdm-executive-in-technology-and-operations-management"> <button type="button"
                                         class="mtsk-arrow card-button"></button></a>
@@ -498,7 +498,7 @@
                                     strategies!</p>
                                 <div class="course-fee">
                                     <p>Course Fees</p>
-                                    <p>&#8377; 95,000 /-</p>
+                                    <p>&#8377; 1,00,000 /-</p>
                                 </div>
                                 <a href="pgdm-executive-in-human-capital-management"> <button type="button"
                                         class="mtsk-arrow card-button"></button></a>
@@ -520,7 +520,7 @@
                                 </p>
                                 <div class="course-fee">
                                     <p>Course Fees</p>
-                                    <p>&#8377; 95,000 /-</p>
+                                    <p>&#8377; 1,00,000 /-</p>
                                 </div>
                                 <a href="pgdm-executive-in-banking-financial-services"> <button type="button"
                                         class="mtsk-arrow card-button"></button></a>
@@ -544,7 +544,7 @@
                                 </p>
                                 <div class="course-fee">
                                     <p>Course Fees</p>
-                                    <p>&#8377; 95,000 /-</p>
+                                    <p>&#8377; 1,00,000 /-</p>
                                 </div>
                                 <a href="pgdm-executive-in-strategic-marketing-management"> <button type="button"
                                         class="mtsk-arrow card-button"></button></a>
@@ -567,7 +567,7 @@
                                 </p>
                                 <div class="course-fee">
                                     <p>Course Fees</p>
-                                    <p>&#8377; 95,000 /-</p>
+                                    <p>&#8377; 1,00,000 /-</p>
                                 </div>
                                 <a href="pgdm-executive-in-global-logistics-and-supply-chain-management"> <button
                                         type="button" class="mtsk-arrow card-button"></button></a>
@@ -589,7 +589,7 @@
                                 </p>
                                 <div class="course-fee">
                                     <p>Course Fees</p>
-                                    <p>&#8377; 95,000 /-</p>
+                                    <p>&#8377; 1,00,000 /-</p>
                                 </div>
                                 <a href="pgdm-executive-in-construction-and-project-management"> <button type="button"
                                         class="mtsk-arrow card-button"></button></a>
@@ -850,7 +850,7 @@
 
 
 
-                                                    <p>The fee is ₹95,000.</p>
+                                                    <p>The fee is ₹ 1,00,000.</p>
 
 
 

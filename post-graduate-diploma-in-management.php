@@ -158,7 +158,7 @@
                     "name": "What is the fee for the program?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "The fee for most specializations is ₹96,000, with some specializations priced at ₹82,000."
+                        "text": "The fee for most specializations is ₹ 1,05,000, with some specializations priced at ₹82,000."
                     }
                 },
                 {
@@ -360,7 +360,7 @@
                                     industries!</p>
                                 <div class="course-fee">
                                     <p>Course Fees</p>
-                                    <p>&#8377; 96,000 /-</p>
+                                    <p>&#8377; 1,05,000 /-</p>
                                 </div>
                                 <a href="pg-diploma-in-project-management"> <button type="button"
                                         class="mtsk-arrow card-button"></button></a>
@@ -382,7 +382,7 @@
                                     ease!</p>
                                 <div class="course-fee">
                                     <p>Course Fees</p>
-                                    <p>&#8377; 96,000 /-</p>
+                                    <p>&#8377; 1,05,000 /-</p>
                                 </div>
                                 <a href="pg-diploma-in-operations-management"> <button type="button"
                                         class="mtsk-arrow card-button"></button></a>
@@ -404,7 +404,7 @@
                                 </p>
                                 <div class="course-fee">
                                     <p>Course Fees</p>
-                                    <p>&#8377; 96,000 /-</p>
+                                    <p>&#8377; 1,05,000 /-</p>
                                 </div>
                                 <a href="pg-diploma-in-human-resource-management"> <button type="button"
                                         class="mtsk-arrow card-button"></button></a>
@@ -428,7 +428,7 @@
                                 </p>
                                 <div class="course-fee">
                                     <p>Course Fees</p>
-                                    <p>&#8377; 96,000 /-</p>
+                                    <p>&#8377; 1,05,000 /-</p>
                                 </div>
                                 <a href="pg-diploma-in-information-technology"> <button type="button"
                                         class="mtsk-arrow card-button"></button></a>
@@ -451,7 +451,7 @@
                                 </p>
                                 <div class="course-fee">
                                     <p>Course Fees</p>
-                                    <p>&#8377; 96,000 /-</p>
+                                    <p>&#8377; 1,05,000 /-</p>
                                 </div>
                                 <a href="pg-diploma-in-marketing-management"> <button type="button"
                                         class="mtsk-arrow card-button"></button></a>
@@ -473,7 +473,7 @@
                                     moves!</p>
                                 <div class="course-fee">
                                     <p>Course Fees</p>
-                                    <p>&#8377; 96,000 /-</p>
+                                    <p>&#8377; 1,05,000 /-</p>
                                 </div>
                                 <a href="pg-diploma-in-finance-management"> <button type="button"
                                         class="mtsk-arrow card-button"></button></a>
@@ -497,7 +497,7 @@
                                     strategy!</p>
                                 <div class="course-fee">
                                     <p>Course Fees</p>
-                                    <p>&#8377; 96,000 /-</p>
+                                    <p>&#8377; 1,05,000 /-</p>
                                 </div>
                                 <a href="pg-diploma-in-supply-chain-management"> <button type="button"
                                         class="mtsk-arrow card-button"></button></a>
@@ -520,7 +520,7 @@
                                     efficiency!</p>
                                 <div class="course-fee">
                                     <p>Course Fees</p>
-                                    <p>&#8377; 96,000 /-</p>
+                                    <p>&#8377; 1,05,000 /-</p>
                                 </div>
                                 <a href="pg-diploma-in-material-management"> <button type="button"
                                         class="mtsk-arrow card-button"></button></a>
@@ -543,7 +543,7 @@
                                 </p>
                                 <div class="course-fee">
                                     <p>Course Fees</p>
-                                    <p>&#8377; 96,000 /-</p>
+                                    <p>&#8377; 1,05,000 /-</p>
                                 </div>
                                 <a href="pg-diploma-in-banking-finance"> <button type="button"
                                         class="mtsk-arrow card-button"></button></a>
@@ -570,7 +570,7 @@
                                 </p>
                                 <div class="course-fee">
                                     <p>Course Fees</p>
-                                    <p>&#8377; 96,000 /-</p>
+                                    <p>&#8377; 1,05,000 /-</p>
                                 </div>
                                 <a href="pg-diploma-in-construction-and-project-management"> <button type="button"
                                         class="mtsk-arrow card-button"></button></a>
@@ -727,7 +727,7 @@
                                             <div class="col-md-12 col-lg-12">
                                                 <div class="fintech-module alert brandcolor">
 
-                                                    <p>The fee for most specializations is ₹96,000, with some
+                                                    <p>The fee for most specializations is ₹ 1,05,000, with some
                                                         specializations priced at ₹82,000.
                                                     </p>
 
