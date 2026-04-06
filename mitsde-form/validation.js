@@ -270,7 +270,56 @@ function do_form_submit(form_id) {
         });
 
         
-      } else {
+      } else if (form_id == "contactform") {
+        //document.getElementsByClassName("submitbtn")[1].disabled=true;
+        document.getElementById("submitbtnsticky").style.visibility = "hidden";
+        var $inputs = $(
+          "#" +
+            form_id +
+            " textarea, " +
+            "#" +
+            form_id +
+            " :input, " +
+            "#" +
+            form_id +
+            " select"
+        );
+        //  alert("menuContactFloting");
+        var lead = {
+          AuthToken: "MITSDE-11-06-2020",
+          Source: "mitsde",
+          FirstName: $inputs[4].value,
+          MobileNumber: $inputs[6].value,
+          Email: $inputs[5].value,
+          LeadSource: "PGDM-Google_Lead-Form",
+          LeadName: "MIT Online India Website",
+          LeadType: "Online",
+          Course: "Not Known",
+          State: $inputs[7].value,
+          Textb1: $inputs[8].value,
+        };
+        //alert(JSON.stringify(lead));
+        //alert(lead);
+        $.ajax({
+          url: "https://thirdpartyapi.extraaedge.com/api/SaveRequest",
+          type: "POST",
+          data: JSON.stringify(lead),
+          dataType: "Text",
+          crossDomain: true,
+          contentType: "application/json; charset=utf-8",
+          success: function (response) {
+            $("#" + form_id).submit();
+          },
+          error: function (response) {
+            //alert(JSON.stringify(response));
+            alert("You have already submited a form");
+            location.reload();
+          },
+        });
+
+        
+      }
+      else {
         $("#" + form_id).submit();
       }
     } else {
