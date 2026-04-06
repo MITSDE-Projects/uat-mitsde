@@ -14,7 +14,6 @@ if( ini_get('allow_url_fopen') ) {
  echo "</br>long-->". $long = $output->results[0]->geometry->location->lng; */
 
 // Google Maps API Key 
-$GOOGLE_API_KEY = 'AIzaSyCZu4lPDmoQCIEKsnbN-Ah_1rUH4FXdgn4'; 
  
 // Latitude & Longitude from which the address will be retrieved 
 $latitude = '19.350419'; 
@@ -24,7 +23,6 @@ $longitude = '75.2194';
 $formatted_latlng = trim($latitude).','.trim($longitude); 
  
 // Get geo data from Google Maps API by lat lng 
-$geocodeFromLatLng = file_get_contents("https://maps.googleapis.com/maps/api/geocode/json?latlng={$formatted_latlng}&key={$GOOGLE_API_KEY}"); 
  
 // Decode JSON data returned by API 
 $apiResponse = json_decode($geocodeFromLatLng); 
