@@ -242,7 +242,7 @@
                                 <tr>
                                     <td>9</td>
                                     <td>Project Evaluation</td>
-                                    <td>&#8377; 1500</td>
+                                    <td>&#8377; 2000</td>
                                     <td>&#36 30</td>
                                 </tr>
 
@@ -271,6 +271,13 @@
                                     <td>13</td>
                                     <td>Elective change charges</td>
                                     <td>&#8377; 500</td>
+                                    <td>-</td>
+                                </tr>
+
+                                <tr>
+                                    <td>14</td>
+                                    <td>Exam Fee Per Paper</td>
+                                    <td>&#8377; 750</td>
                                     <td>-</td>
                                 </tr>
 

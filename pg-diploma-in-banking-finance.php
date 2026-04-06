@@ -372,8 +372,8 @@
 
         </section>
 
-        <?php include "2-kpmg-not-added-fees-PGDM-first-common-fees.php" ?>
-
+        <?php //include "2-kpmg-not-added-fees-PGDM-first-common-fees.php" ?>
+        <?php include "2-PGDM-first-common-fees.php" ?>
 
 
 
@@ -1054,7 +1054,8 @@
 
 
 
-        <?php include "2-kpmg-not-added-fees-PGDM-second-common-fees.php" ?>
+        <?php //include "2-kpmg-not-added-fees-PGDM-second-common-fees.php" ?>
+        <?php include "2-PGDM-second-common-fees.php" ?>
 
 
 

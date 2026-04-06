@@ -64,8 +64,7 @@
 <div class="alert brandcolor" role="alert"><b>Note :</b><br>
     <ul class="fin-feature2" style="list-style: none;">
 
-        <li><strong>Students are required to pay additional exam fee per
-                exam per attempt and Project Evaluation Fees. </strong> </li>
+        <li><strong>Students are required to pay additional Exam Fee - ₹750 and Project Evaluation Fees - ₹2,000.</strong> </li>
 
 
         <strong>For Installments</strong>
