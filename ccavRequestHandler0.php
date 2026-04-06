@@ -130,14 +130,14 @@ foreach ($_POST as $key => $value) {
 }
 $merchant_data = rtrim($merchant_data, '&');
 
-$working_key = 'DC043516F6F3B974D64CE6970A15D053';
-$access_code = 'AVZO14KI67BP49OZPB';
+$working_key = '55A12AAF330B490C9DBC6F2F1125EB08';
+$access_code = 'ATVD06ND81AB93DVBA';
 
 $encrypted_data = encrypt($merchant_data, $working_key);
 ?>
 
 <form method="post" name="redirect"
-action="https://secure.ccavenue.com/transaction/transaction.do?command=initiateTransaction">
+action="https://test.ccavenue.com/transaction/transaction.do?command=initiateTransaction">
     <input type="hidden" name="encRequest" value="<?php echo $encrypted_data; ?>">
     <input type="hidden" name="access_code" value="<?php echo $access_code; ?>">
 </form>

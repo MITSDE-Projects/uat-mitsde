@@ -9,7 +9,7 @@ include("PHPMailer/class.smtp.php");
 error_reporting(E_ALL);
 ini_set('display_errors', 0);
 
-$workingKey = 'DC043516F6F3B974D64CE6970A15D053';		//Working Key should be provided here.
+$workingKey = '55A12AAF330B490C9DBC6F2F1125EB08';		//Working Key should be provided here.
 
 $encResponse = $_POST["encResp"];			//This is the response sent by the CCAvenue Server
 $rcvdString = decrypt($encResponse, $workingKey);		//Crypto Decryption used as per the specified working key.
