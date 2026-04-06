@@ -215,7 +215,7 @@ $pagename = (isset($_SERVER['HTTPS']) ? "https" : "http") . "://$_SERVER[HTTP_HO
 
 <body>
     <form action="https://mitsde.com/mitsde-form/thankyou.php" method="post"
-        class="reservation-form mt-20 myFormH w-100" style="border-radius: 5px; background:#F47521; padding: 10px;"
+        class="reservation-form mt-20 myFormH w-100" style="border-radius: 5px; background:#212529; padding: 10px;"
         accept-charset="utf-8" name="menuContactFloting" id="menuContactFloting" novalidate="novalidate">
 
         <input type="hidden" name="csrf_test_name" value="e678298614a47d7e40efe0ccaf02b49c" />
@@ -224,7 +224,7 @@ $pagename = (isset($_SERVER['HTTPS']) ? "https" : "http") . "://$_SERVER[HTTP_HO
         <input type="hidden" name="request_type3" value="Enquiry" />
 
         <h6 class="text-white">Get in touch
-            <a href="tel:9112-207-207" style="text-decoration:none; color:#FFF; font-size:18px;">
+            <a href="tel:9112-207-207" style="text-decoration: none; color: #FFF; font-size: 22px; color: #F47521">
                 +91 9112-207-207
             </a>
         </h6>
