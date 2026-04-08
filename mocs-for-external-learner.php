@@ -15,7 +15,6 @@
     <meta name="keywords"
         content="MIT office of career services,  mitsde, Soft Skills Training,  Stress Management, mit career services, success, help, academicsuccess, educationalgoals " />
 
-    <meta name="robots" content="noindex, nofollow" />.
     <!-- CANONICAL TAG -->
     <link rel="canonical" href="https://mitsde.com/mocs-for-external-learner" />
     <!-- CANONICAL TAG -->
