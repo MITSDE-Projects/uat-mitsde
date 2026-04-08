@@ -104,7 +104,7 @@
                     <div>
                         <div class="row">
                             <a href="https://mitsde.com/pgdm-executive-emba-dual-program">
-                                <img src="assets/images/homeimages/MITSDE-Banner_31-03-26.jpg" class="banner-img img-fluid"
+                                <img src="assets/images/homeimages/MITSDE-Banner_08-04-26.jpg" class="banner-img img-fluid"
                                     alt="Banner 1" fetchpriority="high" loading="eager" decoding="async"></a>
 
                         </div>
