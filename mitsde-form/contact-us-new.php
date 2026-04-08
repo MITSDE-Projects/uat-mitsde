@@ -195,8 +195,9 @@ $pagename = (isset($_SERVER['HTTPS']) ? "https" : "http") . "://$_SERVER[HTTP_HO
             color: #000000;
             background: #FDF7F2;
             border-radius: 18px;
+            border: 1px solid #CCC;
             padding: 28px;
-            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+            /* box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15); */
         }
 
         .lead-form .form-control {
@@ -331,7 +332,7 @@ $pagename = (isset($_SERVER['HTTPS']) ? "https" : "http") . "://$_SERVER[HTTP_HO
                 <div class="form-check">
                     <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked" checked>
                     <small class="text-dark" style="font-size:7px;">
-                        I authorize mitonlineindia representative to contact me, this will override DND/NDNC registry.
+                        I authorize MITSDE representative to contact me, this will override DND/NDNC registry.
                     </small>
                 </div>
 
