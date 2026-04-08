@@ -1,10 +1,6 @@
 RewriteEngine On
 
-# Redirect www to non-www
-RewriteCond %{HTTP_HOST} ^www\.uat\.mitsde\.com [NC]
-RewriteRule ^(.*)$ https://uat.mitsde.com/$1 [L,R=301]
-
-# Your existing rule
+# If file without extension exists as .php, load it
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}.php -f
 RewriteRule ^([^\.]+)$ $1.php [L]
