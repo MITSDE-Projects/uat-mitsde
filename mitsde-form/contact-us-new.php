@@ -245,7 +245,7 @@ $pagename = (isset($_SERVER['HTTPS']) ? "https" : "http") . "://$_SERVER[HTTP_HO
 <body>
     <div class="d-flex justify-content-end">
         <div class="lead-form">
-            <h6 class="mb-3 fw-bold">Fil in your details here</h6>
+            <h6 class="mb-3 fw-bold">Fill in your details here</h6>
             <form action="https://mitsde.com/mitsde-form/thankyou.php" method="post"
                 class="reservation-form mt-20 myFormH w-100" accept-charset="utf-8" name="contactform"
                 id="contactform" novalidate="novalidate">
