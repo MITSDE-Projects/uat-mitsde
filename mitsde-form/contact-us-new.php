@@ -205,6 +205,10 @@ $pagename = (isset($_SERVER['HTTPS']) ? "https" : "http") . "://$_SERVER[HTTP_HO
             padding: 5px 15px;
         }
 
+        .lead-form .form-check {
+            line-height: 10px;
+        }
+
         .lead-form .form-select {
             border-radius: 999px;
         }
