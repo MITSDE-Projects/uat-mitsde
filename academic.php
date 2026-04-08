@@ -16,7 +16,7 @@
 
     <!-- CANONICAL TAG -->
     <!-- Page Title -->
-    <title>Academic_1</title>
+    <title>Academic</title>
     <link rel="icon" type="image/png" href="assets/images/favicon-mit.ico" />
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
     <link rel="stylesheet" href="assets/css/bootstrap-select.min.css" />
