@@ -245,10 +245,10 @@ $pagename = (isset($_SERVER['HTTPS']) ? "https" : "http") . "://$_SERVER[HTTP_HO
 <body>
     <div class="d-flex justify-content-end">
         <div class="lead-form">
-            <h6 class="mb-3 fw-bold">Fill in your details here</h6>
+            <h6 class="mb-3 fw-bold">Fill out your details for free career counseling</h6>
             <form action="https://mitsde.com/mitsde-form/thankyou.php" method="post"
-                class="reservation-form mt-20 myFormH w-100" accept-charset="utf-8" name="contactform"
-                id="contactform" novalidate="novalidate">
+                class="reservation-form mt-20 myFormH w-100" accept-charset="utf-8" name="contactform" id="contactform"
+                novalidate="novalidate">
 
                 <input type="hidden" name="csrf_test_name" value="e678298614a47d7e40efe0ccaf02b49c" />
                 <input type="hidden" id="product_id3" name="product_id3" value="0" />
@@ -257,20 +257,21 @@ $pagename = (isset($_SERVER['HTTPS']) ? "https" : "http") . "://$_SERVER[HTTP_HO
 
                 <div class="mb-1">
                     <input name="first_name3" type="text" class="form-control" value="First Name*"
-                        onBlur="javascript:addDefault(this,'contactform')"
-                        onFocus="javascript:removeDefault(this)" validate="Required|First Name*" />
+                        onBlur="javascript:addDefault(this,'contactform')" onFocus="javascript:removeDefault(this)"
+                        validate="Required|First Name*" />
                 </div>
 
                 <div class="mb-1">
                     <input name="email3" type="text" class="form-control" value="Email*"
-                        onBlur="javascript:addDefault(this,'contactform')"
-                        onFocus="javascript:removeDefault(this)" validate="Email|Email*" />
+                        onBlur="javascript:addDefault(this,'contactform')" onFocus="javascript:removeDefault(this)"
+                        validate="Email|Email*" />
                 </div>
 
                 <div class="mb-1">
-                    <input name="MobileNumber" class="form-control" type="text" value="MobileNumber*"
-                        onBlur="javascript:addDefault(this,'contactform')"
-                        onFocus="javascript:removeDefault(this)" validate="Required|Phone|Phone*" />
+                    <input name="MobileNumber" class="form-control" type="tel" value="MobileNumber*"
+                        onblur="addDefault(this,'contactform')" onfocus="removeDefault(this)"
+                        oninput="this.value = this.value.replace(/[^0-9]/g, '')" maxlength="10"
+                        validate="Required|Phone|Phone*" />
                 </div>
 
                 <select name="state" class="form-select form-control mb-1" id="state" validate="Required|State|State*">
@@ -342,8 +343,7 @@ $pagename = (isset($_SERVER['HTTPS']) ? "https" : "http") . "://$_SERVER[HTTP_HO
 
                 <div class="form-group">
                     <input type="hidden" name="submitthirdcontact" value="submitthirdcontact" />
-                    <button type="button" id="submitbtnsticky"
-                        class="btn-common w-100"
+                    <button type="button" id="submitbtnsticky" class="btn-common w-100"
                         onClick="validate('contactform')">
                         Register Now
                     </button>
