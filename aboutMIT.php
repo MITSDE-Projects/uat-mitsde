@@ -65,7 +65,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 col-lg-6 main-banner">
-                        <h2>About MIT </h2>
+                        <h1>About MIT </h1>
                         
                         <div class="page-btn mt-2">
 
