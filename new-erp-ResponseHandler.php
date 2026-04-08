@@ -412,9 +412,9 @@ $dotamt[0];
                                                 if ($description == "Installment")
                                                     echo "\x20(Next Installment needs to be paid within 3 months duration from first payment.)"; ?></b>
                                             </p>
-                                            <p>4) Exam fees – INR 500 per paper (if applicable for the course, payable at the
+                                            <p>4) Exam fees – INR 750 per paper (if applicable for the course, payable at the
                                                 time of examination)</p>
-                                            <p>5) Project fees- INR 1500 (If applicable for the course, payable at the time of
+                                            <p>5) Project fees- INR 2000 (If applicable for the course, payable at the time of
                                                 submitting the project)</p>
 
                                             <p>Referral Policy*</p>
