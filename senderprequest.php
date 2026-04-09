@@ -131,12 +131,12 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         $response1 = json_decode($resp, true);
 
         echo "</br>result_msg1----->" . $response1['ResultMessage'];
-        echo "</br><center><a href='https://www.uat.mitsde.com/senderp'>Go Back</a></center>";
+        echo "</br><center><a href='https://uat.mitsde.com/senderp'>Go Back</a></center>";
 
     } else {
 
         echo "</br></br><center>Some compulsory fields are missing</center>";
-        echo "</br><center><a href='https://www.uat.mitsde.com/senderp'>Go Back</a></center>";
+        echo "</br><center><a href='https://uat.mitsde.com/senderp'>Go Back</a></center>";
         die;
     }
 
@@ -144,7 +144,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
     $message = 'An <strong>unexpected error</strong> occured. Please Try Again later.';
 
-    echo "</br><a href='https://www.uat.mitsde.com/senderp'>Go Back</a>";
+    echo "</br><a href='https://uat.mitsde.com/senderp'>Go Back</a>";
 
     die;
 }
