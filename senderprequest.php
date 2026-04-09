@@ -63,8 +63,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         }
 
         $Course = trim($_POST['merchant_param1']);
-        $courseinfo = explode('_', $Course);
-        $course_id = $courseinfo[0];
         $S_ID = trim($_POST['SpecializationID']);
         $dual_S_ID = trim($_POST['SecondSpecializationID']);
         $counselleremailid = filter_var($_POST['merchant_param4'], FILTER_VALIDATE_EMAIL);
@@ -95,7 +93,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             "Gender"            => $gender,
             "MobileNumber"      => $MobileNo,
             "EmailAddress"      => $Email,
-            "ParentProgramId"   => $course_id,
+            "ParentProgramId"   => $Course,
             "SpecializationID"  => $S_ID,
             "CallStatusId"      => 1,
             "CounsellorName"    => $new_counselorName,

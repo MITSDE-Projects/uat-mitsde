@@ -272,23 +272,27 @@ include("admin/include/configpdo.php");
                                 </div>
 
                                 <div class="form-group col-sm-6 flex-column d-flex mt-2">
+                                    <!-- <div class="form-group"><input type="text" class="form-control"
+                                            name="merchant_param1" id="merchant_param1" value=""
+                                            placeholder="Course Name"> </div> -->
+
                                     <select class="form-select form-select-md" name="merchant_param1"
-                                        id="merchant_param1"
-                                        onchange="getSpecializations(this.value); toggleSecondDropdown(this.value);">
+                                        id="merchant_param1" onchange="getSpecializations(this.value)">
                                         <option value="">Select Course</option>
                                         <?php
-                                        $stmt = $conn->prepare("SELECT * FROM NewCourseERP ORDER BY courseno ASC");
+                                        $stmt = $conn->prepare("SELECT * FROM `NewCourseERP`");
                                         $stmt->execute();
-                                        $getCourses = $stmt->fetchAll(PDO::FETCH_ASSOC);
+                                        $courses = $stmt->fetchAll();
 
-                                        foreach ($getCourses as $row) {
+                                        foreach ($courses as $row) {
                                             $CourseID = $row['CourseID'];
                                             $CourseName = $row['CourseName'];
-                                            echo "<option value='{$CourseID}_{$CourseName}'>$CourseName</option>";
+                                            echo "<option value='" . htmlspecialchars($CourseID) . "'>" . htmlspecialchars($CourseName) . "</option>";
                                         }
                                         ?>
                                     </select>
                                 </div>
+
                                 <div class="form-group col-sm-6 flex-column d-flex mt-2">
 
 
@@ -299,40 +303,7 @@ include("admin/include/configpdo.php");
                                     </select>
                                 </div>
 
-                                <!-- Secondary Specialization (shown only for Dual MBA) -->
-                                <div class="form-group col-sm-6 flex-column mt-2" id="secondSpecializationDiv"
-                                    style="display: none;">
-                                    <select class="form-select form-select-md" name="SecondSpecializationID"
-                                        id="SecondSpecializationID">
-                                        <option value="">Select EMBA Specializations</option>
-                                        <option value="1_EMBA in Finance Management">EMBA in Finance Management</option>
-                                        <option value="2_EMBA in Human Resource Management">EMBA in Human Resource
-                                            Management</option>
-                                        <option value="3_EMBA in Marketing Management">EMBA in Marketing Management
-                                        </option>
-                                        <option value="4_EMBA in Operations Management">EMBA in Operations Management
-                                        </option>
-                                        <option value="5_EMBA in Project Management">EMBA in Project Management</option>
-                                        <option value="6_EMBA in Business Analytics & AI">EMBA in Business Analytics &
-                                            AI</option>
-                                    </select>
-                                </div>
 
-                                <script>
-                                    // When course is selected
-                                    function toggleSecondDropdown(courseValue) {
-                                        const courseParts = courseValue.split("_");
-                                        const courseName = courseParts[1] || '';
-
-                                        // Show secondary specialization only for Dual Program
-                                        if (courseName.toLowerCase().includes("dual program")) {
-                                            document.getElementById('secondSpecializationDiv').style.display = 'flex';
-                                        } else {
-                                            document.getElementById('secondSpecializationDiv').style.display = 'none';
-                                            document.getElementById('SecondSpecializationID').value = ''; // reset
-                                        }
-                                    }
-                                </script>
 
 
                                 <input type="hidden" name="delivery_address" value="" /></td>
