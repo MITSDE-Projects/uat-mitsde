@@ -1,6 +1,6 @@
 <?php
 // MITSDE ROI Calculator - Anthropic AI Proxy
-define('ANTHROPIC_API_KEY', getenv('ANTHROPIC_API_KEY') ?: $_ENV['ANTHROPIC_API_KEY'] ?? $_SERVER['ANTHROPIC_API_KEY'] ?? '');
+define('ANTHROPIC_API_KEY', getenv('ANTHROPIC_API_KEY') ?: '');
 
 header('Content-Type: application/json');
 header('Access-Control-Allow-Origin: https://mitsde.com');
