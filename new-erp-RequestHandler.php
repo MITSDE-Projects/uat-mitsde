@@ -64,7 +64,14 @@ $Course = trim($_POST['merchant_param1']);  //merchant_param2
 
 // echo "</br>c_name-->".$counsellername= $_POST['merchant_param2'];
 
-$S_ID = trim($_POST['SpecializationID']);
+if ($Course == "38_SQL Power Bi Certification") {
+    $S_ID = 0;
+}
+else if ($Course == "47_Gen AI for Educators Program") {
+    $S_ID = 0;
+} else {
+    $S_ID = isset($_POST['SpecializationID']) ? trim($_POST['SpecializationID']) : '';
+}
 $dual_S_ID = trim($_POST['SecondSpecializationID']);
 $counselleremailid = filter_var($_POST['merchant_param4'], FILTER_VALIDATE_EMAIL);
 $stmt = $conn->prepare("SELECT full_name FROM tbl_counselor WHERE email = ?");
