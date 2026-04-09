@@ -65,9 +65,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         $Course = trim($_POST['merchant_param1']);
         $courseinfo = explode('_', $Course);
         $course_id = $courseinfo[0];
-        echo "</br>course_id-->" . $course_id;
         $S_ID = trim($_POST['SpecializationID']);
-        echo "</br>S_ID-->" . $S_ID;
         $dual_S_ID = trim($_POST['SecondSpecializationID']);
         $counselleremailid = filter_var($_POST['merchant_param4'], FILTER_VALIDATE_EMAIL);
 
@@ -113,7 +111,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         $curl = curl_init();
 
         curl_setopt_array($curl, array(
-            CURLOPT_URL => 'https://mitpro.mite.com/Webapi/api/CRM/UpdateLeadDetails',
+            CURLOPT_URL => 'https://mitpro.mitsde.com/Webapi/api/CRM/UpdateLeadDetails',
             CURLOPT_RETURNTRANSFER => true,
             CURLOPT_ENCODING => '',
             CURLOPT_MAXREDIRS => 10,
@@ -135,12 +133,12 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         $response1 = json_decode($resp, true);
 
         echo "</br>result_msg1----->" . $response1['ResultMessage'];
-        echo "</br><center><a href='https://www.mite.com/senderp'>Go Back</a></center>";
+        echo "</br><center><a href='https://www.uat.mitsde.com/senderp'>Go Back</a></center>";
 
     } else {
 
         echo "</br></br><center>Some compulsory fields are missing</center>";
-        echo "</br><center><a href='https://www.mite.com/senderp'>Go Back</a></center>";
+        echo "</br><center><a href='https://www.uat.mitsde.com/senderp'>Go Back</a></center>";
         die;
     }
 
@@ -148,7 +146,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
     $message = 'An <strong>unexpected error</strong> occured. Please Try Again later.';
 
-    echo "</br><a href='https://www.mitsde.com/senderp'>Go Back</a>";
+    echo "</br><a href='https://www.uat.mitsde.com/senderp'>Go Back</a>";
 
     die;
 }
