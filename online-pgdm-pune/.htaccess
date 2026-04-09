@@ -1,13 +1,9 @@
 RewriteEngine On
 RewriteBase /online-pgdm-pune/
 
-# Set default index files
+# Redirect index.html → clean URL
+RewriteCond %{THE_REQUEST} /index\.html [NC]
+RewriteRule ^index\.html$ /online-pgdm-pune/ [R=301,L]
+
+# Default index files
 DirectoryIndex index.php index.html index.htm
-
-# Allow existing files and folders (VERY IMPORTANT)
-RewriteCond %{REQUEST_FILENAME} -f [OR]
-RewriteCond %{REQUEST_FILENAME} -d
-RewriteRule ^ - [L]
-
-# Redirect remaining requests to index.php
-RewriteRule ^(.*)$ index.php/$1 [L]
