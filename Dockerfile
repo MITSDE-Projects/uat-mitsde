@@ -5,10 +5,11 @@ RUN apt-get update && apt-get install -y \
     zip \
     unzip \
     curl \
-    libzip-dev
+    libzip-dev \
+    libpq-dev
 
 # Install PHP extensions
-RUN docker-php-ext-install mysqli pdo pdo_mysql zip
+RUN docker-php-ext-install mysqli pdo pdo_mysql pdo_pgsql pgsql zip
 
 # Enable Apache modules
 RUN a2enmod rewrite remoteip headers
