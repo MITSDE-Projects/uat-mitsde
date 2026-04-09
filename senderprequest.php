@@ -65,6 +65,8 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         $Course = trim($_POST['merchant_param1']);
         $courseinfo = explode('_', $Course);
         $course_id = $courseinfo[0];
+        echo "</br>course_id-->" . $course_id;
+        die;
         $S_ID = trim($_POST['SpecializationID']);
         $dual_S_ID = trim($_POST['SecondSpecializationID']);
         $counselleremailid = filter_var($_POST['merchant_param4'], FILTER_VALIDATE_EMAIL);
