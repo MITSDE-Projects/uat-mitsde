@@ -66,6 +66,17 @@
             </div>
 
         </div>
+
+        <section class="mt-3">
+            <div class="container">
+                <div class="alert alert-warning" style="display: flex; justify-content: center;" role="alert">
+                    <a href="roi-calculator.php">
+                        <h3>Turn Your Fees into Future Salary — Calculate ROI →</h3>
+                    </a>
+                </div>
+            </div>
+        </section>
+
         <div class="alert brandcolor" role="alert"><b>Note :</b><br>
             <ul class="fin-feature2" style="list-style: none;">
 

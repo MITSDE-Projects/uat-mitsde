@@ -1297,8 +1297,6 @@
             </div>
         </section>
 
-        <?php include "roi-calculator/index.html" ?>
-
         <!-- mitsde content end -->
 
         <?php include "faq-of-kpmg-project-management.php" ?>
