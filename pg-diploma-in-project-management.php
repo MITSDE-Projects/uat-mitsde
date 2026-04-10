@@ -8,7 +8,7 @@
 
     <title>Online PG Diploma in Project Management | MITSDE - 2026</title>
     <meta name="description"
-        content="Enroll in MITSDE’s online PG diploma in project management to gain essential skills and certification. Advance your career with our industry-focused PG Diploma program. "/>
+        content="Enroll in MITSDE’s online PG diploma in project management to gain essential skills and certification. Advance your career with our industry-focused PG Diploma program. " />
 
     <meta name="keywords"
         content="Post graduate diploma in project management, pgdm in project management in india, PG Dipoma in project management distance education, PGDM in project management distance learning, PGDM in project management online, PGDM in project management from distance, PGDM in project management, distance pgdm in poject management, online pgdm in project management, online pg in project management,project management courses" />
@@ -252,8 +252,8 @@
                 <div class="row">
                     <div class="col-md-12 col-lg-6 main-banner">
                         <h1>Online PGDM Course In Project Management</h1>
-                        <p><img src="assets/images/course/pgdm/kpmg.png" class="img-fluid" title="KPMG Association with PGDM" alt="KPMG logo"
-                                style="height: 50px;">
+                        <p><img src="assets/images/course/pgdm/kpmg.png" class="img-fluid"
+                                title="KPMG Association with PGDM" alt="KPMG logo" style="height: 50px;">
                             in India across is the academic partner for the Project Analytics
                             Certification Program. (Optional)
 
@@ -267,6 +267,9 @@
                                 class="btn btn-primary mit-button cus-btn inner-cus ms-0">
                                 <span class="mtsk-download"></span> &nbsp; Download BROCHURE
                             </a>
+
+                            <a href="https://mitsde.com/roi"
+                                class="btn btn-primary mit-button cus-btn inner-cus ms-2">Career ROI Calculator</a>
 
 
                         </div>
@@ -289,12 +292,14 @@
                     <div class="col-md-12 col-lg-6">
                         <div class="css-details">
                             <div class="stc-det student-sec inner-sec">
-                                <img src="assets/images/course/pgdm/Project-Management-icon1.jpg" alt="Project Management Icon 1">
+                                <img src="assets/images/course/pgdm/Project-Management-icon1.jpg"
+                                    alt="Project Management Icon 1">
                             </div>
-                            <img src="assets/images/course/pgdm/PGDM-Project-Management.jpg" class="banner-img" title="PGDM in Project Management"
-                                alt="project management concepts">
+                            <img src="assets/images/course/pgdm/PGDM-Project-Management.jpg" class="banner-img"
+                                title="PGDM in Project Management" alt="project management concepts">
                             <div class="stc-det course-sec inner-sec">
-                                <img src="assets/images/course/pgdm/PGDM-Operations-Management_Icon-1.jpg" alt="PGDM Operations Management Icon 1">
+                                <img src="assets/images/course/pgdm/PGDM-Operations-Management_Icon-1.jpg"
+                                    alt="PGDM Operations Management Icon 1">
                             </div>
                         </div>
                     </div>
@@ -323,6 +328,16 @@
 
         </section>
 
+        <section class="mt-3">
+            <div class="container">
+                <div class="alert alert-warning" style="display: flex; justify-content: center;" role="alert">
+                    <a href="roi-calculator.php">
+                        <h3>Calculate Your Career ROI in 30 Seconds →</h3>
+                    </a>
+                </div>
+            </div>
+        </section>
+
         <!-- KPMG CONTENT -->
 
         <section id="kpmg">
@@ -332,16 +347,22 @@
                 <div class="row">
                     <div class="col-md-8">
                         <p class="course-description">
-                            Explore KPMG's comprehensive project management course, ideal for <a class="text-decoration-none" href="https://blog.mitsde.com/how-a-pgdm-in-project-management-can-advance-your-career-in-2025/">PGDM in Project Management</a>.
-                            Covering key principles and practical skills across Predictive, Agile, and Hybrid methodologies, it
+                            Explore KPMG's comprehensive project management course, ideal for <a
+                                class="text-decoration-none"
+                                href="https://blog.mitsde.com/how-a-pgdm-in-project-management-can-advance-your-career-in-2025/">PGDM
+                                in Project Management</a>.
+                            Covering key principles and practical skills across Predictive, Agile, and Hybrid
+                            methodologies, it
                             includes
                             hands-on training in WBS, CPM, resource allocation, and budgeting using Microsoft Project,
                             Primavera, and
                             JIRA. Participants gain insights into risk management, quality assurance, and effective
                             communication
-                            strategies, essential for creating robust project plans. This course culminates with advanced
+                            strategies, essential for creating robust project plans. This course culminates with
+                            advanced
                             scheduling
-                            techniques, procurement planning, and project integration best practices, equipping professionals
+                            techniques, procurement planning, and project integration best practices, equipping
+                            professionals
                             with the
                             tools to excel in dynamic project environments and ensure successful project outcomes
                         </p>
@@ -751,12 +772,17 @@
                                 <div class="col-md-3 d-flex justify-content-center  align-items-center">
                                     <h5 class="text-white"><b>Tool Used</b></h5>
                                 </div>
-                                <div class="col-md-3"><img src="assets/images/course/pgdm/kpmg/oracle-new-image.jpg" title="Oracle Integration in Course Curriculum"
-                                        alt="Oracle software training visual" loading="lazy" class="img-fluid rounded-2"></div>
-                                <div class="col-md-3"> <img src="assets/images/course/pgdm/kpmg/jira.jpg" title="Jira Tool for Project Management" alt="Visual of Jira software"
+                                <div class="col-md-3"><img src="assets/images/course/pgdm/kpmg/oracle-new-image.jpg"
+                                        title="Oracle Integration in Course Curriculum"
+                                        alt="Oracle software training visual" loading="lazy"
+                                        class="img-fluid rounded-2"></div>
+                                <div class="col-md-3"> <img src="assets/images/course/pgdm/kpmg/jira.jpg"
+                                        title="Jira Tool for Project Management" alt="Visual of Jira software"
                                         loading="lazy" class="img-fluid rounded-2"></div>
-                                <div class="col-md-3"> <img src="assets/images/course/pgdm/kpmg/ms-new.jpg" title="Microsoft Tools in PGDM Curriculum" alt="Microsoft product training representation"
-                                        loading="lazy" class="img-fluid rounded-2"></div>
+                                <div class="col-md-3"> <img src="assets/images/course/pgdm/kpmg/ms-new.jpg"
+                                        title="Microsoft Tools in PGDM Curriculum"
+                                        alt="Microsoft product training representation" loading="lazy"
+                                        class="img-fluid rounded-2"></div>
                             </div>
 
 
@@ -792,7 +818,9 @@
                             demands professionals with multitasking ability, analytical thinking, and excellent
                             communication skills.</p>
 
-                        <p>MITSDE’s <b><a class="text-decoration-none" href="https://blog.mitsde.com/how-a-pgdm-in-project-management-prepares-you-for-leadership-roles/">PG Diploma in Project Management</a></b> course is designed according to the
+                        <p>MITSDE’s <b><a class="text-decoration-none"
+                                    href="https://blog.mitsde.com/how-a-pgdm-in-project-management-prepares-you-for-leadership-roles/">PG
+                                    Diploma in Project Management</a></b> course is designed according to the
                             curriculum of the Project Management Institute (PMI), by eminent trainers and
                             experts. The course helps nurture project managers to play a pivotal role in the
                             establishment of the scope of the project, and then oversee its progress until
@@ -896,7 +924,7 @@
                                                             <td>Lean Management Systems</td>
                                                             <td>4 credits</td>
                                                         </tr>
-                                                       
+
                                                     </tbody>
                                                 </table>
                                                 <div class="alert brandcolor" align="right" role="alert">
@@ -966,7 +994,7 @@
                                                             <td>Project Work</td>
                                                             <td>6 credits</td>
                                                         </tr>
-                                                      
+
                                                     </tbody>
                                                 </table>
                                                 <div class="alert brandcolor" align="right" role="alert">
@@ -1045,7 +1073,7 @@
                                                             <td>Elective 2</td>
                                                             <td>4 credits</td>
                                                         </tr>
-                                                       
+
 
                                                     </tbody>
                                                 </table>
@@ -1102,7 +1130,7 @@
                                     <div class="alert brandcolor" align="right" role="alert">
                                         Total Credits 86
                                     </div>
-                                   
+
 
 
                                 </ul>
@@ -1264,6 +1292,17 @@
 
                             </div>
                         </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="overview" class="enroll-certification">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 col-lg-12 fintech-certi">
+                        <?php include "roi-calculator/index.html" ?>
+                        <?php //include "calculator.php" ?>
                     </div>
                 </div>
             </div>

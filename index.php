@@ -43,11 +43,13 @@
 
     <!-- Page Title -->
     <link rel="icon" type="image/png" href="assets/images/favicon-mit.ico" />
-    
+
     <!-- Preload CSS (Non-blocking) -->
-     <link rel="preload" href="assets/css/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <link rel="preload" href="assets/css/bootstrap-select.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <link rel="preload" href="assets/fontawesome/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="preload" href="assets/css/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="preload" href="assets/css/bootstrap-select.min.css" as="style"
+        onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="preload" href="assets/fontawesome/css/all.min.css" as="style"
+        onload="this.onload=null;this.rel='stylesheet'">
     <link rel="preload" href="assets/css/slick.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
     <link rel="preload" href="assets/css/fonts.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
     <link rel="preload" href="assets/css/style.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
@@ -103,9 +105,19 @@
 
                     <div>
                         <div class="row">
+                            <a href="https://mitsde.com/roi.php"> <img
+                                    src="assets/images/homeimages/roi-calculator-banner.jpg" alt="ROI Calculator Banner"
+                                    class="banner-img img-fluid" loading="lazy" decoding="async"></a>
+
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="row">
                             <a href="https://mitsde.com/pgdm-executive-emba-dual-program">
-                                <img src="assets/images/homeimages/MITSDE-Banner_08-04-26.jpg" class="banner-img img-fluid"
-                                    alt="Banner 1" fetchpriority="high" loading="eager" decoding="async"></a>
+                                <img src="assets/images/homeimages/MITSDE-Banner_08-04-26.jpg"
+                                    class="banner-img img-fluid" alt="Banner 1" fetchpriority="high" loading="eager"
+                                    decoding="async"></a>
 
                         </div>
                     </div>
@@ -145,9 +157,8 @@
                     <div>
                         <div class="row">
                             <a href="https://mitsde.com/post-graduate-diploma-in-management"> <img
-                                    src="assets/images/homeimages/Banner_PGDM.jpg"
-                                    class="banner-img img-fluid" loading="lazy" decoding="async"
-                                    alt="Banner_PGDM"></a>
+                                    src="assets/images/homeimages/Banner_PGDM.jpg" class="banner-img img-fluid"
+                                    loading="lazy" decoding="async" alt="Banner_PGDM"></a>
 
                         </div>
                     </div>
@@ -155,8 +166,9 @@
                     <div>
                         <div class="row">
                             <a href="https://mitsde.com/Paid-Workshop.php?workshop_amt=15045&amp;pagename=PMP"> <img
-                                    src="assets/images/common-images/PMP-Certification.jpg" alt="PMP Certification registration banner"
-                                    class="banner-img img-fluid" loading="lazy" decoding="async"></a>
+                                    src="assets/images/common-images/PMP-Certification.jpg"
+                                    alt="PMP Certification registration banner" class="banner-img img-fluid"
+                                    loading="lazy" decoding="async"></a>
 
                         </div>
                     </div>

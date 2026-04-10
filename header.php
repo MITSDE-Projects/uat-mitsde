@@ -275,7 +275,9 @@
                         </li>
                         <!-- certifications -->
 
-
+                        <li class="nav-item dropdown secondnav">
+                            <a class="nav-link pe-4 text-nowrap" href="roi"><b style="color: #FF9F43;">Career ROI Calculator</b></a>
+                        </li>
 
                     </ul>
                 </li>
