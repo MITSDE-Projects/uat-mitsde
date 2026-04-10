@@ -280,39 +280,35 @@
 
                     </div>
                     <div class="col-md-8 col-lg-8 fintech-certi fin-feature hero11">
-                        <p>Master the art of material management and become a cost-saving champion. Our Certification in
-                            Material Management equips you with the expertise to optimize the procurement, storage, and
-                            utilization of materials throughout your organization. Learn industry best practices for
-                            efficient inventory control, supplier management, and cost reduction strategies.
-
+                        <p>
+                            This 6-month self-paced program helps you understand how organizations manage materials, from purchasing to storage. You will learn key concepts like procurement, inventory control, and resource planning, building a strong foundation for roles in operations and supply chain.
                         </p>
-                        <p>This program is designed for:</p>
-                        <li>Professionals seeking to advance their skills in material management</li>
-                        <li>Individuals interested in a career in procurement or supply chain</li>
-                        <li>Those looking to streamline material operations and reduce costs</li>
+                        <h3>What will I gain after completing the PCP course?</h3>
+                        <div class="col-md-12 fin-feature1 hero11">
 
+                            <li><span class="newright-icon1"></span> A 6-month self-paced foundation program tailored for 10th/12th pass students</li>
+                            <li><span class="newright-icon1"></span> Develop a strong understanding of fundamental
+                                management concepts before entering college</li>
+                            <li><span class="newright-icon1"></span> Gain exposure to key domains including Marketing,
+                                Project Management, Digital Marketing, Business Analytics, Operations, Finance, and HR
+                            </li>
+                            <li><span class="newright-icon1"></span> Identify areas of interest to make well-informed
+                                career decisions</li>
+                            <li><span class="newright-icon1"></span> Build confidence and preparedness for undergraduate
+                                programs such as BBA, B.Com, and B.M.S</li>
+                            <li><span class="newright-icon1"></span> Achieve a competitive advantage through early
+                                exposure to industry-relevant knowledge</li>
 
-
-                        <p>&nbsp;</p>
-                        <p>Delivered by experienced instructors, this program combines theory with practical exercises,
-                            preparing you to excel in today's dynamic materials management landscape.
-                        </p>
+                        </div>
                     </div>
                     <div class="col-md-4 col-lg-4 ">
                         <?php include "common-home-form-added-all-36-courses-pages.php" ?>
 
                     </div>
                 </div>
-
-                <!-- COMMON Unique Pedagogy  -->
-
-                <?php include "PGDM-common-unique-pedagogy.php" ?>
-
-                <!-- COMMON Unique Pedagogy  -->
-
-
             </div>
         </section>
+
         <section id="learning" class="enroll-certification">
             <div class="container">
                 <div class="row">
@@ -322,25 +318,10 @@
                     </div>
                     <div class="col-md-12 col-lg-8 fin-feature1 hero11">
 
+                        <li><span class="newright-icon1"></span> Understand procurement, inventory, and material planning</li>
 
-
-
-                        <li><span class="newright-icon1"></span> Master core financial accounting principles and
-                            financial statement analysis.</li>
-
-
-                        <li><span class="newright-icon1"></span> Implement effective inventory control and forecasting
-                            techniques.</li>
-                        <li><span class="newright-icon1"></span> Develop and manage strategic sourcing and supplier
-                            relationships.</li>
-                        <li><span class="newright-icon1"></span> Optimize material handling and storage processes.</li>
-                        <li><span class="newright-icon1"></span> Implement cost-saving procurement strategies.</li>
-                        <li><span class="newright-icon1"></span> Leverage technology to improve material management
-                            efficiency.</li>
-
-
-
-
+                        <li><span class="newright-icon1"></span> Learn cost control and vendor management basics</li>
+                        <li><span class="newright-icon1"></span> Gain knowledge of warehouse and resource management</li>
 
                     </div>
                 </div>
@@ -403,28 +384,17 @@
                                                         </tr>
                                                     </tbody>
                                                 </table>
-
-                                            </ul>
-                                            </li>
                                             </ul>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-
-
-
-
-
                         </div>
                     </div>
 
                     <div class="cur-accordiaon" style="margin-top:-3rem;">
 
                         <div class="accordion curriculum-accordion" id="curriculum">
-
-
-
 
                             <?php  //include "2-PGDM-validity.php" 
                             ?>
@@ -446,46 +416,16 @@
                                                 potential career paths you might consider:</p>
                                             <ul class="fin-feature2" style="list-style: none;">
 
-
                                                 <div class="row">
 
-
-
-
-
-
-
-
                                                     <div class="col-md-6 col-lg-6 col-12">
 
-                                                        <li><span class="newright-icon1"></span>Material Management
-                                                            Specialist</li>
-                                                        <li><span class="newright-icon1"></span>Purchasing Agent</li>
-                                                        <li><span class="newright-icon1"></span>Inventory Control
-                                                            Analyst</li>
-                                                        <li><span class="newright-icon1"></span>Supplier Quality
-                                                            Engineer</li>
-
-
-
-
-                                                    </div>
-                                                    <div class="col-md-6 col-lg-6 col-12">
-                                                        <li><span class="newright-icon1"></span>Warehouse Supervisor
-                                                        </li>
-                                                        <li><span class="newright-icon1"></span>Procurement Specialist
-                                                        </li>
-                                                        <li><span class="newright-icon1"></span>Demand Planner</li>
-
+                                                        <li><span class="newright-icon1"></span> Procurement Executive</li>
+                                                        <li><span class="newright-icon1"></span> Inventory Controller</li>
+                                                        <li><span class="newright-icon1"></span> Warehouse Executive</li>
                                                     </div>
                                                 </div>
-
-
-
                                             </ul>
-
-
-
                                         </div>
                                     </div>
                                 </div>
@@ -498,12 +438,9 @@
             </div>
         </section>
 
+        <?php include "pcp-common-fees.php" ?>
 
-
-        <?php  //include "2-PGDM-second-common-fees.php" 
-        ?>
-
-        <section id="curriculam" class="enroll-certification" style="margin-top:-70px;">
+        <section id="curriculam" class="enroll-certification">
             <div class="container">
                 <div class="row">
                     <div class="cur-accordiaon">
@@ -518,249 +455,11 @@
             <p>&nbsp;</p>
         </section>
 
-
-        <hr>
-
         <!-- frequently asked question section -->
 
-        <section class="enroll-certification mt-3" style="padding-top: 0px;">
-            <div class="container">
-                <div class="row">
-                    <div class="cur-accordiaon">
-                        <h3>Frequently Asked Questions?</h3>
-                        <div class="accordion curriculum-accordion" id="freQuestions">
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions1" aria-expanded="false" aria-controls="questions1">
-                                        Why should I enroll in a Certification Course in Material Management?
-                                    </button>
-                                </h2>
-                                <div id="questions1" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        Enrolling in a Certification Course in Material Management
-                                                        helps you enhance your skills and career prospects in the
-                                                        supply chain and logistics field.
-                                                    </p>
-                                                </div>
-                                            </div>
+        <?php include "pcp-common-faq.php" ?>
 
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions2" aria-expanded="false" aria-controls="questions2">
-                                        What are the benefits of a Professional Certification in Material Management?
-                                    </button>
-                                </h2>
-                                <div id="questions2" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        It improves job opportunities, career growth, and credibility
-                                                        in the field of materials management.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions3" aria-expanded="false" aria-controls="questions3">
-                                        What is the duration of a Certification Course in Material Management?
-                                    </button>
-                                </h2>
-                                <div id="questions3" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        The duration varies, but it typically ranges from a few
-                                                        months to a year depending on the institution and program
-                                                        type.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions4" aria-expanded="false" aria-controls="questions4">
-                                        Is MITSDE’s Professional Certification in Material Management recognized?
-                                    </button>
-                                </h2>
-                                <div id="questions4" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        Yes, MITSDE’s Professional Certification in Material Management
-                                                        is recognized and respected by industry professionals globally.
-                                                    </p>
-
-
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions5" aria-expanded="false" aria-controls="questions5">
-                                        What career opportunities can I pursue with a Certification in Material
-                                        Management?
-                                    </button>
-                                </h2>
-                                <div id="questions5" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        You can pursue roles such as Materials Manager, Supply Chain
-                                                        Coordinator, or Inventory Manager, among others.
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions6" aria-expanded="false" aria-controls="questions6">
-                                        Can I study the Certification Course in Material Management online with MITSDE?
-                                    </button>
-                                </h2>
-                                <div id="questions6" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        Yes, MITSDE offers flexible online learning options for the
-                                                        Certification Course in Material Management.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions7" aria-expanded="false" aria-controls="questions7">
-                                        How can a Professional Certification in Material Management help my career?
-                                    </button>
-                                </h2>
-                                <div id="questions7" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        It can increase your chances of promotion and open doors to
-                                                        higher-paying roles in the material management sector.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions8" aria-expanded="false" aria-controls="questions8">
-                                        Do I need any prior experience to enroll in MITSDE’s Material Management
-                                        Certification?
-                                    </button>
-                                </h2>
-                                <div id="questions8" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        No prior experience is required for MITSDE’s Certification
-                                                        in Material Management, though basic knowledge of
-                                                        logistics helps.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions9" aria-expanded="false" aria-controls="questions9">
-                                        How do I apply for a Certification Course in Material Management with MITSDE?
-                                    </button>
-                                </h2>
-                                <div id="questions9" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        You can apply easily through MITSDE’s website by filling out the
-                                                        online application form for the course.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <hr>
-
-        <?php  //include "all-similar-program-all-courses-slider.php" 
-        ?>
+        <?php  include "all-similar-program-all-courses-slider.php" ?>
 
         <?php include "learner-support.php" ?>
 

@@ -278,39 +278,35 @@
 
                     </div>
                     <div class="col-md-8 col-lg-8 fintech-certi fin-feature hero11">
-                        <p>Master the intricacies of logistics and supply chain management and become a logistics guru.
-                            The Certification in Logistics and Supply Chain equips you with the knowledge and skills to
-                            optimize the flow of goods and information from origin to destination. Learn industry best
-                            practices for transportation, warehousing, inventory management, and more.
-
+                        <p>
+                            This 6-month self-paced program introduces you to how products move from source to customer. You will learn the basics of logistics, inventory, and supply chain operations in a simple and practical way, helping you understand how businesses ensure smooth and timely delivery.
                         </p>
-                        <p>This program is ideal for:</p>
+                        <h3>What will I gain after completing the PCP course?</h3>
+                        <div class="col-md-12 fin-feature1 hero11">
 
-                        <li>Individuals seeking a career in logistics and supply chain management</li>
-                        <li>Professionals looking to enhance their supply chain expertise</li>
-                        <li>Those interested in transitioning into a logistics management role</li>
+                            <li><span class="newright-icon1"></span> A 6-month self-paced foundation program tailored for 10th/12th pass students</li>
+                            <li><span class="newright-icon1"></span> Develop a strong understanding of fundamental
+                                management concepts before entering college</li>
+                            <li><span class="newright-icon1"></span> Gain exposure to key domains including Marketing,
+                                Project Management, Digital Marketing, Business Analytics, Operations, Finance, and HR
+                            </li>
+                            <li><span class="newright-icon1"></span> Identify areas of interest to make well-informed
+                                career decisions</li>
+                            <li><span class="newright-icon1"></span> Build confidence and preparedness for undergraduate
+                                programs such as BBA, B.Com, and B.M.S</li>
+                            <li><span class="newright-icon1"></span> Achieve a competitive advantage through early
+                                exposure to industry-relevant knowledge</li>
 
-
-
-                        <p>&nbsp;</p>
-                        <p>Delivered by industry experts, this program offers a blend of theory and practical
-                            application, preparing you to launch a successful marketing career.</p>
+                        </div>
                     </div>
                     <div class="col-md-4 col-lg-4 ">
                         <?php include "common-home-form-added-all-36-courses-pages.php" ?>
 
                     </div>
                 </div>
-
-                <!-- COMMON Unique Pedagogy  -->
-
-                <?php include "PGDM-common-unique-pedagogy.php" ?>
-
-                <!-- COMMON Unique Pedagogy  -->
-
-
             </div>
         </section>
+
         <section id="learning" class="enroll-certification">
             <div class="container">
                 <div class="row">
@@ -322,19 +318,9 @@
 
 
 
-                        <li><span class="newright-icon1"></span> Implement effective transportation and warehousing
-                            strategies.</li>
-                        <li><span class="newright-icon1"></span> Optimize inventory management for cost reduction and
-                            efficiency.</li>
-                        <li><span class="newright-icon1"></span> Master procurement practices for smooth supply chain
-                            operations.</li>
-                        <li><span class="newright-icon1"></span> Mitigate supply chain risks and disruptions.</li>
-                        <li><span class="newright-icon1"></span> Leverage technology to improve logistics and supply
-                            chain visibility.</li>
-
-
-
-
+                        <li><span class="newright-icon1"></span> Understand supply chain processes and logistics operations</li>
+                        <li><span class="newright-icon1"></span> Learn inventory management and distribution systems</li>
+                        <li><span class="newright-icon1"></span> Gain insights into global supply chain practices</li>
                     </div>
                 </div>
             </div>
@@ -396,34 +382,17 @@
                                                         </tr>
                                                     </tbody>
                                                 </table>
-
-
-
-
-
-
-
-                                            </ul>
-                                            </li>
                                             </ul>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-
-
-
-
-
                         </div>
                     </div>
 
                     <div class="cur-accordiaon" style="margin-top:-3rem;">
 
                         <div class="accordion curriculum-accordion" id="curriculum">
-
-
-
 
                             <?php //include "2-PGDM-validity.php" 
                             ?>
@@ -450,35 +419,12 @@
                                                 <div class="row">
 
                                                     <div class="col-md-6 col-lg-6 col-12">
-                                                        <li><span class="newright-icon1"></span> Logistics Coordinator
-                                                        </li>
-                                                        <li><span class="newright-icon1"></span> Supply Chain Analyst
-                                                        </li>
-                                                        <li><span class="newright-icon1"></span> Warehouse Manager</li>
-
-
-
-
-                                                    </div>
-                                                    <div class="col-md-6 col-lg-6 col-12">
-                                                        <li><span class="newright-icon1"></span> Transportation
-                                                            Specialist</li>
-                                                        <li><span class="newright-icon1"></span> Procurement Specialist
-                                                        </li>
-                                                        <li><span class="newright-icon1"></span> Inventory Control
-                                                            Specialist and more</li>
-
-
-
+                                                        <li><span class="newright-icon1"></span> Logistics Executive</li>
+                                                        <li><span class="newright-icon1"></span> Supply Chain Coordinator</li>
+                                                        <li><span class="newright-icon1"></span> Inventory Executive</li>
                                                     </div>
                                                 </div>
-
-
-
                                             </ul>
-
-
-
                                         </div>
                                     </div>
                                 </div>
@@ -491,12 +437,9 @@
             </div>
         </section>
 
+        <?php include "pcp-common-fees.php" ?>
 
-
-        <?php //include "2-PGDM-second-common-fees.php" 
-        ?>
-
-        <section id="curriculam" class="enroll-certification" style="margin-top:-70px;">
+        <section id="curriculam" class="enroll-certification">
             <div class="container">
                 <div class="row">
                     <div class="cur-accordiaon">
@@ -510,253 +453,11 @@
             <p>&nbsp;</p>
         </section>
 
-
-        <hr>
-
         <!-- frequently asked question section -->
 
-        <section class="enroll-certification mt-3" style="padding-top: 0px;">
-            <div class="container">
-                <div class="row">
-                    <div class="cur-accordiaon">
-                        <h3>Frequently Asked Questions?</h3>
-                        <div class="accordion curriculum-accordion" id="freQuestions">
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions1" aria-expanded="false" aria-controls="questions1">
-                                        Why should I pursue a Certification Course in Logistics and Supply Chain?
-                                    </button>
-                                </h2>
-                                <div id="questions1" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        It boosts your career prospects by enhancing your expertise in
-                                                        supply chain management and logistics.
-                                                    </p>
-                                                </div>
-                                            </div>
+        <?php include "pcp-common-faq.php" ?>
 
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions2" aria-expanded="false" aria-controls="questions2">
-                                        Is the Professional Certification in Logistics and Supply Chain offered by
-                                        MITSDE recognized?
-                                    </button>
-                                </h2>
-                                <div id="questions2" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        <strong>Yes</strong>, MITSDE's certification is
-                                                        industry-recognized and helps you gain a competitive edge in the
-                                                        job market.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions3" aria-expanded="false" aria-controls="questions3">
-                                        What are the career opportunities after completing a Certification in Logistics
-                                        and Supply Chain?
-                                    </button>
-                                </h2>
-                                <div id="questions3" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        You can explore roles like Supply Chain Manager, Logistics
-                                                        Coordinator, or Procurement Specialist.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions4" aria-expanded="false" aria-controls="questions4">
-                                        How long does it take to complete the Certification Course in Logistics and
-                                        Supply Chain at MITSDE?
-                                    </button>
-                                </h2>
-                                <div id="questions4" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        MITSDE offers flexible, self-paced programs, typically completed
-                                                        in 6 months.
-                                                    </p>
-
-
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions5" aria-expanded="false" aria-controls="questions5">
-                                        What topics are covered in a Professional Certification in Logistics and Supply
-                                        Chain?
-                                    </button>
-                                </h2>
-                                <div id="questions5" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        Topics include supply chain management, inventory control,
-                                                        procurement, and logistics strategy.
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions6" aria-expanded="false" aria-controls="questions6">
-                                        Does MITSDE provide placement assistance for the Certification in Logistics and
-                                        Supply Chain?
-                                    </button>
-                                </h2>
-                                <div id="questions6" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        <strong>Yes</strong>, MITSDE offers career guidance and
-                                                        placement support to all enrolled students.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions7" aria-expanded="false" aria-controls="questions7">
-                                        What are the eligibility criteria for enrolling in a Certification Course in
-                                        Logistics and Supply Chain?
-                                    </button>
-                                </h2>
-                                <div id="questions7" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        Generally, a graduate degree is required, and working
-                                                        professionals are also eligible.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions8" aria-expanded="false" aria-controls="questions8">
-                                        Can I pursue the Professional Certification in Logistics and Supply Chain while
-                                        working?
-                                    </button>
-                                </h2>
-                                <div id="questions8" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        <strong>Yes</strong>, MITSDE’s online certification allows you
-                                                        to learn at your own pace while continuing your job.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions9" aria-expanded="false" aria-controls="questions9">
-                                        How does MITSDE's Certification in Logistics and Supply Chain help working
-                                        professionals?
-                                    </button>
-                                </h2>
-                                <div id="questions9" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        It enhances practical knowledge and managerial skills,
-                                                        enabling career growth in logistics and supply chain management.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <hr>
-
-        <?php //include "all-similar-program-all-courses-slider.php" 
-        ?>
+        <?php include "all-similar-program-all-courses-slider.php" ?>
 
         <?php include "learner-support.php" ?>
 

@@ -275,7 +275,9 @@
                         </li>
                         <!-- certifications -->
 
-
+                        <li class="nav-item dropdown secondnav">
+                            <a class="nav-link pe-4 text-nowrap" href="roi"><b style="color: #FF9F43;">Career ROI Calculator</b></a>
+                        </li>
 
                     </ul>
                 </li>
@@ -331,7 +333,9 @@
                         <li><a class="dropdown-item" href="refer-friend">Refer a Friend</a></li>
                         <li><a class="dropdown-item" href="download-brochure">Download Brochure</a></li>
                         <li><a class="dropdown-item" href="new-admission-form-payment" target="_black">Pay Now</a></li>
-
+                        <li class="nav-item dropdown secondnav">
+                            <a class="nav-link pe-4 text-nowrap" href="roi"><b style="color: #FF9F43;">Career ROI Calculator</b></a>
+                        </li>
                     </ul>
 
                 </li>
@@ -383,6 +387,9 @@
 
                         <li><a class="dropdown-item" href="sample-certificate">Sample Certificate</a></li>
                         <li><a class="dropdown-item" href="aicte-feedback-facility">AICTE Feedback Facility</a></li>
+                        <li class="nav-item dropdown secondnav">
+                            <a class="nav-link pe-4 text-nowrap" href="roi"><b style="color: #FF9F43;">Career ROI Calculator</b></a>
+                        </li>
 
                     </ul>
                 </li>
