@@ -310,79 +310,32 @@
                     </div>
 
                     <div class="col-md-8 col-lg-8 fintech-certi fin-feature hero11">
-
                         <p>
-                            Step into the world of data-driven decision making. The <strong>Professional Certification in Business Analytics</strong> focuses on statistical analysis, data mining, predictive modelling, and advanced analytics techniques needed to convert data into measurable business value.
+                            This 6-month self-paced program helps you understand how data is used to make better business decisions. You will learn the basics of data analysis, interpretation, and problem-solving in a simple way. With practical examples, the course builds your confidence and introduces you to the world of analytics.
                         </p>
+                        <h3>What will I gain after completing the PCP course?</h3>
+                        <div class="col-md-12 fin-feature1 hero11">
 
-                        <p><strong>Gain capabilities to:</strong></p>
+                            <li><span class="newright-icon1"></span> A 6-month self-paced foundation program tailored for 10th/12th pass students</li>
+                            <li><span class="newright-icon1"></span> Develop a strong understanding of fundamental
+                                management concepts before entering college</li>
+                            <li><span class="newright-icon1"></span> Gain exposure to key domains including Marketing,
+                                Project Management, Digital Marketing, Business Analytics, Operations, Finance, and HR
+                            </li>
+                            <li><span class="newright-icon1"></span> Identify areas of interest to make well-informed
+                                career decisions</li>
+                            <li><span class="newright-icon1"></span> Build confidence and preparedness for undergraduate
+                                programs such as BBA, B.Com, and B.M.S</li>
+                            <li><span class="newright-icon1"></span> Achieve a competitive advantage through early
+                                exposure to industry-relevant knowledge</li>
 
-                        <ul>
-                            <li>Understand and interpret business data</li>
-                            <li>Use analytics methods to improve operational and strategic decisions</li>
-                            <li>Analyse customer, financial, and marketing data</li>
-                            <li>Develop predictive and prescriptive models</li>
-                        </ul>
-
-                        <p>
-                            This certification equips learners with analytical frameworks and tools used across industries to drive business growth and operational efficiency.
-                        </p>
-
-
-
+                        </div>
                     </div>
 
                     <div class="col-md-4 col-lg-4">
                         <?php include "common-home-form-added-all-36-courses-pages.php" ?>
                     </div>
                 </div>
-
-                <!-- COMMON Unique Pedagogy  -->
-
-                <div class="row hero1.1">
-                    <div class="col-md-12 col-lg-4 pede-card">
-                        <div class="card over-card">
-                            <img src="assets/images/pedagogy.svg" class="img-fluid " title="Unique Pedagogy" alt="Unique Pedagogy">
-                            <div class="card-body">
-                                <h5 class="card-title">Unique Pedagogy </h5>
-                                <p class="card-text">MITSDE analytics programs are designed to bridge the industry skill gap. The
-                                    syllabus is updated with current business and technology trends and co-created
-                                    with analytics professionals. Learners get access to case studies, real datasets,
-                                    e-learning modules and analytical tools for hands-on learning.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-12 col-lg-4 pede-card">
-                        <div class="card over-card">
-                            <img src="assets/images/collaberation.svg" class="img-fluid " title="Industry Collaboration" alt="collaboration with industry leaders and partners">
-                            <div class="card-body">
-                                <h5 class="card-title">Academic Partnerships</h5>
-                                <p class="card-text">MITSDE integrates industry best practices and insights from analytics practitioners into
-                                    the curriculum, creating a learning experience aligned with real-world business needs
-                                    and analytics demands.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-12 col-lg-4 pede-card">
-                        <div class="card over-card">
-                            <img src="assets/images/faculty.svg" class="img-fluid " title="Expert Faculty" alt="professional faculty with expertise in their respective fields">
-                            <div class="card-body">
-                                <h5 class="card-title">Expert Faculty</h5>
-                                <p class="card-text">Experienced faculty members with backgrounds in data analytics, business intelligence,
-                                    statistics and predictive modelling lead the program. Learners interact with instructors
-                                    through chats, webinars and doubt-clearing sessions that bring analytical concepts to
-                                    life.</p>
-                            </div>
-                        </div>
-                    </div>
-
-
-                </div>
-
-                <!-- COMMON Unique Pedagogy  -->
-
-
             </div>
         </section>
         <section id="learning" class="enroll-certification">
@@ -394,16 +347,11 @@
                     </div>
                     <div class="col-md-12 col-lg-8 fin-feature1 hero11">
 
-
-
-                        <li><span class="newright-icon1"></span> Understand foundational analytics concepts and data interpretation</li>
-                        <li><span class="newright-icon1"></span>Perform data mining and predictive modelling</li>
-                        <li><span class="newright-icon1"></span> Use analytics tools for insights and reporting</li>
-                        <li><span class="newright-icon1"></span> Apply financial and marketing analytics methods</li>
-                        <li><span class="newright-icon1"></span> Convert data findings into actionable business recommendations</li>
-
-
-
+                        <li><span class="newright-icon1"></span> Understand the fundamentals of data analysis and business decision-making</li>
+                        <li><span class="newright-icon1"></span> Learn how to interpret data using basic analytical tools and techniques</li>
+                        <li><span class="newright-icon1"></span> Gain exposure to data visualization and reporting methodsg</li>
+                        <li><span class="newright-icon1"></span> Develop problem-solving skills using data-driven insights</li>
+                        <li><span class="newright-icon1"></span> Understand how businesses use data to improve performance and strategy</li>
 
                     </div>
                 </div>
@@ -470,27 +418,11 @@
                                                         </tr>
                                                     </tbody>
                                                 </table>
-
-
-
-
-
-
-
-
-
-                                            </ul>
-                                            </li>
                                             </ul>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-
-
-
-
-
                         </div>
                     </div>
 
@@ -500,9 +432,6 @@
                 <div class="cur-accordiaon" style="margin-top:-3rem;">
 
                     <div class="accordion curriculum-accordion" id="curriculum">
-
-
-
 
                         <!-- PGDM  -->
 
@@ -529,30 +458,20 @@
                                                     <div class="row">
 
                                                         <div class="col-md-6 col-lg-6 col-12">
-                                                            <li><span class="newright-icon1"></span>Data Analyst</li>
-                                                            <li><span class="newright-icon1"></span>Business Analyst</li>
-                                                            <li><span class="newright-icon1"></span>Analytics Consultant</li>
+                                                            <li><span class="newright-icon1"></span> Business Analytics Executive</li>
+                                                            <li><span class="newright-icon1"></span> Data Analyst (Entry-level)</li>
+                                                            <li><span class="newright-icon1"></span> MIS Executive</li>
 
 
                                                         </div>
                                                         <div class="col-md-6 col-lg-6 col-12">
-                                                            <li><span class="newright-icon1"></span>Marketing &amp; Financial Analytics Specialist</li>
-                                                            <li><span class="newright-icon1"></span>Reporting Analyst
-                                                            </li>
-                                                            <li><span class="newright-icon1"></span>Data Visualisation Professional
-                                                            </li>
-
+                                                            <li><span class="newright-icon1"></span> Reporting Analyst</li>
+                                                            <li><span class="newright-icon1"></span> Business Intelligence Trainee</li>
                                                         </div>
                                                     </div>
-
-
-
                                                 </ul>
-
                                             </div>
-
                                         </ul>
-
                                         <p class="mt-3">
                                             The program prepares learners for analytical roles across industries where data-driven decision-making is critical.
                                         </p>
@@ -567,44 +486,16 @@
             </div>
         </section>
 
-        <section id="progressFee" class="enroll-certification" >
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 col-lg-4 fintech-certi fee-section">
-                        <h4>Program <br> Fees</h4>
-                        
-                        
-                    </div>
-                    <div class="col-md-12 col-lg-6 fin-feature">
-                        <div class="fee-distribution">
-                            <div class="fee-card">
-                              
-                                <div class="card-body p-2">
-                                    <button type="button" class="btn btn-primary mit-button w-100">Program Fees  ₹ 25,000 /-</button>
-                                 
-                                </div>
-                            </div>
+        <?php include "pcp-common-fees.php" ?>
 
-                            
-
-                        </div>
-                    
-                    </div>
-
-                </div>
-                
-
-            </div>
-        </section>
-
-        <section id="curriculam" class="enroll-certification mt-3">
+        <section id="curriculam" class="enroll-certification">
             <div class="container">
                 <div class="row">
                     <div class="cur-accordiaon">
                         <h3>Sample Certificate</h3>
                     </div>
 
-                    <p align="center"><img src="assets/images/course/cap/bussiness-analytics.jpg"
+                    <p align="center"><img src="assets/images/course/cap/bussiness-analytics.jpg" title="Certificate in Business Analytics" alt="Certificate in Business Analytics"
                             class="img-fluid">
                     </p>
                 </div>
@@ -612,232 +503,11 @@
 
         </section>
 
-        <section class="enroll-certification mt-3" style="padding-top: 0px;">
-            <div class="container">
-                <div class="row">
-                    <div class="cur-accordiaon">
-                        <h3>Frequently Asked Questions?</h3>
-                        <div class="accordion curriculum-accordion" id="freQuestions">
-                            <!-- FAQ 1 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions3" aria-expanded="false" aria-controls="questions3">
-                                        How can I get a Certification in Business Analytics?
-                                    </button>
-                                </h2>
-                                <div id="questions3" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        You can get a Certification in Business Analytics by enrolling in the Professional Certification program offered by MITSDE and successfully completing all academic requirements and evaluations.
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+        <!-- frequently asked question section -->
 
-                            <!-- FAQ 2 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions4" aria-expanded="false" aria-controls="questions4">
-                                        Why should I pursue a Certification Course in Business Analytics?
-                                    </button>
-                                </h2>
-                                <div id="questions4" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        Pursuing a Certification Course in Business Analytics helps you build strong analytical and data interpretation skills that are essential for data-driven decision-making in today's business environment.
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- FAQ 3 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions5" aria-expanded="false" aria-controls="questions5">
-                                        Is MITSDE's Professional Certification in Business Analytics recognized?
-                                    </button>
-                                </h2>
-                                <div id="questions5" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        Yes, MITSDE's Professional Certification in Business Analytics is recognized and respected by employers for its practical and industry-focused curriculum.
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- FAQ 4 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions6" aria-expanded="false" aria-controls="questions6">
-                                        What are the benefits of a Certification Course in Business Analytics?
-                                    </button>
-                                </h2>
-                                <div id="questions6" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        The course offers career advancement, improved analytical and problem-solving skills, better data interpretation capabilities, and enhanced decision-making proficiency.
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- FAQ 5 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions7" aria-expanded="false" aria-controls="questions7">
-                                        Can I take the Professional Certification in Business Analytics online?
-                                    </button>
-                                </h2>
-                                <div id="questions7" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        Yes, the Professional Certification in Business Analytics is offered online, allowing flexibility for students and working professionals.
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- FAQ 6 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions8" aria-expanded="false" aria-controls="questions8">
-                                        What is the duration of the certification course?
-                                    </button>
-                                </h2>
-                                <div id="questions8" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        The duration varies, but typically, it takes a few months to complete MITSDE's Certification Course in Digital Marketing.
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- FAQ 7 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions9" aria-expanded="false" aria-controls="questions9">
-                                        What are the job opportunities after completing a Certification in Business Analytics?
-                                    </button>
-                                </h2>
-                                <div id="questions9" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        After completing the certification, you can pursue roles such as Business Analyst, Data Analyst, Reporting Analyst, Analytics Consultant, and Business Intelligence Executive.
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- FAQ 8 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions10" aria-expanded="false" aria-controls="questions10">
-                                        What topics are covered in the Professional Certification in Business Analytics at MITSDE?
-                                    </button>
-                                </h2>
-                                <div id="questions10" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        The program covers topics such as Business Analytics Fundamentals, Data Analysis Techniques, Data Mining, Predictive Modeling, Marketing Analytics, Financial Analytics, and Business Intelligence concepts.
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- FAQ 9 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions11" aria-expanded="false" aria-controls="questions11">
-                                        Is the Certification Course in Business Analytics suitable for beginners?
-                                    </button>
-                                </h2>
-                                <div id="questions11" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        Yes, the Certification Course in Business Analytics is suitable for beginners as well as professionals who want to develop expertise in analytics and data-driven decision-making.
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
-            </div>
-        </section>
+        <?php include "pcp-common-faq.php" ?>
 
         <?php include "all-similar-program-all-courses-slider.php" ?>
-
-
-
-
-
-
 
         <?php include "learner-support.php" ?>
 

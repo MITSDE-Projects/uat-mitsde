@@ -36,10 +36,12 @@
     <!-- / OG TAG -->
 
     <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Certification in Project Management Course – MITSDE India">
-<meta name="twitter:description" content="Boost your career with MITSDE’s certification in project management course. Gain practical skills online and become industry-ready today.">
-<meta name="twitter:image" content="https://mitsde.com/assets/images/course/cap/certification-in-project-management.jpg">
-<meta name="twitter:image:alt" content="Certification in Project Management Course – MITSDE India">
+    <meta name="twitter:title" content="Certification in Project Management Course – MITSDE India">
+    <meta name="twitter:description"
+        content="Boost your career with MITSDE’s certification in project management course. Gain practical skills online and become industry-ready today.">
+    <meta name="twitter:image"
+        content="https://mitsde.com/assets/images/course/cap/certification-in-project-management.jpg">
+    <meta name="twitter:image:alt" content="Certification in Project Management Course – MITSDE India">
 
 
     <!-- Page Title -->
@@ -259,26 +261,24 @@
                         <div>
                             <nav>
                                 <ol class="breadcrumb">
-                                    <li class="breadcrumb-item"><a href=" https://mitsde.com">Home</a>
-                                    </li>
+                                    <li class="breadcrumb-item"><a href=" https://mitsde.com">Home</a></li>
                                     <li class="breadcrumb-item"><a href="#">PCP</a></li>
-                                    <li class="breadcrumb-item active" aria-current="page">Certification In Project
-                                        Management </li>
-
+                                    <li class="breadcrumb-item active" aria-current="page">Certification In Project Management </li>
                             </nav>
-
-
                         </div>
                     </div>
                     <div class="col-md-12 col-lg-6">
                         <div class="css-details">
                             <div class="stc-det student-sec inner-sec">
-                                <img src="assets/images/course/pgdm/Project-Management-icon1.jpg" alt="Project Management Icon 1">
+                                <img src="assets/images/course/pgdm/Project-Management-icon1.jpg"
+                                    alt="Project Management Icon 1">
                             </div>
                             <img src="assets/images/course/cap/certification-in-project-management.jpg"
-                                class="banner-img" title="Project Management Certification" alt="certification-in-project-management">
+                                class="banner-img" title="Project Management Certification"
+                                alt="certification-in-project-management">
                             <div class="stc-det course-sec inner-sec">
-                                <img src="assets/images/course/pgdm/PGDM-Operations-Management_Icon-1.jpg" alt="PGDM Operations Management Icon 1">
+                                <img src="assets/images/course/pgdm/PGDM-Operations-Management_Icon-1.jpg"
+                                    alt="PGDM Operations Management Icon 1">
                             </div>
                         </div>
                     </div>
@@ -310,36 +310,40 @@
 
                     </div>
                     <div class="col-md-8 col-lg-8 fintech-certi fin-feature hero11">
-                        <p>Master the art of project management and transform your ability to deliver successful
-                            initiatives. Our <a class="text-decoration-none" href="https://blog.mitsde.com/top-project-management-certifications-to-boost-your-career-in-2025/">Certification Course in Project Management</a> equips you with the knowledge
-                            and tools to excel in all phases of the project lifecycle.</p>
+                        <p>
+                            This 6-month self-paced program helps you understand the basics of project management in a
+                            simple and easy way. You will learn how projects are planned, managed, and completed, along
+                            with concepts like teamwork, time management, and problem-solving. With real-life examples
+                            and practical learning, the course builds your confidence and gives you a strong foundation
+                            to explore careers in project management.
+                        </p>
+                        <h3>What will I gain after completing the PCP course?</h3>
+                        <div class="col-md-12 fin-feature1 hero11">
 
-                        <p>Through a blend of theory and practical application, you'll gain the expertise to confidently
-                            lead and manage projects of all sizes and complexities. This comprehensive program is
-                            designed for individuals who want to:</p>
+                            <li><span class="newright-icon1"></span> A 6-month self-paced foundation program tailored
+                                for 10th/12th pass students</li>
+                            <li><span class="newright-icon1"></span> Develop a strong understanding of fundamental
+                                management concepts before entering college</li>
+                            <li><span class="newright-icon1"></span> Gain exposure to key domains including Marketing,
+                                Project Management, Digital Marketing, Business Analytics, Operations, Finance, and HR
+                            </li>
+                            <li><span class="newright-icon1"></span> Identify areas of interest to make well-informed
+                                career decisions</li>
+                            <li><span class="newright-icon1"></span> Build confidence and preparedness for undergraduate
+                                programs such as BBA, B.Com, and B.M.S</li>
+                            <li><span class="newright-icon1"></span> Achieve a competitive advantage through early
+                                exposure to industry-relevant knowledge</li>
 
-                        <li>Launch a career in project management</li>
-                        <li>Advance their existing project management skills </li>
-                        <li>Gain a recognized industry certification</li>
-                        <p>&nbsp;</p>
-                        <p>Delivered by experienced instructors and packed with real-world case studies, this course
-                            will empower you to become a highly sought-after project management professional</p>
+                        </div>
                     </div>
                     <div class="col-md-4 col-lg-4 ">
                         <?php include "common-home-form-added-all-36-courses-pages.php" ?>
 
                     </div>
                 </div>
-
-                <!-- COMMON Unique Pedagogy  -->
-
-                <?php include "PGDM-common-unique-pedagogy.php" ?>
-
-                <!-- COMMON Unique Pedagogy  -->
-
-
             </div>
         </section>
+
         <section id="learning" class="enroll-certification">
             <div class="container">
                 <div class="row">
@@ -348,20 +352,9 @@
                         <!-- <img src="assets/images/humancloud.svg" alt=""> -->
                     </div>
                     <div class="col-md-12 col-lg-8 fin-feature1 hero11">
-
-
-                        <li><span class="newright-icon1"></span> Master the core principles and frameworks of project
-                            management.</li>
-                        <li><span class="newright-icon1"></span> Apply <a class="text-decoration-none" href="https://blog.mitsde.com/what-is-project-management-the-complete-guide-2025/">project management methodologies</a> to real-world
-                            scenarios.</li>
-                        <li><span class="newright-icon1"></span> Identify and mitigate project risks.</li>
-                        <li><span class="newright-icon1"></span> Master effective communication and stakeholder
-                            management skills.</li>
-                        <li><span class="newright-icon1"></span> Leverage project management tools and software for
-                            improved efficiency.</li>
-
-
-
+                        <li><span class="newright-icon1"></span> Understand project lifecycle, planning, execution, and closure</li>
+                        <li><span class="newright-icon1"></span> Learn risk management and stakeholder handling</li>
+                        <li><span class="newright-icon1"></span> Apply project management tools and techniques</li>
                     </div>
                 </div>
             </div>
@@ -425,36 +418,17 @@
                                                         </tr>
                                                     </tbody>
                                                 </table>
-
-
-
-
-
-
-
-
-
-                                            </ul>
-                                            </li>
                                             </ul>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-
-
-
-
-
                         </div>
                     </div>
 
                     <div class="cur-accordiaon" style="margin-top:-3rem;">
 
                         <div class="accordion curriculum-accordion" id="curriculum">
-
-
-
 
                             <?php  //include "2-PGDM-validity.php" 
                             ?>
@@ -471,37 +445,21 @@
                                 <div id="module5" class="accordion-collapse " data-bs-parent="#curriculum">
                                     <div class="accordion-body hero10">
                                         <div class="row">
-                                            <p>Completing a <a class="text-decoration-none" href="https://blog.mitsde.com/top-project-management-certifications-to-boost-your-career-in-2025/">certification course in project management</a> can open up a
+                                            <p>Completing a <a class="text-decoration-none"
+                                                    href="https://blog.mitsde.com/top-project-management-certifications-to-boost-your-career-in-2025/">certification
+                                                    course in project management</a> can open up a
                                                 wide range of career opportunities across various industries. Here are
                                                 some potential career paths you might consider:
                                             </p>
                                             <ul class="fin-feature2" style="list-style: none;">
-
-
                                                 <div class="row">
-
                                                     <div class="col-md-6 col-lg-6 col-12">
-                                                        <li><span class="newright-icon1"></span> Project Manager</li>
-                                                        <li><span class="newright-icon1"></span>Assistant Project
-                                                            Manager</li>
-                                                        <li><span class="newright-icon1"></span>Project Coordinator</li>
-
-
-                                                    </div>
-                                                    <div class="col-md-6 col-lg-6 col-12">
-                                                        <li><span class="newright-icon1"></span>Program Manager </li>
-                                                        <li><span class="newright-icon1"></span>Scrum Master and more
-                                                        </li>
-
+                                                        <li><span class="newright-icon1"></span> Project Coordinator</li>
+                                                        <li><span class="newright-icon1"></span> Project Assistant</li>
+                                                        <li><span class="newright-icon1"></span> Operations Coordinator</li>
                                                     </div>
                                                 </div>
-
-
-
                                             </ul>
-
-
-
                                         </div>
                                     </div>
                                 </div>
@@ -514,12 +472,9 @@
             </div>
         </section>
 
+        <?php include "pcp-common-fees.php" ?>
 
-
-        <?php  //include "2-PGDM-second-common-fees.php" 
-        ?>
-
-        <section id="curriculam" class="enroll-certification" style="margin-top:-70px;">
+        <section id="curriculam" class="enroll-certification">
             <div class="container">
                 <div class="row">
                     <div class="cur-accordiaon">
@@ -527,265 +482,18 @@
                     </div>
 
                     <p align="center"><img src="assets/images/course/cap/certification-in-project-management_cer.jpeg"
-                            class="img-fluid"  alt="Certification in Project Management certificate">
+                            class="img-fluid" alt="Certification in Project Management certificate">
                     </p>
                 </div>
             </div>
 
         </section>
 
-        <hr>
-
         <!-- frequently asked question section -->
 
-        <section class="enroll-certification mt-3" style="padding-top: 0px;">
-            <div class="container">
-                <div class="row">
-                    <div class="cur-accordiaon">
-                        <h3>Frequently Asked Questions?</h3>
-                        <div class="accordion curriculum-accordion" id="freQuestions">
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions1" aria-expanded="false" aria-controls="questions1">
-                                        Why should I pursue a Certification in Project Management?
-                                    </button>
-                                </h2>
-                                <div id="questions1" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        This certification enhances your career prospects, boosts your
-                                                        earning potential, and helps you gain industry-recognized
-                                                        skills to manage projects efficiently.
-                                                    </p>
-                                                </div>
-                                            </div>
+        <?php include "pcp-common-faq.php" ?>
 
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions2" aria-expanded="false" aria-controls="questions2">
-                                        What is the duration of the Certification Course in Project Management?
-                                    </button>
-                                </h2>
-                                <div id="questions2" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        The duration varies, but most courses, like MITSDE’s online
-                                                        project management certification, can be completed in 6 months.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions3" aria-expanded="false" aria-controls="questions3">
-                                        Who can enroll in a Certification Course in Project Management?
-                                    </button>
-                                </h2>
-                                <div id="questions3" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        Professionals in any industry, students, or anyone aspiring
-                                                        to become skilled project managers can enroll in this course.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions4" aria-expanded="false" aria-controls="questions4">
-                                        What are the benefits of pursuing a Certification in Project Management from
-                                        MITSDE?
-                                    </button>
-                                </h2>
-                                <div id="questions4" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        MITSDE offers flexible online courses, expert mentorship,
-                                                        practical case studies, and globally recognized certifications
-                                                        tailored to modern project management practices.
-                                                    </p>
-
-
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions5" aria-expanded="false" aria-controls="questions5">
-                                        What are the eligibility criteria for a Certification Course in Project
-                                        Management?
-                                    </button>
-                                </h2>
-                                <div id="questions5" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        Most courses, including MITSDE, require a basic educational
-                                                        qualification like a bachelor’s degree. Some may also consider
-                                                        work experience beneficial but not mandatory.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions6" aria-expanded="false" aria-controls="questions6">
-                                        What skills can I develop with a Certification in Project Management?
-                                    </button>
-                                </h2>
-                                <div id="questions6" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        You’ll learn essential skills like risk management,
-                                                        time management, budgeting, leadership, stakeholder
-                                                        management, and the ability to use project management tools.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions7" aria-expanded="false" aria-controls="questions7">
-                                        How does MITSDE’s Professional Certification in Project Management differ from
-                                        others?
-                                    </button>
-                                </h2>
-                                <div id="questions7" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        MITSDE provides an industry-relevant curriculum, self-paced
-                                                        learning
-                                                        modules, and practical insights to ensure students are
-                                                        job-ready upon completion.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions8" aria-expanded="false" aria-controls="questions8">
-                                        What career opportunities can I expect after completing the Certification Course
-                                        in Project Management?
-                                    </button>
-                                </h2>
-                                <div id="questions8" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        Graduates can explore roles such as Project Manager, Operations
-                                                        Manager,
-                                                        Program Manager, or Project Consultant across industries
-                                                        like IT, construction, and manufacturing.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions9" aria-expanded="false" aria-controls="questions9">
-                                        Is MITSDE’s Certification in Project Management recognized globally?
-                                    </button>
-                                </h2>
-                                <div id="questions9" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        <strong>Yes</strong>, MITSDE’s certifications are
-                                                        industry-recognized and
-                                                        globally accepted, giving you a competitive edge in
-                                                        international job markets.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <hr>
-
-        <?php  //include "all-similar-program-all-courses-slider.php" 
-        ?>
+        <?php include "all-similar-program-all-courses-slider.php" ?>
 
         <?php include "learner-support.php" ?>
 

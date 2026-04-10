@@ -279,35 +279,35 @@
 
                     </div>
                     <div class="col-md-8 col-lg-8 fintech-certi fin-feature hero11">
-                        <p>Become a strategic HR professional and cultivate a thriving workplace. Our Certification in
-                            Human Resource Management equips you with the skills to navigate the evolving world of HR.
+                        <p>
+                            This 6-month self-paced program introduces you to the fundamentals of managing people in an organization. You will learn about hiring, training, and employee engagement in a simple and practical way. The course helps you understand how companies build strong teams and work environments.
                         </p>
-                        <p>Master essential practices in recruitment, talent management, employee relations, and more.
-                            This program is designed for individuals who want to:</p>
+                        <h3>What will I gain after completing the PCP course?</h3>
+                        <div class="col-md-12 fin-feature1 hero11">
 
-                        <li>Launch a career in HR</li>
-                        <li>Advance their HR skillset</li>
-                        <li>Gain a competitive edge for HR positions</li>
+                            <li><span class="newright-icon1"></span> A 6-month self-paced foundation program tailored for 10th/12th pass students</li>
+                            <li><span class="newright-icon1"></span> Develop a strong understanding of fundamental
+                                management concepts before entering college</li>
+                            <li><span class="newright-icon1"></span> Gain exposure to key domains including Marketing,
+                                Project Management, Digital Marketing, Business Analytics, Operations, Finance, and HR
+                            </li>
+                            <li><span class="newright-icon1"></span> Identify areas of interest to make well-informed
+                                career decisions</li>
+                            <li><span class="newright-icon1"></span> Build confidence and preparedness for undergraduate
+                                programs such as BBA, B.Com, and B.M.S</li>
+                            <li><span class="newright-icon1"></span> Achieve a competitive advantage through early
+                                exposure to industry-relevant knowledge</li>
 
-                        <p>&nbsp;</p>
-                        <p>Delivered by industry experts, this program offers a blend of theory and practical
-                            application, preparing you to excel in today's HR landscape</p>
+                        </div>
                     </div>
                     <div class="col-md-4 col-lg-4 ">
                         <?php include "common-home-form-added-all-36-courses-pages.php" ?>
 
                     </div>
                 </div>
-
-                <!-- COMMON Unique Pedagogy  -->
-
-                <?php include "PGDM-common-unique-pedagogy.php" ?>
-
-                <!-- COMMON Unique Pedagogy  -->
-
-
             </div>
         </section>
+
         <section id="learning" class="enroll-certification">
             <div class="container">
                 <div class="row">
@@ -318,17 +318,9 @@
                     <div class="col-md-12 col-lg-8 fin-feature1 hero11">
 
 
-                        <li><span class="newright-icon1"></span> Implement effective recruitment and onboarding
-                            strategies.</li>
-                        <li><span class="newright-icon1"></span> Foster positive employee relations and manage conflict
-                            resolution.</li>
-                        <li><span class="newright-icon1"></span> Develop and implement performance management systems.
-                        </li>
-                        <li><span class="newright-icon1"></span> Navigate legal and compliance aspects of HR.</li>
-                        <li><span class="newright-icon1"></span> Leverage HR technology to optimize HR processes.</li>
-
-
-
+                        <li><span class="newright-icon1"></span> Understand recruitment, training, and employee management</li>
+                        <li><span class="newright-icon1"></span> Learn organizational behavior and HR practices</li>
+                        <li><span class="newright-icon1"></span> Gain insights into workforce planning and performance management</li>
                     </div>
                 </div>
             </div>
@@ -389,31 +381,17 @@
                                                         </tr>
                                                     </tbody>
                                                 </table>
-
-
-                                            </ul>
-                                            </li>
                                             </ul>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-
-
-
-
-
                         </div>
-
-
                     </div>
 
                     <div class="cur-accordiaon" style="margin-top:-3rem;">
 
                         <div class="accordion curriculum-accordion" id="curriculum">
-
-
-
 
                             <?php //include "2-PGDM-validity.php" 
                             ?>
@@ -435,34 +413,14 @@
                                                 potential career paths you might consider:</p>
                                             <ul class="fin-feature2" style="list-style: none;">
 
-
                                                 <div class="row">
-
                                                     <div class="col-md-6 col-lg-6 col-12">
-                                                        <li><span class="newright-icon1"></span>Human Resources Manager
-                                                        </li>
-                                                        <li><span class="newright-icon1"></span>Talent Acquisition
-                                                            Specialist</li>
-                                                        <li><span class="newright-icon1"></span>Employee Relations
-                                                            Specialist</li>
-
-                                                    </div>
-                                                    <div class="col-md-6 col-lg-6 col-12">
-                                                        <li><span class="newright-icon1"></span>Training and Development
-                                                            Specialist</li>
-                                                        <li><span class="newright-icon1"></span>Compensation and
-                                                            Benefits Specialis</li>
-                                                        <li><span class="newright-icon1"></span>Recruitment Coordinator
-                                                            and more</li>
+                                                        <li><span class="newright-icon1"></span> HR Executive</li>
+                                                        <li><span class="newright-icon1"></span> Recruitment Coordinator</li>
+                                                        <li><span class="newright-icon1"></span> Talent Acquisition Assistant</li>
                                                     </div>
                                                 </div>
-
-
-
                                             </ul>
-
-
-
                                         </div>
                                     </div>
                                 </div>
@@ -475,12 +433,9 @@
             </div>
         </section>
 
+        <?php include "pcp-common-fees.php" ?>
 
-
-        <?php //include "2-PGDM-second-common-fees.php" 
-        ?>
-
-        <section id="curriculam" class="enroll-certification" style="margin-top:-70px;">
+        <section id="curriculam" class="enroll-certification">
             <div class="container">
                 <div class="row">
                     <div class="cur-accordiaon">
@@ -493,269 +448,11 @@
             <p>&nbsp;</p>
         </section>
 
-
-        <hr>
-
         <!-- frequently asked question section -->
 
-        <section class="enroll-certification mt-3" style="padding-top: 0px;">
-            <div class="container">
-                <div class="row">
-                    <div class="cur-accordiaon">
-                        <h3>Frequently Asked Questions?</h3>
-                        <div class="accordion curriculum-accordion" id="freQuestions">
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions1" aria-expanded="false" aria-controls="questions1">
-                                        What are the benefits of earning a Certification in Human Resource Management?
-                                    </button>
-                                </h2>
-                                <div id="questions1" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        This certification enhances your HR knowledge, making you more
-                                                        attractive to employers. It can lead to career advancement,
-                                                        higher salaries, and better job security.
-                                                    </p>
-                                                </div>
-                                            </div>
+        <?php include "pcp-common-faq.php" ?>
 
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions2" aria-expanded="false" aria-controls="questions2">
-                                        How long does it take to complete a Certification Course in Human Resource
-                                        Management?
-                                    </button>
-                                </h2>
-                                <div id="questions2" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        The duration of the course depends on the program. Typically,
-                                                        it can take anywhere from a few months to a year, depending
-                                                        on the format and whether it's part-time or full-time.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions3" aria-expanded="false" aria-controls="questions3">
-                                        Is the Professional Certification in Human Resource Management worth it?
-                                    </button>
-                                </h2>
-                                <div id="questions3" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        Yes, it is highly valuable. HR professionals with certifications
-                                                        often earn higher salaries and have better job opportunities
-                                                        than
-                                                        those without one.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions4" aria-expanded="false" aria-controls="questions4">
-                                        How does MITSDE’s Certification in Human Resource Management help my career?
-                                    </button>
-                                </h2>
-                                <div id="questions4" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        MITSDE’s <strong>Certification in Human Resource
-                                                            Management</strong> equips you with the skills required to
-                                                        manage HR functions effectively. It helps you gain recognition
-                                                        in the HR industry and provides practical knowledge for
-                                                        real-world challenges.
-                                                    </p>
-
-
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions5" aria-expanded="false" aria-controls="questions5">
-                                        Can I study the Certification Course in Human Resource Management online at
-                                        MITSDE?
-                                    </button>
-                                </h2>
-                                <div id="questions5" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        Yes, MITSDE offers an online <strong>Certification Course in
-                                                            Human
-                                                            Resource Management</strong>, allowing you to study at your
-                                                        own pace,
-                                                        making it flexible for working professionals.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions6" aria-expanded="false" aria-controls="questions6">
-                                        What topics are covered in a Professional Certification in Human Resource
-                                        Management?
-                                    </button>
-                                </h2>
-                                <div id="questions6" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        Topics typically include HR fundamentals, labor laws,
-                                                        recruitment,
-                                                        compensation, performance management, employee relations,
-                                                        and strategic HR management.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions7" aria-expanded="false" aria-controls="questions7">
-                                        What are the prerequisites for enrolling in a Professional Certification in
-                                        Human Resource Management?
-                                    </button>
-                                </h2>
-                                <div id="questions7" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        Typically, a background in business, HR, or related fields is
-                                                        beneficial. However, many programs, including MITSDE, accept
-                                                        professionals from various industries with a desire to
-                                                        specialize in HR.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions8" aria-expanded="false" aria-controls="questions8">
-                                        Is there any practical training included in the HR certification course at
-                                        MITSDE?
-                                    </button>
-                                </h2>
-                                <div id="questions8" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        Yes, MITSDE’s HR certification course includes practical
-                                                        assignments,
-                                                        case studies, and project work to help you apply theoretical
-                                                        knowledge in real HR scenarios.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions9" aria-expanded="false" aria-controls="questions9">
-                                        How can I register for MITSDE’s Certification in Human Resource Management?
-                                    </button>
-                                </h2>
-                                <div id="questions9" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        You can easily register for MITSDE’s <strong>Certification in
-                                                            Human
-                                                            Resource Management</strong> online by visiting their
-                                                        website and filling
-                                                        out the registration form.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <hr>
-
-        <?php //include "all-similar-program-all-courses-slider.php" 
-        ?>
+        <?php include "all-similar-program-all-courses-slider.php" ?>
 
         <?php include "learner-support.php" ?>
 

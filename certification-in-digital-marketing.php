@@ -309,89 +309,35 @@
                     </div>
 
                     <div class="col-md-8 col-lg-8 fintech-certi fin-feature hero11">
-
                         <p>
-                            Unlock the power of digital platforms to build brands, drive traffic and increase sales.
-                            The <strong>Professional Certification in Digital Marketing</strong> provides comprehensive learning
-                            on modern digital marketing tools, channels and strategies to build, launch, optimise
-                            and scale online campaigns across industries.
+                            This 6-month self-paced program introduces you to the fundamentals of digital marketing in an easy-to-understand manner. You will learn how businesses use social media, websites, and online tools to reach customers and grow. With practical examples, the course helps you build skills and confidence to explore careers in the digital space.
                         </p>
+                        <h3>What will I gain after completing the PCP course?</h3>
+                        <div class="col-md-12 fin-feature1 hero11">
 
-                        <p><strong>Gain the skills to::</strong></p>
+                            <li><span class="newright-icon1"></span> A 6-month self-paced foundation program tailored for 10th/12th pass students</li>
+                            <li><span class="newright-icon1"></span> Develop a strong understanding of fundamental
+                                management concepts before entering college</li>
+                            <li><span class="newright-icon1"></span> Gain exposure to key domains including Marketing,
+                                Project Management, Digital Marketing, Business Analytics, Operations, Finance, and HR
+                            </li>
+                            <li><span class="newright-icon1"></span> Identify areas of interest to make well-informed
+                                career decisions</li>
+                            <li><span class="newright-icon1"></span> Build confidence and preparedness for undergraduate
+                                programs such as BBA, B.Com, and B.M.S</li>
+                            <li><span class="newright-icon1"></span> Achieve a competitive advantage through early
+                                exposure to industry-relevant knowledge</li>
 
-                        <ul>
-                            <li>Understand digital customer behaviour and market trends</li>
-                            <li>Design effective search, social and content marketing campaigns</li>
-                            <li>Execute email, SEO, SEM and performance marketing strategies</li>
-                            <li>Analyse data to improve conversions and campaign ROI</li>
-                        </ul>
-
-                        <p>
-                            This certification prepares you to lead digital marketing initiatives with practical insights,
-                            tools and frameworks relevant in today’s digital economy.
-                        </p>
-
-
-
+                        </div>
                     </div>
 
                     <div class="col-md-4 col-lg-4">
                         <?php include "common-home-form-added-all-36-courses-pages.php" ?>
                     </div>
                 </div>
-
-                <!-- COMMON Unique Pedagogy  -->
-
-                <div class="row hero1.1">
-                    <div class="col-md-12 col-lg-4 pede-card">
-                        <div class="card over-card">
-                            <img src="assets/images/pedagogy.svg" class="img-fluid " title="Unique Pedagogy" alt="Unique Pedagogy">
-                            <div class="card-body">
-                                <h5 class="card-title">Unique Pedagogy </h5>
-                                <p class="card-text">MITSDE’s distance learning programs are meticulously designed to bridge the skills gap
-                                    for modern professionals. The curriculum is continually updated to reflect the latest
-                                    digital trends, industry requirements and emerging technologies. The course content is
-                                    co-created with digital marketing practitioners and industry authorities, ensuring real-
-                                    world application. Learners receive access to interactive tools, multimedia content, case
-                                    studies, hands-on exercises and reference materials.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-12 col-lg-4 pede-card">
-                        <div class="card over-card">
-                            <img src="assets/images/collaberation.svg" class="img-fluid " title="Industry Collaboration" alt="collaboration with industry leaders and partners">
-                            <div class="card-body">
-                                <h5 class="card-title">Academic Partnerships</h5>
-                                <p class="card-text">Launch your global digital career with MITSDE’s academic partnerships. The program
-                                    curriculum integrates global best practices from digital marketing leaders and seasoned
-
-                                    educators, equipping you with skills and connections to thrive in the international job
-                                    market.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-12 col-lg-4 pede-card">
-                        <div class="card over-card">
-                            <img src="assets/images/faculty.svg" class="img-fluid " title="Expert Faculty" alt="professional faculty with expertise in their respective fields">
-                            <div class="card-body">
-                                <h5 class="card-title">Expert Faculty</h5>
-                                <p class="card-text">The faculty comprises seasoned digital marketing professionals and academic experts
-                                    experienced in SEO, SEM, social media, analytics and performance marketing. These
-                                    experts actively engage learners through interactive webinars and Q&amp;A sessions,
-                                    clarifying concepts and sharing strategic insights directly from industry practice.</p>
-                            </div>
-                        </div>
-                    </div>
-
-
-                </div>
-
-                <!-- COMMON Unique Pedagogy  -->
-
-
             </div>
         </section>
+
         <section id="learning" class="enroll-certification">
             <div class="container">
                 <div class="row">
@@ -401,16 +347,11 @@
                     </div>
                     <div class="col-md-12 col-lg-8 fin-feature1 hero11">
 
-
-
-                        <li><span class="newright-icon1"></span> Master core digital marketing frameworks and channel strategies</li>
-                        <li><span class="newright-icon1"></span> Launch and optimise campaigns on Google, Meta and other digital platforms</li>
-                        <li><span class="newright-icon1"></span> Analyse performance data to refine marketing decisions</li>
-                        <li><span class="newright-icon1"></span> Use SEO, SEM, email and content marketing tools effectively</li>
-                        <li><span class="newright-icon1"></span> Build measurable digital strategies that impact business growth</li>
-
-
-
+                        <li><span class="newright-icon1"></span> Understand the basics of digital marketing, including SEO, social media, and online advertising</li>
+                        <li><span class="newright-icon1"></span> Learn how brands promote products and services in the digital space</li>
+                        <li><span class="newright-icon1"></span> Gain exposure to content creation, campaign planning, and online customer engagement</li>
+                        <li><span class="newright-icon1"></span> Develop an understanding of analytics tools and performance tracking</li>
+                        <li><span class="newright-icon1"></span> Build a foundation for executing simple digital marketing strategies</li>
 
                     </div>
                 </div>
@@ -477,39 +418,18 @@
                                                         </tr>
                                                     </tbody>
                                                 </table>
-
-
-
-
-
-
-
-
-
-                                            </ul>
-                                            </li>
                                             </ul>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-
-
-
-
-
                         </div>
                     </div>
-
-
                 </div>
 
                 <div class="cur-accordiaon" style="margin-top:-3rem;">
 
                     <div class="accordion curriculum-accordion" id="curriculum">
-
-
-
 
                         <?php  //include "2-PGDM-validity.php" 
                         ?>
@@ -539,31 +459,18 @@
                                                     <div class="row">
 
                                                         <div class="col-md-6 col-lg-6 col-12">
-                                                            <li><span class="newright-icon1"></span>Digital Marketing Specialist</li>
-                                                            <li><span class="newright-icon1"></span>SEO/SEM Analyst</li>
-                                                            <li><span class="newright-icon1"></span>Social Media Manager</li>
-                                                            <li><span class="newright-icon1"></span>Content Marketing Strategist</li>
-
-
+                                                            <li><span class="newright-icon1"></span> Digital Marketing Executive</li>
+                                                            <li><span class="newright-icon1"></span> Social Media Executive</li>
+                                                            <li><span class="newright-icon1"></span> SEO Executive</li>
                                                         </div>
                                                         <div class="col-md-6 col-lg-6 col-12">
-                                                            <li><span class="newright-icon1"></span>PPC &amp; Performance Marketing Executive</li>
-                                                            <li><span class="newright-icon1"></span>Web Analytics Professional
-                                                            </li>
-                                                            <li><span class="newright-icon1"></span>E-Commerce Marketing Lead
-                                                            </li>
-
+                                                            <li><span class="newright-icon1"></span> Content Marketing Assistant</li>
+                                                            <li><span class="newright-icon1"></span> Performance Marketing Trainee</li>
                                                         </div>
                                                     </div>
-
-
-
                                                 </ul>
-
                                             </div>
-
                                         </ul>
-
                                     </div>
                                 </div>
                             </div>
@@ -575,44 +482,16 @@
             </div>
         </section>
 
-        <section id="progressFee" class="enroll-certification">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 col-lg-4 fintech-certi fee-section">
-                        <h4>Program <br> Fees</h4>
+        <?php include "pcp-common-fees.php" ?>
 
-
-                    </div>
-                    <div class="col-md-12 col-lg-6 fin-feature">
-                        <div class="fee-distribution">
-                            <div class="fee-card">
-
-                                <div class="card-body p-2">
-                                    <button type="button" class="btn btn-primary mit-button w-100">Program Fees ₹ 25,000 /-</button>
-
-                                </div>
-                            </div>
-
-
-
-                        </div>
-
-                    </div>
-
-                </div>
-
-
-            </div>
-        </section>
-
-        <section id="curriculam" class="enroll-certification mt-3">
+        <section id="curriculam" class="enroll-certification">
             <div class="container">
                 <div class="row">
                     <div class="cur-accordiaon">
                         <h3>Sample Certificate</h3>
                     </div>
 
-                    <p align="center"><img src="assets/images/course/cap/digital-analytics.jpg"
+                    <p align="center"><img src="assets/images/course/cap/digital-analytics.jpg" title="Certificate in Digital Marketing" alt="Certificate in Digital Marketing"
                             class="img-fluid" loading="lazy">
                     </p>
                 </div>
@@ -620,232 +499,11 @@
 
         </section>
 
-        <section class="enroll-certification mt-3" style="padding-top: 0px;">
-            <div class="container">
-                <div class="row">
-                    <div class="cur-accordiaon">
-                        <h3>Frequently Asked Questions?</h3>
-                        <div class="accordion curriculum-accordion" id="freQuestions">
-                            <!-- FAQ 1 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#dmquestions1" aria-expanded="false" aria-controls="dmquestions1">
-                                        How can I get a Certification in Digital Marketing?
-                                    </button>
-                                </h2>
-                                <div id="dmquestions1" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        You can get a Certification in Digital Marketing by enrolling in the Professional Certification program offered by MITSDE and successfully completing the required coursework and assessments.
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+        <!-- frequently asked question section -->
 
-                            <!-- FAQ 2 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#dmquestions2" aria-expanded="false" aria-controls="dmquestions2">
-                                        Why should I pursue a Certification Course in Digital Marketing?
-                                    </button>
-                                </h2>
-                                <div id="dmquestions2" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        Pursuing a Certification Course in Digital Marketing helps you develop practical skills in SEO, social media marketing, performance marketing, analytics, and online branding, making you industry-ready for modern marketing roles.
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+        <?php include "pcp-common-faq.php" ?>
 
-                            <!-- FAQ 3 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#dmquestions3" aria-expanded="false" aria-controls="dmquestions3">
-                                        Is MITSDE's Professional Certification in Digital Marketing recognized?
-                                    </button>
-                                </h2>
-                                <div id="dmquestions3" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        Yes, MITSDE's Professional Certification in Digital Marketing is recognized and valued by employers across industries for its industry-aligned curriculum.
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- FAQ 4 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#dmquestions4" aria-expanded="false" aria-controls="dmquestions4">
-                                        What are the benefits of a Certification Course in Digital Marketing?
-                                    </button>
-                                </h2>
-                                <div id="dmquestions4" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        The course offers career advancement, enhanced digital campaign management skills, improved analytical capabilities, and better strategic decision-making in online marketing.
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- FAQ 5 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#dmquestions5" aria-expanded="false" aria-controls="dmquestions5">
-                                        Can I take the Professional Certification in Digital Marketing online?
-                                    </button>
-                                </h2>
-                                <div id="dmquestions5" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        Yes, the Professional Certification in Digital Marketing is offered in online mode, providing flexibility for working professionals and students.
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- FAQ 6 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#dmquestions6" aria-expanded="false" aria-controls="dmquestions6">
-                                        What is the duration of this certification course?
-                                    </button>
-                                </h2>
-                                <div id="dmquestions6" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        The duration varies, but typically, it takes a few months to complete MITSDE's Certification Course in Digital Marketing
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- FAQ 7 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#dmquestions7" aria-expanded="false" aria-controls="dmquestions7">
-                                        What are the job opportunities after completing a Certification in Digital Marketing?
-                                    </button>
-                                </h2>
-                                <div id="dmquestions7" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        After completing the certification, you can explore roles such as Digital Marketing Executive, SEO/SEM Analyst, Social Media Manager, Performance Marketing Specialist, Content Strategist, and Digital Analytics Executive.
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- FAQ 8 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#dmquestions8" aria-expanded="false" aria-controls="dmquestions8">
-                                        What topics are covered in the Professional Certification in Digital Marketing at MITSDE?
-                                    </button>
-                                </h2>
-                                <div id="dmquestions8" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        The program covers topics such as Digital Marketing Fundamentals, SEO, SEM, Social Media Marketing, Content Marketing, Email Marketing, Web Analytics, and Performance Marketing strategies.
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- FAQ 9 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#dmquestions9" aria-expanded="false" aria-controls="dmquestions9">
-                                        Is the Certification Course in Digital Marketing suitable for beginners?
-                                    </button>
-                                </h2>
-                                <div id="dmquestions9" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        Yes, the Certification Course in Digital Marketing is suitable for beginners as well as working professionals who wish to upgrade their digital marketing skills.
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
-            </div>
-        </section>
-
-          <?php include "all-similar-program-all-courses-slider.php" ?>
-
-
-
-
-
-
+        <?php include "all-similar-program-all-courses-slider.php" ?>
 
         <?php include "learner-support.php" ?>
 

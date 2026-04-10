@@ -315,31 +315,35 @@
 
                     </div>
                     <div class="col-md-8 col-lg-8 fintech-certi fin-feature hero11">
-                        <p>Gain control of your organization's financial health and unlock strategic growth. Our
-                            <a class="text-decoration-none" href="https://mitsde.com/pgdba-in-finance">Certification in Finance Management</a> equips you with the essential skills to make sound
-                            financial decisions. Master financial analysis, budgeting, forecasting, and risk management
-                            to drive profitability and achieve financial objectives.
+                        <p>
+                            This 6-month self-paced program helps you understand the basics of finance in a simple and easy way. You will learn how money is managed in businesses, including budgeting, investments, and financial planning. With practical examples, the course builds your confidence to explore careers in finance.
                         </p>
-                        <p>This program is designed for:</p>
-                        <li>Professionals seeking to advance their financial acumen</li>
-                        <li>Individuals interested in a career in finance</li>
-                        <li>Business owners who want to optimize their financial management</li>
+                        <h3>What will I gain after completing the PCP course?</h3>
+                        <div class="col-md-12 fin-feature1 hero11">
+
+                            <li><span class="newright-icon1"></span> A 6-month self-paced foundation program tailored for 10th/12th pass students</li>
+                            <li><span class="newright-icon1"></span> Develop a strong understanding of fundamental
+                                management concepts before entering college</li>
+                            <li><span class="newright-icon1"></span> Gain exposure to key domains including Marketing,
+                                Project Management, Digital Marketing, Business Analytics, Operations, Finance, and HR
+                            </li>
+                            <li><span class="newright-icon1"></span> Identify areas of interest to make well-informed
+                                career decisions</li>
+                            <li><span class="newright-icon1"></span> Build confidence and preparedness for undergraduate
+                                programs such as BBA, B.Com, and B.M.S</li>
+                            <li><span class="newright-icon1"></span> Achieve a competitive advantage through early
+                                exposure to industry-relevant knowledge</li>
+
+                        </div>
                     </div>
                     <div class="col-md-4 col-lg-4 ">
                         <?php include "common-home-form-added-all-36-courses-pages.php" ?>
 
                     </div>
                 </div>
-
-                <!-- COMMON Unique Pedagogy  -->
-
-                <?php include "PGDM-common-unique-pedagogy.php" ?>
-
-                <!-- COMMON Unique Pedagogy  -->
-
-
             </div>
         </section>
+
         <section id="learning" class="enroll-certification">
             <div class="container">
                 <div class="row">
@@ -349,23 +353,9 @@
                     </div>
                     <div class="col-md-12 col-lg-8 fin-feature1 hero11">
 
-
-
-
-                        <li><span class="newright-icon1"></span> Master core financial accounting principles and
-                            financial statement analysis.</li>
-                        <li><span class="newright-icon1"></span> Develop and implement effective budgeting and
-                            forecasting strategies.</li>
-                        <li><span class="newright-icon1"></span> Analyze financial risks and implement risk management
-                            strategies.</li>
-                        <li><span class="newright-icon1"></span> Make informed investment decisions based on financial
-                            data.</li>
-                        <li><span class="newright-icon1"></span> Apply financial metrics to evaluate business
-                            performance.</li>
-
-
-
-
+                        <li><span class="newright-icon1"></span> Understand basic financial concepts, budgeting, and accounting</li>
+                        <li><span class="newright-icon1"></span> Learn financial decision-making and analysis</li>
+                        <li><span class="newright-icon1"></span> Gain awareness of financial markets and business finance</li>
                     </div>
                 </div>
             </div>
@@ -426,33 +416,17 @@
                                                         </tr>
                                                     </tbody>
                                                 </table>
-
-
-
-
-
-
-                                            </ul>
-                                            </li>
                                             </ul>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-
-
-
-
-
                         </div>
                     </div>
 
                     <div class="cur-accordiaon" style="margin-top:-3rem;">
 
                         <div class="accordion curriculum-accordion" id="curriculum">
-
-
-
 
                             <?php //include "2-PGDM-validity.php" ?>
 
@@ -476,38 +450,13 @@
 
                                                 <div class="row">
 
-
-
-
-
-
-
-
                                                     <div class="col-md-6 col-lg-6 col-12">
-                                                        <li><span class="newright-icon1"></span>Financial Analyst</li>
-                                                        <li><span class="newright-icon1"></span>Financial Controller
-                                                        </li>
-                                                        <li><span class="newright-icon1"></span>Budget Analyst</li>
-
-
-                                                    </div>
-                                                    <div class="col-md-6 col-lg-6 col-12">
-                                                        <li><span class="newright-icon1"></span>Risk Management
-                                                            Specialist</li>
-                                                        <li><span class="newright-icon1"></span>Investment Analyst</li>
-                                                        <li><span class="newright-icon1"></span>Financial Consultant and
-                                                            more</li>
-
-
+                                                        <li><span class="newright-icon1"></span> Finance Executive</li>
+                                                        <li><span class="newright-icon1"></span> Accounts Assistant</li>
+                                                        <li><span class="newright-icon1"></span> Banking & Finance Trainee</li>
                                                     </div>
                                                 </div>
-
-
-
                                             </ul>
-
-
-
                                         </div>
                                     </div>
                                 </div>
@@ -520,11 +469,9 @@
             </div>
         </section>
 
+        <?php include "pcp-common-fees.php" ?>
 
-
-        <?php //include "2-PGDM-second-common-fees.php" ?>
-
-        <section id="curriculam" class="enroll-certification" style="margin-top:-70px;">
+        <section id="curriculam" class="enroll-certification">
             <div class="container">
                 <div class="row">
                     <div class="cur-accordiaon">
@@ -538,247 +485,11 @@
             <p>&nbsp;</p>
         </section>
 
-
-        <hr>
-
         <!-- frequently asked question section -->
 
-        <section class="enroll-certification mt-3" style="padding-top: 0px;">
-            <div class="container">
-                <div class="row">
-                    <div class="cur-accordiaon">
-                        <h3>Frequently Asked Questions?</h3>
-                        <div class="accordion curriculum-accordion" id="freQuestions">
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions1" aria-expanded="false" aria-controls="questions1">
-                                        Why should I choose a Certification Course in Finance Management?
-                                    </button>
-                                </h2>
-                                <div id="questions1" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        It boosts your career prospects by equipping you with in-demand
-                                                        financial management skills valued by top employers.
-                                                    </p>
-                                                </div>
-                                            </div>
+        <?php include "pcp-common-faq.php" ?>
 
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions2" aria-expanded="false" aria-controls="questions2">
-                                        How does MITSDE's Certification in Finance Management benefit me?
-                                    </button>
-                                </h2>
-                                <div id="questions2" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        MITSDE offers industry-relevant content, flexible learning,
-                                                        and expert mentorship to ensure holistic financial
-                                                        management training.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions3" aria-expanded="false" aria-controls="questions3">
-                                        Who is eligible for a Professional Certification in Finance Management?
-                                    </button>
-                                </h2>
-                                <div id="questions3" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        Graduates or professionals from any stream with an interest
-                                                        in finance can pursue this certification.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions4" aria-expanded="false" aria-controls="questions4">
-                                        What career opportunities are available after completing the Certification
-                                        Course in Finance Management?
-                                    </button>
-                                </h2>
-                                <div id="questions4" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        Career options include financial analyst, investment
-                                                        banker, portfolio manager, and finance consultant.
-                                                    </p>
-
-
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions5" aria-expanded="false" aria-controls="questions5">
-                                        Is MITSDE's Certification Course in Finance Management online?
-                                    </button>
-                                </h2>
-                                <div id="questions5" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        <strong>Yes</strong>, MITSDE's course is 100% online, allowing
-                                                        flexible learning anytime, anywhere.
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions6" aria-expanded="false" aria-controls="questions6">
-                                        How long does it take to complete a Professional Certification in Finance
-                                        Management?
-                                    </button>
-                                </h2>
-                                <div id="questions6" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        MITSDE's program typically takes 6 months, depending on your
-                                                        chosen learning pace.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions7" aria-expanded="false" aria-controls="questions7">
-                                        What makes MITSDE's Professional Certification in Finance Management unique?
-                                    </button>
-                                </h2>
-                                <div id="questions7" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        It integrates theoretical knowledge with practical insights,
-                                                        aligned with current industry trends.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions8" aria-expanded="false" aria-controls="questions8">
-                                        Can I pursue a Certification in Finance Management while working?
-                                    </button>
-                                </h2>
-                                <div id="questions8" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        <strong>Absolutely</strong>, as MITSDE's online course is
-                                                        designed for working professionals to learn without
-                                                        disrupting their job.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions9" aria-expanded="false" aria-controls="questions9">
-                                        How do I enroll in MITSDE’s Certification Course in Finance Management?
-                                    </button>
-                                </h2>
-                                <div id="questions9" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        You can enroll through the MITSDE website by filling out
-                                                        an application form and choosing your preferred program.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <hr>
-
-        <?php //include "all-similar-program-all-courses-slider.php" ?>
+        <?php include "all-similar-program-all-courses-slider.php" ?>
 
         <?php include "learner-support.php" ?>
 

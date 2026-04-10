@@ -276,35 +276,35 @@
 
                     </div>
                     <div class="col-md-8 col-lg-8 fintech-certi fin-feature hero11">
-                        <p>Streamline processes, optimize efficiency, and drive results. Our Certification in Operations
-                            Management equips you with the essential tools and frameworks to excel in today's dynamic
-                            business environment.
+                        <p>
+                            This 6-month self-paced program introduces you to how businesses manage their day-to-day operations efficiently. You will learn about processes, productivity, and quality management in a simple and clear way. The course uses real-life examples to help you understand how organizations run smoothly.
                         </p>
-                        <p>Gain the knowledge and skills to:</p>
-                        <li>Improve operational efficiency across various industries</li>
-                        <li>Implement best practices in supply chain management and inventory control</li>
-                        <li>Drive continuous improvement through methodologies like Lean Six Sigma</li>
-                        <li>Effectively manage resources, quality, and costs</li>
-                        <p>&nbsp;</p>
-                        <p>This comprehensive program delves into core operations concepts, equipping you to identify
-                            and implement strategies that enhance productivity, minimize waste, and achieve
-                            organizational goals</p>
+                        <h3>What will I gain after completing the PCP course?</h3>
+                        <div class="col-md-12 fin-feature1 hero11">
+
+                            <li><span class="newright-icon1"></span> A 6-month self-paced foundation program tailored for 10th/12th pass students</li>
+                            <li><span class="newright-icon1"></span> Develop a strong understanding of fundamental
+                                management concepts before entering college</li>
+                            <li><span class="newright-icon1"></span> Gain exposure to key domains including Marketing,
+                                Project Management, Digital Marketing, Business Analytics, Operations, Finance, and HR
+                            </li>
+                            <li><span class="newright-icon1"></span> Identify areas of interest to make well-informed
+                                career decisions</li>
+                            <li><span class="newright-icon1"></span> Build confidence and preparedness for undergraduate
+                                programs such as BBA, B.Com, and B.M.S</li>
+                            <li><span class="newright-icon1"></span> Achieve a competitive advantage through early
+                                exposure to industry-relevant knowledge</li>
+
+                        </div>
                     </div>
                     <div class="col-md-4 col-lg-4 ">
                         <?php include "common-home-form-added-all-36-courses-pages.php" ?>
 
                     </div>
                 </div>
-
-                <!-- COMMON Unique Pedagogy  -->
-
-                <?php include "PGDM-common-unique-pedagogy.php" ?>
-
-                <!-- COMMON Unique Pedagogy  -->
-
-
             </div>
         </section>
+
         <section id="learning" class="enroll-certification">
             <div class="container">
                 <div class="row">
@@ -314,18 +314,9 @@
                     </div>
                     <div class="col-md-12 col-lg-8 fin-feature1 hero11">
 
-
-                        <li><span class="newright-icon1"></span> Implement core operations management principles and
-                            frameworks.</li>
-                        <li><span class="newright-icon1"></span> Analyze and optimize processes for efficiency and cost
-                            reduction.</li>
-                        <li><span class="newright-icon1"></span> Master supply chain management strategies.</li>
-                        <li><span class="newright-icon1"></span> Develop and implement quality control measures.</li>
-                        <li><span class="newright-icon1"></span> Leverage data analytics to improve operational
-                            decision-making.</li>
-
-
-
+                        <li><span class="newright-icon1"></span> Understand business operations and process optimization</li>
+                        <li><span class="newright-icon1"></span> Learn supply chain basics and quality management</li>
+                        <li><span class="newright-icon1"></span> Gain knowledge of efficiency and productivity improvement</li>
                     </div>
                 </div>
             </div>
@@ -394,26 +385,16 @@
 
 
                                             </ul>
-                                            </li>
-                                            </ul>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-
-
-
-
-
                         </div>
                     </div>
 
                     <div class="cur-accordiaon" style="margin-top:-3rem;">
 
                         <div class="accordion curriculum-accordion" id="curriculum">
-
-
-
 
                             <?php  //include "2-PGDM-validity.php" 
                             ?>
@@ -439,33 +420,12 @@
                                                 <div class="row">
 
                                                     <div class="col-md-6 col-lg-6 col-12">
-                                                        <li><span class="newright-icon1"></span>Operations Manager</li>
-                                                        <li><span class="newright-icon1"></span>Supply Chain Analyst
-                                                        </li>
-                                                        <li><span class="newright-icon1"></span>Logistics Coordinator
-                                                        </li>
-
-
-                                                    </div>
-                                                    <div class="col-md-6 col-lg-6 col-12">
-                                                        <li><span class="newright-icon1"></span>Production Supervisor
-                                                        </li>
-                                                        <li><span class="newright-icon1"></span>Quality Control
-                                                            Inspector</li>
-                                                        <li><span class="newright-icon1"></span>Process Improvement
-                                                            Specialist</li>
-                                                        <li><span class="newright-icon1"></span>Inventory Management
-                                                            Specialist and more</li>
-
+                                                        <li><span class="newright-icon1"></span> Operations Executive</li>
+                                                        <li><span class="newright-icon1"></span> Process Coordinator</li>
+                                                        <li><span class="newright-icon1"></span> Supply Chain Assistant</li>
                                                     </div>
                                                 </div>
-
-
-
                                             </ul>
-
-
-
                                         </div>
                                     </div>
                                 </div>
@@ -478,12 +438,9 @@
             </div>
         </section>
 
+        <?php include "pcp-common-fees.php" ?>
 
-
-        <?php  //include "2-PGDM-second-common-fees.php" 
-        ?>
-
-        <section id="curriculam" class="enroll-certification" style="margin-top:-70px;">
+        <section id="curriculam" class="enroll-certification">
             <div class="container">
                 <div class="row">
                     <div class="cur-accordiaon">
@@ -498,252 +455,11 @@
         </section>
 
 
-        <hr>
-
         <!-- frequently asked question section -->
 
-        <section class="enroll-certification mt-3" style="padding-top: 0px;">
-            <div class="container">
-                <div class="row">
-                    <div class="cur-accordiaon">
-                        <h3>Frequently Asked Questions?</h3>
-                        <div class="accordion curriculum-accordion" id="freQuestions">
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions1" aria-expanded="false" aria-controls="questions1">
-                                        How can I get a Certification in Operations Management?
-                                    </button>
-                                </h2>
-                                <div id="questions1" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        You can get a Certification in Operations Management by
-                                                        completing
-                                                        an accredited course, such as the one offered by MITSDE.
-                                                    </p>
-                                                </div>
-                                            </div>
+        <?php include "pcp-common-faq.php" ?>
 
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions2" aria-expanded="false" aria-controls="questions2">
-                                        Why should I pursue a Certification Course in Operations Management?
-                                    </button>
-                                </h2>
-                                <div id="questions2" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        This certification enhances your skills in operations
-                                                        management, making you more competitive in the job market.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions3" aria-expanded="false" aria-controls="questions3">
-                                        Is MITSDE’s Professional Certification in Operations Management recognized?
-                                    </button>
-                                </h2>
-                                <div id="questions3" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        <strong>Yes</strong>, MITSDE’s Professional Certification in
-                                                        Operations
-                                                        Management is widely recognized and respected by employers.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions4" aria-expanded="false" aria-controls="questions4">
-                                        What are the benefits of a Certification Course in Operations Management?
-                                    </button>
-                                </h2>
-                                <div id="questions4" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        The course offers career advancement, improved operational
-                                                        efficiency, and better problem-solving capabilities.
-                                                    </p>
-
-
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions5" aria-expanded="false" aria-controls="questions5">
-                                        Can I take the Professional Certification in Operations Management online?
-                                    </button>
-                                </h2>
-                                <div id="questions5" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        <strong>Yes</strong>, MITSDE offers a flexible online program
-                                                        for
-                                                        the Professional Certification in Operations Management.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions6" aria-expanded="false" aria-controls="questions6">
-                                        How long does the Certification Course in Operations Management take?
-                                    </button>
-                                </h2>
-                                <div id="questions6" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        The duration varies, but typically, it takes a few months
-                                                        to complete MITSDE's Certification Course in Operations
-                                                        Management.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions7" aria-expanded="false" aria-controls="questions7">
-                                        What are the job opportunities after completing a Certification in Operations
-                                        Management?
-                                    </button>
-                                </h2>
-                                <div id="questions7" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        With this certification, you can pursue roles such as
-                                                        Operations Manager, Supply Chain Manager, or Production Manager.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions8" aria-expanded="false" aria-controls="questions8">
-                                        What topics are covered in the Professional Certification in Operations
-                                        Management at MITSDE?
-                                    </button>
-                                </h2>
-                                <div id="questions8" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        MITSDE covers topics like supply chain management, production
-                                                        planning, quality control, and process improvement.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions9" aria-expanded="false" aria-controls="questions9">
-                                        Is the Certification Course in Operations Management suitable for beginners?
-                                    </button>
-                                </h2>
-                                <div id="questions9" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        <strong>Yes</strong>, MITSDE's course is designed to cater to
-                                                        both
-                                                        beginners and experienced professionals looking to enhance
-                                                        their operations management skills.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <hr>
-
-        <?php  //include "all-similar-program-all-courses-slider.php" 
-        ?>
+        <?php  include "all-similar-program-all-courses-slider.php" ?>
 
         <?php include "learner-support.php" ?>
 

@@ -302,33 +302,32 @@
 
                     </div>
                     <div class="col-md-8 col-lg-8 fintech-certi fin-feature hero11">
-                        <p>Shape brand strategies, drive customer engagement, and achieve marketing mastery. Our
-                            Certification in <a class="text-decoration-none" href="https://mitsde.com/pg-diploma-in-marketing-management">Marketing Management</a> equips you with the knowledge and tools to excel in
-                            today's dynamic marketing landscape.
+                        <p>
+                            This 6-month self-paced program helps you understand the basics of marketing in a simple and practical way. You will learn how brands promote their products, attract customers, and build strong market presence. With real-life examples and easy concepts, the course builds your confidence and helps you explore careers in marketing.
                         </p>
-                        <p>Master the art of developing, implementing, and measuring effective marketing strategies
-                            across various channels. This program is designed for:</p>
-                        <li>Marketing enthusiasts seeking a structured learning experience</li>
-                        <li>Professionals looking to refine their marketing skillset</li>
-                        <li>Individuals aiming to launch or advance their marketing careers</li>
+                        <h3>What will I gain after completing the PCP course?</h3>
+                        <div class="col-md-12 fin-feature1 hero11">
 
-                        <p>&nbsp;</p>
-                        <p>Delivered by industry experts, this program offers a blend of theory and practical
-                            application, preparing you to launch a successful marketing career.</p>
+                            <li><span class="newright-icon1"></span> A 6-month self-paced foundation program tailored for 10th/12th pass students</li>
+                            <li><span class="newright-icon1"></span> Develop a strong understanding of fundamental
+                                management concepts before entering college</li>
+                            <li><span class="newright-icon1"></span> Gain exposure to key domains including Marketing,
+                                Project Management, Digital Marketing, Business Analytics, Operations, Finance, and HR
+                            </li>
+                            <li><span class="newright-icon1"></span> Identify areas of interest to make well-informed
+                                career decisions</li>
+                            <li><span class="newright-icon1"></span> Build confidence and preparedness for undergraduate
+                                programs such as BBA, B.Com, and B.M.S</li>
+                            <li><span class="newright-icon1"></span> Achieve a competitive advantage through early
+                                exposure to industry-relevant knowledge</li>
+
+                        </div>
                     </div>
                     <div class="col-md-4 col-lg-4 ">
                         <?php include "common-home-form-added-all-36-courses-pages.php" ?>
 
                     </div>
                 </div>
-
-                <!-- COMMON Unique Pedagogy  -->
-
-                <?php include "PGDM-common-unique-pedagogy.php" ?>
-
-                <!-- COMMON Unique Pedagogy  -->
-
-
             </div>
         </section>
         <section id="learning" class="enroll-certification">
@@ -340,19 +339,9 @@
                     </div>
                     <div class="col-md-12 col-lg-8 fin-feature1 hero11">
 
-
-                        <li><span class="newright-icon1"></span> Develop and implement comprehensive marketing plans.
-                        </li>
-                        <li><span class="newright-icon1"></span> Master the art of market research and customer
-                            segmentation.</li>
-                        <li><span class="newright-icon1"></span> Craft compelling brand messaging and content
-                            strategies.</li>
-                        <li><span class="newright-icon1"></span> Leverage digital marketing channels for optimal reach
-                            and engagement.</li>
-                        <li><span class="newright-icon1"></span> Analyze marketing data and measure campaign
-                            effectiveness.</li>
-
-
+                        <li><span class="newright-icon1"></span> Understand consumer behavior and marketing strategies</li>
+                        <li><span class="newright-icon1"></span> Learn branding, sales, and market analysis fundamentals</li>
+                        <li><span class="newright-icon1"></span> Develop basic digital and offline marketing knowledge</li>
 
                     </div>
                 </div>
@@ -415,34 +404,17 @@
                                                     </tbody>
                                                 </table>
 
-
-
-
-
-
-
-
-                                            </ul>
-                                            </li>
                                             </ul>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-
-
-
-
-
                         </div>
                     </div>
 
                     <div class="cur-accordiaon" style="margin-top:-3rem;">
 
                         <div class="accordion curriculum-accordion" id="curriculum">
-
-
-
 
                             <?php  //include "2-PGDM-validity.php" 
                             ?>
@@ -468,32 +440,12 @@
                                                 <div class="row">
 
                                                     <div class="col-md-6 col-lg-6 col-12">
-                                                        <li><span class="newright-icon1"></span>Marketing Manager</li>
-                                                        <li><span class="newright-icon1"></span>Brand Manager</li>
-                                                        <li><span class="newright-icon1"></span>Content Marketing
-                                                            Specialist</li>
-
-
-                                                    </div>
-                                                    <div class="col-md-6 col-lg-6 col-12">
-                                                        <li><span class="newright-icon1"></span>Social Media Marketing
-                                                            Specialist</li>
-                                                        <li><span class="newright-icon1"></span>Digital Marketing
-                                                            Specialist</li>
-                                                        <li><span class="newright-icon1"></span>Market Research Analyst
-                                                        </li>
-                                                        <li><span class="newright-icon1"></span>Public Relations
-                                                            Specialist and more</li>
-
+                                                        <li><span class="newright-icon1"></span> Marketing Executive</li>
+                                                        <li><span class="newright-icon1"></span> Digital Marketing Associate</li>
+                                                        <li><span class="newright-icon1"></span> Sales Executive</li>
                                                     </div>
                                                 </div>
-
-
-
                                             </ul>
-
-
-
                                         </div>
                                     </div>
                                 </div>
@@ -506,12 +458,9 @@
             </div>
         </section>
 
+        <?php include "pcp-common-fees.php" ?>
 
-
-        <?php  //include "2-PGDM-second-common-fees.php" 
-        ?>
-
-        <section id="curriculam" class="enroll-certification" style="margin-top:-70px;">
+        <section id="curriculam" class="enroll-certification">
             <div class="container">
                 <div class="row">
                     <div class="cur-accordiaon">
@@ -526,264 +475,11 @@
             <p>&nbsp;</p>
         </section>
 
-
-        <hr>
-
         <!-- frequently asked question section -->
 
-        <section class="enroll-certification mt-3" style="padding-top: 0px;">
-            <div class="container">
-                <div class="row">
-                    <div class="cur-accordiaon">
-                        <h3>Frequently Asked Questions?</h3>
-                        <div class="accordion curriculum-accordion" id="freQuestions">
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions1" aria-expanded="false" aria-controls="questions1">
-                                        Why should I pursue a Certification in Marketing Management?
-                                    </button>
-                                </h2>
-                                <div id="questions1" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        Pursuing a <strong>Certification in Marketing
-                                                            Management</strong> helps you
-                                                        stay updated with industry trends, improve your professional
-                                                        profile, and gain a competitive edge in the job market.
-                                                    </p>
-                                                </div>
-                                            </div>
+        <?php include "pcp-common-faq.php" ?>
 
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions2" aria-expanded="false" aria-controls="questions2">
-                                        What topics are covered in a Certification Course in Marketing Management?
-                                    </button>
-                                </h2>
-                                <div id="questions2" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        Topics typically include consumer behavior, digital marketing,
-                                                        branding strategies, marketing analytics, market research,
-                                                        and sales management.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions3" aria-expanded="false" aria-controls="questions3">
-                                        Who is eligible for a Certification Course in Marketing Management?
-                                    </button>
-                                </h2>
-                                <div id="questions3" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        Anyone with a bachelor’s degree or relevant work experience
-                                                        in marketing can enroll. Freshers, professionals,
-                                                        or entrepreneurs looking to enhance their marketing
-                                                        expertise can benefit.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions4" aria-expanded="false" aria-controls="questions4">
-                                        What career opportunities can I expect after completing a Professional
-                                        Certification in Marketing Management?
-                                    </button>
-                                </h2>
-                                <div id="questions4" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        Graduates can pursue roles such as marketing manager,
-                                                        brand strategist, digital marketing specialist, or market
-                                                        research analyst in various industries.
-                                                    </p>
-
-
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions5" aria-expanded="false" aria-controls="questions5">
-                                        How does MITSDE's Certification Course in Marketing Management stand out?
-                                    </button>
-                                </h2>
-                                <div id="questions5" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        MITSDE offers an industry-aligned <strong>Certification in
-                                                            Marketing
-                                                            Management</strong> with flexible learning, expert guidance,
-                                                        and a focus
-                                                        on real-world marketing challenges.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions6" aria-expanded="false" aria-controls="questions6">
-                                        Is the Certification Course in Marketing Management from MITSDE recognized?
-                                    </button>
-                                </h2>
-                                <div id="questions6" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        <strong>Yes</strong>, MITSDE’s courses are recognized and
-                                                        designed to meet global
-                                                        industry standards, ensuring credibility and career growth.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions7" aria-expanded="false" aria-controls="questions7">
-                                        Can I pursue a Certification in Marketing Management while working full-time?
-                                    </button>
-                                </h2>
-                                <div id="questions7" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        <strong>Absolutely!</strong> MITSDE’s <strong>Certification
-                                                            Course
-                                                            in Marketing Management</strong> is designed for working
-                                                        professionals,
-                                                        offering self-paced and online learning options.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions8" aria-expanded="false" aria-controls="questions8">
-                                        What are the benefits of pursuing a Professional Certification in Marketing
-                                        Management online?
-                                    </button>
-                                </h2>
-                                <div id="questions8" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        Online certification provides flexibility, access to updated
-                                                        content,
-                                                        expert mentorship, and the ability to balance learning with your
-                                                        work
-                                                        schedule.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions9" aria-expanded="false" aria-controls="questions9">
-                                        How do I enroll in MITSDE's Certification Course in Marketing Management?
-                                    </button>
-                                </h2>
-                                <div id="questions9" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        You can visit MITSDE’s official website, explore
-                                                        the course details, and complete the online enrollment process
-                                                        effortlessly.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <hr>
-
-        <?php  //include "all-similar-program-all-courses-slider.php" 
-        ?>
+        <?php include "all-similar-program-all-courses-slider.php" ?>
 
         <?php include "learner-support.php" ?>
 
