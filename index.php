@@ -112,7 +112,7 @@
                         </div>
                     </div>
 
-                    <div>
+                    <!-- <div>
                         <div class="row">
                             <a href="https://mitsde.com/pgdm-executive-emba-dual-program">
                                 <img src="assets/images/homeimages/MITSDE-Banner_08-04-26.jpg"
@@ -120,7 +120,7 @@
                                     decoding="async"></a>
 
                         </div>
-                    </div>
+                    </div> -->
                     <!--<div>
                         <div class="row">
                             <img src="assets/images/homeimages/new-year-banner.jpg" class="banner-img" alt="New Year"
