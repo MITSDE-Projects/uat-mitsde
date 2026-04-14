@@ -205,7 +205,6 @@ $mail->AddAddress($address);
 
 $ccList = [
 	'sanjay.gaikwad@mitsde.com',
-	'kushal.kamble@mitsde.com',
 	'raj.marathe@mitsde.com'
 ];
 

@@ -30,7 +30,7 @@ $email = $_POST['email'];
 
 
 
-$owenrMailID = "kushal.kamble@mitsde.com";
+$owenrMailID = "sanjay.gaikwad@mitsde.com";
 
 
 
@@ -148,7 +148,7 @@ $mail->AddAddress($owenrMailID);
 
 
 
-$ccEmails = ['kushal.kamble@mitsde.com'];
+$ccEmails = ['sanjay.gaikwad@mitsde.com'];
 
 foreach ($ccEmails as $ccEmail) {
 

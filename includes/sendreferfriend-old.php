@@ -27,7 +27,7 @@
 
 
 // $owenrMailID="sanjay.gaikwad@mitsde.com";
-$owenrMailID="kushal.kamble@mitsde.com";
+$owenrMailID="sanjay.gaikwad@mitsde.com";
 
 $mail  = new PHPMailer();
 
@@ -175,9 +175,7 @@ $address = $owenrMailID;
 
 $mail->AddAddress($address);
 
-// $mail->AddCC('kushal.kamble@mitsde.com');
-
-$ccEmails = ['kushal.kamble@mitsde.com'];
+$ccEmails = ['sanjay.gaikwad@mitsde.com'];
 
 foreach ($ccEmails as $ccEmail) {
     $mail->AddCC($ccEmail);

@@ -87,7 +87,6 @@ $mail->AddAddress($owenrMailID);
 $ccList = [
 	'sanjay.gaikwad@mitsde.com',
 	'mocs@mitsde.com',
-	'kushal.kamble@mitsde.com',
 	'raj.marathe@mitsde.com'
 ];
 foreach ($ccList as $ccEmail) {
