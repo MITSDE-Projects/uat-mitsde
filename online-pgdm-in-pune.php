@@ -87,13 +87,7 @@
                     </div>
                     <div class="col-md-12 col-lg-6">
                         <div class="css-details">
-                            <div class="stc-det student-sec inner-sec">
-                                <img src="assets/images/progress.svg" alt="Progress indicator icon">
-                            </div>
-                            <img src="assets/images/city/online-pgdm-in-pune.jpg" class="banner-img"
-                                alt="Online PGDM in Pune | Distance PGDM  Programs, Colleges, Courses">
-                            <div class="stc-det course-sec inner-sec">
-                                <img src="assets/images/walet.svg" alt="Wallet icon for payment">
+                            <?php include "home-page-final-form.php" ?>
                             </div>
                         </div>
                     </div>
@@ -109,7 +103,7 @@
                         <h2>Explore Online PGDM Programs, Colleges, and Courses in Pune, Maharashtra</h2>
 
                     </div>
-                    <div class="col-md-12 col-lg-8 fin-feature hero11">
+                    <div class="col-md-12 col-lg-12 fin-feature hero11">
                         <p>Are you looking to advance your career with a management qualification? <strong>Online PGDM
                                 programs in Pune </strong>can be the perfect solution for you. Explore the various PGDM
                             colleges, programs, and courses available in Maharashtra. These programs offer flexibility
@@ -123,7 +117,7 @@
 
 
                     </div>
-                    <?php include "home-page-final-form.php" ?>
+                    <?php //include "home-page-final-form.php" ?>
                 </div>
                 <hr>
 
@@ -165,12 +159,12 @@
 
                         </li>
                     </div>
-                    <hr>
 
                 </div>
+                <hr>
 
                 <div class="row">
-                    <div class="col-md-12 col-lg-12 fintech-certi aboutMit-skills fintech-certi">
+                    <div class="col-md-12 col-lg-12 fintech-certi aboutMit-skills">
                         <h2>Why Select MIT SDE for Your Online PGDM</h2>
                         <p><strong>MIT SDE</strong> stands out among the <strong>best colleges for PGDM in
                                 India</strong>. Here's why you should consider it for your online postgraduate courses:
@@ -201,7 +195,7 @@
                 </div>
                 <hr>
                 <div class="row">
-                    <div class="col-md-12 col-lg-12  fin-feature1 hero11">
+                    <div class="col-md-12 col-lg-12  fin-feature1 hero11 fintech-certi">
                         <h2>PGDM Specializations</h2>
                         <p>MIT SDE offers a variety of specializations to cater to different career aspirations:</p>
 
@@ -246,7 +240,7 @@
                 </div>
                 <hr>
                 <div class="row">
-                    <div class="col-md-12 col-lg-12 fintech-certi aboutMit-skills fintech-certi">
+                    <div class="col-md-12 col-lg-12 fintech-certi aboutMit-skills">
                         <h2>MIT SDE Collaborations and Principles</h2>
                         <p><strong>MIT School of Distance Education (MITSDE)</strong> collaborates with industry leaders
                             to ensure that the curriculum is up-to-date with the latest business practices. The core
@@ -341,6 +335,8 @@
 
                         </div>
 
+                        <hr>
+
                         <div class="row">
                             <div class="col-md-12 col-lg-12 fintech-certi fin-feature hero11">
                                 <h2>Course Duration and Fee</h2>
@@ -377,7 +373,7 @@
 
                                     </li>
 
-                                    <hr>
+                                    
 
                                 </div>
 
@@ -385,6 +381,7 @@
                             </div>
 
                         </div>
+                        <hr>
                         <div class="row">
 
                             <div class="col-md-12 col-lg-12 fintech-certi">
@@ -393,27 +390,28 @@
                                 <div class="row">
                                     <div class="col-md-12 col-lg-12 fin-feature1 hero11">
                                         <h2>Benefits of Distance PGDM</h2>
-                                        <p><strong>1. Flexibility:</strong>Study at your convenience, balancing work and
+                                        <p><strong>1. Flexibility:</strong> Study at your convenience, balancing work and
                                             education.</p>
-                                        <p><strong>2. Cost-Effective</strong>Save on commuting and accommodation costs.
+                                        <p><strong>2. Cost-Effective:</strong> Save on commuting and accommodation costs.
                                         </p>
-                                        <p><strong>3. Access to Resources:</strong>Utilize online libraries, journals,
+                                        <p><strong>3. Access to Resources:</strong> Utilize online libraries, journals,
                                             and forums for comprehensive learning.</p>
-                                        <p><strong>4. Career Advancement</strong>Enhance your qualifications without
+                                        <p><strong>4. Career Advancement:</strong> Enhance your qualifications without
                                             interrupting your career.</p>
 
 
 
                                     </div>
+                                    <hr>
                                     <div class="col-md-12 col-lg-12 fin-feature1 hero11">
                                         <h2>PGDM Syllabus</h2>
                                         <p>The <strong>PGDM syllabus</strong> at MIT SDE covers a wide range of subjects
                                             to ensure a thorough understanding of management principles:</p>
-                                        <p><strong>1. Core Subjects:</strong>Specialized courses in areas like Digital
+                                        <p><strong>1. Core Subjects:</strong> Specialized courses in areas like Digital
                                             Marketing, Business Analytics.</p>
-                                        <p><strong>2. Electives</strong>Select courses that align with your career goals
+                                        <p><strong>2. Electives:</strong> Select courses that align with your career goals
                                         </p>
-                                        <p><strong>3. Capstone Projects:</strong>Practical projects to demonstrate your
+                                        <p><strong>3. Capstone Projects:</strong> Practical projects to demonstrate your
                                             learning.</p>
 
 
@@ -423,7 +421,7 @@
 
                                 </div>
 
-
+                                <hr>
 
 
                                 <div class="row">
@@ -434,13 +432,13 @@
                                             of career paths across diverse industries. Some potential career
                                             opportunities include:
                                         </p>
-                                        <p><strong>1. Corporate Sector: :</strong>Roles in management, consulting,
+                                        <p><strong>1. Corporate Sector:</strong> Roles in management, consulting,
                                             finance, and marketing.</p>
 
-                                        <p><strong>2. Startups:</strong>Opportunities in dynamic and innovative business
+                                        <p><strong>2. Startups:</strong> Opportunities in dynamic and innovative business
                                             environments</p>
 
-                                        <p><strong>3. Government and NGOs:</strong>Positions in public sector
+                                        <p><strong>3. Government and NGOs:</strong> Positions in public sector
                                             enterprises and non-profit organizations.</p>
 
 

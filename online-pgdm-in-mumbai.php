@@ -49,7 +49,7 @@
     <link rel="preload" href="assets/css/style.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
     <link rel="preload" href="assets/css/course-common-internal.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
     <link rel="preload" href="assets/css/master-page.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-
+    <link rel="preload" href="assets/css/city-page.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 
     <!-- Fallback (Loads CSS if JS disabled) -->
     <noscript>
@@ -58,6 +58,7 @@
         <link rel="stylesheet" href="assets/css/style.css">
         <link rel="stylesheet" href="assets/css/course-common-internal.css">
         <link rel="stylesheet" href="assets/css/master-page.css">
+        <link rel="stylesheet" href="assets/css/city-page.css">
     </noscript>
 
     <!--API for Queck contact----->
@@ -98,14 +99,7 @@
                     </div>
                     <div class="col-md-12 col-lg-6">
                         <div class="css-details">
-                            <div class="stc-det student-sec inner-sec">
-                                <img src="assets/images/progress.svg" alt="Progress indicator icon">
-                            </div>
-                            <img src="assets/images/city/online-pgdm-in-mumbai.jpg" class="banner-img" fetchpriority="high"
-                                alt="Online PGDM in Mumbai | PG Programs, Courses, Colleges">
-                            <div class="stc-det course-sec inner-sec">
-                                <img src="assets/images/walet.svg" alt="Wallet icon for payment">
-                            </div>
+                            <?php include "home-page-final-form.php" ?>
                         </div>
                     </div>
                 </div>
@@ -120,7 +114,7 @@
                         <h2>Explore Online MBA Programs, Colleges, and Courses in Mumbai, Maharashtra</h2>
 
                     </div>
-                    <div class="col-md-12 col-lg-8 fin-feature hero11">
+                    <div class="col-md-12 col-lg-12 fin-feature hero11">
                         <p>Are you looking to advance your career with a management qualification? <strong>Online PGDM programs in Mumbai </strong> can be the perfect solution for you.</p>
                         <p>Explore the various PGDM colleges, programs, and courses available in Maharashtra. These programs offer flexibility and comprehensive learning.
                         </p>
@@ -132,7 +126,7 @@
 
 
                     </div>
-                    <?php include "home-page-final-form.php" ?>
+                    <?php //include "home-page-final-form.php" ?>
                 </div>
                 <hr>
                 <div class="row">
@@ -163,15 +157,16 @@
                         </li>
 
 
-                    </div><hr>
+                    </div>
+                </div>
+                <hr>
+               
+                <div class="row">
                     <div class="col-md-12 col-lg-12 fin-feature1 hero11">
                         <h3><strong>Why Select MITSDE for Your Online PGDM</strong></h3>
                         <p>MITSDE stands out among the <strong>best colleges for PGDM in India.</strong> 
                         </p>
                     </div>
-                </div>
-               
-                <div class="row">
                     <div class="col-md-12 col-lg-12 fintech-certi aboutMit-skills">
                         <h3><strong>Here's why you should consider it for your online postgraduate courses:</strong></h3>
                             
@@ -251,12 +246,8 @@
 
                             </div>
                         </div>
-
-
-
-
+                        <hr>
                     </div>
-                    <hr>
 
                 <div class="row">
                     <div class="col-md-12 col-lg-9 fintech-certi fin-feature hero11">
@@ -284,6 +275,7 @@
 
                     </div>
                 </div>
+
                 <hr>
 
                 <div class="row">
@@ -299,13 +291,9 @@
                         <p><strong><span class="newright-icon1"></span>Mentorship Programs:</strong>Personalized guidance and support from experts.
                         </p>
                        
-                     
-
-                        <hr>
-
                     </div>
-
                 </div>
+                <hr>
 
                 <div class="row">
                     <div class="col-md-12 col-lg-12 fintech-certi fin-feature hero11">
@@ -322,6 +310,8 @@
                     </div>
 
                 </div>
+
+                <hr>
 
                 <div class="row">
                     <div class="col-md-12 col-lg-12 fintech-certi fin-feature hero11">

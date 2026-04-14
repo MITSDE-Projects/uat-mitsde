@@ -496,7 +496,7 @@ body {
   /* 🔥 NEW MOBILE IMAGE SECTION */
   .mobile-hero-img {
     margin-top: 25px;
-    background: url('../images/city/online-pgdm-pune') no-repeat center;
+    background: url('../images/city/online-pgdm-pune.png') no-repeat center;
     /* background-size: cover; */
     background-size: contain;
     background-repeat: no-repeat;

@@ -86,14 +86,7 @@
                     </div>
                     <div class="col-md-12 col-lg-6">
                         <div class="css-details">
-                            <div class="stc-det student-sec inner-sec">
-                                <img src="assets/images/progress.svg" alt="Progress indicator icon">
-                            </div>
-                            <img src="assets/images/city/distance-mba-in-pune.jpg" class="banner-img"
-                                alt="Distance MBA in Pune | Online EMBA Colleges, Degree, Programs">
-                            <div class="stc-det course-sec inner-sec">
-                                <img src="assets/images/walet.svg" alt="Wallet icon for payment">
-                            </div>
+                            <?php include "home-page-final-form.php" ?>
                         </div>
                     </div>
                 </div>
@@ -108,7 +101,7 @@
                         <h2>Explore Online MBA Programs, Colleges, and Courses in Pune, Maharashtra</h2>
 
                     </div>
-                    <div class="col-md-12 col-lg-8 fin-feature hero11">
+                    <div class="col-md-12 col-lg-12 fin-feature hero11">
                         <p><strong>MIT School of Distance Education (MIT SDE) </strong>is an <strong>Online MBA college
                                 in Pune</strong>
                             that offers the
@@ -140,7 +133,7 @@
                         </p>
 
                     </div>
-                    <?php include "home-page-final-form.php" ?>
+                    <?php //include "home-page-final-form.php" ?>
                 </div>
                 <hr>
 
@@ -181,9 +174,10 @@
 
                         </li>
                     </div>
-                    <hr>
+                    
 
                 </div>
+                <hr>
 
                 <div class="row">
                     <div class="col-md-12 col-lg-12 fintech-certi aboutMit-skills fintech-certi">
@@ -211,7 +205,7 @@
 
 
                         </li>
-                        <li><span class="newright-icon1"></span><strong>Collaborations:</strong> <strong>MIT SDE
+                        <li><span class="newright-icon1"></span><strong>Collaborations:</strong> MIT SDE
                                 collaborates with Pune's leading companies and institutions, providing students with
                                 valuable networking opportunities and industry insights.
 
@@ -257,11 +251,12 @@
 
 
 
-                        <hr>
+                        
 
                     </div>
 
                 </div>
+                <hr>
 
                 <div class="row">
 
@@ -286,6 +281,8 @@
                             </div>
 
                         </div>
+
+                        <hr>
 
                         <div class="row">
                             <div class="col-md-12 col-lg-12 fintech-certi fin-feature hero11">
@@ -323,14 +320,13 @@
 
                                     </li>
 
-                                    <hr>
-
                                 </div>
 
 
                             </div>
 
                         </div>
+                        <hr>
                         <div class="row">
 
                             <div class="col-md-12 col-lg-12 fintech-certi">
@@ -390,7 +386,7 @@
                                     </div>
                                 </div>
 
-
+                                <hr>
 
 
                                 <div class="row">
