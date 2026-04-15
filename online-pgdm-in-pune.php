@@ -59,7 +59,7 @@
 <body>
     <?php include "5-common-seo-tag-2.php"?>
     <!-- Header Nav Start -->
-    <?php include "header-for-city-pages.php" ?>
+    <?php include "header.php" ?>
     <!-- Header Nav End --->
     <main class="main-body">
         <section class="banner inner-banner">
@@ -399,10 +399,10 @@
                                         <p><strong>4. Career Advancement:</strong> Enhance your qualifications without
                                             interrupting your career.</p>
 
-
+                                            <hr>
 
                                     </div>
-                                    <hr>
+                                    
                                     <div class="col-md-12 col-lg-12 fin-feature1 hero11">
                                         <h2>PGDM Syllabus</h2>
                                         <p>The <strong>PGDM syllabus</strong> at MIT SDE covers a wide range of subjects

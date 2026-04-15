@@ -59,7 +59,7 @@
 <body>
     <?php include "5-common-seo-tag-2.php" ?>
     <!-- Header Nav Start -->
-    <?php include "header-for-city-pages.php" ?>
+    <?php include "header.php" ?>
     <!-- Header Nav End --->
     <main class="main-body">
         <section class="banner inner-banner">
@@ -87,14 +87,7 @@
                     </div>
                     <div class="col-md-12 col-lg-6">
                         <div class="css-details">
-                            <div class="stc-det student-sec inner-sec">
-                                <img src="assets/images/progress.svg" alt="Progress indicator icon">
-                            </div>
-                            <img src="assets/images/city/online-pgdm-in-sangli.jpg" class="banner-img"
-                                alt="Online PGDM in Sangli | PGDM Programs, Courses, Colleges">
-                            <div class="stc-det course-sec inner-sec">
-                                <img src="assets/images/walet.svg" alt="Wallet icon for payment">
-                            </div>
+                            <?php include "home-page-final-form.php" ?>
                         </div>
                     </div>
                 </div>
@@ -109,7 +102,7 @@
                         <h2>Explore Online PGDM Programs, Colleges, and Courses in Sangli, Maharashtra</h2>
 
                     </div>
-                    <div class="col-md-12 col-lg-8 fin-feature hero11">
+                    <div class="col-md-12 col-lg-12 fin-feature hero11">
                         <p>Are you aiming to enhance your career with a management qualification? <strong>Online PGDM
                                 programs in Sangli</strong> offer a flexible and comprehensive learning experience
                             designed to meet your professional goals.
@@ -123,7 +116,7 @@
                             landscape.</p>
 
                     </div>
-                    <?php include "home-page-final-form.php" ?>
+                    <?php //include "home-page-final-form.php" ?>
                 </div>
                 <hr>
 
@@ -253,18 +246,10 @@
                                         </li>
                                     </div>
                                 </div>
-
-
                             </div>
                         </div>
-
-
-
-
+                        <hr>
                     </div>
-                    <hr>
-
-
 
                     <div class="row">
                         <div class="col-md-12 col-lg-12 fintech-certi fin-feature hero11">
@@ -304,7 +289,7 @@
                             </p>
                             <p><strong>2. Professional Experience:</strong> Preferred but not mandatory. </p>
 
-
+                            <hr>
                         </div>
 
                     </div>

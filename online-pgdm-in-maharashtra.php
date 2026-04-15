@@ -64,7 +64,7 @@
 <body>
     <?php include "5-common-seo-tag-2.php" ?>
     <!-- Header Nav Start -->
-    <?php include "header-for-city-pages.php" ?>
+    <?php include "header.php" ?>
     <!-- Header Nav End --->
     <main class="main-body">
         <section class="banner inner-banner">

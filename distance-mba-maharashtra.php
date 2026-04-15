@@ -49,6 +49,7 @@
     <link rel="stylesheet" href="assets/css/style.css" type="text/css" />
     <link rel="stylesheet" href="assets/css/course-common-internal.css" type="text/css" />
     <link rel="stylesheet" href="assets/css/master-page.css" type="text/css" />
+    <link rel="stylesheet" href="assets/css/city-page.css" type="text/css" />
     <!-- font awesome css -->
 
     <link rel="stylesheet" href="assets/fontawesome/css/all.min.css">
@@ -63,7 +64,7 @@
 <body>
     <?php include "5-common-seo-tag-2.php" ?>
     <!-- Header Nav Start -->
-    <?php include "header-for-city-pages.php" ?>
+    <?php include "header.php" ?>
     <!-- Header Nav End --->
     <main class="main-body">
         <section class="banner inner-banner">
@@ -93,14 +94,7 @@
                     </div>
                     <div class="col-md-12 col-lg-6">
                         <div class="css-details">
-                            <div class="stc-det student-sec inner-sec">
-                                <img src="assets/images/progress.svg" alt="">
-                            </div>
-                            <img src="assets/images/city/distance-mba-maharashtra.jpg" class="banner-img"
-                                alt="Distance MBA in Maharashtra | Online MBA Colleges/Programs/Courses">
-                            <div class="stc-det course-sec inner-sec">
-                                <img src="assets/images/walet.svg" alt="">
-                            </div>
+                            <?php include "home-page-final-form.php" ?>
                         </div>
                     </div>
                 </div>
@@ -115,7 +109,7 @@
                         <h2>Explore Online MBA Programs, Colleges, and Courses in Maharashtra</h2>
 
                     </div>
-                    <div class="col-md-12 col-lg-8 fin-feature hero11">
+                    <div class="col-md-12 col-lg-12 fin-feature hero11">
                         <p><strong>MIT School of Distance Education (MIT SDE)</strong> offers an Online/Distance MBA
                             program across
                             Maharashtra, catering to the needs of working professionals who aim to enhance their
@@ -134,7 +128,7 @@
 
 
                     </div>
-                    <?php include "home-page-final-form.php" ?>
+                    <?php //include "home-page-final-form.php" ?>
                 </div>
                 <hr>
                 <div class="row">
@@ -213,8 +207,9 @@
                             width="100%" height="auto">
 
                     </div>
+                    <hr>
                 </div>
-                <hr>
+                
 
                 <div class="row">
                     <div class="col-md-12 col-lg-12 fintech-certi fin-feature hero11">
@@ -228,8 +223,27 @@
                             <p>2. Experience may be required for certain specialization tracks.</p>
 
 
+                            <hr>
+
+
+
+                        </div>
+
+
+                    </div>
+
+                </div>
+
+                <div class="row">
+                    <div class="col-md-12 col-lg-12 fintech-certi fin-feature hero11">
+                        <h3><strong>Course Duration and Fee</strong></h3>
+
+                        <div class="col-md-12 col-lg-12 fin-feature hero11">
+
+
+
                             <li class="section hero10 p-3" style="list-style-type: none;">
-                                <h3>Course Duration and Fee</h3>
+
 
                                 <ul class="curriculum me-1">
 
@@ -239,8 +253,6 @@
                                                 <th>Eligibility</th>
                                                 <th>Course Duration</th>
                                                 <th>Course Fee</th>
-
-
                                             </tr>
                                         </thead>
                                         <tbody>
@@ -248,12 +260,7 @@
                                                 <td>Any graduate</td>
                                                 <td>24 Months</td>
                                                 <td>₹ 96,000 /-</td>
-
-
                                             </tr>
-
-
-
 
                                         </tbody>
                                     </table>
@@ -262,11 +269,7 @@
 
                             </li>
 
-
                             <hr>
-
-
-
                         </div>
 
 
@@ -337,12 +340,10 @@
 
                             </div>
                         </div>
-
-
-
+                        <hr>
 
                     </div>
-                    <hr>
+                    
                     <div class="col-md-12 col-lg-12 fintech-certi">
 
 
@@ -544,7 +545,9 @@
                                 </div>
                             </div>
 
-                            <h3><strong> People Also Search for</strong></h3>
+                        </div>
+                    </div>
+                    <h3><strong> People Also Search for</strong></h3>
                             <p align="justify">Distance MBA in Maharashtra | Distance MBA colleges in Maharashtra |
                                 Online MBA Program in Maharashtra | Post graduate diploma Colleges in Maharashtra |
                                 Distance MBA Courses in Maharashtra | PGDM Colleges in Maharashtra | PGDM Colleges in
@@ -554,6 +557,7 @@
 
 
                             </p>
+                            <hr>
 
                             <h3><strong> Best Online Education Across Maharashtra:</strong></h3>
                             <p align="justify">Ahmadnagar | Navi Mumbai | Latur | Jalgaon | Chakan | Amravati |
@@ -563,11 +567,6 @@
                                 Nagpur | Nandurbar | Anjangaon | Khed | Khopoli | Sawantwadi | Thane | Badlapur |
                                 Ambernath | Navi Mumbai | Panvel | Mira Bhayandar | Kalyan | Gondia | Bhiwandi |
                                 Vasai-Virar</p>
-
-
-
-                        </div>
-                    </div>
                 </div>
 
 

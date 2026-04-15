@@ -47,6 +47,7 @@
     <link rel="stylesheet" href="assets/css/style.css" type="text/css" />
     <link rel="stylesheet" href="assets/css/course-common-internal.css" type="text/css" />
     <link rel="stylesheet" href="assets/css/master-page.css" type="text/css" />
+    <link rel="stylesheet" href="assets/css/city-page.css" type="text/css" />
     <!-- font awesome css -->
 
     <link rel="stylesheet" href="assets/fontawesome/css/all.min.css">
@@ -61,7 +62,7 @@
 <body>
     <?php include "5-common-seo-tag-2.php" ?>
     <!-- Header Nav Start -->
-    <?php include "header-for-city-pages.php" ?>
+    <?php include "header.php" ?>
     <!-- Header Nav End --->
     <main class="main-body">
         <section class="banner inner-banner">
@@ -91,14 +92,7 @@
                     </div>
                     <div class="col-md-12 col-lg-6">
                         <div class="css-details">
-                            <div class="stc-det student-sec inner-sec">
-                                <img src="assets/images/progress.svg" alt="Progress indicator icon">
-                            </div>
-                            <img src="assets/images/city/distance-mba-in-nagpur.jpg" class="banner-img"
-                                alt="Distance MBA in Nagpur | Online MBA Colleges, Courses, Programs">
-                            <div class="stc-det course-sec inner-sec">
-                                <img src="assets/images/walet.svg" alt="Wallet icon for payment">
-                            </div>
+                            <?php include "home-page-final-form.php" ?>
                         </div>
                     </div>
                 </div>
@@ -113,7 +107,7 @@
                         <h2>Explore Online MBA Programs, Colleges, and Courses in Nagpur</h2>
 
                     </div>
-                    <div class="col-md-12 col-lg-8 fin-feature hero11">
+                    <div class="col-md-12 col-lg-12 fin-feature hero11">
                         <p><strong>MIT School of Distance Education (MIT SDE) </strong>offers a premier <strong>Online /
                                 Distance MBA in Nagpur,
                                 Maharashtra.</strong> catering specifically to the needs of working professionals who
@@ -134,7 +128,7 @@
 
 
                     </div>
-                    <?php include "home-page-final-form.php" ?>
+                    <?php //include "home-page-final-form.php" ?>
                 </div>
                 <hr>
                 <div class="row">
@@ -218,8 +212,8 @@
                             width="100%" height="auto">
 
                     </div>
+                    <hr>
                 </div>
-                <hr>
 
                 <div class="row">
                     <div class="col-md-12 col-lg-12 fintech-certi fin-feature hero11">
@@ -377,11 +371,11 @@
                             </div>
                         </div>
 
-
+                        <hr>
 
 
                     </div>
-                    <hr>
+                    
                     <div class="col-md-12 col-lg-12 fintech-certi">
 
 
@@ -579,17 +573,18 @@
                                 </div>
                             </div>
 
-                            <h3><strong> People Also Search for</strong></h3>
-                            <p align="justify">Distance MBA Courses In Nagpur | Distance MBA Colleges Nagpur | Distance MBA Institution in Nagpur | Distance MBA Program  in Nagpur | Distance MBA Education In Nagpur | Distance Learning In Nagpur | Distance Learning Courses In Nagpur | Distance Education In Nagpur | Online MBA Courses In Nagpur | Online MBA Colleges Nagpur | Online MBA Program in Nagpur | online MBA Education In Nagpur | Online Learning In Nagpur | Online Education In Nagpur | Online MBA In Nagpur
-
-
-
-                            </p>
+                            
 
 
 
                         </div>
                     </div>
+                    <h3><strong> People Also Search for</strong></h3>
+                            <p align="justify">Distance MBA Courses In Nagpur | Distance MBA Colleges Nagpur | Distance MBA Institution in Nagpur | Distance MBA Program  in Nagpur | Distance MBA Education In Nagpur | Distance Learning In Nagpur | Distance Learning Courses In Nagpur | Distance Education In Nagpur | Online MBA Courses In Nagpur | Online MBA Colleges Nagpur | Online MBA Program in Nagpur | online MBA Education In Nagpur | Online Learning In Nagpur | Online Education In Nagpur | Online MBA In Nagpur
+
+
+
+                            </p>
                 </div>
 
 

@@ -48,6 +48,7 @@
     <link rel="stylesheet" href="assets/css/style.css" type="text/css" />
     <link rel="stylesheet" href="assets/css/course-common-internal.css" type="text/css" />
     <link rel="stylesheet" href="assets/css/master-page.css" type="text/css" />
+    <link rel="stylesheet" href="assets/css/city-page.css" type="text/css" />
     <!-- font awesome css -->
 
     <link rel="stylesheet" href="assets/fontawesome/css/all.min.css">
@@ -62,7 +63,7 @@
 <body>
     <?php include "5-common-seo-tag-2.php" ?>
     <!-- Header Nav Start -->
-    <?php include "header-for-city-pages.php" ?>
+    <?php include "header.php" ?>
     <!-- Header Nav End --->
     <main class="main-body">
         <section class="banner inner-banner">
@@ -90,14 +91,7 @@
                     </div>
                     <div class="col-md-12 col-lg-6">
                         <div class="css-details">
-                            <div class="stc-det student-sec inner-sec">
-                                <img src="assets/images/progress.svg" alt="Progress indicator icon">
-                            </div>
-                            <img src="assets/images/city/online-pgdm-in-pimpri-chinchwad.jpg" class="banner-img"
-                                alt="Online PGDM in Pimpri Chinchwad | PG Programs, Courses, Colleges">
-                            <div class="stc-det course-sec inner-sec">
-                                <img src="assets/images/walet.svg" alt="Wallet icon for payment">
-                            </div>
+                            <?php include "home-page-final-form.php" ?>
                         </div>
                     </div>
                 </div>
@@ -112,7 +106,7 @@
                         <h2>Explore Online PGDM Programs, Colleges, and Courses in Pimpri Chinchwad, Pune, Maharashtra
                         </h2>
                     </div>
-                    <div class="col-md-12 col-lg-8 fin-feature hero11">
+                    <div class="col-md-12 col-lg-12 fin-feature hero11">
                         <p>Are you seeking to enhance your career with a management qualification?<strong> Online PGDM
                                 programs in Pimpri Chinchwad, Pune</strong> offer a flexible and comprehensive learning
                             experience. </strong> can be the perfect solution for you.</p>
@@ -132,7 +126,7 @@
 
 
                     </div>
-                    <?php include "home-page-final-form.php" ?>
+                    <?php //include "home-page-final-form.php" ?>
                 </div>
                 <hr>
                 <div class="row">
@@ -163,16 +157,15 @@
                             professionals and peers in the industry.
                         </li>
                     </div>
-                    <hr>
+                </div>
+                <hr>
+                <div class="row">
                     <div class="col-md-12 col-lg-12 fin-feature1 hero11">
                         <h3><strong>Why Choose MITSDE for Your Online PGDM in Pimpri Chinchwad</strong></h3>
                         <p><strong>MIT School of Distance Education (MITSDE)</strong> is among the top choices for PGDM
                             in India.</strong>
                         </p>
                     </div>
-                </div>
-
-                <div class="row">
                     <div class="col-md-12 col-lg-12 fintech-certi aboutMit-skills">
                         <h3><strong>Reasons to consider MITSDE for your online postgraduate education:</strong></h3>
 
@@ -257,12 +250,9 @@
 
                             </div>
                         </div>
-
-
-
-
+                        <hr>
                     </div>
-                    <hr>
+                    
 
                     <div class="row">
                         <div class="col-md-12 col-lg-9 fintech-certi fin-feature hero11">
@@ -294,8 +284,8 @@
                                 width="100%" height="auto">
 
                         </div>
+                        <hr>
                     </div>
-                    <hr>
 
                     <div class="row">
                         <div class="col-md-12 col-lg-12 fintech-certi fin-feature hero11">
@@ -336,7 +326,7 @@
                             <p><strong>2. Professional Experience:</strong> Relevant work experience is preferred but
                                 not mandatory </p>
 
-
+                                <hr>
                         </div>
 
                     </div>

@@ -64,7 +64,7 @@
 <body>
     <?php include "5-common-seo-tag-2.php"?>
     <!-- Header Nav Start -->
-<?php include "header-for-city-pages.php" ?>
+<?php include "header.php" ?>
     <!-- Header Nav End --->
     <main class="main-body">
         <section class="banner inner-banner">
@@ -92,14 +92,7 @@
                     </div>
                     <div class="col-md-12 col-lg-6">
                         <div class="css-details">
-                            <div class="stc-det student-sec inner-sec">
-                                <img src="assets/images/progress.svg" alt="Progress indicator icon">
-                            </div>
-                            <img src="assets/images/city/online-pgdm-in-nagpur.jpg" class="banner-img"
-                                alt="Online PGDM in Nagpur | PGDM Programs, Courses, Colleges">
-                            <div class="stc-det course-sec inner-sec">
-                                <img src="assets/images/walet.svg" alt="Wallet icon for payment">
-                            </div>
+                            <?php include "home-page-final-form.php" ?>
                         </div>
                     </div>
                 </div>
@@ -114,7 +107,7 @@
                         <h2>Explore Online PGDM Programs, Colleges, and Courses in Nagpur,  Maharashtra</h2>
 
                     </div>
-                    <div class="col-md-12 col-lg-8 fin-feature hero11">
+                    <div class="col-md-12 col-lg-12 fin-feature hero11">
                         <p>Are you seeking to elevate your career with a management qualification? <strong>Online PGDM programs in Nagpur   </strong> offer a flexible and comprehensive learning experience tailored to meet your professional aspirations.
                         </p>
                         <p>Discover various <strong>PGDM colleges</strong>, programs, and courses available in Maharashtra. These programs offer flexibility and comprehensive learning
@@ -125,7 +118,7 @@
                         <p>Nagpur hosts esteemed institutions that provide <strong>top-notch PGDM courses</strong>. These programs are designed to equip you with essential management skills amidst the evolving business landscape. </p>
 
                     </div>
-                    <?php include "home-page-final-form.php" ?>
+                    <?php //include "home-page-final-form.php" ?>
                 </div>
                 <hr>
                  

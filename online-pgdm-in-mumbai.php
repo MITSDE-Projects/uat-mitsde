@@ -72,7 +72,7 @@
 <body>
     <?php include "5-common-seo-tag-2.php" ?>
     <!-- Header Nav Start -->
-<?php include "header-for-city-pages.php" ?>
+<?php include "header.php" ?>
     <!-- Header Nav End --->
     <main class="main-body">
         <section class="banner inner-banner">
@@ -274,9 +274,10 @@
                             width="100%" height="auto">
 
                     </div>
+                    <hr>
                 </div>
 
-                <hr>
+                
 
                 <div class="row">
                     <div class="col-md-12 col-lg-12 fintech-certi fin-feature hero11">
@@ -290,10 +291,10 @@
                         </p>
                         <p><strong><span class="newright-icon1"></span>Mentorship Programs:</strong>Personalized guidance and support from experts.
                         </p>
-                       
+                       <hr>
                     </div>
                 </div>
-                <hr>
+                
 
                 <div class="row">
                     <div class="col-md-12 col-lg-12 fintech-certi fin-feature hero11">
@@ -305,13 +306,11 @@
                         <p><strong>1. Educational Background:</strong>A bachelor's degree from a recognized university.
                         </p>
                         <p><strong>2. Professional Experience:</strong>Relevant work experience is preferred but not mandatory </p>
-                      
+                        <hr>
                       
                     </div>
 
                 </div>
-
-                <hr>
 
                 <div class="row">
                     <div class="col-md-12 col-lg-12 fintech-certi fin-feature hero11">

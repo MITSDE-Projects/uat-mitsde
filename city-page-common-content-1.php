@@ -26,15 +26,14 @@
             and peers in the industry.
         </li>
     </div>
-    <hr>
+</div>
+<hr>
+<div class="row">
     <div class="col-md-12 col-lg-12 fin-feature1 hero11 fintech-certi">
         <h2>Why Select MITSDE for Your Online PGDM</h2>
         <p>MITSDE stands out among the <strong>best colleges for PGDM in India.</strong>
         </p>
     </div>
-</div>
-
-<div class="row">
     <div class="col-md-12 col-lg-12 fintech-certi aboutMit-skills fintech-certi">
         <h2>Here's why you should consider it for your online postgraduate courses:</h2>
 
@@ -117,12 +116,11 @@
 
             </div>
         </div>
-
-
+        <hr>
 
 
     </div>
-    <hr>
+    
 
     <div class="row">
         <div class="col-md-12 col-lg-9 fintech-certi fin-feature hero11">
@@ -141,14 +139,13 @@
             <p><strong>Global Perspective:</strong> Preparing students to thrive in international business environments.
             </p>
 
-
         </div>
         <div class="col-md-12 col-lg-3 fin-feature hero11">
             <img src="assets/images/city/mitsde-collaborations.png" class="img-responsive" width="100%" height="auto">
 
         </div>
+        <hr>
     </div>
-    <hr>
 
     <div class="row">
         <div class="col-md-12 col-lg-12 fintech-certi fin-feature hero11">
@@ -185,7 +182,7 @@
             <p><strong>1. Educational Background:</strong> A bachelor's degree from a recognized university.
             </p>
             <p><strong>2. Professional Experience:</strong> Relevant work experience is preferred but not mandatory </p>
-
+            <hr>
 
         </div>
 

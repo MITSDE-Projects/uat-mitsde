@@ -48,6 +48,7 @@
     <link rel="stylesheet" href="assets/css/style.css" type="text/css" />
     <link rel="stylesheet" href="assets/css/course-common-internal.css" type="text/css" />
     <link rel="stylesheet" href="assets/css/master-page.css" type="text/css" />
+    <link rel="stylesheet" href="assets/css/city-page.css" type="text/css" />
     <!-- font awesome css -->
 
     <link rel="stylesheet" href="assets/fontawesome/css/all.min.css">
@@ -62,7 +63,7 @@
 <body>
     <?php include "5-common-seo-tag-2.php" ?>
     <!-- Header Nav Start -->
-    <?php include "header-for-city-pages.php" ?>
+    <?php include "header.php" ?>
     <!-- Header Nav End --->
     <main class="main-body">
         <section class="banner inner-banner">
@@ -92,14 +93,7 @@
                     </div>
                     <div class="col-md-12 col-lg-6">
                         <div class="css-details">
-                            <div class="stc-det student-sec inner-sec">
-                                <img src="assets/images/progress.svg" alt="Progress indicator icon">
-                            </div>
-                            <img src="assets/images/city/distance-mba-in-kolhapur.jpg" class="banner-img"
-                                alt="Distance MBA in Kolhapur | Online EMBA Colleges, Courses, Programs">
-                            <div class="stc-det course-sec inner-sec">
-                                <img src="assets/images/walet.svg" alt="Wallet icon for payment">
-                            </div>
+                            <?php include "home-page-final-form.php" ?>
                         </div>
                     </div>
                 </div>
@@ -114,7 +108,7 @@
                         <h2>Explore Online MBA Programs, Colleges, and Courses in Kolhapur </h2>
 
                     </div>
-                    <div class="col-md-12 col-lg-8 fin-feature hero11">
+                    <div class="col-md-12 col-lg-12 fin-feature hero11">
                         <p><strong>MIT School of Distance Education (MIT SDE)</strong> offers a premier
                             <strong>Online/Distance MBA in Kolhapur, Maharashtra.</strong> catering specifically to the
                             needs of working professionals who aspire to enhance their managerial skills while
@@ -135,7 +129,7 @@
 
 
                     </div>
-                    <?php include "home-page-final-form.php" ?>
+                    <?php //include "home-page-final-form.php" ?>
                 </div>
                 <hr>
                 <div class="row">
@@ -369,12 +363,9 @@
 
                             </div>
                         </div>
-
-
-
-
+                        <hr>
                     </div>
-                    <hr>
+                    
                     <div class="col-md-12 col-lg-12 fintech-certi">
 
 
@@ -580,14 +571,6 @@
                                 </div>
                             </div>
 
-                            <h3><strong> People Also Search for</strong></h3>
-                            <p align="justify">Distance MBA in Kolhapur, Distance MBA Colleges Kolhapur, Distance MBA
-                                Program in Kolhapur, Distance MBA Education In Kolhapur, Distance Learning In Kolhapur,
-                                Distance Learning Courses In Kolhapur, Distance Education In Kolhapur, Online MBA
-                                Courses In Kolhapur, Online MBA Colleges Kolhapur, Online MBA Education In Kolhapur,
-                                Online Learning In Kolhapur, Online Education In Kolhapur, Online MBA In Kolhapur </p>
-
-
 
 
 
@@ -595,6 +578,13 @@
 
                         </div>
                     </div>
+                    <h3><strong> People Also Search for</strong></h3>
+                            <p align="justify">Distance MBA in Kolhapur, Distance MBA Colleges Kolhapur, Distance MBA
+                                Program in Kolhapur, Distance MBA Education In Kolhapur, Distance Learning In Kolhapur,
+                                Distance Learning Courses In Kolhapur, Distance Education In Kolhapur, Online MBA
+                                Courses In Kolhapur, Online MBA Colleges Kolhapur, Online MBA Education In Kolhapur,
+                                Online Learning In Kolhapur, Online Education In Kolhapur, Online MBA In Kolhapur </p>
+
                 </div>
 
 

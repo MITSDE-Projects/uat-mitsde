@@ -47,6 +47,7 @@
     <link rel="stylesheet" href="assets/css/style.css" type="text/css" />
     <link rel="stylesheet" href="assets/css/course-common-internal.css" type="text/css" />
     <link rel="stylesheet" href="assets/css/master-page.css" type="text/css" />
+    <link rel="stylesheet" href="assets/css/city-page.css" type="text/css" />
     <!-- font awesome css -->
 
     <link rel="stylesheet" href="assets/fontawesome/css/all.min.css">
@@ -61,7 +62,7 @@
 <body>
     <?php include "5-common-seo-tag-2.php" ?>
     <!-- Header Nav Start -->
-    <?php include "header-for-city-pages.php" ?>
+    <?php include "header.php" ?>
     <!-- Header Nav End --->
     <main class="main-body">
         <section class="banner inner-banner">
@@ -88,14 +89,7 @@
                     </div>
                     <div class="col-md-12 col-lg-6">
                         <div class="css-details">
-                            <div class="stc-det student-sec inner-sec">
-                                <img src="assets/images/progress.svg" alt="Progress indicator icon">
-                            </div>
-                            <img src="assets/images/city/online-pgdm-in-solapur.jpg" class="banner-img"
-                                alt="Online PGDM in Solapur | PG Programs, Courses, Colleges">
-                            <div class="stc-det course-sec inner-sec">
-                                <img src="assets/images/walet.svg" alt="Wallet icon for payment">
-                            </div>
+                            <?php include "home-page-final-form.php" ?>
                         </div>
                     </div>
                 </div>
@@ -110,7 +104,7 @@
                         <h2>Explore Online PGDM Programs, Colleges, and Courses in Solapur, Maharashtra</h2>
 
                     </div>
-                    <div class="col-md-12 col-lg-8 fin-feature hero11">
+                    <div class="col-md-12 col-lg-12 fin-feature hero11">
                         <p>Are you looking to advance your career with a management qualification? <strong>Online PGDM
                                 programs in Solapur, Maharashtra, </strong> offer a flexible and comprehensive learning
                             experience that is designed to fit your professional needs.</p>
@@ -128,7 +122,7 @@
 
 
                     </div>
-                    <?php include "home-page-final-form.php" ?>
+                    <?php //include "home-page-final-form.php" ?>
                 </div>
                 <hr>
                 <div class="row">
@@ -165,13 +159,13 @@
 
 
                     </div>
-                    <hr>
 
                 </div>
+                <hr>
 
                 <div class="row">
                     <div class="col-md-12 col-lg-12 fintech-certi aboutMit-skills">
-                        <h3><strong>WWhy Choose MITSDE for Your Online PGDM in Solapur</strong></h3>
+                        <h3><strong>Why Choose MITSDE for Your Online PGDM in Solapur</strong></h3>
 
 
                     </div>
@@ -254,12 +248,9 @@
 
                             </div>
                         </div>
-
-
-
+                        <hr>
 
                     </div>
-                    <hr>
 
                     <div class="row">
                         <div class="col-md-12 col-lg-9 fintech-certi fin-feature hero11">
@@ -282,8 +273,8 @@
                                 width="100%" height="auto">
 
                         </div>
+                        <hr>
                     </div>
-                    <hr>
 
                     <div class="row">
                         <div class="col-md-12 col-lg-12 fintech-certi fin-feature hero11">
@@ -323,9 +314,8 @@
                             <p><strong>2. Professional Experience:</strong>Relevant work experience is preferred but not
                                 mandatory </p>
 
-
+                                <hr>
                         </div>
-
                     </div>
 
                     <div class="row">
