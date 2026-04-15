@@ -389,27 +389,27 @@
                                                         <tr>
                                                             <td>1</td>
                                                             <!-- <td>PS2C11</td> -->
-                                                            <td>Digital Marketing</td>
+                                                            <td>Foundations of Business Management (HR, Marketing, Finance & Operations)</td>
                                                         </tr>
                                                         <tr>
                                                             <td>2</td>
                                                             <!-- <td>PS2SI1</td> -->
-                                                            <td>Integrated Marketing Communication</td>
+                                                            <td>Digital Marketing</td>
                                                         </tr>
                                                         <tr>
                                                             <td>3</td>
                                                             <!-- <td>PFS2DB1</td> -->
-                                                            <td>Social Media Marketing</td>
+                                                            <td>Integrated Marketing Communication</td>
                                                         </tr>
                                                         <tr>
                                                             <td>4</td>
                                                             <!-- <td>PS1F01</td> -->
-                                                            <td>Foundations of Business Management (HR, Marketing, Finance & Operations) </td>
+                                                            <td>Social Media Marketing</td>
                                                         </tr>
                                                         <tr>
                                                             <td>5</td>
                                                             <!-- <td>PS2C13</td> -->
-                                                            <td>SEO & SEM </td>
+                                                            <td>SEO & SEM</td>
                                                         </tr>
                                                         <tr>
                                                             <td>6</td>

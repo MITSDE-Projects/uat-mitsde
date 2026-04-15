@@ -389,32 +389,32 @@
                                                         <tr>
                                                             <td>1</td>
                                                             <!-- <td>PS2C11</td> -->
-                                                            <td>Business Analytics </td>
+                                                            <td>Foundations of Business Management (HR, Marketing, Finance & Operations)</td>
                                                         </tr>
                                                         <tr>
                                                             <td>2</td>
                                                             <!-- <td>PS2SI1</td> -->
-                                                            <td>Data Analytics and Visualization </td>
+                                                            <td>Management Intelligence System</td>
                                                         </tr>
                                                         <tr>
                                                             <td>3</td>
                                                             <!-- <td>PFS2DB1</td> -->
-                                                            <td>Data Mining for Business Analytics </td>
+                                                            <td>Business Analytics</td>
                                                         </tr>
                                                         <tr>
                                                             <td>4</td>
                                                             <!-- <td>PS1F01</td> -->
-                                                            <td>Foundations of Business Management (HR, Marketing, Finance & Operations)</td>
+                                                            <td>Data Analytics and Visualization</td>
                                                         </tr>
                                                         <tr>
                                                             <td>5</td>
                                                             <!-- <td>PS2C13</td> -->
-                                                            <td>Management Intelligence System </td>
+                                                            <td>Data Mining for Business Analytics </td>
                                                         </tr>
                                                         <tr>
                                                             <td>6</td>
                                                             <!-- <td>PS3EL6</td> -->
-                                                            <td>Predictive Modelling </td>
+                                                            <td>Predictive Modelling</td>
                                                         </tr>
                                                     </tbody>
                                                 </table>
