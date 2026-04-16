@@ -79,7 +79,7 @@
         </section>
 
         <!-- ===== MAIN CONTENT ===== -->
-        <section id="overview" class="enroll-certification">
+        <section id="overview" class="enroll-certification city-main">
             <div class="container">
 
                 <!-- OVERVIEW -->

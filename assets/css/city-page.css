@@ -262,9 +262,9 @@
 }
 
 /* Divider override — keep hr but style it */
-.enroll-certification hr {
+.city-main hr {
   border: none;
-  border-top: 2px dashed #d0e4ff;
+  border-top: 2px dashed #000000;
   margin: 2rem 0;
 }
 
