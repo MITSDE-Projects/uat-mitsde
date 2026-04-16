@@ -1,3 +1,282 @@
 .css-details #firstform {
   width: auto;
 }
+.mba-hero-accent {
+  background: linear-gradient(180deg, #fffdf7 0%, #fcddcb 100%);
+  padding: 3rem 0 2.5rem;
+  position: relative;
+  overflow: hidden;
+}
+.mba-hero-accent::before {
+  content: "";
+  position: absolute;
+  top: -60px;
+  right: -60px;
+  width: 300px;
+  height: 300px;
+  background: rgba(255, 255, 255, 0.06);
+  border-radius: 50%;
+}
+.mba-hero-accent::after {
+  content: "";
+  position: absolute;
+  bottom: -80px;
+  left: -40px;
+  width: 220px;
+  height: 220px;
+  background: rgba(255, 255, 255, 0.04);
+  border-radius: 50%;
+}
+.mba-hero-accent h1 {
+  color: #000000 !important;
+  font-size: clamp(1.6rem, 3.5vw, 2.4rem);
+  font-weight: 700;
+  line-height: 1.25;
+}
+.mba-hero-accent .breadcrumb-item a,
+.mba-hero-accent .breadcrumb-item.active {
+  color: #000000 !important;
+}
+.mba-hero-accent .breadcrumb-item + .breadcrumb-item::before {
+  color: #000000;
+}
+
+/* Section headings with left accent */
+.mba-section-title {
+  position: relative;
+  padding-left: 1rem;
+  margin-bottom: 1.1rem;
+}
+.mba-section-title::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 4px;
+  background: linear-gradient(180deg, #f47521, #f00d0d);
+  border-radius: 4px;
+}
+
+/* Feature cards grid */
+.mba-feature-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.2rem;
+  margin: 1.5rem 0;
+}
+.mba-feat-card {
+  background: #f8faff;
+  border: 1px solid #d0e4ff;
+  border-top: 3px solid #f47521;
+  border-radius: 10px;
+  padding: 1.3rem 1.1rem;
+  transition:
+    box-shadow 0.2s,
+    transform 0.2s;
+}
+.mba-feat-card:hover {
+  box-shadow: 0 6px 20px rgba(13, 110, 253, 0.13);
+  transform: translateY(-3px);
+}
+.mba-feat-card .fc-icon {
+  width: 42px;
+  height: 42px;
+  background: linear-gradient(135deg, #f47521, #f00d0d);
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 0.75rem;
+  font-size: 1.1rem;
+  color: #fff;
+}
+.mba-feat-card strong {
+  display: block;
+  color: #1a3a6b;
+  font-size: 0.95rem;
+  margin-bottom: 0.35rem;
+}
+.mba-feat-card p {
+  font-size: 0.87rem;
+  color: #495057;
+  margin: 0;
+  line-height: 1.55;
+}
+
+/* Collab / principles highlight box */
+.mba-highlight-box {
+  background: linear-gradient(135deg, #eef4ff 0%, #e0f7fa 100%);
+  border-left: 5px solid #f47521;
+  border-radius: 0 10px 10px 0;
+  padding: 1.4rem 1.5rem;
+  margin: 1rem 0;
+}
+.mba-highlight-box p {
+  margin: 0;
+  color: #1a3a6b;
+  font-size: 0.95rem;
+  line-height: 1.65;
+}
+
+/* Teaching / Faculty box */
+.mba-faculty-box {
+  background: #fff9f0;
+  border: 1px solid #ffd8a0;
+  border-radius: 10px;
+  padding: 1.3rem 1.4rem;
+  margin: 1rem 0;
+}
+.mba-faculty-box p {
+  margin: 0;
+  color: #5c4000;
+  font-size: 0.94rem;
+  line-height: 1.65;
+}
+
+/* Eligibility badge row */
+.mba-elig-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.85rem;
+  margin: 1rem 0;
+}
+.mba-elig-badge {
+  background: #e8f0ff;
+  border: 1px solid #b3ccff;
+  color: #0d3d99;
+  border-radius: 30px;
+  padding: 0.5rem 1.2rem;
+  font-size: 0.88rem;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+.mba-elig-badge i {
+  color: #f47521;
+}
+
+/* Fee table enhancement */
+.mba-fee-table-wrap {
+  background: linear-gradient(135deg, #f0f6ff 0%, #e8fff8 100%);
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin: 1rem 0;
+  border: 1px solid #c8e0ff;
+}
+.mba-fee-table-wrap .table {
+  background: transparent;
+  margin: 0;
+}
+.mba-fee-table-wrap .table thead tr th {
+  background: #f47521;
+  color: #fff;
+  font-weight: 600;
+  border: none;
+  padding: 0.75rem 1rem;
+}
+.mba-fee-table-wrap .table thead tr th:first-child {
+  border-radius: 8px 0 0 0;
+}
+.mba-fee-table-wrap .table thead tr th:last-child {
+  border-radius: 0 8px 0 0;
+}
+.mba-fee-table-wrap .table tbody tr td {
+  font-size: 1rem;
+  padding: 0.85rem 1rem;
+  background: #fff;
+  border-color: #d0e4ff;
+}
+.mba-fee-badge {
+  display: inline-block;
+  background: linear-gradient(135deg, #f47521, #f00d0d);
+  color: #fff;
+  border-radius: 6px;
+  padding: 0.3rem 0.85rem;
+  font-weight: 600;
+  font-size: 1rem;
+  text-wrap: nowrap;
+}
+
+/* Syllabus chips */
+.mba-syllabus-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin: 1rem 0;
+}
+.mba-chip {
+  background: #eef4ff;
+  border: 1px solid #b8d0ff;
+  color: #1a3a6b;
+  border-radius: 20px;
+  padding: 0.42rem 1rem;
+  font-size: 0.86rem;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  transition: background 0.18s;
+}
+.mba-chip:hover {
+  background: #d0e4ff;
+}
+.mba-chip i {
+  color: #f47521;
+  font-size: 0.78rem;
+}
+
+/* Career chips */
+.mba-career-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin: 1rem 0;
+}
+.mba-career-chip {
+  background: #f0fff8;
+  border: 1px solid #a0dfc0;
+  color: #0b4d2b;
+  border-radius: 20px;
+  padding: 0.42rem 1rem;
+  font-size: 0.86rem;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+.mba-career-chip i {
+  color: #198754;
+  font-size: 0.78rem;
+}
+
+/* Section wrapper with subtle bg */
+.mba-section-block {
+  background: #fff;
+  border-radius: 14px;
+  padding: 2rem 1.5rem;
+  margin-bottom: 1.8rem;
+  box-shadow: 0 2px 12px rgba(13, 110, 253, 0.05);
+  border: 1px solid #e8f0ff;
+}
+
+/* Divider override — keep hr but style it */
+.enroll-certification hr {
+  border: none;
+  border-top: 2px dashed #d0e4ff;
+  margin: 2rem 0;
+}
+
+@media (max-width: 576px) {
+  .mba-stat-strip .stat-item {
+    border-right: none;
+    border-bottom: 1px solid #e9ecef;
+  }
+  .mba-feature-grid {
+    grid-template-columns: 1fr;
+  }
+  .mba-why-grid {
+    grid-template-columns: 1fr;
+  }
+}
