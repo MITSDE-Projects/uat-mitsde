@@ -271,6 +271,11 @@
                                 <li><a class="dropdown-item" href="certification-in-finance-management">Certification in
                                         Finance Management</a></li>
 
+                                <li><a class="dropdown-item" href="certification-in-digital-marketing">Certification in
+                                        Digital Marketing</a></li>
+                                <li><a class="dropdown-item" href="certification-in-business-analytics">Certification in
+                                        Business Analytics</a></li>
+
                             </ul>
                         </li>
                         <!-- certifications -->
