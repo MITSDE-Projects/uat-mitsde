@@ -249,7 +249,7 @@
                                 style="position: absolute; right: 0; top: 0; height: 100%; width: 40px; text-align: center;">
                                 <span class="visually-hidden">Toggle Dropdown</span>
                             </a>
-                            <ul class="dropdown-menu secondDrop" style="width: 320px;">
+                            <ul class="dropdown-menu secondDrop" style="width: 320px; max-height: 300px; overflow-y: auto;">
                                 <li><a class="dropdown-item" href="certification-in-project-management">Certification in
                                         Project Management</a></li>
                                 <li><a class="dropdown-item" href="certification-in-marketing-management">Certification
