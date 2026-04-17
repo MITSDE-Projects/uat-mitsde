@@ -250,6 +250,10 @@
                                 <span class="visually-hidden">Toggle Dropdown</span>
                             </a>
                             <ul class="dropdown-menu secondDrop" style="width: 320px; max-height: 300px; overflow-y: auto;">
+                                <li><a class="dropdown-item" href="certification-in-digital-marketing">Certification in
+                                        Digital Marketing</a></li>
+                                <li><a class="dropdown-item" href="certification-in-business-analytics">Certification in
+                                        Business Analytics</a></li>
                                 <li><a class="dropdown-item" href="certification-in-project-management">Certification in
                                         Project Management</a></li>
                                 <li><a class="dropdown-item" href="certification-in-marketing-management">Certification
@@ -270,11 +274,6 @@
 
                                 <li><a class="dropdown-item" href="certification-in-finance-management">Certification in
                                         Finance Management</a></li>
-
-                                <li><a class="dropdown-item" href="certification-in-digital-marketing">Certification in
-                                        Digital Marketing</a></li>
-                                <li><a class="dropdown-item" href="certification-in-business-analytics">Certification in
-                                        Business Analytics</a></li>
 
                             </ul>
                         </li>
