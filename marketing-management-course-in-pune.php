@@ -210,14 +210,7 @@
                     </div>
                     <div class="col-md-12 col-lg-6">
                         <div class="css-details">
-                            <div class="stc-det student-sec inner-sec">
-                                <img src="assets/images/progress.svg" alt="Progress indicator icon">
-                            </div>
-                            <img src="assets/images/city/pune/marketing-management-course-in-pune.jpg" class="banner-img"
-                                alt="Marketing Management Course in Pune">
-                            <div class="stc-det course-sec inner-sec">
-                                <img src="assets/images/walet.svg" alt="Wallet icon for payment">
-                            </div>
+                            <?php include "home-page-final-form.php" ?>
                         </div>
                     </div>
                 </div>
@@ -280,10 +273,9 @@
                                     support</a></strong> with top marketing and corporate firms
                         </li>
                     </div>
-                    <hr>
 
                 </div>
-
+                <hr>
                 <div class="row">
                     <div class="col-md-12 col-lg-12 fintech-certi aboutMit-skills fintech-certi">
                         <h2>Why Choose Marketing Management from MITSDE Pune? </h2>

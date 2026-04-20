@@ -21,7 +21,7 @@
 
     <?php include "5-common-seo-tag-1.php" ?>
 
-    <meta name="robots" content="noindex, nofollow">
+    <meta name="robots" content="index, follow">
 
     <!-- OGP TAG -->
 
