@@ -321,13 +321,13 @@ $pagename = (isset($_SERVER['HTTPS']) ? "https" : "http") . "://$_SERVER[HTTP_HO
                     <option value="Diploma">Diploma</option>
                 </select>
 
-                <select name="stream" id="stream" class="form-select form-control mb-1" validate="Required|HQ*">
+                <!-- <select name="stream" id="stream" class="form-select form-control mb-1" validate="Required|HQ*">
                     <option value="">Select Stream</option>
                     <option value="Growth & Digital Leadership">Growth & Digital Leadership</option>
                     <option value="Business Finance & Strategy">Business Finance & Strategy</option>
                     <option value="Strategic HR Business Partner">Strategic HR Business Partner</option>
                     <option value="Program & Ops Leadership">Program & Ops Leadership</option>
-                </select>
+                </select> -->
 
                 <input name="Divice" type="hidden" value="<?php echo $divice; ?>" />
                 <input name="PageName" type="hidden" value="iframe-link" />
