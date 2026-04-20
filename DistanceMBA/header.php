@@ -305,8 +305,9 @@
                     <strong>+91
                         9112-2072-07</strong></a>
             </ul>
-            <a href="https://mitsde.com/apply/register/index" target="_black"> <button type="button"
-                    class="btn btn-primary mit-button btn-ripple">Apply Now</button></a>
+            <button type="button" class="btn btn-primary mit-button" data-bs-toggle="modal"
+                data-bs-target="#enquiryModal-download-form">Apply Now
+            </button>
         </div>
     </div>
 </nav>

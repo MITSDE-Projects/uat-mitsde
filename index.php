@@ -165,10 +165,9 @@
 
                     <div>
                         <div class="row">
-                            <a href="https://mitsde.com/Paid-Workshop.php?workshop_amt=15045&amp;pagename=PMP"> <img
-                                    src="assets/images/common-images/PMP-Certification.jpg"
+                            <img src="assets/images/common-images/ai-banner.jpg"
                                     alt="PMP Certification registration banner" class="banner-img img-fluid"
-                                    loading="lazy" decoding="async"></a>
+                                    loading="lazy" decoding="async">
 
                         </div>
                     </div>
