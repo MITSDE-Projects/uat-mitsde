@@ -71,6 +71,7 @@
                             <div class="stc-det student-sec inner-sec">
                                 <img src="assets/images/progress.svg" alt="Progress indicator icon">
                             </div>
+                           <!-- <img src="assets/images/media/common-images-new/remaning-course-page/Mandatory-Disclosures.jpg"  class="banner-img" alt="mandatory-disclosure">-->
                             <img src="assets/images/media/common-images-new/remaning-course-page/Mandatory-Disclosures.jpg"  class="banner-img" alt="mandatory-disclosure">
                             <div class="stc-det course-sec inner-sec">
                                 <img src="assets/images/walet.svg" alt="Wallet icon for payment">
@@ -103,7 +104,8 @@
                             <tbody>
 
                                    <tr>
-                                     <td><a rel="canonical" href="assets/images/media/ComitteeDocument/Internal-Complaints-Committee.pdf" target="_blank">Internal Complaint Comittee </a></td>
+                                     <td><a rel="canonical" href="#" target="_blank">Internal Complaint Comittee </a></td>
+                                      <!-- <td><a rel="canonical" href="assets/images/media/ComitteeDocument/Internal-Complaints-Committee.pdf" target="_blank">Internal Complaint Comittee </a></td>-->
                                      <td><a rel="canonical" href="assets/images/media/ComitteeDocument/Grievances-Redressal-Committee.pdf" target="_blank">Grievance Redressal Committee</a></td>
                                      <td><a rel="canonical" href="assets/images/media/ComitteeDocument/Online-Grievance-Redressal-Mechanism.pdf" target="_blank">Online Grievance Redressal Mechanism Committee</a></td>
                                      <td><a rel="canonical" href="assets/images/media/ComitteeDocument/SC_ST_COMMITTEE_26_27.pdf" target="_blank">SC ST COMMITTEE</a></td>
