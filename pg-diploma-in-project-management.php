@@ -918,9 +918,11 @@
                                                         <tr>
                                                             <td>5</td>
                                                             <td>S2SO2</td>
-                                                            <td>Lean Management Systems</td>
+                                                            <td>Lean Management Systems - LAB (Credits = 3+1)</td>
                                                             <td>4 credits</td>
                                                         </tr>
+
+                                                        <?php include "pgdm-common-sem2-sub.php"?>
 
                                                     </tbody>
                                                 </table>
@@ -985,12 +987,7 @@
                                                             <td>Project Analysis and Integration Management</td>
                                                             <td>4 credits</td>
                                                         </tr>
-                                                        <tr>
-                                                            <td>6</td>
-                                                            <td>PWMI1</td>
-                                                            <td>Project Work</td>
-                                                            <td>6 credits</td>
-                                                        </tr>
+                                                        <?php include "pgdm-common-sem3-sub.php"?>
 
                                                     </tbody>
                                                 </table>
@@ -1042,40 +1039,36 @@
 
                                                         <tr>
                                                             <td>1</td>
-                                                            <td>S4SP1</td>
-                                                            <td>Microsoft Project and Jira</td>
+                                                            <td>S4EO3</td>
+                                                            <td>Organizational Strategy in a Global Environment</td>
                                                             <td>4 credits</td>
                                                         </tr>
                                                         <tr>
                                                             <td>2</td>
-                                                            <td>S4SP2</td>
-                                                            <td>Oracle Primavera</td>
+                                                            <td>S4SP1</td>
+                                                            <td>Microsoft Project and Jira - LAB (Credits = 3+1)</td>
                                                             <td>4 credits</td>
                                                         </tr>
                                                         <tr>
                                                             <td>3</td>
-                                                            <td>S4SP3</td>
-                                                            <td>Essentials of Agile Project Management</td>
+                                                            <td>S4SP2</td>
+                                                            <td>Oracle Primavera - LAB (Credits = 3+1)</td>
                                                             <td>4 credits</td>
                                                         </tr>
                                                         <tr>
                                                             <td>4</td>
-                                                            <td>-</td>
-                                                            <td>Elective 1</td>
+                                                            <td>S4SP3</td>
+                                                            <td>Essentials of Agile Project Management - LAB (Credits = 3+1)</td>
                                                             <td>4 credits</td>
                                                         </tr>
-                                                        <tr>
-                                                            <td>5</td>
-                                                            <td>-</td>
-                                                            <td>Elective 2</td>
-                                                            <td>4 credits</td>
-                                                        </tr>
+
+                                                        <?php include "pgdm-common-sem4-sub.php"?>
 
 
                                                     </tbody>
                                                 </table>
                                                 <div class="alert brandcolor" align="right" role="alert">
-                                                    Total Credits 20
+                                                    Total Credits 16
                                                 </div>
 
 
