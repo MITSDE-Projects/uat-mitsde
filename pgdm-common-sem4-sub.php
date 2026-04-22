@@ -1,13 +1,16 @@
-<tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-</tr>
-
-<tr>
-    <td>1</td>
-    <td>AISC</td>
-    <td>AI Strategy Certificate</td>
-    <td>Non Credit</td>
-</tr>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Code</th>
+            <th>Certificate</th>
+            <th>Credits</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>AISC</td>
+            <td>AI Strategy Certificate</td>
+            <td>Non Credit</td>
+        </tr>
+    </tbody>
+</table>

@@ -104,62 +104,39 @@
 
                                                         </tr>
 
-                                                        <tr>
-
-                                                            <td></td>
-
-                                                            <td></td>
-
-                                                            <td></td>
-
-                                                            <td></td>
-
-                                                        </tr>
-
-                                                        <tr>
-
-                                                            <td>1</td>
-
-                                                            <td>AIRC</td>
-
-                                                            <td>AI Readiness Certificate</td>
-
-                                                            <td>Non Credit</td>
-
-                                                        </tr>
-
-                                                        <tr>
-
-                                                            <td>2</td>
-
-                                                            <td>CPEA</td>
-
-                                                            <td>CPEA -Certified Professional Excel Analyst</td>
-
-                                                            <td>Non Credit</td>
-
-                                                        </tr>
-
-                                                        <tr>
-
-                                                            <td>2</td>
-
-                                                            <td>CPDA</td>
-
-                                                            <td>CPDA -Certified Professional Data Analyst</td>
-
-                                                            <td>Non Credit</td>
-
-                                                        </tr>
-
-                                                      
-
-
-
-
-
                                                     </tbody>
 
+                                                </table>
+
+                                                <table class="table">
+                                                    <thead>
+                                                        <tr>
+                                                            <th>Code</th>
+                                                            <th>Certificate</th>
+                                                            <th>Credits</th>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                        <!-- Rows from the first table -->
+
+                                                        <tr>
+                                                            <td>AIRC</td>
+                                                            <td>AI Readiness Certificate</td>
+                                                            <td>Non Credit</td>
+                                                        </tr>
+
+                                                        <tr>
+                                                            <td>CPEA</td>
+                                                            <td>CPEA -Certified Professional Excel Analyst</td>
+                                                            <td>Non Credit</td>
+                                                        </tr>
+
+                                                        <tr>
+                                                            <td>CPDA</td>
+                                                            <td>CPDA -Certified Professional Data Analyst</td>
+                                                            <td>Non Credit</td>
+                                                        </tr>
+                                                    </tbody>
                                                 </table>
 
 

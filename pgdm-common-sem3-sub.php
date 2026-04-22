@@ -1,20 +1,24 @@
-<tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-</tr>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Code</th>
+            <th>Certificate</th>
+            <th>Credits</th>
+        </tr>
+    </thead>
+    <tbody>
 
-<tr>
-    <td>1</td>
-    <td>AIAC</td>
-    <td>AI Automation Certificate</td>
-    <td>Non Credit</td>
-</tr>
+        <tr>
+            <td>AIAC</td>
+            <td>AI Automation Certificate</td>
+            <td>Non Credit</td>
+        </tr>
 
-<tr>
-    <td>2</td>
-    <td>PWMI1</td>
-    <td>Project Work</td>
-    <td>6 credits</td>
-</tr>
+        <tr>
+            <td>PWMI1</td>
+            <td>Project Work</td>
+            <td>6 credits</td>
+        </tr>
+
+    </tbody>
+</table>

@@ -921,11 +921,9 @@
                                                             <td>Lean Management Systems - LAB (Credits = 3+1)</td>
                                                             <td>4 credits</td>
                                                         </tr>
-
-                                                        <?php include "pgdm-common-sem2-sub.php"?>
-
                                                     </tbody>
                                                 </table>
+                                                <?php include "pgdm-common-sem2-sub.php" ?>
                                                 <div class="alert brandcolor" align="right" role="alert">
                                                     Total Credits 20
                                                 </div>
@@ -987,10 +985,9 @@
                                                             <td>Project Analysis and Integration Management</td>
                                                             <td>4 credits</td>
                                                         </tr>
-                                                        <?php include "pgdm-common-sem3-sub.php"?>
-
                                                     </tbody>
                                                 </table>
+                                                <?php include "pgdm-common-sem3-sub.php" ?>
                                                 <div class="alert brandcolor" align="right" role="alert">
                                                     Total Credits 26
                                                 </div>
@@ -1047,15 +1044,13 @@
                                                         <tr>
                                                             <td>4</td>
                                                             <td>S4SP3</td>
-                                                            <td>Essentials of Agile Project Management - LAB (Credits = 3+1)</td>
+                                                            <td>Essentials of Agile Project Management - LAB (Credits =
+                                                                3+1)</td>
                                                             <td>4 credits</td>
                                                         </tr>
-
-                                                        <?php include "pgdm-common-sem4-sub.php"?>
-
-
                                                     </tbody>
                                                 </table>
+                                                <?php include "pgdm-common-sem4-sub.php" ?>
                                                 <div class="alert brandcolor" align="right" role="alert">
                                                     Total Credits 16
                                                 </div>
