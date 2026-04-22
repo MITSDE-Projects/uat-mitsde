@@ -674,11 +674,11 @@
                                                         <tr>
                                                             <td>5</td>
                                                             <td>S2SO2</td>
-                                                            <td>Lean Management Systems</td>
+                                                            <td>Lean Management Systems - LAB (Credits = 3+1)</td>
                                                             <td>4 credits</td>
                                                         </tr>
 
-
+                                                        <?php include "pgdm-common-sem2-sub.php"?>
 
                                                     </tbody>
                                                 </table>
@@ -735,7 +735,7 @@
                                                         <tr>
                                                             <td>4</td>
                                                             <td>S4EL4</td>
-                                                            <td>Operations Research</td>
+                                                            <td>Operations Research  - LAB (Credits = 3+1)</td>
                                                             <td>4 credits</td>
                                                         </tr>
                                                         <tr>
@@ -744,29 +744,13 @@
                                                             <td>Production, Planning and Control</td>
                                                             <td>4 credits</td>
                                                         </tr>
-                                                        <tr>
-                                                            <td>6</td>
-                                                            <td>PWMI1</td>
-                                                            <td>Project Work</td>
-                                                            <td>6 credits</td>
-                                                        </tr>
+                                                        <?php include "pgdm-common-sem3-sub.php"?>
 
 
                                                     </tbody>
                                                 </table>
                                                 <div class="alert brandcolor" align="right" role="alert">
                                                     Total Credits 26
-                                                </div>
-                                                <div class="row">
-                                                    <ul class="curriculum">
-                                                        <table class="table">
-                                                            <tbody>
-                                                                <tr>
-                                                                    <td>Value Added Skill Certificate - 2 credits</td>
-                                                                </tr>
-                                                            </tbody>
-                                                        </table>
-                                                    </ul>
                                                 </div>
                                             </ul>
 
@@ -800,22 +784,30 @@
 
                                                         <tr>
                                                             <td>1</td>
-                                                            <td>S4SO1</td>
-                                                            <td>Emerging Trends in SCM and Logistics</td>
+                                                            <td>S4EO3</td>
+                                                            <td>Organizational Strategy in a Global Environment</td>
                                                             <td>4 credits</td>
                                                         </tr>
                                                         <tr>
                                                             <td>2</td>
+                                                            <td>S4SO1</td>
+                                                            <td>Emerging Trends in SCM and Logistics  - LAB (Credits = 3+1)</td>
+                                                            <td>4 credits</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>3</td>
                                                             <td>S4SO2</td>
                                                             <td>Entrepreneurship and Venture Capital Management</td>
                                                             <td>4 credits</td>
                                                         </tr>
                                                         <tr>
-                                                            <td>3</td>
+                                                            <td>4</td>
                                                             <td>S4SO3</td>
                                                             <td>Industrial Relations and Labour Laws</td>
                                                             <td>4 credits</td>
                                                         </tr>
+
+                                                        <?php include "pgdm-common-sem4-sub.php"?>
                                                         <tr>
                                                             <td>4</td>
                                                             <td>-</td>
@@ -834,7 +826,10 @@
                                                     </tbody>
                                                 </table>
                                                 <div class="alert brandcolor" align="right" role="alert">
-                                                    Total Credits 20
+                                                    Total Credits 16
+                                                </div>
+                                                <div class="alert brandcolor" align="right" role="alert">
+                                                    Total Cumulative Credits 82
                                                 </div>
 
 

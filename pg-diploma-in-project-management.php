@@ -994,17 +994,6 @@
                                                 <div class="alert brandcolor" align="right" role="alert">
                                                     Total Credits 26
                                                 </div>
-                                                <div class="row">
-                                                    <ul class="curriculum">
-                                                        <table class="table">
-                                                            <tbody>
-                                                                <tr>
-                                                                    <td>Value Added Skill Certificate - 2 credits</td>
-                                                                </tr>
-                                                            </tbody>
-                                                        </table>
-                                                    </ul>
-                                                </div>
 
                                             </ul>
 
@@ -1069,6 +1058,10 @@
                                                 </table>
                                                 <div class="alert brandcolor" align="right" role="alert">
                                                     Total Credits 16
+                                                </div>
+
+                                                <div class="alert brandcolor" align="right" role="alert">
+                                                    Total Cumulative Credits 82
                                                 </div>
 
 
