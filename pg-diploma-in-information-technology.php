@@ -739,7 +739,7 @@
 
                                                 </table>
 
-
+                                                <?php include "pgdm-common-sem2-sub.php"?>
 
                                                 <div class="alert brandcolor" align="right" role="alert">Total
 
@@ -847,7 +847,7 @@
 
                                                             <td>S3SI02</td>
 
-                                                            <td>Cybersecurity and Risk Management</td>
+                                                            <td>Cybersecurity and Risk Management  - LAB (Credits = 3+1)</td>
 
                                                             <td>4 credits</td>
 
@@ -865,23 +865,10 @@
 
                                                         </tr>
 
-                                                        <tr>
-
-                                                            <td>6</td>
-
-                                                            <td>PWMI1</td>
-
-                                                            <td>Project Work</td>
-
-                                                            <td>6 credits</td>
-
-                                                        </tr>
-
-
-
                                                     </tbody>
 
                                                 </table>
+                                                <?php include "pgdm-common-sem3-sub.php"?>
 
                                                 <div class="alert brandcolor" align="right" role="alert">
 
@@ -957,6 +944,18 @@
 
                                                             <td>1</td>
 
+                                                            <td>S4EO3</td>
+
+                                                            <td>Organizational Strategy in a Global Environment</td>
+
+                                                            <td>4 credits</td>
+
+                                                        </tr>
+
+                                                        <tr>
+
+                                                            <td>2</td>
+
                                                             <td>S4SI1</td>
 
                                                             <td>Design Thinking and User Experience (UX/UI)</td>
@@ -988,43 +987,16 @@
                                                             <td>4 credits</td>
 
                                                         </tr>
-
-                                                        <tr>
-
-                                                            <td>4</td>
-
-                                                            <td>-</td>
-
-                                                            <td>Elective 1</td>
-
-                                                            <td>4 credits</td>
-
-                                                        </tr>
-
-                                                        <tr>
-
-                                                            <td>5</td>
-
-                                                            <td>-</td>
-
-                                                            <td>Elective 2</td>
-
-                                                            <td>4 credits</td>
-
-                                                        </tr>
-
-
-
-
-
                                                     </tbody>
 
                                                 </table>
 
+                                                <?php include "pgdm-common-sem4-sub.php" ?>
                                                 <div class="alert brandcolor" align="right" role="alert">
-
-                                                    Total Credits 20
-
+                                                    Total Credits 16
+                                                </div>
+                                                <div class="alert brandcolor" align="right" role="alert">
+                                                    Total Cumulative Credits 82
                                                 </div>
 
 
@@ -1044,106 +1016,6 @@
                                 </div>
 
                             </div>
-
-
-
-                            <li class="section hero10 p-3" style="list-style-type: none;">
-
-                                <h4 class="section-title">Elective Basket (4 Options, Choose any 2)</h4>
-
-                                <ul class="curriculum me-1 ">
-
-                                    <table class="table">
-
-                                        <thead>
-
-                                            <tr>
-
-                                                <th>S.No</th>
-
-                                                <th>Code</th>
-
-                                                <th>Subject</th>
-
-                                                <!-- <th>Credits</th> -->
-
-                                            </tr>
-
-                                        </thead>
-
-                                        <tbody>
-
-
-
-                                            <tr>
-
-                                                <td>1</td>
-
-                                                <td>S4EI1</td>
-
-                                                <td>Strategic Cybersecurity and Risk Management</td>
-
-                                                
-
-                                            </tr>
-
-                                            <tr>
-
-                                                <td>2</td>
-
-                                                <td>S4EI2</td>
-
-                                                <td>Emerging Technologies and Business Innovation</td>
-
-                                                
-
-                                            </tr>
-
-                                            <tr>
-
-                                                <td>3</td>
-
-                                                <td>S4EI3</td>
-
-                                                <td>Agile Project Management and DevOps</td>
-
-                                               
-
-                                            </tr>
-
-                                            <tr>
-
-                                                <td>4</td>
-
-                                                <td>S4EI4</td>
-
-                                                <td>Blockchain and Web 3.0 Technologies</td>
-
-                                               
-
-                                            </tr>
-
-
-
-                                        </tbody>
-
-                                    </table>
-
-
-
-                                    <div class="alert brandcolor" align="right" role="alert">Total Cumulative Credits 86
-
-                                    </div>
-
-
-
-
-
-                                </ul>
-
-                            </li> <br>
-
-
 
                             <li class="section hero10 p-3" style="list-style-type: none;">
 

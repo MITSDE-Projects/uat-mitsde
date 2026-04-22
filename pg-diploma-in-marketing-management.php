@@ -851,7 +851,7 @@
 
                                                     </tbody>
                                                 </table>
-
+                                                <?php include "pgdm-common-sem2-sub.php"?>
                                                 <div class="alert brandcolor" align="right" role="alert">Total
                                                     Credits 20
                                                 </div>
@@ -913,16 +913,10 @@
                                                             <td>Services Marketing</td>
                                                             <td>4 credits</td>
                                                         </tr>
-                                                        <tr>
-                                                            <td>6</td>
-                                                            <td>PWMI1</td>
-                                                            <td>Project Work</td>
-                                                            <td>6 credits</td>
-                                                        </tr>
-
 
                                                     </tbody>
                                                 </table>
+                                                <?php include "pgdm-common-sem3-sub.php"?>
                                                 <div class="alert brandcolor" align="right" role="alert">
                                                     Total Credits 26
                                                 </div>
@@ -931,17 +925,6 @@
 
 
 
-                                        </div>
-                                        <div class="row">
-                                            <ul class="curriculum">
-                                                <table class="table">
-                                                    <tbody>
-                                                        <tr>
-                                                            <td>Value Added Skill Certificate - 2 credits</td>
-                                                        </tr>
-                                                    </tbody>
-                                                </table>
-                                            </ul>
                                         </div>
                                     </div>
                                 </div>
@@ -970,41 +953,37 @@
 
                                                         <tr>
                                                             <td>1</td>
+                                                            <td>S4EO3</td>
+                                                            <td>Organizational Strategy in a Global Environment</td>
+                                                            <td>4 credits</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>2</td>
                                                             <td>S4SM1</td>
                                                             <td>International Marketing</td>
                                                             <td>4 credits</td>
                                                         </tr>
                                                         <tr>
-                                                            <td>2</td>
-                                                            <td>S4SM2</td>
-                                                            <td>Advanced Marketing Analytics</td>
-                                                            <td>4 credits</td>
-                                                        </tr>
-                                                        <tr>
                                                             <td>3</td>
-                                                            <td>S4SM3</td>
-                                                            <td>Digital and Social Media Marketing</td>
+                                                            <td>S4SM2</td>
+                                                            <td>Advanced Marketing Analytics - LAB (Credits = 3+1)</td>
                                                             <td>4 credits</td>
                                                         </tr>
                                                         <tr>
                                                             <td>4</td>
-                                                            <td>-</td>
-                                                            <td>Elective 1</td>
+                                                            <td>S4SM3</td>
+                                                            <td>Digital and Social Media Marketing - LAB (Credits = 3+1)</td>
                                                             <td>4 credits</td>
                                                         </tr>
-                                                        <tr>
-                                                            <td>5</td>
-                                                            <td>-</td>
-                                                            <td>Elective 2</td>
-                                                            <td>4 credits</td>
-                                                        </tr>
-
-
 
                                                     </tbody>
                                                 </table>
+                                                <?php include "pgdm-common-sem4-sub.php" ?>
                                                 <div class="alert brandcolor" align="right" role="alert">
-                                                    Total Credits 20
+                                                    Total Credits 16
+                                                </div>
+                                                <div class="alert brandcolor" align="right" role="alert">
+                                                    Total Cumulative Credits 82
                                                 </div>
 
 
@@ -1016,50 +995,6 @@
                                     </div>
                                 </div>
                             </div>
-
-                            <li class="section hero10 p-3" style="list-style-type: none;">
-                                <h4 class="section-title">Elective Basket (4 Options , Choose any 2)</h4>
-                                <ul class="curriculum me-1 ">
-                                    <table class="table">
-                                        <thead>
-                                            <tr>
-                                                <th>S.No</th>
-                                                <th>Code</th>
-                                                <th>Subject</th>
-                                                <!-- <th>Credits</th> -->
-                                            </tr>
-                                        </thead>
-                                        <tbody>
-                                            <tr>
-                                                <td>1</td>
-                                                <td>S4EM1</td>
-                                                <td>Retail Management</td>
-                                            </tr>
-                                            <tr>
-                                                <td>2</td>
-                                                <td>S4EM2</td>
-                                                <td>Strategic Marketing</td>
-                                            </tr>
-                                            <tr>
-                                                <td>3</td>
-                                                <td>S4EM3</td>
-                                                <td>B2B Marketing</td>
-                                            </tr>
-                                            <tr>
-                                                <td>4</td>
-                                                <td>S4EM4</td>
-                                                <td>Marketing of Financial Services</td>
-                                            </tr>
-
-                                        </tbody>
-                                    </table>
-                                    <div class="alert brandcolor" align="right" role="alert">
-                                        Total Credits 86
-                                    </div>
-
-
-                                </ul>
-                            </li> <br>
 
                             <div class="alert brandcolor" role="alert"><b>Note :</b><br>
                                 <ul class="fin-feature2" style="list-style: none;">

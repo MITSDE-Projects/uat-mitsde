@@ -624,7 +624,7 @@
                                                         <tr>
                                                             <td>5</td>
                                                             <td>S2SO2</td>
-                                                            <td>Lean Management Systems</td>
+                                                            <td>Lean Management Systems  - LAB (Credits = 3+1)</td>
                                                             <td>4 credits</td>
                                                         </tr>
 
@@ -633,8 +633,7 @@
                                                     </tbody>
 
                                                 </table>
-
-
+                                                <?php include "pgdm-common-sem2-sub.php"?>
 
                                                 <div class="alert brandcolor" align="right" role="alert">Total
 
@@ -718,7 +717,7 @@
                                                         <tr>
                                                             <td>4</td>
                                                             <td>S3SL03</td>
-                                                            <td>Inventory Management</td>
+                                                            <td>Inventory Management - LAB (Credits = 3+1)</td>
                                                             <td>4 credits</td>
                                                         </tr>
                                                         <tr>
@@ -727,19 +726,11 @@
                                                             <td>Operations Management</td>
                                                             <td>4 credits</td>
                                                         </tr>
-                                                        <tr>
-                                                            <td>6</td>
-                                                            <td>PWMI1</td>
-                                                            <td>Project Work</td>
-                                                            <td>6 credits</td>
-                                                        </tr>
-
-
-
 
                                                     </tbody>
 
                                                 </table>
+                                                <?php include "pgdm-common-sem3-sub.php"?>
 
                                                 <div class="alert brandcolor" align="right" role="alert">
 
@@ -750,11 +741,6 @@
 
 
                                             </ul>
-
-
-
-
-
 
 
                                         </div>
@@ -811,56 +797,41 @@
 
                                                         <tr>
                                                             <td>1</td>
-                                                            <td>S2SL2</td>
-                                                            <td>Introduction to Logistics and Supply Chain Management</td>
+                                                            <td>S4EO3</td>
+                                                            <td>Organizational Strategy in a Global Environment</td>
                                                             <td>4 credits</td>
                                                         </tr>
                                                         <tr>
                                                             <td>2</td>
+                                                            <td>S2SL2</td>
+                                                            <td>Introduction to Logistics and Supply Chain Management - LAB (Credits = 3+1)t</td>
+                                                            <td>4 credits</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>3</td>
                                                             <td>S4SO3</td>
                                                             <td>Industrial Relations and Labour Laws</td>
                                                             <td>4 credits</td>
                                                         </tr>
                                                         <tr>
-                                                            <td>3</td>
+                                                            <td>4</td>
                                                             <td>S3SO1</td>
                                                             <td>World Class Manufacturing</td>
                                                             <td>4 credits</td>
                                                         </tr>
-                                                        <tr>
-                                                            <td>4</td>
-                                                            <td>-</td>
-                                                            <td>Elective 1</td>
-                                                            <td>4 credits</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>5</td>
-                                                            <td>-</td>
-                                                            <td>Elective 2</td>
-                                                            <td>4 credits</td>
-                                                        </tr>
-
-
 
                                                     </tbody>
 
                                                 </table>
 
+                                                <?php include "pgdm-common-sem4-sub.php" ?>
                                                 <div class="alert brandcolor" align="right" role="alert">
-
-                                                    Total Credits 20
-
+                                                    Total Credits 16
                                                 </div>
-
-
-
+                                                <div class="alert brandcolor" align="right" role="alert">
+                                                    Total Cumulative Credits 82
+                                                </div>
                                             </ul>
-
-
-
-
-
-
 
                                         </div>
 
@@ -869,74 +840,6 @@
                                 </div>
 
                             </div>
-
-
-
-                            <li class="section hero10 p-3" style="list-style-type: none;">
-
-                                <h4 class="section-title">Elective Basket (4 Options , Choose any 2)</h4>
-
-                                <ul class="curriculum me-1 ">
-
-                                    <table class="table">
-
-                                        <thead>
-
-                                            <tr>
-
-                                                <th>S.No</th>
-
-                                                <th>Code</th>
-
-                                                <th>Subject</th>
-
-                                                <!-- <th>Credits</th> -->
-
-                                            </tr>
-
-                                        </thead>
-
-                                        <tbody>
-
-                                            <tr>
-                                                <td>1</td>
-                                                <td>S4SO2</td>
-                                                <td>Entrepreneurship and Venture Capital Management</td>
-                                            </tr>
-                                            <tr>
-                                                <td>2</td>
-                                                <td>S4EO4</td>
-                                                <td>Leading People and Organization</td>
-                                            </tr>
-                                            <tr>
-                                                <td>3</td>
-                                                <td>S4EO3</td>
-                                                <td>Organizational Strategy in a Global Environment</td>
-                                            </tr>
-                                            <tr>
-                                                <td>4</td>
-                                                <td>S4EL4</td>
-                                                <td>Operations Research</td>
-                                            </tr>
-
-
-                                        </tbody>
-
-                                    </table>
-
-                                    <div class="alert brandcolor" align="right" role="alert">
-
-                                        Total Credits 86
-
-                                    </div>
-
-
-
-
-
-                                </ul>
-
-                            </li> <br>
 
 
 

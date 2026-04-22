@@ -1064,13 +1064,13 @@
                                                         </tr>
                                                         <tr>
                                                             <td>4</td>
-                                                            <td>S2SF1</td>
+                                                            <td>S2C16</td>
                                                             <td>Financial Management</td>
                                                             <td>4 credits</td>
                                                         </tr>
                                                         <tr>
                                                             <td>5</td>
-                                                            <td>S2SF2</td>
+                                                            <td>S3W31</td>
                                                             <td>Strategic Cost Management</td>
                                                             <td>4 credits</td>
                                                         </tr>
@@ -1078,6 +1078,7 @@
 
                                                     </tbody>
                                                 </table>
+                                                <?php include "pgdm-common-sem2-sub.php"?>
                                                 <div class="alert brandcolor" align="right" role="alert">
                                                     Total Credits 20
                                                 </div>
@@ -1130,8 +1131,8 @@
                                                         </tr>
                                                         <tr>
                                                             <td>4</td>
-                                                            <td>S4EB3</td>
-                                                            <td>Security Analysis and Portfolio Management</td>
+                                                            <td>S0W12</td>
+                                                            <td>Security Analysis and Portfolio Management - LAB (Credits = 3+1)</td>
                                                             <td>4 credits</td>
                                                         </tr>
                                                         <tr>
@@ -1140,32 +1141,13 @@
                                                             <td>Corporate Finance</td>
                                                             <td>4 credits</td>
                                                         </tr>
-                                                        <tr>
-                                                            <td>6</td>
-                                                            <td>PWMI1</td>
-                                                            <td>Project Work</td>
-                                                            <td>6 credits</td>
-                                                        </tr>
                                                        
-
                                                     </tbody>
                                                 </table>
+                                                <?php include "pgdm-common-sem3-sub.php"?>
                                                 <div class="alert brandcolor" align="right" role="alert">
                                                     Total Credits 26
                                                 </div>
-                                                <div class="row">
-                                                    <ul class="curriculum">
-                                                        <table class="table">
-                                                            <tbody>
-                                                                <tr>
-                                                                    <td>Value Added Skill Certificate - 2 credits</td>
-                                                                </tr>
-                                                            </tbody>
-                                                        </table>
-                                                    </ul>
-                                                </div>
-
-
                                             </ul>
 
 
@@ -1198,41 +1180,37 @@
 
                                                         <tr>
                                                             <td>1</td>
+                                                            <td>S4EO3</td>
+                                                            <td>Organizational Strategy in a Global Environment</td>
+                                                            <td>4 credits</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>2</td>
                                                             <td>S4SF1</td>
                                                             <td>Mergers and Acquisitions</td>
                                                             <td>4 credits</td>
                                                         </tr>
                                                         <tr>
-                                                            <td>2</td>
+                                                            <td>3</td>
                                                             <td>S4SF2</td>
                                                             <td>International Finance</td>
                                                             <td>4 credits</td>
                                                         </tr>
                                                         <tr>
-                                                            <td>3</td>
+                                                            <td>4</td>
                                                             <td>S4SF3</td>
                                                             <td>Financial Analytics</td>
                                                             <td>4 credits</td>
                                                         </tr>
-                                                        <tr>
-                                                            <td>4</td>
-                                                            <td>-</td>
-                                                            <td>Elective 1</td>
-                                                            <td>4 credits</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>5</td>
-                                                            <td>-</td>
-                                                            <td>Elective 2</td>
-                                                            <td>4 credits</td>
-                                                        </tr>
-                                                       
-
 
                                                     </tbody>
                                                 </table>
+                                                <?php include "pgdm-common-sem4-sub.php" ?>
                                                 <div class="alert brandcolor" align="right" role="alert">
-                                                    Total Credits 20
+                                                    Total Credits 16
+                                                </div>
+                                                <div class="alert brandcolor" align="right" role="alert">
+                                                    Total Cumulative Credits 82
                                                 </div>
 
 
@@ -1245,50 +1223,6 @@
                                 </div>
                             </div>
 
-
-                            <li class="section hero10 p-3" style="list-style-type: none;">
-                                <h4 class="section-title">Elective Basket (4 Options , Choose any 2)</h4>
-                                <ul class="curriculum me-1 ">
-                                    <table class="table">
-                                        <thead>
-                                            <tr>
-                                                <th>S.No</th>
-                                                <th>Code</th>
-                                                <th>Subject</th>
-                                                <!-- <th>Credits</th> -->
-                                            </tr>
-                                        </thead>
-                                        <tbody>
-                                            <tr>
-                                                <td>1</td>
-                                                <td>S4EM4</td>
-                                                <td>Marketing of Financial Services</td>
-                                            </tr>
-                                            <tr>
-                                                <td>2</td>
-                                                <td>S4EB4</td>
-                                                <td>Behavioural Finance</td>
-                                            </tr>
-                                            <tr>
-                                                <td>3</td>
-                                                <td>S4EF2</td>
-                                                <td>Wealth Management</td>
-                                            </tr>
-                                            <tr>
-                                                <td>4</td>
-                                                <td>S4EF3</td>
-                                                <td>Investment Banking</td>
-                                            </tr>
-
-                                        </tbody>
-                                    </table>
-                                    <div class="alert brandcolor" align="right" role="alert">
-                                        Total Credits 86
-                                    </div>
-
-
-                                </ul>
-                            </li> <br>
 
                             <li class="section hero10 p-3" style="list-style-type: none;">
                                 <!-- <h4 class="section-title">Project Term – 3 Months</h4>

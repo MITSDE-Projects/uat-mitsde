@@ -678,10 +678,9 @@
                                                             <td>4 credits</td>
                                                         </tr>
 
-                                                        <?php include "pgdm-common-sem2-sub.php"?>
-
                                                     </tbody>
                                                 </table>
+                                                <?php include "pgdm-common-sem2-sub.php"?>
                                                 <div class="alert brandcolor" align="right" role="alert">
                                                     Total Credits 20
                                                 </div>
@@ -744,11 +743,10 @@
                                                             <td>Production, Planning and Control</td>
                                                             <td>4 credits</td>
                                                         </tr>
-                                                        <?php include "pgdm-common-sem3-sub.php"?>
-
 
                                                     </tbody>
                                                 </table>
+                                                <?php include "pgdm-common-sem3-sub.php"?>
                                                 <div class="alert brandcolor" align="right" role="alert">
                                                     Total Credits 26
                                                 </div>
@@ -806,11 +804,9 @@
                                                             <td>Industrial Relations and Labour Laws</td>
                                                             <td>4 credits</td>
                                                         </tr>
-
-                                                        <?php include "pgdm-common-sem4-sub.php"?>
-
                                                     </tbody>
                                                 </table>
+                                                <?php include "pgdm-common-sem4-sub.php" ?>
                                                 <div class="alert brandcolor" align="right" role="alert">
                                                     Total Credits 16
                                                 </div>
@@ -820,8 +816,6 @@
 
 
                                             </ul>
-
-
 
                                         </div>
                                     </div>
