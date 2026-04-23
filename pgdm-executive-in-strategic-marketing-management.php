@@ -421,7 +421,7 @@
                                                         </tr>
                                                     </tbody>
                                                 </table>
-                                                <?php include "pgdm-common-sem2-sub.php" ?>
+                                                <?php include "pgdmexe-common-sem2-sub.php" ?>
 
                                                 <div class="alert brandcolor" align="right" role="alert">Total
                                                     Credits 24
