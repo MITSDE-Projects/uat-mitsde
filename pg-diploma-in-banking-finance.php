@@ -708,6 +708,12 @@
                                                             <td>Credit Administration</td>
                                                             <td>4 credits</td>
                                                         </tr>
+                                                        <tr>
+                                                            <td>6</td>
+                                                            <td>PWMI1</td>
+                                                            <td>Project Work</td>
+                                                            <td>6 credits</td>
+                                                        </tr>
                                                     </tbody>
 
                                                 </table>

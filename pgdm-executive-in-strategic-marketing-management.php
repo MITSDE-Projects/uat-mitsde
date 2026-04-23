@@ -358,84 +358,7 @@
                     <div class="cur-accordiaon">
                         <h3>Course Syllabus</h3>
                         <div class="accordion curriculum-accordion" id="curriculum">
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#module1" aria-expanded="true" aria-controls="module1">
-                                        Semester I
-                                    </button>
-                                </h2>
-                                <div id="module1" class="accordion-collapse collapse show" data-bs-parent="#curriculum">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-
-                                            <ul class="curriculum">
-                                                <table class="table">
-                                                    <thead>
-                                                        <tr>
-                                                            <th>S.No</th>
-                                                            <th>Code</th>
-                                                            <th>Subject</th>
-                                                            <th>Credits</th>
-                                                        </tr>
-                                                    </thead>
-                                                    <tbody>
-                                                        <tr>
-                                                            <td>1</td>
-                                                            <td>S1F01</td>
-                                                            <td>Foundations of Business Management</td>
-                                                            <td>4</td>
-                                                        </tr>
-
-                                                        <tr>
-                                                            <td>2</td>
-                                                            <td>S1LA1</td>
-                                                            <td>Legal Aspects of Business</td>
-                                                            <td>4</td>
-                                                        </tr>
-
-                                                        <tr>
-                                                            <td>3</td>
-                                                            <td>S2C10</td>
-                                                            <td>Strategic Management</td>
-                                                            <td>4</td>
-                                                        </tr>
-
-                                                        <tr>
-                                                            <td>4</td>
-                                                            <td>S2C07</td>
-                                                            <td>Management Information System</td>
-                                                            <td>4</td>
-                                                        </tr>
-
-                                                        <tr>
-                                                            <td>5</td>
-                                                            <td>S2C11</td>
-                                                            <td>Business Analytics</td>
-                                                            <td>4</td>
-                                                        </tr>
-
-                                                        <tr>
-                                                            <td>6</td>
-                                                            <td>S3C13</td>
-                                                            <td>Project Management</td>
-                                                            <td>4</td>
-                                                        </tr>
-                                                    </tbody>
-                                                </table>
-
-
-
-
-
-                                                <div class="alert brandcolor" align="right" role="alert">
-                                                    Total Credits 24
-                                                </div>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                            <?php include "pgdmexe-common-semester-one.php" ?>
                             <div class="accordion-item">
                                 <h2 class="accordion-header">
                                     <button class="accordion-button " type="button" data-bs-toggle="collapse"
@@ -462,14 +385,14 @@
 
                                                         <tr>
                                                             <td>1</td>
-                                                            <td>S1C05</td>
-                                                            <td>Marketing Management</td>
+                                                            <td>S2C09 </td>
+                                                            <td>Research Methodology and Management Decision</td>
                                                             <td>4</td>
                                                         </tr>
                                                         <tr>
                                                             <td>2</td>
-                                                            <td>S2C09 </td>
-                                                            <td>Research Methodology and Management Decision</td>
+                                                            <td>S2SM1</td>
+                                                            <td>Marketing Management</td>
                                                             <td>4</td>
                                                         </tr>
                                                         <tr>
@@ -486,18 +409,19 @@
                                                         </tr>
                                                         <tr>
                                                             <td>5</td>
-                                                            <td>S3W06</td>
-                                                            <td>Product and Brand Management </td>
+                                                            <td>S3SM1</td>
+                                                            <td>Product and Brand Management</td>
                                                             <td>4</td>
                                                         </tr>
                                                         <tr>
                                                             <td>6</td>
                                                             <td>S3EL4</td>
-                                                            <td>Marketing Analytics</td>
+                                                            <td>Marketing Analytics - LAB (Credits = 3+1)</td>
                                                             <td>4</td>
                                                         </tr>
                                                     </tbody>
                                                 </table>
+                                                <?php include "pgdm-common-sem2-sub.php" ?>
 
                                                 <div class="alert brandcolor" align="right" role="alert">Total
                                                     Credits 24
@@ -513,43 +437,7 @@
 
 
                             <li class="section hero10 p-3" style="list-style-type: none;">
-                                <h4 class="section-title">Project Term – 3 Months</h4>
-                                <ul class="curriculum me-1">
-
-                                    <table class="table">
-                                        <thead>
-                                            <tr>
-                                                <th>S.No</th>
-                                                <th>Code</th>
-
-                                                <th>Credits</th>
-                                            </tr>
-                                        </thead>
-                                        <tbody>
-                                            <tr>
-                                                <td>1</td>
-                                                <td>Desk Research</td>
-                                                <td>2</td>
-                                            </tr>
-                                            <tr>
-                                                <td>2</td>
-                                                <td>Project Work</td>
-                                                <td>4</td>
-                                            </tr>
-
-                                        </tbody>
-                                    </table>
-                                    <div class="alert brandcolor" align="right" role="alert">Total Credits 6</div>
-
-
-
-
-                                    <div class="alert brandcolor" align="right" role="alert">Total Cumulative Credits 54
-                                    </div>
-
-
-
-
+                                <?php include "pgdmexe-common-project-term.php" ?>
 
                                     <div class="alert brandcolor" role="alert"><b>Note :</b><br>
                                         <ul class="fin-feature2" style="list-style: none;">

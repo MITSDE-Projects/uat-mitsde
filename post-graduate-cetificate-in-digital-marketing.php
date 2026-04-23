@@ -416,48 +416,69 @@
                                                     <tbody>
                                                         <tr>
                                                             <td>1</td>
-                                                            <td>FS1F01</td>
-                                                            <td>Foundations of Business Management (HR, Marketing,
-                                                                Finance & Operations)</td>
+                                                            <td>S1F02</td>
+                                                            <td>Principles of Marketing Management</td>
                                                             <td>4</td>
                                                         </tr>
 
                                                         <tr>
                                                             <td>2</td>
-                                                            <td>FS1LA1</td>
-                                                            <td>Legal Aspects of Business</td>
+                                                            <td>S1F03</td>
+                                                            <td>Strategic Management and Business Policy</td>
                                                             <td>4</td>
                                                         </tr>
 
                                                         <tr>
                                                             <td>3</td>
-                                                            <td>FS2C10</td>
-                                                            <td>Strategic Management</td>
+                                                            <td>S1F04</td>
+                                                            <td>Product and Brand Strategy</td>
                                                             <td>4</td>
                                                         </tr>
 
                                                         <tr>
                                                             <td>4</td>
-                                                            <td>FS2C07</td>
-                                                            <td>Management Information System</td>
+                                                            <td>S1F05</td>
+                                                            <td>Strategic Marketing Communications</td>
                                                             <td>4</td>
                                                         </tr>
 
                                                         <tr>
                                                             <td>5</td>
-                                                            <td>FS0W01</td>
-                                                            <td>Digital Marketing </td>
+                                                            <td>S2SM2</td>
+                                                            <td>Consumer Behaviour</td>
                                                             <td>4</td>
                                                         </tr>
-
-
                                                     </tbody>
                                                 </table>
+                                                <table class="table">
+                                                    <thead>
+                                                        <tr>
+                                                            <th>Code</th>
+                                                            <th>Certificate</th>
+                                                            <th>Credits</th>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                        <tr>
+                                                            <td>AIRC</td>
+                                                            <td>AI Readiness Certificate + AI Productivity Certificate
+                                                            </td>
+                                                            <td>Non Credit</td>
+                                                        </tr>
 
+                                                        <tr>
+                                                            <td>CPEA</td>
+                                                            <td>CPEA -Certified Professional Excel Analyst</td>
+                                                            <td>Non Credit</td>
+                                                        </tr>
 
-
-
-
+                                                        <tr>
+                                                            <td>CPDA</td>
+                                                            <td>CPDA -Certified Professional Data Analyst</td>
+                                                            <td>Non Credit</td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
                                                 <div class="alert brandcolor" align="right" role="alert">
                                                     Total Credits 20
                                                 </div>
@@ -492,39 +513,70 @@
 
                                                         <tr>
                                                             <td>1</td>
-                                                            <td>FS3W06</td>
-                                                            <td>Product and Brand Management </td>
+                                                            <td>S2DA1</td>
+                                                            <td>Introduction to AI led Digital Marketing</td>
                                                             <td>4</td>
                                                         </tr>
                                                         <tr>
                                                             <td>2</td>
-                                                            <td>FS3W05</td>
-                                                            <td>Integrated Marketing Communication </td>
+                                                            <td>S2DA2</td>
+                                                            <td>SEO , Paid Social, Display and Programmatic Advertising</td>
                                                             <td>4</td>
                                                         </tr>
                                                         <tr>
                                                             <td>3</td>
-                                                            <td>FS2SS2</td>
-                                                            <td>SEO & SEM</td>
+                                                            <td>S2DA3</td>
+                                                            <td>Social Media, Influencer & Content Marketing - LAB (Credits = 3+1)</td>
                                                             <td>4</td>
                                                         </tr>
                                                         <tr>
                                                             <td>4</td>
-                                                            <td>FS3El5</td>
-                                                            <td>Social Media Marketing </td>
+                                                            <td>S2DA4</td>
+                                                            <td>Marketing Analytics & Future Trends - LAB (Credits = 3+1)</td>
                                                             <td>4</td>
                                                         </tr>
                                                         <tr>
                                                             <td>5</td>
-                                                            <td>FS2SF2</td>
-                                                            <td>Social Media Analytics & Future Trends</td>
+                                                            <td>S9DM1</td>
+                                                            <td>Digital Marketing Strategies</td>
                                                             <td>4</td>
                                                         </tr>
                                                         <tr>
                                                             <td>6</td>
-                                                            <td>PWPGC</td>
+                                                            <td>PWEX1C</td>
                                                             <td>Project Work</td>
                                                             <td>6</td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                                <table class="table">
+                                                    <thead>
+                                                        <tr>
+                                                            <th>Code</th>
+                                                            <th>Certificate</th>
+                                                            <th>Credits</th>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                        <!-- Rows from the first table -->
+
+                                                        <tr>
+                                                            <td>AIACSC</td>
+                                                            <td>AI Automation Certificate + AI Strategy Certificate</td>
+                                                            <td>Non Credit</td>
+                                                        </tr>
+
+                                                        <tr>
+                                                            <td>CPDSA</td>
+                                                            <td>CPDSA -Certified Professional Data Science Analyst</td>
+                                                            <td>Non Credit</td>
+                                                        </tr>
+
+                                                        <tr>
+                                                            <td>CPQRA</td>
+                                                            <td>CPQRA -Certified Professional Quantitative Research
+                                                                Analyst</td>
+                                                            <td>Non Credit</td>
                                                         </tr>
                                                     </tbody>
                                                 </table>

@@ -20,12 +20,11 @@
     <link rel="canonical" href="https://mitsde.com/post-graduate-certificate-in-business-analytics" />
 
     <!-- CANONICAL TAG -->
-    <?php include "5-common-seo-tag-1.php"?>
+    <?php include "5-common-seo-tag-1.php" ?>
 
     <!-- OGP TAG -->
 
-    <meta property="og:title"
-        content="Best Online PG Business Analytics Courses & Certificates | MITSDE 2026">
+    <meta property="og:title" content="Best Online PG Business Analytics Courses & Certificates | MITSDE 2026">
     <meta property="og:site_name" content="MIT School of Distance Education">
     <meta property="og:url" content="https://mitsde.com/post-graduate-certificate-in-business-analytics">
     <meta property="og:description"
@@ -207,12 +206,12 @@
 </head>
 
 <body>
-    <?php include "5-common-seo-tag-2.php"?>
+    <?php include "5-common-seo-tag-2.php" ?>
     <!-- Header Nav Start -->
-    <?php include "header.php"?>
+    <?php include "header.php" ?>
     <!-- Header Nav End --->
     <main class="main-body">
-        <?php include "announcementUpdate.php"?>
+        <?php include "announcementUpdate.php" ?>
         <section class="banner inner-banner">
             <div class="container">
                 <div class="row">
@@ -253,7 +252,8 @@
                                 <img src="assets/images/course/business/progress.png">
                             </div>
                             <img src="assets/images/course/business/post-graduate-certificate-in-business-analytics.png"
-                                class="banner-img" fetchpriority="high" alt="post-graduate-certificate-in-business-analytics">
+                                class="banner-img" fetchpriority="high"
+                                alt="post-graduate-certificate-in-business-analytics">
                             <div class="stc-det course-sec inner-sec">
 
                                 <img src="assets/images/course/business/walet.png">
@@ -266,7 +266,7 @@
 
         <!-- 1-fess-bussinessAnalytics -->
 
-        <?php include "1-PGCM-first-common-fees.php"?>
+        <?php include "1-PGCM-first-common-fees.php" ?>
 
 
         <!-- 1-fess-bussinessAnalytics -->
@@ -287,13 +287,13 @@
         </section>
         <section id="overview" class="enroll-certification">
             <div class="container">
-            <div class="row">
-                     <div class="col-md-12 col-lg-12 fintech-certi aboutMit-skills">
-                     <h2>About  The  Program</h2>
+                <div class="row">
+                    <div class="col-md-12 col-lg-12 fintech-certi aboutMit-skills">
+                        <h2>About The Program</h2>
 
                     </div>
                     <div class="col-md-8 col-lg-8 fintech-certi fin-feature hero11">
-                    <p>Bringing value to stakeholders of the company by analyzing the data to propel the
+                        <p>Bringing value to stakeholders of the company by analyzing the data to propel the
                             business towards growth is what Business Analytics is all about.
                         </p>
                         <p>Knowledge of analytical
@@ -308,16 +308,16 @@
                             course will demystify data analysis and will equip you with concrete skills to apply
                             at your workplace.
                         </p>
-                        
+
 
                     </div>
                     <div class="col-md-4 col-lg-4 ">
-                    <?php include "common-home-form-added-all-36-courses-pages.php"?>
+                        <?php include "common-home-form-added-all-36-courses-pages.php" ?>
 
                     </div>
                 </div>
 
-               
+
                 <div class="row hero11">
                     <div class="col-md-12 col-lg-4 pede-card">
                         <div class="card over-card">
@@ -421,47 +421,68 @@
                                                         <tr>
                                                             <td>1</td>
                                                             <td>FS1F01</td>
-                                                            <td>Foundations of Business Management (HR, Marketing,
-                                                                Finance & Operations)</td>
+                                                            <td>Foundations of Business Management</td>
                                                             <td>4</td>
                                                         </tr>
 
                                                         <tr>
                                                             <td>2</td>
-                                                            <td>FS1LA1</td>
-                                                            <td>Legal Aspects of Business</td>
+                                                            <td>S1C10</td>
+                                                            <td>Managerial Economics</td>
                                                             <td>4</td>
                                                         </tr>
 
                                                         <tr>
                                                             <td>3</td>
-                                                            <td>FS2C10</td>
-                                                            <td>Strategic Management</td>
+                                                            <td>S1C15</td>
+                                                            <td>Accounting for Managers</td>
                                                             <td>4</td>
                                                         </tr>
 
                                                         <tr>
                                                             <td>4</td>
-                                                            <td>FS2C07</td>
-                                                            <td>Management Information System</td>
+                                                            <td>S1C14</td>
+                                                            <td>Managerial Communication - LAB (Credits = 2+2)</td>
                                                             <td>4</td>
                                                         </tr>
 
                                                         <tr>
                                                             <td>5</td>
-                                                            <td>FS2C11</td>
-                                                            <td>Business Analytics </td>
+                                                            <td>S4EO4</td>
+                                                            <td>Leading People and Organization</td>
                                                             <td>4</td>
                                                         </tr>
-
-
                                                     </tbody>
                                                 </table>
+                                                <table class="table">
+                                                    <thead>
+                                                        <tr>
+                                                            <th>Code</th>
+                                                            <th>Certificate</th>
+                                                            <th>Credits</th>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                        <tr>
+                                                            <td>AIRC</td>
+                                                            <td>AI Readiness Certificate + AI Productivity Certificate
+                                                            </td>
+                                                            <td>Non Credit</td>
+                                                        </tr>
 
+                                                        <tr>
+                                                            <td>CPEA</td>
+                                                            <td>CPEA -Certified Professional Excel Analyst</td>
+                                                            <td>Non Credit</td>
+                                                        </tr>
 
-
-
-
+                                                        <tr>
+                                                            <td>CPDA</td>
+                                                            <td>CPDA -Certified Professional Data Analyst</td>
+                                                            <td>Non Credit</td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
                                                 <div class="alert brandcolor" align="right" role="alert">
                                                     Total Credits 20
                                                 </div>
@@ -496,39 +517,70 @@
 
                                                         <tr>
                                                             <td>1</td>
-                                                            <td>FS2DB1</td>
+                                                            <td>S2DB1</td>
                                                             <td>Data Mining for Business Analytics </td>
                                                             <td>4</td>
                                                         </tr>
                                                         <tr>
                                                             <td>2</td>
-                                                            <td>FS3EL6</td>
+                                                            <td>S3EL6</td>
                                                             <td>Predictive Modeling </td>
                                                             <td>4</td>
                                                         </tr>
                                                         <tr>
                                                             <td>3</td>
-                                                            <td>FS3FM4</td>
+                                                            <td>S4SF3</td>
                                                             <td>Financial Analytics</td>
                                                             <td>4</td>
                                                         </tr>
                                                         <tr>
                                                             <td>4</td>
-                                                            <td>FS3EL4</td>
-                                                            <td>Marketing Analytics</td>
+                                                            <td>S3EL4</td>
+                                                            <td>Marketing Analytics - LAB (Credits = 3+1)</td>
                                                             <td>4</td>
                                                         </tr>
                                                         <tr>
                                                             <td>5</td>
-                                                            <td>FS3LSC1</td>
-                                                            <td>Supply Chain Analytics</td>
+                                                            <td>S4SL1</td>
+                                                            <td>Supply Chain Analytics - LAB (Credits = 3+1)</td>
                                                             <td>4</td>
                                                         </tr>
                                                         <tr>
                                                             <td>6</td>
-                                                            <td>PWPGC</td>
+                                                            <td>PWEX1C</td>
                                                             <td>Project Work</td>
                                                             <td>6</td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                                <table class="table">
+                                                    <thead>
+                                                        <tr>
+                                                            <th>Code</th>
+                                                            <th>Certificate</th>
+                                                            <th>Credits</th>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                        <!-- Rows from the first table -->
+
+                                                        <tr>
+                                                            <td>AIACSC</td>
+                                                            <td>AI Automation Certificate + AI Strategy Certificate</td>
+                                                            <td>Non Credit</td>
+                                                        </tr>
+
+                                                        <tr>
+                                                            <td>CPDSA</td>
+                                                            <td>CPDSA -Certified Professional Data Science Analyst</td>
+                                                            <td>Non Credit</td>
+                                                        </tr>
+
+                                                        <tr>
+                                                            <td>CPQRA</td>
+                                                            <td>CPQRA -Certified Professional Quantitative Research
+                                                                Analyst</td>
+                                                            <td>Non Credit</td>
                                                         </tr>
                                                     </tbody>
                                                 </table>
@@ -595,7 +647,7 @@
 
         <section id="progressFee" class="enroll-certification" style="padding-top: 0px;">
             <div class="container">
-                <?php include "1-PGCM-second-common-fees.php"?>
+                <?php include "1-PGCM-second-common-fees.php" ?>
                 <hr>
                 <div class="row">
                     <div class="col-md-12 col-lg-4 ">
@@ -1286,7 +1338,7 @@
                                             <div class="col-md-12 col-lg-12">
                                                 <div class="fintech-module alert brandcolor">
                                                     <p>
-                                                    Any graduate is eligible to apply for this program.
+                                                        Any graduate is eligible to apply for this program.
                                                     </p>
 
                                                 </div>
@@ -1309,8 +1361,8 @@
                                             <div class="col-md-12 col-lg-12">
                                                 <div class="fintech-module alert brandcolor">
                                                     <p>
-                                                    The program fee is ₹64,000. Discounts are available for alumni,
-                                                     defense personnel, and specially-abled candidates.
+                                                        The program fee is ₹64,000. Discounts are available for alumni,
+                                                        defense personnel, and specially-abled candidates.
                                                     </p>
 
                                                 </div>
@@ -1332,10 +1384,10 @@
                                         <div class="row">
                                             <div class="col-md-12 col-lg-12">
                                                 <div class="fintech-module alert brandcolor">
-                                                <p>
-                                                The program focuses on Business Analytics, Data Mining,
-                                                 Predictive Modeling, Marketing Analytics, and Financial
-                                                  Analytics, among other areas.
+                                                    <p>
+                                                        The program focuses on Business Analytics, Data Mining,
+                                                        Predictive Modeling, Marketing Analytics, and Financial
+                                                        Analytics, among other areas.
                                                     </p>
 
 
@@ -1359,10 +1411,10 @@
                                         <div class="row">
                                             <div class="col-md-12 col-lg-12">
                                                 <div class="fintech-module alert brandcolor">
-                                                <p>
-                                                The course is delivered online, making it flexible for working
-                                                 professionals. It includes live sessions, practical assignments,
-                                                  and a capstone project.
+                                                    <p>
+                                                        The course is delivered online, making it flexible for working
+                                                        professionals. It includes live sessions, practical assignments,
+                                                        and a capstone project.
                                                     </p>
 
                                                 </div>
@@ -1384,9 +1436,9 @@
                                         <div class="row">
                                             <div class="col-md-12 col-lg-12">
                                                 <div class="fintech-module alert brandcolor">
-                                                <p>
-                                                Yes, MITSDE offers placement assistance to its students
-                                                 upon completion of the program.
+                                                    <p>
+                                                        Yes, MITSDE offers placement assistance to its students
+                                                        upon completion of the program.
                                                     </p>
 
                                                 </div>
@@ -1408,10 +1460,10 @@
                                         <div class="row">
                                             <div class="col-md-12 col-lg-12">
                                                 <div class="fintech-module alert brandcolor">
-                                                <p>
-                                                While internships are not explicitly mentioned, the program
-                                                 includes project work and hands-on learning to build
-                                                  practical skills.
+                                                    <p>
+                                                        While internships are not explicitly mentioned, the program
+                                                        includes project work and hands-on learning to build
+                                                        practical skills.
                                                     </p>
 
                                                 </div>
@@ -1433,10 +1485,11 @@
                                         <div class="row">
                                             <div class="col-md-12 col-lg-12">
                                                 <div class="fintech-module alert brandcolor">
-                                                <p>
-                                                Graduates can pursue roles in <strong>Business Analytics, Data Analysis,
-                                                 Marketing Analytics, Financial Analytics</strong>,
-                                                  and more in various industries.
+                                                    <p>
+                                                        Graduates can pursue roles in <strong>Business Analytics, Data
+                                                            Analysis,
+                                                            Marketing Analytics, Financial Analytics</strong>,
+                                                        and more in various industries.
                                                     </p>
 
                                                 </div>
@@ -1458,9 +1511,10 @@
                                         <div class="row">
                                             <div class="col-md-12 col-lg-12">
                                                 <div class="fintech-module alert brandcolor">
-                                                <p>
-                                                Yes, students will receive a <strong>Post Graduate Certificate in
-                                                 Business Analytics</strong> upon successful completion.
+                                                    <p>
+                                                        Yes, students will receive a <strong>Post Graduate Certificate
+                                                            in
+                                                            Business Analytics</strong> upon successful completion.
                                                     </p>
 
                                                 </div>
@@ -1478,9 +1532,9 @@
 
 
 
-        <?php include "all-similar-program-all-courses-slider.php"?>
+        <?php include "all-similar-program-all-courses-slider.php" ?>
 
-        <?php include "learner-support.php"?>
+        <?php include "learner-support.php" ?>
 
 
 
@@ -1488,7 +1542,7 @@
     </main>
     <!-- Footer Start -->
 
-    <?php include "footer.php"?>
+    <?php include "footer.php" ?>
 
 
     <!-- footer end  -->

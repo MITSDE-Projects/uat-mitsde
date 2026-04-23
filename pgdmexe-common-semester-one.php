@@ -29,47 +29,65 @@
 
                             <tr>
                                 <td>2</td>
-                                <td>S1LA1</td>
-                                <td>Legal Aspects of Business</td>
+                                <td>S1C10</td>
+                                <td>Managerial Economics </td>
                                 <td>4</td>
                             </tr>
 
                             <tr>
                                 <td>3</td>
-                                <td>S2C10</td>
-                                <td>Strategic Management</td>
+                                <td>S1C15</td>
+                                <td>Accounting for Managers</td>
                                 <td>4</td>
                             </tr>
 
                             <tr>
                                 <td>4</td>
-                                <td>S2C07</td>
-                                <td>Management Information System</td>
+                                <td>S1C14</td>
+                                <td>Managerial Communication - LAB (Credits = 2+2)</td>
                                 <td>4</td>
                             </tr>
 
                             <tr>
                                 <td>5</td>
-                                <td>S2C11</td>
-                                <td>Business Analytics</td>
-                                <td>4</td>
-                            </tr>
-
-                            <tr>
-                                <td>6</td>
-                                <td>S3C13</td>
-                                <td>Project Management</td>
+                                <td>S4EO4</td>
+                                <td>Leading People and Organization</td>
                                 <td>4</td>
                             </tr>
                         </tbody>
                     </table>
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th>Code</th>
+                                <th>Certificate</th>
+                                <th>Credits</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <!-- Rows from the first table -->
 
+                            <tr>
+                                <td>AIRC</td>
+                                <td>AI Readiness Certificate + AI Productivity Certificate</td>
+                                <td>Non Credit</td>
+                            </tr>
 
+                            <tr>
+                                <td>CPEA</td>
+                                <td>CPEA -Certified Professional Excel Analyst</td>
+                                <td>Non Credit</td>
+                            </tr>
 
-
-
+                            <tr>
+                                <td>CPDA</td>
+                                <td>CPDA -Certified Professional Data Analyst</td>
+                                <td>Non Credit</td>
+                            </tr>
+                        </tbody>
+                    </table>
                     <div class="alert brandcolor" align="right" role="alert">
-                        Total Credits 24
+                        Total Credits 20
                     </div>
                 </ul>
             </div>

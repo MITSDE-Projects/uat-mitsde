@@ -386,31 +386,31 @@
                                                         </tr>
                                                         <tr>
                                                             <td>3</td>
-                                                            <td>S3W28</td>
+                                                            <td>S3SC03</td>
                                                             <td>Project Analysis and Integration Management</td>
                                                             <td>4</td>
                                                         </tr>
                                                         <tr>
                                                             <td>4</td>
-                                                            <td>S3W30</td>
+                                                            <td>S3SC02</td>
                                                             <td>Project Execution, Control and Closure</td>
                                                             <td>4</td>
                                                         </tr>
                                                         <tr>
                                                             <td>5</td>
-                                                            <td>S2EA1</td>
-                                                            <td>Essentials of Agile Project Management</td>
+                                                            <td>S4SP3</td>
+                                                            <td>Essentials of Agile Project Management  - LAB (Credits = 3+1)</td>
                                                             <td>4</td>
                                                         </tr>
                                                         <tr>
                                                             <td>6</td>
-                                                            <td>S3PM5</td>
-                                                            <td>Microsoft Project and Jira</td>
+                                                            <td>S4SP1</td>
+                                                            <td>Microsoft Project and Jira  - LAB (Credits = 3+1)</td>
                                                             <td>4</td>
                                                         </tr>
                                                     </tbody>
                                                 </table>
-
+                                                <?php include "pgdmexe-common-sem2-sub.php" ?>
                                                 <div class="alert brandcolor" align="right" role="alert">Total
                                                     Credits 24
                                                 </div>
@@ -425,43 +425,8 @@
 
 
                             <li class="section hero10 p-3" style="list-style-type: none;">
-                                <h4 class="section-title">Project Term – 3 Months</h4>
-                                <ul class="curriculum me-1">
-
-                                    <table class="table">
-                                        <thead>
-                                            <tr>
-                                                <th>S.No</th>
-                                                <th>Code</th>
-
-                                                <th>Credits</th>
-                                            </tr>
-                                        </thead>
-                                        <tbody>
-                                            <tr>
-                                                <td>1</td>
-                                                <td>Desk Research</td>
-                                                <td>2</td>
-                                            </tr>
-                                            <tr>
-                                                <td>2</td>
-                                                <td>Project Work</td>
-                                                <td>4</td>
-                                            </tr>
-
-                                        </tbody>
-                                    </table>
-                                    <div class="alert brandcolor" align="right" role="alert">Total Credits 6</div>
-
-
-
-
-                                    <div class="alert brandcolor" align="right" role="alert">Total Cumulative Credits 54
-                                    </div>
-
-
-
-
+                    
+                                <?php include "pgdmexe-common-project-term.php" ?>
 
                                     <div class="alert brandcolor" role="alert"><b>Note :</b><br>
                                         <ul class="fin-feature2" style="list-style: none;">

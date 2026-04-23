@@ -343,84 +343,7 @@
                     <div class="cur-accordiaon">
                         <h3>Course Syllabus</h3>
                         <div class="accordion curriculum-accordion" id="curriculum">
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#module1" aria-expanded="true" aria-controls="module1">
-                                        Semester I
-                                    </button>
-                                </h2>
-                                <div id="module1" class="accordion-collapse collapse show" data-bs-parent="#curriculum">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-
-                                            <ul class="curriculum">
-                                                <table class="table">
-                                                    <thead>
-                                                        <tr>
-                                                            <th>S.No</th>
-                                                            <th>Code</th>
-                                                            <th>Subject</th>
-                                                            <th>Credits</th>
-                                                        </tr>
-                                                    </thead>
-                                                    <tbody>
-                                                        <tr>
-                                                            <td>1</td>
-                                                            <td>S1F01</td>
-                                                            <td>Foundations of Business Management</td>
-                                                            <td>4</td>
-                                                        </tr>
-
-                                                        <tr>
-                                                            <td>2</td>
-                                                            <td>S1LA1</td>
-                                                            <td>Legal Aspects of Business</td>
-                                                            <td>4</td>
-                                                        </tr>
-
-                                                        <tr>
-                                                            <td>3</td>
-                                                            <td>S2C10</td>
-                                                            <td>Strategic Management</td>
-                                                            <td>4</td>
-                                                        </tr>
-
-                                                        <tr>
-                                                            <td>4</td>
-                                                            <td>S2C07</td>
-                                                            <td>Management Information System</td>
-                                                            <td>4</td>
-                                                        </tr>
-
-                                                        <tr>
-                                                            <td>5</td>
-                                                            <td>S2C11</td>
-                                                            <td>Business Analytics</td>
-                                                            <td>4</td>
-                                                        </tr>
-
-                                                        <tr>
-                                                            <td>6</td>
-                                                            <td>S3C13</td>
-                                                            <td>Project Management</td>
-                                                            <td>4</td>
-                                                        </tr>
-                                                    </tbody>
-                                                </table>
-
-
-
-
-
-                                                <div class="alert brandcolor" align="right" role="alert">
-                                                    Total Credits 24
-                                                </div>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                            <?php include "pgdmexe-common-semester-one.php" ?>
                             <div class="accordion-item">
                                 <h2 class="accordion-header">
                                     <button class="accordion-button " type="button" data-bs-toggle="collapse"
@@ -443,7 +366,7 @@
                                                         </tr>
                                                     </thead>
                                                     <tbody>
-                                                        <!-- Rows from the first table -->
+
 
                                                         <tr>
                                                             <td>1</td>
@@ -453,37 +376,37 @@
                                                         </tr>
                                                         <tr>
                                                             <td>2</td>
-                                                            <td>S3W07 </td>
+                                                            <td>S3SO3</td>
                                                             <td>Production, Planning and Control</td>
                                                             <td>4</td>
                                                         </tr>
                                                         <tr>
                                                             <td>3</td>
-                                                            <td>S0W03</td>
+                                                            <td>S2SO1</td>
                                                             <td>Operations Management</td>
                                                             <td>4</td>
                                                         </tr>
                                                         <tr>
                                                             <td>4</td>
-                                                            <td>S3W14</td>
-                                                            <td>Lean Management Systems</td>
+                                                            <td>S2SO2</td>
+                                                            <td>Lean Management Systems - LAB (Credits = 3+1)</td>
                                                             <td>4</td>
                                                         </tr>
                                                         <tr>
                                                             <td>5</td>
-                                                            <td>S3LSC1</td>
-                                                            <td>Supply Chain Analytics</td>
+                                                            <td>S4SL1</td>
+                                                            <td>Supply Chain Analytics - LAB (Credits = 3+1)</td>
                                                             <td>4</td>
                                                         </tr>
                                                         <tr>
                                                             <td>6</td>
-                                                            <td>S2OS1</td>
-                                                            <td>Operations Research</td>
+                                                            <td>S4EL4</td>
+                                                            <td>Operations Research - LAB (Credits = 3+1)</td>
                                                             <td>4</td>
                                                         </tr>
                                                     </tbody>
                                                 </table>
-
+                                                <?php include "pgdmexe-common-sem2-sub.php" ?>
                                                 <div class="alert brandcolor" align="right" role="alert">Total
                                                     Credits 24
                                                 </div>
@@ -498,43 +421,7 @@
 
 
                             <li class="section hero10 p-3" style="list-style-type: none;">
-                                <h4 class="section-title">Project Term – 3 Months</h4>
-                                <ul class="curriculum me-1">
-
-                                    <table class="table">
-                                        <thead>
-                                            <tr>
-                                                <th>S.No</th>
-                                                <th>Code</th>
-
-                                                <th>Credits</th>
-                                            </tr>
-                                        </thead>
-                                        <tbody>
-                                            <tr>
-                                                <td>1</td>
-                                                <td>Desk Research</td>
-                                                <td>2</td>
-                                            </tr>
-                                            <tr>
-                                                <td>2</td>
-                                                <td>Project Work</td>
-                                                <td>4</td>
-                                            </tr>
-
-                                        </tbody>
-                                    </table>
-                                    <div class="alert brandcolor" align="right" role="alert">Total Credits 6</div>
-
-
-
-
-                                    <div class="alert brandcolor" align="right" role="alert">Total Cumulative Credits 54
-                                    </div>
-
-
-
-
+                                <?php include "pgdmexe-common-project-term.php" ?>
 
                                     <div class="alert brandcolor" role="alert"><b>Note :</b><br>
                                         <ul class="fin-feature2" style="list-style: none;">

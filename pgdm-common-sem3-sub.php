@@ -14,11 +14,5 @@
             <td>Non Credit</td>
         </tr>
 
-        <tr>
-            <td>PWMI1</td>
-            <td>Project Work</td>
-            <td>6 credits</td>
-        </tr>
-
     </tbody>
 </table>
