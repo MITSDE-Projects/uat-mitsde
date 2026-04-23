@@ -58,7 +58,7 @@
                                 style="position: absolute; right: 0; top: 0; height: 100%; width: 40px; text-align: center;">
                                 <span class="visually-hidden">Toggle Dropdown</span>
                             </a>
-                            <ul class="dropdown-menu secondDrop" style="width: 320px;">
+                            <ul class="dropdown-menu secondDrop" style="width: 320px; max-height: 300px; overflow-y: auto;">
                                 <li><a class="dropdown-item" href="digital-marketing-strategist">Chief Digital Marketing
                                         Strategist Program </a></li>
                                 <li><a class="dropdown-item" href="pgdm-executive-in-digital-marketing">PGDM
@@ -115,7 +115,7 @@
                                 style="position: absolute; right: 0; top: 0; height: 100%; width: 40px; text-align: center;">
                                 <span class="visually-hidden">Toggle Dropdown</span>
                             </a>
-                            <ul class="dropdown-menu secondDrop" style="width: 320px;">
+                            <ul class="dropdown-menu secondDrop" style="width: 320px; max-height: 300px; overflow-y: auto; overflow-x: hidden;">
                                 <li><a class="dropdown-item" href="pg-diploma-in-project-management">PGDM in Project
                                         Management </a>
                                 </li>
