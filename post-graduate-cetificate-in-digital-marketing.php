@@ -460,7 +460,7 @@
                                                     </thead>
                                                     <tbody>
                                                         <tr>
-                                                            <td>AIRC</td>
+                                                            <td>AIRCPC</td>
                                                             <td>AI Readiness Certificate + AI Productivity Certificate
                                                             </td>
                                                             <td>Non Credit</td>
@@ -567,15 +567,14 @@
                                                         </tr>
 
                                                         <tr>
-                                                            <td>CPDSA</td>
-                                                            <td>CPDSA -Certified Professional Data Science Analyst</td>
+                                                            <td>CDME</td>
+                                                            <td>CDME -Certificate in Digital Marketing Essentials </td>
                                                             <td>Non Credit</td>
                                                         </tr>
 
                                                         <tr>
-                                                            <td>CPQRA</td>
-                                                            <td>CPQRA -Certified Professional Quantitative Research
-                                                                Analyst</td>
+                                                            <td>CDMA</td>
+                                                            <td>CDMA -Certificate in Digital Marketing Applications </td>
                                                             <td>Non Credit</td>
                                                         </tr>
                                                     </tbody>

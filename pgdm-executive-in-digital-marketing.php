@@ -29,7 +29,8 @@
     <meta property="og:description"
         content="Enhance your career with MITSDE’s 15-month AICTE-approved PGDM Executive in Digital Marketing. Learn SEO, SEM, analytics & leadership online.">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/assets/images/course/pgdm-exe/PGDM-Executive-Digital-Marketing.png">
+    <meta property="og:image"
+        content="https://mitsde.com/assets/images/course/pgdm-exe/PGDM-Executive-Digital-Marketing.png">
     <!-- / OG TAG -->
 
 
@@ -43,7 +44,8 @@
     <link rel="preload" href="assets/css/slick.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
     <link rel="preload" href="assets/css/fonts.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
     <link rel="preload" href="assets/css/style.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <link rel="preload" href="assets/css/course-common-internal.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="preload" href="assets/css/course-common-internal.css" as="style"
+        onload="this.onload=null;this.rel='stylesheet'">
 
 
     <!-- Fallback (Loads CSS if JS disabled) -->
@@ -155,7 +157,7 @@
 </script>
 
 
-<script type="application/ld+json">
+    <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
@@ -212,7 +214,8 @@
                                     </li>
                                     <li class="breadcrumb-item"><a
                                             href="post-graduate-diploma-in-management-executive">PGDM Exe </a></li>
-                                    <li class="breadcrumb-item active" aria-current="page">PGDM Executive Digital Marketing
+                                    <li class="breadcrumb-item active" aria-current="page">PGDM Executive Digital
+                                        Marketing
                                     </li>
 
                             </nav>
@@ -227,7 +230,8 @@
                                     alt="PGDM Executive Digital Marketing icon 1">
                             </div>
                             <img src="assets/images/course/pgdm-exe/PGDM-Executive-Digital-Marketing.png"
-                                class="banner-img" fetchpriority="high" alt="Executive PGDM in Digital Marketing online course AICTE approved MITSDE">
+                                class="banner-img" fetchpriority="high"
+                                alt="Executive PGDM in Digital Marketing online course AICTE approved MITSDE">
                             <div class="stc-det course-sec inner-sec">
                                 <img src="assets/images/course/pgdm-exe/PGDM-Executive-Digital-Marketing-icon-2.png"
                                     alt="PGDM Executive Digital Marketing icon 2">
@@ -262,11 +266,18 @@
                     </div>
                     <div class="col-md-8 col-lg-8 fintech-certi fin-feature hero11">
                         <p>
-                            The Post Graduate Diploma in Management (Executive) in Digital Marketing is a 15-month online programme crafted for experienced professionals seeking to strengthen their leadership, analytical, and digital strategy capabilities. It integrates foundational management principles with advanced digital marketing concepts — preparing learners to thrive in technology-driven marketing environments.
+                            The Post Graduate Diploma in Management (Executive) in Digital Marketing is a 15-month
+                            online programme crafted for experienced professionals seeking to strengthen their
+                            leadership, analytical, and digital strategy capabilities. It integrates foundational
+                            management principles with advanced digital marketing concepts — preparing learners to
+                            thrive in technology-driven marketing environments.
                         </p>
 
                         <p>
-                            This programme bridges business management with digital innovation, enabling professionals to design data-driven campaigns, interpret analytics, and drive customer engagement through multiple online channels. The PGDM Executive structure ensures a blend of strategic insight and practical execution tailored for working executives.
+                            This programme bridges business management with digital innovation, enabling professionals
+                            to design data-driven campaigns, interpret analytics, and drive customer engagement through
+                            multiple online channels. The PGDM Executive structure ensures a blend of strategic insight
+                            and practical execution tailored for working executives.
                         </p>
                     </div>
                     <div class="col-md-4 col-lg-4 ">
@@ -283,11 +294,18 @@
                             <div class="card-body">
                                 <h5 class="card-title">Unique Pedagogy </h5>
                                 <ul>
-                                    <li>Flexible Online Learning: Courses are delivered through an advanced Learning</li>
-                                    <li>Application-Based Curriculum: Every concept is reinforced with real-time case studies, live projects, and simulations reflecting real marketing challenges.</li>
-                                    <li>Executive Focus: The programme’s pace and structure accommodate the schedules of professionals, ensuring seamless learning without career interruptions.</li>
-                                    <li>Project-Based Learning: The final term includes a capstone project that encourages application of learning to solve a real-world digital marketing problem.</li>
-                                    <li>Continuous Evaluation: Internal assessments, assignments, and online MCQ-based exams ensure consistent learning progress and conceptual clarity.</li>
+                                    <li>Flexible Online Learning: Courses are delivered through an advanced Learning
+                                    </li>
+                                    <li>Application-Based Curriculum: Every concept is reinforced with real-time case
+                                        studies, live projects, and simulations reflecting real marketing challenges.
+                                    </li>
+                                    <li>Executive Focus: The programme’s pace and structure accommodate the schedules of
+                                        professionals, ensuring seamless learning without career interruptions.</li>
+                                    <li>Project-Based Learning: The final term includes a capstone project that
+                                        encourages application of learning to solve a real-world digital marketing
+                                        problem.</li>
+                                    <li>Continuous Evaluation: Internal assessments, assignments, and online MCQ-based
+                                        exams ensure consistent learning progress and conceptual clarity.</li>
                                 </ul>
                             </div>
                         </div>
@@ -299,10 +317,16 @@
                             <div class="card-body">
                                 <h5 class="card-title">Academic Partnerships</h5>
                                 <ul>
-                                    <li>MIT School of Distance Education (MITSDE) is a constituent of MAEER’s MIT Group of Institutions, Pune, an established education brand since 1983.</li>
-                                    <li>The programme is approved by AICTE, ensuring national-level recognition and academic credibility.</li>
-                                    <li>Curriculum inputs and case studies are co-developed with industry professionals and subject matter experts, ensuring relevance to modern marketing practices.</li>
-                                    <li>Strategic collaborations with corporate partners and technology experts help align the course content with current market and digital transformation trends.</li>
+                                    <li>MIT School of Distance Education (MITSDE) is a constituent of MAEER’s MIT Group
+                                        of Institutions, Pune, an established education brand since 1983.</li>
+                                    <li>The programme is approved by AICTE, ensuring national-level recognition and
+                                        academic credibility.</li>
+                                    <li>Curriculum inputs and case studies are co-developed with industry professionals
+                                        and subject matter experts, ensuring relevance to modern marketing practices.
+                                    </li>
+                                    <li>Strategic collaborations with corporate partners and technology experts help
+                                        align the course content with current market and digital transformation trends.
+                                    </li>
                                 </ul>
                             </div>
                         </div>
@@ -314,10 +338,15 @@
                             <div class="card-body">
                                 <h5 class="card-title">Expert Faculty</h5>
                                 <ul>
-                                    <li>Courses are taught by a blend of academic scholars and industry leaders with extensive experience in digital marketing, analytics, and business strategy.</li>
-                                    <li>Faculty members bring real-world insights through case-based teaching, mentoring sessions, and project guidance.</li>
-                                    <li>The academic leadership at MITSDE emphasizes experiential learning, ensuring each learner gains both managerial and technological competence.</li>
-                                    <li>Learners benefit from interactive webinars, doubt-solving sessions, and mentorship support for career growth.</li>
+                                    <li>Courses are taught by a blend of academic scholars and industry leaders with
+                                        extensive experience in digital marketing, analytics, and business strategy.
+                                    </li>
+                                    <li>Faculty members bring real-world insights through case-based teaching, mentoring
+                                        sessions, and project guidance.</li>
+                                    <li>The academic leadership at MITSDE emphasizes experiential learning, ensuring
+                                        each learner gains both managerial and technological competence.</li>
+                                    <li>Learners benefit from interactive webinars, doubt-solving sessions, and
+                                        mentorship support for career growth.</li>
                                 </ul>
                             </div>
                         </div>
@@ -338,14 +367,21 @@
                     </div>
                     <div class="col-md-12 col-lg-8 fin-feature1 hero11">
 
-                    <p>After completing this programme, learners will be able to:</p>
-                        <li><span class="newright-icon1"></span> Demonstrate a comprehensive understanding of core management concepts.</li>
-                        <li><span class="newright-icon1"></span> Design, execute, and optimize integrated digital marketing campaigns.</li>
-                        <li><span class="newright-icon1"></span> Apply marketing analytics to measure ROI and enhance campaign effectiveness.</li>
-                        <li><span class="newright-icon1"></span> Understand consumer behaviour in digital spaces and develop personalized engagement strategies.</li>
-                        <li><span class="newright-icon1"></span> Use tools for SEO, SEM, content marketing, and social media performance tracking.</li>
-                        <li><span class="newright-icon1"></span> Integrate digital marketing strategies into broader business and brand objectives.</li>
-                        <li><span class="newright-icon1"></span> Exhibit leadership and strategic decision-making skills suitable for senior marketing roles.</li>
+                        <p>After completing this programme, learners will be able to:</p>
+                        <li><span class="newright-icon1"></span> Demonstrate a comprehensive understanding of core
+                            management concepts.</li>
+                        <li><span class="newright-icon1"></span> Design, execute, and optimize integrated digital
+                            marketing campaigns.</li>
+                        <li><span class="newright-icon1"></span> Apply marketing analytics to measure ROI and enhance
+                            campaign effectiveness.</li>
+                        <li><span class="newright-icon1"></span> Understand consumer behaviour in digital spaces and
+                            develop personalized engagement strategies.</li>
+                        <li><span class="newright-icon1"></span> Use tools for SEO, SEM, content marketing, and social
+                            media performance tracking.</li>
+                        <li><span class="newright-icon1"></span> Integrate digital marketing strategies into broader
+                            business and brand objectives.</li>
+                        <li><span class="newright-icon1"></span> Exhibit leadership and strategic decision-making skills
+                            suitable for senior marketing roles.</li>
                     </div>
                 </div>
             </div>
@@ -415,12 +451,42 @@
                                                         <tr>
                                                             <td>6</td>
                                                             <td>S2SE2</td>
-                                                            <td>Social Media Analytics & Future Trends - LAB (Credits = 3+1)</td>
+                                                            <td>Social Media Analytics & Future Trends - LAB (Credits =
+                                                                3+1)</td>
                                                             <td>4</td>
                                                         </tr>
                                                     </tbody>
                                                 </table>
-                                                <?php include "pgdm-common-sem2-sub.php" ?>
+                                                <table class="table">
+                                                    <thead>
+                                                        <tr>
+                                                            <th>Code</th>
+                                                            <th>Certificate</th>
+                                                            <th>Credits</th>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                        <!-- Rows from the first table -->
+
+                                                        <tr>
+                                                            <td>AIACSC</td>
+                                                            <td>AI Automation Certificate + AI Strategy Certificate</td>
+                                                            <td>Non Credit</td>
+                                                        </tr>
+
+                                                        <tr>
+                                                            <td>CDME</td>
+                                                            <td>CDME -Certificate in Digital Marketing Essentials</td>
+                                                            <td>Non Credit</td>
+                                                        </tr>
+
+                                                        <tr>
+                                                            <td>CDMA</td>
+                                                            <td>CDMA -Certificate in Digital Marketing Applications</td>
+                                                            <td>Non Credit</td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
                                                 <div class="alert brandcolor" align="right" role="alert">Total
                                                     Credits 24
                                                 </div>
@@ -437,35 +503,35 @@
                             <li class="section hero10 p-3" style="list-style-type: none;">
                                 <?php include "pgdmexe-common-project-term.php" ?>
 
-                                    <div class="alert brandcolor" role="alert"><b>Note :</b><br>
-                                        <ul class="fin-feature2" style="list-style: none;">
-                                            <li><span class="newright-icon1"></span> The above course curriculum is
-                                                subject to revision as per AICTE
-                                                guidelines
-                                                from time to time and as per industry updates.</li>
-                                            <li><span class="newright-icon1"></span> Exams would be conducted during the
-                                                January and July exam
-                                                cycles.</li>
-                                            <li><span class="newright-icon1"></span> All the Exams at MITSDE (Internal &
-                                                External) are in the form of
-                                                Multiple
-                                                Choice Questions.
-                                            </li>
-                                            <li><span class="newright-icon1"></span> Student will have to attempt all
-                                                the components in the Learning
-                                                Management
-                                                System and submit TWO Quizzes (30 marks each) for each subject.
+                                <div class="alert brandcolor" role="alert"><b>Note :</b><br>
+                                    <ul class="fin-feature2" style="list-style: none;">
+                                        <li><span class="newright-icon1"></span> The above course curriculum is
+                                            subject to revision as per AICTE
+                                            guidelines
+                                            from time to time and as per industry updates.</li>
+                                        <li><span class="newright-icon1"></span> Exams would be conducted during the
+                                            January and July exam
+                                            cycles.</li>
+                                        <li><span class="newright-icon1"></span> All the Exams at MITSDE (Internal &
+                                            External) are in the form of
+                                            Multiple
+                                            Choice Questions.
+                                        </li>
+                                        <li><span class="newright-icon1"></span> Student will have to attempt all
+                                            the components in the Learning
+                                            Management
+                                            System and submit TWO Quizzes (30 marks each) for each subject.
 
-                                            </li>
-                                            <li><span class="newright-icon1"></span> Internal Examinations carry 60%
-                                                marks (2 Quizzes of 30 Marks
-                                                each) and
-                                                External Proctored Exam carry 40% weightage (passing criteria for both
-                                                internal & external exam is 50%).
-                                            </li>
+                                        </li>
+                                        <li><span class="newright-icon1"></span> Internal Examinations carry 60%
+                                            marks (2 Quizzes of 30 Marks
+                                            each) and
+                                            External Proctored Exam carry 40% weightage (passing criteria for both
+                                            internal & external exam is 50%).
+                                        </li>
 
-                                        </ul>
-                                    </div>
+                                    </ul>
+                                </div>
 
 
 
@@ -507,27 +573,36 @@
                                 <div id="questions1" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
                                     <div class="accordion-body hero10">
                                         <div class="row fin-feature1">
-                                            <p>Graduates of the PGDM Executive in Digital Marketing can pursue roles such as:</p>
+                                            <p>Graduates of the PGDM Executive in Digital Marketing can pursue roles
+                                                such as:</p>
                                             <p><b>Career Opportunities Include:</b></p>
                                             <ul class="fin-feature2" style="list-style: none;">
                                                 <div class="row">
                                                     <div class="col-md-6">
-                                                        <li><span class="newright-icon1"></span> Digital Marketing Manager</li>
-                                                        <li><span class="newright-icon1"></span> Brand & Product Manager</li>
-                                                        <li><span class="newright-icon1"></span> Social Media Marketing Lead</li>
+                                                        <li><span class="newright-icon1"></span> Digital Marketing
+                                                            Manager</li>
+                                                        <li><span class="newright-icon1"></span> Brand & Product Manager
+                                                        </li>
+                                                        <li><span class="newright-icon1"></span> Social Media Marketing
+                                                            Lead</li>
                                                         <li><span class="newright-icon1"></span> SEO/SEM Specialist</li>
                                                     </div>
                                                     <div class="col-md-6">
 
-                                                        <li><span class="newright-icon1"></span> Marketing Analytics Manager</li>
-                                                        <li><span class="newright-icon1"></span> Content Strategy Consultant</li>
-                                                        <li><span class="newright-icon1"></span> Digital Transformation Advisor</li>
-                                                        <li><span class="newright-icon1"></span> Business Development & Strategy Manager</li>
+                                                        <li><span class="newright-icon1"></span> Marketing Analytics
+                                                            Manager</li>
+                                                        <li><span class="newright-icon1"></span> Content Strategy
+                                                            Consultant</li>
+                                                        <li><span class="newright-icon1"></span> Digital Transformation
+                                                            Advisor</li>
+                                                        <li><span class="newright-icon1"></span> Business Development &
+                                                            Strategy Manager</li>
                                                     </div>
                                                 </div>
                                             </ul>
                                             <p>
-                                                This programme also equips entrepreneurs and startup founders with the skills to scale their businesses through digital platforms.
+                                                This programme also equips entrepreneurs and startup founders with the
+                                                skills to scale their businesses through digital platforms.
                                             </p>
                                         </div>
                                     </div>
@@ -584,7 +659,10 @@
 
 
 
-                                                    <p>This course is ideal for mid-level professionals, managers, entrepreneurs, and marketing executives who want to enhance their digital marketing expertise while managing their careers.</p>
+                                                    <p>This course is ideal for mid-level professionals, managers,
+                                                        entrepreneurs, and marketing executives who want to enhance
+                                                        their digital marketing expertise while managing their careers.
+                                                    </p>
 
 
 
@@ -689,7 +767,8 @@
 
 
 
-                                                    <p>Yes, the PGDM Executive in Digital Marketing is AICTE-approved, ensuring credibility and nationwide recognition.</p>
+                                                    <p>Yes, the PGDM Executive in Digital Marketing is AICTE-approved,
+                                                        ensuring credibility and nationwide recognition.</p>
 
 
 
@@ -735,7 +814,9 @@
 
 
 
-                                                    <p>The course is completely online and self-paced, accessible through MITSDE’s LMS with recorded lectures and digital study materials.</p>
+                                                    <p>The course is completely online and self-paced, accessible
+                                                        through MITSDE’s LMS with recorded lectures and digital study
+                                                        materials.</p>
 
 
 
@@ -780,7 +861,9 @@
 
 
 
-                                                    <p>Yes. MITSDE offers placement guidance and career support services for learners, helping them connect with industry opportunities.</p>
+                                                    <p>Yes. MITSDE offers placement guidance and career support services
+                                                        for learners, helping them connect with industry opportunities.
+                                                    </p>
 
 
 
@@ -826,7 +909,8 @@
 
 
 
-                                                    <p>Graduation in any discipline from a recognized university with a minimum of five years of work experience.</p>
+                                                    <p>Graduation in any discipline from a recognized university with a
+                                                        minimum of five years of work experience.</p>
 
 
 
@@ -874,7 +958,9 @@
 
 
 
-                                                    <p>Yes. Scholarships are available for MIT Group alumni, defence personnel, and differently-abled learners as per MITSDE policy.</p>
+                                                    <p>Yes. Scholarships are available for MIT Group alumni, defence
+                                                        personnel, and differently-abled learners as per MITSDE policy.
+                                                    </p>
 
 
 

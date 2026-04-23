@@ -464,7 +464,7 @@
                                                     </thead>
                                                     <tbody>
                                                         <tr>
-                                                            <td>AIRC</td>
+                                                            <td>AIRCPC</td>
                                                             <td>AI Readiness Certificate + AI Productivity Certificate
                                                             </td>
                                                             <td>Non Credit</td>
