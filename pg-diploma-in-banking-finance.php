@@ -600,7 +600,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>4</td>
-                                                            <td>S2SF1</td>
+                                                            <td>S2C16</td>
                                                             <td>Financial Management</td>
                                                             <td>4 credits</td>
                                                         </tr>

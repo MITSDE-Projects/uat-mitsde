@@ -376,13 +376,13 @@
 
                                                         <tr>
                                                             <td>1</td>
-                                                            <td>S2C09</td>
+                                                            <td>S2C14</td>
                                                             <td>Research Methodology and Management Decision</td>
                                                             <td>4</td>
                                                         </tr>
                                                         <tr>
                                                             <td>2</td>
-                                                            <td>S2SF2</td>
+                                                            <td>S3W31</td>
                                                             <td>Strategic Cost Management </td>
                                                             <td>4</td>
                                                         </tr>
@@ -428,7 +428,7 @@
 
                             <li class="section hero10 p-3" style="list-style-type: none;">
                                 <?php include "pgdmexe-common-project-term.php" ?>
-                                
+
                                     <div class="alert brandcolor" role="alert"><b>Note :</b><br>
                                         <ul class="fin-feature2" style="list-style: none;">
                                             <li><span class="newright-icon1"></span> The above course curriculum is

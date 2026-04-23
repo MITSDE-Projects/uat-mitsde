@@ -371,7 +371,7 @@
 
                                                         <tr>
                                                             <td>1</td>
-                                                            <td>S2C09</td>
+                                                            <td>S2C14</td>
                                                             <td>Research Methodology and Management Decision</td>
                                                             <td>4</td>
                                                         </tr>
