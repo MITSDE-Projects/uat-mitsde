@@ -160,7 +160,7 @@ $dotamt[0];
                             $D_Specialization_ID = isset($D_Specializationinfo[0]) ? $D_Specializationinfo[0] : '';
                             $D_Specialization_Name = isset($D_Specializationinfo[1]) ? $D_Specializationinfo[1] : '';
                             /* ================= COURSE OVERRIDE FOR EX PROGRAM ================= */
-                            if ($course_id == "10" && $specialization_id == "31") {
+                            if ($course_id == "52" && $specialization_id == "31") {
                                 $course_id = "46";
                             }
                             $duration = $scourse['duration'];
