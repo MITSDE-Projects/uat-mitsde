@@ -377,7 +377,7 @@
                                                         <tr>
                                                             <td>2</td>
                                                             <td>S2SH1</td>
-                                                            <td>Human Resource management</td>
+                                                            <td>Human Resource Management</td>
                                                             <td>4</td>
                                                         </tr>
                                                         <tr>
@@ -395,7 +395,7 @@
                                                         <tr>
                                                             <td>5</td>
                                                             <td>S3SH01</td>
-                                                            <td>Strategic Human Resource management</td>
+                                                            <td>Strategic Human Resource Management</td>
                                                             <td>4</td>
                                                         </tr>
                                                         <tr>
