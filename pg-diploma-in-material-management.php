@@ -809,7 +809,7 @@
                                                         <tr>
                                                             <td>2</td>
                                                             <td>S2SL2</td>
-                                                            <td>Introduction to Logistics and Supply Chain Management - LAB (Credits = 3+1)t</td>
+                                                            <td>Introduction to Logistics and Supply Chain Management - LAB (Credits = 3+1)</td>
                                                             <td>4 credits</td>
                                                         </tr>
                                                         <tr>

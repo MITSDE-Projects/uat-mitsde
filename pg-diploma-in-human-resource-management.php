@@ -931,7 +931,7 @@
                                                         <tr>
                                                             <td>3</td>
                                                             <td>S4SH2</td>
-                                                            <td>Human Resource Information System</td>
+                                                            <td>Human Resource Information System  - LAB (Credits = 3+1)</td>
                                                             <td>4 credits</td>
                                                         </tr>
                                                         <tr>
