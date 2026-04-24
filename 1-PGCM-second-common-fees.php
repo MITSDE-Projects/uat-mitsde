@@ -64,7 +64,7 @@
 <div class="alert brandcolor" role="alert"><b>Note :</b><br>
     <ul class="fin-feature2" style="list-style: none;">
 
-        <li><strong>Students are required to pay an additional Exam Fee of ₹750 per subject and a Project Evaluation Fee of ₹2,000.</strong> </li>
+        <li><strong>Students are required to pay an additional Exam Fee of ₹750 per paper and a Project Evaluation Fee of ₹2,000.</strong> </li>
 
 
         <strong>For Installments</strong>
