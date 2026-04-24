@@ -6,16 +6,16 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <title>Business Analytics Specialization</title>
+    <title>Certification in Business Analytics Course | MITSDE India</title>
     <meta name="description"
-        content="Boost your career with MITSDE’s certification in project management course. Gain practical skills online and become industry-ready today." />
+        content="Boost your career with MITSDE Business Analytics Certification. Learn Excel, Power BI & data analysis with expert faculty and flexible learning. Enroll now!" />
 
     <meta name="keywords"
-        content="certification in project management course, project management certification, online project management course, MITSDE project management" />
+        content="business analytics certification, business analytics course online, certification in business analytics, online business analytics course India, data analytics certification course, business analytics training program, learn business analytics online, business analytics course with certificate, best business analytics certification India, MITSDE business analytics course" />
 
     <!-- CANONICAL TAG -->
 
-    <link rel="canonical" href="https://mitsde.com/certification-in-project-management" />
+    <link rel="canonical" href="https://mitsde.com/certification-in-business-analytics" />
 
     <!-- CANONICAL TAG -->
 
@@ -23,25 +23,25 @@
 
     <meta name="robots" content="index, follow">
 
-    <!-- OGP TAG -->
+     <!-- OGP TAG -->
 
-    <meta property="og:title" content="Business Analytics Specialization">
+    <meta property="og:title" content="Certification in Business Analytics Course | MITSDE India">
     <meta property="og:site_name" content="MIT School of Distance Education">
     <meta property="og:url" content="https://mitsde.com/certification-in-business-analytics">
     <meta property="og:description"
-        content="Boost your career with MITSDE’s certification in project management course. Gain practical skills online and become industry-ready today.">
+        content="Boost your career with MITSDE Business Analytics Certification. Learn Excel, Power BI & data analysis with expert faculty and flexible learning. Enroll now!">
     <meta property="og:type" content="website">
     <meta property="og:image"
-        content="https://mitsde.com/assets/images/course/cap/certification-in-project-management.jpg">
-
+      content="https://mitsde.com/assets/images/course/cap/bussiness.webp">
 
     <!-- / OG TAG -->
 
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="Business Analytics Specialization">
-    <meta name="twitter:description" content="Boost your career with MITSDE’s certification in project management course. Gain practical skills online and become industry-ready today.">
-    <meta name="twitter:image" content="https://mitsde.com/assets/images/course/cap/certification-in-project-management.jpg">
-    <meta name="twitter:image:alt" content="Business Analytics Specialization">
+    <meta name="twitter:title" content="Certification in Business Analytics Course | MITSDE India">
+    <meta name="twitter:description" content="Boost your career with MITSDE Business Analytics Certification. Learn Excel, Power BI & data analysis with expert faculty and flexible learning. Enroll now!">
+    <meta name="twitter:image" content="https://mitsde.com/assets/images/course/cap/bussiness.webp">
+    <meta name="twitter:image:alt" content="Certification in Business Analytics Course | MITSDE India">
+
 
 
     <!-- Page Title -->
@@ -63,19 +63,19 @@
         {
             "@context": "https://schema.org/",
             "@type": "Product",
-            "name": "Business Analytics Specialization",
-            "image": "https://mitsde.com/assets/images/course/cap/certification-in-project-management.jpg",
-            "description": "Boost your career with MITSDE’s certification in project management course. Gain practical skills online and become industry-ready today.",
+            "name": "Certification in Business Analytics Course | MITSDE India",
+            "image": "https://mitsde.com/assets/images/course/cap/bussiness.webp",
+            "description": "Boost your career with MITSDE Business Analytics Certification. Learn Excel, Power BI & data analysis with expert faculty and flexible learning. Enroll now!",
             "brand": {
                 "@type": "Brand",
                 "name": "MITSDE"
             },
             "offers": {
                 "@type": "Offer",
-                "url": "https://mitsde.com/certification-in-project-management",
+                "url": "https://mitsde.com/certification-in-business-analytics",
                 "priceCurrency": "INR",
                 "price": "25000",
-                "priceValidUntil": "2025-12-31",
+                "priceValidUntil": "2026-12-31",
                 "availability": "https://schema.org/InStock",
                 "itemCondition": "https://schema.org/NewCondition"
             },
@@ -102,8 +102,8 @@
                 {
                     "@type": "ListItem",
                     "position": 2,
-                    "name": "Top Online Professional Certification In Project Management",
-                    "item": "https://mitsde.com/certification-in-project-management"
+                    "name": "Business Analytics Specialization",
+                    "item": "https://mitsde.com/certification-in-business-analytics"
                 }
             ]
         }
@@ -112,84 +112,99 @@
     <!--  -->
 
     <script type="application/ld+json">
-        {
-            "@context": "https://schema.org",
-            "@type": "FAQPage",
-            "mainEntity": [{
-                    "@type": "Question",
-                    "name": "Why should I pursue a Certification in Project Management?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "This certification enhances your career prospects, boosts your earning potential, and helps you gain industry-recognized skills to manage projects efficiently."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "What is the duration of the Certification Course in Project Management?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "The duration varies, but most courses, like MITSDE’s online project management certification, can be completed in 6 months."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "Who can enroll in a Certification Course in Project Management?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Professionals in any industry, students, or anyone aspiring to become skilled project managers can enroll in this course."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "What are the benefits of pursuing a Certification in Project Management from MITSDE?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "MITSDE offers flexible online courses, expert mentorship, practical case studies, and globally recognized certifications tailored to modern project management practices."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "What are the eligibility criteria for a Certification Course in Project Management?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Most courses, including MITSDE, require a basic educational qualification like a bachelor’s degree. Some may also consider work experience beneficial but not mandatory."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "What skills can I develop with a Certification in Project Management?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "You’ll learn essential skills like risk management, time management, budgeting, leadership, stakeholder management, and the ability to use project management tools."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "How does MITSDE’s Professional Certification in Project Management differ from others?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "MITSDE provides an industry-relevant curriculum, self-paced learning modules, and practical insights to ensure students are job-ready upon completion."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "What career opportunities can I expect after completing the Certification Course in Project Management?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Graduates can explore roles such as Project Manager, Operations Manager, Program Manager, or Project Consultant across industries like IT, construction, and manufacturing."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "Is MITSDE’s Certification in Project Management recognized globally?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Yes, MITSDE’s certifications are industry-recognized and globally accepted, giving you a competitive edge in international job markets."
-                    }
-                }
-            ]
-        }
-    </script>
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "What is LMS?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "LMS (Learning Management System) is an online platform where you can access all your learning content, including videos, study material, and assessments."
+    }
+  },{
+    "@type": "Question",
+    "name": "Who can enroll for this course?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Students who have completed 10th or 12th and are interested in learning management concepts."
+    }
+  },{
+    "@type": "Question",
+    "name": "What is the eligibility criteria?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Minimum qualification: 10th or 12th pass."
+    }
+  },{
+    "@type": "Question",
+    "name": "What is the duration of the course?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The course duration is 6 months (self-paced)."
+    }
+  },{
+    "@type": "Question",
+    "name": "Is the program live or recorded?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The program is fully self-paced with recorded video lectures, allowing flexibility to learn anytime."
+    }
+  },{
+    "@type": "Question",
+    "name": "What study material will I get?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Learners will get access to:
+Video lectures
+E-Book
+Presentations (PPTs)"
+    }
+  },{
+    "@type": "Question",
+    "name": "How long can I access the content?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "You will have unlimited access for 6 months from the date of registration."
+    }
+  },{
+    "@type": "Question",
+    "name": "What is the passing criteria?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "You need to score minimum 50% in assessments."
+    }
+  },{
+    "@type": "Question",
+    "name": "What type of assessments are conducted?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Assessments are objective (MCQ-based)."
+    }
+  },{
+    "@type": "Question",
+    "name": "How many assessments are there?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "There are 2 assessments for each subject/module and 1 final assignment."
+    }
+  },{
+    "@type": "Question",
+    "name": "How many attempts are allowed?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "You get 3 attempts per assessment."
+    }
+  },{
+    "@type": "Question",
+    "name": "Are there any live projects?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "No, this program focuses on foundational learning and conceptual clarity."
+    }
+  }]
+}
+</script>
 
     <script type="application/ld+json">
         {
@@ -275,7 +290,7 @@
                                 <img src="assets/images/course/pgdm/Project-Management-icon1.jpg" alt="Project Management Icon 1">
                             </div>
                             <img src="assets/images/course/cap/bussiness.webp"
-                                class="banner-img" title="Project Management Certification" alt="certification-in-project-management">
+                                class="banner-img" title="Business Analytics Certification" alt="certification-in-business-analytics">
                             <div class="stc-det course-sec inner-sec">
                                 <img src="assets/images/course/pgdm/PGDM-Operations-Management_Icon-1.jpg" alt="PGDM Operations Management Icon 1">
                             </div>
