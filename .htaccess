@@ -4,3 +4,8 @@ RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}.php -f
 RewriteRule ^([^\.]+)$ $1.php [L]
+
+# Block Google Analytics requests
+RewriteCond %{REQUEST_URI} ^/gtag/js [OR]
+RewriteCond %{HTTP_HOST} ^www\.googletagmanager\.com$ [NC]
+RewriteRule .* - [F,L]
