@@ -1,9 +1,9 @@
 RewriteEngine On
-RewriteBase /online-pgdm-pune/
+RewriteBase /online-pgdm-course-for-working-professionals/
 
 # Redirect index.html → clean URL
 RewriteCond %{THE_REQUEST} /index\.html [NC]
-RewriteRule ^index\.html$ /online-pgdm-pune/ [R=301,L]
+RewriteRule ^index\.html$ /online-pgdm-course-for-working-professionals/ [R=301,L]
 
 # Default index files
 DirectoryIndex index.php index.html index.htm
