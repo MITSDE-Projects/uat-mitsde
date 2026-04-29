@@ -72,18 +72,29 @@
 
     <!-- / OG TAG -->
 
+    <!-- Page Title -->
     <link rel="icon" type="image/png" href="assets/images/favicon-mit.ico" />
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
     <link rel="stylesheet" href="assets/css/bootstrap-select.min.css" />
-    <link rel="stylesheet" href="assets/css/slick.min.css" />
-    <link rel="stylesheet" href="assets/css/fonts.css" type="text/css" />
-    <link rel="stylesheet" href="assets/css/style.css" type="text/css" />
-    <link rel="stylesheet" href="assets/css/course-common-internal.css" type="text/css" />
-    <link rel="stylesheet" href="assets/css/master-page.css" type="text/css" />
-    <link rel="stylesheet" href="assets/css/city-page.css" type="text/css" />
     <!-- font awesome css -->
-
     <link rel="stylesheet" href="assets/fontawesome/css/all.min.css">
+    <!-- Preload CSS (Non-blocking) -->
+    <link rel="preload" href="assets/css/slick.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="preload" href="assets/css/fonts.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="preload" href="assets/css/style.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="preload" href="assets/css/course-common-internal.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="preload" href="assets/css/master-page.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="preload" href="assets/css/city-page.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+
+    <!-- Fallback (Loads CSS if JS disabled) -->
+    <noscript>
+        <link rel="stylesheet" href="assets/css/slick.min.css">
+        <link rel="stylesheet" href="assets/css/fonts.css">
+        <link rel="stylesheet" href="assets/css/style.css">
+        <link rel="stylesheet" href="assets/css/course-common-internal.css">
+        <link rel="stylesheet" href="assets/css/master-page.css">
+        <link rel="stylesheet" href="assets/css/city-page.css">
+    </noscript>
     <!--API for Queck contact----->
     <script src="assets/js/api/jquery-1.10.2.min.js"></script>
     <script type="text/javascript" src="assets/js/api/validation.js" charset="UTF-8"></script>
@@ -202,7 +213,7 @@
                             <div class="stc-det student-sec inner-sec">
                                 <img src="assets/images/progress.svg" alt="Progress indicator icon">
                             </div>
-                            <img src="assets/images/city/digital-marketing-course-in-pune.jpg" class="banner-img"
+                            <img src="assets/images/city/digital-marketing-course-in-pune.jpg" fetchpriority="high" class="banner-img"
                                 alt="Ai Digital Marketing Course in Pune, Maharashtra | Fees/Placements">
                             <div class="stc-det course-sec inner-sec">
                                 <img src="assets/images/walet.svg" alt="Wallet icon for payment">
