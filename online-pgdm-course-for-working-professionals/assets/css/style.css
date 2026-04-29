@@ -2080,7 +2080,6 @@ background: linear-gradient(0deg,rgba(253, 101, 0, 1) 0%, rgba(254, 185, 139, 1)
 
 .slider-right .slide-track {
   animation: scrollRight 20s linear infinite;
-  width: calc(200px * 14); /* slide-right: 7 x 2 */
 }
 
 @keyframes scrollLeft {
@@ -2169,8 +2168,8 @@ background: linear-gradient(0deg,rgba(253, 101, 0, 1) 0%, rgba(254, 185, 139, 1)
   }
 
   .slide-track {
-    display: flex;
-    width: calc(200px * 16);
+    width: auto;
+    /* remove fixed width */
   }
 
   .slide-track img {
