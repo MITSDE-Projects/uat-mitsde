@@ -2168,8 +2168,8 @@ background: linear-gradient(0deg,rgba(253, 101, 0, 1) 0%, rgba(254, 185, 139, 1)
   }
 
   .slide-track {
-    width: auto;
-    /* remove fixed width */
+    display: flex;
+    width: calc(200px * 8);
   }
 
   .slide-track img {
