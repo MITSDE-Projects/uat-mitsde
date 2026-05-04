@@ -132,10 +132,305 @@
         <section class="about-banner1" style="margin-top: 100px;">
             <div class="container mt-2">
                 <div class="row">
-                    <h1>Contact Sessions March 2026 </h1>
+                    <h1>Contact Sessions April 2026 </h1>
 
 
                     <div class="col-md-12 curriculum">
+
+                        <!-- May  2026  -->
+                        <h3 class="module-title-new"><strong> Cohort Live session </strong></h3>
+
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th>Sr No</th>
+                                    <th>Subject</th>
+                                    <th>Program</th>
+                                    <th>Faculty Name</th>
+                                    <th>Date</th>
+                                    <th>Time</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <th colspan="14"
+                                    style="text-align:center; background-color:#F47521; color:#fff; font-size:16px;">
+                                    <strong>C14 Sem-1</strong>
+                                </th>
+                                <tr>
+                                    <td>1</td>
+                                    <td>Business Analytics</td>
+                                    <td>PGCM-BA & PGDM Exe</td>
+                                    <td>Sonali Kulkarni</td>
+                                    <td>16-Apr-26</td>
+                                    <td>6:00 - 8:00 pm</td>
+                                </tr>
+
+                                <tr>
+                                    <td>2</td>
+                                    <td>Managerial Economics</td>
+                                    <td>PGDM</td>
+                                    <td>Rajesh Raut</td>
+                                    <td>16-Apr-26</td>
+                                    <td>6:00 - 8:00 pm</td>
+                                </tr>
+
+                                <tr>
+                                    <td>3</td>
+                                    <td>Accounting for Managers</td>
+                                    <td>PGDM & PGDBA</td>
+                                    <td>SP Ghodake</td>
+                                    <td>17-Apr-26</td>
+                                    <td>6:00 - 8:00 pm</td>
+                                </tr>
+
+                                <tr>
+                                    <td>4</td>
+                                    <td>Indian Economy and Policy</td>
+                                    <td>PGDBA</td>
+                                    <td>Rajesh Raut</td>
+                                    <td>23-Apr-26</td>
+                                    <td>6:00 - 8:00 pm</td>
+                                </tr>
+
+                                <tr>
+                                    <td>5</td>
+                                    <td>Foundations of Business Management</td>
+                                    <td>PGCM & PGDM Exe</td>
+                                    <td>Rachna Arora</td>
+                                    <td>24-Apr-26</td>
+                                    <td>6:00 - 8:00 pm</td>
+                                </tr>
+
+                                <tr>
+                                    <td>6</td>
+                                    <td>Principles of Management</td>
+                                    <td>PGDM & PGDBA</td>
+                                    <td>Bonnie Rajesh</td>
+                                    <td>30-Apr-26</td>
+                                    <td>6:00 - 8:00 pm</td>
+                                </tr>
+
+                                <tr>
+                                    <td>7</td>
+                                    <td>Project Management</td>
+                                    <td>PGDM Exe</td>
+                                    <td>Mangesh Dande</td>
+                                    <td>30-Apr-26</td>
+                                    <td>6:00 - 8:00 pm</td>
+                                </tr>
+
+                                <th colspan="21"
+                                    style="text-align:center; background-color:#F47521; color:#fff; font-size:16px;">
+                                    <strong>C13 Sem-1</strong>
+                                </th>
+
+                                <tr>
+                                    <td>8</td>
+                                    <td>Foundations of Business Management</td>
+                                    <td>PGCM & PGDM Exe</td>
+                                    <td>Rajesh Raut</td>
+                                    <td>2-Apr-26</td>
+                                    <td>6:00 - 8:00 pm</td>
+                                </tr>
+
+                                <th colspan="21"
+                                    style="text-align:center; background-color:#F47521; color:#fff; font-size:16px;">
+                                    <strong>C12 Sem-2</strong>
+                                </th>
+
+                                <tr>
+                                    <td>9</td>
+                                    <td>Lean Management System</td>
+                                    <td>PGDM Exe-TOM and PGDM -MaM, OM, PM</td>
+                                    <td>Mangesh Dande</td>
+                                    <td>8-Apr-26</td>
+                                    <td>6:00 - 8:00 pm</td>
+                                </tr>
+
+                                <tr>
+                                    <td>10</td>
+                                    <td>Financial Management</td>
+                                    <td>PGDM-FM, B&FS & PGDM Exe-FM & PGDBA</td>
+                                    <td>Rajesh Raut</td>
+                                    <td>9-Apr-26</td>
+                                    <td>6:00 - 8:00 pm</td>
+                                </tr>
+
+                                <tr>
+                                    <td>11</td>
+                                    <td>Warehouse Management</td>
+                                    <td>PGDM Exe-GL&SCM, MaM and PGDM- L&SCM</td>
+                                    <td>Mangesh Dande</td>
+                                    <td>10-Apr-26</td>
+                                    <td>6:00 - 8:00 pm</td>
+                                </tr>
+
+                                <tr>
+                                    <td>12</td>
+                                    <td>Operations Management</td>
+                                    <td>PGDM Exe-TOM, MaM and PGDM -OM</td>
+                                    <td>Mangesh Dande</td>
+                                    <td>16-Apr-26</td>
+                                    <td>6:00 - 8:00 pm</td>
+                                </tr>
+
+                                <tr>
+                                    <td>13</td>
+                                    <td>Project Analysis and Integration Management</td>
+                                    <td>PGDM Exe-MPM</td>
+                                    <td>Mayank Parkhi</td>
+                                    <td>16-Apr-26</td>
+                                    <td>6:00 - 7:00 pm</td>
+                                </tr>
+
+                                <tr>
+                                    <td>14</td>
+                                    <td>Production, Planning and Control</td>
+                                    <td>PGDM Exe-TOM, GL&SCM</td>
+                                    <td>Mangesh Dande</td>
+                                    <td>22-Apr-26</td>
+                                    <td>6:00 - 7:00 pm</td>
+                                </tr>
+
+                                <tr>
+                                    <td>15</td>
+                                    <td>Strategic Human Resource Management</td>
+                                    <td>PGDM Exe-HCM</td>
+                                    <td>Rachna Arora</td>
+                                    <td>22-Apr-26</td>
+                                    <td>6:00 - 7:00 pm</td>
+                                </tr>
+
+                                <tr>
+                                    <td>16</td>
+                                    <td>Financial Reporting, Statement and Analysis</td>
+                                    <td>PGDM- All</td>
+                                    <td>Rajesh Raut</td>
+                                    <td>22-Apr-26</td>
+                                    <td>6:00 - 8:00 pm</td>
+                                </tr>
+
+                                <tr>
+                                    <td>17</td>
+                                    <td>Inventory Management</td>
+                                    <td>PGDM Exe-GL&SCM, MaM</td>
+                                    <td>Mangesh Dande</td>
+                                    <td>24-Apr-26</td>
+                                    <td>6:00 - 7:00 pm</td>
+                                </tr>
+
+                                <tr>
+                                    <td>18</td>
+                                    <td>Human Resource Management</td>
+                                    <td>PGDM-HRM & PGDBA & PGDM-Exe-HCM</td>
+                                    <td>Rachna Arora</td>
+                                    <td>29-Apr-26</td>
+                                    <td>6:00 - 8:00 pm</td>
+                                </tr>
+
+                                <th colspan="21"
+                                    style="text-align:center; background-color:#F47521; color:#fff; font-size:16px;">
+                                    <strong>C11 Sem-2</strong>
+                                </th>
+
+                                <tr>
+                                    <td>19</td>
+                                    <td>Financial Reporting, Statement and Analysis</td>
+                                    <td>PGDM- All</td>
+                                    <td>Rajesh Raut</td>
+                                    <td>8-Apr-26</td>
+                                    <td>6:00 - 8:00 pm</td>
+                                </tr>
+
+                                <tr>
+                                    <td>20</td>
+                                    <td>Financial Analytics</td>
+                                    <td>PGCM-BA & PGDM Exe-B&FS</td>
+                                    <td>Rohan Bhase</td>
+                                    <td>8-Apr-26</td>
+                                    <td>7:00 - 8:00 pm</td>
+                                </tr>
+
+                                <tr>
+                                    <td>21</td>
+                                    <td>Integrated Marketing Communication</td>
+                                    <td>PGCM-DM & PGDM Exe-SMM</td>
+                                    <td>Christopher Dias</td>
+                                    <td>10-Apr-26</td>
+                                    <td>6:00 - 7:00 pm</td>
+                                </tr>
+
+                                <tr>
+                                    <td>22</td>
+                                    <td>HR Analytics</td>
+                                    <td>PGDM Exe-HCM</td>
+                                    <td>Sharayu Patil</td>
+                                    <td>10-Apr-26</td>
+                                    <td>7:00 - 8:00 pm</td>
+                                </tr>
+
+                                <tr>
+                                    <td>23</td>
+                                    <td>Data Analytics and Visualization</td>
+                                    <td>PGDM- IT</td>
+                                    <td>Jyoti Yemul</td>
+                                    <td>16-Apr-26</td>
+                                    <td>6:00 - 8:00 pm</td>
+                                </tr>
+
+                                <tr>
+                                    <td>24</td>
+                                    <td>Product and Brand Management</td>
+                                    <td>PGCM-DM & PGDM Exe-SMM</td>
+                                    <td>Christopher Dias</td>
+                                    <td>17-Apr-26</td>
+                                    <td>6:00 - 7:00 pm</td>
+                                </tr>
+
+                                <tr>
+                                    <td>25</td>
+                                    <td>Predictive Modelling</td>
+                                    <td>PGCM-BA</td>
+                                    <td>Lalit Prasad</td>
+                                    <td>23-Apr-26</td>
+                                    <td>7:00 - 8:00 pm</td>
+                                </tr>
+
+                            </tbody>
+
+
+                        </table>
+                        <br>
+
+                        <h3 class="module-title"><strong> SynergySphere</strong></h3>
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th>Sr No</th>
+                                    <th>Company's Name</th>
+                                    <th>Engagement Activity</th>
+                                    <th>Domain</th>
+                                    <th>Industry/Sector</th>
+                                    <th>Speaker - Webinar</th>
+                                    <th>Topic - Webinar</th>
+                                    <th>Date of Webinar</th>
+                                </tr>
+
+                                <tr>
+                                    <td>1</td>
+                                    <td>MITSDE</td>
+                                    <td>SynergySphere</td>
+                                    <td>Operations Management</td>
+                                    <td>Value Chain Excellence, Smar Manufacturing, Operational Excellence</td>
+                                    <td>Mr. Aniket Khasnis</td>
+                                    <td>SynergySphere_Understanding the Value Stream Mapping in Simple Language</td>
+                                    <td>11-Apr-26</td>
+                                </tr>
+
+                            </thead>
+                            </tbody>
+                        </table>
+                        <!-- May  2026  -->
 
                         <!-- April  2026  -->
                         <h3 class="module-title-new"><strong> Cohort Live session </strong></h3>
@@ -152,7 +447,8 @@
                                 </tr>
                             </thead>
                             <tbody>
-                                <th colspan="14" style="text-align:center; background-color:#F47521; color:#fff; font-size:16px;">
+                                <th colspan="14"
+                                    style="text-align:center; background-color:#F47521; color:#fff; font-size:16px;">
                                     <strong>C13 Sem-1</strong>
                                 </th>
                                 <tr>
@@ -238,14 +534,16 @@
 
                                 <tr>
                                     <td>10</td>
-                                    <td>Legal and Business Environment (Micro and Macro) / Legal Aspects of Business</td>
+                                    <td>Legal and Business Environment (Micro and Macro) / Legal Aspects of Business
+                                    </td>
                                     <td>PGCM, PGDM Exe, PGDM & PGDBA</td>
                                     <td>Yashi Khare</td>
                                     <td>28-Mar-26</td>
                                     <td>6:00 - 9:00 pm</td>
                                 </tr>
 
-                                <th colspan="21" style="text-align:center; background-color:#F47521; color:#fff; font-size:16px;">
+                                <th colspan="21"
+                                    style="text-align:center; background-color:#F47521; color:#fff; font-size:16px;">
                                     <strong>C11 Sem-2</strong>
                                 </th>
 
@@ -381,7 +679,8 @@
                                 </tr>
                             </thead>
                             <tbody>
-                                <th colspan="14" style="text-align:center; background-color:#F47521; color:#fff; font-size:16px;">
+                                <th colspan="14"
+                                    style="text-align:center; background-color:#F47521; color:#fff; font-size:16px;">
                                     <strong>C13 Sem-1</strong>
                                 </th>
                                 <tr>
@@ -504,7 +803,8 @@
 
 
 
-                                <th colspan="21" style="text-align:center; background-color:#F47521; color:#fff; font-size:16px;">
+                                <th colspan="21"
+                                    style="text-align:center; background-color:#F47521; color:#fff; font-size:16px;">
                                     <strong>C12 Sem-1 & Industry Expert</strong>
                                 </th>
 
@@ -731,7 +1031,8 @@
                                     <td>All</td>
                                     <td>All</td>
                                     <td>MITSDE Learners</td>
-                                    <td>Debate on Do Employability Skills Matter More Than Technical Skills in Today’s Job Market?</td>
+                                    <td>Debate on Do Employability Skills Matter More Than Technical Skills in Today’s
+                                        Job Market?</td>
                                     <td>14-Feb-26</td>
                                 </tr>
 
@@ -769,7 +1070,8 @@
                                 </tr>
                             </thead>
                             <tbody>
-                                <th colspan="9" style="text-align:center; background-color:#F47521; color:#fff; font-size:16px;">
+                                <th colspan="9"
+                                    style="text-align:center; background-color:#F47521; color:#fff; font-size:16px;">
                                     <strong>C13 Sem-1</strong>
                                 </th>
                                 <tr>
@@ -804,7 +1106,8 @@
 
                                 <tr>
                                     <td>4</td>
-                                    <td>Legal and Business Environment (Micro and Macro) / Legal Aspects of Business</td>
+                                    <td>Legal and Business Environment (Micro and Macro) / Legal Aspects of Business
+                                    </td>
                                     <td>PGCM, PGDM Exe, PGDM, PGDBA</td>
                                     <td>Yashi Khare</td>
                                     <td>17-Jan-26</td>
@@ -850,7 +1153,8 @@
 
 
 
-                                <th colspan="6" style="text-align:center; background-color:#F47521; color:#fff; font-size:16px;">
+                                <th colspan="6"
+                                    style="text-align:center; background-color:#F47521; color:#fff; font-size:16px;">
                                     <strong>C12 Sem-1 & Industry Expert</strong>
                                 </th>
 
@@ -881,7 +1185,8 @@
                                     <td>3:00 - 4:00 pm</td>
                                 </tr>
 
-                                <th colspan="17" style="text-align:center; background-color:#F47521; color:#fff; font-size:16px;">
+                                <th colspan="17"
+                                    style="text-align:center; background-color:#F47521; color:#fff; font-size:16px;">
                                     <strong>C11 Sem-2</strong>
                                 </th>
 
@@ -1099,7 +1404,8 @@
                                 </tr>
                             </thead>
                             <tbody>
-                                <th colspan="10" style="text-align:center; background-color:#F47521; color:#fff; font-size:16px;">
+                                <th colspan="10"
+                                    style="text-align:center; background-color:#F47521; color:#fff; font-size:16px;">
                                     <strong>C12 Sem-1</strong>
                                 </th>
                                 <tr>
@@ -1194,7 +1500,8 @@
 
 
 
-                                <th colspan="8" style="text-align:center; background-color:#F47521; color:#fff; font-size:16px;">
+                                <th colspan="8"
+                                    style="text-align:center; background-color:#F47521; color:#fff; font-size:16px;">
                                     <strong>C1 to C6 & C8 to C10</strong>
                                 </th>
 
@@ -1337,7 +1644,8 @@
                                 </tr>
                             </thead>
                             <tbody>
-                                <th colspan="14" style="text-align:center; background-color:#F47521; color:#fff; font-size:16px;">
+                                <th colspan="14"
+                                    style="text-align:center; background-color:#F47521; color:#fff; font-size:16px;">
                                     <strong>C12 Sem-1</strong>
                                 </th>
                                 <tr>
@@ -1396,7 +1704,8 @@
 
                                 <tr>
                                     <td>7</td>
-                                    <td>Legal and Business Environment (Micro and Macro) / Legal Aspects of Business</td>
+                                    <td>Legal and Business Environment (Micro and Macro) / Legal Aspects of Business
+                                    </td>
                                     <td>PGCM, PGDM Exe, PGDM & PGDBA</td>
                                     <td>Prof. Yashi Khare</td>
                                     <td>08-Nov-25</td>
@@ -1458,7 +1767,8 @@
                                 </tr>
 
 
-                                <th colspan="15" style="text-align:center; background-color:#F47521; color:#fff; font-size:16px;">
+                                <th colspan="15"
+                                    style="text-align:center; background-color:#F47521; color:#fff; font-size:16px;">
                                     <strong>C1 to C6 - Sem 3 & C8 to C10 Sem-2</strong>
                                 </th>
 
@@ -1656,7 +1966,8 @@
                                 </tr>
                             </thead>
                             <tbody>
-                                <th colspan="6" style="text-align:center; background-color:#F47521; color:#fff; font-size:16px;">
+                                <th colspan="6"
+                                    style="text-align:center; background-color:#F47521; color:#fff; font-size:16px;">
                                     <strong>C12 Sem-1</strong>
                                 </th>
                                 <tr>
@@ -1700,7 +2011,8 @@
                                     <td>6:00 - 8:00 pm</td>
                                 </tr>
 
-                                <th colspan="6" style="text-align:center; background-color:#F47521; color:#fff; font-size:16px;">
+                                <th colspan="6"
+                                    style="text-align:center; background-color:#F47521; color:#fff; font-size:16px;">
                                     <strong>C11 Sem-1</strong>
                                 </th>
 
@@ -1722,14 +2034,16 @@
                                 </tr>
                                 <tr>
                                     <td>8</td>
-                                    <td>Legal Aspects of Business / Legal and Business Environment (Micro and Macro)</td>
+                                    <td>Legal Aspects of Business / Legal and Business Environment (Micro and Macro)
+                                    </td>
                                     <td>PGCM, PGDM Exe, PGDM & PGDBA</td>
                                     <td>Yashi Khare</td>
                                     <td>11-Oct-25</td>
                                     <td>6:00 - 9:00 pm</td>
                                 </tr>
 
-                                <th colspan="6" style="text-align:center; background-color:#F47521; color:#fff; font-size:16px;">
+                                <th colspan="6"
+                                    style="text-align:center; background-color:#F47521; color:#fff; font-size:16px;">
                                     <strong>C1 to C6 & C8 to C10</strong>
                                 </th>
 
@@ -1752,7 +2066,8 @@
                                 <tr>
                                     <td>11</td>
                                     <td>Product and Brand Management</td>
-                                    <td>PGCM-DM & PGDM Exe-SMM - Sem 2<br>PGDM Sem 3 - Marketing Management<br>PGDBA Sem 3 - Marketing Management</td>
+                                    <td>PGCM-DM & PGDM Exe-SMM - Sem 2<br>PGDM Sem 3 - Marketing Management<br>PGDBA Sem
+                                        3 - Marketing Management</td>
                                     <td>Christopher Dias</td>
                                     <td>09-Oct-25</td>
                                     <td>7:00 - 8:00 pm</td>
@@ -1784,7 +2099,8 @@
                                 <tr>
                                     <td>15</td>
                                     <td>Integrated Marketing Communication</td>
-                                    <td>PGCM-DM & PGDM Exe-SMM<br>PGDM Sem 3 - Marketing Management<br>PGDBA Sem 3 - Marketing Management</td>
+                                    <td>PGCM-DM & PGDM Exe-SMM<br>PGDM Sem 3 - Marketing Management<br>PGDBA Sem 3 -
+                                        Marketing Management</td>
                                     <td>Christopher Dias</td>
                                     <td>15-Oct-25</td>
                                     <td>7:00 - 8:00 pm</td>
@@ -1800,7 +2116,8 @@
                                 <tr>
                                     <td>17</td>
                                     <td>Strategic Cost Management</td>
-                                    <td>PGDM Exe-B&FS<br>PGDM Sem 3 - Finance Management and Banking & Financial Services<br>PGDBA Sem 3 - Finance Management</td>
+                                    <td>PGDM Exe-B&FS<br>PGDM Sem 3 - Finance Management and Banking & Financial
+                                        Services<br>PGDBA Sem 3 - Finance Management</td>
                                     <td>Bhavna Dadhich</td>
                                     <td>15-Oct-25</td>
                                     <td>7:00 - 8:00 pm</td>
@@ -2456,7 +2773,8 @@
                                     <td>All</td>
                                     <td>Skill Development</td>
                                     <td>Mangesh Dande</td>
-                                    <td>MITSDE LABS_Supply Chain Analytics/ Achieving Supply Chain Integration/ Emerging Trends in Supply Chain and Logistics</td>
+                                    <td>MITSDE LABS_Supply Chain Analytics/ Achieving Supply Chain Integration/ Emerging
+                                        Trends in Supply Chain and Logistics</td>
                                     <td>17-Aug-25</td>
                                 </tr>
                                 <tr>
@@ -2920,7 +3238,8 @@
                                     <td>All</td>
                                     <td>Skill Development</td>
                                     <td>Dilip</td>
-                                    <td>Risk Management & Predictive Analytics, and End-to-End Digital Supply Chain Strategy</td>
+                                    <td>Risk Management & Predictive Analytics, and End-to-End Digital Supply Chain
+                                        Strategy</td>
                                     <td>13-Jul-25</td>
                                 </tr>
                                 <tr>
@@ -3224,7 +3543,8 @@
                                     <td>All</td>
                                     <td>Skill Development</td>
                                     <td>Dilip</td>
-                                    <td>MITSDE-Bootcamp_Analytics for C&PME - Predictive Analytics & AI in Project Management</td>
+                                    <td>MITSDE-Bootcamp_Analytics for C&PME - Predictive Analytics & AI in Project
+                                        Management</td>
                                     <td>08-June-25</td>
                                 </tr>
                                 <tr>
@@ -3244,7 +3564,8 @@
                                     <td>All</td>
                                     <td>Skill Development</td>
                                     <td>Dilip</td>
-                                    <td>MITSDE-Bootcamp_Inventory Optimization & Management, Logistics & Transportation Analytics.</td>
+                                    <td>MITSDE-Bootcamp_Inventory Optimization & Management, Logistics & Transportation
+                                        Analytics.</td>
                                     <td>29-June-25</td>
                                 </tr>
 
@@ -3548,7 +3869,8 @@
                                     <td>All</td>
                                     <td>Skill Development</td>
                                     <td>Dilip</td>
-                                    <td>MITSDE-Bootcamp_Analytics for Construction &amp; Project Management Excellence</td>
+                                    <td>MITSDE-Bootcamp_Analytics for Construction &amp; Project Management Excellence
+                                    </td>
                                     <td>18-May-25</td>
                                 </tr>
                                 <tr>
@@ -3558,7 +3880,8 @@
                                     <td>All</td>
                                     <td>Skill Development</td>
                                     <td>Dilip</td>
-                                    <td>MITSDE-BootcampAnalytics for Construction &amp; Project Management Excellence – Task Prioritization &amp; Re</td>
+                                    <td>MITSDE-BootcampAnalytics for Construction &amp; Project Management Excellence –
+                                        Task Prioritization &amp; Re</td>
                                     <td>25-May-25</td>
                                 </tr>
 
@@ -3588,7 +3911,8 @@
                                     <td>All</td>
                                     <td>Skill Development</td>
                                     <td>Niranjan Ingle</td>
-                                    <td>Synergy Sphere_Understanding Startups: How Ideas Grow into Successful Businesses!</td>
+                                    <td>Synergy Sphere_Understanding Startups: How Ideas Grow into Successful
+                                        Businesses!</td>
                                     <td>10-May-25</td>
                                 </tr>
                                 <tr>
@@ -3900,7 +4224,8 @@
                                     <td>All</td>
                                     <td>Skill Development</td>
                                     <td>Stephen Rufus</td>
-                                    <td>MITSDE-Synergy Sphere_Green & Smart Buildings - Innovations for a Sustainable Future!</td>
+                                    <td>MITSDE-Synergy Sphere_Green & Smart Buildings - Innovations for a Sustainable
+                                        Future!</td>
                                     <td>5-Apr-25</td>
                                 </tr>
                                 <tr>
@@ -3910,7 +4235,8 @@
                                     <td>All</td>
                                     <td>Skill Development</td>
                                     <td>Shantanu Kolhatkar</td>
-                                    <td>MITSDE -Synergy Sphere_Being Professional: Essential Skill for Workplace Success!</td>
+                                    <td>MITSDE -Synergy Sphere_Being Professional: Essential Skill for Workplace
+                                        Success!</td>
                                     <td>12-Apr-25</td>
                                 </tr>
 
@@ -3984,7 +4310,8 @@
                                     <td>All</td>
                                     <td>Skill Development</td>
                                     <td>Mangesh Dande</td>
-                                    <td>MITSDE LABS_Supply Chain Analytics/Emerging Trends in SCM& Logistics/Achieving Supply Chain Integration</td>
+                                    <td>MITSDE LABS_Supply Chain Analytics/Emerging Trends in SCM& Logistics/Achieving
+                                        Supply Chain Integration</td>
                                     <td>20-Apr-25</td>
                                 </tr>
                                 <tr>
@@ -4243,7 +4570,8 @@
                                     <td>All</td>
                                     <td>Skill Development</td>
                                     <td>Mahaveer MV</td>
-                                    <td>MITSDE-Bootcamp_AI-Powered Website Creation: Simplifying Web Design (Series #3)</td>
+                                    <td>MITSDE-Bootcamp_AI-Powered Website Creation: Simplifying Web Design (Series #3)
+                                    </td>
                                     <td>10-Mar-25</td>
                                 </tr>
                                 <tr>
@@ -4263,7 +4591,8 @@
                                     <td>All</td>
                                     <td>Skill Development</td>
                                     <td>Mahaveer MV</td>
-                                    <td>MITSDE- Bootcamp_Email Marketing Fundamentals: Core Concepts & Best Practices</td>
+                                    <td>MITSDE- Bootcamp_Email Marketing Fundamentals: Core Concepts & Best Practices
+                                    </td>
                                     <td>23-Mar-25</td>
                                 </tr>
 
@@ -4293,7 +4622,8 @@
                                     <td>All</td>
                                     <td>Skill Development</td>
                                     <td>Neelanjana Choudhary</td>
-                                    <td>Thriving Under Pressure: Mastering Work & Learning in the Early Career Journey</td>
+                                    <td>Thriving Under Pressure: Mastering Work & Learning in the Early Career Journey
+                                    </td>
                                     <td>8-Mar-25</td>
                                 </tr>
                                 <tr>
@@ -4303,7 +4633,8 @@
                                     <td>All</td>
                                     <td>Skill Development</td>
                                     <td>Farheen Tausif Khan</td>
-                                    <td>MITSDE-Synergy Sphere_AI in Accounting: The Future of Finance & Administration!</td>
+                                    <td>MITSDE-Synergy Sphere_AI in Accounting: The Future of Finance & Administration!
+                                    </td>
                                     <td>22-Mar-25</td>
                                 </tr>
 
@@ -4949,7 +5280,8 @@
                                     <td>All</td>
                                     <td>Skill Development</td>
                                     <td>Nema Buch</td>
-                                    <td>MITSDE-Bootcamp_Personal Finance & Goal Setting | Budgeting for Success | Basics of Investments</td>
+                                    <td>MITSDE-Bootcamp_Personal Finance & Goal Setting | Budgeting for Success | Basics
+                                        of Investments</td>
                                     <td>11-Jan-25</td>
                                 </tr>
                                 <tr>
@@ -4969,7 +5301,8 @@
                                     <td>All</td>
                                     <td>Skill Development</td>
                                     <td>Nema Buch</td>
-                                    <td>MITSDE_Bootcamp-Retirement Planning Essentials, Tax-Saving Strategies, and Advanced Personal Finance Techniques</td>
+                                    <td>MITSDE_Bootcamp-Retirement Planning Essentials, Tax-Saving Strategies, and
+                                        Advanced Personal Finance Techniques</td>
                                     <td>19-Jan-25</td>
                                 </tr>
 
@@ -5001,7 +5334,8 @@
                                     <td>All</td>
                                     <td>Skill Development</td>
                                     <td>Amarja Vaidya</td>
-                                    <td>MITSDE-Synergy Sphere - Speak, Lead, Achieve: The Importance of Communication in Leadership.</td>
+                                    <td>MITSDE-Synergy Sphere - Speak, Lead, Achieve: The Importance of Communication in
+                                        Leadership.</td>
                                     <td>11-Jan-25</td>
                                 </tr>
                                 <tr>
