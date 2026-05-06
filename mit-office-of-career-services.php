@@ -75,17 +75,6 @@
                         </div>
 
                         <div class="row">
-                            <div class="col-md-12"><a href="mit-office-of-career-services-registration"
-                                    class="text-decoration-none"> <button type="button"
-                                        class="btn btn-primary mit-button cus-btn inner-cus ms-0 "
-                                        data-bs-toggle="modal" data-bs-target="">
-                                        Subscribe to MOCS Services </button></a></div>
-
-                            <div class="col-md-12 mt-2"><a href="mit-office-of-career-services-registration"
-                                    class="text-decoration-none"> <button type="button"
-                                        class="btn btn-primary mit-button cus-btn inner-cus ms-0 "
-                                        data-bs-toggle="modal" data-bs-target="">
-                                        Placement training registration </button></a></div>
                             <div class="col-md-12 mt-2"><a href="sign-up-for-mocs-career-services"
                                     class="text-decoration-none"> <button type="button"
                                         class="btn btn-primary mit-button cus-btn inner-cus ms-0 "
@@ -144,228 +133,254 @@
                         <!-- <img src="assets/images/humancloud.svg" alt=""> -->
                     </div>
                     <div class="col-md-12 col-lg-12 fin-feature hero11">
-                        <p><strong>Empowering Your Career & Well-Being – Your Path to Success Starts Here! </strong><br>
-                            At MITSDE, the MIT Office of Career Services (MOCS) is an integral part of your learning
-                            journey, ensuring a holistic development approach that enhances both career readiness and
-                            stress management. <br>
-
-                            While enrollment is voluntary, it is highly recommended to gain a competitive edge in your
-                            professional journey. MOCS with the necessary skills to thrive in the professional world
-                            while maintaining mental well-being.
+                        <h3>Your career, designed personally. Delivered across your program.</h3>
+                        <p>
+                            MOCS is MITSDE's in-house career and well-being service — built into every program. From the day you enroll, you receive a personalised career plan, structured milestones, expert mentoring, and one-on-one support, right through to your next role.
                         </p>
-
-
+                        <p><b>Primary Actions:</b></p>
+                        <ul class="fin-feature1" style="list-style: disc;">
+                            <li><a href="https://mitsde.com/program-enquiry">Take the Career Diagnostic</a>  (For prospective students)</li>
+                            <li><a href="https://mitsde.com/learner-portal">Already a MITSDE student? Access your MOCS dashboard</a></li>
+                        </ul>
 
 
                     </div>
                     <hr>
                 </div>
-
+                </div>
+        
+            <div class="container">
                 <div class="row">
                     <div class="col-md-12 col-lg-12 fintech-certi">
-                        <h2>MOCS Advantages
-
-                        </h2>
-                        <!-- <img src="assets/images/humancloud.svg" alt=""> -->
+                        <h2>What MOCS Is</h2>
                     </div>
-                    <img src="./assets/images/course/harbour/MIT-Harbour-Advantages-(3).png" class="img-responsive"
-                        alt="MIT Harbour Advantages">
-                    <p align="center">We facilitate the students with training on life skills and soft skills,
-                        giving them a
-                        space
-                        to discuss their personal and professional concerns.
-                    </p>
-                    <hr>
+                    <div class="col-md-12 col-lg-12 fin-feature hero11">
+                        <h3>A career office, inside your program.</h3>
+                        <p>
+                            MOCS is MITSDE's in-house career and well-being service — built into every program. From the day you enroll, you receive a personalised career plan, structured milestones, expert mentoring, and one-on-one support, right through to your next role.
+                        </p>
+                        <p>
+                            This means a personalised career plan written for you, not a generic checklist. A roadmap that runs the full length of your program. Workshops, mentoring, mock interviews, counselling, and placement support — all sequenced to meet you when you need them, not in a rushed final-semester module.
+                        </p>
+                        <p>
+                            Working professionals deserve structured career support built into their program. MOCS delivers exactly that.
+                        </p>
 
-
-                </div>
-
-            </div>
-
-
-        </section>
-
-
-
-        <div class="container">
-            <div class="col-md-12 col-lg-12 fintech-certi">
-                <h2><b>Our Offerings</b>
-
-                </h2>
-                <!-- <img src="assets/images/humancloud.svg" alt=""> -->
-            </div>
-            <div class="row">
-                <div class="col-md-12 col-lg-12 fin-feature1 hero11">
-                    <h3>Career Development Programs</h3>
-                    <p>MOCS ensures that every student is <strong>prepared for career success</strong> through
-                        structured training and mentorship programs:</p>
-                    <div class="row">
-                        <div class="col-md-12 col-lg-12 fin-feature hero11">
-                            <ul class="fin-feature hero11">
-                                <li><strong>Employability Soft Skills Training –</strong> Develop essential workplace
-                                    skills</li>
-                                <li><strong>Communication Skills Training – </strong> Enhance verbal and non-verbal
-                                    communication</li>
-                                <li><strong>Career Mentoring Program – </strong> Receive personalised guidance from
-                                    industry professionals</li>
-                                <li><strong>Self-Development Resources – </strong> Access career-related self-help
-                                    materials</li>
-                                <li><strong>Leadership Training – </strong> Gain the skills to advance in your career
-                                </li>
+                        <h4><b>Three Pillars</b></h4>
+                        <div class="table-responsive">
+                            <table class="table table-bordered text-nowrap">
+                                <thead>
+                                    <tr>
+                                        <th>Pillar</th>
+                                        <th>What It Means</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td><strong>Personalized</strong></td>
+                                        <td>
+                                            Every student receives a Career Development Plan built from their own diagnostic, goals, and gaps. 
+                                            No two plans are identical.
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong>Continuous</strong></td>
+                                        <td>
+                                            Career support runs across all 4 semesters — not as a final-semester placement push.
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong>Holistic</strong></td>
+                                        <td>
+                                            Career readiness and mental well-being. Counselling, stress management, and life-skills are part 
+                                            of the plan, not optional extras.
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
                         </div>
-                    </div>
-                    <hr>
-
-
-                </div>
-                <div class="col-md-12 col-lg-12 fin-feature1 hero11">
-                    <h3>Stress Management & Well-Being</h3>
-                    <p>Achieving professional success is incomplete without <strong>mental well-being</strong>. MOCS
-                        offers comprehensive stress management solutions:</p>
-                    <div class="row">
-                        <div class="col-md-12 col-lg-12 fin-feature hero11">
-                            <ul class="fin-feature hero11">
-                                <li><strong>Life Skills Training – </strong> Develop self-awareness, emotional
-                                    intelligence, and critical thinking</li>
-                                <li><strong>Mental Health Development – </strong> Understand and improve your mental
-                                    health</li>
-                                <li><strong>Personal Counseling Sessions – </strong> One-on-one professional support for
-                                    stress management</li>
-                                <li><strong>Stress Management Resources – </strong> Self-help materials for better
-                                    mental health</li>
-                                <li><strong>Study Plan Assistance – </strong> Balance academics and work effectively
-                                </li>
-
-                        </div>
-                    </div>
-                    <hr>
-
-
-                </div>
-
-            </div>
-
-            <div class="row">
-                <div class="col-md-12 col-lg-12 fintech-certi aboutMit-skills fintech-cert fin-feature1 hero11i">
-                    <h2>MOCS Membership – Your Key to Success</h2>
-                    <h4>Exclusive Benefits for MITSDE Students</h4>
-                    <p>MOCS membership provides you with <strong>comprehensive career and wellness support</strong>
-                        throughout your MITSDE journey. <strong>Take charge of your growth and enroll today!</strong>
-
-                    </p>
-
-
-
-
-                </div>
-                <div class="col-md-12 col-lg-12 fin-feature1 hero11"><strong>What You Get:</strong>
-
-                    <li><span class="newright-icon1"></span><strong>6 Workshops + Certificate </strong> in Employability
-                        Soft Skills Training</li>
-                    <li><span class="newright-icon1"></span><strong>6 Workshops + Certificate</strong> in Maintaining
-                        Mental Health at the Workplace</li>
-                    <li><span class="newright-icon1"></span><strong>6 Workshops + Certificate</strong> in Leadership
-                        Development Training</li>
-                    <li><span class="newright-icon1"></span><strong>1 Study Plan</strong> tailored to your academic and
-                        professional needs</li>
-                    <li><span class="newright-icon1"></span><strong>Leadership Assessment Profile </strong></li>
-                    <li><span class="newright-icon1"></span><strong>Stress Assessment Profile </strong></li>
-                    <li><span class="newright-icon1"></span><strong>Resume Feedback </strong>,
-                        from career experts</li>
-
-
-                </div>
-                <hr>
-            </div>
-
-            <div class="row">
-                <h2><strong>Service Modules</strong></h2>
-                <a href="mit-office-of-career-services-registration"><img
-                        src="assets/images/course/harbour/Subscribe-All-Offerings-new.jpg" class="img-fluid" alt="Subscribe to all service offerings"></a>
-            </div>
-
-
-
-            <div class="row">
-                <h2><strong>Placement Skills Training</strong></h2>
-                <a href="mit-office-of-career-services-registration"><img
-                        src="assets/images/course/harbour/placement-training.jpg" class="img-fluid" alt="Placement skills training"></a>
-            </div>
-
-            <!-- Who Should Enroll -->
-            <div class="row justify-content-center mt-3">
-
-                <!-- Who Should Enroll -->
-                <div class="col-md-4 col-sm-6 mb-3">
-                    <div class="card h-100 shadow-md text-center mb-0">
-                        <div class="card-body p-0">
-                            <h4 class="card-title mb-2 fw-bold" style="color: #F47521;">
-                                Who Should Enroll?
-                            </h4>
-                            <ul class="list-unstyled mb-0 text-start d-inline-block">
-                                <li class="mb-2">✔ Students looking to secure placements</li>
-                                <li class="mb-2">✔ Working professionals seeking career transitions</li>
-                                <li class="mb-2">✔ Fresh graduates ready to start their job search</li>
-                            </ul>
-                        </div>
+                        <hr>
                     </div>
                 </div>
+            </div>
+        
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 col-lg-12 fintech-certi">
+                        <h2>The MOCS Journey — How It Works</h2>
+                    </div>
+                    <div class="col-md-12 col-lg-12 fin-feature hero11">
+                        <h3>Five stages. Twenty-six months. One outcome.</h3>
+                        <p>
+                            The MOCS journey runs across four semesters in five clear stages. Each stage builds on the last — you cannot practice for interviews if you have not built the skills, and you cannot build the skills without first diagnosing where you stand.
+                        </p>
 
-                <!-- Key Benefits -->
-                <div class="col-md-4 col-sm-6 mb-3">
-                    <div class="card h-100 shadow-md text-center mb-0">
-                        <div class="card-body p-0">
-                            <h4 class="card-title mb-2 fw-bold" style="color: #F47521;">
-                                Key Benefits
-                            </h4>
-                            <ul class="list-unstyled mb-0 text-start d-inline-block">
-                                <li class="mb-2"><strong>Interactive Training:</strong> Hands-on guidance with
-                                    real-time feedback.</li>
-                                <li class="mb-2"><strong>Industry Expert Coaches:</strong> Learn from professionals with
-                                    proven experience.
-                                </li>
-                                <li class="mb-2"><strong>Targeted Learning:</strong> Focus on the most critical
-                                    job-search skills.</li>
-                                <!-- <li class="mb-2"><strong>Job-Ready Confidence:</strong> Be fully prepared to face
-                                        recruiters.</li> -->
-                            </ul>
-                        </div>
+                        <h4><b>Stage 1 — Diagnose | Semester 1, Months 1–3</b></h4>
+                        <p>
+                            You complete the Career Diagnostic, meet your career manager, and receive your personalised Career Development Plan (CDP). MOCS establishes your starting point — your current role, target role, strengths, and gaps.
+                        </p>
+
+                        <h4><b>Stage 2 — Plan | Semester 1, Months 3–6</b></h4>
+                        <p>
+                            Your roadmap is finalised. You complete role-clarity workshops, set up your LinkedIn profile, and connect with peers in your domain. By the end of Semester 1, you know what you are working towards and how MOCS will get you there.
+                        </p>
+
+                        <h4><b>Stage 3 — Build | Semester 2</b></h4>
+                        <p>
+                            The skill-building phase: soft-skills training, communication workshops, leadership programs, networking series, and the commencement of your industry mentoring journey.
+                        </p>
+
+                        <h4><b>Stage 4 — Practice | Semester 3</b></h4>
+                        <p>
+                            Resume sign-off, AI-powered mock interviews, panel mocks, portfolio building, and live feedback. By the end of Semester 3, you are interview-ready.
+                        </p>
+
+                        <h4><b>Stage 5 — Place | Semester 4</b></h4>
+                        <p>
+                            Active placement support, offer-handling guidance, salary negotiation training, and final mentoring. The goal is not just an offer — it is the right offer.
+                        </p>
+
+                        <hr>
                     </div>
                 </div>
-
             </div>
 
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 col-lg-12 fintech-certi">
+                        <h2>The Career Diagnostic Tool</h2>
+                    </div>
+                    <div class="col-md-12 col-lg-12 fin-feature hero11">
+                        <h3>Your career measured before it is planned.</h3>
+                        <p>
+                            Every MOCS journey begins with the Career Diagnostic — a structured assessment completed in the first month at MITSDE. It captures four things:
+                        </p>
 
-            <div class="row mb-3 mt-5">
+                        <ul class="fin-feature1" style="list-style: disc;">
+                            <li>Where you are today — your current role, industry, experience, salary band, and day-to-day responsibilities.</li>
+                            <li>Where you want to go — your target role, industry, salary, and the type of career move you are attempting (advancement, switch, return-to-work, or leadership transition).</li>
+                            <li>What you bring — your skills, certifications, domain depth, and what is already working in your career.</li>
+                            <li>What is holding you back — the specific gaps between your current profile and your target role, mapped against real industry hiring patterns.</li>
+                        </ul>
+                        
+                        <p>
+                            The diagnostic is not a personality test or generic aptitude quiz. It is the input layer for everything MOCS does for you — your roadmap, your CDP, your workshop priorities, and your mentoring match are all shaped by what the diagnostic surfaces.
+                        </p>
+                        <p class="px-5">
+                            <i>ℹ  The most common pattern: students know their target role but underestimate the skill gap to get there. The diagnostic makes that gap concrete — and turns it into a plan with deadlines.</i>
+                        </p>
+                        <p>
+                            The diagnostic is delivered through the LMS within the first 30 days of your program. It takes 30–45 minutes. Your career manager will walk through the results with you in your first 1:1 call.
+                        </p>
 
-                <a href="mit-office-of-career-services-registration"><img
-                        src="assets/images/course/harbour/All-5-Offerings.jpg" class="img-fluid" alt="All 5 Offerings"></a>
-            </div>
-
-            <div class="row mt-5">
-                <h2><b>Are you an Alumni?</b></h2>
-                <div class="col-md-6">
-
-
-                    <a href="mit-office-of-career-services-registration">
-                        <img src="./assets/images/course/harbour/COPING WORKSHOPS_Website.png" width="100%">
-                    </a>
-
-
-
-
+                        <hr>
+                    </div>
                 </div>
-                <div class="col-md-6" style="margin-top: 30px">
-                    <img src="./assets/images/course/harbour/Creative-2.jpg" alt="Career support at MITSDE" width="100%"
-                        ;>
-                </div>
-
             </div>
-            <hr>
 
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 col-lg-12 fintech-certi">
+                        <h2>Your Career Development Plan (CDP)</h2>
+                    </div>
+                    <div class="col-md-12 col-lg-12 fin-feature hero11">
+                        <h3>A career plan written for you, not for everyone.</h3>
+                        <p>
+                            Once your diagnostic is complete, MOCS builds your Career Development Plan — a personalised document specifying what you are working on across the duration of your program, why, and how MOCS will support you.
+                        </p>
+                        <p>
+                            Your CDP is generated using AI trained on the MOCS framework, then reviewed and refined by a member of the MOCS career team. It is delivered in two formats:
+                        </p>
 
+                        <ul class="fin-feature1" style="list-style: disc;">
+                            <li>A PDF you can download, print, share with your mentor, and refer to whenever you need a reset.</li>
+                            <li>An audio walkthrough — a short voice note that explains your plan in plain language, designed for working professionals to access on the go.</li>
+                        </ul>
 
-        </div>
+                        <h4><b>What Your CDP Includes</b></h4>
+                        <ul class="fin-feature1" style="list-style: disc;">
+                            <li>Career snapshot — your current role and target role, side by side</li>
+                            <li>Career move type — switch, advancement, leadership transition, or return-to-work</li>
+                            <li>Target role analysis — what hiring managers actually look for</li>
+                            <li>Skill gap map — what you have, what you need, what is missing</li>
+                            <li>Career roadmap — activities and milestones lined up for you</li>
+                            <li>Semester-wise focus — what each semester will build</li>
+                            <li>MOCS services scheduled for you — workshops, mentoring, counselling, and mock interviews</li>
+                            <li>Your career manager's contact details and communication channel</li>
+                        </ul>
+
+                        <p>
+                            Two students in the same program can have very different CDPs. A 5-year HR generalist targeting HR Analytics receives a different plan from a 10-year operations manager aiming for a senior leadership role — same MOCS framework, two distinct journeys.
+                        </p>
+                        <p class="px-5">
+                            <i>ℹ  Impact instrumentation in progress: Quantitative CDP outcomes will be reported from January 2027 onwards, once the Cohort 15 batch completes its first measurement window.</i>
+                        </p>
+
+                        <hr>
+                    </div>
+                </div>
+            </div>
+
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 col-lg-12 fintech-certi">
+                        <h2>Your Career Roadmap</h2>
+                    </div>
+                    <div class="col-md-12 col-lg-12 fin-feature hero11">
+                        <h3>Career support, semester after semester.</h3>
+                        <p>
+                            MOCS is delivered across four semesters, each with a clear purpose, defined activities, and milestones to cross before moving forward.
+                        </p>
+
+                        <h4><b>Semester 1 — Diagnose & Plan</b></h4>
+                        <ul class="fin-feature1" style="list-style: disc;">
+                            <li>Career Diagnostic completion</li>
+                            <li>1:1 plan activation call with your career manager</li>
+                            <li>Personalised CDP delivered</li>
+                            <li>LinkedIn profile setup workshop</li>
+                            <li>Role clarity workshop</li>
+                            <li>Alumni interaction panel</li>
+                            <li>Gap analysis workshop</li>
+                            <li>Career roadmap finalised</li>
+                        </ul>
+
+                        <h4><b>Semester 2 — Build</b></h4>
+                        <ul class="fin-feature1" style="list-style: disc;">
+                            <li>Industry Mentoring Programme begins (4 structured mentor meetings)</li>
+                            <li>Employability Soft-Skills Workshop Series (Kaushalya)</li>
+                            <li>Communication Skills Programme</li>
+                            <li>Networking Workshop Series</li>
+                            <li>Group Counselling Sessions begin (Anubhuti)</li>
+                            <li>LinkedIn profile audit and approval</li>
+                            <li>First skill-building checkpoint</li>
+                        </ul>
+
+                        <h4><b>Semester 3 — Practice</b></h4>
+                        <ul class="fin-feature1" style="list-style: disc;">
+                            <li>Resume building and sign-off</li>
+                            <li>AI mock interview rounds (multiple attempts, scored)</li>
+                            <li>Panel mock interviews</li>
+                            <li>Leadership Development Workshops (Adhyapan)</li>
+                            <li>Portfolio submission and review</li>
+                            <li>20+ targeted job applications logged</li>
+                            <li>Placement readiness assessment</li>
+                        </ul>
+
+                        <h4><b>Semester 4 — Place</b></h4>
+                        <ul class="fin-feature1" style="list-style: disc;">
+                            <li>Active placement facilitation</li>
+                            <li>Offer-handling and salary negotiation training</li>
+                            <li>Final mentoring round</li>
+                            <li>Soft-skills capstone series</li>
+                            <li>1:1 placement support, on demand</li>
+                            <li>MOCS Completion Certificate</li>
+                        </ul>
+
+                        <hr>
+                    </div>
+                </div>
+            </div>
+
         </section>
 
         <div class="container">
