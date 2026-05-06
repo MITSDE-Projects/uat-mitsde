@@ -53,6 +53,12 @@
     <script type="text/javascript" src="assets/js/api/validation.js" charset="UTF-8"></script>
     <!----->
 
+    <style>
+        h4 {
+            color: #f47521;
+        }
+    </style>
+
 </head>
 
 <body>
@@ -137,11 +143,6 @@
                         <p>
                             MOCS is MITSDE's in-house career and well-being service — built into every program. From the day you enroll, you receive a personalised career plan, structured milestones, expert mentoring, and one-on-one support, right through to your next role.
                         </p>
-                        <p><b>Primary Actions:</b></p>
-                        <ul class="fin-feature1" style="list-style: disc;">
-                            <li><a href="https://mitsde.com/program-enquiry">Take the Career Diagnostic</a>  (For prospective students)</li>
-                            <li><a href="https://mitsde.com/learner-portal">Already a MITSDE student? Access your MOCS dashboard</a></li>
-                        </ul>
 
 
                     </div>
@@ -381,6 +382,156 @@
                 </div>
             </div>
 
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 col-lg-12 fintech-certi">
+                        <h2>Services & Milestones</h2>
+                    </div>
+                    <div class="col-md-12 col-lg-12 fin-feature hero11">
+                        <h3>Every service exists to move you closer to your next role.</h3>
+                        <p>
+                            MOCS is not a list of disconnected workshops. Each service is mapped to a specific outcome on your roadmap, and each major checkpoint is a tracked milestone visible on your learner profile.
+                        </p>
+
+                        <h4><b>The 8 Services</b></h4>
+                        <p>
+                            <b>1.  Counselling — 1:1 and Group</b>
+                            <br>
+                            Structured one-on-one counselling with the MOCS team, plus regular small-group cohorts under the Anubhuti initiative. Available throughout the programme.
+                            <br>
+                            <i>Outcome: Clarity on direction, support during personal and professional decisions, confidence at moments that matter.</i>
+                        </p>
+
+                        <p>
+                            <b>2.  Industry Mentoring</b>
+                            <br>
+                            Four structured mentoring meetings with a senior industry professional from your domain. Small groups, focused discussions.
+                            <br>
+                            <i>Outcome: Real-world perspective on your target role, network access, and decision-grade advice from someone in the seat you are aiming for.</i>
+                        </p>
+
+                        <p>
+                            <b>3.  Employability Soft Skills Series (Kaushalya)</b>
+                            <br>
+                            Multi-session workshop series on workplace communication, emotional intelligence, feedback, assertiveness, and adaptability — led by trainers and psychologists.
+                            <br>
+                            <i>Outcome: Workplace-ready communication and interpersonal skills.</i>
+                        </p>
+
+                        <p>
+                            <b>4.  Leadership Development Series (Adhyapan)</b>
+                            <br>
+                            Workshop series on adaptive leadership, strategic thinking, data-driven decision-making, emotional intelligence, and influence without authority.
+                            <br>
+                            <i>Outcome: The skills senior roles actually require.</i>
+                        </p>
+
+                        <p>
+                            <b>5.  Networking Programme</b>
+                            <br>
+                            Structured workshop series on personal brand, networking conversations, and strategic and digital networking.
+                            <br>
+                            <i>Outcome: A working professional network — not just a contact list.</i>
+                        </p>
+
+                        <p>
+                            <b>6.  Mock Interviews — AI and Panel</b>
+                            <br>
+                            AI-powered mock interviews with scored feedback, plus live panel mocks for advanced students. Multiple rounds across the programme.
+                            <br>
+                            <i>Outcome: Interview confidence built through practice, not theory.</i>
+                        </p>
+
+                        <p>
+                            <b>7.  Mental Health & Well-Being Support (Maanas + Anubhuti)</b>
+                            <br>
+                            Counselling sessions, stress assessment profiles, and mindfulness and burnout management workshops led by qualified psychologists.
+                            <br>
+                            <i>Outcome: Sustainable performance — across work, study, and life.</i>
+                        </p>
+
+                        <p>
+                            <b>8.  Placement & Career Move Support</b>
+                            <br>
+                            Resume sign-off, LinkedIn audit, application strategy, offer-handling, salary negotiation, and active placement facilitation in the final semester.
+                            <br>
+                            <i>Outcome: The right next move, on the right terms.</i>
+                        </p>
+
+                        <h4><b>The 10 Milestones</b></h4>
+                        <p>
+                            Hard checkpoints tracked on your learner profile. Visible to you, your career manager, and the placement team.
+                        </p>
+
+                        <div class="table-responsive">
+                            <table class="table table-bordered text-nowrap">
+                                <thead>
+                                    <tr>
+                                        <th>#</th>
+                                        <th>Milestone</th>
+                                        <th>When</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td><strong>1</strong></td>
+                                        <td>Career Diagnostic submitted</td>
+                                        <td>Month 1</td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong>2</strong></td>
+                                        <td>Tier classification confirmed</td>
+                                        <td>Month 3</td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong>3</strong></td>
+                                        <td>LinkedIn profile approved</td>
+                                        <td>Month 6</td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong>4</strong></td>
+                                        <td>Resume signed off</td>
+                                        <td>Month 7</td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong>5</strong></td>
+                                        <td>First mock interview cleared</td>
+                                        <td>Month 7</td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong>6</strong></td>
+                                        <td>75% MOCS attendance per semester</td>
+                                        <td>Each semester end</td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong>7</strong></td>
+                                        <td>All 4 mentor meetings completed</td>
+                                        <td>Within mentoring window</td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong>8</strong></td>
+                                        <td>Workshop attendance — minimum one per series</td>
+                                        <td>Per workshop window</td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong>9</strong></td>
+                                        <td>20 job applications logged</td>
+                                        <td>Month 8+</td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong>10</strong></td>
+                                        <td>Portfolio submitted and reviewed</td>
+                                        <td>Before panel mocks</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+
+                        <hr>
+                    </div>
+                </div>
+            </div>
+
         </section>
 
         <div class="container">
@@ -449,546 +600,10 @@
 
         </div>
 
-        <section>
-            <div class="container">
-                <div class="row">
-                    <h2><b>Coping Workshops</b>
-
-                    </h2>
-                    <p align="justify">MOCS Coping Workshops are LIVE platforms for students to learn practical Life
-                        skills in a very interactive manner and are backed by expert Soft Skill trainers, Psychologists
-                        and
-                        Industry Stalwarts.
-                    </p>
-
-                </div>
-                <div class="row">
-                    <div class="col-12 col-lg-3 col-md-3">
-                        <!-- Tab navs -->
-                        <div class="nav flex-column nav-pills text-center" id="v-pills-tab" role="tablist"
-                            aria-orientation="vertical">
-                            <!-- <a class="nav-link " id="exam-queries-tab" data-bs-toggle="pill" href="#exam-queries"
-                                role="tab" aria-controls="exam-queries">Kaushalya Series
-                            </a> -->
-
-                            <a class="nav-link active" id="books-realated-queries-tab" data-bs-toggle="pill"
-                                href="#books-realated-queries" role="tab" aria-controls="books-realated-queries"
-                                aria-selected="false">Employability Soft Skills
-                            </a>
-
-                            <a class="nav-link " id="networking-program-schedule-tab" data-bs-toggle="pill"
-                                href="#networking-program-schedule" role="tab"
-                                aria-controls="networking-program-schedule" aria-selected="false">Networking Skills
-                            </a>
-
-
-                            <a class="nav-link " id="academic-queries-tab" data-bs-toggle="pill"
-                                href="#academic-queries" role="tab" aria-controls="academic-queries"
-                                aria-selected="false" aria-selected="true">Leadership Skills
-
-
-                            </a>
-
-
-
-
-
-                            <a class="nav-link" id="admission-process-tab" data-bs-toggle="pill"
-                                href="#admission-process" role="tab" aria-controls="admission-process"
-                                aria-selected="false">Mental Fitness at Workplace
-
-
-                            </a>
-
-                            <a class="nav-link" id="marksheet-certification-queries-tab" data-bs-toggle="pill"
-                                href="#marksheet-certification" role="tab" aria-controls="marksheet-certification"
-                                aria-selected="false">Placement Skills (Freshers)
-
-
-                            </a>
-
-
-
-                            <!--<a class="nav-link" id="lms-realated-queries-tab" data-bs-toggle="pill"
-                                href="#lms-realated-queries" role="tab" aria-controls="lms-realated-queries"
-                                aria-selected="false">Demo Series
-                            </a>
-
-                            <a class="nav-link" id="placement-realated-queries-tab" data-bs-toggle="pill"
-                                href="#placement-realated-queries" role="tab" aria-controls="placement-realated-queries"
-                                aria-selected="false">Demo Series
-                            </a> -->
-
-
-                        </div>
-                        <!-- Tab navs -->
-                    </div>
-                    <div class="col-12 col-lg-9 col-md-9">
-                        <!-- Tab content -->
-                        <div class="tab-content" id="v-pills-tabContent">
-                            <!-- <div class="tab-pane fade " id="exam-queries" role="tabpanel"
-                                aria-labelledby="exam-queries-tab">
-                                <div class="row">
-                                    
-                                    <ul class="curriculum">
-                                        <table class="table">
-                                            <thead>
-                                                <tr>
-                                                    <th>Date</th>
-                                                    <th>Subject</th>
-                                                    <th>Trainer Details</th>
-                                                </tr>
-                                            </thead>
-                                            <tbody>
-                                                <tr>
-                                                    <td>11 Sep 24</td>
-                                                    <td>Ace The Interview</td>
-                                                    <td>Mr. Bipin Datar, Global Business Strategist &amp; Mentor with 40
-                                                        Years of Expertise Across 13 MNCs</td>
-
-                                                </tr>
-                                                <tr>
-                                                    <td>12 Sep 24</td>
-                                                    <td>Resume Revamp</td>
-                                                    <td>Ms. Kishita Thakar, Executive Coach | Leadership Coach, Building
-                                                        CXO and Founder brands on LinkedIn</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>18 Sep 24</td>
-                                                    <td>Networking for Job Search</td>
-                                                    <td>Mr. Bipin Datar, Global Business Strategist &amp; Mentor with 40
-                                                        Years of Expertise Across 13 MNCs</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>18 Sep 24<< /td>
-                                                    <td>Salary Negotiation</td>
-                                                    <td>Ms. Kishita Thakar, Executive Coach | Leadership Coach, Building
-                                                        CXO and Founder brands on LinkedIn</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>25 Sep 24</td>
-                                                    <td>Basic Career Assessment</td>
-                                                    <td>Mr. Bipin Datar, Global Business Strategist &amp; Mentor with 40
-                                                        Years of Expertise Across 13 MNCs</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>9 Oct 24</td>
-                                                    <td>Digital Decorum Training / Virtual Interview Etiquette</td>
-                                                    <td>Mr. Bipin Datar, Global Business Strategist &amp; Mentor with 40
-                                                        Years of Expertise Across 13 MNCs</td>
-                                                </tr>
-
-                                                <tr>
-                                                    <td>16 Oct 24</td>
-                                                    <td>Adapting to Workplace Culture</td>
-                                                    <td>Mr. Bipin Datar, Global Business Strategist &amp; Mentor with 40
-                                                        Years of Expertise Across 13 MNCs</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>23 Oct 24</td>
-                                                    <td>Communic ation Training (Verbal &amp; Body- language)</td>
-                                                    <td>Mr. Bipin Datar, Global Business Strategist &amp; Mentor with 40
-                                                        Years of Expertise Across 13 MNCs</td>
-                                                </tr>
-
-                                            </tbody>
-                                        </table>
-
-
-                                    </ul>
-                                </div>
-
-                            </div> -->
-
-                            <div class="tab-pane fade show active" id="books-realated-queries" role="tabpanel"
-                                aria-labelledby="books-realated-queries-tab">
-                                <div class="row">
-                                    <!-- <div class="fintech-module digital-mod"> -->
-                                    <ul class="curriculum">
-                                        <table class="table table-bordered">
-                                            <thead>
-                                                <tr>
-                                                    <th colspan="4" style="text-align:center; background-color:#F47521; color:#fff; font-size:16px;">
-                                                        <strong>Kaushalya Series</strong>
-                                                    </th>
-                                                </tr>
-                                                <tr>
-                                                    <th>Sr. No.</th>
-                                                    <th>Date</th>
-                                                    <th>Time</th>
-                                                    <th>Subject</th>
-                                                </tr>
-                                            </thead>
-                                            <tbody>
-                                                <tr>
-                                                    <td>1</td>
-                                                    <td>09-Feb-2026 (Monday)</td>
-                                                    <td>8.00 pm - 9.30 pm</td>
-                                                    <td>MOCS_KaushalyaSeries_English Communication - Verbal: Conversational Skills</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>2</td>
-                                                    <td>10-Feb-2026 (Tuesday)</td>
-                                                    <td>8.00 pm - 9.30 pm</td>
-                                                    <td>MOCS_KaushalyaSeries_English Communication - Written: Professional Writing Skills</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>3</td>
-                                                    <td>16-Feb-2026 (Monday)</td>
-                                                    <td>6.30 pm - 8.00 pm</td>
-                                                    <td>MOCS_KaushalyaSeries_Communication Using Emotional Intelligence (EI)</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>4</td>
-                                                    <td>17-Feb-2026 (Tuesday)</td>
-                                                    <td>6.30 pm - 8.00 pm</td>
-                                                    <td>MOCS_KaushalyaSeries_Workplace Communication Using Emotional Intelligence - Part 2</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>5</td>
-                                                    <td>23-Feb-2026 (Monday)</td>
-                                                    <td>6.30 pm - 8.00 pm</td>
-                                                    <td>MOCS_KaushalyaSeries_Feedback in Real Workplace Scenarios</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>6</td>
-                                                    <td>24-Feb-2026 (Tuesday)</td>
-                                                    <td>6.30 pm - 8.00 pm</td>
-                                                    <td>MOCS_KaushalyaSeries_Assertive Communication at Work</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>7</td>
-                                                    <td>02-Mar-2026 (Monday)</td>
-                                                    <td>6.30 pm - 8.00 pm</td>
-                                                    <td>MOCS_KaushalyaSeries_Cross-Cultural Communication and Adaptability</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>8</td>
-                                                    <td>09-Mar-2026 (Tuesday)</td>
-                                                    <td>7.00 pm - 8.30 pm</td>
-                                                    <td>MOCS_KaushalyaSeries_Pitch Your Business</td>
-                                                </tr>
-                                            </tbody>
-                                        </table>
-
-
-                                    </ul>
-                                </div>
-
-
-                            </div>
-
-
-                            <div class="tab-pane fade " id="networking-program-schedule" role="tabpanel"
-                                aria-labelledby="networking-program-schedule-tab">
-                                <div class="row">
-                                    <!-- <div class="fintech-module digital-mod"> -->
-                                    <ul class="curriculum">
-                                        <table class="table">
-                                            <thead>
-                                                <th colspan="6" style="text-align:center; background-color:#F47521; color:#fff; font-size:16px;">
-                                                    <strong>Networking Series</strong>
-                                                </th>
-
-                                                <tr>
-                                                    <th>Sr. No.</th>
-                                                    <th>Topic</th>
-                                                    <th>Date</th>
-                                                    <th>Time</th>
-                                                </tr>
-                                            </thead>
-                                            <tbody>
-                                                <tr>
-                                                    <td>1</td>
-                                                    <td>Foundations of Networking &amp; Your Current Circle</td>
-                                                    <td>06-Oct-2025</td>
-                                                    <td>6:30 PM - 8:00 PM</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>2</td>
-                                                    <td>Crafting Your Personal Brand &amp; Introduction - First
-                                                        impressions online and offline</td>
-                                                    <td>07-Oct-2025</td>
-                                                    <td>6:30 PM - 8:00 PM</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>3</td>
-                                                    <td>Networking Conversations in Action - Starting and sustaining
-                                                        meaningful conversations</td>
-                                                    <td>13-Oct-2025</td>
-                                                    <td>6:30 PM - 8:00 PM</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>4</td>
-                                                    <td>Strategic &amp; Digital Networking - Going beyond 'Hi, let's
-                                                        connect'</td>
-                                                    <td>14-Oct-2025</td>
-                                                    <td>6:30 PM - 8:00 PM</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>5</td>
-                                                    <td>Networking for Long-term Growth - Turning connections into
-                                                        opportunities</td>
-                                                    <td>27-Oct-2025</td>
-                                                    <td>6:30 PM - 8:00 PM</td>
-                                                </tr>
-                                            </tbody>
-
-                                        </table>
-
-
-                                    </ul>
-                                </div>
-
-                            </div>
-
-
-                            <div class="tab-pane fade" id="academic-queries" role="tabpanel"
-                                aria-labelledby="academic-queries-tab">
-                                <div class="row">
-                                    <!-- <div class="fintech-module digital-mod"> -->
-                                    <ul class="curriculum">
-                                        <table class="table table-bordered">
-                                            <thead>
-                                                <tr>
-                                                    <th colspan="4" style="text-align:center; background-color:#F47521; color:#fff; font-size:16px;">
-                                                        <strong>Adhyapan Series</strong>
-                                                    </th>
-                                                </tr>
-                                                <tr>
-                                                    <th>Sr. No.</th>
-                                                    <th>Date</th>
-                                                    <th>Time</th>
-                                                    <th>Subject</th>
-                                                </tr>
-                                            </thead>
-                                            <tbody>
-                                                <tr>
-                                                    <td>1</td>
-                                                    <td>05-Jan-2026 (Monday)</td>
-                                                    <td>6.00 pm - 7.30 pm</td>
-                                                    <td>MOCS_AdhyapanSeries_Leadership Assessment & Adaptive Leadership</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>2</td>
-                                                    <td>06-Jan-2026 (Tuesday)</td>
-                                                    <td>6.00 pm - 7.30 pm</td>
-                                                    <td>MOCS_AdhyapanSeries_Strategic Thinking & Decision-Making for Leaders</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>3</td>
-                                                    <td>12-Jan-2026 (Monday)</td>
-                                                    <td>6.00 pm - 7.30 pm</td>
-                                                    <td>MOCS_AdhyapanSeries_Data-Driven Leadership</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>4</td>
-                                                    <td>13-Jan-2026 (Tuesday)</td>
-                                                    <td>6.00 pm - 7.30 pm</td>
-                                                    <td>MOCS_AdhyapanSeries_Influencing Without Authority</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>5</td>
-                                                    <td>19-Jan-2026 (Monday)</td>
-                                                    <td>6.00 pm - 7.30 pm</td>
-                                                    <td>MOCS_AdhyapanSeries_Leadership in Crisis & High-Pressure Situations</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>6</td>
-                                                    <td>27-Jan-2026 (Tuesday)</td>
-                                                    <td>6.00 pm - 7.30 pm</td>
-                                                    <td>MOCS_AdhyapanSeries_Mastering Emotional Intelligence and Non-Verbal Communication for Leaders</td>
-                                                </tr>
-                                            </tbody>
-                                        </table>
-
-
-                                    </ul>
-                                </div>
-
-                            </div>
-
-                            <div class="tab-pane fade" id="admission-process" role="tabpanel"
-                                aria-labelledby="admission-process-tab">
-                                <div class="row">
-                                    <!-- <div class="fintech-module digital-mod"> -->
-                                    <ul class="curriculum">
-                                        <table class="table">
-                                            <thead>
-                                                <th colspan="9" style="text-align:center; background-color:#F47521; color:#fff; font-size:16px;">
-                                                    <strong>Maanas Series</strong>
-                                                </th>
-                                                <tr>
-
-                                                    <th>Date</th>
-                                                    <th>Time</th>
-                                                    <th>Subject</th>
-
-                                                    <th>Trainer Details</th>
-                                                </tr>
-                                            </thead>
-                                            <tbody>
-                                                <tr>
-                                                    <td>05-Jun-2024</td>
-                                                    <td>3.00 pm - 4.30 pm</td>
-                                                    <td>Workplace Mental Health Awareness and First Aid</td>
-                                                    <td>Dr. Nischol Raval, Consultant Psychiatrist and Psychotherapist,
-                                                        Sahyadri Hospital</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>12-Jun-2024</td>
-                                                    <td>3.00 pm - 4.30 pm</td>
-                                                    <td>Practicing Mindfulness</td>
-                                                    <td>Ms. Anupama Pradhan, Founder, Inner Shift| Certified NLP Life
-                                                        Coach & Trainer| ICF-ACC | Happiness & Mindfulness Coach| POSH
-                                                        Enabler| Safety Trainer| Reiki Master</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>19-Jun-2024</td>
-                                                    <td>3.00 pm - 4.30 pm</td>
-                                                    <td>Mental Health Connection with Physical Health Wellness (or Self
-                                                        care)</td>
-                                                    <td>Dr. Pratibha Sharma, Ayurvedic Doctor & Life Coach | Health &
-                                                        Wellness Expert</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>26-Jun-2024</td>
-                                                    <td>3.00 pm - 4.30 pm</td>
-                                                    <td>Managing Burnout and Stress</td>
-                                                    <td>Dr. Pratibha Sharma, Ayurvedic Doctor & Life Coach | Health &
-                                                        Wellness Expert</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>10-Jul-2024</td>
-                                                    <td>3.00 pm - 4.30 pm</td>
-                                                    <td>Work-life Harmony</td>
-                                                    <td>Ms. Sonal Bavadekar, Clinical Psychologist and Professional
-                                                        Counselling Supervisor/Corporate Trainer</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>17-Jul-2024</td>
-                                                    <td>3.00 pm - 4.30 pm</td>
-                                                    <td>Masterskill : Emotional Intelligence</td>
-                                                    <td>Ms. Sonal Bavadekar, Clinical Psychologist and Professional
-                                                        Counselling Supervisor/Corporate Trainer</td>
-                                                </tr>
-
-
-                                            </tbody>
-                                        </table>
-
-
-                                    </ul>
-                                </div>
-
-                            </div>
-
-                            <div class="tab-pane fade" id="marksheet-certification" role="tabpanel"
-                                aria-labelledby="marksheet-certification-queries-tab">
-                                <div class="row">
-                                    <!-- <div class="fintech-module digital-mod"> -->
-                                    <ul class="curriculum">
-                                        <table class="table">
-                                            <thead>
-                                                <th colspan="9" style="text-align:center; background-color:#F47521; color:#fff; font-size:16px;">
-                                                    <strong>Placement Training Series</strong>
-                                                </th>
-                                                <tr>
-                                                    <th>Sr. No.</th>
-                                                    <th>Date</th>
-                                                    <th>Time</th>
-                                                    <th>Session Name</th>
-                                                    <th>Objective</th>
-                                                </tr>
-                                            </thead>
-                                            <tbody>
-                                                <tr>
-                                                    <td>1</td>
-                                                    <td>13 Apr 26</td>
-                                                    <td>6:30-8:00 pm</td>
-                                                    <td>Resume Building Hub Part 1</td>
-                                                    <td>Build foundational ATS-friendly resume structure.</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>2</td>
-                                                    <td>14 Apr 26</td>
-                                                    <td>6:30-8:00 pm</td>
-                                                    <td>Resume Building Hub Part 2</td>
-                                                    <td>Finalize and polish tailored resumes.</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>3</td>
-                                                    <td>20 Apr 26</td>
-                                                    <td>6:30-8:00 pm</td>
-                                                    <td>LinkedIn Profile Optimization Hub Part 1</td>
-                                                    <td>Optimize core profile for professionalism/SEO.</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>4</td>
-                                                    <td>21 Apr 26</td>
-                                                    <td>6:30-8:00 pm</td>
-                                                    <td>LinkedIn Profile Optimization Hub Part 2</td>
-                                                    <td>Boost visibility and networking.</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>5</td>
-                                                    <td>27 Apr 26</td>
-                                                    <td>6:30-8:00 pm</td>
-                                                    <td>Communication Skills Hub Part 1</td>
-                                                    <td>Build verbal/non-verbal foundations.</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>6</td>
-                                                    <td>28 Apr 26</td>
-                                                    <td>6:30-8:00 pm</td>
-                                                    <td>Communication Skills Hub Part 2</td>
-                                                    <td>Apply in interview scenarios.</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>7</td>
-                                                    <td>4 May 26</td>
-                                                    <td>6:30-8:00 pm</td>
-                                                    <td>Networking &amp; Job Search Strategy Hub</td>
-                                                    <td>Develop strategic networking/job search plans.</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>8</td>
-                                                    <td>18 May 26</td>
-                                                    <td>6:30-8:00 pm</td>
-                                                    <td>Technical Round Prep Hub (Common)</td>
-                                                    <td>Master universal tech interview strategies.</td>
-                                                </tr>
-
-                                            </tbody>
-                                        </table>
-
-
-                                    </ul>
-                                </div>
-
-                            </div>
-
-
-
-
-
-                            <!--<div class="tab-pane fade" id="placement-realated-queries" role="tabpanel"
-                                aria-labelledby="placement-realated-queries-tab">
-
-
-                            </div> -->
-                        </div>
-                        <!-- Tab content -->
-                    </div>
-                </div>
-                <hr>
-            </div>
-        </section>
-
         <div class="section">
             <div class="container">
                 <div class="slider-container">
-                    <h2>Industry Mentors </h2>
+                    <h2><b>Industry Mentors </b></h2>
 
                     <button class="prev"><i class="fas fa-chevron-left"></i></button>
                     <div class="slider">
@@ -1108,9 +723,7 @@
                 <div class="row">
 
 
-                    <h1 style=" color:#000;font-size: 28px;">What are the Industry Mentors saying
-
-                    </h1><br>
+                    <h2><b>What are the Industry Mentors saying</b></h2>
                     <div class="col-md-6">
                         <div class="card">
 
@@ -1217,110 +830,12 @@
                 </div>
                 <hr>
             </div>
-            </div>
         </section>
 
-        <section id="learnExpert">
-            <div class="container">
-                <div class="cer-slider">
-                    <h3>Our Expert Advisory Board
-
-                    </h3>
-                </div>
-                <div class="row">
-                    <div class="certification-carousel">
-                        <div class="item" id="fintech">
-                            <div class="card cus-card">
-                                <img src="assets/images/course/harbour/DrJayantPanse.jpg" alt="Certification">
-                                <div class="card-body">
-
-                                    <!-- <a href="#" style="text-decoration: none;"><h5 class="card-title" >Professional course in Fintech</h5></a> -->
-                                    <h5 class="card-title">Dr. Jayant Panse.</h5>
-                                    <!-- <h2><b>Dr. Jayant Panse.</b></h2> -->
-                                    <span>Consultant and Mentor</span><br>
-                                    <span>Academician and Industry Mentor</span><br><br>
-                                    <small><b>24 Yrs.Experience </b></small>
-
-                                    <!-- <p class="card-text">Become part of India's fastest growing Fintech Industry with
-                                        our
-                                        Professional course in Fintech</p>
-                                    <div class="course-fee">
-                                        <p>Course Fees</p>
-                                        <p>&#8377; 54,000 /-</p>
-                                    </div>
-                                    <a href="fintech"> <button type="button"
-                                            class="mtsk-arrow card-button"></button></a> -->
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="card cus-card">
-                                <img src="assets/images/course/harbour/DrArvindKakulte.jpg" alt="Certification">
-                                <div class="card-body">
-
-
-                                    <h5 class="card-title">Dr. Arvind Kakulte.</h5>
-
-                                    <span>HOD, Psychology in S.P. Colleget</span><br>
-                                    <span>Clinical Psychologist and Academician</span><br>
-                                    <small><b>25 Yrs.Experience</b> </small>
-
-
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="card cus-card">
-                                <img src="assets/images/course/harbour/MrNiranjan-Kulkarni.jpg" alt="Certification">
-                                <div class="card-body">
-
-
-                                    <h5 class="card-title">Mr. Niranjan Kulkarni</h5>
-
-                                    <span>Lead Manager HR and IR </span>
-                                    <span>Mahindra CIE Automotive Ltd.</span>
-                                    <span>Seasoned HR practitioner</span><br><br>
-                                    <small><b>12 Yrs.Experience </b></small>
-
-
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="item">
-                            <div class="card cus-card">
-                                <img src="assets/images/course/harbour/DrSairajPatki.jpg" alt="Certification">
-                                <div class="card-body">
-
-
-                                    <h5 class="card-title">Dr. Sairaj Patki</h5>
-
-
-                                    <span>Asst. Professor (Psychology)</span><br>
-                                    <span> At Flame University</span><br>
-                                    <span>Psychologist and Academician</span><br><br>
-                                    <small><b>10 Yrs.Experience</b> </small>
-
-
-                                </div>
-                            </div>
-                        </div>
-
-
-                    </div>
-                </div>
-                <hr>
-            </div>
-
-        </section>
-
-        <!-- <section id="curriculam" class="enroll-certification"> -->
         <section>
             <div class="container">
                 <div class="row">
-                    <h3>FAQs
-
-                    </h3>
+                    <h2><b>FAQs</b></h2>
                     <div class="cur-accordiaon">
                         <!-- <h3>COURSE SYLLABUS</h3> -->
                         <div class="accordion curriculum-accordion" id="curriculum">
@@ -1335,13 +850,8 @@
                                     <div class="accordion-body hero10">
                                         <div class="row p-3">
                                             <!-- <div class="fintech-module digital-mod"> -->
-                                            <div class="alert brandcolor" role="alert"><strong> MOCS is an
-                                                    exclusive vertical of MITSDE aimed at the holistic development of
-                                                    our learners to develop them into well-rounded working professionals
-                                                    - aiming at their overall wellness - on professional and personal
-                                                    fronts.</strong><br>
+                                            <div class="alert brandcolor" role="alert">The MIT Office of Career Services is MITSDE's in-house career and well-being team. We deliver personalised career planning, workshops, mentoring, counselling, mock interviews, and placement support to every enrolled MITSDE student across the full duration of their programme.
                                             </div>
-
                                         </div>
                                     </div>
                                 </div>
@@ -1350,19 +860,15 @@
                                 <h2 class="accordion-header">
                                     <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#module2" aria-expanded="false" aria-controls="module2">
-                                        Is it a compulsory service or optional?
+                                        Is MOCS optional?
                                     </button>
                                 </h2>
                                 <div id="module2" class="accordion-collapse collapse show" data-bs-parent="#curriculum">
                                     <div class="accordion-body hero10">
                                         <div class="row p-3">
                                             <!-- <div class="fintech-module digital-mod"> -->
-                                            <div class="alert brandcolor" role="alert"><strong>It is completely optional
-                                                    but necessary for your holistic development beyond academics. We
-                                                    recommend it since the benefits will be far greater than your
-                                                    investment.</strong><br>
+                                            <div class="alert brandcolor" role="alert">For students enrolled in Cohort 15 onwards, MOCS is part of the programme — included in your fee and delivered to every learner. Participation in individual sessions is your choice, but every student has full access.
                                             </div>
-
                                         </div>
                                     </div>
                                 </div>
@@ -1371,19 +877,15 @@
                                 <h2 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#module3" aria-expanded="false" aria-controls="module3">
-                                        Who is eligible for the MOCS Subscription?
+                                        Do I have to pay extra for MOCS?
                                     </button>
                                 </h2>
                                 <div id="module3" class="accordion-collapse collapse" data-bs-parent="#curriculum">
                                     <div class="accordion-body hero10">
                                         <div class="row p-3">
                                             <!-- <div class="fintech-module digital-mod"> -->
-                                            <div class="alert brandcolor" role="alert"><strong>New Learners can register
-                                                    at the time of course enrollment. Also, all Learners currently
-                                                    enrolled with us for any of our post graduate diploma programs are
-                                                    eligible to take the membership.</strong><br>
+                                            <div class="alert brandcolor" role="alert">No. If you are enrolled at MITSDE from Cohort 15 onwards, MOCS is included in your programme fee. The only exception is non-MITSDE learners who subscribe to MOCS as a standalone service — separate pricing applies on the dedicated page.
                                             </div>
-
                                         </div>
                                     </div>
                                 </div>
@@ -1392,16 +894,14 @@
                                 <h2 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#module4" aria-expanded="false" aria-controls="module4">
-                                        What is the duration of the Subscription?
+                                        What is the Career Diagnostic Tool?
                                     </button>
                                 </h2>
                                 <div id="module4" class="accordion-collapse collapse" data-bs-parent="#curriculum">
                                     <div class="accordion-body hero10">
                                         <div class="row p-3">
                                             <!-- <div class="fintech-module digital-mod"> -->
-                                            <div class="alert brandcolor" role="alert"><strong>We currently have a
-                                                    Complete Duration of Your Course subscription model as an
-                                                    option</strong>
+                                            <div class="alert brandcolor" role="alert">A structured assessment completed in your first month. It captures your current role, target role, skills, and gaps — and the results shape your personalised Career Development Plan and roadmap.
                                             </div>
 
                                         </div>
@@ -1413,16 +913,14 @@
                                 <h2 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#module5" aria-expanded="false" aria-controls="module5">
-                                        Is there a Communication Channel for MOCS?
+                                        What is the Career Development Plan (CDP)?
                                     </button>
                                 </h2>
                                 <div id="module5" class="accordion-collapse collapse" data-bs-parent="#curriculum">
                                     <div class="accordion-body hero10">
                                         <div class="row p-3">
                                             <!-- <div class="fintech-module digital-mod"> -->
-                                            <div class="alert brandcolor" role="alert"><strong>For clarity in
-                                                    communication, we have a Telegram group exclusively for MOCS
-                                                    subscribers</strong>
+                                            <div class="alert brandcolor" role="alert">A personalised career plan generated using AI and reviewed by the MOCS team. You receive it as a downloadable PDF and a short audio walkthrough. It specifies what you are working towards, what MOCS has lined up for you across 4 semesters, and which services will help.
                                             </div>
 
                                         </div>
@@ -1433,15 +931,14 @@
                                 <h2 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#module6" aria-expanded="false" aria-controls="module6">
-                                        How can I contact the MOCS Team?
+                                        How long does MOCS run?
                                     </button>
                                 </h2>
                                 <div id="module6" class="accordion-collapse collapse" data-bs-parent="#curriculum">
                                     <div class="accordion-body hero10">
                                         <div class="row p-3">
                                             <!-- <div class="fintech-module digital-mod"> -->
-                                            <div class="alert brandcolor" role="alert"><strong>MITSDE Learners can write
-                                                    to us by raising a ticket on your TMS.</strong>
+                                            <div class="alert brandcolor" role="alert">The full duration of your programme — across all four semesters.
                                             </div>
 
                                         </div>
@@ -1452,36 +949,15 @@
                                 <h2 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#module7" aria-expanded="false" aria-controls="module7">
-                                        What services will be offered under MOCS?
+                                        What services are included?
                                     </button>
                                 </h2>
                                 <div id="module7" class="accordion-collapse collapse" data-bs-parent="#curriculum">
                                     <div class="accordion-body hero10">
                                         <div class="row p-3">
                                             <!-- <div class="fintech-module digital-mod"> -->
-                                            <div class="alert brandcolor" role="alert"><strong>You will be getting the
-                                                    following services under MOCS:
-                                                    <p>A] Study Plans</p>
-                                                    <p>B] Coping Workshops</p>
-                                                    <p>C] One-on-One Counselling / Group Counselling</p>
-                                                    <p>D] Industry Mentoring Program</p>
-                                                    <p>E] MOCS Archives</p>
-
-                                                </strong>
-                                            </div><br>
-                                            <div class="alert brandcolor" role="alert"><strong>You have option to select
-                                                    all offerings for 1599/- for Complete Duration of Your Course select from the segmentations
-                                                    mentioned below:
-
-                                                    <p>A] Coping Workshops + Study Plans (499/-)</p>
-                                                    <p>B] Industry Mentoring Program (499/-)</p>
-                                                    <p>C] Group Counselling + Personal Counselling + MOCS Archives
-                                                        (999/-)</p>
-                                                    <p>D] All 5 Services (1599/-)</p>
-
-                                                </strong>
+                                            <div class="alert brandcolor" role="alert">Career counselling (1:1 and group), industry mentoring, soft-skills training (Kaushalya), communication skills, leadership development (Adhyapan), networking workshops, AI and panel mock interviews, mental health support (Maanas, Anubhuti), resume and LinkedIn sign-off, placement support, and a MOCS Completion Certificate.
                                             </div>
-
                                         </div>
                                     </div>
                                 </div>
@@ -1490,18 +966,14 @@
                                 <h2 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#module8" aria-expanded="false" aria-controls="module8">
-                                        What is the process after subscription
+                                        What happens during exam months?
                                     </button>
                                 </h2>
                                 <div id="module8" class="accordion-collapse collapse" data-bs-parent="#curriculum">
                                     <div class="accordion-body hero10">
                                         <div class="row p-3">
                                             <!-- <div class="fintech-module digital-mod"> -->
-                                            <div class="alert brandcolor" role="alert"><b>
-                                                    <p> You will receive Welcome email and Welcome Call with
-                                                        instructions to start the services.</p>
-
-                                                </b>
+                                            <div class="alert brandcolor" role="alert">MOCS live sessions pause during university exam windows. Async content remains available on the LMS. Exam months do not count against your MOCS attendance.
                                             </div>
 
                                         </div>
@@ -1512,22 +984,14 @@
                                 <h2 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#module9" aria-expanded="false" aria-controls="module9">
-                                        Why do I have to pay separately for this Service?
+                                        Does MOCS affect my academic certificate?
                                     </button>
                                 </h2>
                                 <div id="module9" class="accordion-collapse collapse" data-bs-parent="#curriculum">
                                     <div class="accordion-body hero10">
                                         <div class="row p-3">
                                             <!-- <div class="fintech-module digital-mod"> -->
-                                            <div class="alert brandcolor" role="alert"><b>
-                                                    <p> It is optional to benefit from MOCS Services. It is a
-                                                        wellness initiative of MITSDE offering various services that
-                                                        will help you develop holistically into a dynamic working
-                                                        professional. There is an amount attached to the same in order
-                                                        to keep the service exclusive to a limited number of learners
-                                                        only to ensure brilliant service to all its subscribers.</p>
-
-                                                </b>
+                                            <div class="alert brandcolor" role="alert">No. MOCS is co-curricular. The MOCS Completion Certificate is separate from your MITSDE academic certificate.
                                             </div>
 
                                         </div>
@@ -1538,25 +1002,17 @@
                                 <h2 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#module10" aria-expanded="false" aria-controls="module10">
-                                        Where can I register for MOCS?
+                                        I subscribed to MOCS in an earlier cohort — what happens to my subscription?
                                     </button>
                                 </h2>
                                 <div id="module10" class="accordion-collapse collapse" data-bs-parent="#curriculum">
                                     <div class="accordion-body hero10">
                                         <div class="row p-3">
                                             <!-- <div class="fintech-module digital-mod"> -->
-                                            <div class="alert brandcolor" role="alert"><b>
-                                                    <p> You can register on the following Link : <span
-                                                            style="font-size: 16px; color: #f47521;"><a
-                                                                href="https://mitsde.com/mit-office-of-career-services-registration"
-                                                                style="color: #f47521;">https://mitsde.com/mit-office-of-career-services-registration</a>
-                                                        </span>We encourage you to make the most out of this amazing USP
-                                                        that we have in the form of the MOCS services. None of our
-                                                        competitors offer these essential services to their students.
-                                                        MOCS services can prove to be a lifeline for our learners
-                                                        during their course.</p>
-
-                                                </b>
+                                            <div class="alert brandcolor" role="alert">
+                                                All services you subscribed to continue exactly as committed. Raise a ticket on the TMS if you have questions about your specific subscription.
+                                                <br>
+                                                <a href="https://elibrary.mitsde.com/stms" target="_blank" style="color: #f47521;">→  Raise a ticket on TMS</a>
                                             </div>
 
                                         </div>
@@ -1567,23 +1023,16 @@
                                 <h2 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#module11" aria-expanded="false" aria-controls="module11">
-                                        What is mentoring Meeting?
+                                        What if I am not a MITSDE student but want MOCS services?
                                     </button>
                                 </h2>
                                 <div id="module11" class="accordion-collapse collapse" data-bs-parent="#curriculum">
                                     <div class="accordion-body hero10">
                                         <div class="row p-3">
                                             <!-- <div class="fintech-module digital-mod"> -->
-                                            <div class="alert brandcolor" role="alert"><b>
-                                                    <p> A Mentoring Program is a key feature of the MOCS.It provides an
-                                                        opportunity to connect with a mentor from your specific domain.
-                                                        These meetings take place in small, focused groups, ensuring
-                                                        personalized guidance and meaningful discussions. With a total
-                                                        of four mentoring sessions, this platform allows you to gain
-                                                        valuable knowledge while building strong professional
-                                                        connections.</p>
-
-                                                </b>
+                                            <div class="alert brandcolor" role="alert">A standalone MOCS subscription is available for non-MITSDE learners.
+                                                <br>
+                                                <a href="https://mitsde.com/mocs-for-external-learner" target="_blank" style="color: #f47521;">→  Explore MOCS for non-MITSDE learners</a>
                                             </div>
 
                                         </div>
@@ -1594,20 +1043,14 @@
                                 <h2 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#module12" aria-expanded="false" aria-controls="module12">
-                                        What to apply for counselling session?
+                                        How do I see my upcoming workshops, mentor meetings, or counselling sessions?
                                     </button>
                                 </h2>
                                 <div id="module12" class="accordion-collapse collapse" data-bs-parent="#curriculum">
                                     <div class="accordion-body hero10">
                                         <div class="row p-3">
                                             <!-- <div class="fintech-module digital-mod"> -->
-                                            <div class="alert brandcolor" role="alert"><b>
-                                                    <p> To apply for a counseling session, first register under the
-                                                        MOCS. After registration, you will receive an inception form.
-                                                        Once you fill it out, the counseling team will contact you for
-                                                        your session.</p>
-
-                                                </b>
+                                            <div class="alert brandcolor" role="alert">Everything is in your MOCS dashboard inside the learner portal — workshop calendars, milestone progress, your CDP, and 1:1 booking, all in one place. Access your MOCS dashboard on your LMS.
                                             </div>
 
                                         </div>
@@ -1615,11 +1058,26 @@
                                 </div>
                             </div>
 
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#module13" aria-expanded="false" aria-controls="module13">
+                                        How do I contact the MOCS team?
+                                    </button>
+                                </h2>
+                                <div id="module13" class="accordion-collapse collapse" data-bs-parent="#curriculum">
+                                    <div class="accordion-body hero10">
+                                        <div class="row p-3">
+                                            <!-- <div class="fintech-module digital-mod"> -->
+                                            <div class="alert brandcolor" role="alert">MITSDE learners: raise a ticket on TMS, or use the MOCS communication channel shared in your welcome email. Non-MITSDE learners: use the contact form on the registration page.
+                                                <br>
+                                                <a href="https://elibrary.mitsde.com/stms" target="_blank" style="color: #f47521;">→  Raise a support ticket</a>
+                                            </div>
 
-                            </ul>
-
-                            </li>
-
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
 
                         </div>
                     </div>
