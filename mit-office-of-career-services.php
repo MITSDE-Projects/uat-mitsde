@@ -211,32 +211,33 @@
                         <h2>The MOCS Journey — How It Works</h2>
                     </div>
                     <div class="col-md-12 col-lg-12 fin-feature hero11">
-                        <h3>Five stages. Twenty-six months. One outcome.</h3>
+                        <h3><b>Your Career Roadmap</b></h3>
+                        <h3>Five stages. One outcome.</h3>
                         <p>
                             The MOCS journey runs across four semesters in five clear stages. Each stage builds on the last — you cannot practice for interviews if you have not built the skills, and you cannot build the skills without first diagnosing where you stand.
                         </p>
 
-                        <h4><b>Stage 1 — Diagnose | Semester 1, Months 1–3</b></h4>
+                        <h4><b>Stage 1 — Diagnose</b></h4>
                         <p>
                             You complete the Career Diagnostic, meet your career manager, and receive your personalised Career Development Plan (CDP). MOCS establishes your starting point — your current role, target role, strengths, and gaps.
                         </p>
 
-                        <h4><b>Stage 2 — Plan | Semester 1, Months 3–6</b></h4>
+                        <h4><b>Stage 2 — Plan</b></h4>
                         <p>
-                            Your roadmap is finalised. You complete role-clarity workshops, set up your LinkedIn profile, and connect with peers in your domain. By the end of Semester 1, you know what you are working towards and how MOCS will get you there.
+                            Your roadmap is finalised. You complete role-clarity workshops, set up your LinkedIn profile, and connect with peers in your domain. By the end of Stage 1, you know what you are working towards and how MOCS will get you there.
                         </p>
 
-                        <h4><b>Stage 3 — Build | Semester 2</b></h4>
+                        <h4><b>Stage 3 — Build</b></h4>
                         <p>
                             The skill-building phase: soft-skills training, communication workshops, leadership programs, networking series, and the commencement of your industry mentoring journey.
                         </p>
 
-                        <h4><b>Stage 4 — Practice | Semester 3</b></h4>
+                        <h4><b>Stage 4 — Practice</b></h4>
                         <p>
-                            Resume sign-off, AI-powered mock interviews, panel mocks, portfolio building, and live feedback. By the end of Semester 3, you are interview-ready.
+                            Resume sign-off, AI-powered mock interviews, panel mocks, portfolio building, and live feedback. By the end of this stage, you are interview-ready.
                         </p>
 
-                        <h4><b>Stage 5 — Place | Semester 4</b></h4>
+                        <h4><b>Stage 5 — Place</b></h4>
                         <p>
                             Active placement support, offer-handling guidance, salary negotiation training, and final mentoring. The goal is not just an offer — it is the right offer.
                         </p>
@@ -322,7 +323,7 @@
                 </div>
             </div>
 
-            <div class="container">
+            <!-- <div class="container">
                 <div class="row">
                     <div class="col-md-12 col-lg-12 fintech-certi">
                         <h2>Your Career Roadmap</h2>
@@ -380,7 +381,7 @@
                         <hr>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
             <div class="container">
                 <div class="row">
