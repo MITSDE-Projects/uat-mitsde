@@ -183,7 +183,7 @@ if ($stmt->fetch()) {
                 }
             }
 
-            if (Course == "35_Dual Program" && SecondSpecializationID == 0) {
+            if (Course == "53_Dual Program" && SecondSpecializationID == 0) {
                 errors[errors.length] = "Select Dual Program Specialization";
             }
 
