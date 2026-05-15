@@ -403,12 +403,11 @@
 
                         <a class="nav-link" id="proposed-internships-tab" data-bs-toggle="pill"
                             href="#proposed-internships-queries" role="tab" aria-controls="proposed-internships-queries"
-                            aria-selected="false">Proposed Internships 2025
+                            aria-selected="false">International Internship Opportunities
                         </a>
 
                         <a class="nav-link" id="isip-interns-tab" data-bs-toggle="pill" href="#isip-interns-queries"
-                            role="tab" aria-controls="isip-interns-queries" aria-selected="false">ISIP Interns -
-                            Shortlisted 2025
+                            role="tab" aria-controls="isip-interns-queries" aria-selected="false">ISIP Program Participant
                         </a>
 
                         <a class="nav-link" id="internation-immersion-tab" data-bs-toggle="pill"
@@ -581,140 +580,307 @@
                                     </ul>
 
                                     <div class="outreach-table-container p-3">
+
+                                        <h5>ISIP 2026</h5>
+
                                         <table class="outreach-table">
                                             <tr>
                                                 <th>Sr. No.</th>
-                                                <th>Name of Internship</th>
+                                                <th>Proposed Internship</th>
                                                 <th>Related Field</th>
                                                 <th>Date of Application</th>
                                                 <th>Deadline of Application</th>
                                                 <th>Duration</th>
                                                 <th>Place</th>
-                                                <th>Self-funded/ Fully Funded</th>
+                                                <th>Cost/ Fully Funded</th>
                                                 <th>Cost Of Internship</th>
-                                                <th>Status</th>
+                                                <th>Number of Student Applied</th>
+                                                <th>Number of Students Selected</th>
                                             </tr>
+
                                             <tr>
                                                 <td>1</td>
-                                                <td>KU Star Research Internship Program</td>
-                                                <td>Operations Research & Continuous <br> Optimization etc</td>
-                                                <td>14th January 2025</td>
-                                                <td>31st January, 2025, 5 PM (JST)</td>
-                                                <td>May 20 – July 17, 2025</td>
-                                                <td>Kyoto University, Japan</td>
+                                                <td>Kyoto University KU-STAR Research Internship 2026</td>
+                                                <td>
+                                                    Engineering, Computer Science, Energy,
+                                                    Life Sciences, Agriculture, Medicine &
+                                                    Interdisciplinary fields
+                                                </td>
+                                                <td>10th January 2026</td>
+                                                <td>27th January 2026</td>
+                                                <td>
+                                                    May – July 2026
+                                                    (Approx. 19 May – 10 July)
+                                                </td>
+                                                <td>Japan</td>
                                                 <td>Fully Funded</td>
-                                                <td></td>
-                                                <td>2 Learners Selected from MITSDE, out<br> of 22 from India and 519
-                                                    from
-                                                    Globally</td>
+                                                <td>NA</td>
+                                                <td>20</td>
+                                                <td>-</td>
                                             </tr>
+
                                             <tr>
                                                 <td>2</td>
-                                                <td>Sumitomo Electric Global Internship, Japan</td>
-                                                <td>
-                                                    1. Frontier Technologies <br>
-                                                    2. Human Resources Development <br>
-                                                    3. Optical Communications
-                                                </td>
-                                                <td>11th February 2025</td>
-                                                <td>February 16, 2025 (11:59 PM JST)</td>
-                                                <td>May to August 2025</td>
-                                                <td>Osaka and Yokohama, Japan</td>
-                                                <td>Fully Funded</td>
-                                                <td></td>
-                                                <td>Results awaited - Tentatively April<br> 2025</td>
+                                                <td>Denmark MBMI Program 2026</td>
+                                                <td>Entrepreneurship & Business Innovation</td>
+                                                <td>3rd April 2026</td>
+                                                <td>15th April 2026</td>
+                                                <td>4 or 6 Weeks (10 June – 22 July 2026)</td>
+                                                <td>Struer, Denmark</td>
+                                                <td>Self-Funded</td>
+                                                <td>₹290,500</td>
+                                                <td>4</td>
+                                                <td>1</td>
                                             </tr>
+
                                             <tr>
                                                 <td>3</td>
-                                                <td>Texas A&M University, Texarkana, USA</td>
-                                                <td>Any Specialization</td>
-                                                <td>8th February 2025</td>
-                                                <td>15th March 2025</td>
-                                                <td>July to August 2025</td>
-                                                <td>Texas A&M University, Texarkana, USA</td>
-                                                <td>Self Funded</td>
-                                                <td>Rs. 3.58 Lakh</td>
-                                                <td></td>
+                                                <td>Teesside University Global Summer School 2026</td>
+                                                <td>Multi-disciplinary</td>
+                                                <td>3rd April 2026</td>
+                                                <td>On-going</td>
+                                                <td>4 Weeks (6–31 July 2026)</td>
+                                                <td>Middlesbrough, UK</td>
+                                                <td>Self-Funded</td>
+                                                <td>₹ 3,10,000</td>
+                                                <td>4</td>
+                                                <td>-</td>
                                             </tr>
+
                                             <tr>
                                                 <td>4</td>
-                                                <td>Teesside University, Middlesbrough, UK</td>
-                                                <td>Any Specialization</td>
-                                                <td>8th February 2025</td>
-                                                <td>15th March 2025</td>
-                                                <td>July to August 2025</td>
-                                                <td>Teesside University, Middlesbrough, UK</td>
-                                                <td>Self Funded</td>
-                                                <td>Rs. 3.58 Lakh</td>
-                                                <td></td>
+                                                <td>Sustainability Immersion Program UMN Indonesia 2026</td>
+                                                <td>Sustainability / Culture</td>
+                                                <td>3rd April 2026</td>
+                                                <td>On-going</td>
+                                                <td>~3 Weeks (Hybrid) (July 2026)</td>
+                                                <td>Jakarta, Indonesia</td>
+                                                <td>Self-Funded</td>
+                                                <td>₹98,000</td>
+                                                <td>7</td>
+                                                <td>1</td>
                                             </tr>
+
                                             <tr>
                                                 <td>5</td>
-                                                <td>University of Putra, Malaysia</td>
-                                                <td>Business, engineering, environmental<br> science</td>
-                                                <td>8th February 2025</td>
-                                                <td>15th March 2025 (Extended Date <br>31st March 2025)</td>
-                                                <td>July to August 2025</td>
-                                                <td>University of Putra, Malaysia</td>
-                                                <td>Self Funded</td>
-                                                <td>Rs. 3.58 Lakh</td>
-                                                <td></td>
+                                                <td>SDG Global Internship Program Vietnam 2026</td>
+                                                <td>Sustainability / SDG</td>
+                                                <td>8th April 2026</td>
+                                                <td>30th April 2026</td>
+                                                <td>30 Days (1–30 July 2026)</td>
+                                                <td>Vietnam</td>
+                                                <td>Self-Funded</td>
+                                                <td>₹209,500 – ₹260,000</td>
+                                                <td>4</td>
+                                                <td>-</td>
                                             </tr>
+
                                             <tr>
                                                 <td>6</td>
-                                                <td>Teesside University International Summer<br> Internship 2025</td>
-                                                <td>Project Management</td>
-                                                <td>5th March 2025</td>
-                                                <td>15th March 2025</td>
-                                                <td>4 weeks (starts from 2nd week of <br>July 2025)</td>
-                                                <td>Teesside University, UK</td>
-                                                <td>Self Funded</td>
-                                                <td>₹ 3.28 Lakhs</td>
-                                                <td>-</td>
-                                            </tr>
-                                            <tr>
-                                                <td>7</td>
-                                                <td>X – Culture-Research Internship 2025</td>
-                                                <td>Any Specialization</td>
-                                                <td>10th March 2025</td>
-                                                <td>11th March 2025</td>
-                                                <td>March 15 - April 27, 2025</td>
-                                                <td>Online</td>
-                                                <td>-</td>
-                                                <td>-</td>
-                                                <td>-</td>
-                                            </tr>
-                                            <tr>
-                                                <td>8</td>
-                                                <td>Entrepreneurship & Business, McCoy College<br> of Business, Texas
-                                                    State
-                                                    University, USA</td>
-                                                <td>Engineering, Design and Management
+                                                <td>LOTUS Programme 2026 (India–Japan Research Program)</td>
+                                                <td>
+                                                    Research (AI, Biotechnology, Energy,
+                                                    Quantum, etc.)
                                                 </td>
-                                                <td>11th March 2025</td>
-                                                <td>31st March 2025</td>
-                                                <td>6 Weeks (June – July 2025)</td>
-                                                <td>Texas State University, USA</td>
-                                                <td>Self Funded</td>
-                                                <td>₹ 4.62 Lakhs</td>
-                                                <td>-</td>
-                                            </tr>
-                                            <tr>
-                                                <td>9</td>
-                                                <td>Exclusive Japan Internship Opportunity –<br> June 2025</td>
-                                                <td>Any Specialization (Engineering, Business,<br> Renewable Energy,
-                                                    etc.)
+                                                <td>8th April 2026</td>
+                                                <td>9th June 2026</td>
+                                                <td>
+                                                    October 2026 LOTUS Basic: Up to 12 months <br>
+                                                    LOTUS-ASPIRE: Up to 36 months
                                                 </td>
-                                                <td>24th March 2025</td>
-                                                <td>31st March 2025</td>
-                                                <td>18–20 Days (June 2025)</td>
-                                                <td>Nagoya, Tokyo, and Nagano, Japan</td>
-                                                <td>Self Funded</td>
-                                                <td>₹ 230,000 – 260,000 Lakhs</td>
+                                                <td>Japan</td>
+                                                <td>Fully Funded</td>
+                                                <td>₹1.4 Lakh/month (Stipend)</td>
+                                                <td>34</td>
                                                 <td>-</td>
                                             </tr>
 
                                         </table>
+
+                                    </div>
+
+                                    <div class="outreach-table-container p-3 mt-4">
+
+                                        <h5>ISIP 2025</h5>
+
+                                        <table class="outreach-table">
+                                            <tr>
+                                                <th>Sr. No.</th>
+                                                <th>Proposed Internship</th>
+                                                <th>Related Field</th>
+                                                <th>Date of Application</th>
+                                                <th>Deadline of Application</th>
+                                                <th>Duration</th>
+                                                <th>Place</th>
+                                                <th>Cost/ Fully Funded</th>
+                                                <th>Cost of Internship</th>
+                                                <th>Number of Students Applied</th>
+                                                <th>Number of Students Selected</th>
+                                            </tr>
+
+                                            <tr>
+                                                <td>1</td>
+                                                <td>KU Star Research Internship Program</td>
+                                                <td>Operations Research & Continuous Optimization etc</td>
+                                                <td>14th January 2025</td>
+                                                <td>31th January, 2025, 5 PM (JST)</td>
+                                                <td>May 20 – July 17, 2025</td>
+                                                <td>Kyoto University, Japan</td>
+                                                <td>Fully Funded</td>
+                                                <td>NA</td>
+                                                <td>20</td>
+                                                <td>2</td>
+                                            </tr>
+
+                                            <tr>
+                                                <td>2</td>
+                                                <td>Teesside University International Summer Internship 2025</td>
+                                                <td>Project Management</td>
+                                                <td>5th March 2025</td>
+                                                <td>15th March 2025</td>
+                                                <td>4 weeks (7th July to 2nd August 2025)</td>
+                                                <td>Teesside University, UK</td>
+                                                <td>Self Funded</td>
+                                                <td>INR 3.28 Lakhs</td>
+                                                <td>2</td>
+                                                <td>2</td>
+                                            </tr>
+
+                                            <tr>
+                                                <td>3</td>
+                                                <td>Global Internship Program 2025 : CTIF Global Capsule, Denmark</td>
+                                                <td>Multi-Business Model Innovation</td>
+                                                <td>11th March 2025</td>
+                                                <td>31st March 2025</td>
+                                                <td>1 Month</td>
+                                                <td>Denmark</td>
+                                                <td>Self Funded</td>
+                                                <td>INR 4.62 Lakhs</td>
+                                                <td>2</td>
+                                                <td>2</td>
+                                            </tr>
+
+                                            <tr>
+                                                <td>4</td>
+                                                <td>Virtual Beginnings, Real-Life Adventures: Indonesian Cultural Exploration</td>
+                                                <td>Any Specialization</td>
+                                                <td>7th May 2025</td>
+                                                <td>20th May 2025</td>
+                                                <td>7 July - 25th July 2025 (3 weeks)</td>
+                                                <td>Indonesia</td>
+                                                <td>Self Funded</td>
+                                                <td>INR 77,670</td>
+                                                <td>8</td>
+                                                <td>2</td>
+                                            </tr>
+
+                                            <tr>
+                                                <td>5</td>
+                                                <td>CGC Fall School 2025 – Denmark</td>
+                                                <td>Any Specialization</td>
+                                                <td>17th July 2025</td>
+                                                <td>30th July 2025</td>
+                                                <td>22nd Sept – 10th Oct 2025 (3 Weeks)</td>
+                                                <td>Denmark</td>
+                                                <td>Self Funded</td>
+                                                <td>INR 1,69,000/-</td>
+                                                <td>0</td>
+                                                <td>-</td>
+                                            </tr>
+
+                                            <tr>
+                                                <td>6</td>
+                                                <td>Inspiring Japan Program – February 2026</td>
+                                                <td>Any Specialization</td>
+                                                <td>29th September 2025</td>
+                                                <td>20th October 2025</td>
+                                                <td>20 days (9th – 18th February 2026)</td>
+                                                <td>Japan</td>
+                                                <td>Self Funded</td>
+                                                <td>INR 1,75,000/-</td>
+                                                <td>3</td>
+                                                <td>1</td>
+                                            </tr>
+
+                                            <tr>
+                                                <td>7</td>
+                                                <td>Step into Global Business Leadership: International Internship at AIT, Thailand (Dec 2025)</td>
+                                                <td>
+                                                    MBA and Management students specializations in Global Business,
+                                                    Digital Transformation, and Strategic Leadership.
+                                                </td>
+                                                <td>7th November 2025</td>
+                                                <td>12th November 2025</td>
+                                                <td>7th–13th Dec 2025 (7 Days)</td>
+                                                <td>Thailand</td>
+                                                <td>Self Funded</td>
+                                                <td>INR 53,174.88/-</td>
+                                                <td>4</td>
+                                                <td>1</td>
+                                            </tr>
+
+                                            <tr>
+                                                <td>8</td>
+                                                <td>ISIP 7-Day International Bootcamps 2026</td>
+                                                <td>
+                                                    AI, Data Science, Business Analytics,
+                                                    Innovation & Entrepreneurship.
+                                                </td>
+                                                <td>29th November 2025</td>
+                                                <td>8th December 2025</td>
+                                                <td>
+                                                    May 2026 <br>
+                                                    Duration: 7 Days
+                                                </td>
+                                                <td>
+                                                    Singapore + Malaysia <br>
+                                                    Germany + France
+                                                </td>
+                                                <td>Self Funded</td>
+                                                <td>
+                                                    Singapore + Malaysia – ₹1,09,000 + 5% GST <br>
+                                                    Germany + France – ₹1,59,000 + 5% GST
+                                                </td>
+                                                <td>4</td>
+                                                <td>2 Confirmed</td>
+                                            </tr>
+
+                                            <tr>
+                                                <td>9</td>
+                                                <td>ETH Zurich – Summer Research Fellowship Programme</td>
+                                                <td>
+                                                    Computer Science, Electrical Engineering,
+                                                    Mathematics, Physics, and related fields
+                                                </td>
+                                                <td>15th December 2025</td>
+                                                <td>16th December 2025</td>
+                                                <td>2 Months (July–August) 2026</td>
+                                                <td>Zurich, Switzerland</td>
+                                                <td>Fully Funded</td>
+                                                <td>CHF 4,000 total stipend (approx. INR 4,00,000)</td>
+                                                <td>18</td>
+                                                <td>NA</td>
+                                            </tr>
+
+                                            <tr>
+                                                <td>10</td>
+                                                <td>CERN Openlab Summer Programme 2026</td>
+                                                <td>IT, Computer, Physics, Maths, Engineering</td>
+                                                <td>27th December 2025</td>
+                                                <td>26th January 2026</td>
+                                                <td>
+                                                    9 Weeks (Onsite, Summer 2026) <br>
+                                                    Start Date: 22 June or 29 June 2026
+                                                </td>
+                                                <td>Geneva (Switzerland)</td>
+                                                <td>Fully Funded</td>
+                                                <td>NA</td>
+                                                <td>41</td>
+                                                <td>22 (Applied)</td>
+                                            </tr>
+
+                                        </table>
+
                                     </div>
 
                                     </p>
