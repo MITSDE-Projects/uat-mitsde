@@ -635,6 +635,50 @@
                                     </div>
                                 </div>
                             </div>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#questions6" aria-expanded="false" aria-controls="questions6">
+                                        What subjects are covered in the Material Management syllabus?
+                                    </button>
+                                </h2>
+                                <div id="questions6" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <ul class="fin-feature2">
+                                                        <p>The syllabus covers inventory management, procurement, logistics, supply chain strategy, and cost optimisation. Apart from that, students also study vendor evaluation, negotiation, and ERP and SAP implementation. Core management principles run alongside these specialisation subjects, giving students a solid foundation in both operational and strategic aspects of material management.
+                                                        </p>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#questions7" aria-expanded="false" aria-controls="questions7">
+                                        What skills will I gain from the Material Management course?
+                                    </button>
+                                </h2>
+                                <div id="questions7" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <ul class="fin-feature2">
+                                                        <p>The course builds practical skills in procurement planning, inventory control, and supplier negotiation. Here, you shall gain working knowledge of ERP tools used in real supply chain environments. And beyond technical skills, the programme develops analytical thinking and decision-making abilities. These skills are directly applicable in manufacturing, logistics, retail, and FMCG roles.
+                                                        </p>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>

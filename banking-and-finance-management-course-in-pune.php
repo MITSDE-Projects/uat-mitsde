@@ -645,6 +645,50 @@
                                     </div>
                                 </div>
                             </div>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#questions6" aria-expanded="false" aria-controls="questions6">
+                                        What makes MITSDE different from other Banking and Finance institutes in Pune?
+                                    </button>
+                                </h2>
+                                <div id="questions6" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <ul class="fin-feature2">
+                                                        <p>MITSDE is AICTE-approved and follows an industry-informed curriculum. The programme covers real-world case studies, investment scenarios, and digital banking trends. It is designed for working professionals. Hence, learning happens alongside a full-time job without requiring a career break.
+                                                        </p>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#questions7" aria-expanded="false" aria-controls="questions7">
+                                        What industries hire Banking and Finance Management graduates?
+                                    </button>
+                                </h2>
+                                <div id="questions7" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <ul class="fin-feature2">
+                                                        <p>Graduates move into banking, insurance, mutual funds, fintech, and corporate finance teams. NBFCs and investment consultancies are also active hirers. Additionally, Pune's growing BFSI and fintech ecosystem creates strong local demand. Here, roles span from financial analysis and credit management to risk advisory and relationship banking.
+                                                        </p>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
