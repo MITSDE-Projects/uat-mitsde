@@ -47,26 +47,17 @@
 
 
     <!-- OGP TAG -->
-
-
-
     <meta property="og:title" content="PGDM in Material Management Distance Learning | Online PGDM Material Management">
-
     <meta property="og:site_name" content="MIT School of Distance Education">
-
     <meta property="og:url" content="https://mitsde.com/pg-diploma-in-material-management">
-
     <meta property="og:description"
-        content="Enrol for PGDM in Matarial Management and get placed in MNCs with industry expert guidence, Canvas LMS mobile app and 100% placement assistance.">
-
+        content="Enrol for PGDM in Material Management and get placed in MNCs with industry expert guidence, Canvas LMS mobile app and 100% placement assistance.">
     <meta property="og:type" content="website">
-
     <meta property="og:image"
         content="https://mitsde.com/assets/images/course/pgdm/pg-diploma-in-material-management.jpg">
 
-
-
     <!-- / OG TAG -->
+
 
     <!-- Page Title -->
     <link rel="icon" type="image/png" href="assets/images/favicon-mit.ico" />

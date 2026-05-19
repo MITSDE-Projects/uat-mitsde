@@ -46,25 +46,16 @@
 
     <!-- OGP TAG -->
 
-
-
-    <meta property="og:title" content="Post Graduate Diploma Courses in Management | PGDM Course">
-
+    <meta property="og:title" content="Online PGDM in Information Technology - MITSDE 2026 | PG Diploma in IT">
     <meta property="og:site_name" content="MIT School of Distance Education">
-
     <meta property="og:url" content="https://mitsde.com/pg-diploma-in-information-technology">
-
     <meta property="og:description"
-
-        content="Future Proof Your Career with distance PGDM Course in Marketing, HR, Finance, Operations, Materials, Supply Chain and IT.">
-
+        content="Advance your career with MITSDE’s online PG Diploma PGDM in IT Management. Learn IT strategy, infrastructure, cybersecurity, cloud computing & business applications with flexible learning.">
     <meta property="og:type" content="website">
-
     <meta property="og:image" content="https://mitsde.com/assets/images/course/pgdm/PGDM-Information-Technology.jpg">
 
-
-
     <!-- / OG TAG -->
+
 
 
 

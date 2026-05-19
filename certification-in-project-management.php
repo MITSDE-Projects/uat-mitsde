@@ -22,17 +22,14 @@
     <?php include "5-common-seo-tag-1.php" ?>
 
     <!-- OGP TAG -->
-
     <meta property="og:title" content="Certification in Project Management Course – MITSDE India">
     <meta property="og:site_name" content="MIT School of Distance Education">
-    <meta property="og:url" content="https://mitsde.com/pg-diploma-in-project-management">
+    <meta property="og:url" content="https://mitsde.com/certification-in-project-management">
     <meta property="og:description"
         content="Boost your career with MITSDE’s certification in project management course. Gain practical skills online and become industry-ready today.">
     <meta property="og:type" content="website">
     <meta property="og:image"
         content="https://mitsde.com/assets/images/course/cap/certification-in-project-management.jpg">
-
-
     <!-- / OG TAG -->
 
     <meta name="twitter:card" content="summary">

@@ -309,7 +309,7 @@
 
                         <p align="justify">
                             The Two Years <a class="text-decoration-none"
-                                href="https://mitsde.com/post-graduate-certificate-in-management">Post Graduate Diploma
+                                href="">Post Graduate Diploma
                                 in Management Courses at MITSDE</a> not only
                             improve your professional skills and aptitude, but also give you a thorough knowledge of the
                             industry from a wider perspective. Until date, you had only been confined to your job roles

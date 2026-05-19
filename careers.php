@@ -7,11 +7,11 @@
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
-    <title>Careers</title>
+    <title>Careers at MITSDE | Job Openings in Pune – MIT SDE</title>
 
-    <meta name="description" content="For All Below Listed Openings Please send your resumes on hr@mitsde.com" />
+    <meta name="description" content="Explore exciting job openings at MITSDE, Pune. Hiring Education Counsellors, Marketing Managers, Placement Head & more. Send your resume to hr@mitsde.com today!" />
     <meta name="keywords"
-        content="distance pg certificate courses, distance certificate courses, online learning, distance learning center, online mba programs, pgdm courses, pgdm distance courses" />
+        content="MITSDE careers, job openings at MITSDE, MIT School of Distance Education jobs, education counsellor jobs Pune, placement head vacancy, marketing manager MITSDE, lead generation specialist Pune, relationship manager education, MITSDE job vacancies, jobs in distance education institute Pune, MIT Pune hiring, MITSDE recruitment 2025, performance marketing jobs Pune, education sector jobs Maharashtra, apply MITSDE jobs" />
 
 
     <!-- CANONICAL TAG -->

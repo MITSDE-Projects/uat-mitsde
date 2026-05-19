@@ -8,13 +8,13 @@
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
     <!-- Page Title -->
-    <title>Contact Us</title>
+    <title>Contact MITSDE | MIT School of Distance Education, Pune</title>
 
 
     <meta name="description"
-        content="Contact us for any admissions and enquiry support at MIT Pune Distance Learning Institute." />
+        content="Get in touch with MITSDE, Pune. Call 9112-207-207, email admissions@mitsde.com or visit MIT Alandi Campus. Enquire about PGDM, EMBA & distance learning programs." />
     <meta name="keywords"
-        content="distance pg certificate courses, distance certificate courses, online learning, distance learning center, online mba programs, pgdm courses, pgdm distance courses" />
+        content="MITSDE contact, contact MIT School of Distance Education, MITSDE Pune address, MITSDE phone number, MITSDE admissions contact, MIT Alandi Campus contact, MITSDE helpline, distance education enquiry Pune, PGDM admission enquiry, MITSDE email address, MIT SDE student support, MITSDE office location, contact MITSDE for admission, MIT Pune distance learning contact, MITSDE enquiry form" />
     <!-- CANONICAL TAG -->
 
     <link rel="canonical" href="https://mitsde.com/contact-us" />
@@ -26,11 +26,11 @@
 
     <!-- OGP TAG -->
 
-    <meta property="og:title" content="Contact Us">
+    <meta property="og:title" content="Contact MITSDE | MIT School of Distance Education, Pune">
     <meta property="og:site_name" content="MIT School of Distance Education">
     <meta property="og:url" content="https://mitsde.com/contact-us">
     <meta property="og:description"
-        content="Contact us for any admissions and enquiry support at MIT Pune Distance Learning Institute.">
+        content="Get in touch with MITSDE, Pune. Call 9112-207-207, email admissions@mitsde.com or visit MIT Alandi Campus. Enquire about PGDM, EMBA & distance learning programs.">
     <meta property="og:type" content="website">
     <meta property="og:image" content="https://mitsde.com/contact-us">
 

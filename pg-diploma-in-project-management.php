@@ -11,7 +11,7 @@
         content="Enroll in MITSDE’s online PG diploma in project management to gain essential skills and certification. Advance your career with our industry-focused PG Diploma program. " />
 
     <meta name="keywords"
-        content="Post graduate diploma in project management, pgdm in project management in india, PG Dipoma in project management distance education, PGDM in project management distance learning, PGDM in project management online, PGDM in project management from distance, PGDM in project management, distance pgdm in poject management, online pgdm in project management, online pg in project management,project management courses" />
+        content="Post graduate diploma in project management, pgdm in project management in india, PG Diploma in project management distance education, PGDM in project management distance learning, PGDM in project management online, PGDM in project management from distance, PGDM in project management, distance pgdm in project management, online pgdm in project management, online pg in project management,project management courses" />
 
     <!-- CANONICAL TAG -->
 

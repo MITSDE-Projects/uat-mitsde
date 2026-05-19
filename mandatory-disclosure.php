@@ -8,9 +8,9 @@
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
 
-    <meta name="description" content="MITSDE - Mandatory Disclosure" />
+    <meta name="description" content="View MITSDE's mandatory disclosures, institutional policies, AICTE recognition, governance, facilities & course data for distance management programs." />
     <meta name="keywords"
-        content="distance pg certificate courses, distance certificate courses, online learning, distance learning center, online mba programs, pgdm courses, pgdm distance courses" />
+        content="MITSDE mandatory disclosure, MIT School of Distance Education disclosure, AICTE mandatory disclosure distance education, MITSDE recognition and approval, MITSDE governance documents, MITSDE institutional policy, distance learning AICTE compliance, MITSDE course completion data, MITSDE support staff details, MITSDE facilities, MIT Pune distance education disclosure, PGDM distance learning disclosure, online management courses AICTE approved, Academic Bank of Credits MITSDE, MITSDE Pune mandatory documents" />
 
 
     <!-- CANONICAL TAG -->
@@ -19,7 +19,7 @@
 
     <!-- CANONICAL TAG -->
     <!-- Page Title -->
-    <title>Mandatory Disclosure</title>
+    <title>Mandatory Disclosure | MITSDE - Pune</title>
     <link rel="icon" type="image/png" href="assets/images/favicon-mit.ico" />
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
     <link rel="stylesheet" href="assets/css/bootstrap-select.min.css" />

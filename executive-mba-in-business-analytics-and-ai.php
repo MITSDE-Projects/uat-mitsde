@@ -27,7 +27,7 @@
     <meta property="og:site_name" content="MIT School of Distance Education">
     <meta property="og:url" content="https://mitsde.com/executive-mba-in-business-analytics-and-ai">
     <meta property="og:description"
-        content="EMBA in Project Management: Master the art of execution, leadership, and strategic planning to drive successful projects in any industry.">
+        content="EMBA in Business Analytics & AI: Master data-driven strategies, AI tools, and smart decision-making with MITSDE to lead digital transformation in any industry">
     <meta property="og:type" content="website">
     <meta property="og:image" content="https://mitsde.com/assets/images/course/ex-mba/Business-Analytics.jpg">
 

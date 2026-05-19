@@ -159,8 +159,7 @@
                     <div class="col-md-12 col-lg-6 main-banner">
                         <h1>Online PGDM Course In Operations Management</h1>
                         <p><img src="assets/images/course/pgdm/kpmg.png" class="img-fluid" alt="KPMG"
-                                style="height: 50px;">in India across is the academic partner for the Operational
-                            Analytics Certification Program. ( Optional)
+                                style="height: 50px;">in India is the academic partner for the Operational Analytics Certification Program. ( Optional)
 
 
                         </p>
