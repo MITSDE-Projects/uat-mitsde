@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>PGDM Executive in Technology & Operations Management | Distance PG Diploma</title>
     <meta name="description"
-        content="Boost your career with Distance Executive PG Diploma in Technology & Operations Management is designed as per current industry trends. Admissions Open 2025." />
+        content="Boost your career with Distance Executive PG Diploma in Technology & Operations Management is designed as per current industry trends. Admissions Open 2026." />
 
     <meta name="keywords"
         content="executive courses, PGDM executive courses, post graduate diploma in technology & operations management, pg diploma in operations management, online mba in technology & operations" />
@@ -26,7 +26,7 @@
     <meta property="og:site_name" content="MIT School of Distance Education">
     <meta property="og:url" content="https://mitsde.com/pgdm-executive-in-technology-and-operations-management">
     <meta property="og:description"
-        content="Boost your career with Distance Executive PG Diploma in Technology & Operations Management is designed as per current industry trends. Admissions Open 2025.">
+        content="Boost your career with Distance Executive PG Diploma in Technology & Operations Management is designed as per current industry trends. Admissions Open 2026.">
     <meta property="og:type" content="website">
     <meta property="og:image"
         content="https://mitsde.com/assets/images/course/pgdm-exe/PGDM-Executive-Technology-&-Operations-Management.jpg">
