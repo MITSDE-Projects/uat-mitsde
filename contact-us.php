@@ -188,10 +188,12 @@
                                         referrerpolicy="no-referrer-when-downgrade"></iframe>
                                 </div>
                                 <div class="card-body">
-                                    <h5 class="card-title">Our Location</h5>
-                                    <span>MIT Alandi Campus,</span>
-                                    <span>Pune - 412105,</span>
-                                    <span>Maharashtra (India).</span>
+                                    <h5 class="card-title">MITSDE</h5>
+                                    <span><b>Our location :</b> MIT Alandi Campus, Moshi-Alandi Road, Opposite to Gajanan Maharaj Sansthan Alandi Pune, Maharashtra 412105</span>
+                                    <br>
+                                    <span><b>Contact :</b> <a href="tel:9112207207">9112-207-207</a></span>
+                                    <br>
+                                    <span><b>Email :</b> <a href="mailto:admissions@mitsde.com">admissions@mitsde.com</a></span>
                                 </div>
                             </div>
                         </div>
