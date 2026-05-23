@@ -780,7 +780,73 @@
                                                     Designation: Academician, Researcher, Business Analyst, Data Scientist and Trainer
                                                 </td>
                                                 <td class="text-success fw-bold">Free</td>
-                                                <td><span class="badge bg-warning text-dark">Upcoming</span></td>
+                                                <td><span class="badge bg-success">Completed</span></td>
+                                            </tr>
+
+                                            <tr>
+                                                <td>17th May 2026</td>
+                                                <td>Google Ads & Campaign Fundamentals</td>
+                                                <td>
+                                                    Mr. Abhijeet Survepatil
+Digital Marketing & AI Strategist | Business Growth Consultant
+                                                </td>
+                                                <td class="text-success fw-bold">Free</td>
+                                                <td><span class="badge bg-success">Completed</span></td>
+                                            </tr>
+
+                                            <tr>
+                                                <td>24th May 2026</td>
+                                                <td>Meta Ads & Content Marketing</td>
+                                                <td>
+                                                    Mr. Abhijeet Survepatil
+Digital Marketing & AI Strategist | Business Growth Consultant
+                                                </td>
+                                                <td class="text-success fw-bold">Free</td>
+                                                <td><span class="badge bg-warning">Upcoming</span></td>
+                                            </tr>
+
+                                            <tr>
+                                                <td>31st May 2026</td>
+                                                <td>CRM Automation & WhatsApp Marketing</td>
+                                                <td>
+                                                    Mr. Abhijeet Survepatil
+Digital Marketing & AI Strategist | Business Growth Consultant
+                                                </td>
+                                                <td class="text-success fw-bold">Free</td>
+                                                <td><span class="badge bg-warning">Upcoming</span></td>
+                                            </tr>
+
+                                            <tr>
+                                                <td>7th June 2026</td>
+                                                <td>AI Tools & Prompt Engineering for Digital Marketing</td>
+                                                <td>
+                                                    Mr. Abhijeet Survepatil
+Digital Marketing & AI Strategist | Business Growth Consultant
+                                                </td>
+                                                <td class="text-success fw-bold">Free</td>
+                                                <td><span class="badge bg-warning">Upcoming</span></td>
+                                            </tr>
+
+                                            <tr>
+                                                <td>14th June 2026</td>
+                                                <td>Marketing Analytics & Performance Tracking</td>
+                                                <td>
+                                                    Mr. Abhijeet Survepatil
+                                                    Digital Marketing & AI Strategist | Business Growth Consultant
+                                                </td>
+                                                <td class="text-success fw-bold">Free</td>
+                                                <td><span class="badge bg-warning">Upcoming</span></td>
+                                            </tr>
+
+                                            <tr>
+                                                <td>21st June 2026</td>
+                                                <td>SEO Strategies & Search Intelligence</td>
+                                                <td>
+                                                    Mr. Abhijeet Survepatil
+                                                    Digital Marketing & AI Strategist | Business Growth Consultant
+                                                </td>
+                                                <td class="text-success fw-bold">Free</td>
+                                                <td><span class="badge bg-warning">Upcoming</span></td>
                                             </tr>
 
                                         </tbody>
@@ -918,8 +984,8 @@
                                                     PMP®/CAPM® Trainer | Project, Program & Portfolio Leader
                                                 </td>
                                                 <td class="fw-bold ">17700</td>
-                                                <td><span class="badge bg-success">Open</span></td>
-                                                <td><span class="badge bg-warning text-dark">Upcoming</span></td>
+                                                <td><span class="badge bg-danger">Closed</span></td>
+                                                <td><span class="badge bg-success text-light">Completed</span></td>
                                             </tr>
 
                                         </tbody>
