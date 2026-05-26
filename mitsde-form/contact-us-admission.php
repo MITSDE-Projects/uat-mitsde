@@ -268,7 +268,7 @@ $pagename = (isset($_SERVER['HTTPS']) ? "https" : "http") . "://$_SERVER[HTTP_HO
                 </div>
 
                 <div class="mb-1">
-                    <input name="MobileNumber" class="form-control" type="tel" value="MobileNumber*"
+                    <input name="MobileNumber" class="form-control" type="tel" value="Mobile Number*"
                         onblur="addDefault(this,'contactformAddmission')" onfocus="removeDefault(this)"
                         oninput="this.value = this.value.replace(/[^0-9]/g, '')" maxlength="10"
                         validate="Required|Phone|Phone*" />
