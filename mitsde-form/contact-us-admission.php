@@ -336,7 +336,7 @@ $pagename = (isset($_SERVER['HTTPS']) ? "https" : "http") . "://$_SERVER[HTTP_HO
                 </select>
 
                 <input name="Divice" type="hidden" value="<?php echo $divice; ?>" />
-                <input name="PageName" type="hidden" value="iframe-link" />
+                <input name="PageName" type="hidden" value="iframe-link-admission" />
                 <input type="hidden" name="latitude" value="">
                 <input type="hidden" name="longitude" value="">
 
