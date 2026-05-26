@@ -246,7 +246,7 @@ $pagename = (isset($_SERVER['HTTPS']) ? "https" : "http") . "://$_SERVER[HTTP_HO
     <div class="d-flex justify-content-end">
         <div class="lead-form">
             <h6 class="mb-3 fw-bold">Fill out your details for free career counseling</h6>
-            <form action="https://mitsde.com/mitsde-form/thankyou.php" method="post"
+            <form action="https://uat.mitsde.com/mitsde-form/thankyou.php" method="post"
                 class="reservation-form mt-20 myFormH w-100" accept-charset="utf-8" name="contactformAddmission" id="contactformAddmission"
                 novalidate="novalidate">
 
@@ -321,12 +321,18 @@ $pagename = (isset($_SERVER['HTTPS']) ? "https" : "http") . "://$_SERVER[HTTP_HO
                     <option value="Diploma">Diploma</option>
                 </select>
 
-                <select name="stream" id="stream" class="form-select form-control mb-1" validate="Required|HQ*">
-                    <option value="">Select Stream</option>
-                    <option value="Growth & Digital Leadership">Growth & Digital Leadership</option>
-                    <option value="Business Finance & Strategy">Business Finance & Strategy</option>
-                    <option value="Strategic HR Business Partner">Strategic HR Business Partner</option>
-                    <option value="Program & Ops Leadership">Program & Ops Leadership</option>
+                <select name="stream" id="stream" class="form-select form-control mb-1" validate="Required">
+                    <option value="">Which program are you interested in</option>
+                    <option value="PGDM">PGDM</option>
+                    <option value="PGDM Executive ">PGDM Executive </option>
+                </select>
+
+                <select name="experience" id="experience" class="form-select form-control mb-1" validate="Required">
+                    <option value="">How many years of work experience do you have? </option>
+                    <option value="Fresher">Fresher</option>
+                    <option value="0-2 Years">0-2 Years</option>
+                    <option value="2-5 Years">2-5 Years</option>
+                    <option value="More">More</option>
                 </select>
 
                 <input name="Divice" type="hidden" value="<?php echo $divice; ?>" />
@@ -345,7 +351,7 @@ $pagename = (isset($_SERVER['HTTPS']) ? "https" : "http") . "://$_SERVER[HTTP_HO
                     <input type="hidden" name="submitthirdcontact" value="submitthirdcontact" />
                     <button type="button" id="submitbtnsticky" class="btn-common w-100"
                         onClick="validate('contactformAddmission')">
-                        Register Now
+                        Get Admission Guidance
                     </button>
                 </div>
 

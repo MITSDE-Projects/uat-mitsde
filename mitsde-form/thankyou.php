@@ -51,6 +51,7 @@ $mobile = isset($_POST['MobileNumber'])
 $state = isset($_POST['state']) ? $_POST['state'] : '';
 $HQ = isset($_POST['HQ']) ? $_POST['HQ'] : '';
 $stream = isset($_POST['stream']) ? $_POST['stream'] : '';
+$experience = isset($_POST['experience']) ? $_POST['experience'] : '';
 $Divice = isset($_POST['Divice']) ? $_POST['Divice'] : '';
 $PageName = isset($_POST['PageName']) ? $_POST['PageName'] : '';
 
@@ -112,8 +113,8 @@ if ($total >= 5) {
 
 $stmt = $conn->prepare("
     INSERT INTO quickcontact 
-    (FirstName, EmailID, MobileNo, SourcePath, PageName, FormName, DateTime, Date, device, page_name, address, district, city, state, country, longitude, latitude, ip) 
-    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+    (FirstName, EmailID, MobileNo, SourcePath, PageName, FormName, experience, DateTime, Date, device, page_name, address, district, city, state, country, longitude, latitude, ip) 
+    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
 ");
 
 $result = $stmt->execute(array(
@@ -123,6 +124,7 @@ $result = $stmt->execute(array(
     $state,
     $HQ,
     $stream,
+    $experience,
     $curdateTime,
     $curdate,
     $Divice,
