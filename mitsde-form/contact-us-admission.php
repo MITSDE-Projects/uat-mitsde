@@ -342,7 +342,7 @@ $pagename = (isset($_SERVER['HTTPS']) ? "https" : "http") . "://$_SERVER[HTTP_HO
 
                 <div class="form-check">
                     <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked" checked>
-                    <small class="text-dark" style="font-size:7px;">
+                    <small class="text-dark" style="font-size:10px;">
                         I authorize MITSDE representative to contact me, this will override DND/NDNC registry.
                     </small>
                 </div>
