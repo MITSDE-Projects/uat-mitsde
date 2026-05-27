@@ -16,9 +16,9 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
     // Prepare SQL insert query
 
-    $sql = "INSERT INTO quickcontact (FirstName, EmailID, MobileNo, SourcePath, PageName, DateTime, Date, device, page_name, address, district, city, state, country, longitude, latitude, ip)
+    $sql = "INSERT INTO quickcontact (FirstName, EmailID, MobileNo, SourcePath, PageName, FormName, DateTime, Date, device, page_name, address, district, city, state, country, longitude, latitude, ip)
 
-            VALUES (:FirstName, :EmailID, :MobileNo, :SourcePath, :PageName, :DateTime, :Date, :device, :page_name, :address, :district, :city, :state, :country, :longitude, :latitude, :ip)";
+            VALUES (:FirstName, :EmailID, :MobileNo, :SourcePath, :PageName, :FormName, :DateTime, :Date, :device, :page_name, :address, :district, :city, :state, :country, :longitude, :latitude, :ip)";
 
     $stmt = $conn->prepare($sql);
 
@@ -26,7 +26,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
     // Bind parameters dynamically (allowing blank values)
 
-    foreach (['FirstName', 'EmailID', 'MobileNo', 'SourcePath', 'PageName', 'DateTime', 'Date', 'device', 'page_name', 'address', 'district', 'city', 'state', 'country', 'longitude', 'latitude', 'ip'] as $field) {
+    foreach (['FirstName', 'EmailID', 'MobileNo', 'SourcePath', 'PageName', 'FormName', 'DateTime', 'Date', 'device', 'page_name', 'address', 'district', 'city', 'state', 'country', 'longitude', 'latitude', 'ip'] as $field) {
 
         $stmt->bindValue(":$field", isset($data[$field]) ? $data[$field] : null);
 

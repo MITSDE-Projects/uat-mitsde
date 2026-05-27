@@ -322,13 +322,13 @@ $pagename = (isset($_SERVER['HTTPS']) ? "https" : "http") . "://$_SERVER[HTTP_HO
                 </select>
 
                 <select name="stream" id="stream" class="form-select form-control mb-1" validate="Required">
-                    <option value="">Which program are you interested in</option>
+                    <option value="">Select Program</option>
                     <option value="PGDM">PGDM</option>
                     <option value="PGDM Executive ">PGDM Executive </option>
                 </select>
 
                 <select name="experience" id="experience" class="form-select form-control mb-1" validate="Required">
-                    <option value="">How many years of work experience do you have? </option>
+                    <option value="">Work Experience</option>
                     <option value="Fresher">Fresher</option>
                     <option value="0-2 Years">0-2 Years</option>
                     <option value="2-5 Years">2-5 Years</option>
