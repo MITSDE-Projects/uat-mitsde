@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
-    <title>Executive MBA Programs in India | EMBA 2025-26</title>
+    <title>Executive MBA Programs in India | EMBA 2026-27</title>
 
     <meta name="description"
         content="Executive MBA is designed to imbibe a holistic approach towards solving business and management problems. Useful for working professionals" />
