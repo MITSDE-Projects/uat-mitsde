@@ -24,7 +24,7 @@
 
     <!-- OGP TAG -->
 
-    <meta property="og:title" content="Executive MBA Programs in India | EMBA 2025-26">
+    <meta property="og:title" content="Executive MBA Programs in India | EMBA 2026-27">
     <meta property="og:site_name" content="MIT School of Distance Education">
     <meta property="og:url" content="https://mitsde.com/executive-mba">
     <meta property="og:description"
@@ -143,7 +143,7 @@
         {
             "@context": "https://schema.org/",
             "@type": "Product",
-            "name": "Executive MBA Programs in India | EMBA 2025-26",
+            "name": "Executive MBA Programs in India | EMBA 2026-27",
             "image": "https://mitsde.com/assets/images/course/ex-mba/executive-mba.jpg",
             "description": "Executive MBA is designed to imbibe a holistic approach towards solving business and management problems. Useful for working professionals",
             "brand": {
