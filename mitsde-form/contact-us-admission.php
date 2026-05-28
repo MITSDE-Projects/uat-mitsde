@@ -329,10 +329,10 @@ $pagename = (isset($_SERVER['HTTPS']) ? "https" : "http") . "://$_SERVER[HTTP_HO
 
                 <select name="experience" id="experience" class="form-select form-control mb-1" validate="Required">
                     <option value="">Work Experience</option>
-                    <option value="Fresher">Fresher</option>
-                    <option value="0-2 Years">0-2 Years</option>
-                    <option value="2-5 Years">2-5 Years</option>
-                    <option value="More">More</option>
+                    <option value="1">Fresher</option>
+                    <option value="2">0-2 Years</option>
+                    <option value="3">2-5 Years</option>
+                    <option value="4">More</option>
                 </select>
 
                 <input name="Divice" type="hidden" value="<?php echo $divice; ?>" />

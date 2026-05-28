@@ -343,9 +343,10 @@ function do_form_submit(form_id) {
           LeadSource: "Paid-Form-Admissions-26",
           LeadName: "MIT Online India Website",
           LeadType: "Online",
-          Course: "Not Known",
+          Course: $inputs[9].value,
           State: $inputs[7].value,
           Textb1: $inputs[8].value,
+          Field8: $inputs[10].value,
         };
         //alert(JSON.stringify(lead));
         //alert(lead);
