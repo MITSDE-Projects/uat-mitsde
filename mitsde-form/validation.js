@@ -340,7 +340,7 @@ function do_form_submit(form_id) {
           FirstName: $inputs[4].value,
           MobileNumber: $inputs[6].value,
           Email: $inputs[5].value,
-          LeadSource: "PGDM-Paid-Lead-Form",
+          LeadSource: "Paid-Form-Admissions-26",
           LeadName: "MIT Online India Website",
           LeadType: "Online",
           Course: "Not Known",
