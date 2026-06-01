@@ -22,9 +22,8 @@
         </tr>
 
         <tr>
-            <td>CPQRA</td>
-            <td>CPQRA -Certified Professional Quantitative Research
-                Analyst</td>
+            <td>CPQBA</td>
+            <td>CPQBA -Certified Professional Quantitative Business Analyst</td>
             <td>Non Credit</td>
         </tr>
     </tbody>

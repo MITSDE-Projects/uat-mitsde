@@ -589,6 +589,7 @@ $dotamt[0];
 
                                 $mail->AddBCC('sanjay.gaikwad@mitsde.com');
                                 $mail->AddBCC('raj.marathe@mitsde.com');
+                                $mail->AddBCC('jayjeet.deshmukh@mitsde.com');
                                 //$mail->AddBCC('teamfeecollections@mitsde.com');
                             
 
@@ -708,6 +709,7 @@ $dotamt[0];
 
                                 $mail->AddBCC('sanjay.gaikwad@mitsde.com');
                                 $mail->AddBCC('raj.marathe@mitsde.com');
+                                $mail->AddBCC('jayjeet.deshmukh@mitsde.com');
                                 //$mail->AddBCC('teamfeecollections@mitsde.com');
                             
 
