@@ -557,6 +557,24 @@
                             </div>
                         </div>
                     </div>
+                    <!-- Card 11: IT management -->
+                    <div class="col-md-6">
+                        <div class="d-flex p-3 bg-white shadow-sm rounded-4 align-items-start">
+                            <i class="fas fa-laptop highlight-icon me-3 mt-1"></i>
+                            <div>
+                                <h6 class="fw-bold mb-1">IT management</h6>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Card 12: Digital Marketing -->
+                    <div class="col-md-6">
+                        <div class="d-flex p-3 bg-white shadow-sm rounded-4 align-items-start">
+                            <i class="fas fa-ad highlight-icon me-3 mt-1"></i>
+                            <div>
+                                <h6 class="fw-bold mb-1">Digital Marketing</h6>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </section>
