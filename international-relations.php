@@ -396,10 +396,10 @@
                             aria-selected="false">Areas of Collaboration
 
                         </a>
-                        <a class="nav-link" id="internship-program-tab" data-bs-toggle="pill"
+                        <!-- <a class="nav-link" id="internship-program-tab" data-bs-toggle="pill"
                             href="#internship-program-queries" role="tab" aria-controls="internship-program-queries"
                             aria-selected="false"> International Summer Internship Program
-                        </a>
+                        </a> -->
 
                         <a class="nav-link" id="proposed-internships-tab" data-bs-toggle="pill"
                             href="#proposed-internships-queries" role="tab" aria-controls="proposed-internships-queries"
@@ -412,8 +412,7 @@
 
                         <a class="nav-link" id="internation-immersion-tab" data-bs-toggle="pill"
                             href="#internation-immersion-queries" role="tab"
-                            aria-controls="internation-immersion-queries" aria-selected="false">International Immersion
-                            Program
+                            aria-controls="internation-immersion-queries" aria-selected="false">International Summer Internship & Immersion Program (ISIP)
                         </a>
 
 
@@ -512,7 +511,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="tab-pane fade" id="internship-program-queries" role="tabpanel"
+                        <!-- <div class="tab-pane fade" id="internship-program-queries" role="tabpanel"
                             aria-labelledby="internship-program-tab">
                             <div class="row">
                                 <div class="container">
@@ -556,7 +555,7 @@
 
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                         <div class="tab-pane fade" id="proposed-internships-queries" role="tabpanel"
                             aria-labelledby="proposed-internships-tab">
                             <div class="row">
@@ -1060,16 +1059,17 @@
                             aria-labelledby="internation-immersion-tab">
                             <div class="row">
                                 <div class="container">
-                                    <p><strong>About the International Immersion Program</strong></p>
-                                    <p>MITSDE proudly presents its flagship International Immersion Program s, designed
-                                        to provide students with direct exposure to global business environments and
-                                        cultural ecosystems. This program bridges classroom learning with real-world
-                                        experiences through corporate visits, academic sessions, and guided cultural
-                                        tours. Participants gain valuable insights into multinational operations, global
-                                        trade networks, and innovative market strategies. More than a study tour, it
-                                        cultivates cross-cultural competence, strategic thinking, and a global mindset —
-                                        essential traits for today's globally connected professionals.</p>
-                                    <p><strong>Objective</strong></p>
+                                    <p><strong>About the Program</strong></p>
+                                    <p>
+                                        The International Summer Internship Program (ISIP) is designed to provide international students with valuable professional experience and exposure to global business and management practices. The program offers a unique platform for hands-on learning, industry interaction, networking opportunities, and cultural immersion within India’s dynamic business environment.
+                                    </p>
+                                    <p>
+                                        MITSDE proudly presents its flagship International Immersion Program, created to bridge classroom learning with real-world global exposure. Through corporate visits, academic sessions, live projects, and guided cultural experiences, participants gain practical insights into multinational business operations, international trade ecosystems, and innovative market strategies.
+                                    </p>
+                                    <p>
+                                        More than just a study tour or internship, the program nurtures cross-cultural competence, strategic thinking, adaptability, and a global mindset — essential qualities for future-ready professionals in today’s interconnected world.
+                                    </p>
+                                    <p><strong>Program Objectives</strong></p>
 
                                     <p>
                                     <div class="row">
@@ -1095,96 +1095,17 @@
                                     </div>
                                     </p>
 
-                                    <!-- <p><strong>Upcoming International Tour:</strong></p>
-
-                                    <div class="justify-content-center">
-
-                                        <p><strong>Highlights</strong></p>
-
-                                        <div class="highlight-card">
-                                            <img src="assets/images/international-relations/dubai-mall.jpg"
-                                                alt="Travel Image">
-                                            <div class="highlight-card-content">
-                                                <h3>Dubai</h3>
-                                                <p><strong>Destination:</strong> Dubai, City in the United Arab Emirates
-                                                </p>
-                                                <p><strong>Duration:</strong> 5 Days / 4 Nights</p>
-                                                <p><strong>Tentative Dates:</strong> 21st July – 25th July 2025</p>
-                                            </div>
-                                        </div>
-
-                                    </div>
-
-                                    <div class="mt-3">
-
-                                        <p><strong>Key Attractions & Activities:</strong></p>
-
-                                        <div class="highlight-card rounded-0 mb-3" style="width: 100%; height: 100%;">
-                                            <img class="rounded-0"
-                                                src="assets/images/international-relations/city-tour.jpg"
-                                                alt="Travel Image">
-                                            <div class="highlight-card-content">
-                                                <p><strong>Guided city tours covering iconic landmarks like Burj
-                                                        Khalifa, Dubai
-                                                        Frame,
-                                                        and Palm Jumeirah</strong></p>
-                                            </div>
-                                        </div>
-
-                                        <div class="highlight-card rounded-0 mb-3" style="width: 100%; height: 100%;">
-                                            <img class="rounded-0"
-                                                src="assets/images/international-relations/corporate-visit.jpg"
-                                                alt="Travel Image">
-                                            <div class="highlight-card-content">
-                                                <p><strong>Corporate visits to reputed international companies and
-                                                        business parks for insight into global business models</strong>
-                                                </p>
-                                            </div>
-                                        </div>
-
-                                        <div class="highlight-card rounded-0 mb-3" style="width: 100%; height: 100%;">
-                                            <img class="rounded-0"
-                                                src="assets/images/international-relations/desert-safari.jpg"
-                                                alt="Travel Image">
-                                            <div class="highlight-card-content">
-                                                <p><strong>Desert Safari with dinner, cultural performances, and
-                                                        adventure activities</strong></p>
-                                            </div>
-                                        </div>
-
-                                        <div class="highlight-card rounded-0 mb-3" style="width: 100%; height: 100%;">
-                                            <img class="rounded-0"
-                                                src="assets/images/international-relations/dubai-mall.jpg"
-                                                alt="Travel Image">
-                                            <div class="highlight-card-content">
-                                                <p><strong>A magical evening aboard the Dhow Cruise at Dubai Marina with
-                                                        dinner and networking</strong></p>
-                                                <p><strong>Visits to major attractions including Dubai Mall, Global
-                                                        Village, and the Museum of the Future</strong></p>
-                                            </div>
-                                        </div>
-
-                                        <div class="highlight-card rounded-0 mb-3" style="width: 100%; height: 100%;">
-                                            <img class="rounded-0"
-                                                src="assets/images/international-relations/academic-enrichment.jpg"
-                                                alt="Travel Image">
-                                            <div class="highlight-card-content">
-                                                <p><strong>Academic enrichment sessions led by faculty and local
-                                                        experts</strong></p>
-                                            </div>
-                                        </div>
-
-                                        <div class="highlight-card rounded-0 mb-3" style="width: 100%; height: 100%;">
-                                            <img class="rounded-0"
-                                                src="assets/images/international-relations/opportunity-2.jpg"
-                                                alt="Travel Image">
-                                            <div class="highlight-card-content">
-                                                <p><strong>Opportunity for peer networking and cultural
-                                                        exchange</strong></p>
-                                            </div>
-                                        </div>
-
-                                    </div> -->
+                                    <p><strong>Eligibility Criteria</strong>
+                                    <p>The program is open to:</p>
+                                    <ul class="ps-3">
+                                        <li class="mb-2">Undergraduate and postgraduate students from international universities
+                                        </li>
+                                        <li class="mb-2">Students pursuing Business, Management, Finance, Marketing, Operations, Human Resources, and related disciplines
+                                        </li>
+                                        <li class="mb-2">Candidates with a strong academic record and demonstrated interest in global business and international learning experiences
+                                        </li>
+                                    </ul>
+                                    </p>
 
                                     <div class="cur-accordiaon mb-2">
 
@@ -1194,7 +1115,7 @@
                                                     <button class="accordion-button collapsed" type="button"
                                                         data-bs-toggle="collapse" data-bs-target="#outreach1"
                                                         aria-expanded="false" aria-controls="outreach1">
-                                                        What the Program Package Covers
+                                                        Global Reach Highlights
                                                     </button>
                                                 </h2>
                                                 <div id="outreach1" class="accordion-collapse collapse"
@@ -1206,48 +1127,23 @@
 
                                                                 <div class="row">
                                                                     <div class="col-md-12">
-                                                                        <li><strong>Round-trip Airfare</strong>:
-                                                                            Economy-class flights between India and
-                                                                            Dubai, inclusive of all taxes.
+                                                                        <li>Industry-focused projects with leading Indian and multinational companies
                                                                         </li>
-                                                                        <li><strong>Hotel Accommodation</strong>:
-                                                                            Stay in reputed 3-star or equivalent hotels
-                                                                            on twin/triple sharing basis.
+                                                                        <li>Mentorship by experienced international faculty and industry professionals
                                                                         </li>
-                                                                        <li><strong>Daily Meals</strong>:
-                                                                            Breakfast, lunch, and dinner provided
-                                                                            throughout the tour.
+                                                                        <li>Flexible internship duration options ranging from 4 to 12 weeks
                                                                         </li>
-                                                                        <li><strong>Attraction Entry Fees</strong>:
-                                                                            Admission to all scheduled educational,
-                                                                            cultural, and recreational sites.
+                                                                        <li>Blended learning approach combining virtual and on-site experiences
                                                                         </li>
-                                                                        <li><strong>Local Transportation</strong>:
-                                                                            Air-conditioned transport for all local
-                                                                            travel and guided tours in Dubai.
+                                                                        <li>Cross-cultural exchange opportunities with students from diverse academic and cultural backgrounds
                                                                         </li>
-                                                                        <li><strong>Travel Insurance</strong>:
-                                                                            Comprehensive coverage for medical
-                                                                            emergencies and travel-related risks.
+                                                                        <li>Exposure to global business trends, leadership practices, and innovation ecosystems
                                                                         </li>
-                                                                        <li><strong>Visa Processing</strong>:
-                                                                            Complete assistance for UAE visa application
-                                                                            and documentation.
-                                                                        </li>
-                                                                        <li><strong>Pre-departure Orientation</strong>:
-                                                                            Detailed briefing on itinerary, travel
-                                                                            protocols, and preparation tips.
-                                                                        </li>
-                                                                        <li><strong>Faculty & On-ground
-                                                                                Support</strong>:
-                                                                            Full-time supervision by MITSDE faculty and
-                                                                            local coordinators.
+                                                                        <li>Corporate interactions, business case studies, and experiential learning activities
                                                                         </li>
 
                                                                     </div>
                                                                 </div>
-
-
                                                             </ul>
                                                         </div>
                                                     </div>
@@ -1265,79 +1161,33 @@
                                                     <button class="accordion-button collapsed" type="button"
                                                         data-bs-toggle="collapse" data-bs-target="#outreach2"
                                                         aria-expanded="false" aria-controls="outreach2">
-                                                        Registrations and Application Process
+                                                        Benefits of Participation
                                                     </button>
                                                 </h2>
                                                 <div id="outreach2" class="accordion-collapse collapse"
                                                     data-bs-parent="#freQuestions1">
                                                     <div class="accordion-body hero10">
                                                         <div class="row">
-                                                            <ul class="fin-feature2" style="list-style: none;">
+                                                            <ul class="fin-feature2 ms-2"
+                                                                style="list-style-type: disc;">
 
-                                                                <div class="container py-4">
-                                                                    <h4 class="text-center mb-4 fw-bold">International
-                                                                        Tour Registration Process</h4>
+                                                                <div class="row">
+                                                                    <div class="col-md-12">
+                                                                        <li>Gain practical international work exposure
+                                                                        </li>
+                                                                        <li>Enhance professional and intercultural communication skills
+                                                                        </li>
+                                                                        <li>Develop global business understanding and strategic thinking
+                                                                        </li>
+                                                                        <li>Strengthen leadership, teamwork, and adaptability skills
+                                                                        </li>
+                                                                        <li>Build an international professional network
+                                                                        </li>
+                                                                        <li>Receive certification upon successful completion of the program
+                                                                        </li>
 
-                                                                    <div class="step">
-                                                                        <div class="step-title">
-                                                                            <i class="fas fa-pencil-alt step-icon"></i>
-                                                                            Step 1: Registration
-                                                                        </div>
-                                                                        <div class="step-desc">
-                                                                            Fill the official Google Form shared by
-                                                                            MITSDE. Registration opens 1–2 months prior
-                                                                            to the tour.
-                                                                        </div>
-                                                                    </div>
-
-                                                                    <div class="step">
-                                                                        <div class="step-title">
-                                                                            <i
-                                                                                class="fas fa-check-circle step-icon"></i>
-                                                                            Step 2: Eligibility Verification
-                                                                        </div>
-                                                                        <div class="step-desc">
-                                                                            Program enrollment, valid passport (6+
-                                                                            months), and travel readiness assessment.
-                                                                        </div>
-                                                                    </div>
-
-                                                                    <div class="step">
-                                                                        <div class="step-title">
-                                                                            <i class="fas fa-wallet step-icon"></i> Step
-                                                                            3: Payment & Confirmation
-                                                                        </div>
-                                                                        <div class="step-desc">
-                                                                            Kindly proceed with the fee payment here:
-                                                                            <a href="https://mitsde.com/OtherFeesPaymenticici"> Click Here</a>
-                                                                            Secure your spot now!
-                                                                        </div>
-                                                                    </div>
-
-                                                                    <div class="step">
-                                                                        <div class="step-title">
-                                                                            <i class="fas fa-passport step-icon"></i>
-                                                                            Step 4: Visa & Travel Documentation
-                                                                        </div>
-                                                                        <div class="step-desc">
-                                                                            Assistance provided for visa processing
-                                                                            through a partnered agency.
-                                                                        </div>
-                                                                    </div>
-
-                                                                    <div class="step">
-                                                                        <div class="step-title">
-                                                                            <i
-                                                                                class="fas fa-plane-departure step-icon"></i>
-                                                                            Step 5: Pre-departure Orientation
-                                                                        </div>
-                                                                        <div class="step-desc">
-                                                                            Mandatory session on itinerary, travel
-                                                                            guidelines, safety, and cultural etiquette.
-                                                                        </div>
                                                                     </div>
                                                                 </div>
-
                                                             </ul>
                                                         </div>
                                                     </div>
