@@ -132,10 +132,301 @@
         <section class="about-banner1" style="margin-top: 100px;">
             <div class="container mt-2">
                 <div class="row">
-                    <h1>Contact Sessions April 2026 </h1>
+                    <h1>Contact Sessions May 2026 </h1>
 
 
                     <div class="col-md-12 curriculum">
+
+                        <!-- june  2026  -->
+                        <h3 class="module-title-new"><strong> Cohort Live session </strong></h3>
+
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th>Sr No</th>
+                                    <th>Subject</th>
+                                    <th>Program</th>
+                                    <th>Faculty Name</th>
+                                    <th>Date</th>
+                                    <th>Time</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+
+                                <th colspan="21"
+                                    style="text-align:center; background-color:#F47521; color:#fff; font-size:16px;">
+                                    <strong>C14 Sem-1</strong>
+                                </th>
+
+                                <tr>
+                                    <td>1</td>
+                                    <td>Project Management</td>
+                                    <td>PGDM Executive</td>
+                                    <td>Mangesh Dande</td>
+                                    <td>7-May-26</td>
+                                    <td>6:00 - 8:00 pm</td>
+                                </tr>
+
+                                <tr>
+                                    <td>2</td>
+                                    <td>Indian Economy and Policy</td>
+                                    <td>PGDBA</td>
+                                    <td>Rajesh Raut</td>
+                                    <td>14-May-26</td>
+                                    <td>6:00 - 8:00 pm</td>
+                                </tr>
+
+                                <tr>
+                                    <td>3</td>
+                                    <td>Foundations of Business Management</td>
+                                    <td>PGCM and PGDM Exe</td>
+                                    <td>Bonnie Rajesh</td>
+                                    <td>14-May-26</td>
+                                    <td>6:00 - 8:00 pm</td>
+                                </tr>
+
+                                <tr>
+                                    <td>4</td>
+                                    <td>Accounting for Managers</td>
+                                    <td>PGDM and PGDBA</td>
+                                    <td>SP Ghodake</td>
+                                    <td>15-May-26</td>
+                                    <td>6:00 - 8:00 pm</td>
+                                </tr>
+
+                                <tr>
+                                    <td>5</td>
+                                    <td>Management Information System</td>
+                                    <td>PGCM and PGDM Exe</td>
+                                    <td>Sonali Kulkarni</td>
+                                    <td>15-May-26</td>
+                                    <td>6:00 - 8:00 pm</td>
+                                </tr>
+
+                                <tr>
+                                    <td>6</td>
+                                    <td>Business Communication</td>
+                                    <td>PGDM and PGDBA</td>
+                                    <td>Bonnie Rajesh</td>
+                                    <td>22-May-26</td>
+                                    <td>6:00 - 8:00 pm</td>
+                                </tr>
+
+                                <tr>
+                                    <td>7</td>
+                                    <td>Legal and Business Environment (Micro and Macro) / Legal Aspects of Business
+                                    </td>
+                                    <td>PGCM, PGDM Exe, PGDM and PGDBA</td>
+                                    <td>Yashi Khare</td>
+                                    <td>23-May-26</td>
+                                    <td>6:00 - 8:00 pm</td>
+                                </tr>
+
+                                <th colspan="21"
+                                    style="text-align:center; background-color:#F47521; color:#fff; font-size:16px;">
+                                    <strong>C12 Sem-2</strong>
+                                </th>
+
+                                <tr>
+                                    <td>8</td>
+                                    <td>Data Mining for Business Analytics</td>
+                                    <td>PGCM-BA</td>
+                                    <td>Sonali Kulkarni</td>
+                                    <td>6-May-26</td>
+                                    <td>6:00 - 7:00 pm</td>
+                                </tr>
+
+                                <tr>
+                                    <td>9</td>
+                                    <td>Materials Management</td>
+                                    <td>PGDM Exe-MaM and PGDM-MaM</td>
+                                    <td>Vishal Bhosale</td>
+                                    <td>6-May-26</td>
+                                    <td>6:00 - 8:00 pm</td>
+                                </tr>
+
+                                <tr>
+                                    <td>10</td>
+                                    <td>Construction Site Management</td>
+                                    <td>PGDM Exe-C&PM and PGDM-C&PM</td>
+                                    <td>Asha Oak</td>
+                                    <td>7-May-26</td>
+                                    <td>7:00 - 8:00 pm</td>
+                                </tr>
+
+                                <tr>
+                                    <td>11</td>
+                                    <td>Consumer Behaviour</td>
+                                    <td>PGDM-MM</td>
+                                    <td>Bonnie Rajesh</td>
+                                    <td>7-May-26</td>
+                                    <td>6:00 - 8:00 pm</td>
+                                </tr>
+
+                                <tr>
+                                    <td>12</td>
+                                    <td>Management Information System</td>
+                                    <td>PGDBA</td>
+                                    <td>Sonali Kulkarni</td>
+                                    <td>8-May-26</td>
+                                    <td>6:00 - 8:00 pm</td>
+                                </tr>
+
+                                <tr>
+                                    <td>13</td>
+                                    <td>Introduction to Logistics and Supply Chain Management</td>
+                                    <td>PGDM Exe-MaM and PGDM-L&SCM</td>
+                                    <td>Vishal Bhosale</td>
+                                    <td>8-May-26</td>
+                                    <td>6:00 - 8:00 pm</td>
+                                </tr>
+
+                                <tr>
+                                    <td>14</td>
+                                    <td>Marketing Management</td>
+                                    <td>PGDM Exe-SMM and PGDM-MM</td>
+                                    <td>Bonnie Rajesh</td>
+                                    <td>8-May-26</td>
+                                    <td>6:00 - 8:00 pm</td>
+                                </tr>
+
+                                <tr>
+                                    <td>15</td>
+                                    <td>Project Planning</td>
+                                    <td>PGDM Exe-MPM</td>
+                                    <td>Pavaman Jainapur</td>
+                                    <td>8-May-26</td>
+                                    <td>6:00 - 7:00 pm</td>
+                                </tr>
+
+                                <tr>
+                                    <td>16</td>
+                                    <td>Security Analysis and Portfolio Management</td>
+                                    <td>PGDM Exe-B&FS, FM</td>
+                                    <td>Rajesh Raut</td>
+                                    <td>21-May-26</td>
+                                    <td>6:00 - 7:00 pm</td>
+                                </tr>
+
+                                <tr>
+                                    <td>17</td>
+                                    <td>Project Execution, Control and Closure</td>
+                                    <td>PGDM Exe-MPM</td>
+                                    <td>Pavaman Jainapur</td>
+                                    <td>21-May-26</td>
+                                    <td>6:00 - 7:00 pm</td>
+                                </tr>
+
+                                <tr>
+                                    <td>18</td>
+                                    <td>Generative AI Applications in Business</td>
+                                    <td>PGDM-IT</td>
+                                    <td>Deepak Verma</td>
+                                    <td>21-May-26</td>
+                                    <td>6:00 - 8:00 pm</td>
+                                </tr>
+
+                                <tr>
+                                    <td>19</td>
+                                    <td>Research Methodology and Management Decision</td>
+                                    <td>PGDM-All & PGDBA-All & PGDM-Exe-All</td>
+                                    <td>Supriya Phadke</td>
+                                    <td>22-May-26</td>
+                                    <td>6:00 - 8:00 pm</td>
+                                </tr>
+
+                                <tr>
+                                    <td>20</td>
+                                    <td>Business Analytics</td>
+                                    <td>PGDBA</td>
+                                    <td>Sonali Kulkarni</td>
+                                    <td>29-May-26</td>
+                                    <td>6:00 - 8:00 pm</td>
+                                </tr>
+
+                            </tbody>
+
+
+                        </table>
+                        <br>
+
+                        <h3 class="module-title"><strong> MITSDE- BOOTCAMP</strong></h3>
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th>Sr No</th>
+                                    <th>Company's Name</th>
+                                    <th>Engagement Activity</th>
+                                    <th>Domain</th>
+                                    <th>Industry/Sector</th>
+                                    <th>Speaker - Webinar</th>
+                                    <th>Topic - Webinar</th>
+                                    <th>Date of Webinar</th>
+                                </tr>
+                                <tr>
+                                    <td>1</td>
+                                    <td>MITSDE</td>
+                                    <td>MITSDE -BOOTCAMP</td>
+                                    <td>All</td>
+                                    <td>Digital Marketing</td>
+                                    <td>Mr. Abhijeet Survepatil</td>
+                                    <td>Google Ads & Campaign Fundamentals</td>
+                                    <td>17-May-2026</td>
+                                </tr>
+                                <tr>
+                                    <td>2</td>
+                                    <td>MITSDE</td>
+                                    <td>MITSDE -BOOTCAMP</td>
+                                    <td>All</td>
+                                    <td>Digital Marketing</td>
+                                    <td>Mr. Abhijeet Survepatil</td>
+                                    <td>Meta Ads & Content Marketing</td>
+                                    <td>24-May-2026</td>
+                                </tr>
+                                <tr>
+                                    <td>3</td>
+                                    <td>MITSDE</td>
+                                    <td>MITSDE -BOOTCAMP</td>
+                                    <td>All</td>
+                                    <td>Digital Marketing</td>
+                                    <td>Mr. Abhijeet Survepatil</td>
+                                    <td>Meta Advertising & Lead Generation</td>
+                                    <td>31-May-2026</td>
+                                </tr>
+
+                            </thead>
+                            </tbody>
+                        </table>
+
+                        <h3 class="module-title"><strong> SynergySphere</strong></h3>
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th>Sr No</th>
+                                    <th>Company's Name</th>
+                                    <th>Engagement Activity</th>
+                                    <th>Domain</th>
+                                    <th>Industry/Sector</th>
+                                    <th>Speaker - Webinar</th>
+                                    <th>Topic - Webinar</th>
+                                    <th>Date of Webinar</th>
+                                </tr>
+
+                                <tr>
+                                    <td>1</td>
+                                    <td>MITSDE</td>
+                                    <td>SynergySphere</td>
+                                    <td>Operations Management</td>
+                                    <td>Logistics & Supply Chain Management professional</td>
+                                    <td>Mr. Ravi Prakash Singh</td>
+                                    <td>SynergySphere_Logistics & Supply Chain Management: From Domestic Operations to Cross-Border Trade</td>
+                                    <td>23-May-26</td>
+                                </tr>
+
+                            </thead>
+                            </tbody>
+                        </table>
+                        <!-- june  2026  -->
 
                         <!-- May  2026  -->
                         <h3 class="module-title-new"><strong> Cohort Live session </strong></h3>
