@@ -423,7 +423,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 col-lg-6 main-banner">
-                        <div class="row">
+                        <div class="row mb-5">
                             <h1>Online PGDM In Finance Management</h1>
                            
                         </div>
@@ -500,11 +500,11 @@
         <section id="overview" class="enroll-certification">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-12 col-lg-4 fintech-certi">
-                        <h2>About <br> PGDM In <br>Finance <br> Management</h2>
-                        <!-- <img src="assets/images/humancloud.svg" alt=""> -->
+                    <div class="col-md-12 col-lg-12 fintech-certi aboutMit-skills">
+                        <h2>About The Course</h2>
+
                     </div>
-                    <div class="col-md-12 col-lg-8 fin-feature hero11">
+                    <div class="col-md-8 col-lg-8 fin-feature hero11">
                         <p><b>Financially viable companies have to manage cash flows effectively</b> so that they do
                             not drain out on finance and keep the working capital running to cover the
                             day-to-day operational expenses. A growth spurt in the banking, insurance, and
@@ -521,6 +521,10 @@
                             a team of experienced finance and academic professionals from various domains taking
                             into consideration the latest developments and trends in this arena.
                         </p>
+
+                    </div>
+                    <div class="col-md-4 col-lg-4 ">
+                        <?php include "common-home-form-added-all-36-courses-pages.php" ?>
 
                     </div>
                 </div>

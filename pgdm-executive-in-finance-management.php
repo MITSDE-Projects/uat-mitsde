@@ -209,7 +209,9 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 col-lg-6 main-banner">
+                        <div class="row mb-5">
                         <h1>PGDM Executive In Finance Management</h1>
+                        </div>
                         
                         <div class="page-btn">
 
