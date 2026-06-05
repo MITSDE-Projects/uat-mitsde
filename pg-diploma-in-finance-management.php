@@ -427,17 +427,7 @@
                             <h1>Online PGDM In Finance Management</h1>
                            
                         </div>
-                        <p>
-                        <div class="d-flex justify-content-center align-items-center">
-                            <div><img src="assets/images/course/pgdm/kpmg/ey-new.png"
-                                    alt="EY" style="width: 100px; "></div>
-                            <div class="ms-3"><strong>EY India</strong> is the training partner for the Financial
-                                Modelling and Valuation
-                                Program.  (Optional)</div>
-
-                        </div>
-
-                        </p>
+                        
                         <div class="page-btn">
 
 
@@ -490,7 +480,7 @@
             <div class="container">
                 <div class="row">
                     <ul class="app-features">
-                        <li><a class="active" href="#kpmg">EY</a></li>
+                        <!-- <li><a class="active" href="#kpmg">EY</a></li> -->
                         <li><a href="#module">Modules</a></li>
                         <li><a href="#faq">FAQ</a></li>
                         <li><a href="#overview">About PGDM</a></li>
@@ -505,449 +495,6 @@
             </div>
 
         </section>
-
-        <!-- KPMG CONTENT -->
-
-        <section id="kpmg">
-            <div class="container mt-4">
-                <div class="row">
-                    <div class="col-md-10">
-                        <h2 class="course-title"> Financial Modelling and Valuation Certificate by EY- 40 Hrs </h2>
-                    </div>
-                    <div class="col-md-2"><img src="assets/images/course/pgdm/kpmg/ey-new.png" class="img-fluid"
-                            alt="KPMG" style="height: 100px;"></div>
-                </div>
-
-                <hr class="custom-hr">
-                <div class="row">
-                    <div class="col-md-8">
-                        <p class="course-description">
-                            Elevate your expertise in Financial Management with a specialized module on <a class="text-decoration-none" href="https://blog.mitsde.com/distance-learning-in-finance-management-how-mitsde-makes-it-work/">Financial Modelling and
-                            Valuation</a>
-                            delivered by EY, one of the world’s leading professional services firms. Gain cutting-edge skills in
-                            financial
-                            modelling, valuation, and Excel techniques through this program, designed by senior
-                            professionals
-                            from EY and industry experts.
-                            The module provides candidates an exposure to create efficient, robust and flexible financial models
-                            to perform
-                            independent business valuations.
-                        </p>
-                    </div>
-                    <div class="col-md-4"><?php include "common-home-form-added-all-36-courses-pages.php" ?></div>
-                </div>
-
-            </div>
-        </section>
-
-        <!--  -->
-        <!-- Modules content -->
-        <section>
-            <div class="container">
-                <div class="row" id="module">
-                    <div class="cur-accordiaon">
-                        <div id="module" class="module-title">Modules</div>
-
-
-                        <div class="accordion curriculum-accordion mt-4" id="freQuestions">
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button " type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions21" aria-expanded="false" aria-controls="questions21">
-                                        1. Excel Bootcamp
-
-
-                                    </button>
-                                </h2>
-                                <div id="questions21" class="accordion-collapse " data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor"><strong>Exploring
-                                                        Excel</strong>
-                                                    <ul>
-                                                        <li>Understanding of Excel screen, copy & paste, Navigation
-                                                            Shortcuts</li>
-                                                        <li>Page Setup, Calculation modes</li>
-                                                        <li>Cell formatting, Sorting & filter data</li>
-                                                    </ul>
-
-
-
-                                                </div>
-                                                <div class="fintech-module alert brandcolor"><strong>Exploring
-                                                        Excel</strong>
-                                                    <ul>
-                                                        <li>Mathematical functions</li>
-                                                        <li>Statistical functions</li>
-                                                        <li>Financial functions</li>
-                                                        <li>Logical functions</li>
-                                                    </ul>
-
-                                                </div>
-                                                <div class="fintech-module alert brandcolor"><strong>Exploring Advanced
-                                                        Excel Functions </strong>
-                                                    <ul>
-                                                        <li>Lookups and Reference functions</li>
-                                                        <li>Text functions</li>
-                                                        <li>Data and information functions</li>
-                                                    </ul>
-
-
-                                                </div>
-                                            </div>
-
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions22" aria-expanded="false" aria-controls="questions22">
-                                        2. Overview of Financial Modelling & Best Practices
-
-                                    </button>
-                                </h2>
-                                <div id="questions22" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-                                    <div class="accordion-body  hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <ul>
-                                                        <li>Difference between financial models and spreadsheets</li>
-                                                        <li>Financial model structure - flow of the model, deciding on
-                                                            the order in which sheets should be prepared and presented
-                                                        </li>
-                                                    </ul>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions23" aria-expanded="false" aria-controls="questions23">
-                                        3. Creating a template for the financial model
-
-                                    </button>
-                                </h2>
-                                <div id="questions23" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <ul>
-                                                        <li>Creating a template for the financial model</li>
-                                                        <li>Timelines, flags, and counters</li>
-                                                    </ul>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions24" aria-expanded="false" aria-controls="questions24">
-                                        4. Building the Financial Statements
-
-                                    </button>
-                                </h2>
-                                <div id="questions24" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <ul>
-                                                        <li>Developing P&L, Balance Sheet & Cash flows - line items and
-                                                            drivers</li>
-                                                        <li>Understanding contra accounts</li>
-                                                        <li>Constructing Revenue items</li>
-                                                        <li>Expenses - fixed costs (rent, insurance, electricity &
-                                                            utilities, etc)</li>
-                                                        <li>Expenses - variable costs (employee costs, power and fuel,
-                                                            advertising and marketing, etc)</li>
-                                                        <li>Revenue and expenses for sectors that are covered by
-                                                            regulatory authorities (power, telecom, roads, etc)</li>
-                                                    </ul>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions25" aria-expanded="false" aria-controls="questions25">
-                                        5. Fixed Assets and Depreciation
-                                    </button>
-                                </h2>
-                                <div id="questions25" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <ul>
-                                                        <li>Tangible fixed assets account - break-up, capital
-                                                            expenditures, asset lives, impact of foreign exchange
-                                                            translation</li>
-                                                        <li>Treatment of intangible fixed assets</li>
-                                                        <li>Depreciation and amortization - straight-line method,
-                                                            written-down value method, units of production method, and
-                                                            other methods</li>
-                                                        <li>Depreciation for books vs. depreciation for tax</li>
-                                                    </ul>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions26" aria-expanded="false" aria-controls="questions26">
-                                        6. Capital Structure
-                                    </button>
-                                </h2>
-                                <div id="questions26" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <ul>
-                                                        <li>Capital structure and introduction to debt modelling - types
-                                                            of structures, types of debt, types of equity, treatment of
-                                                            grant, reviewing terms of debt</li>
-                                                        <li>Setting up inputs, flags, and counters for debt calculations
-                                                            (considering repayment pattern, moratorium, etc)</li>
-                                                        <li>Setting up priority of payments and arriving at repayment
-                                                            profile for debt when there are multiple debts in the
-                                                            project (senior debt, sub-debt, etc)</li>
-                                                        <li>Understanding sculpted repayments</li>
-                                                        <li>Modelling to check for debt covenants</li>
-                                                        <li>Understanding the debt service reserve account (DSRA) and
-                                                            setting it up</li>
-                                                        <li>Construction cost, timeline, and delays in infrastructure
-                                                            projects</li>
-                                                        <li>Introduction to VBA - creating a simple macro</li>
-                                                        <li>Treatment of interest during construction (circularity and
-                                                            how to break it) and Equity Schedule</li>
-                                                    </ul>
-
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions27" aria-expanded="false" aria-controls="questions27">
-                                        7. Working Capital
-                                    </button>
-                                </h2>
-                                <div id="questions27" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <ul>
-                                                        <li>Understanding Working Capital</li>
-                                                        <li>Modelling of Working Capital</li>
-                                                    </ul>
-
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions28" aria-expanded="false" aria-controls="questions28">
-                                        8. Tax
-                                    </button>
-                                </h2>
-                                <div id="questions28" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <ul>
-                                                        <li>Tax calculations (Income tax and Minimum alternate tax)</li>
-                                                        <li>Understanding and calculating deferred tax</li>
-                                                    </ul>
-
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions29" aria-expanded="false" aria-controls="questions29">
-                                        9. Outputs - Integrating the Financial Statements and Outputs
-                                    </button>
-                                </h2>
-                                <div id="questions29" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <ul>
-                                                        <li>Integrating the financial statements - preparing Profit &
-                                                            Loss Account, Balance Sheet, and Cash Flow Statement and
-                                                            setting up dividend calculations</li>
-                                                        <li>Handling aggregation, consolidation, and switches when there
-                                                            are multiple assets and/or entities</li>
-                                                        <li>Understanding adjusted EBITDA and Pro Forma EBITDA</li>
-                                                        <li>Building flexibility to evaluate sensitivities on various
-                                                            parameters</li>
-                                                        <li>Calculation of key ratios and margins</li>
-                                                        <li>Goal Seek, Setting up checks in the model</li>
-                                                        <li>Incorporating overrides for various assumptions</li>
-                                                        <li>Introduction to charts - simple and advanced charts</li>
-                                                        <li>Creating dashboards that present the key assumptions and
-                                                            outputs of the model in a meaningful and decision-oriented
-                                                            manner</li>
-                                                    </ul>
-
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions30" aria-expanded="false" aria-controls="questions30">
-                                        10. Introduction to Valuation
-                                    </button>
-                                </h2>
-                                <div id="questions30" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <ul>
-                                                        <li>Introduction to valuation concepts - PV, NPV, IRR, FCFF,
-                                                            FCFE, etc</li>
-                                                        <li>Introduction to valuation methods - Discounted cash flow
-                                                            method, difference between NPV and XNPV, IRR and XIRR
-                                                            formulas</li>
-                                                        <li>Introduction to valuation methods - comparable companies
-                                                            methods (trading multiples and transaction multiples)</li>
-                                                        <li>Introduction to valuation methods - book value method (net
-                                                            asset value - NAV - and adjustments to NAV)</li>
-                                                        <li>Detailed understanding of discounted cash flow method,
-                                                            calculation of WACC</li>
-                                                    </ul>
-
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="col-md-12 col-lg-12 pede-card">
-                                <div class="card over-card">
-
-                                    <div class="card-body">
-                                        <strong>Note :</strong>
-
-                                        <p class="card-text text-justify">
-                                            1. Module 1 will be
-                                            eLearning and Modules 2-10 will be Virtual Instructor Led Training.
-                                        </p>
-
-                                        <p class="card-text text-justify">2. To access all the live sessions, the
-                                            learner will have to access the link from the MITSDE LMS. However, all
-                                            learning materials and reading materials of the <strong>EY Financial
-                                                Modelling and
-                                                Valuation Certification Program will be available on the EY
-                                                LMS</strong>.
-                                        </p>
-                                        <p>3. All learning materials and reading materials of the <strong>PGDM
-                                                COURSE</strong> will be
-                                            available on the <strong>MITSDE LMS</strong>.</p>
-                                    </div>
-                                </div>
-                            </div>
-
-
-                            <div class="row p-3 m-0 mt-5" style="background-color: #00338d; border-radius: 15px;">
-                                <div class="col-md-3 c d-flex justify-content-center  align-items-center">
-                                    <h5 class="text-white"><b>Tool Used</b></h5>
-                                </div>
-
-                                <div class="col-md-6 offset-md-3"> <img
-                                        src="assets/images/course/pgdm/kpmg/ms-excel.jpg" alt="Microsoft Excel training" loading="lazy"
-                                        class="img-fluid rounded-2"></div>
-                            </div>
-
-
-                        </div>
-
-                    </div>
-
-                </div>
-            </div>
-        </section>
-        <!-- Modules content -->
-
-        <section>
-            <div class="container rounded-4" style="border: 1px solid #00338d; width: 80%">
-                <div class="row">
-                    <div class="image-container">
-                        <img src="assets/images/course/pgdm/kpmg/EY-webpage.jpg" class="" title="EY Learning Webpage" alt="EY Learning Collaboration" loading="lazy">
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <!-- KPMG CONTENT -->
-
-        <!-- MITSDE CONTENT -->
 
 
         <section id="overview" class="enroll-certification">
@@ -1371,7 +918,483 @@
             </div>
         </section>
 
-        <?php include "faq-of-kpmg-finance-management.php" ?>
+        <section id="faq">
+
+    <div class="container">
+
+        <div class="row">
+
+            <div class="cur-accordiaon">
+
+                <h2 class="fw-bold ">Frequently asked questions (FAQs)</h2>
+
+
+
+
+
+                <div class="accordion curriculum-accordion" id="freQuestions">
+
+                    <div class="accordion-item">
+
+                        <h2 class="accordion-header">
+
+                            <button class="accordion-button " type="button" data-bs-toggle="collapse"
+
+                                data-bs-target="#questions11" aria-expanded="false" aria-controls="questions11">
+
+                                What are the key benefits of pursuing PGDM Finance Management courses?
+
+
+
+
+
+                            </button>
+
+                        </h2>
+
+                        <div id="questions11" class="accordion-collapse " data-bs-parent="#freQuestions">
+
+                            <div class="accordion-body hero10">
+
+                                <div class="row">
+
+                                    <div class="col-md-12 col-lg-12">
+
+                                        <div class="fintech-module alert brandcolor">
+
+                                            <ul>
+
+                                                <li>PGDM Finance Management courses strengthen your financial acumen, analytical skills, and managerial knowledge, preparing you for diverse roles like Financial Analyst, Investment Manager, or Corporate Finance Consultant.</li>
+
+                                            </ul>
+
+
+
+
+
+                                        </div>
+
+                                    </div>
+
+
+
+
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                    <div class="accordion-item">
+
+                        <h2 class="accordion-header">
+
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+
+                                data-bs-target="#questions12" aria-expanded="false" aria-controls="questions12">
+
+                                What are the career opportunities after PGDM in Finance Management?
+
+
+
+                            </button>
+
+                        </h2>
+
+                        <div id="questions12" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
+
+                            <div class="accordion-body  hero10">
+
+                                <div class="row">
+
+                                    <div class="col-md-12 col-lg-12">
+
+                                        <div class="fintech-module alert brandcolor">
+
+                                            <ul>
+
+                                                <li>
+
+                                                    <p>Graduates can explore careers in financial planning and analysis, investment banking, corporate finance, taxation, treasury management, and other leadership roles in finance-driven sectors.</p>
+
+                                                </li>
+
+
+
+                                            </ul>
+
+
+
+
+
+                                        </div>
+
+                                    </div>
+
+
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                    <div class="accordion-item">
+
+                        <h2 class="accordion-header">
+
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+
+                                data-bs-target="#questions13" aria-expanded="false" aria-controls="questions13">
+
+                                Why should I choose MITSDE for a PGDM in Finance Management?
+
+
+
+                            </button>
+
+                        </h2>
+
+                        <div id="questions13" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
+
+                            <div class="accordion-body hero10">
+
+                                <div class="row">
+
+                                    <div class="col-md-12 col-lg-12">
+
+                                        <div class="fintech-module alert brandcolor">
+
+
+
+                                            <ul>
+
+                                                <li>
+
+                                                    <p>MITSDE offers flexible, industry-aligned online PGDM Finance Management courses designed for working professionals, focusing on real-world applications, financial tools, and career advancement.</p>
+
+                                                </li>
+
+
+
+                                            </ul>
+
+
+
+
+
+
+
+
+
+
+
+                                        </div>
+
+                                    </div>
+
+
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                    <div class="accordion-item">
+
+                        <h2 class="accordion-header">
+
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+
+                                data-bs-target="#questions14" aria-expanded="false" aria-controls="questions14">
+
+                                How is PGDM in Finance Management different from an MBA in Finance?
+
+
+
+                            </button>
+
+                        </h2>
+
+                        <div id="questions14" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
+
+                            <div class="accordion-body hero10">
+
+                                <div class="row">
+
+                                    <div class="col-md-12 col-lg-12">
+
+                                        <div class="fintech-module alert brandcolor">
+
+                                            <ul>
+
+                                                <li>
+
+                                                    <p>While both focus on finance and management, a PGDM in Finance Management emphasises industry-specific financial skills and is often more practical, whereas an MBA has a broader management focus.</p>
+
+                                                </li>
+
+
+
+                                            </ul>
+
+
+
+
+
+
+
+                                        </div>
+
+                                    </div>
+
+
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                    <div class="accordion-item">
+
+                        <h2 class="accordion-header">
+
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+
+                                data-bs-target="#questions15" aria-expanded="false" aria-controls="questions15">
+
+                                Can I pursue a PGDM in Finance Management while working?
+
+                            </button>
+
+                        </h2>
+
+                        <div id="questions15" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
+
+                            <div class="accordion-body hero10">
+
+                                <div class="row">
+
+                                    <div class="col-md-12 col-lg-12">
+
+                                        <div class="fintech-module alert brandcolor">
+
+                                            <ul>
+
+                                                <li>
+
+                                                    <p>Yes, online programs like those offered by MITSDE are specifically designed for working professionals, offering the flexibility to balance studies with work commitments.</p>
+
+                                                </li>
+
+
+
+                                            </ul>
+
+
+
+
+
+
+
+                                        </div>
+
+                                    </div>
+
+
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                    <div class="accordion-item">
+
+                        <h2 class="accordion-header">
+
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+
+                                data-bs-target="#questions16" aria-expanded="false" aria-controls="questions16">
+
+                                How long does it take to complete a PG Diploma in Finance Management?
+
+                            </button>
+
+                        </h2>
+
+                        <div id="questions16" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
+
+                            <div class="accordion-body hero10">
+
+                                <div class="row">
+
+                                    <div class="col-md-12 col-lg-12">
+
+                                        <div class="fintech-module alert brandcolor">
+
+                                            <ul>
+
+                                                <li>
+
+                                                    <p>A PG Diploma in Finance Management typically takes 1–2 years to complete, depending on the program's structure. MITSDE's program can be tailored to suit your schedule.</p>
+
+                                                </li>
+
+
+
+                                            </ul>
+
+
+
+
+
+
+
+                                        </div>
+
+                                    </div>
+
+
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                    <div class="accordion-item">
+
+                        <h2 class="accordion-header">
+
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+
+                                data-bs-target="#questions17" aria-expanded="false" aria-controls="questions17">
+
+                                What subjects are covered in PGDM Finance Management courses?
+
+                            </button>
+
+                        </h2>
+
+                        <div id="questions17" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
+
+                            <div class="accordion-body hero10">
+
+                                <div class="row">
+
+                                    <div class="col-md-12 col-lg-12">
+
+                                        <div class="fintech-module alert brandcolor">
+
+                                            <ul>
+
+                                                <li>
+
+                                                    <p>Core subjects include financial reporting and analysis, investment management, corporate finance, taxation, financial modelling, risk management, and strategic financial planning.</p>
+
+                                                </li>
+
+
+
+                                            </ul>
+
+
+
+                                        </div>
+
+                                    </div>
+
+
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                    <div class="accordion-item">
+
+                        <h2 class="accordion-header">
+
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+
+                                data-bs-target="#questions18" aria-expanded="false" aria-controls="questions18">
+
+                                Is a PGDM in Finance Management worth it for career growth?
+
+                            </button>
+
+                        </h2>
+
+                        <div id="questions18" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
+
+                            <div class="accordion-body hero10">
+
+                                <div class="row">
+
+                                    <div class="col-md-12 col-lg-12">
+
+                                        <div class="fintech-module alert brandcolor">
+
+                                            <ul>
+
+                                                <li>
+
+                                                    <p>Absolutely. A PGDM in Finance Management equips you with in-demand financial skills, making you a valuable asset across banking, corporate, and consulting sectors. Institutions like MITSDE also provide robust support for career development.</p>
+
+                                                </li>
+
+
+
+                                            </ul>
+
+
+
+                                        </div>
+
+                                    </div>
+
+
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+
+            </div>
+
+
+
+        </div>
+
+    </div>
+
+</section>
 
         <?php include "all-similar-program-all-courses-slider.php" ?>
 
