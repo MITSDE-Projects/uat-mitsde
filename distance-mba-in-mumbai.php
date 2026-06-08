@@ -310,7 +310,7 @@
                                             <tr>
                                                 <td>Any graduate</td>
                                                 <td>24 Months</td>
-                                                <td>₹ 96,000 /-</td>
+                                                <td>₹ 1,05,000 /-</td>
                                             </tr>
 
                                         </tbody>

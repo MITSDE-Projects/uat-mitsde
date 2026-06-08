@@ -1,4 +1,6 @@
 <?php
+header("Location: https://mitsde.com/");
+exit();
 session_start();
 // include("admin/include/config.php");
 include("admin/include/configpdo.php");

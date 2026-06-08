@@ -88,7 +88,6 @@
                     <div class="col-md-12 col-lg-6">
                         <div class="css-details">
                             <?php include "home-page-final-form.php" ?>
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -362,7 +361,7 @@
                                                     <tr>
                                                         <td>Any graduate</td>
                                                         <td>24 Months</td>
-                                                        <td>₹ 96,000 /-</td>
+                                                        <td>₹ 1,05,000 /-</td>
 
 
                                                     </tr>
