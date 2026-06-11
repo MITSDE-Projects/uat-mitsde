@@ -453,13 +453,23 @@ if ($_SERVER['PHP_SELF'] == "/harbour.php" || $_SERVER['PHP_SELF'] == "/chat-wit
 
 
     <?php
-    $pagename = basename($_SERVER['PHP_SELF']);
 } else {
+    $pagename = basename($_SERVER['PHP_SELF']);
     if ($pagename == 'payment-gateway.php' || $pagename == 'OtherFeesPaymentHDFC.php' || $pagename == 'OtherFeesPaymenPayPhi.php' || $pagename == 'OtherFeesPaymentByEasebuzz.php' || $pagename == 'OtherFeesPaymenticici.php') {
 
         // echo "$pagename";
         // Do nothing or hide the script if the current page is 'payment-gateway.php'
-    } else {
+    } 
+    elseif (
+        $pagename == 'distance-mba-in-pune.php' || $pagename == 'distance-mba-in-mumbai.php'
+    ) {
+
+?>
+
+        <script src="https://extraaedgeresources.blob.core.windows.net/documents/mitsde_1/Chatbot/js/chat.vidyaai.js"></script>
+
+<?php
+   } else {
 
     ?>
 
