@@ -784,3 +784,56 @@ function showError(error) {
 
     </div>
 </div>
+
+<?php
+
+$_SERVER['PHP_SELF'];
+
+if ($_SERVER['PHP_SELF'] == "/harbour.php" || $_SERVER['PHP_SELF'] == "/chat-with-support.php") {
+
+?>
+
+    <script>
+        window.embeddedChatbotConfig = {
+            chatbotId: "x1xC16z2jPCmod7mbM_BD",
+            domain: "www.chatbase.co"
+        }
+    </script>
+    <script src="https://www.chatbase.co/embed.min.js" chatbotId="x1xC16z2jPCmod7mbM_BD" domain="www.chatbase.co" defer>
+    </script>
+
+    <!--<script src="https://extraaedgeresources.blob.core.windows.net/demo/sdesupport/Chatbot/js/chat.js"> </script>-->
+
+
+
+    <?php
+} else {
+    $pagename = basename($_SERVER['PHP_SELF']);
+    if ($pagename == 'payment-gateway.php' || $pagename == 'OtherFeesPaymentHDFC.php' || $pagename == 'OtherFeesPaymenPayPhi.php' || $pagename == 'OtherFeesPaymentByEasebuzz.php' || $pagename == 'OtherFeesPaymenticici.php') {
+
+        // echo "$pagename";
+        // Do nothing or hide the script if the current page is 'payment-gateway.php'
+    } 
+    elseif (
+    $_SERVER['PHP_SELF'] == '/' ||
+    $pagename == 'index.php'
+) {
+
+    // ONLY Homepage
+
+?>
+    <script src="https://extraaedgeresources.blob.core.windows.net/demo/mitsde/Chatbot/js/chat.js"></script>
+<?php
+
+} else {
+
+    // All other pages
+
+?>
+    <script src="https://extraaedgeresources.blob.core.windows.net/documents/mitsde_1/Chatbot/js/chat.vidyaai.js"></script>
+<?php
+
+}
+}
+
+?>

@@ -461,24 +461,25 @@ if ($_SERVER['PHP_SELF'] == "/harbour.php" || $_SERVER['PHP_SELF'] == "/chat-wit
         // Do nothing or hide the script if the current page is 'payment-gateway.php'
     } 
     elseif (
-        $pagename == 'distance-mba-in-pune.php' || $pagename == 'distance-mba-in-mumbai.php'
-    ) {
+    $_SERVER['PHP_SELF'] == '/' ||
+    $pagename == 'index.php'
+) {
+
+    // ONLY Homepage
 
 ?>
-
-        <script src="https://extraaedgeresources.blob.core.windows.net/documents/mitsde_1/Chatbot/js/chat.vidyaai.js"></script>
-
-<?php
-   } else {
-
-    ?>
-
-        <script src="https://extraaedgeresources.blob.core.windows.net/demo/mitsde/Chatbot/js/chat.js"></script>
-
-
+    <script src="https://extraaedgeresources.blob.core.windows.net/demo/mitsde/Chatbot/js/chat.js"></script>
 <?php
 
-    }
+} else {
+
+    // All other pages
+
+?>
+    <script src="https://extraaedgeresources.blob.core.windows.net/documents/mitsde_1/Chatbot/js/chat.vidyaai.js"></script>
+<?php
+
+}
 }
 
 ?>
