@@ -65,7 +65,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 col-lg-6 main-banner">
-                        <h1>Distance MBA in Pimpri Chinchwad</h1>
+                        <h1>Online/Distance Learning MBA in Pimpri Chinchwad | Executive MBA</h1>
 
 
                         <div class="page-btn mt-3">

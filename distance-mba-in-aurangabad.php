@@ -63,7 +63,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 col-lg-6 main-banner">
-                        <h1>Distance MBA in Aurangabad | Executive EMBA</h1>
+                        <h1>Online/Distance Learning MBA in Aurangabad | Executive EMBA</h1>
 
 
                         <div class="page-btn mt-3">
