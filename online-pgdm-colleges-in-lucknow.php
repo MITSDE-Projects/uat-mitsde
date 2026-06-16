@@ -11,7 +11,7 @@
         Distance Education</title>
 
     <meta name="description"
-        content="Find the premier online PGDM programs in Lucknow and discover the best PGDM colleges in Lucknow. Elevate your career with top-notch education and hands-on training in one of India's vibrant cities." />
+        content="Explore premier online PGDM programs and top PGDM colleges in Lucknow for quality education, practical training, and strong career growth opportunities." />
 
 
     <!-- CANONICAL TAG -->
@@ -28,7 +28,7 @@
     <meta property="og:site_name" content="MIT School of Distance Education">
     <meta property="og:url" content="https://mitsde.com/online-pgdm-colleges-in-lucknow">
     <meta property="og:description"
-        content="Find the premier online PGDM programs in Lucknow and discover the best PGDM colleges in Lucknow. Elevate your career with top-notch education and hands-on training in one of India's vibrant cities.">
+        content="Explore premier online PGDM programs and top PGDM colleges in Lucknow for quality education, practical training, and strong career growth opportunities.">
     <meta property="og:type" content="website">
     <meta property="og:image" content="assets/images/city/Lucknow/Lucknow-02.jpg">
 

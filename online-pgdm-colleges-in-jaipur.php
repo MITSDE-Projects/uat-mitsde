@@ -11,7 +11,7 @@
         Distance Education</title>
 
     <meta name="description"
-        content="Looking for online pgdm in jaipur, Rajasthan? MIT School of Distance Education in Jaipur that offers online MBA equivalent PGDM courses. For more details visit our site. " />
+        content="Explore online PGDM courses in Jaipur with MIT School of Distance Education offering flexible MBA-equivalent programs for career growth. " />
 
 
 
@@ -32,7 +32,7 @@
     <meta property="og:site_name" content="MIT School of Distance Education">
     <meta property="og:url" content="https://mitsde.com/online-ai-digital-marketing-courses-in-jaipur">
     <meta property="og:description"
-        content="Looking for online pgdm in jaipur, Rajasthan? MIT School of Distance Education in Jaipur that offers online MBA equivalent PGDM courses. For more details visit our site.">
+        content="Explore online PGDM courses in Jaipur with MIT School of Distance Education offering flexible MBA-equivalent programs for career growth.">
     <meta property="og:type" content="website">
     <meta property="og:image"
         content="https://mitsde.com/newmitsdewebsite2024/assets/images/new/logo-mit-school-of-distance-education.png">

@@ -11,7 +11,7 @@
     </title>
 
     <meta name="description"
-        content="Looking for a PGDM course in Delhi? MITSDE offers a top-rated online PGDM program for students and working professionals in Delhi NCR. 
+        content="Boost your career with MITSDE’s online PGDM course in Delhi offering flexible, industry-focused learning for students and working professionals. 
 " />
 
 
@@ -31,7 +31,7 @@
     <meta property="og:site_name" content="MIT School of Distance Education">
     <meta property="og:url" content="https://mitsde.com/online-pgdm-colleges-in-delhi-ncr">
     <meta property="og:description"
-        content="Looking for a PGDM course in Delhi? MITSDE offers a top-rated online PGDM program for students and working professionals in Delhi NCR. 
+        content="Boost your career with MITSDE’s online PGDM course in Delhi offering flexible, industry-focused learning for students and working professionals. 
 ">
     <meta property="og:type" content="website">
     <meta property="og:image"
@@ -42,7 +42,7 @@
 
     <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="PGDM Courses in Delhi NCR | Best PGDM Colleges in Delhi NCR | Top PGDM Institute in Delhi | MITSDE">
-<meta name=" twitter: description" content="Looking for a PGDM course in Delhi? MITSDE offers a top-rated online PGDM program for students and working professionals in Delhi NCR.">
+<meta name=" twitter: description" content="Boost your career with MITSDE’s online PGDM course in Delhi offering flexible, industry-focused learning for students and working professionals.">
 <meta name="twitter:image" content="https://mitsde.com/assets/images/city/Dilhi/Delhi-02.jpg">
 <meta name="twitter:image:alt" content="PGDM Courses in Delhi NCR | Best PGDM Colleges in Delhi NCR | Top PGDM Institute in Delhi | MITSDE">
 

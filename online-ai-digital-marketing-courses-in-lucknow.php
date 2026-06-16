@@ -12,7 +12,7 @@
 
 
     <meta name="description"
-        content="MIT School of Distance Education offers digital marketing with our comprehensive online courses in Lucknow. Join the best digital marketing training institute in Lucknow for expert guidance and hands on learning. Start your journey to success today!" />
+        content="Join MIT School of Distance Education for online digital marketing courses in Lucknow with expert training, hands-on learning, and career-focused guidance." />
 
 
     <!-- CANONICAL TAG -->
@@ -29,7 +29,7 @@
     <meta property="og:site_name" content="MIT School of Distance Education">
     <meta property="og:url" content="https://mitsde.com/online-ai-digital-marketing-courses-in-lucknow">
     <meta property="og:description"
-        content="MIT School of Distance Education offers digital marketing with our comprehensive online courses in Lucknow. Join the best digital marketing training institute in Lucknow for expert guidance and hands on learning. Start your journey to success today!">
+        content="Join MIT School of Distance Education for online digital marketing courses in Lucknow with expert training, hands-on learning, and career-focused guidance.">
     <meta property="og:type" content="website">
     <meta property="og:image" content="https://mitsde.com/assets/images/city/Lucknow/Lucknow-03.jpg">
 
@@ -70,7 +70,7 @@
         "@context": "https://schema.org",
         "@type": "Digital Marketing Course",
         "name": "Online Digital Marketing Course in Lucknow | Best Digital Marketing Institute in Lucknow |",
-        "description": "MIT School of Distance Education offers digital marketing with our comprehensive online courses in Lucknow. Join the best digital marketing training institute in Lucknow for expert guidance and hands on learning. Start your journey to success today!",
+        "description": "Join MIT School of Distance Education for online digital marketing courses in Lucknow with expert training, hands-on learning, and career-focused guidance.",
         "provider": {
             "@type": "Organization",
             "name": "MIT School of Education",

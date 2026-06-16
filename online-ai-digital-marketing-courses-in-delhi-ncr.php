@@ -12,7 +12,7 @@
 
 
     <meta name="description"
-        content="Discover the ultimate destination for best online digital marketing training in Delhi. Explore AI-infused courses designed to empower your skills and propel your career in the dynamic field of digital marketing." />
+        content="Discover the best online digital marketing training in Delhi with AI-powered courses that boost your skills and accelerate your career growth." />
 
 
     <!-- CANONICAL TAG -->
@@ -29,7 +29,7 @@
     <meta property="og:site_name" content="MIT School of Distance Education">
     <meta property="og:url" content="https://mitsde.com/online-ai-digital-marketing-courses-in-delhi-ncr">
     <meta property="og:description"
-        content="Discover the ultimate destination for best online digital marketing training in Delhi. Explore AI-infused courses designed to empower your skills and propel your career in the dynamic field of digital marketing.">
+        content="Discover the best online digital marketing training in Delhi with AI-powered courses that boost your skills and accelerate your career growth.">
     <meta property="og:type" content="website">
     <meta property="og:image"
         content="https://mitsde.com/newmitsdewebsite2024/assets/images/new/logo-mit-school-of-distance-education.png">

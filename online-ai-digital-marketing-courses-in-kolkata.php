@@ -11,7 +11,7 @@
         Distance Education</title>
 
     <meta name="description"
-        content="Get Started with the leading Online Digital Marketing Course in Kolkata, featuring cutting-edge AI integration in Digital Marketing strategies. Enroll today for thorough training and enhance your skills and career prospects." />
+        content="Join the leading online digital marketing course in Kolkata with AI-powered strategies, expert training, and career-focused skill development." />
 
 
 
@@ -31,7 +31,7 @@
     <meta property="og:site_name" content="MIT School of Distance Education">
     <meta property="og:url" content="https://mitsde.com/online-ai-digital-marketing-courses-in-kolkata">
     <meta property="og:description"
-        content="Get Started with the leading Online Digital Marketing Course in Kolkata, featuring cutting-edge AI integration in Digital Marketing strategies. Enroll today for thorough training and enhance your skills and career prospects.">
+        content="Join the leading online digital marketing course in Kolkata with AI-powered strategies, expert training, and career-focused skill development.">
     <meta property="og:type" content="website">
     <meta property="og:image" content="https://mitsde.com/assets/images/city/Kolkata/Kolkata-03.jpg">
 

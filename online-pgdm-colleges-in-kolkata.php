@@ -11,7 +11,7 @@
         Distance Education
     </title>
 
-    <meta name="description" content="Are you looking for an online PGDM course in Kolkata? MIT School of Distance Education offers top-notch education and career opportunities. Elevate your skills and prospects with our esteemed programs.
+    <meta name="description" content="Advance your career with MIT School of Distance Education online PGDM courses in Kolkata offering flexible, career-focused education.
 " />
 
 
@@ -28,7 +28,7 @@
         content="Online PGDM course in Kolkata | Best PGDM Course in Bengal | Top PGDM Institute in Kolkata | MIT School of Distance Education">
     <meta property="og:site_name" content="MIT School of Distance Education">
     <meta property="og:url" content="https://mitsde.com/online-pgdm-colleges-in-kolkata">
-    <meta property="og:description" content="Are you looking for an online PGDM course in Kolkata? MIT School of Distance Education offers top-notch education and career opportunities. Elevate your skills and prospects with our esteemed programs.
+    <meta property="og:description" content="Advance your career with MIT School of Distance Education online PGDM courses in Kolkata offering flexible, career-focused education.
 ">
     <meta property="og:type" content="website">
     <meta property="og:image"

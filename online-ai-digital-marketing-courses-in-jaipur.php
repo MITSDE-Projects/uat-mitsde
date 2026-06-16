@@ -12,7 +12,7 @@
 
 
     <meta name="description"
-        content="Explore high-quality online digital marketing courses in Jaipur, featuring AI digital marketing options. Master cutting-edge strategies and tools to thrive in the modern digital environment. Enroll today for extensive training and propel your career to new heights." />
+        content="Explore online digital marketing courses in Jaipur with AI-powered training, modern strategies, and practical skills to boost your career growth." />
 
 
 
@@ -32,7 +32,7 @@
     <meta property="og:site_name" content="MIT School of Distance Education">
     <meta property="og:url" content="https://mitsde.com/online-ai-digital-marketing-courses-in-jaipur">
     <meta property="og:description"
-        content="Explore high-quality online digital marketing courses in Jaipur, featuring AI digital marketing options. Master cutting-edge strategies and tools to thrive in the modern digital environment. Enroll today for extensive training and propel your career to new heights.">
+        content="Explore online digital marketing courses in Jaipur with AI-powered training, modern strategies, and practical skills to boost your career growth.">
     <meta property="og:type" content="website">
     <meta property="og:image"
         content="https://mitsde.com/newmitsdewebsite2024/assets/images/new/logo-mit-school-of-distance-education.png">

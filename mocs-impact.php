@@ -11,7 +11,7 @@
 
 
     <meta name="description"
-        content="" />
+        content="Explore how MOCS creates industry-focused learning experiences through practical education, skill development, and career-oriented online programs at MITSDE." />
     <meta name="keywords"
         content="" />
     <!-- CANONICAL TAG -->
@@ -26,7 +26,7 @@
     <meta property="og:site_name" content="MIT School of Distance Education">
     <meta property="og:url" content="https://mitsde.com/mocs-impact">
     <meta property="og:description"
-        content="">
+        content="Explore how MOCS creates industry-focused learning experiences through practical education, skill development, and career-oriented online programs at MITSDE.">
     <meta property="og:type" content="website">
     <meta property="og:image" content="https://mitsde.com/assets/images/course/harbour/harbour.jpg">
 

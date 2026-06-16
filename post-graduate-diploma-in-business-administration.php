@@ -11,7 +11,7 @@
     </title>
 
     <meta name="description"
-        content="Earn a distance degree in business administration with MITSDE’s AICTE-approved PGDBA program. Gain practical business skills through flexible, career-focused online learning." />
+        content="Earn an AICTE-approved PGDBA from MIT School of Distance Education with flexible online learning and practical business skills." />
 
     <!-- CANONICAL TAG -->
 
@@ -28,7 +28,7 @@
     <meta property="og:site_name" content="MIT School of Distance Education">
     <meta property="og:url" content="https://mitsde.com/post-graduate-diploma-in-business-administration">
     <meta property="og:description"
-        content="Earn a distance degree in business administration with MITSDE’s AICTE-approved PGDBA program. Gain practical business skills through flexible, career-focused online learning.">
+        content="Earn an AICTE-approved PGDBA from MIT School of Distance Education with flexible online learning and practical business skills.">
     <meta property="og:type" content="website">
     <meta property="og:image"
         content="https://mitsde.com/assets/images/course/pgdba/post-graduate-diploma-in-business-administration.jpg">
