@@ -163,6 +163,9 @@ $dotamt[0];
                             if ($course_id == "52" && $specialization_id == "31") {
                                 $course_id = "46";
                             }
+                            if ($course_id == "53" && $specialization_id == "17") {
+                                $course_id = "49";
+                            }
                             $duration = $scourse['duration'];
 
                             /* ================= FEES INFO ================= */
