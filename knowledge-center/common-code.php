@@ -43,3 +43,5 @@
             </div>
 
     </section>
+
+    <script src="https://extraaedgeresources.blob.core.windows.net/documents/mitsde_1/Chatbot/js/chat.vidyaai.js"></script>
