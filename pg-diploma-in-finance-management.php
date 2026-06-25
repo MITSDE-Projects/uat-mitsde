@@ -45,12 +45,24 @@
     <link rel="icon" type="image/png" href="assets/images/favicon-mit.ico" />
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
     <link rel="stylesheet" href="assets/css/bootstrap-select.min.css" />
-    <link rel="stylesheet" href="assets/css/slick.min.css" />
-    <link rel="stylesheet" href="assets/css/fonts.css" type="text/css" />
-    <link rel="stylesheet" href="assets/css/style.css" type="text/css" />
-    <link rel="stylesheet" href="assets/fontawesome/css/all.min.css" type="text/css">
-    <link rel="stylesheet" href="assets/css/course-common-internal.css" type="text/css" />
-    <link rel="stylesheet" href="assets/css/new-common-design-course-page-demo-final.css" type="text/css" />
+    <!-- font awesome css -->
+    <link rel="stylesheet" href="assets/fontawesome/css/all.min.css">
+
+    <!-- Preload CSS (Non-blocking) -->
+    <link rel="preload" href="assets/css/slick.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="preload" href="assets/css/fonts.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="preload" href="assets/css/style.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="preload" href="assets/css/course-common-internal.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="preload" href="assets/css/new-common-design-course-page-demo-final.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+
+    <!-- Fallback (Loads CSS if JS disabled) -->
+    <noscript>
+        <link rel="stylesheet" href="assets/css/slick.min.css">
+        <link rel="stylesheet" href="assets/css/fonts.css">
+        <link rel="stylesheet" href="assets/css/style.css">
+        <link rel="stylesheet" href="assets/css/course-common-internal.css">
+        <link rel="stylesheet" href="assets/css/new-common-design-course-page-demo-final.css">
+    </noscript>
     <!--API for Queck contact----->
     <script src="assets/js/api/jquery-1.10.2.min.js"></script>
     <script type="text/javascript" src="assets/js/api/validation.js" charset="UTF-8"></script>
@@ -463,7 +475,7 @@
                             <div class="stc-det student-sec inner-sec">
                                 <img src="assets/images/course/pgdm/PGDM-Finance-Management_Icon-1.jpg" title="PGDM Finance Management Icon" alt="PGDM Finance Management Icon 1">
                             </div>
-                            <img src="assets/images/course/pgdm/pg-diploma-in-finance-management.jpg" class="banner-img" title="PG Diploma in Finance Management Image"
+                            <img src="assets/images/course/pgdm/pg-diploma-in-finance-management.jpg" class="banner-img" fetchpriority="high" title="PG Diploma in Finance Management Image"
                                 alt="PG Diploma in Finance Management">
                             <div class="stc-det course-sec inner-sec">
                                 <img src="assets/images/course/pgdm/PGDM-Finance-Management_Icon-2.jpg" title="PGDM in Finance Management Icon" alt="PGDM in Finance Management Icon 2">

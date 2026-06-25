@@ -45,15 +45,25 @@
 
 
     <!-- Page Title -->
-
     <link rel="icon" type="image/png" href="assets/images/favicon-mit.ico" />
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
     <link rel="stylesheet" href="assets/css/bootstrap-select.min.css" />
-    <link rel="stylesheet" href="assets/css/slick.min.css" />
-    <link rel="stylesheet" href="assets/css/fonts.css" type="text/css" />
-    <link rel="stylesheet" href="assets/css/style.css" type="text/css" />
-    <link rel="stylesheet" href="assets/fontawesome/css/all.min.css" type="text/css">
-    <link rel="stylesheet" href="assets/css/course-common-internal.css" type="text/css" />
+    <!-- font awesome css -->
+    <link rel="stylesheet" href="assets/fontawesome/css/all.min.css">
+
+    <!-- Preload CSS (Non-blocking) -->
+    <link rel="preload" href="assets/css/slick.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="preload" href="assets/css/fonts.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="preload" href="assets/css/style.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="preload" href="assets/css/course-common-internal.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+
+    <!-- Fallback (Loads CSS if JS disabled) -->
+    <noscript>
+        <link rel="stylesheet" href="assets/css/slick.min.css">
+        <link rel="stylesheet" href="assets/css/fonts.css">
+        <link rel="stylesheet" href="assets/css/style.css">
+        <link rel="stylesheet" href="assets/css/course-common-internal.css">
+    </noscript>
     <!--API for Queck contact----->
     <script src="assets/js/api/jquery-1.10.2.min.js"></script>
     <script type="text/javascript" src="assets/js/api/validation.js" charset="UTF-8"></script>
@@ -281,7 +291,7 @@
                                 <img src="assets/images/course/pgdm/Project-Management-icon1.jpg" alt="Project Management Icon 1">
                             </div>
                             <img src="assets/images/course/cap/certification-in-finance-management.jpg"
-                                class="banner-img" title="Certification in Finance Management" alt="Certification in Finance Management">
+                                class="banner-img" fetchpriority="high" title="Certification in Finance Management" alt="Certification in Finance Management">
                             <div class="stc-det course-sec inner-sec">
                                 <img src="assets/images/course/pgdm/Project-Management-icon1.jpg" alt="Project Management Icon 1">
                             </div>

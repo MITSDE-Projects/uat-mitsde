@@ -37,12 +37,24 @@
     <link rel="icon" type="image/png" href="assets/images/favicon-mit.ico" />
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
     <link rel="stylesheet" href="assets/css/bootstrap-select.min.css" />
-    <link rel="stylesheet" href="assets/css/slick.min.css" />
-    <link rel="stylesheet" href="assets/css/fonts.css" type="text/css" />
-    <link rel="stylesheet" href="assets/css/style.css" type="text/css" />
-    <link rel="stylesheet" href="assets/fontawesome/css/all.min.css" type="text/css">
-    <link rel="stylesheet" href="assets/css/course-common-internal.css" type="text/css" />
-    <link rel="stylesheet" href="assets/css/new-common-design-course-page-demo-final.css" type="text/css" />
+    <!-- font awesome css -->
+    <link rel="stylesheet" href="assets/fontawesome/css/all.min.css">
+
+    <!-- Preload CSS (Non-blocking) -->
+    <link rel="preload" href="assets/css/slick.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="preload" href="assets/css/fonts.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="preload" href="assets/css/style.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="preload" href="assets/css/course-common-internal.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="preload" href="assets/css/new-common-design-course-page-demo-final.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+
+    <!-- Fallback (Loads CSS if JS disabled) -->
+    <noscript>
+        <link rel="stylesheet" href="assets/css/slick.min.css">
+        <link rel="stylesheet" href="assets/css/fonts.css">
+        <link rel="stylesheet" href="assets/css/style.css">
+        <link rel="stylesheet" href="assets/css/course-common-internal.css">
+        <link rel="stylesheet" href="assets/css/new-common-design-course-page-demo-final.css">
+    </noscript>
     <!--API for Queck contact----->
     <script src="assets/js/api/jquery-1.10.2.min.js"></script>
     <script type="text/javascript" src="assets/js/api/validation.js" charset="UTF-8"></script>
@@ -287,7 +299,7 @@
                             <div class="stc-det student-sec inner-sec">
                                 <img src="assets/images/course/pgdm/PGDM-Marketing-Management_Icon-1.jpg" title="PGDM Marketing Management Icon" alt="Icon symbolizing core areas of marketing management">
                             </div>
-                            <img src="assets/images/course/pgdm/PGDM-Marketing-Management.jpg" class="banner-img" title="PGDM in Marketing Management"
+                            <img src="assets/images/course/pgdm/PGDM-Marketing-Management.jpg" class="banner-img" fetchpriority="high" title="PGDM in Marketing Management"
                                 alt="Visual representation of digital and traditional marketing concepts">
                             <div class="stc-det course-sec inner-sec">
                                 <img src="assets/images/course/pgdm/PGDM-Marketing-Management_Icon-2.jpg" title="Advanced Marketing Management Icon" alt="Icon illustrating advanced marketing tools">
