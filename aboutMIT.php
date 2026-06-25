@@ -8,7 +8,7 @@
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
 
-    <meta name="description" content="MITSDE - Evaluation Methodology" />
+    <meta name="description" content="Discover MIT School of Distance Education, its vision, mission, academic excellence, industry-focused programs, and commitment to quality education." />
     <meta name="keywords"
         content="distance pg certificate courses, distance certificate courses, online learning, distance learning center, online mba programs, pgdm courses, pgdm distance courses" />
     <meta name="author" content="" />
@@ -16,7 +16,7 @@
 
     <link rel="canonical" href="https://mitsde.com/aboutMIT" />
     <!-- Page Title -->
-    <title>About MIT, Pune - Leading Educational Institution in India Since 1983</title>
+    <title>About MIT School of Distance Education | MIT SDE</title>
     <link rel="icon" type="image/png" href="assets/images/favicon-mit.ico" />
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
     <link rel="stylesheet" href="assets/css/bootstrap-select.min.css" />

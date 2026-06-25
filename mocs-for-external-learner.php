@@ -7,11 +7,11 @@
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
-    <title>MIT Office of Career Services – For External Learners / Non-MITSDE Students</title>
+    <title>MOCS for External Learners | MIT SDE</title>
 
 
     <meta name="description"
-        content="MIT Office of Career Services offers a unique blend of services beyond academics, focusing on the holistic development of learners for career success." />
+        content="Explore MIT Office of Career Services (MOCS) support for external learners including career guidance, employability training, and placement assistance." />
     <meta name="keywords"
         content="MIT office of career services,  mitsde, Soft Skills Training,  Stress Management, mit career services, success, help, academicsuccess, educationalgoals " />
 

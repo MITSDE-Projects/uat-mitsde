@@ -8,7 +8,7 @@
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
 
-    <meta name="description" content="MITSDE - Comittee Document" />
+    <meta name="description" content="Access MIT SDE committee documents including governance policies, institutional committees, compliance records, and administrative information." />
     <meta name="keywords"
         content="distance pg certificate courses, distance certificate courses, online learning, distance learning center, online mba programs, pgdm courses, pgdm distance courses" />
 
@@ -19,7 +19,7 @@
 
     <!-- CANONICAL TAG -->
     <!-- Page Title -->
-    <title>Comittee Document</title>
+    <title>Committee Documents & Policies | MIT SDE</title>
     <link rel="icon" type="image/png" href="assets/images/favicon-mit.ico" />
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
     <link rel="stylesheet" href="assets/css/bootstrap-select.min.css" />

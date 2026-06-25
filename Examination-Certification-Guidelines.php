@@ -8,7 +8,7 @@
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
 
-    <meta name="description" content="MITSDE - Mandatory Disclosure" />
+    <meta name="description" content="Read MIT SDE examination and certification guidelines covering exam procedures, eligibility, evaluation process, and certificate issuance policies." />
     <meta name="keywords"
         content="distance pg certificate courses, distance certificate courses, online learning, distance learning center, online mba programs, pgdm courses, pgdm distance courses" />
 
@@ -19,7 +19,7 @@
 
     <!-- CANONICAL TAG -->
     <!-- Page Title -->
-    <title>Examination Certification Guidelines</title>
+    <title>Examination & Certification Guidelines | MIT SDE</title>
     <link rel="icon" type="image/png" href="assets/images/favicon-mit.ico" />
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
     <link rel="stylesheet" href="assets/css/bootstrap-select.min.css" />

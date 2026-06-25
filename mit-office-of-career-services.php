@@ -7,11 +7,11 @@
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
-    <title>MIT Office of Career Services: Soft Skills Training & Stress Management </title>
+    <title>MIT Office of Career Services & Placement | MIT SDE </title>
 
 
     <meta name="description"
-        content="MIT Office of Career Services offers a unique blend of services beyond academics, focusing on the holistic development of learners for career success." />
+        content="Learn about MIT Office of Career Services offering career counseling, placement support, industry interaction, and professional development opportunities." />
     <meta name="keywords"
         content="MIT office of career services,  mitsde, Soft Skills Training,  Stress Management, mit career services, success, help, academicsuccess, educationalgoals " />
     <!-- CANONICAL TAG -->
