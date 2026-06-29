@@ -310,23 +310,23 @@
                             <ul class="dropdown-menu secondDrop">
                                 <!-- Newly Added Knowledge Center Pages -->
                                 <li><a class="dropdown-item"
-                                        href="/knowledge-center/mba-vs-pgdm-which-one-is-better-for-your-career"
+                                        href="knowledge-center/mba-vs-pgdm-which-one-is-better-for-your-career"
                                         target="_blank">MBA vs PGDM</a></li>
-                                <li><a class="dropdown-item" href="/knowledge-center/pgdm-for-career-switchers"
+                                <li><a class="dropdown-item" href="knowledge-center/pgdm-for-career-switchers"
                                         target="_blank">Career Switch</a></li>
                                 <li><a class="dropdown-item"
-                                        href="/knowledge-center/pgdm-a-good-option-for-working-professionals"
+                                        href="knowledge-center/pgdm-a-good-option-for-working-professionals"
                                         target="_blank">Working Professionals</a></li>
-                                <li><a class="dropdown-item" href="/knowledge-center/scope-of-pgdm-in-india"
+                                <li><a class="dropdown-item" href="knowledge-center/scope-of-pgdm-in-india"
                                         target="_blank">Scope of PGDM</a></li>
                                 <li><a class="dropdown-item"
-                                        href="/knowledge-center/best-career-opportunities-after-completing-a-finance-course"
+                                        href="knowledge-center/best-career-opportunities-after-completing-a-finance-course"
                                         target="_blank">Finance Careers</a></li>
                                 <li><a class="dropdown-item"
-                                        href="/knowledge-center/how-a-pgdm-in-marketing-shapes-your-career-trajectory"
+                                        href="knowledge-center/how-a-pgdm-in-marketing-shapes-your-career-trajectory"
                                         target="_blank">PGDM Marketing</a></li>
                                 <li><a class="dropdown-item"
-                                        href="/knowledge-center/jobs-after-pgdm-in-operations-management"
+                                        href="knowledge-center/jobs-after-pgdm-in-operations-management"
                                         target="_blank">PGDM Operations</a></li>
                             </ul>
                         </li>
