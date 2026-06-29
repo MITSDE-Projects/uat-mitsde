@@ -460,18 +460,7 @@ if ($_SERVER['PHP_SELF'] == "/harbour.php" || $_SERVER['PHP_SELF'] == "/chat-wit
         // echo "$pagename";
         // Do nothing or hide the script if the current page is 'payment-gateway.php'
     } 
-    elseif (
-    $_SERVER['PHP_SELF'] == '/' ||
-    $pagename == 'index.php'
-) {
-
-    // ONLY Homepage
-
-?>
-    <script src="https://extraaedgeresources.blob.core.windows.net/demo/mitsde/Chatbot/js/chat.js"></script>
-<?php
-
-} else {
+    else {
 
     // All other pages
 
