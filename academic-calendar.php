@@ -209,6 +209,267 @@
 
 
                     <div class="col-md-12 curriculum">
+
+                    <!-- July to September -->
+                        <table class="table table">
+
+                            <th colspan="7" class="centered"
+                                style="text-align: center;background-color: #F47521;color: #fff;font-size: 16px;">
+                                <strong>Academic Calendar : July to September 2026</strong>
+                            </th>
+
+                            <tr>
+                                <th>Month</th>
+                                <th>Cohort live sessions</th>
+                                <th>MIT Office of Career Services</th>
+                                <th>MIT SDE LABS</th>
+                                <th>MIT SDE Bootcamp</th>
+                                <th>E-Induction / LMS Orientation Session</th>
+                                <th>MIT SDE SynergySphere</th>
+                            </tr>
+
+                            <!-- July -->
+                            <tr>
+                                <th rowspan="8" style="vertical-align: middle; color: #fff;">July</th>
+                            </tr>
+
+                            <tr>
+                                <td>C13 Batch: 08th to 10th July</td>
+                                <td>01st to 05th July</td>
+                                <td>04th July</td>
+                                <td>04th and 05th July</td>
+                                <td>11th July</td>
+                                <td>11th July</td>
+                            </tr>
+
+                            <tr>
+                                <td>C13 Batch: 15th to 17th July</td>
+                                <td>06th to 12th July</td>
+                                <td>12th July</td>
+                                <td>12th July</td>
+                                <td>-</td>
+                                <td>25th July</td>
+                            </tr>
+
+                            <tr>
+                                <td>C15 Batch: 16th and 17th July</td>
+                                <td>13th to 19th July</td>
+                                <td>18th July</td>
+                                <td>18th and 19th July</td>
+                                <td>-</td>
+                                <td>-</td>
+                            </tr>
+
+                            <tr>
+                                <td>C13 Batch: 22nd to 24th July</td>
+                                <td>20th to 26th July</td>
+                                <td>19th July</td>
+                                <td>26th July</td>
+                                <td>-</td>
+                                <td>-</td>
+                            </tr>
+
+                            <tr>
+                                <td>C15 Batch: 23rd and 24th July</td>
+                                <td>27th to 31st July</td>
+                                <td>26th July</td>
+                                <td>-</td>
+                                <td>-</td>
+                                <td>-</td>
+                            </tr>
+
+                            <tr>
+                                <td>C13 Batch: 29th to 31st July</td>
+                                <td>-</td>
+                                <td>-</td>
+                                <td>-</td>
+                                <td>-</td>
+                                <td>-</td>
+                            </tr>
+
+                            <tr>
+                                <td>C15 Batch: 30th and 31st July</td>
+                                <td>-</td>
+                                <td>-</td>
+                                <td>-</td>
+                                <td>-</td>
+                                <td>-</td>
+                            </tr>
+
+
+
+                            <!-- August -->
+                            <tr>
+                                <th rowspan="9" style="vertical-align: middle; color: #fff;">August</th>
+                            </tr>
+
+                            <tr>
+                                <td>C13 Batch: 05th to 07th August</td>
+                                <td>01st and 02nd August</td>
+                                <td>01st August</td>
+                                <td>01st and 02nd August</td>
+                                <td>08th August</td>
+                                <td>08th August</td>
+                            </tr>
+
+                            <tr>
+                                <td>C15 Batch: 06th and 07th August</td>
+                                <td>03rd to 09th August</td>
+                                <td>-</td>
+                                <td>09th August</td>
+                                <td>-</td>
+                                <td>22nd August</td>
+                            </tr>
+
+                            <tr>
+                                <td>C13 Batch: 12th to 14th August</td>
+                                <td>10th to 16th August</td>
+                                <td>-</td>
+                                <td>16th August</td>
+                                <td>-</td>
+                                <td>-</td>
+                            </tr>
+
+                            <tr>
+                                <td>C15 Batch: 13th and 14th August</td>
+                                <td>17th to 23rd August</td>
+                                <td>-</td>
+                                <td>22nd and 23rd August</td>
+                                <td>-</td>
+                                <td>-</td>
+                            </tr>
+
+                            <tr>
+                                <td>C13 Batch: 19th to 21st August</td>
+                                <td>24th to 31st August</td>
+                                <td>-</td>
+                                <td>29th and 30th August</td>
+                                <td>-</td>
+                                <td>-</td>
+                            </tr>
+
+                            <tr>
+                                <td>C15 Batch: 20th and 21st August</td>
+                                <td>-</td>
+                                <td>-</td>
+                                <td>-</td>
+                                <td>-</td>
+                                <td>-</td>
+                            </tr>
+
+                            <tr>
+                                <td>C13 Batch: 26th to 28th August</td>
+                                <td>-</td>
+                                <td>-</td>
+                                <td>-</td>
+                                <td>-</td>
+                                <td>-</td>
+                            </tr>
+
+                            <tr>
+                                <td>C15 Batch: 27th and 28th August</td>
+                                <td>-</td>
+                                <td>-</td>
+                                <td>-</td>
+                                <td>-</td>
+                                <td>-</td>
+                            </tr>
+
+
+
+                            <!-- September -->
+                            <tr>
+                                <th rowspan="10" style="vertical-align: middle; color: #fff;">September</th>
+                            </tr>
+
+                            <tr>
+                                <td>C13 Batch: 02nd to 04th September</td>
+                                <td>01st to 06th September</td>
+                                <td>-</td>
+                                <td>05th and 06th September</td>
+                                <td>12th September</td>
+                                <td>12th September</td>
+                            </tr>
+
+                            <tr>
+                                <td>C15 Batch: 03rd and 04th September</td>
+                                <td>07th to 13th September</td>
+                                <td>-</td>
+                                <td>13th September</td>
+                                <td>-</td>
+                                <td>26th September</td>
+                            </tr>
+
+                            <tr>
+                                <td>C13 Batch: 09th to 11th September</td>
+                                <td>14th to 20th September</td>
+                                <td>-</td>
+                                <td>20th September</td>
+                                <td>-</td>
+                                <td>-</td>
+                            </tr>
+
+                            <tr>
+                                <td>C15 Batch: 10th and 11th September</td>
+                                <td>21st to 27th September</td>
+                                <td>-</td>
+                                <td>27th September</td>
+                                <td>-</td>
+                                <td>-</td>
+                            </tr>
+
+                            <tr>
+                                <td>C13 Batch: 16th to 18th September</td>
+                                <td>28th to 30th September</td>
+                                <td>-</td>
+                                <td>-</td>
+                                <td>-</td>
+                                <td>-</td>
+                            </tr>
+
+                            <tr>
+                                <td>C15 Batch: 17th and 18th September</td>
+                                <td>-</td>
+                                <td>-</td>
+                                <td>-</td>
+                                <td>-</td>
+                                <td>-</td>
+                            </tr>
+
+                            <tr>
+                                <td>C13 Batch: 23rd to 25th September</td>
+                                <td>-</td>
+                                <td>-</td>
+                                <td>-</td>
+                                <td>-</td>
+                                <td>-</td>
+                            </tr>
+
+                            <tr>
+                                <td>C15 Batch: 24th and 25th September</td>
+                                <td>-</td>
+                                <td>-</td>
+                                <td>-</td>
+                                <td>-</td>
+                                <td>-</td>
+                            </tr>
+
+                            <tr>
+                                <td>C13 Batch: 30th September</td>
+                                <td>-</td>
+                                <td>-</td>
+                                <td>-</td>
+                                <td>-</td>
+                                <td>-</td>
+                            </tr>
+
+                        </table>
+
+                        <p><strong>[*This is a tentative calendar for July, August and September 2026. The days are subject to change depending on parallel sessions. The academic calendar will be updated quarterly.]</strong></p>
+
+                        <br>
+
+                    <!-- July to September -->
                     
                     <!-- April to June  -->
 
