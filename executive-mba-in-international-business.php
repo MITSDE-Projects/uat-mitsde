@@ -7,17 +7,17 @@
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
-    <title>Executive MBA in Supply Chain Management | MITSDE</title>
+    <title>Executive MBA in International Business Program | Avantika University</title>
 
     <meta name="description"
-        content="Pursue an Executive MBA in Supply Chain Management from MITSDE Pune. Learn logistics, procurement, inventory, transportation, and supply chain strategy." />
+        content="Advance your career with Avantika University s Executive MBA in International Business. Gain expertise in global business, trade policies, logistics, and forex management." />
 
     <meta name="keywords"
-        content="mba in logistics and supply chain management, executive mba in supply chain management logistics management course, executive mba pune, supply chain strategy course" />
+        content="EMBA in International Business, Executive MBA International Business, International Business MBA Pune, EMBA program in Pune, MBA International Business Management, MITSDE Executive MBA, Global Business Management Course" />
 
     <!-- CANONICAL TAG -->
 
-    <link rel="canonical" href="https://mitsde.com/executive-mba-in-supply-chain-management" />
+    <link rel="canonical" href="https://mitsde.com/executive-mba-in-international-business" />
 
     <!-- CANONICAL TAG -->
 
@@ -26,23 +26,23 @@
 
     <!-- OGP TAG -->
 
-    <meta property="og:title" content="Executive MBA in Supply Chain Management | MITSDE">
+    <meta property="og:title" content="Executive MBA in International Business Program | Avantika University">
     <meta property="og:site_name" content="MIT School of Distance Education">
-    <meta property="og:url" content="https://mitsde.com/executive-mba-in-supply-chain-management">
+    <meta property="og:url" content="https://mitsde.com/executive-mba-in-international-business">
     <meta property="og:description"
-        content="Pursue an Executive MBA in Supply Chain Management from MITSDE Pune. Learn logistics, procurement, inventory, transportation, and supply chain strategy.">
+        content="Advance your career with Avantika University s Executive MBA in International Business. Gain expertise in global business, trade policies, logistics, and forex management.">
     <meta property="og:type" content="website">
     <meta property="og:image"
-        content="https://mitsde.com/assets/images/course/ex-mba/Supply-Chain-Management.jpg">
+        content="">
 
     <!-- twitter tag -->
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="Executive MBA in Supply Chain Management | MITSDE">
+    <meta name="twitter:title" content="Executive MBA in International Business Program | Avantika University">
     <meta name="twitter:description"
-        content="Pursue an Executive MBA in Supply Chain Management from MITSDE Pune. Learn logistics, procurement, inventory, transportation, and supply chain strategy.">
+        content="Advance your career with Avantika University s Executive MBA in International Business. Gain expertise in global business, trade policies, logistics, and forex management.">
     <meta name="twitter:image"
-        content="https://mitsde.com/assets/images/course/ex-mba/Supply-Chain-Management.jpg">
-    <meta name="twitter:image:alt" content="Executive MBA in Supply Chain Management">
+        content="">
+    <meta name="twitter:image:alt" content="Executive MBA in Finance Management">
 
 
     <!-- / OG TAG -->
@@ -153,13 +153,13 @@
 
                             <!-- Heading Column -->
                             <div class="col-8 col-md-8 col-lg-8">
-                                <h1 class="mb-0">EMBA in Supply Chain Management</h1>
+                                <h1 class="mb-0">EMBA in International Business</h1>
                             </div>
                         </div>
 
 
 
-                        <p>Drive end-to-end supply chains with strategic precision — MIT Alandi Campus, Pune</p>
+                        <p>Navigate global markets with confidence — MIT Alandi Campus, Pune</p>
 
 
 
@@ -179,7 +179,7 @@
                                     </li>
                                     <li class="breadcrumb-item"><a href="executive-mba">Executive MBA</a></li>
                                     <li class="breadcrumb-item active text-capitalize" aria-current="page">Executive MBA
-                                        in Supply Chain Management
+                                        in International Business
                                     </li>
 
                             </nav>
@@ -190,11 +190,12 @@
                     <div class="col-md-12 col-lg-6">
                         <div class="css-details">
                             <div class="stc-det student-sec inner-sec">
-                                <img src="assets/images/course/ex-mba/Supply-Chain-Management-Icon-1.jpg" >
+                                <img src="assets/images/course/ex-mba/Finance-Management-Icon-1.jpg" alt="Finance Management Icon 1">
                             </div>
-                            <img src="assets/images/course/ex-mba/Supply-Chain-Management.jpg" class="banner-img" alt="executive-mba-in-supply-chain-management">
+                            <img src="assets/images/course/ex-mba/executive-mba-in-finance-management.jpg"
+                                class="banner-img" fetchpriority="high" alt="executive-mba-in-finance-management">
                             <div class="stc-det course-sec inner-sec">
-                                <img src="assets/images/course/ex-mba/Supply-Chain-Management-icon-2.jpg" >
+                                <img src="assets/images/course/ex-mba/Finance-Management-Icon-2.jpg" alt="Finance Management Icon 2">
                             </div>
                         </div>
                     </div>
@@ -226,14 +227,14 @@
 
                     <div class="col-md-12 col-lg-7 with-decades">
                         <p align="justify">
-                            The <b>Executive MBA in Logistics & Supply Chain Management</b> is built for working professionals who want to master end-to-end supply chain strategy, procurement, logistics, inventory, and distribution network design. Offered by <b>MIT School of Distance Education (MITSDE)</b>, part of MAEER's MIT Pune, this program carries forward a legacy of quality education established in 1983.
+                            The <b>Executive MBA in International Business</b> is crafted for working professionals who want to build expertise in global trade, cross-border logistics, foreign exchange, and international financial management. Offered by <b>MIT School of Distance Education (MITSDE)</b>, part of MAEER's MIT Pune, this program carries forward a legacy of quality education established in 1983.
                         </p>
 
                         <p align="justify">
-                            The curriculum builds from core management fundamentals — financial reporting, business statistics, HR, and corporate governance — to specialized disciplines including supply chain strategy, procuring and sourcing, logistics management, inventory management, distribution network design, and transportation management. A mandatory summer internship in Semester 3 and a capstone project in Semester 4 ensure industry exposure from day one.
+                            The curriculum progresses from foundational management disciplines — financial reporting, business statistics, HR, and corporate governance — through to specialized modules in international business logistics, foreign trade policy, export-import documentation, and global forex management. A mandatory summer internship and capstone project ensure real-world application at every stage.
                         </p>
                         <p align="justify">
-                            Whether you work in operations, procurement, warehousing, or logistics consulting, this program gives you the frameworks and tools to lead complex, global supply chains effectively.
+                            Whether you are in trade, logistics, finance, or corporate management, this program equips you to lead with confidence in today's interconnected global economy.
                         </p>
 
                     </div>
@@ -417,27 +418,27 @@
                                             </thead>
                                             <tbody>
                                                 <tr>
-                                                    <td>ELS3401</td>
+                                                    <td>EIB3401</td>
                                                     <td>Discipline Specific</td>
-                                                    <td>Supply Chain Strategy</td>
+                                                    <td>International Business Logistics</td>
                                                     <td>4</td>
                                                 </tr>
                                                 <tr>
-                                                    <td>ELS3402</td>
+                                                    <td>EIB3402</td>
                                                     <td>Discipline Specific</td>
-                                                    <td>Procuring and Sourcing</td>
+                                                    <td>Foreign Trade Policy and Procedures</td>
                                                     <td>4</td>
                                                 </tr>
                                                 <tr>
-                                                    <td>ELS3403</td>
+                                                    <td>EIB3403</td>
                                                     <td>Discipline Specific</td>
-                                                    <td>Logistics Management</td>
+                                                    <td>Export-Import Documentation</td>
                                                     <td>4</td>
                                                 </tr>
                                                 <tr>
-                                                    <td>ELS3404</td>
+                                                    <td>EIB3404</td>
                                                     <td>Discipline Specific</td>
-                                                    <td>Inventory Management</td>
+                                                    <td>Global Business Environment & ITT</td>
                                                     <td>4</td>
                                                 </tr>
                                                 <tr>
@@ -475,15 +476,15 @@
                                             </thead>
                                             <tbody>
                                                 <tr>
-                                                    <td>ELS3405</td>
+                                                    <td>EIB3405</td>
                                                     <td>Discipline Specific</td>
-                                                    <td>Distribution Network Design</td>
+                                                    <td>Insurance & Risk Management in IB</td>
                                                     <td>4</td>
                                                 </tr>
                                                 <tr>
-                                                    <td>ELS3406</td>
+                                                    <td>EIB3406</td>
                                                     <td>Discipline Specific</td>
-                                                    <td>Transportation Management</td>
+                                                    <td>International Financial & Forex Management</td>
                                                     <td>4</td>
                                                 </tr>
                                                 <tr>
@@ -501,7 +502,7 @@
                     </div>
 
                     <div class="container">
-                        <h2>Course Basket — Logistics & Supply Chain Management</h2>
+                        <h2>Course Basket — International Business</h2>
                         <div class="col-md-12 col-lg-12">
                             <table class="table fee-table">
 
@@ -517,38 +518,38 @@
                                 <tbody>
                                     <tr>
                                         <td>Discipline Specific 1</td>
-                                        <td>ELS3401</td>
-                                        <td>Supply Chain Strategy</td>
+                                        <td>EIB3401</td>
+                                        <td>International Business Logistics</td>
                                         <td>3</td>
                                     </tr>
                                     <tr>
                                         <td>Discipline Specific 2</td>
-                                        <td>ELS3402</td>
-                                        <td>Procuring and Sourcing</td>
+                                        <td>EIB3402</td>
+                                        <td>Foreign Trade Policy and Procedures</td>
                                         <td>3</td>
                                     </tr>
                                     <tr>
                                         <td>Discipline Specific 3</td>
-                                        <td>ELS3403</td>
-                                        <td>Logistics Management</td>
+                                        <td>EIB3403</td>
+                                        <td>Export-Import Documentation</td>
                                         <td>3</td>
                                     </tr>
                                     <tr>
                                         <td>Discipline Specific 4</td>
-                                        <td>ELS3404</td>
-                                        <td>Inventory Management</td>
+                                        <td>EIB3404</td>
+                                        <td>Global Business Environment & ITT</td>
                                         <td>3</td>
                                     </tr>
                                     <tr>
                                         <td>Discipline Specific 5</td>
-                                        <td>ELS3405</td>
-                                        <td>Distribution Network Design</td>
+                                        <td>EIB3405</td>
+                                        <td>Insurance & Risk Management in IB</td>
                                         <td>3</td>
                                     </tr>
                                     <tr>
                                         <td>Discipline Specific 6</td>
-                                        <td>ELS3406</td>
-                                        <td>Transportation Management</td>
+                                        <td>EIB3406</td>
+                                        <td>International Financial & Forex Management</td>
                                         <td>3</td>
                                     </tr>
                                 </tbody>
@@ -630,8 +631,13 @@
                     </div>
                 </div>
 
-                <div class="alert brandcolor mt-3 text-justify" style="text-align: justify;" role="alert"><b>EMI & Loan</b>: Easy EMI options available via leading banks and NBFCs. Educational loan assistance is also provided. Contact admissions for details — <a class="text-decoration-none" href="tel:+919112207207">+91 9112-207-207</a>
-                </div>
+                <!-- <div class="alert brandcolor mt-3 text-justify" style="text-align: justify;" role="alert"><b>Note :
+                        *</b> Study Material will be provided to the
+                    students in the form of hard copies of books at actual price. Students who opt only for the soft
+                    copy
+                    of the
+                    books will be eligible for a discount of Rs. 5000/- in their tuition fees.
+                </div> -->
             </div>
 
         </div>
