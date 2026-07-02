@@ -30,6 +30,10 @@
                                 <span class="visually-hidden">Toggle Dropdown</span>
                             </a>
                             <ul class="dropdown-menu secondDrop">
+                                <li><a class="dropdown-item" href="executive-mba-in-international-business"
+                                        target="_blank">EMBA in International Business</a></li>
+                                <li><a class="dropdown-item" href="executive-mba-in-supply-chain-management"
+                                        target="_blank">EMBA in Supply Chain Management</a></li>
                                 <li><a class="dropdown-item" href="executive-mba-finance-management"
                                         target="_blank">EMBA in Finance Management</a></li>
                                 <li><a class="dropdown-item" href="executive-mba-human-resource-management">EMBA in HR
