@@ -35,17 +35,52 @@
     <!-- / OG TAG -->
 
 
+    <!-- Favicon -->
     <link rel="icon" type="image/png" href="assets/images/favicon-mit.ico" />
+
+    <!-- Core / Critical CSS -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
     <link rel="stylesheet" href="assets/css/bootstrap-select.min.css" />
-    <link rel="stylesheet" href="assets/css/slick.min.css" />
-    <link rel="stylesheet" href="assets/css/fonts.css" type="text/css" />
-    <link rel="stylesheet" href="assets/css/style.css" type="text/css" />
-    <link rel="stylesheet" href="assets/fontawesome/css/all.min.css" type="text/css">
-    <link rel="stylesheet" href="assets/css/course-common-internal.css" type="text/css" />
-    <link rel="stylesheet" href="assets/css/harbour.css" type="text/css" />
-    <link rel="stylesheet" href="assets/css/tab-to-common.css" type="text/css" />
-    <link rel="stylesheet" href="assets/css/two-card-slider.css" type="text/css" />
+
+    <!-- Preload CSS (Non-blocking) -->
+    <link rel="preload" href="assets/css/slick.min.css" as="style"
+        onload="this.onload=null;this.rel='stylesheet'">
+
+    <link rel="preload" href="assets/css/fonts.css" as="style"
+        onload="this.onload=null;this.rel='stylesheet'">
+
+    <link rel="preload" href="assets/css/style.css" as="style"
+        onload="this.onload=null;this.rel='stylesheet'">
+
+    <link rel="preload" href="assets/fontawesome/css/all.min.css" as="style"
+        onload="this.onload=null;this.rel='stylesheet'">
+
+    <link rel="preload" href="assets/css/course-common-internal.css" as="style"
+        onload="this.onload=null;this.rel='stylesheet'">
+
+    <link rel="preload" href="assets/css/harbour.css" as="style"
+        onload="this.onload=null;this.rel='stylesheet'">
+
+    <link rel="preload" href="assets/css/tab-to-common.css" as="style"
+        onload="this.onload=null;this.rel='stylesheet'">
+
+    <link rel="preload" href="assets/css/two-card-slider.css" as="style"
+        onload="this.onload=null;this.rel='stylesheet'">
+
+    <link rel="preload" href="assets/css/city-page.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+
+    <!-- Fallback (If JS Disabled) -->
+    <noscript>
+        <link rel="stylesheet" href="assets/css/slick.min.css">
+        <link rel="stylesheet" href="assets/css/fonts.css">
+        <link rel="stylesheet" href="assets/css/style.css">
+        <link rel="stylesheet" href="assets/fontawesome/css/all.min.css">
+        <link rel="stylesheet" href="assets/css/course-common-internal.css">
+        <link rel="stylesheet" href="assets/css/harbour.css">
+        <link rel="stylesheet" href="assets/css/tab-to-common.css">
+        <link rel="stylesheet" href="assets/css/two-card-slider.css">
+        <link rel="stylesheet" href="assets/css/city-page.css">
+    </noscript>
 
 
     <!--API for Queck contact----->
@@ -64,9 +99,14 @@
         <section class="banner inner-banner">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-12 col-lg-12 main-banner d-flex justify-content-center">
+                    <div class="col-md-12 col-lg-6 main-banner d-flex justify-content-center">
                         <div class="row mt-5 mb-5">
                             <h1>Merchant Banking</h1>
+                        </div>
+                    </div>
+                    <div class="col-md-12 col-lg-6">
+                        <div class="css-details justify-content-center">
+                            <?php include "home-page-final-form.php" ?>
                         </div>
                     </div>
 

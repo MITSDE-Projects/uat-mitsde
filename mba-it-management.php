@@ -67,6 +67,8 @@
     <link rel="preload" href="assets/css/two-card-slider.css" as="style"
         onload="this.onload=null;this.rel='stylesheet'">
 
+    <link rel="preload" href="assets/css/city-page.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+
     <!-- Fallback (If JS Disabled) -->
     <noscript>
         <link rel="stylesheet" href="assets/css/slick.min.css">
@@ -77,6 +79,7 @@
         <link rel="stylesheet" href="assets/css/harbour.css">
         <link rel="stylesheet" href="assets/css/tab-to-common.css">
         <link rel="stylesheet" href="assets/css/two-card-slider.css">
+        <link rel="stylesheet" href="assets/css/city-page.css">
     </noscript>
 
 
@@ -97,7 +100,7 @@
         <section class="banner inner-banner">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-12 col-lg-12 main-banner d-flex justify-content-center">
+                    <div class="col-md-12 col-lg-6 main-banner d-flex justify-content-center">
                         <div class="row mt-5 mb-5">
                             <h1>MBA in IT Management – Empowering IT Professionals with Managerial Expertise</h1>
                             <p>Take the next step in your IT career with MITSDE’s MBA in IT Management. This program is specifically designed for IT professionals seeking to transition into managerial and leadership roles. By combining technical expertise with business strategy, students gain the skills required to lead IT operations, drive digital transformation, and make data-driven decisions. With flexible online learning and interactive modules, MITSDE ensures professionals can balance work commitments while earning an industry-recognized MBA for IT professionals.</p>
@@ -110,6 +113,11 @@
                                 </button>
 
                             </div>
+                        </div>
+                    </div>
+                    <div class="col-md-12 col-lg-6">
+                        <div class="css-details justify-content-center">
+                            <?php include "home-page-final-form.php" ?>
                         </div>
                     </div>
 

@@ -197,15 +197,8 @@ Take the next step in your career—enroll in the best digital marketing course 
 
                     </div>
                     <div class="col-md-12 col-lg-6">
-                        <div class="css-details">
-                            <div class="stc-det student-sec inner-sec">
-                                <img src="assets/images/progress.svg" alt="Progress indicator icon">
-                            </div>
-                            <img src="assets/images/city/digital-marketing-course-in-mumbai.jpg" class="banner-img"
-                                alt="Ai Digital Marketing Course in Mumbai | Fees, Placement, Institute, Collages">
-                            <div class="stc-det course-sec inner-sec">
-                                <img src="assets/images/walet.svg" alt="Wallet icon for payment">
-                            </div>
+                        <div class="css-details justify-content-center">
+                            <?php include "home-page-final-form.php" ?>
                         </div>
                     </div>
                 </div>

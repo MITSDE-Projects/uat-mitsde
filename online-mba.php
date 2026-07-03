@@ -51,6 +51,7 @@
     <link rel="preload" href="assets/css/harbour.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
     <link rel="preload" href="assets/css/tab-to-common.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
     <link rel="preload" href="assets/css/two-card-slider.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="preload" href="assets/css/city-page.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 
     <!-- Fallback (Loads CSS if JS disabled) -->
     <noscript>
@@ -64,6 +65,7 @@
         <link rel="stylesheet" href="assets/css/harbour.css">
         <link rel="stylesheet" href="assets/css/tab-to-common.css">
         <link rel="stylesheet" href="assets/css/two-card-slider.css">
+        <link rel="stylesheet" href="assets/css/city-page.css">
     </noscript>
 
     <!--API for Queck contact----->
@@ -82,7 +84,7 @@
         <section class="banner inner-banner">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-12 col-lg-12 main-banner d-flex justify-content-center">
+                    <div class="col-md-12 col-lg-6 main-banner d-flex justify-content-center">
                         <div class="row mt-5 mb-5">
                             <h1>Online MBA Courses in India</h1>
                             <p>Advance your career with MITSDE’s Online MBA courses in India, designed for working professionals, entrepreneurs, and aspiring business leaders. Our programs combine flexibility, affordability, and industry-relevant learning to help you acquire managerial skills without disrupting your career. With UGC-approved online MBA and AICTE-approved online MBA programs, MITSDE ensures nationwide recognition and equips you for leadership roles in IT, finance, operations, marketing, and more.</p>
@@ -95,6 +97,11 @@
                                 </button>
 
                             </div>
+                        </div>
+                    </div>
+                    <div class="col-md-12 col-lg-6">
+                        <div class="css-details justify-content-center">
+                            <?php include "home-page-final-form.php" ?>
                         </div>
                     </div>
 
