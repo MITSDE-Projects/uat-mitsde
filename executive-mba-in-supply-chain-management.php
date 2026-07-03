@@ -77,19 +77,19 @@
         {
             "@context": "https://schema.org/",
             "@type": "Product",
-            "name": "Executive MBA in Finance Management | Online EMBA",
-            "image": "https://mitsde.com/assets/images/course/ex-mba/executive-mba-in-finance-management.jpg",
-            "description": "EMBA in Finance Management: Harness advanced financial strategies, sharpen leadership skills, and excel in the dynamic world of finance in this executive-level program",
+            "name": "Executive MBA in Supply Chain Management | MITSDE",
+            "image": "https://mitsde.com/assets/images/course/ex-mba/Supply-Chain-Management.jpg",
+            "description": "Pursue an Executive MBA in Supply Chain Management from MITSDE Pune. Learn logistics, procurement, inventory, transportation, and supply chain strategy.",
             "brand": {
                 "@type": "Brand",
                 "name": "MITSDE"
             },
             "offers": {
                 "@type": "Offer",
-                "url": "https://mitsde.com/executive-mba-finance-management",
+                "url": "https://mitsde.com/executive-mba-in-supply-chain-management",
                 "priceCurrency": "INR",
                 "price": "180000",
-                "priceValidUntil": "2025-12-31",
+                "priceValidUntil": "2026-12-31",
                 "availability": "https://schema.org/InStock",
                 "itemCondition": "https://schema.org/NewCondition"
             },
@@ -101,7 +101,7 @@
                 "ratingCount": "10"
             }
         }
-    </script>
+</script>
 
     <script type="application/ld+json">
 {
@@ -123,8 +123,8 @@
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Executive MBA Finance",
-      "item": "https://mitsde.com/executive-mba-finance-management"
+      "name": "Executive MBA in Supply Chain Management",
+      "item": "https://mitsde.com/executive-mba-in-supply-chain-management"
     }
   ]
 }

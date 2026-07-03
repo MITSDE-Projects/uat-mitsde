@@ -7,10 +7,10 @@
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
-    <title>Executive MBA in International Business Program | Avantika University</title>
+    <title>Executive MBA International Business Program | MIT SDE</title>
 
     <meta name="description"
-        content="Advance your career with Avantika University s Executive MBA in International Business. Gain expertise in global business, trade policies, logistics, and forex management." />
+        content="Advance your career with MITSDE's Executive MBA in International Business. Gain expertise in global business, trade policies, logistics, and forex management." />
 
     <meta name="keywords"
         content="EMBA in International Business, Executive MBA International Business, International Business MBA Pune, EMBA program in Pune, MBA International Business Management, MITSDE Executive MBA, Global Business Management Course" />
@@ -25,27 +25,25 @@
     <?php include "5-common-seo-tag-1.php" ?>
 
     <!-- OGP TAG -->
-
-    <meta property="og:title" content="Executive MBA in International Business Program | Avantika University">
+    <meta property="og:title" content="Executive MBA International Business Program | MITSDE">
     <meta property="og:site_name" content="MIT School of Distance Education">
     <meta property="og:url" content="https://mitsde.com/executive-mba-in-international-business">
     <meta property="og:description"
-        content="Advance your career with Avantika University s Executive MBA in International Business. Gain expertise in global business, trade policies, logistics, and forex management.">
+        content="Advance your career with MITSDE's Executive MBA in International Business. Gain expertise in global business, trade policies, logistics, and forex management.">
     <meta property="og:type" content="website">
     <meta property="og:image"
-        content="">
+content="">
 
     <!-- twitter tag -->
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="Executive MBA in International Business Program | Avantika University">
+    <meta name="twitter:title" content="Executive MBA International Business Program | MITSDE">
     <meta name="twitter:description"
-        content="Advance your career with Avantika University s Executive MBA in International Business. Gain expertise in global business, trade policies, logistics, and forex management.">
+        content="Advance your career with MITSDE's Executive MBA in International Business. Gain expertise in global business, trade policies, logistics, and forex management.">
     <meta name="twitter:image"
-        content="">
-    <meta name="twitter:image:alt" content="Executive MBA in Finance Management">
+content="">
+    <meta name="twitter:image:alt" content="Executive MBA in International Business Program">
+<!-- / OG TAG -->
 
-
-    <!-- / OG TAG -->
     
     <link rel="icon" type="image/png" href="assets/images/favicon-mit.ico" />
     <!-- Preload CSS (Non-blocking) -->
@@ -77,19 +75,19 @@
         {
             "@context": "https://schema.org/",
             "@type": "Product",
-            "name": "Executive MBA in Finance Management | Online EMBA",
-            "image": "https://mitsde.com/assets/images/course/ex-mba/executive-mba-in-finance-management.jpg",
-            "description": "EMBA in Finance Management: Harness advanced financial strategies, sharpen leadership skills, and excel in the dynamic world of finance in this executive-level program",
+            "name": "Executive MBA International Business Program | MITSDE",
+            "image": "",
+            "description": "Advance your career with MITSDE's Executive MBA in International Business. Gain expertise in global business, trade policies, logistics, and forex management.",
             "brand": {
                 "@type": "Brand",
                 "name": "MITSDE"
             },
             "offers": {
                 "@type": "Offer",
-                "url": "https://mitsde.com/executive-mba-finance-management",
+                "url": "https://mitsde.com/executive-mba-in-international-business",
                 "priceCurrency": "INR",
                 "price": "180000",
-                "priceValidUntil": "2025-12-31",
+                "priceValidUntil": "2026-12-31",
                 "availability": "https://schema.org/InStock",
                 "itemCondition": "https://schema.org/NewCondition"
             },
@@ -101,7 +99,7 @@
                 "ratingCount": "10"
             }
         }
-    </script>
+</script>
 
     <script type="application/ld+json">
 {
@@ -123,8 +121,8 @@
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Executive MBA Finance",
-      "item": "https://mitsde.com/executive-mba-finance-management"
+      "name": "Executive MBA in International Business",
+      "item": "https://mitsde.com/executive-mba-in-international-business"
     }
   ]
 }
