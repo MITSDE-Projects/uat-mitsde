@@ -101,8 +101,14 @@
         <section class="banner">
             <div class="container">
                 <div class="banner-slider">
+                    <div>
+                        <div class="row">
+                            <a href="https://mitsde.com/roi.php"> <img
+                                    src="assets/images/homeimages/lastdate.jpg" alt="last date admission banner"
+                                    class="banner-img img-fluid" loading="lazy" decoding="async"></a>
 
-
+                        </div>
+                    </div>
                     <div>
                         <div class="row">
                             <a href="https://mitsde.com/roi.php"> <img
