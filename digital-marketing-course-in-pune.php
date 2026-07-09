@@ -209,15 +209,8 @@
 
                     </div>
                     <div class="col-md-12 col-lg-6">
-                        <div class="css-details">
-                            <div class="stc-det student-sec inner-sec">
-                                <img src="assets/images/progress.svg" alt="Progress indicator icon">
-                            </div>
-                            <img src="assets/images/city/digital-marketing-course-in-pune.jpg" fetchpriority="high" class="banner-img"
-                                alt="Ai Digital Marketing Course in Pune, Maharashtra | Fees/Placements">
-                            <div class="stc-det course-sec inner-sec">
-                                <img src="assets/images/walet.svg" alt="Wallet icon for payment">
-                            </div>
+                        <div class="css-details justify-content-center">
+                            <?php include "home-page-final-form.php" ?>
                         </div>
                     </div>
                 </div>

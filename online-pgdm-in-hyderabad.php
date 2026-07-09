@@ -46,6 +46,7 @@
     <link rel="stylesheet" href="assets/css/harbour.css" type="text/css" />
     <link rel="stylesheet" href="assets/css/tab-to-common.css" type="text/css" />
     <link rel="stylesheet" href="assets/css/two-card-slider.css" type="text/css" />
+    <link rel="stylesheet" href="assets/css/city-page.css" type="text/css" />
 
 
     <!--API for Queck contact----->
@@ -64,7 +65,7 @@
         <section class="banner inner-banner">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-12 col-lg-12 main-banner d-flex justify-content-center">
+                    <div class="col-md-12 col-lg-6 main-banner d-flex justify-content-center">
                         <div class="row mt-5 mb-5">
                             <h1>Online PGDM Colleges & PGDM Course in Hyderabad - MIT SDE</h1>
                             <div class="page-btn mt-2">
@@ -76,6 +77,11 @@
                                 </button>
 
                             </div>
+                        </div>
+                    </div>
+                    <div class="col-md-12 col-lg-6">
+                        <div class="css-details justify-content-center">
+                            <?php include "home-page-final-form.php" ?>
                         </div>
                     </div>
 

@@ -67,6 +67,8 @@
     <link rel="preload" href="assets/css/two-card-slider.css" as="style"
         onload="this.onload=null;this.rel='stylesheet'">
 
+    <link rel="preload" href="assets/css/city-page.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+
     <!-- Fallback (If JS Disabled) -->
     <noscript>
         <link rel="stylesheet" href="assets/css/slick.min.css">
@@ -77,6 +79,7 @@
         <link rel="stylesheet" href="assets/css/harbour.css">
         <link rel="stylesheet" href="assets/css/tab-to-common.css">
         <link rel="stylesheet" href="assets/css/two-card-slider.css">
+        <link rel="stylesheet" href="assets/css/city-page.css">
     </noscript>
 
 
@@ -97,7 +100,7 @@
         <section class="banner inner-banner">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-12 col-lg-12 main-banner d-flex justify-content-center">
+                    <div class="col-md-12 col-lg-6 main-banner d-flex justify-content-center">
                         <div class="row mt-5 mb-5">
                             <h1>PGDM Operations Management in Bangalore</h1>
                             <p>Step into Bangalore’s vibrant corporate and industrial hub with MITSDE’s PGDM Operations Management in Bangalore. Designed for working professionals and fresh graduates, this program equips you with the expertise to manage processes, optimize resources, and lead operational excellence across industries. With flexible online learning, an industry-focused curriculum, and the legacy of MIT Pune, MITSDE prepares you to excel in the competitive job market, from IT parks and aerospace units to e-commerce and manufacturing companies.</p>
@@ -110,6 +113,11 @@
                                 </button>
 
                             </div>
+                        </div>
+                    </div>
+                    <div class="col-md-12 col-lg-6">
+                        <div class="css-details justify-content-center">
+                            <?php include "home-page-final-form.php" ?>
                         </div>
                     </div>
 

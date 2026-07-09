@@ -134,6 +134,8 @@
 
     <link rel="stylesheet" href="assets/css/two-card-slider.css" type="text/css" />
 
+    <link rel="stylesheet" href="assets/css/city-page.css" type="text/css" />
+
     <!--API for Queck contact----->
 
     <script src="assets/js/api/jquery-1.10.2.min.js"></script>
@@ -186,15 +188,8 @@
 
                     </div>
                     <div class="col-md-12 col-lg-6">
-                        <div class="css-details">
-                            <div class="stc-det student-sec inner-sec">
-                                <img src="assets/images/progress.svg" alt="Progress indicator icon">
-                            </div>
-                            <img src="assets/images/city/power-bi-course-in-pune.jpg" class="banner-img"
-                                alt="Distance MBA in Pune | Online MBA Colleges, Degree, Programs">
-                            <div class="stc-det course-sec inner-sec">
-                                <img src="assets/images/walet.svg" alt="Wallet icon for payment">
-                            </div>
+                        <div class="css-details justify-content-center">
+                            <?php include "home-page-final-form.php" ?>
                         </div>
                     </div>
                 </div>
