@@ -1,0 +1,9 @@
+RewriteEngine On
+RewriteBase /online-executive-pgdm-course-for-working-professionals-nashik/
+
+# Redirect index.html → clean URL
+RewriteCond %{THE_REQUEST} /index\.html [NC]
+RewriteRule ^index\.html$ /online-executive-pgdm-course-for-working-professionals-nashik/ [R=301,L]
+
+# Default index files
+DirectoryIndex index.php index.html index.htm
