@@ -225,7 +225,7 @@ content="">
 
                     <div class="col-md-12 col-lg-7 with-decades">
                         <p align="justify">
-                            The <b>Executive MBA in International Business</b> is crafted for working professionals who want to build expertise in global trade, cross-border logistics, foreign exchange, and international financial management. Offered by <b>MIT School of Distance Education (MITSDE)</b>, part of MAEER's MIT Pune, this program carries forward a legacy of quality education established in 1983.
+                            The <b>Executive MBA in International Business</b> is crafted for working professionals who want to build expertise in global trade, cross-border logistics, foreign exchange, and international financial management.
                         </p>
 
                         <p align="justify">

@@ -226,7 +226,7 @@
 
                     <div class="col-md-12 col-lg-7 with-decades">
                         <p align="justify">
-                            The <b>Executive MBA in Logistics & Supply Chain Management</b> is built for working professionals who want to master end-to-end supply chain strategy, procurement, logistics, inventory, and distribution network design. Offered by <b>MIT School of Distance Education (MITSDE)</b>, part of MAEER's MIT Pune, this program carries forward a legacy of quality education established in 1983.
+                            The <b>Executive MBA in Logistics & Supply Chain Management</b> is built for working professionals who want to master end-to-end supply chain strategy, procurement, logistics, inventory, and distribution network design.
                         </p>
 
                         <p align="justify">
