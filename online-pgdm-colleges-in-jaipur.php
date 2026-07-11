@@ -185,7 +185,7 @@
                 <div class="row mt-2 fintech-certi fin-feature hero11">
 
                     <div class="col-md-3"><img src="assets/images/distance/Counselling.png" width="100%" height="auto"
-                            height="150" class="img-responsive"></div>
+                            height="150" class="img-responsive" alt="Interview meeting"></div>
 
 
 

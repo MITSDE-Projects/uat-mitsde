@@ -194,7 +194,7 @@
 
                     </div>
                     <div class="col-md-12 col-lg-3 fin-feature hero11">
-                        <img src="assets/images/distance/softskill.png" class="img-responsive" width="100%"
+                        <img src="assets/images/distance/softskill.png" class="img-responsive" alt="Presentation scene" width="100%"
                             height="auto">
 
                     </div>

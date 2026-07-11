@@ -448,7 +448,7 @@
                     </div>
 
                     <p align="center"><img src="assets/images/course/cap/certification-in-material-management_cer.jpg"
-                            class="img-fluid">
+                            class="img-fluid" alt="Material cert">
                     </p>
                 </div>
             </div>

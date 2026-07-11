@@ -429,7 +429,7 @@
 
                             <div class="stc-det course-sec inner-sec">
 
-                                <img src="assets/images/course/pgdm/PGDM-Information-Technology_Icon-2.jpg">
+                                <img src="assets/images/course/pgdm/PGDM-Information-Technology_Icon-2.jpg" alt="Digital learning">
 
                             </div>
 

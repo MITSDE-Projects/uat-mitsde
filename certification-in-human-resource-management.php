@@ -442,7 +442,7 @@
                         <h3>Sample Certificate</h3>
                     </div>
 
-                    <p align="center"><img src="assets/images/course/certifications/1.jpg" class="img-fluid"></p>
+                    <p align="center"><img src="assets/images/course/certifications/1.jpg" class="img-fluid" alt="HRM certificate"></p>
                 </div>
             </div>
             <p>&nbsp;</p>

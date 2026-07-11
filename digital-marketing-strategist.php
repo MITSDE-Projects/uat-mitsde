@@ -1425,7 +1425,7 @@
                                         class="d-block w-100" alt="Certificate 5" />
                                 </div>
                                 <div class="col-12 col-md-4 col-lg-4 mb-3">
-                                    <img src="assets/images/course/pgdm-exe/certificates/certificate6.jpg"
+                                    <img src="assets/images/course/pgdm-exe/certificates/certificate6.jpg" alt="Meta cert"
                                         class="d-block w-100" />
                                 </div>
                             </div>

@@ -255,7 +255,7 @@
                     <div class="col-md-12 col-lg-6">
                         <div class="css-details">
                             <div class="stc-det student-sec inner-sec">
-                                <img src="assets/images/course/pgdm/EMBA-Human-Resource-Management_Icon-1.jpg">
+                                <img src="assets/images/course/pgdm/EMBA-Human-Resource-Management_Icon-1.jpg" alt="Team network">
                             </div>
                             <img src="assets/images/course/pgdm/EMBA-Human-Resource-Management.jpg" class="banner-img" fetchpriority="high"
                                 alt="pg-diploma-in-human-resource-management">

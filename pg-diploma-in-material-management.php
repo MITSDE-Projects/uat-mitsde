@@ -343,7 +343,7 @@
 
                             <div class="stc-det student-sec inner-sec">
 
-                                <img src="assets/images/course/pgdm/PGDM-Material-Management_Icon-1.jpg">
+                                <img src="assets/images/course/pgdm/PGDM-Material-Management_Icon-1.jpg" alt="Checklist icon">
 
                             </div>
 

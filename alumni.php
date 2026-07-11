@@ -117,7 +117,7 @@
                 <div class="row learn-det">
 
                     <div class="col-md-12 col-lg-6 fintech-certi multi-exp fin-feature learn-expert " >
-                        <img src="./assets/images/media/alumni/01-Rohan-Pramod-Gadiya.jpg" class="img-fluid newimg"
+                        <img src="./assets/images/media/alumni/01-Rohan-Pramod-Gadiya.jpg" class="img-fluid newimg" alt="Alumni profile"
                              ><br><br>
 
                         <p class="invisible-content" >Testimony– I have thoroughly enjoyed learning with MITSDE. I would
