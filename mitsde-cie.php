@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
-    <title>MITSDE CIE</title>
+    <title>Centre for Industry Excellence | MIT SDE</title>
 
     <meta name="description" content=" MITSDE CIE" />
 
@@ -24,7 +24,7 @@
     <?php include "5-common-seo-tag-1.php" ?>
 
     <!-- OGP TAG -->
-    <meta property="og:title" content="MITSDE’s Entrepreneurship Development Cell">
+    <meta property="og:title" content="Centre for Industry Excellence | MIT SDE">
     <meta property="og:site_name" content="MIT School of Distance Education">
     <meta property="og:url" content="https://mitsde.com/mitsde-cie">
     <meta property="og:description" content=" ">

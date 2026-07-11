@@ -8,7 +8,7 @@
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
     <!-- Page Title -->
-    <title>Support</title>
+    <title>Student Support Services & Help Desk | MIT SDE</title>
 
 
     <meta name="description"
@@ -26,7 +26,7 @@
 
     <!-- OGP TAG -->
 
-    <meta property="og:title" content="Support">
+    <meta property="og:title" content="Student Support Services & Help Desk | MIT SDE">
     <meta property="og:site_name" content="MIT School of Distance Education">
     <meta property="og:url" content="https://mitsde.com/support">
     <meta property="og:description"

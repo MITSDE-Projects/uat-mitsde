@@ -8,7 +8,7 @@
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
     <!-- Page Title -->
-    <title>Contact MITSDE | MIT School of Distance Education, Pune</title>
+    <title>Admissions & Student Support | MIT SDE</title>
 
 
     <meta name="description"
@@ -26,7 +26,7 @@
 
     <!-- OGP TAG -->
 
-    <meta property="og:title" content="Contact MITSDE | MIT School of Distance Education, Pune">
+    <meta property="og:title" content="Admissions & Student Support | MIT SDE">
     <meta property="og:site_name" content="MIT School of Distance Education">
     <meta property="og:url" content="https://mitsde.com/contact-us">
     <meta property="og:description"

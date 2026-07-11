@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
-    <title>Careers at MITSDE | Job Openings in Pune – MIT SDE</title>
+    <title>Job Opportunities & Growth | MIT SDE</title>
 
     <meta name="description" content="Explore exciting job openings at MITSDE, Pune. Hiring Education Counsellors, Marketing Managers, Placement Head & more. Send your resume to hr@mitsde.com today!" />
     <meta name="keywords"
@@ -24,7 +24,7 @@
 
     <!-- OGP TAG -->
 
-    <meta property="og:title" content="Careers">
+    <meta property="og:title" content="Job Opportunities & Growth | MIT SDE">
     <meta property="og:site_name" content="MIT School of Distance Education">
     <meta property="og:url" content="https://mitsde.com/careers.php">
     <meta property="og:description" content="For All Below Listed Openings Please send your resumes on hr@mitsde.com">
