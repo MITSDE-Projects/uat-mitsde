@@ -8,10 +8,10 @@
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
 
-    <title>MITSDE Bootcamp </title>
+    <title>Professional Bootcamp Programs for Career Growth | MIT SDE</title>
 
 
-    <meta name="description" content="Bootcamp" />
+    <meta name="description" content="Explore MIT SDE bootcamp programs designed to build industry-ready skills through practical learning, expert guidance, and career-focused training." />
 
     <meta name="keywords" content="Bootcamp" />
 
@@ -26,10 +26,10 @@
 
     <!-- OGP TAG -->
 
-    <meta property="og:title" content="MITSDE Bootcamp">
+    <meta property="og:title" content="Professional Bootcamp Programs for Career Growth | MIT SDE">
     <meta property="og:site_name" content="MIT School of Distance Education">
     <meta property="og:url" content="https://mitsde.com/bootcamp">
-    <meta property="og:description" content="">
+    <meta property="og:description" content="Explore MIT SDE bootcamp programs designed to build industry-ready skills through practical learning, expert guidance, and career-focused training.">
     <meta property="og:type" content="website">
     <meta property="og:image" content="assets/images/city/Bootcamp.jpg">
 

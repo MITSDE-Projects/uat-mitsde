@@ -90,7 +90,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 col-lg-6 main-banner">
-                        <h2>Next Gen Learning </h2>
+                        <h1>Next-Gen Learning Experience | MIT SDE</h1>
 
                         <div class="page-btn">
 
