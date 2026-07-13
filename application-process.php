@@ -25,7 +25,7 @@
 
     <meta property="og:title" content="Application Process | Admission Process at MITSDE">
     <meta property="og:site_name" content="MIT School of Distance Education">
-    <meta property="og:url" content="https://mitsde.com/applicataion-process">
+    <meta property="og:url" content="https://mitsde.com/application-process">
     <meta property="og:description" content="Explore MITSDE's admission and application process—simple steps to enroll in distance programs. Start your journey with us today!">
     <meta property="og:type" content="website">
     <meta property="og:image" content="https://mitsde.com/assets/images/course/common/applicataion-process.jpg">
