@@ -5,11 +5,11 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Best Online PG Business Analytics Courses & Certificates | MITSDE 2026
+    <title>Best Online PG Business Analytics Course & Certification in Pune | MITSDE
     </title>
 
     <meta name="description"
-        content="Online PG Certificate Course in Business Analytics at MITSDE – gain industry-ready skills in data analytics, visualization, and predictive modeling. Admissions 2026 open." />
+        content="Advance your career with MITSDE's business analytics certification in Pune. Learn business intelligence, data analytics, and predictive modeling through an industry-focused online PG course." />
 
     <meta name="keywords"
         content="pgcm courses, business analytics, certificate courses, post graduate certificate, pgcm" />
@@ -24,11 +24,11 @@
 
     <!-- OGP TAG -->
 
-    <meta property="og:title" content="Best Online PG Business Analytics Courses & Certificates | MITSDE 2026">
+    <meta property="og:title" content="Best Online PG Business Analytics Course & Certification in Pune | MITSDE">
     <meta property="og:site_name" content="MIT School of Distance Education">
     <meta property="og:url" content="https://mitsde.com/post-graduate-certificate-in-business-analytics">
     <meta property="og:description"
-        content="Online PG Certificate Course in Business Analytics at MITSDE – gain industry-ready skills in data analytics, visualization, and predictive modeling. Admissions 2026 open.">
+        content="Advance your career with MITSDE's business analytics certification in Pune. Learn business intelligence, data analytics, and predictive modeling through an industry-focused online PG course.">
     <meta property="og:type" content="website">
     <meta property="og:image"
         content="https://mitsde.com/assets/images/course/business/post-graduate-certificate-in-business-analytics.png">
@@ -62,9 +62,9 @@
     {
         "@context": "https://schema.org/",
         "@type": "Product",
-        "name": "Best Online PG Business Analytics Courses & Certificates | MITSDE 2026",
+        "name": "Best Online PG Business Analytics Course & Certification in Pune | MITSDE",
         "image": "https://mitsde.com/assets/images/course/business/post-graduate-certificate-in-business-analytics.png",
-        "description": "Online PG Certificate Course in Business Analytics at MITSDE – gain industry-ready skills in data analytics, visualization, and predictive modeling. Admissions 2026 open.",
+        "description": "Advance your career with MITSDE's business analytics certification in Pune. Learn business intelligence, data analytics, and predictive modeling through an industry-focused online PG course.",
         "brand": {
             "@type": "Brand",
             "name": "MITSDE"

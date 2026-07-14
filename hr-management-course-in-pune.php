@@ -7,10 +7,10 @@
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
-    <title>HR Management Course in Pune | HRM MITSDE</title>
+    <title>HR Certification Courses in Pune | HR Management Course | MITSDE</title>
 
     <meta name="description"
-        content="Advance your career with MITSDE’s AICTE-approved online HR Management courses in Pune. Learn industry-relevant skills with flexible online classes and placement support." />
+        content="Advance your career with MITSDE's AICTE-approved HR Management Course in Pune and HR certification courses in Pune. Learn industry-relevant HR skills with flexible online classes and placement support." />
 
     <meta name="keywords"
         content="HR management courses in Pune, HR management in Pune, HR management college in Pune, HR management institute in Pune, Best HR management courses in Pune, HR management programs in Pune, HR Management for Working Professionals, PGDM, MBA, EMBA, PGDBA, PGCM" />
@@ -57,7 +57,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Service",
-  "serviceType": "HR Management Course in Pune | HRM MITSDE",
+  "serviceType": "HR Certification Courses in Pune | HR Management Course | MITSDE",
   "provider": {
     "@type": "Organization",
     "name": "MIT School of Distance Education",
@@ -68,7 +68,7 @@
     "@type": "City",
     "name": "Pune"
   },
-  "description": "Advance your career with MITSDE’s AICTE-approved online HR Management courses in Pune. Learn industry-relevant skills with flexible online classes and placement support."
+  "description": "Advance your career with MITSDE's AICTE-approved HR Management Course in Pune and HR certification courses in Pune. Learn industry-relevant HR skills with flexible online classes and placement support."
 }
 </script>
 
@@ -104,9 +104,9 @@
 {
   "@context": "https://schema.org/", 
   "@type": "Product", 
-  "name": "HR Management Course in Pune | HRM MITSDE",
+  "name": "HR Certification Courses in Pune | HR Management Course | MITSDE",
   "image": "https://mitsde.com/assets/images/city/pune/hr-management-course-in-pune.jpg",
-  "description": "Advance your career with MITSDE’s AICTE-approved online HR Management courses in Pune. Learn industry-relevant skills with flexible online classes and placement support.",
+  "description": "Advance your career with MITSDE's AICTE-approved HR Management Course in Pune and HR certification courses in Pune. Learn industry-relevant HR skills with flexible online classes and placement support.",
   "brand": {
     "@type": "Brand",
     "name": "MITSDE"
@@ -177,11 +177,11 @@
     <!-- open graph -->
     <!-- OGP TAG -->
 
-    <meta property="og:title" content="HR Management Course in Pune | HRM MITSDE">
+    <meta property="og:title" content="HR Certification Courses in Pune | HR Management Course | MITSDE">
     <meta property="og:site_name" content="MIT School of Distance Education">
     <meta property="og:url" content="https://mitsde.com/hr-management-course-in-pune">
     <meta property="og:description"
-        content="Advance your career with MITSDE’s AICTE-approved online HR Management courses in Pune. Learn industry-relevant skills with flexible online classes and placement support.">
+        content="Advance your career with MITSDE's AICTE-approved HR Management Course in Pune and HR certification courses in Pune. Learn industry-relevant HR skills with flexible online classes and placement support.">
     <meta property="og:type" content="website">
     <meta property="og:image" content="https://mitsde.com/assets/images/city/pune/hr-management-course-in-pune.jpg">
 

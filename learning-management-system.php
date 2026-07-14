@@ -7,11 +7,11 @@
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
-    <title>Learning Management System</title>
+    <title>Learning Management System (LMS) | MIT SDE</title>
 
 
     <meta name="description"
-        content="Step into Bangalore’s vibrant corporate and industrial hub with MITSDE’s PGDM Operations Management in Bangalore. Designed for working professionals and fresh graduates, this program equips you with the expertise to manage processes, optimize resources, and lead operational excellence across industries. With flexible online learning, an industry-focused curriculum, and the legacy of MIT Pune, MITSDE prepares you to excel in the competitive job market, from IT parks and aerospace units to e-commerce and manufacturing companies. " />
+        content="Learn how MITSDE's Learning Management System (LMS) enables flexible online learning with course access, assignments, assessments, and progress tracking." />
     <meta name="keywords" content="Learning Management System, LMS, Importance of LMS, Types of LMS, LMS Features, Online Learning Platform" />
     <!-- CANONICAL TAG -->
     <link rel="canonical" href="https://mitsde.com/learning-management-system" />
@@ -21,11 +21,11 @@
 
     <!-- OGP TAG -->
 
-    <meta property="og:title" content="Learning Management System">
+    <meta property="og:title" content="Learning Management System (LMS) | MIT SDE">
     <meta property="og:site_name" content="MIT School of Distance Education">
     <meta property="og:url" content="https://mitsde.com/learning-management-system">
     <meta property="og:description"
-        content="Step into Bangalore’s vibrant corporate and industrial hub with MITSDE’s PGDM Operations Management in Bangalore. Designed for working professionals and fresh graduates, this program equips you with the expertise to manage processes, optimize resources, and lead operational excellence across industries. With flexible online learning, an industry-focused curriculum, and the legacy of MIT Pune, MITSDE prepares you to excel in the competitive job market, from IT parks and aerospace units to e-commerce and manufacturing companies. ">
+        content="Learn how MITSDE's Learning Management System (LMS) enables flexible online learning with course access, assignments, assessments, and progress tracking.">
     <meta property="og:type" content="website">
     <meta property="og:image" content="#">
 
@@ -51,6 +51,85 @@
     <script src="assets/js/api/jquery-1.10.2.min.js"></script>
     <script type="text/javascript" src="assets/js/api/validation.js" charset="UTF-8"></script>
     <!----->
+
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "What is the MITSDE LMS?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "A centralised online platform where students access course content, complete assignments, attend live classes, and interact with faculty — anytime, anywhere."
+    }
+  },{
+    "@type": "Question",
+    "name": "How do I access the MITSDE LMS?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "You'll get an email with your Login ID (registered email) and password (student registration ID), plus the LMS link (learn.mitsde.com/login). Don't change your password after your first login."
+    }
+  },{
+    "@type": "Question",
+    "name": "What learning resources are available?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Semester-wise, module-wise subjects with faculty PPTs (downloadable) and faculty-recorded videos (streaming only)."
+    }
+  },{
+    "@type": "Question",
+    "name": "Can I learn at my own pace?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. Modules can be studied anytime; live classes follow a fixed weekly schedule but attendance isn't mandatory, and recordings are always available afterwards."
+    }
+  },{
+    "@type": "Question",
+    "name": "Is the LMS accessible on mobile?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, via the \"Learn@MIT\" app, available for Android on the Play Store."
+    }
+  },{
+    "@type": "Question",
+    "name": "How are assignments submitted?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "2 assignments per subject (Assignment 1 after Module 6, Assignment 2 after Module 12), to be completed before final exams. 3 attempts allowed; after that, raise a ticket on the E-library portal."
+    }
+  },{
+    "@type": "Question",
+    "name": "Does the LMS track my progress?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, via assignments and exams. Exams are out of 100 marks: 60 internal (Assignments) + 40 external (proctored, 45 minutes). Results in 45 working days."
+    }
+  },{
+    "@type": "Question",
+    "name": "Can I interact with faculty?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, through live classes and by raising a ticket (TMS) on the E-library portal to arrange a doubt-clearing call."
+    }
+  },{
+    "@type": "Question",
+    "name": "Are recorded lectures available later?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, every live session recording is auto-uploaded to the LMS, alongside module-wise faculty-recorded videos."
+    }
+  },{
+    "@type": "Question",
+    "name": "What are the benefits of the MITSDE LMS?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Flexible, self-paced access; mobile app; organised semester/module structure; clear assessment process; direct faculty support; and progress tracking linked to placements and certification."
+    }
+  }]
+}
+</script>
+
 
 </head>
 
@@ -118,6 +197,277 @@
 
                     </div>
                 </div>
+            </div>
+        </section>
+
+        <section>
+            <div class="container">
+                <div class="row">
+                    <div class="cur-accordiaon">
+                        <h2 class="fw-bold ">Frequently Asked Questions
+
+                        </h2>
+                        <div class="accordion curriculum-accordion" id="freQuestions">
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button " type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#questions1" aria-expanded="false" aria-controls="questions1">
+                                        What is the MITSDE LMS?
+
+                                    </button>
+                                </h2>
+                                <div id="questions1" class="accordion-collapse " data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <ul class="fin-feature2">
+                                                        <p> A centralised online platform where students access course content, complete assignments, attend live classes, and interact with faculty — anytime, anywhere.</p>
+
+                                                    </ul>
+
+
+                                                </div>
+                                            </div>
+
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#questions2" aria-expanded="false" aria-controls="questions2">
+                                        How do I access the MITSDE LMS?
+
+                                    </button>
+                                </h2>
+                                <div id="questions2" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
+                                    <div class="accordion-body  hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <ul class="fin-feature2">
+                                                        <p>You'll get an email with your Login ID (registered email) and password (student registration ID), plus the LMS link (<a href="https://learn.mitsde.com/login" target="_blank">learn.mitsde.com/login</a>). Don't change your password after your first login.</p>
+
+                                                    </ul>
+
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#questions3" aria-expanded="false" aria-controls="questions3">
+                                        What learning resources are available?
+
+                                    </button>
+                                </h2>
+                                <div id="questions3" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <ul class="fin-feature2">
+                                                        <p>Semester-wise, module-wise subjects with faculty PPTs (downloadable) and faculty-recorded videos (streaming only).</p>
+
+                                                    </ul>
+
+
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#questions4" aria-expanded="false" aria-controls="questions4">
+                                        Can I learn at my own pace?
+
+                                    </button>
+                                </h2>
+                                <div id="questions4" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <ul class="fin-feature2">
+                                                        <p>Yes. Modules can be studied anytime; live classes follow a fixed weekly schedule but attendance isn't mandatory, and recordings are always available afterwards.</p>
+
+                                                    </ul>
+
+
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#questions5" aria-expanded="false" aria-controls="questions5">
+                                        Is the LMS accessible on mobile?
+                                    </button>
+                                </h2>
+                                <div id="questions5" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <ul class="fin-feature2">
+                                                        <p>Yes, via the "<a href="https://play.google.com/store/apps/details?id=com.edmingle.mitsde&pcampaignid=web_share" target="_blank">Learn@MIT</a>" app, available for Android on the Play Store.</p>
+
+                                                    </ul>
+
+
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#questions6" aria-expanded="false" aria-controls="questions6">
+                                        How are assignments submitted? 
+                                    </button>
+                                </h2>
+                                <div id="questions6" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <ul class="fin-feature2">
+                                                        <p>2 assignments per subject (Assignment 1 after Module 6, Assignment 2 after Module 12), to be completed before final exams. 3 attempts allowed; after that, raise a ticket on the E-library portal.</p>
+
+                                                    </ul>
+
+
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#questions7" aria-expanded="false" aria-controls="questions7">
+                                        Does the LMS track my progress?
+                                    </button>
+                                </h2>
+                                <div id="questions7" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <ul class="fin-feature2">
+                                                        <p>Yes, via assignments and exams. Exams are out of 100 marks: 60 internal (Assignments) + 40 external (proctored, 45 minutes). Results in 45 working days.</p>
+
+                                                    </ul>
+
+
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#questions8" aria-expanded="false" aria-controls="questions8">
+                                        Can I interact with faculty?
+                                    </button>
+                                </h2>
+                                <div id="questions8" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <ul class="fin-feature2">
+                                                        <p>Yes, through live classes and by raising a ticket (TMS) on the E-library portal to arrange a doubt-clearing call.</p>
+
+                                                    </ul>
+
+
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#questions9" aria-expanded="false" aria-controls="questions9">
+                                        Are recorded lectures available later?
+                                    </button>
+                                </h2>
+                                <div id="questions9" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <ul class="fin-feature2">
+                                                        <p>Yes, every live session recording is auto-uploaded to the LMS, alongside module-wise faculty-recorded videos.</p>
+
+                                                    </ul>
+
+
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#questions10" aria-expanded="false" aria-controls="questions10">
+                                        What are the benefits of the MITSDE LMS?
+                                    </button>
+                                </h2>
+                                <div id="questions10" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <ul class="fin-feature2">
+                                                        <p>Flexible, self-paced access; mobile app; organised semester/module structure; clear assessment process; direct faculty support; and progress tracking linked to placements and certification.</p>
+
+                                                    </ul>
+
+
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+
+
             </div>
         </section>
 
