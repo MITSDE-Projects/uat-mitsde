@@ -27,7 +27,7 @@
     <meta property="og:url" content="https://mitsde.com/refer-friend.php">
     <meta property="og:description" content="Invite your friend to join MIT SDE’s distance learning programs. Refer now and enjoy rewards when they register and enroll.">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/assets/images/course/common/Refer-Banner.png">
+    <meta property="og:image" content="https://mitsde.com/assets/images/common-images/Refer-Banner.jpg">
 
     <!-- / OG TAG -->
 
@@ -148,45 +148,8 @@
     <main class="main-body">
         <?php include "announcementUpdate.php" ?>
 
-        <section class="banner inner-banner">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 col-lg-6 main-banner">
-                        <h1>Earn Big Rewards By Simply Referring A Friend</h1>
-                        <p>(4000 benefit to you & 2000 benefit to your friend)*
-                        </p>
-
-                        <div class="page-btn mt-3">
-
-
-                            <button type="button" class="btn btn-primary mit-button cus-btn inner-cus ms-0"
-                                data-bs-toggle="modal" data-bs-target="#enquiryModal-download-form"><span
-                                    class="mtsk-download"></span> &nbsp; Refer & Earn Today
-                            </button>
-
-
-                        </div>
-                        <nav>
-
-                            <ol class="breadcrumb">
-                                <li class="breadcrumb-item"><a href="https://mitsde.com">Home</a></li>
-                                <li class="breadcrumb-item active" aria-current="page">Refer Friend</li>
-                            </ol>
-                        </nav>
-                    </div>
-                    <div class="col-md-12 col-lg-6">
-                        <div class="css-details">
-                            <div class="stc-det student-sec inner-sec">
-                                <img src="assets/images/progress.svg" alt="Progress indicator icon">
-                            </div>
-                            <img src="assets/images/course/common/Refer-Banner.png" class="banner-img" alt="Placements">
-                            <div class="stc-det course-sec inner-sec">
-                                <img src="assets/images/walet.svg" alt="Wallet icon for payment">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+        <section>
+            <img src="assets/images/common-images/Refer-Banner.jpg" class="img-fluid w-100" alt="Referral banner">
         </section>
 
 
