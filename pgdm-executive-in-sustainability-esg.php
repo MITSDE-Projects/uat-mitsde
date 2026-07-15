@@ -578,21 +578,17 @@
                                                         <li><span class="newright-icon1"></span> ESG Reporting Analyst</li>
                                                         <li><span class="newright-icon1"></span> Corporate Sustainability Specialist</li>
                                                         <li><span class="newright-icon1"></span> Climate Risk Analyst</li>
-                                                        <li><span class="newright-icon1"></span> ESG Compliance Manager</li>
                                                     </div>
                                                     <div class="col-md-6">
+                                                        <li><span class="newright-icon1"></span> ESG Compliance Manager</li>
                                                         <li><span class="newright-icon1"></span> CSR & Sustainability Lead</li>
                                                         <li><span class="newright-icon1"></span> Sustainable Finance Analyst</li>
-                                                        <li><span class="newright-icon1"></span> CSR & Sustainability Lead</li>
-                                                        <li><span class="newright-icon1"></span> Sustainable Finance Analyst</li>
+                                                        <li><span class="newright-icon1"></span> Business Sustainability Consultant</li>
+                                                        <li><span class="newright-icon1"></span> Corporate Governance Specialist</li>
+                                                        <li><span class="newright-icon1"></span> Sustainability Program Manager</li>
                                                     </div>
                                                 </div>
                                             </ul>
-                                            <p>
-                                                The programme opens doors to industries such as banking, IT, consulting,
-                                                e-commerce, manufacturing, healthcare, and logistics, where data-driven
-                                                decision-making is central to success.
-                                            </p>
                                         </div>
                                     </div>
                                 </div>
@@ -627,7 +623,7 @@
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#questions12" aria-expanded="false" aria-controls="questions12">
 
-                                        Who can apply for the PGDM Executive in Sustainability & ESG?
+                                        Who should enroll?
 
 
 
@@ -648,8 +644,7 @@
 
 
 
-                                                    <p>Graduates with a minimum of 5 years of professional experience
-                                                        across any sector can apply.</p>
+                                                    <p>Working professionals, managers, consultants, entrepreneurs and graduates with work experience who want to build expertise in Sustainability & ESG.</p>
 
 
 
@@ -675,7 +670,7 @@
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#questions13" aria-expanded="false" aria-controls="questions13">
 
-                                        What is the duration of the course?
+                                        What is the programme duration?
 
 
 
@@ -694,24 +689,7 @@
 
                                                 <div class="fintech-module alert brandcolor">
 
-
-
-
-
-                                                    <p>The course is a 15-month online programme designed for working
-                                                        professionals.</p>
-
-
-
-
-
-
-
-
-
-
-
-
+                                                    <p>15 months.</p>
 
                                                 </div>
 
@@ -734,7 +712,7 @@
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#questions14" aria-expanded="false" aria-controls="questions14">
 
-                                        How is the course delivered?
+                                        What is the eligibility?
 
 
 
@@ -755,13 +733,7 @@
 
 
 
-                                                    <p>The programme is delivered entirely online through a flexible
-                                                        learning platform with access to recorded lectures, case
-                                                        studies, and digital resources.</p>
-
-
-
-
+                                                    <p>Any graduate having 5+ years of work experience.</p>
 
                                                 </div>
 
@@ -784,7 +756,7 @@
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#questions15" aria-expanded="false" aria-controls="questions15">
 
-                                        What kind of assessments are there?
+                                        What is the training mode?
 
                                     </button>
 
@@ -803,8 +775,7 @@
 
 
 
-                                                    <p>Assessment is based on assignments, online quizzes, projects, and
-                                                        final evaluations focusing on practical applications.</p>
+                                                    <p>Online.</p>
 
 
 
@@ -830,7 +801,7 @@
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#questions23" aria-expanded="false" aria-controls="questions15">
 
-                                        Will I receive placement assistance?
+                                        What are the career opportunities?
 
                                     </button>
 
@@ -849,8 +820,7 @@
 
 
 
-                                                    <p>Yes. Learners receive 100% placement assistance, including resume
-                                                        support, interview preparation, and career guidance.</p>
+                                                    <p>Opportunities across consulting, manufacturing, BFSI, IT, energy, healthcare and other industries in ESG and sustainability functions.</p>
 
 
 
@@ -877,7 +847,7 @@
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#questions17" aria-expanded="false" aria-controls="questions17">
 
-                                        What tools or technologies will I learn?
+                                        Will there be a project?
 
                                     </button>
 
@@ -896,63 +866,7 @@
 
 
 
-                                                    <p>The course provides exposure to analytics tools and techniques
-                                                        for business intelligence, performance tracking, and
-                                                        decision-making (conceptual understanding).</p>
-
-
-
-
-
-                                                </div>
-
-                                            </div>
-
-
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                            <div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions18" aria-expanded="false" aria-controls="questions18">
-
-                                        How is this programme different from a regular PGDM?
-
-
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="questions18" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-
-                                    <div class="accordion-body  hero10">
-
-                                        <div class="row">
-
-                                            <div class="col-md-12 col-lg-12">
-
-                                                <div class="fintech-module alert brandcolor">
-
-
-
-                                                    <p>The PGDM Executive is designed for experienced professionals,
-                                                        focusing on strategic leadership, managerial application, and
-                                                        analytics-based business transformation rather than entry-level
-                                                        management training.</p>
-
-
-
+                                                    <p>Yes. The programme concludes with a three-month project comprising desk research and project work.</p>
 
                                                 </div>
 
