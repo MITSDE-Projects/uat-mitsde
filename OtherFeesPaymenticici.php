@@ -75,7 +75,7 @@ if (isset($data['Object']['GetLeadDetailList'][0]))
     $FirstName = $leadDetails['FirstName'];
     $MiddleName = $leadDetails['MiddleName'];
     $LastName = $leadDetails['LastName'];
-    $EmailID = $leadDetails['EmailAddress'];
+    $EmailID = trim($leadDetails['EmailAddress']);
     $MobileNumber = $leadDetails['MobileNumber'];
     $programID = $leadDetails['ProgramID'];
     $SpecializationID = $leadDetails['SpecializationID'];
