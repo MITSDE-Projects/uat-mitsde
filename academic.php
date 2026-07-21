@@ -225,7 +225,7 @@
                                             Sphere</strong></a>
                                 </li>
                                 <li><i class="fa-solid fa-certificate fa-2xs"></i>&nbsp;<a
-                                        class="dropdown-item text-decoration-underline" href="mitsde-cie"
+                                        class="dropdown-item text-decoration-underline" href="mitsde-crie"
                                         title="https://mitsde.com/mitsde-crie"><strong>MITSDE
                                             CRIE</strong></a>
                                 </li>
