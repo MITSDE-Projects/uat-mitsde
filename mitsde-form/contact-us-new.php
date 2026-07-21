@@ -239,6 +239,14 @@ $pagename = (isset($_SERVER['HTTPS']) ? "https" : "http") . "://$_SERVER[HTTP_HO
             transition: 0.2s all;
             color: #fff;
         }
+        .btn-common:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+    background: linear-gradient(170deg, #999, #666);
+}
+.btn-common:disabled:hover {
+    transform: none;
+}
     </style>
 </head>
 
@@ -343,12 +351,54 @@ $pagename = (isset($_SERVER['HTTPS']) ? "https" : "http") . "://$_SERVER[HTTP_HO
 
                 <div class="form-group">
                     <input type="hidden" name="submitthirdcontact" value="submitthirdcontact" />
-                    <button type="button" id="submitbtnsticky" class="btn-common w-100"
+                    <button type="button" id="submitbtnsticky" class="btn-common w-100" disabled
                         onClick="validate('contactform')">
                         Register Now
                     </button>
                 </div>
 
+                <script>
+(function () {
+    var form = document.getElementById('contactform');
+    var btn = document.getElementById('submitbtnsticky');
+
+    var firstName = form.querySelector('input[name="first_name3"]');
+    var email = form.querySelector('input[name="email3"]');
+    var mobile = form.querySelector('input[name="MobileNumber"]');
+    var state = form.querySelector('select[name="state"]');
+    var hq = form.querySelector('select[name="HQ"]');
+
+    // placeholder text jo default value madhe aahe
+    var defaults = {
+        first_name3: "First Name*",
+        email3: "Email*",
+        MobileNumber: "MobileNumber*"
+    };
+
+    function checkForm() {
+        var valid = true;
+
+        if (!firstName.value.trim() || firstName.value === defaults.first_name3) valid = false;
+        if (!email.value.trim() || email.value === defaults.email3) valid = false;
+        if (!mobile.value.trim() || mobile.value === defaults.MobileNumber || mobile.value.length < 10) valid = false;
+        if (!state.value) valid = false;
+        if (!hq.value) valid = false;
+
+        btn.disabled = !valid;
+    }
+
+    [firstName, email, mobile].forEach(function (el) {
+        el.addEventListener('input', checkForm);
+        el.addEventListener('blur', checkForm);
+        el.addEventListener('focus', checkForm);
+    });
+    [state, hq].forEach(function (el) {
+        el.addEventListener('change', checkForm);
+    });
+
+    checkForm(); // page load var initial check
+})();
+</script>
             </form>
         </div>
     </div>
