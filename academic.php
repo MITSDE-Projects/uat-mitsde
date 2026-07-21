@@ -226,8 +226,8 @@
                                 </li>
                                 <li><i class="fa-solid fa-certificate fa-2xs"></i>&nbsp;<a
                                         class="dropdown-item text-decoration-underline" href="mitsde-cie"
-                                        title="https://mitsde.com/mitsde-cie"><strong>MITSDE
-                                            CIE</strong></a>
+                                        title="https://mitsde.com/mitsde-crie"><strong>MITSDE
+                                            CRIE</strong></a>
                                 </li>
                                 <li><i class="fa-solid fa-mobile fa-2xs"></i>&nbsp;<a
                                         class="dropdown-item text-decoration-underline" href="contact-session-timer"
