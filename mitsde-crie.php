@@ -505,6 +505,13 @@
                             </div>
                         </div>
 
+                        <div class="row">
+                            <div class="col-md-12 col-lg-12 fin-feature1 hero11">
+                                <h4><i class="fa-solid fa-arrow-right fa-fade fa-2xs"></i> 4. MITSDE Business Research Lab Program:</h4>
+                                <p>The <b>MITSDE Business Research Lab Program</b> is a live industry-based learning initiative where learners work on real business problems shared by companies. Under expert mentorship, participants conduct research, perform data analysis, and develop innovative, practical solutions to address industry challenges.</p>
+                            </div>
+                        </div>
+
 
                     </div>
                 </section>
