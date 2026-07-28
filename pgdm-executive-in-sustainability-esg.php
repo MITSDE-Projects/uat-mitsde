@@ -393,28 +393,27 @@
                                                         <tr>
                                                             <td>1</td>
                                                             <td>S1F01</td>
-                                                            <td>Foundations of Business Management (HR, Marketing,
-                                                                Finance & Operations)</td>
+                                                            <td>Foundations of Business Management</td>
                                                             <td>4</td>
                                                         </tr>
 
                                                         <tr>
                                                             <td>2</td>
-                                                            <td></td>
+                                                            <td>S3C01</td>
                                                             <td>Strategic Management</td>
                                                             <td>4</td>
                                                         </tr>
 
                                                         <tr>
                                                             <td>3</td>
-                                                            <td></td>
+                                                            <td>S2SP1</td>
                                                             <td>Project Management</td>
                                                             <td>4</td>
                                                         </tr>
 
                                                         <tr>
                                                             <td>4</td>
-                                                            <td></td>
+                                                            <td>S1IB1</td>
                                                             <td>Introduction to Business Sustainability</td>
                                                             <td>4</td>
                                                         </tr>
@@ -425,17 +424,40 @@
                                                             <td>Understanding ESG Criteria</td>
                                                             <td>4</td>
                                                         </tr>
+                                                    </tbody>
+                                                </table>
+                                                <table class="table">
+                                                    <thead>
+                                                        <tr>
+                                                            <th>Code</th>
+                                                            <th>Certificate</th>
+                                                            <th>Credits</th>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                        <!-- Rows from the first table -->
 
                                                         <tr>
-                                                            <td>6</td>
-                                                            <td></td>
-                                                            <td>Sustainable Business Models</td>
-                                                            <td>4</td>
+                                                            <td>AIRCPC</td>
+                                                            <td>AI Readiness Certificate + AI Productivity Certificate</td>
+                                                            <td>Non Credit</td>
+                                                        </tr>
+
+                                                        <tr>
+                                                            <td>CPEA</td>
+                                                            <td>Certified Professional Excel Analyst</td>
+                                                            <td>Non Credit</td>
+                                                        </tr>
+
+                                                        <tr>
+                                                            <td>CPDA</td>
+                                                            <td>Certified Professional Data Analyst</td>
+                                                            <td>Non Credit</td>
                                                         </tr>
                                                     </tbody>
                                                 </table>
                                                 <div class="alert brandcolor" align="right" role="alert">
-                                                    Total Credits 24
+                                                    Total Credits 20
                                                 </div>
                                             </ul>
                                         </div>
@@ -474,36 +496,37 @@
                                                         </tr>
                                                         <tr>
                                                             <td>2</td>
-                                                            <td></td>
-                                                            <td>Stakeholder Engagement and Management</td>
+                                                            <td>S2C17</td>
+                                                            <td>Sustainable Business Models</td>
                                                             <td>4</td>
                                                         </tr>
                                                         <tr>
                                                             <td>3</td>
-                                                            <td></td>
+                                                            <td>S2C18</td>
                                                             <td>Regulatory Frameworks and Standards</td>
                                                             <td>4</td>
                                                         </tr>
                                                         <tr>
                                                             <td>4</td>
-                                                            <td></td>
+                                                            <td>S2C19</td>
                                                             <td>Ecosystem of Business Sustainability in India</td>
                                                             <td>4</td>
                                                         </tr>
                                                         <tr>
                                                             <td>5</td>
-                                                            <td></td>
+                                                            <td>S2C20</td>
                                                             <td>ESG Ratings and Frameworks</td>
                                                             <td>4</td>
                                                         </tr>
                                                         <tr>
                                                             <td>6</td>
-                                                            <td></td>
+                                                            <td>S2C21</td>
                                                             <td>Future of ESG in India and Globally</td>
                                                             <td>4</td>
                                                         </tr>
                                                     </tbody>
                                                 </table>
+                                                <?php include "pgdmexe-common-sem2-sub.php" ?>
                                                 <div class="alert brandcolor" align="right" role="alert">Total
                                                     Credits 24
                                                 </div>
@@ -515,31 +538,43 @@
                             </div>
 
                             <li class="section hero10 p-3" style="list-style-type: none;">
-                                <h4 class="section-title">Project Term – 3 Months</h4>
-                                <ul class="curriculum me-1">
-                                    <table class="table">
-                                        <thead>
-                                            <tr>
-                                                <th>Component</th>
-                                                <th>Credits</th>
-                                            </tr>
-                                        </thead>
-                                        <tbody>
-                                            <tr>
-                                                <td>Desk Research</td>
-                                                <td>2</td>
-                                            </tr>
-                                            <tr>
-                                                <td>Project Work</td>
-                                                <td>4</td>
-                                            </tr>
+                                <?php include "pgdmexe-common-project-term.php" ?>
 
-                                        </tbody>
-                                    </table>
+                                    <div class="alert brandcolor" role="alert"><b>Note :</b><br>
+                                        <ul class="fin-feature2" style="list-style: none;">
+                                            <li><span class="newright-icon1"></span> The above course curriculum is
+                                                subject to revision as per AICTE
+                                                guidelines
+                                                from time to time and as per industry updates.</li>
+                                            <li><span class="newright-icon1"></span> Exams would be conducted during the
+                                                January and July exam
+                                                cycles.</li>
+                                            <li><span class="newright-icon1"></span> All the Exams at MITSDE (Internal &
+                                                External) are in the form of
+                                                Multiple
+                                                Choice Questions.
+                                            </li>
+                                            <li><span class="newright-icon1"></span> Student will have to attempt all
+                                                the components in the Learning
+                                                Management
+                                                System and submit TWO Quizzes (30 marks each) for each subject.
+
+                                            </li>
+                                            <li><span class="newright-icon1"></span> Internal Examinations carry 60%
+                                                marks (2 Quizzes of 30 Marks
+                                                each) and
+                                                External Proctored Exam carry 40% weightage (passing criteria for both
+                                                internal & external exam is 50%).
+                                            </li>
+
+                                        </ul>
+                                    </div>
+
+
+
+
                                 </ul>
-                                <div class="alert brandcolor" align="right" role="alert">Total Credits 6</div>
-                                <div class="alert brandcolor" align="right" role="alert">Total Cumulative Credits 54
-                                </div>
+
                             </li>
 
                         </div>

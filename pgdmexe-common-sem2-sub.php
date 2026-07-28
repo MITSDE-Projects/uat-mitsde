@@ -17,13 +17,13 @@
 
         <tr>
             <td>CPDSA</td>
-            <td>CPDSA -Certified Professional Data Science Analyst</td>
+            <td>Certified Professional Data Science Analyst</td>
             <td>Non Credit</td>
         </tr>
 
         <tr>
             <td>CPQBA</td>
-            <td>CPQBA -Certified Professional Quantitative Business Analyst</td>
+            <td>Certified Professional Quantitative Business Analyst</td>
             <td>Non Credit</td>
         </tr>
     </tbody>

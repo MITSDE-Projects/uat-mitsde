@@ -75,13 +75,13 @@
 
                             <tr>
                                 <td>CPEA</td>
-                                <td>CPEA -Certified Professional Excel Analyst</td>
+                                <td>Certified Professional Excel Analyst</td>
                                 <td>Non Credit</td>
                             </tr>
 
                             <tr>
                                 <td>CPDA</td>
-                                <td>CPDA -Certified Professional Data Analyst</td>
+                                <td>Certified Professional Data Analyst</td>
                                 <td>Non Credit</td>
                             </tr>
                         </tbody>
