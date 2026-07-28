@@ -219,7 +219,7 @@
                                 <img src="assets/images/course/pgdm-exe/PGDM-Executive-Business-Analytics_icon-1.png"
                                     alt="">
                             </div>
-                            <img src="assets/images/course/pgdm-exe/PGDM-Executive-Business-Analytics.png"
+                            <img src="assets/images/course/pgdm-exe/international.webp"
                                 class="banner-img" fetchpriority="high"
                                 alt="Executive PGDM in Sustainability & ESG online course AICTE approved MITSDE">
                             <div class="stc-det course-sec inner-sec">
