@@ -338,9 +338,9 @@ else $nav_active = '';
                 <a href="new-admission-form-payment"><span class="mega-cat-label">Pay Now</span></a>
             </div>
 
-            <div class="mega-cat" data-cat="gs-industry">
+            <!-- <div class="mega-cat" data-cat="gs-industry">
                 <a href="industry-updates"><span class="mega-cat-label">Industry Updates</span></a>
-            </div>
+            </div> -->
 
         </div><!-- /mega-left -->
 

@@ -333,7 +333,7 @@
           </h2>
           <p class="mb-3">Answer a few quick questions and get a AI-personalized recommendation tailored to your
             goals, background, and ambitions.</p>
-          <button class="btn-primary" id="quizAdviceBtn">Take Expert Advice</button>
+          <button class="btn-primary" data-bs-toggle="modal" data-bs-target="#eqModal" id="quizAdviceBtn">Take Expert Advice</button>
         </div>
 
         <!-- Right: quiz card -->
@@ -513,7 +513,7 @@
                 </div>
 
                 <div class="program-explore">
-                  <a href="#" class="btn-card">
+                  <a href="pgdm-executive-emba-dual-program" class="btn-card">
                     Explore More
                   </a>
                 </div>
@@ -552,7 +552,7 @@
                 </div>
 
                 <div class="program-explore">
-                  <a href="#" class="btn-card">
+                  <a href="post-graduate-diploma-in-management-executive" class="btn-card">
                     Explore More
                   </a>
                 </div>
@@ -591,7 +591,7 @@
                 </div>
 
                 <div class="program-explore">
-                  <a href="#" class="btn-card">
+                  <a href="post-graduate-diploma-in-management" class="btn-card">
                     Explore More
                   </a>
                 </div>
@@ -610,6 +610,84 @@
 
               <div class="program-banner">
 
+                <img src="assets-new/images/program-1-bg.png" class="program-bg">
+
+                <!-- <div class="program-overlay"></div> -->
+
+                <img src="assets-new/images/program-1.png" class="program-character">
+
+              </div>
+
+              <div class="program-content">
+
+                <h3 class="card-title">
+                  Post Graduate Certificate in Management
+                </h3>
+
+                <div class="mb-3">
+                  <p class="sub-text">Duration - 12 Months</p>
+                  <p class="sub-text">Eligibility - Graduation</p>
+                </div>
+
+                <div class="program-explore">
+                  <a href="post-graduate-certificate-in-management" class="btn-card">
+                    Explore More
+                  </a>
+                </div>
+
+              </div>
+
+            </div>
+
+          </div>
+
+          <!-- CARD 5 -->
+
+          <div class="swiper-slide">
+
+            <div class="program-card">
+
+              <div class="program-banner">
+
+                <img src="assets-new/images/program-2-bg.png" class="program-bg">
+
+                <!-- <div class="program-overlay"></div> -->
+
+                <img src="assets-new/images/program-2.png" class="program-character">
+
+              </div>
+
+              <div class="program-content">
+
+                <h3 class="card-title">
+                  Post Graduate Diploma in Business Administration
+                </h3>
+
+                <div class="mb-3">
+                  <p class="sub-text">Duration - 24 Months</p>
+                  <p class="sub-text">Eligibility - Graduation</p>
+                </div>
+
+                <div class="program-explore">
+                  <a href="post-graduate-diploma-in-business-administration" class="btn-card">
+                    Explore More
+                  </a>
+                </div>
+
+              </div>
+
+            </div>
+
+          </div>
+
+          <!-- CARD 6 -->
+
+          <div class="swiper-slide">
+
+            <div class="program-card">
+
+              <div class="program-banner">
+
                 <img src="assets-new/images/program-3-bg.png" class="program-bg">
 
                 <!-- <div class="program-overlay"></div> -->
@@ -621,7 +699,7 @@
               <div class="program-content">
 
                 <h3 class="card-title">
-                  Post Graduate Diploma In Management
+                  EMBA Programs in India
                 </h3>
 
                 <div class="mb-3">
@@ -630,7 +708,7 @@
                 </div>
 
                 <div class="program-explore">
-                  <a href="#" class="btn-card">
+                  <a href="executive-mba" class="btn-card">
                     Explore More
                   </a>
                 </div>
