@@ -7,14 +7,10 @@
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
-    <title>Post Graduate Diploma Courses in Management | PGDM Course</title>
+    <title>Post Graduate Certificate in Management (PGCM) | MIT School of Distance Education</title>
 
     <meta name="description"
-        content="MIT School of Distance Education, offers best certification courses in distance learning mode with specialisation such as digital marketing, business analytics." />
-    <meta name="keywords"
-        content="postgraduate, one year diploma courses in management, one year distance courses after 12th std, online courses after 12th, pgcm courses, certificate courses, pgcm in India" />
-
-
+        content="MIT School of Distance Education offers a one-year Post Graduate Certificate in Management (PGCM) in distance learning mode, with specializations in Business Analytics and Digital Marketing." />
 
     <!-- CANONICAL TAG -->
 
@@ -22,56 +18,33 @@
 
     <!-- CANONICAL TAG -->
 
-    <?php include "5-common-seo-tag-1.php"?>
-
     <!-- OGP TAG -->
 
-    <meta property="og:title" content="Post Graduate Diploma Courses in Management | PGDM Course">
+    <meta property="og:title" content="Post Graduate Certificate in Management (PGCM) | MIT School of Distance Education">
     <meta property="og:site_name" content="MIT School of Distance Education">
     <meta property="og:url" content="https://mitsde.com/post-graduate-certificate-in-management">
     <meta property="og:description"
-        content="MIT School of Distance Education, offers best certification courses in distance learning mode with specialisation such as digital marketing, business analytics.">
+        content="MIT School of Distance Education offers a one-year Post Graduate Certificate in Management (PGCM) in distance learning mode, with specializations in Business Analytics and Digital Marketing.">
     <meta property="og:type" content="website">
-    <meta property="og:image"
-        content="https://mitsde.com/assets/images/course/digital/post-graduate-certificate-in-management.jpg">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/emba.webp">
 
     <!-- / OG TAG -->
 
-    <link rel="icon" type="image/png" href="assets/images/favicon-mit.ico" />
-    
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="assets/css/bootstrap-select.min.css" />
-    <!-- font awesome css -->
-    <link rel="stylesheet" href="assets/fontawesome/css/all.min.css">
-    <!-- Preload CSS (Non-blocking) -->
-    <link rel="preload" href="assets/css/slick.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <link rel="preload" href="assets/css/fonts.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <link rel="preload" href="assets/css/style.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <link rel="preload" href="assets/css/course-common-internal.css" as="style"
-        onload="this.onload=null;this.rel='stylesheet'">
-    <link rel="preload" href="assets/css/master-page.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="icon" type="image/png" href="assets-new/images/favicon-mit.ico" />
 
-    <!-- Fallback (Loads CSS if JS disabled) -->
-    <noscript>
-        <link rel="stylesheet" href="assets/css/slick.min.css">
-        <link rel="stylesheet" href="assets/css/fonts.css">
-        <link rel="stylesheet" href="assets/css/style.css">
-        <link rel="stylesheet" href="assets/css/course-common-internal.css">
-        <link rel="stylesheet" href="assets/css/master-page.css">
-    </noscript>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="css-new/styles.css" />
+    <link rel="stylesheet" href="css-new/intlTelInput.css">
 
-    <!-- font awesome css -->
-    <!--API for Queck contact----->
-    <script src="assets/js/api/jquery-1.10.2.min.js"></script>
-    <script type="text/javascript" src="assets/js/api/validation.js" charset="UTF-8"></script>
-    <!----->
     <script type="application/ld+json">
     {
         "@context": "https://schema.org/",
         "@type": "Product",
-        "name": "Post Graduate Diploma Courses in Management | PGDM Course",
-        "image": "https://mitsde.com/assets/images/course/digital/post-graduate-certificate-in-management.jpg",
-        "description": "MIT School of Distance Education, offers best certification courses in distance learning mode with specialisation such as digital marketing, business analytics.",
+        "name": "Post Graduate Certificate in Management (PGCM)",
+        "image": "https://mitsde.com/assets-new/images/emba.webp",
+        "description": "MIT School of Distance Education offers a one-year Post Graduate Certificate in Management (PGCM) in distance learning mode, with specializations in Business Analytics and Digital Marketing.",
         "brand": {
             "@type": "Brand",
             "name": "MITSDE"
@@ -95,29 +68,28 @@
     }
     </script>
 
-    <!--  -->
-
     <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
     {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://mitsde.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Post Graduate Certificate in Management",
-      "item": "https://mitsde.com/post-graduate-certificate-in-management"
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://mitsde.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Post Graduate Certificate in Management",
+                "item": "https://mitsde.com/post-graduate-certificate-in-management"
+            }
+        ]
     }
-  ]
-}
-</script>
+    </script>
 
+    <!-- faq -->
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
@@ -229,839 +201,362 @@
         ]
     }
     </script>
+    <!-- faq -->
 
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "LocalBusiness",
+        "name": "MIT School of Distance Education",
+        "image": "https://mitsde.com/assets-new/images/logo_mitsde.png",
+        "@id": "",
+        "url": "https://mitsde.com/",
+        "telephone": "9112-207-207",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "opposite Gajanan Maharaj Sansthan, Alandi",
+            "addressLocality": "Pune",
+            "postalCode": "412105",
+            "addressCountry": "IN"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 18.672932,
+            "longitude": 73.889243
+        },
+        "openingHoursSpecification": [{
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday"
+            ],
+            "opens": "09:30",
+            "closes": "05:30"
+        }]
+    }
+    </script>
 
+<?php include "5-common-seo-tag-1.php" ?>
 </head>
 
 <body>
-    <?php include "5-common-seo-tag-2.php"?>
-    <!-- Header Nav Start -->
-    <?php include "header.php"?>
-    <!-- Header Nav End --->
-    <main class="main-body">
-        <?php include "announcementUpdate.php"?>
-        <section class="banner inner-banner">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 col-lg-6 main-banner">
-                        <h1>Post Graduate Certificate in Management</h1>
+  <?php include "5-common-seo-tag-2.php" ?>
+    <?php include "header-new.php" ?>
 
-                        <div class="page-btn mt-3">
-                            <button type="button" class="btn btn-primary mit-button cus-btn inner-cus ms-0"
-                                data-bs-toggle="modal" data-bs-target="#enquiryModal-download-form"><span
-                                    class="mtsk-download"></span> &nbsp; Download BROCHURE
-                            </button>
+    <!-- ═══════════════════════════════════════════════
+       PROGRAM HERO
+    ════════════════════════════════════════════════ -->
+    <section class="hero ph-hero">
 
+        <!-- Breadcrumb — outside container, full-width white strip -->
+        <nav class="page-breadcrumb" aria-label="Breadcrumb">
+            <span class="pb-line"></span>
+            <a href="index.php">Home</a>
+            <span class="pb-sep">/</span>
+            <span class="pb-current">Post Graduate Certificate in Management</span>
+        </nav>
 
-                        </div>
-                        <div>
-                            <nav>
-                                <ol class="breadcrumb">
-                                    <li class="breadcrumb-item"><a href="https://mitsde.com">Home</a></li>
-                                    <li class="breadcrumb-item active" aria-current="page">Post Graduate Certificate in
-                                        Management
-                                    </li>
-                                </ol>
-                            </nav>
-                        </div>
-                    </div>
-                    <div class="col-md-12 col-lg-6">
-                        <div class="css-details">
-                            <div class="stc-det student-sec inner-sec">
-                                <img src="assets/images/course/ex-mba/Finance-Management-Icon-1.jpg" alt="Finance Management Icon 1">
-                            </div>
-                            <img src="assets/images/course/digital/post-graduate-certificate-in-management.jpg" fetchpriority="high"
-                                class="banner-img" alt="post-graduate-certificate-in-management">
-                            <div class="stc-det course-sec inner-sec">
-                                <img src="assets/images/course/ex-mba/Finance-Management-Icon-2.jpg" alt="Finance Management Icon 2">
-                            </div>
-                        </div>
-                    </div>
+        <div class="container">
+
+            <!-- 3-column layout: left content | center image -->
+            <div class="ph-layout py-5">
+
+                <!-- Left — heading -->
+                <div class="ph-left">
+                    <h1 class="ph-heading">Post Graduate Certificate in Management</h1>
                 </div>
+
+                <!-- Center — hero image -->
+                <div class="ph-right">
+                    <img src="assets-new/images/emba.webp" alt="Post Graduate Certificate in Management Image" />
+                </div>
+
+            </div><!-- /ph-layout -->
+
+            <!-- Specialisation filter pills -->
+            <div class="ph-specs-wrap">
+                <div class="ph-specs">
+                    <a href="post-graduate-certificate-in-business-analytics"><button class="ph-spec-pill">Business Analytics</button></a>
+                    <a href="post-graduate-certificate-in-digital-marketing"><button class="ph-spec-pill">Digital Marketing</button></a>
+                </div>
+                <p class="ph-specs-hint">Select a category above to explore all available specializations, fees,
+                    duration, and learning outcomes.</p>
             </div>
-        </section>
-        <?php include "1-PGCM-first-common-fees.php"?>
 
-        <section class="skill-story-new">
-            <div class="container">
-                <div class="row">
-
-                    <div class="newheading">
-                        <h2>SPECIALIZATIONS</h2>
-
-                    </div>
-
-
-                    <div class="col-md-12 col-lg-8 with-decades">
-                        <p align="justify">
-                            Most working professionals, like you, find it difficult to take time out and upgrade the
-                            skills that are required in the modern business setting and soon find themselves in a fix
-                            about their career progression. In order to advance in this highly competitive world, you
-                            need to arm yourself with the right skills and qualifications. MITSDE’s One-Year Post
-                            Graduation Certificate in Management program is worth the time, effort and investment that
-                            will enable you to up skill yourself.
-
-
-                        </p>
-
-                        <p align="justify">
-                            MITSDE’s One-Year Post Graduate Certificate in Management successfully equips you by
-                            providing the relevant knowledge and practical information required to succeed. The One-Year
-                            Post Graduate Certificate in Management offers two specialisation – PGCM Business Analytics
-                            and PGCM Digital Marketing . Both these courses aim at preparing you to advance towards a
-                            concrete professional career.
-
-                        </p>
-
-
-                    </div>
-
-
-
-                    <?php include "home-get-in-touch-form-new.php"?>
-
-                </div>
-
-            </div>
-        </section>
-
-        <section>
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-4">
-                        <div class="card cus-card">
-                            <img src="assets/images/master-page-images/PGCM/01-Business-Analytics.jpg"
-                                alt="PGCM - Business Analytics">
-                            <div class="card-body">
-                                <div class="cer-duration">
-                                    <span class="mtsk-duration"></span>
-                                    <p>12 Months</p>
-                                </div>
-
-                                <h5 class="card-title">PGCM - Business Analytics</h5>
-
-                                <p class="card-text">Become part of India's fastest growing Fintech Industry with
-                                    our
-                                    Professional course in Fintech</p>
-                                <div class="course-fee">
-                                    <p>Course Fees</p>
-                                    <p>&#8377; 64,000 /-</p>
-                                </div>
-                                <a href="post-graduate-certificate-in-business-analytics"> <button type="button"
-                                        class="mtsk-arrow card-button"></button></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4">
-                        <div class="card cus-card">
-                            <img src="assets/images/master-page-images/PGCM/02-Digital-Marketing.jpg"
-                                alt="PGCM - Digital Marketing">
-                            <div class="card-body">
-                                <div class="cer-duration">
-                                    <span class="mtsk-duration"></span>
-                                    <p>12 Months</p>
-                                </div>
-                                <h5 class="card-title">PGCM - Digital Marketing</h5>
-                                <p class="card-text">Upgrade your skills with trending AI tools & become a top
-                                    digital
-                                    marketer!</p>
-                                <div class="course-fee">
-                                    <p>Course Fees</p>
-                                    <p>&#8377; 64,000 /-</p>
-                                </div>
-                                <a href="post-graduate-cetificate-in-digital-marketing"> <button type="button"
-                                        class="mtsk-arrow card-button"></button></a>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-
-
-
-
-
-            </div>
-        </section>
-
-        <section id="faq" class="mt-4">
-
-            <div class="container">
-
-                <div class="row">
-
-                    <div class="cur-accordiaon">
-
-                        <h2 class="fw-bold ">Frequently asked questions (FAQs)</h2>
-
-
-
-
-
-                        <div class="accordion curriculum-accordion" id="freQuestions">
-
-                            <div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions12" aria-expanded="false" aria-controls="questions12">
-
-                                        What is the duration of the PGCM program?
-
-
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="questions12" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-
-                                    <div class="accordion-body  hero10">
-
-                                        <div class="row">
-
-                                            <div class="col-md-12 col-lg-12">
-
-                                                <div class="fintech-module alert brandcolor">
-
-
-
-                                                    <p>The PGCM program lasts for 12 months.</p>
-
-
-
-
-                                                </div>
-
-                                            </div>
-
-
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                            <div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions13" aria-expanded="false" aria-controls="questions13">
-
-                                        What is the eligibility criteria for admission?
-
-
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="questions13" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-
-                                    <div class="accordion-body hero10">
-
-                                        <div class="row">
-
-                                            <div class="col-md-12 col-lg-12">
-
-                                                <div class="fintech-module alert brandcolor">
-
-
-
-
-
-                                                    <p>Any graduate is eligible to apply for the program.</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                                </div>
-
-                                            </div>
-
-
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                            <div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions14" aria-expanded="false" aria-controls="questions14">
-
-                                        What are the specializations offered?
-
-
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="questions14" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-
-                                    <div class="accordion-body hero10">
-
-                                        <div class="row">
-
-                                            <div class="col-md-12 col-lg-12">
-
-                                                <div class="fintech-module alert brandcolor">
-
-
-
-                                                    <p>The program offers specializations in Business Analytics
-                                                        and Digital Marketing.</p>
-
-
-
-
-
-                                                </div>
-
-                                            </div>
-
-
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                            <div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions15" aria-expanded="false" aria-controls="questions15">
-
-                                        How is the course delivered?
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="questions15" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-
-                                    <div class="accordion-body hero10">
-
-                                        <div class="row">
-
-                                            <div class="col-md-12 col-lg-12">
-
-                                                <div class="fintech-module alert brandcolor">
-
-
-
-                                                    <p>The course is delivered online, allowing flexibility
-                                                        for working professionals.</p>
-
-
-
-
-                                                </div>
-
-                                            </div>
-
-
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                            <div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions16" aria-expanded="false" aria-controls="questions16">
-
-                                        What is the fee for the program?
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="questions16" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-
-                                    <div class="accordion-body hero10">
-
-                                        <div class="row">
-
-                                            <div class="col-md-12 col-lg-12">
-
-                                                <div class="fintech-module alert brandcolor">
-
-
-
-                                                    <p>The fee for the program is ₹64,000.</p>
-
-
-
-
-
-                                                </div>
-
-                                            </div>
-
-
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                            <div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions17" aria-expanded="false" aria-controls="questions17">
-
-                                        Does MITSDE offer placement support?
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="questions17" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-
-                                    <div class="accordion-body hero10">
-
-                                        <div class="row">
-
-                                            <div class="col-md-12 col-lg-12">
-
-                                                <div class="fintech-module alert brandcolor">
-
-
-
-                                                    <p>Yes, MITSDE provides placement assistance to
-                                                        students upon completion.</p>
-
-
-
-
-
-                                                </div>
-
-                                            </div>
-
-
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                            <div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions18" aria-expanded="false" aria-controls="questions18">
-
-                                        What are the career prospects after completing the PGCM?
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="questions18" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-
-                                    <div class="accordion-body hero10">
-
-                                        <div class="row">
-
-                                            <div class="col-md-12 col-lg-12">
-
-                                                <div class="fintech-module alert brandcolor">
-
-
-
-                                                    <p>Graduates can explore roles in Business Analytics, Digital
-                                                        Marketing, Operations, Project
-                                                        Management, and more, across various industries.</p>
-
-
-
-
-
-                                                </div>
-
-                                            </div>
-
-
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                            <div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions19" aria-expanded="false" aria-controls="questions19">
-
-                                        Is the PGCM program suitable for fresh graduates?
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="questions19" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-
-                                    <div class="accordion-body hero10">
-
-                                        <div class="row">
-
-                                            <div class="col-md-12 col-lg-12">
-
-                                                <div class="fintech-module alert brandcolor">
-
-
-
-                                                    <p>While the program is designed for working professionals,
-                                                        fresh graduates with a clear interest in management can
-                                                        also benefit.
-                                                    </p>
-
-
-
-
-
-                                                </div>
-
-                                            </div>
-
-
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                            <div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions20" aria-expanded="false" aria-controls="questions20">
-
-                                        What support is provided during the course?
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="questions20" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-
-                                    <div class="accordion-body hero10">
-
-                                        <div class="row">
-
-                                            <div class="col-md-12 col-lg-12">
-
-                                                <div class="fintech-module alert brandcolor">
-
-
-
-                                                    <p>MITSDE offers 24/7 student support, mentoring,
-                                                        and guidance throughout the program.
-
-                                                    </p>
-
-
-
-
-
-                                                </div>
-
-                                            </div>
-
-
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                            <div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions21" aria-expanded="false" aria-controls="questions21">
-
-                                        Is there a certification upon completion?
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="questions21" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-
-                                    <div class="accordion-body hero10">
-
-                                        <div class="row">
-
-                                            <div class="col-md-12 col-lg-12">
-
-                                                <div class="fintech-module alert brandcolor">
-
-
-
-                                                    <p>Yes, students receive a Post Graduate Certificate in
-                                                        Management upon successful completion of the program.</p>
-
-
-
-
-
-                                                </div>
-
-                                            </div>
-
-
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                            <div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions22" aria-expanded="false" aria-controls="questions21">
-
-                                        Can I pursue a PGCM while working?
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="questions22" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-
-                                    <div class="accordion-body hero10">
-
-                                        <div class="row">
-
-                                            <div class="col-md-12 col-lg-12">
-
-                                                <div class="fintech-module alert brandcolor">
-
-
-
-                                                    <p>Yes, the online format is designed to accommodate
-                                                        working professionals, allowing you to study at your own pace.
-                                                    </p>
-
-
-
-
-
-                                                </div>
-
-                                            </div>
-
-
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                            <div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions23" aria-expanded="false" aria-controls="questions21">
-
-                                        Are there any internships included in the PGCM program?
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="questions23" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-
-                                    <div class="accordion-body hero10">
-
-                                        <div class="row">
-
-                                            <div class="col-md-12 col-lg-12">
-
-                                                <div class="fintech-module alert brandcolor">
-
-
-
-                                                    <p>The program offers practical exposure through projects
-                                                        and case studies, but internships may not be a formal
-                                                        part of the curriculum.</p>
-
-
-
-
-
-                                                </div>
-
-                                            </div>
-
-
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                            <div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions24" aria-expanded="false" aria-controls="questions21">
-
-                                        What are the key benefits of the PGCM program at MITSDE?
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="questions24" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-
-                                    <div class="accordion-body hero10">
-
-                                        <div class="row">
-
-                                            <div class="col-md-12 col-lg-12">
-
-                                                <div class="fintech-module alert brandcolor">
-
-
-
-                                                    <p>The program offers industry-relevant skills, flexibility
-                                                        through online learning, and the opportunity to specialize
-                                                        in high-demand fields like Business Analytics and Digital
-                                                        Marketing..</p>
-
-
-
-
-
-                                                </div>
-
-                                            </div>
-
-
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-
-                        </div>
-
-
-
-                    </div>
-
-
-
-                </div>
+        </div>
+    </section>
+
+    <script>
+        // Specialisation pill switcher
+        (function () {
+            var pills = document.querySelectorAll('.ph-spec-pill');
+            pills.forEach(function (pill) {
+                pill.addEventListener('click', function () {
+                    pills.forEach(function (p) { p.classList.remove('is-active'); });
+                    pill.classList.add('is-active');
+                });
+            });
+        })();
+    </script>
+
+    <!-- ═══════════════════════════════════════════════
+       COURSE INFO BAR
+    ════════════════════════════════════════════════ -->
+    <?php include "pgcm-common-fee-bar.php" ?>
+
+    <!-- About Section -->
+
+    <section class="about-section">
+
+        <div class="container">
+
+            <div class="mb-5">
+
+                <h2 class="section-heading">
+                    <span class="text-orange">About </span>the Programme
+                </h2>
+
+                <p>
+                    Most working professionals find it difficult to take time out and upgrade the skills required in
+                    the modern business setting, and soon find themselves in a fix about their career progression. To
+                    advance in this highly competitive world, you need to arm yourself with the right skills and
+                    qualifications. MITSDE's One-Year Post Graduate Certificate in Management program is worth the
+                    time, effort and investment that will enable you to upskill yourself.
+                </p>
+
+                <p>
+                    MITSDE's One-Year Post Graduate Certificate in Management successfully equips you by providing
+                    the relevant knowledge and practical information required to succeed. The program offers two
+                    specializations — PGCM Business Analytics and PGCM Digital Marketing. Both these courses aim at
+                    preparing you to advance towards a concrete professional career.
+                </p>
 
             </div>
 
-        </section>
+        </div>
 
+    </section>
 
+    <!-- ═══════════════════════════════════════════════
+       PROGRAM CARDS GRID
+    ════════════════════════════════════════════════ -->
+    <section class="prog-grid-section">
+        <div class="container">
+            <div class="prog-grid">
 
-    </main>
-    <!-- Footer Start -->
+                <div class="prog-card">
+                    <div class="prog-card-img"><img src="assets-new/images/business-analytics-and-ai.png" alt="PGCM Business Analytics" /></div>
+                    <div class="prog-card-body">
+                        <a href="post-graduate-certificate-in-business-analytics"><h3 class="prog-card-title">Business Analytics</h3></a>
+                        <p class="prog-card-desc">Become part of India's fastest growing Fintech industry with our professional course in Fintech!</p>
+                    </div>
+                    <div class="prog-card-foot">
+                        <span class="prog-duration"><i class="far fa-clock"></i> 12 Months</span>
+                        <span class="prog-fee">₹64,000</span>
+                        <a href="post-graduate-certificate-in-business-analytics" class="prog-arrow">↗</a>
+                    </div>
+                </div>
 
-    <?php include "footer.php"?>
+                <div class="prog-card">
+                    <div class="prog-card-img"><img src="assets-new/images/marketing-management.png" alt="PGCM Digital Marketing" /></div>
+                    <div class="prog-card-body">
+                        <a href="post-graduate-certificate-in-digital-marketing"><h3 class="prog-card-title">Digital Marketing</h3></a>
+                        <p class="prog-card-desc">Upgrade your skills with trending AI tools & become a top digital marketer!</p>
+                    </div>
+                    <div class="prog-card-foot">
+                        <span class="prog-duration"><i class="far fa-clock"></i> 12 Months</span>
+                        <span class="prog-fee">₹64,000</span>
+                        <a href="post-graduate-certificate-in-digital-marketing" class="prog-arrow">↗</a>
+                    </div>
+                </div>
 
+                <!-- Counsellor card -->
+                <div class="prog-card prog-counsellor">
+                    <span class="prog-emoji">🤔</span>
+                    <h3>Not Sure Which Program?</h3>
+                    <p>Get free career counselling from our experts</p>
+                    <a href="#counsellorModal" class="btn-counsellor" data-bs-toggle="modal">Talk to Counsellor</a>
+                </div>
 
-    <!-- footer end  -->
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/js/bootstrap-select.min.js"></script>
-    <script src="assets/js/slick.min.js"></script>
-    <script src="assets/js/common.js"></script>
+            </div>
+        </div>
+    </section>
 
+    <!-- ═══════════════════════════════════════════════
+       FAQ
+    ════════════════════════════════════════════════ -->
+    <section class="faq-section">
+        <div class="container">
+            <h2 class="section-heading">Frequently Asked Questions</h2>
+            <div class="faq-list">
 
+                <div class="faq-item is-open">
+                    <button class="faq-q" aria-expanded="true">
+                        <span>What is the duration of the PGCM program?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>The PGCM program lasts for 12 months.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>What is the eligibility criteria for admission?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>Any graduate is eligible to apply for the program.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>What are the specializations offered?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>The program offers specializations in Business Analytics and Digital Marketing.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>How is the course delivered?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>The course is delivered online, allowing flexibility for working professionals.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>What is the fee for the program?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>The fee for the program is ₹64,000.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>Does MITSDE offer placement support?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>Yes, MITSDE provides placement assistance to students upon completion.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>What are the career prospects after completing the PGCM?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>Graduates can explore roles in Business Analytics, Digital Marketing, Operations, Project Management, and more, across various industries.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>Is the PGCM program suitable for fresh graduates?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>While the program is designed for working professionals, fresh graduates with a clear interest in management can also benefit.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>What support is provided during the course?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>MITSDE offers 24/7 student support, mentoring, and guidance throughout the program.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>Is there a certification upon completion?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>Yes, students receive a Post Graduate Certificate in Management upon successful completion of the program.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>Can I pursue a PGCM while working?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>Yes, the online format is designed to accommodate working professionals, allowing you to study at your own pace.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>Are there any internships included in the PGCM program?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>The program offers practical exposure through projects and case studies, but internships may not be a formal part of the curriculum.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>What are the key benefits of the PGCM program at MITSDE?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>The program offers industry-relevant skills, flexibility through online learning, and the opportunity to specialize in high-demand fields like Business Analytics and Digital Marketing.</p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- ═══════════════════════════════════════════════
+       COUNSELLOR LEAD MODAL
+       Triggered by the "Talk to Counsellor" card button.
+       Reuses the site's standard lead form (home-get-in-touch-form-new.php)
+       — CSRF + validation.js validate() + AJAX lead push.
+    ════════════════════════════════════════════════ -->
+    <div class="modal fade" id="counsellorModal" tabindex="-1" aria-labelledby="counsellorModalLabel"
+        aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="counsellorModalLabel">Talk to Our Counsellor</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <p class="sub-text mb-3">Share your details and our career expert will get in touch with you.</p>
+                    <?php include "home-get-in-touch-form-new.php" ?>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- ═══════════════════════════════════════════════
+       SITE FOOTER
+    ════════════════════════════════════════════════ -->
+    <?php include "footer-new.php" ?>
+
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 
 </html>

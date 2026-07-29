@@ -20,8 +20,6 @@
 
     <!-- CANONICAL TAG -->
 
-    <?php include "5-common-seo-tag-1.php" ?>
-
     <!-- OGP TAG -->
     <meta property="og:title" content="PGDM Executive in Digital Marketing Online | AICTE-Approved MITSDE">
     <meta property="og:site_name" content="MIT School of Distance Education">
@@ -29,44 +27,23 @@
     <meta property="og:description"
         content="Enhance your career with MITSDE’s 15-month AICTE-approved PGDM Executive in Digital Marketing. Learn SEO, SEM, analytics & leadership online.">
     <meta property="og:type" content="website">
-    <meta property="og:image"
-        content="https://mitsde.com/assets/images/course/pgdm-exe/PGDM-Executive-Digital-Marketing.png">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/course/pgdm-exe/PGDM-Executive-Digital-Marketing.png">
     <!-- / OG TAG -->
 
+    <link rel="icon" type="image/png" href="assets-new/images/favicon-mit.ico" />
 
-    <!-- Page Title -->
-    <link rel="icon" type="image/png" href="assets/images/favicon-mit.ico" />
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="assets/css/bootstrap-select.min.css" />
-    <!-- font awesome css -->
-    <link rel="stylesheet" href="assets/fontawesome/css/all.min.css">
-    <!-- Preload CSS (Non-blocking) -->
-    <link rel="preload" href="assets/css/slick.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <link rel="preload" href="assets/css/fonts.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <link rel="preload" href="assets/css/style.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <link rel="preload" href="assets/css/course-common-internal.css" as="style"
-        onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="css-new/styles.css" />
+    <link rel="stylesheet" href="css-new/intlTelInput.css">
 
-
-    <!-- Fallback (Loads CSS if JS disabled) -->
-    <noscript>
-        <link rel="stylesheet" href="assets/css/slick.min.css">
-        <link rel="stylesheet" href="assets/css/fonts.css">
-        <link rel="stylesheet" href="assets/css/style.css">
-        <link rel="stylesheet" href="assets/css/course-common-internal.css">
-
-    </noscript>
-    <!--API for Queck contact----->
-    <script src="assets/js/api/jquery-1.10.2.min.js"></script>
-    <script type="text/javascript" src="assets/js/api/validation.js" charset="UTF-8"></script>
-    <!----->
-
-    <script type="application/ld+json">
+   <script type="application/ld+json">
     {
         "@context": "https://schema.org/",
         "@type": "Product",
         "name": "PGDM Executive in Digital Marketing Online | AICTE-Approved MITSDE",
-        "image": "https://mitsde.com/assets/images/course/pgdm-exe/PGDM-Executive-Digital-Marketing.png",
+        "image": "https://mitsde.com/assets-new/images/course/pgdm-exe/PGDM-Executive-Digital-Marketing.png",
         "description": "Enhance your career with MITSDE’s 15-month AICTE-approved PGDM Executive in Digital Marketing. Learn SEO, SEM, analytics & leadership online.",
         "brand": {
             "@type": "Brand",
@@ -92,926 +69,580 @@
     </script>
 
     <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
     {
-      "@type": "Question",
-      "name": "Who is this course ideal for?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "This course is ideal for mid-level professionals, managers, entrepreneurs, and marketing executives who want to enhance their digital marketing expertise while managing their careers."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the duration of the course?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The PGDM Executive in Digital Marketing course has a duration of 15 months, divided into two semesters."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is this an AICTE-approved programme?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, the PGDM Executive in Digital Marketing is an AICTE-approved programme, ensuring credibility and nationwide recognition."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the mode of delivery?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The course is completely online and self-paced, delivered through MITSDE’s LMS with recorded lectures and digital study materials."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Will I receive placement assistance?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, MITSDE provides placement guidance and career support services to help learners connect with relevant industry opportunities."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What are the eligibility criteria?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Candidates must be graduates in any discipline from a recognized university with a minimum of five years of work experience."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Are scholarships or discounts available?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, scholarships are available for MIT Group alumni, defence personnel, and differently-abled learners as per MITSDE policy."
-      }
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+        {
+        "@type": "Question",
+        "name": "Who is this course ideal for?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "This course is ideal for mid-level professionals, managers, entrepreneurs, and marketing executives who want to enhance their digital marketing expertise while managing their careers."
+        }
+        },
+        {
+        "@type": "Question",
+        "name": "What is the duration of the course?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The PGDM Executive in Digital Marketing course has a duration of 15 months, divided into two semesters."
+        }
+        },
+        {
+        "@type": "Question",
+        "name": "Is this an AICTE-approved programme?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, the PGDM Executive in Digital Marketing is an AICTE-approved programme, ensuring credibility and nationwide recognition."
+        }
+        },
+        {
+        "@type": "Question",
+        "name": "What is the mode of delivery?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The course is completely online and self-paced, delivered through MITSDE’s LMS with recorded lectures and digital study materials."
+        }
+        },
+        {
+        "@type": "Question",
+        "name": "Will I receive placement assistance?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, MITSDE provides placement guidance and career support services to help learners connect with relevant industry opportunities."
+        }
+        },
+        {
+        "@type": "Question",
+        "name": "What are the eligibility criteria?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Candidates must be graduates in any discipline from a recognized university with a minimum of five years of work experience."
+        }
+        },
+        {
+        "@type": "Question",
+        "name": "Are scholarships or discounts available?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, scholarships are available for MIT Group alumni, defence personnel, and differently-abled learners as per MITSDE policy."
+        }
+        }
+    ]
     }
-  ]
-}
-</script>
+    </script>
 
 
     <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
     {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://mitsde.com/"
-    },
-     {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Online PGDM Executive Programs",
-      "item": "https://mitsde.com/post-graduate-diploma-in-management-executive"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "PGDM Executive in Digital Marketing Online",
-      "item": "https://mitsde.com/pgdm-executive-in-digital-marketing"
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://mitsde.com/"
+        },
+        {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Online PGDM Executive Programs",
+        "item": "https://mitsde.com/post-graduate-diploma-in-management-executive"
+        },
+        {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "PGDM Executive in Digital Marketing Online",
+        "item": "https://mitsde.com/pgdm-executive-in-digital-marketing"
+        }
+    ]
     }
-  ]
-}
-</script>
+    </script>
 
-
+<?php include "5-common-seo-tag-1.php" ?>
 </head>
 
 <body>
-    <?php include "5-common-seo-tag-2.php" ?>
-    <!-- Header Nav Start -->
-    <?php include "header.php" ?>
-    <!-- Header Nav End --->
-    <main class="main-body">
-        <?php include "announcementUpdate.php" ?>
-        <section class="banner inner-banner">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 col-lg-6 main-banner">
-                        <h1>PGDM Executive in Digital Marketing</h1>
-                        <p></p>
-                        <div class="page-btn">
-                            <button type="button" class="btn btn-primary mit-button cus-btn inner-cus ms-0"
-                                data-bs-toggle="modal" data-bs-target="#enquiryModal-download-form"><span
-                                    class="mtsk-download"></span> &nbsp; Download BROCHURE
-                            </button>
+  <?php include "5-common-seo-tag-2.php" ?>
+    <?php include "header-new.php" ?>
 
-                        </div>
-                        <div>
-                            <nav>
-                                <ol class="breadcrumb">
-                                    <li class="breadcrumb-item"><a href=" https://mitsde.com">Home</a>
-                                    </li>
-                                    <li class="breadcrumb-item"><a
-                                            href="post-graduate-diploma-in-management-executive">PGDM Exe </a></li>
-                                    <li class="breadcrumb-item active" aria-current="page">PGDM Executive Digital
-                                        Marketing
-                                    </li>
+    <!-- ═══════════════════════════════════════════════
+       PROGRAM HERO
+       Reusable .ph-* classes — replicate for every
+       program detail page, only swap heading + pills.
+    ════════════════════════════════════════════════ -->
+    <section class="hero ph-hero">
+        <div class="container">
 
-                            </nav>
+            <!-- Breadcrumb -->
+            <nav class="page-breadcrumb" aria-label="Breadcrumb">
+                <a href="index.php">Home</a>
+                <span class="pb-sep">/</span>
+                <a href="#">PGDM Exe</a>
+                <span class="pb-sep">/</span>
+                <span class="pb-current">PGDM Executive in Digital Marketing</span>
+            </nav>
 
+            <!-- 3-column layout: left content | center image | right form -->
+            <div class="ph-layout">
 
-                        </div>
-                    </div>
-                    <div class="col-md-12 col-lg-6">
-                        <div class="css-details">
-                            <div class="stc-det student-sec inner-sec">
-                                <img src="assets/images/course/pgdm-exe/PGDM-Executive-Digital-Marketing-icon-1.png"
-                                    alt="PGDM Executive Digital Marketing icon 1">
-                            </div>
-                            <img src="assets/images/course/pgdm-exe/PGDM-Executive-Digital-Marketing.png"
-                                class="banner-img" fetchpriority="high"
-                                alt="Executive PGDM in Digital Marketing online course AICTE approved MITSDE">
-                            <div class="stc-det course-sec inner-sec">
-                                <img src="assets/images/course/pgdm-exe/PGDM-Executive-Digital-Marketing-icon-2.png"
-                                    alt="PGDM Executive Digital Marketing icon 2">
-                            </div>
-                        </div>
-                    </div>
+                <!-- Left — heading + partner -->
+                <div class="ph-left">
+                    <h1 class="ph-heading">PGDM Executive in<br> Digital Marketing</h1>
+                    <!-- <div class="ph-sub">
+                        <p style="max-width: 400px;"><img src="assets-new/images/kpmg-logo.png" alt="KPMG" class="ph-partner-logo" /> in India across is
+                            the academic partner for the Project Analytics Certification Program.
+                            (Optional)</p>
+                    </div> -->
                 </div>
+
+                <div class="ph-right">
+                    <img src="assets-new/images/project-management.webp" alt="Digital Marketing Image" />
+                </div>
+
+            </div><!-- /ph-layout -->
+
+            <!-- Specialisation filter pills -->
+            <div class="ph-specs-wrap">
+                <div class="ph-specs">
+                    <a href="digital-marketing-strategist"><button class="ph-spec-pill">Chief Digital Marketing Strategist Program</button></a>
+                    <a href="pgdm-executive-in-digital-marketing"><button class="ph-spec-pill is-active">Digital Marketing</button></a>
+                    <a href="pgdm-executive-in-business-analytics"><button class="ph-spec-pill">Business Analytics</button></a>
+                    <a href="pgdm-executive-in-information-technology"><button class="ph-spec-pill">Information Technology</button></a>
+                    <a href="pgdm-executive-in-modern-project-management"><button class="ph-spec-pill">Project Management</button></a>
+                    <a href="pgdm-executive-in-technology-and-operations-management"><button class="ph-spec-pill">Technology & Operations</button></a>
+                    <a href="pgdm-executive-in-human-capital-management"><button class="ph-spec-pill">Human Capital Management</button></a>
+                    <a href="pgdm-executive-in-banking-financial-services"><button class="ph-spec-pill">Banking &amp; Financial Services</button></a>
+                    <a href="pgdm-executive-in-finance-management"><button class="ph-spec-pill">Finance Management</button></a>
+                    <a href="pgdm-executive-in-strategic-marketing-management"><button class="ph-spec-pill">Strategic Marketing Management</button></a>
+                    <a href="pgdm-executive-in-material-management"><button class="ph-spec-pill">Material Management</button></a>
+                    <a href="pgdm-executive-in-global-logistics-and-supply-chain-management"><button class="ph-spec-pill">Global Logistics & Supply Chain</button></a>
+                    <a href="pgdm-executive-in-construction-and-project-management"><button class="ph-spec-pill">Construction and Project</button></a>
+                </div>
+                <p class="ph-specs-hint">Select a category above to explore all available specializations, fees,
+                    duration, and learning outcomes.</p>
             </div>
-        </section>
-        <?php include "3-PGDM-Executive-first-common-fees.php" ?>
 
-        <section class="app-featurelist">
-            <div class="container">
-                <div class="row">
-                    <ul class="app-features">
-                        <li><a class="active" href="#overview">About Course</a></li>
-                        <li><a href="#learning">Learning</a></li>
+        </div>
+    </section>
 
-                        <li><a href="#curriculam">Curriculum</a></li>
-                        <li><a href="#progressFee">Program Fees</a></li>
-                        <li><a href="#learnExpert">Our Courses</a></li>
+    <!-- ═══════════════════════════════════════════════
+       COURSE INFO BAR
+    ════════════════════════════════════════════════ -->
+    <?php include "pgdm-exe-common-fee-bar.php" ?>
+
+    <!-- TABs -->
+
+    <div class="ph-specs-wrap sticky-pills">
+        <div class="ph-specs">
+            <!-- <a href="#kpmg"><button class="ph-spec-pill is-active">KPMG</button></a>
+            <a href="#modules"><button class="ph-spec-pill">Modules</button></a> -->
+            <a href="#faq"><button class="ph-spec-pill">FAQ</button></a>
+            <a href="#about"><button class="ph-spec-pill">About</button></a>
+            <a href="#learning"><button class="ph-spec-pill">Learning</button></a>
+            <a href="#curriculum"><button class="ph-spec-pill">Curriculum</button></a>
+            <a href="#fees"><button class="ph-spec-pill">Program Fees</button></a>
+            <a href="#courses"><button class="ph-spec-pill">Our Courses</button></a>
+        </div>
+    </div>
+
+    <!-- About Section -->
+
+    <section class="about-section pb-0" id="about">
+
+        <div class="container">
+
+            <!-- Heading -->
+
+            <h2 class="section-heading">
+                <span class="text-orange">About </span>the Programme
+            </h2>
+
+            <p>
+                The Post Graduate Diploma in Management (Executive) in Digital Marketing is a 15-month online programme crafted for experienced professionals seeking to strengthen their leadership, analytical, and digital strategy capabilities. It integrates foundational management principles with advanced digital marketing concepts — preparing learners to thrive in technology-driven marketing environments.
+            </p>
+
+            <p>
+                This programme bridges business management with digital innovation, enabling professionals to design data-driven campaigns, interpret analytics, and drive customer engagement through multiple online channels. The PGDM Executive structure ensures a blend of strategic insight and practical execution tailored for working executives.
+            </p>
+
+
+        </div>
+
+    </section>
+
+    <!-- Pedagogy section -->
+
+    <section class="pedagogy-section pb-0">
+
+        <div class="container">
+
+            <div class="pedagogy-grid">
+
+                <div class="pedagogy-card">
+                    <div class="pedagogy-card-img">
+                        <img src="assets-new/images/unique-pedagogy.jpg" alt="Unique Pedagogy" />
+                    </div>
+                    <h3 class="pedagogy-card-title">Unique Pedagogy</h3>
+                    <ul class="ac-list text-dark">
+                        <li>Flexible Online Learning: Courses are delivered through an advanced Learning</li>
+                        <li>Application-Based Curriculum: Every concept is reinforced with real-time case studies, live projects, and simulations reflecting real marketing challenges.</li>
+                        <li>Executive Focus: The programme’s pace and structure accommodate the schedules of professionals, ensuring seamless learning without career interruptions.</li>
+                        <li>Project-Based Learning: The final term includes a capstone project that encourages application of learning to solve a real-world digital marketing problem.</li>
+                        <li>Continuous Evaluation: Internal assessments, assignments, and online MCQ-based exams ensure consistent learning progress and conceptual clarity.</li>
                     </ul>
                 </div>
-            </div>
-        </section>
-        <section id="overview" class="enroll-certification">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 col-lg-12 fintech-certi aboutMit-skills">
-                        <h2>About The Course</h2>
 
+                <div class="pedagogy-card">
+                    <div class="pedagogy-card-img">
+                        <img src="assets-new/images/academic-partnership.jpg" alt="Academic Partnership" />
                     </div>
-                    <div class="col-md-8 col-lg-8 fintech-certi fin-feature hero11">
-                        <p>
-                            The Post Graduate Diploma in Management (Executive) in Digital Marketing is a 15-month
-                            online programme crafted for experienced professionals seeking to strengthen their
-                            leadership, analytical, and digital strategy capabilities. It integrates foundational
-                            management principles with advanced digital marketing concepts — preparing learners to
-                            thrive in technology-driven marketing environments.
-                        </p>
-
-                        <p>
-                            This programme bridges business management with digital innovation, enabling professionals
-                            to design data-driven campaigns, interpret analytics, and drive customer engagement through
-                            multiple online channels. The PGDM Executive structure ensures a blend of strategic insight
-                            and practical execution tailored for working executives.
-                        </p>
-                    </div>
-                    <div class="col-md-4 col-lg-4 ">
-                        <?php include "common-home-form-added-all-36-courses-pages.php" ?>
-
-                    </div>
+                    <h3 class="pedagogy-card-title">Academic Partnership</h3>
+                    <ul class="ac-list text-dark">
+                        <li>MIT School of Distance Education (MITSDE) is a constituent of MAEER’s MIT Group of Institutions, Pune, an established education brand since 1983.</li>
+                        <li>The programme is approved by AICTE, ensuring national-level recognition and academic credibility.</li>
+                        <li>Curriculum inputs and case studies are co-developed with industry professionals and subject matter experts, ensuring relevance to modern marketing practices.</li>
+                        <li>Strategic collaborations with corporate partners and technology experts help align the course content with current market and digital transformation trends.</li>
+                    </ul>
                 </div>
 
-                <div class="row hero1.1">
-                    <div class="col-md-12 col-lg-4 pede-card">
-                        <div class="card over-card">
-                            <img src="assets/images/pedagogy.svg" class="img-fluid " title="Unique Pedagogy"
-                                alt="Unique Pedagogy">
-                            <div class="card-body">
-                                <h5 class="card-title">Unique Pedagogy </h5>
-                                <ul>
-                                    <li>Flexible Online Learning: Courses are delivered through an advanced Learning
-                                    </li>
-                                    <li>Application-Based Curriculum: Every concept is reinforced with real-time case
-                                        studies, live projects, and simulations reflecting real marketing challenges.
-                                    </li>
-                                    <li>Executive Focus: The programme’s pace and structure accommodate the schedules of
-                                        professionals, ensuring seamless learning without career interruptions.</li>
-                                    <li>Project-Based Learning: The final term includes a capstone project that
-                                        encourages application of learning to solve a real-world digital marketing
-                                        problem.</li>
-                                    <li>Continuous Evaluation: Internal assessments, assignments, and online MCQ-based
-                                        exams ensure consistent learning progress and conceptual clarity.</li>
-                                </ul>
-                            </div>
-                        </div>
+                <div class="pedagogy-card">
+                    <div class="pedagogy-card-img">
+                        <img src="assets-new/images/expert-faculty.jpg" alt="Expert Faculty" />
                     </div>
-                    <div class="col-md-12 col-lg-4 pede-card">
-                        <div class="card over-card">
-                            <img src="assets/images/collaberation.svg" class="img-fluid " title="Industry Collaboration"
-                                alt="collaboration with industry leaders and partners">
-                            <div class="card-body">
-                                <h5 class="card-title">Academic Partnerships</h5>
-                                <ul>
-                                    <li>MIT School of Distance Education (MITSDE) is a constituent of MAEER’s MIT Group
-                                        of Institutions, Pune, an established education brand since 1983.</li>
-                                    <li>The programme is approved by AICTE, ensuring national-level recognition and
-                                        academic credibility.</li>
-                                    <li>Curriculum inputs and case studies are co-developed with industry professionals
-                                        and subject matter experts, ensuring relevance to modern marketing practices.
-                                    </li>
-                                    <li>Strategic collaborations with corporate partners and technology experts help
-                                        align the course content with current market and digital transformation trends.
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-12 col-lg-4 pede-card">
-                        <div class="card over-card">
-                            <img src="assets/images/faculty.svg" class="img-fluid " title="Expert Faculty"
-                                alt="professional faculty with expertise in their respective fields">
-                            <div class="card-body">
-                                <h5 class="card-title">Expert Faculty</h5>
-                                <ul>
-                                    <li>Courses are taught by a blend of academic scholars and industry leaders with
-                                        extensive experience in digital marketing, analytics, and business strategy.
-                                    </li>
-                                    <li>Faculty members bring real-world insights through case-based teaching, mentoring
-                                        sessions, and project guidance.</li>
-                                    <li>The academic leadership at MITSDE emphasizes experiential learning, ensuring
-                                        each learner gains both managerial and technological competence.</li>
-                                    <li>Learners benefit from interactive webinars, doubt-solving sessions, and
-                                        mentorship support for career growth.</li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-
-
+                    <h3 class="pedagogy-card-title">Expert Faculty</h3>
+                    <ul class="ac-list text-dark">
+                        <li>Courses are taught by a blend of academic scholars and industry leaders with extensive experience in digital marketing, analytics, and business strategy.</li>
+                        <li>Faculty members bring real-world insights through case-based teaching, mentoring sessions, and project guidance.</li>
+                        <li>The academic leadership at MITSDE emphasizes experiential learning, ensuring each learner gains both managerial and technological competence.</li>
+                        <li>Learners benefit from interactive webinars, doubt-solving sessions, and mentorship support for career growth.</li>
+                    </ul>
                 </div>
 
-
             </div>
-        </section>
-        <section id="learning" class="enroll-certification">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 col-lg-4 fintech-certi aboutMit-skills">
-                        <h2>Learning <br> Outcomes <br> </h2>
 
-                    </div>
-                    <div class="col-md-12 col-lg-8 fin-feature1 hero11">
+        </div>
 
+    </section>
+
+    <!-- Learning Section -->
+
+    <section class="learning-section" id="learning">
+
+        <div class="container">
+
+            <!-- Heading -->
+
+            <h2 class="section-heading">
+                <span class="text-orange">Learning </span>Outcomes
+            </h2>
+
+            <div class="learning-outcomes-layout">
+
+                <div class="learning-outcomes-left">
+                    <!-- TODO: replace with real photo -->
+                    <img src="assets-new/images/learning-outcomes.jpg" alt="Learning Outcomes" />
+                </div>
+
+                <div class="learning-outcomes-right">
+                    <ul class="learning-outcomes-list">
                         <p>After completing this programme, learners will be able to:</p>
-                        <li><span class="newright-icon1"></span> Demonstrate a comprehensive understanding of core
-                            management concepts.</li>
-                        <li><span class="newright-icon1"></span> Design, execute, and optimize integrated digital
-                            marketing campaigns.</li>
-                        <li><span class="newright-icon1"></span> Apply marketing analytics to measure ROI and enhance
-                            campaign effectiveness.</li>
-                        <li><span class="newright-icon1"></span> Understand consumer behaviour in digital spaces and
-                            develop personalized engagement strategies.</li>
-                        <li><span class="newright-icon1"></span> Use tools for SEO, SEM, content marketing, and social
-                            media performance tracking.</li>
-                        <li><span class="newright-icon1"></span> Integrate digital marketing strategies into broader
-                            business and brand objectives.</li>
-                        <li><span class="newright-icon1"></span> Exhibit leadership and strategic decision-making skills
-                            suitable for senior marketing roles.</li>
-                    </div>
+                        
+                        <li>
+                            <i class="fa-regular fa-square-check"></i>
+                            <span>Demonstrate a comprehensive understanding of core management concepts.</span>
+                        </li>
+                        <li>
+                            <i class="fa-regular fa-square-check"></i>
+                            <span>Design, execute, and optimize integrated digital marketing campaigns.</span>
+                        </li>
+                        <li>
+                            <i class="fa-regular fa-square-check"></i>
+                            <span>Apply marketing analytics to measure ROI and enhance campaign effectiveness.</span>
+                        </li>
+                        <li>
+                            <i class="fa-regular fa-square-check"></i>
+                            <span>Understand consumer behaviour in digital spaces and develop personalized engagement strategies.</span>
+                        </li>
+                        <li>
+                            <i class="fa-regular fa-square-check"></i>
+                            <span>Use tools for SEO, SEM, content marketing, and social media performance tracking.</span>
+                        </li>
+                        <li>
+                            <i class="fa-regular fa-square-check"></i>
+                            <span>Integrate digital marketing strategies into broader business and brand objectives.</span>
+                        </li>
+                        <li>
+                            <i class="fa-regular fa-square-check"></i>
+                            <span>Exhibit leadership and strategic decision-making skills suitable for senior marketing roles.</span>
+                        </li>
+                    </ul>
                 </div>
-            </div>
-        </section>
 
-        <section id="curriculam" class="enroll-certification">
-            <div class="container">
-                <div class="row">
-                    <div class="cur-accordiaon">
-                        <h3>Course Syllabus</h3>
-                        <div class="accordion curriculum-accordion" id="curriculum">
-                            <?php include "pgdmexe-common-semester-one.php" ?>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button " type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#module2" aria-expanded="false" aria-controls="module2">
-                                        Semester II
-                                    </button>
-                                </h2>
-                                <div id="module2" class="accordion-collapse show" data-bs-parent="#curriculum">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <ul class="curriculum">
+            </div><!-- /learning-outcomes-layout -->
 
-                                                <table class="table">
-                                                    <thead>
-                                                        <tr>
-                                                            <th>S.No</th>
-                                                            <th>Code</th>
-                                                            <th>Subject</th>
-                                                            <th>Credits</th>
-                                                        </tr>
-                                                    </thead>
-                                                    <tbody>
+        </div>
 
+    </section>
 
-                                                        <tr>
-                                                            <td>1</td>
-                                                            <td>S2C14</td>
-                                                            <td>Research Methodology and Management Decision</td>
-                                                            <td>4</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>2</td>
-                                                            <td>S3SM1</td>
-                                                            <td>Product and Brand Management</td>
-                                                            <td>4</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>3</td>
-                                                            <td>S3W05</td>
-                                                            <td>Integrated Marketing Communication</td>
-                                                            <td>4</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>4</td>
-                                                            <td>S2SS2</td>
-                                                            <td>SEO & SEM</td>
-                                                            <td>4</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>5</td>
-                                                            <td>S3El5</td>
-                                                            <td>Social Media Marketing - LAB (Credits = 3+1)</td>
-                                                            <td>4</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>6</td>
-                                                            <td>S2SE2</td>
-                                                            <td>Social Media Analytics & Future Trends - LAB (Credits =
-                                                                3+1)</td>
-                                                            <td>4</td>
-                                                        </tr>
-                                                    </tbody>
-                                                </table>
-                                                <table class="table">
-                                                    <thead>
-                                                        <tr>
-                                                            <th>Code</th>
-                                                            <th>Certificate</th>
-                                                            <th>Credits</th>
-                                                        </tr>
-                                                    </thead>
-                                                    <tbody>
-                                                        <!-- Rows from the first table -->
+    <!-- ── Section: Course Syllabus ── -->
+    <section class="pgcs-section" id="curriculum">
+        <div class="container">
+            <div class="pgcs-bg-wrap">
 
-                                                        <tr>
-                                                            <td>AIACSC</td>
-                                                            <td>AI Automation Certificate + AI Strategy Certificate</td>
-                                                            <td>Non Credit</td>
-                                                        </tr>
+                <h2 class="pgcs-heading">Course Syllabus</h2>
 
-                                                        <tr>
-                                                            <td>CDME</td>
-                                                            <td>CDME -Certificate in Digital Marketing Essentials</td>
-                                                            <td>Non Credit</td>
-                                                        </tr>
+                <div class="pgcs-stack">
 
-                                                        <tr>
-                                                            <td>CDMA</td>
-                                                            <td>CDMA -Certificate in Digital Marketing Applications</td>
-                                                            <td>Non Credit</td>
-                                                        </tr>
-                                                    </tbody>
-                                                </table>
-                                                <div class="alert brandcolor" align="right" role="alert">Total
-                                                    Credits 24
-                                                </div>
-                                            </ul>
+                    <!-- Semester 1 -->
+                    <?php include "pgdm-exe-common-semester-one.php" ?>
 
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-
-
-
-                            <li class="section hero10 p-3" style="list-style-type: none;">
-                                <?php include "pgdmexe-common-project-term.php" ?>
-
-                                <div class="alert brandcolor" role="alert"><b>Note :</b><br>
-                                    <ul class="fin-feature2" style="list-style: none;">
-                                        <li><span class="newright-icon1"></span> The above course curriculum is
-                                            subject to revision as per AICTE
-                                            guidelines
-                                            from time to time and as per industry updates.</li>
-                                        <li><span class="newright-icon1"></span> Exams would be conducted during the
-                                            January and July exam
-                                            cycles.</li>
-                                        <li><span class="newright-icon1"></span> All the Exams at MITSDE (Internal &
-                                            External) are in the form of
-                                            Multiple
-                                            Choice Questions.
-                                        </li>
-                                        <li><span class="newright-icon1"></span> Student will have to attempt all
-                                            the components in the Learning
-                                            Management
-                                            System and submit TWO Quizzes (30 marks each) for each subject.
-
-                                        </li>
-                                        <li><span class="newright-icon1"></span> Internal Examinations carry 60%
-                                            marks (2 Quizzes of 30 Marks
-                                            each) and
-                                            External Proctored Exam carry 40% weightage (passing criteria for both
-                                            internal & external exam is 50%).
-                                        </li>
-
-                                    </ul>
-                                </div>
-
-
-
-
+                    <!-- Semester 2 -->
+                    <div class="pgcs-card">
+                        <div class="pgcs-top">
+                            <div class="pgcs-left">
+                                <span class="pgcs-tag"><span class="pgcs-tag-inner">Semester 2</span></span>
+                                <ul class="pgcs-course-list">
+                                    <li>Research Methodology and Management Decision (S2C14)</li>
+                                    <li>Product and Brand Management (S3SM1)</li>
+                                    <li>Integrated Marketing Communication (S3W05)</li>
+                                    <li>SEO & SEM (S2SS2)</li>
+                                    <li>Social Media Marketing - LAB (Credits = 3+1) (S3El5)</li>
+                                    <li>Social Media Analytics & Future Trends - LAB (Credits = 3+1) (S2SE2)</li>
                                 </ul>
+                            </div>
+                            <div class="pgcs-right">
+                                <div class="pgcs-right-info">
+                                    <img class="pgcs-icon" src="assets-new/images/star-icon.png" alt="">
+                                    <h3 class="pgcs-title">AI Intermediate</h3>
+                                    <p class="pgcs-desc">Domain-contextualised AI module + workplace artifact</p>
+                                </div>
+                                <span class="pgcs-vdivider"></span>
+                                <div class="pgcs-right-outcome">
+                                    <p class="pgcs-learner-label">What the Learner Becomes:</p>
+                                    <span class="pgcs-outcome">AI-Enabled Task Optimiser</span>
+                                </div>
+                            </div>
+                        </div><!-- /pgcs-top -->
+                        <div class="pgcs-cert">
+                            <span class="pgcs-tag"><span class="pgcs-tag-inner">Certificate</span></span>
+                            <ul class="pgcs-cert-list">
+                                <li>AI Automation Certificate + AI Strategy Certificate (AIACSC)</li>
+                                <li>Certificate in Digital Marketing Essentials (CDME)</li>
+                                <li>CDMA -Certificate in Digital Marketing Applications (CDMA)</li>
+                            </ul>
+                            <p class="sub-text"><strong>Total Credits 24</strong></p>
+                        </div><!-- /pgcs-cert -->
+                    </div>
+                    <!-- Project -->
+                    <?php include "pgdmexe-common-project-term.php" ?>
 
-                            </li>
+                </div><!-- /pgcs-stack -->
 
+                <p class="sub-text text-light mt-4"><strong>Total Cumulative Credits 50</strong></p>
 
+                <div class="pgcs-note">
+                    <h3 class="pgcs-note-heading">Note :</h3>
+                    <ul class="pgcs-note-list">
+                        <li>The above course curriculum is subject to revision as per AICTE guidelines from time to
+                            time and as per industry updates.</li>
+                        <li>Exams would be conducted during the January and July exam cycles.</li>
+                        <li>All the Exams at MITSDE (Internal &amp; External) are in the form of Multiple Choice
+                            Questions.</li>
+                        <li>Student will have to attempt all the components in the Learning Management System and
+                            submit TWO Quizzes (30 marks each) for each subject.</li>
+                        <li>Internal Examinations carry 60% marks (2 Quizzes of 30 Marks each) and External Proctored
+                            Exam carry 40% weightage (passing criteria for both internal &amp; external exam is
+                            50%).</li>
+                    </ul>
+                </div><!-- /pgcs-note -->
 
+            </div><!-- /pgcs-bg-wrap -->
+        </div>
+    </section>
 
+    <!-- ═══════════════════════════════════════════════
+       FEE STRUCTURE
+    ════════════════════════════════════════════════ -->
+    <section class="fee-structure-section" id="fees">
+        <div class="container">
+            <h2 class="section-heading"><span>Fee</span> Structure</h2>
 
+            <div class="fs-outer">
 
+                <?php include "pgdm-exe-common-fee-structure.php" ?>
+                <!-- Note (reuses the same .pgcs-note pattern/CSS from Course Syllabus) -->
+                <div class="fs-note-wrap">
+                    <div class="pgcs-note">
+                        <h3 class="pgcs-note-heading">Note :</h3>
+                        <ul class="pgcs-note-list">
+                            <li>Students are required to pay an additional Exam Fee of ₹750 per paper and a Project
+                                Evaluation Fee of ₹2,000.</li>
+                        </ul>
+                        <p class="fs-note-subhead">For Installments</p>
+                        <ul class="pgcs-note-list">
+                            <li>First Installment needs to be paid at the time of admission.</li>
+                            <li>Second Installment needs to be paid within 3 months from the date of admission.</li>
+                            <li>Third Installment needs to be paid within 6 months from the date of admission.</li>
+                        </ul>
+                    </div>
+                    <div class="faq-list">
 
+                        <div class="faq-item is-open">
+                            <button class="faq-q" style="background: white;" aria-expanded="false">
+                                <span>Potential Career</span>
+                                <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round" />
+                                </svg>
+                            </button>
+                            <div class="faq-a" style="background: transparent;">
+                                <p class="text-dark">Graduates of the PGDM Executive in Digital Marketing can pursue roles such as:</p>
+                                <ul class="ac-list text-dark">
+                                    <p><strong>Career Opportunities Include:</strong></p>
+                                    <li>Project Coordinator</li>
+                                    <li>Project Scheduler</li>
+                                    <li>Project Manager</li>
+                                    <li>Senior Project Manager</li>
+                                    <li>Project Planner</li>
+                                </ul>
+                                <p>This programme also equips entrepreneurs and startup founders with the skills to scale their businesses through digital platforms.</p>
+                            </div>
                         </div>
+
+                    </div>
+                </div><!-- /fs-note-wrap -->
+
+
+            </div><!-- /fs-outer -->
+        </div>
+    </section>
+
+    <!-- FAQ -->
+
+    <section class="faq-section" id="faq">
+        <div class="container">
+            <h2 class="section-heading">Frequently Asked Questions</h2>
+            <div class="faq-list">
+
+                <div class="faq-item is-open">
+                    <button class="faq-q" aria-expanded="true">
+                        <span>Who is this course ideal for?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>This course is ideal for mid-level professionals, managers, entrepreneurs, and marketing executives who want to enhance their digital marketing expertise while managing their careers.</p>
                     </div>
                 </div>
-            </div>
-        </section>
 
-
-
-        <?php include "3-PGDM-Executive-second-common-fees.php" ?>
-
-
-        <section>
-            <div class="container">
-                <div class="row">
-                    <div class="cur-accordiaon">
-
-                        <div class="accordion curriculum-accordion" id="freQuestions">
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions1" aria-expanded="false" aria-controls="questions1">
-                                        Potential Career
-                                    </button>
-                                </h2>
-                                <div id="questions1" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row fin-feature1">
-                                            <p>Graduates of the PGDM Executive in Digital Marketing can pursue roles
-                                                such as:</p>
-                                            <p><b>Career Opportunities Include:</b></p>
-                                            <ul class="fin-feature2" style="list-style: none;">
-                                                <div class="row">
-                                                    <div class="col-md-6">
-                                                        <li><span class="newright-icon1"></span> Digital Marketing
-                                                            Manager</li>
-                                                        <li><span class="newright-icon1"></span> Brand & Product Manager
-                                                        </li>
-                                                        <li><span class="newright-icon1"></span> Social Media Marketing
-                                                            Lead</li>
-                                                        <li><span class="newright-icon1"></span> SEO/SEM Specialist</li>
-                                                    </div>
-                                                    <div class="col-md-6">
-
-                                                        <li><span class="newright-icon1"></span> Marketing Analytics
-                                                            Manager</li>
-                                                        <li><span class="newright-icon1"></span> Content Strategy
-                                                            Consultant</li>
-                                                        <li><span class="newright-icon1"></span> Digital Transformation
-                                                            Advisor</li>
-                                                        <li><span class="newright-icon1"></span> Business Development &
-                                                            Strategy Manager</li>
-                                                    </div>
-                                                </div>
-                                            </ul>
-                                            <p>
-                                                This programme also equips entrepreneurs and startup founders with the
-                                                skills to scale their businesses through digital platforms.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>What is the duration of the course?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>The course is of 15 months, divided into two semesters.</p>
                     </div>
                 </div>
-            </div>
-        </section>
 
-        <section id="faq">
-
-            <div class="container">
-
-                <div class="row">
-
-                    <div class="cur-accordiaon">
-
-                        <h2 class="fw-bold ">Frequently Asked Questions (FAQs)</h2>
-
-
-
-
-
-                        <div class="accordion curriculum-accordion" id="freQuestions">
-
-                            <div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions12" aria-expanded="false" aria-controls="questions12">
-
-                                        Who is this course ideal for?
-
-
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="questions12" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-
-                                    <div class="accordion-body  hero10">
-
-                                        <div class="row">
-
-                                            <div class="col-md-12 col-lg-12">
-
-                                                <div class="fintech-module alert brandcolor">
-
-
-
-                                                    <p>This course is ideal for mid-level professionals, managers,
-                                                        entrepreneurs, and marketing executives who want to enhance
-                                                        their digital marketing expertise while managing their careers.
-                                                    </p>
-
-
-
-
-                                                </div>
-
-                                            </div>
-
-
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                            <div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions13" aria-expanded="false" aria-controls="questions13">
-
-                                        What is the duration of the course?
-
-
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="questions13" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-
-                                    <div class="accordion-body hero10">
-
-                                        <div class="row">
-
-                                            <div class="col-md-12 col-lg-12">
-
-                                                <div class="fintech-module alert brandcolor">
-
-
-
-
-
-                                                    <p>The course is of 15 months, divided into two semesters.</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                                </div>
-
-                                            </div>
-
-
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                            <div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions14" aria-expanded="false" aria-controls="questions14">
-
-                                        Is this an AICTE-approved programme?
-
-
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="questions14" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-
-                                    <div class="accordion-body hero10">
-
-                                        <div class="row">
-
-                                            <div class="col-md-12 col-lg-12">
-
-                                                <div class="fintech-module alert brandcolor">
-
-
-
-                                                    <p>Yes, the PGDM Executive in Digital Marketing is AICTE-approved,
-                                                        ensuring credibility and nationwide recognition.</p>
-
-
-
-
-
-                                                </div>
-
-                                            </div>
-
-
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                            <div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions15" aria-expanded="false" aria-controls="questions15">
-
-                                        What is the mode of delivery?
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="questions15" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-
-                                    <div class="accordion-body hero10">
-
-                                        <div class="row">
-
-                                            <div class="col-md-12 col-lg-12">
-
-                                                <div class="fintech-module alert brandcolor">
-
-
-
-                                                    <p>The course is completely online and self-paced, accessible
-                                                        through MITSDE’s LMS with recorded lectures and digital study
-                                                        materials.</p>
-
-
-
-
-                                                </div>
-
-                                            </div>
-
-
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                            <div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions23" aria-expanded="false" aria-controls="questions15">
-
-                                        Will I receive placement assistance?
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="questions23" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-
-                                    <div class="accordion-body hero10">
-
-                                        <div class="row">
-
-                                            <div class="col-md-12 col-lg-12">
-
-                                                <div class="fintech-module alert brandcolor">
-
-
-
-                                                    <p>Yes. MITSDE offers placement guidance and career support services
-                                                        for learners, helping them connect with industry opportunities.
-                                                    </p>
-
-
-
-
-                                                </div>
-
-                                            </div>
-
-
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-
-                            <div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions17" aria-expanded="false" aria-controls="questions17">
-
-                                        What are the eligibility criteria?
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="questions17" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-
-                                    <div class="accordion-body hero10">
-
-                                        <div class="row">
-
-                                            <div class="col-md-12 col-lg-12">
-
-                                                <div class="fintech-module alert brandcolor">
-
-
-
-                                                    <p>Graduation in any discipline from a recognized university with a
-                                                        minimum of five years of work experience.</p>
-
-
-
-
-
-                                                </div>
-
-                                            </div>
-
-
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                            <div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions18" aria-expanded="false" aria-controls="questions18">
-
-                                        Are scholarships or discounts available?
-
-
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="questions18" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-
-                                    <div class="accordion-body  hero10">
-
-                                        <div class="row">
-
-                                            <div class="col-md-12 col-lg-12">
-
-                                                <div class="fintech-module alert brandcolor">
-
-
-
-                                                    <p>Yes. Scholarships are available for MIT Group alumni, defence
-                                                        personnel, and differently-abled learners as per MITSDE policy.
-                                                    </p>
-
-
-
-
-                                                </div>
-
-                                            </div>
-
-
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-
-                        </div>
-
-
-
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>Is this an AICTE-approved programme?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>Yes, the PGDM Executive in Digital Marketing is AICTE-approved, ensuring credibility and nationwide recognition.</p>
                     </div>
+                </div>
 
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>What is the mode of delivery?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>The course is completely online and self-paced, accessible through MITSDE’s LMS with recorded lectures and digital study materials.</p>
+                    </div>
+                </div>
 
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>Will I receive placement assistance?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>Yes. MITSDE offers placement guidance and career support services for learners, helping them connect with industry opportunities.</p>
+                    </div>
+                </div>
 
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>What are the eligibility criteria?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>Graduation in any discipline from a recognized university with a minimum of five years of work experience.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>Are scholarships or discounts available?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>Yes. Scholarships are available for MIT Group alumni, defence personnel, and differently-abled learners as per MITSDE policy.</p>
+                    </div>
                 </div>
 
             </div>
+        </div>
+    </section>
 
-        </section>
+    <!-- ═══════════════════════════════════════════════
+       SITE FOOTER
+    ════════════════════════════════════════════════ -->
+    <?php include "footer-new.php" ?>
 
-        <?php include "all-similar-program-all-courses-slider.php" ?>
+    <script>
+        // Specialisation pill switcher
+        (function () {
+            var pills = document.querySelectorAll('.ph-spec-pill');
+            pills.forEach(function (pill) {
+                pill.addEventListener('click', function () {
+                    pills.forEach(function (p) { p.classList.remove('is-active'); });
+                    pill.classList.add('is-active');
+                });
+            });
+        })();
+    </script>
 
-        <?php include "learner-support.php" ?>
-
-    </main>
-    <!-- Footer Start -->
-
-    <?php include "footer.php" ?>
-
-
-    <!-- footer end  -->
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/js/bootstrap-select.min.js"></script>
-    <script src="assets/js/slick.min.js"></script>
-    <script src="assets/js/common.js"></script>
-    <script src="assets/js/course-slider.js"></script>
-
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 
 </html>

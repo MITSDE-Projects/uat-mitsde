@@ -8,33 +8,21 @@
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
     <title>Executive MBA in Human Resource Management</title>
 
-
-    <meta name="description"
-        content="EMBA in HR Management: Develop leadership acumen, optimize talent, and drive organizational success through effective human resource strategies in this executive-level program" />
-
-    <meta name="keywords"
-        content="human resource management, EMBA, executivemba, hr, mitsde, executive program in india, mit pune, emba in india, mba in hr, mba human resource management, online mba human resources, online mba hr programs, online human resources master's degree, masters degree in hr, masters in human resources, human resources masters programs, online hr degree, masters in hr" />
+    <meta name="description" content="EMBA in HR Management: Develop leadership acumen, optimize talent, and drive organizational success through effective human resource strategies in this executive-level program" />
+    <meta name="keywords" content="human resource management, EMBA, executivemba, hr, mitsde, executive program in india, mit pune, emba in india, mba in hr, mba human resource management, online mba human resources, online mba hr programs, online human resources master's degree, masters degree in hr, masters in human resources, human resources masters programs, online hr degree, masters in hr" />
 
     <!-- CANONICAL TAG -->
 
     <link rel="canonical" href="https://mitsde.com/executive-mba-human-resource-management" />
-
-    <!-- CANONICAL TAG -->
-    <?php include "5-common-seo-tag-1.php" ?>
-
-
-
-
+    
     <!-- OGP TAG -->
 
     <meta property="og:title" content="Executive MBA in Human Resource Management">
     <meta property="og:site_name" content="MIT School of Distance Education">
     <meta property="og:url" content="https://mitsde.com/executive-mba-human-resource-management">
-    <meta property="og:description"
-        content="EMBA in HR Management: Develop leadership acumen, optimize talent, and drive organizational success through effective human resource strategies in this executive-level program">
+    <meta property="og:description" content="EMBA in HR Management: Develop leadership acumen, optimize talent, and drive organizational success through effective human resource strategies in this executive-level program">
     <meta property="og:type" content="website">
-    <meta property="og:image"
-        content="https://mitsde.com/assets/images/course/ex-mba/executive-mba-in-human-resource-management.jpg">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/finance-management.webp">
 
 
     <!-- twitter tag -->
@@ -43,45 +31,25 @@
     <meta name="twitter:description"
         content="EMBA in HR Management: Develop leadership acumen, optimize talent, and drive organizational success through effective human resource strategies in this executive-level program">
     <meta name="twitter:image"
-        content="https://mitsde.com/assets/images/course/ex-mba/executive-mba-in-human-resource-management.jpg">
+        content="https://mitsde.com/assets-new/images/finance-management.webp">
     <meta name="twitter:image:alt" content="Executive MBA in Human Resource Management">
 
 
     <!-- / OG TAG -->
+    <link rel="icon" type="image/png" href="assets-new/images/favicon-mit.ico" />
 
-
-    <link rel="icon" type="image/png" href="assets/images/favicon-mit.ico" />
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="assets/css/bootstrap-select.min.css" />
-    <!-- font awesome css -->
-    <link rel="stylesheet" href="assets/fontawesome/css/all.min.css">
-    <!-- Preload CSS (Non-blocking) -->
-    <link rel="preload" href="assets/css/slick.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <link rel="preload" href="assets/css/fonts.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <link rel="preload" href="assets/css/style.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <link rel="preload" href="assets/css/course-common-internal.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-
-
-    <!-- Fallback (Loads CSS if JS disabled) -->
-    <noscript>
-        <link rel="stylesheet" href="assets/css/slick.min.css">
-        <link rel="stylesheet" href="assets/css/fonts.css">
-        <link rel="stylesheet" href="assets/css/style.css">
-        <link rel="stylesheet" href="assets/css/course-common-internal.css">
-
-    </noscript>
-    <!--API for Queck contact----->
-    <script src="assets/js/api/jquery-1.10.2.min.js"></script>
-    <script type="text/javascript" src="assets/js/api/validation.js" charset="UTF-8"></script>
-    <!----->
-
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="css-new/styles.css" />
+    <link rel="stylesheet" href="css-new/intlTelInput.css">
 
     <script type="application/ld+json">
         {
             "@context": "https://schema.org/",
             "@type": "Product",
             "name": "Executive MBA in Human Resource Management | Online EMBA",
-            "image": "https://mitsde.com/assets/images/course/ex-mba/executive-mba-in-human-resource-management.jpg",
+            "image": "https://mitsde.com/assets-new/images/finance-management.webp",
             "description": "EMBA in HR Management: Develop leadership acumen, optimize talent, and drive organizational success through effective human resource strategies in this executive-level program",
             "brand": {
                 "@type": "Brand",
@@ -107,183 +75,303 @@
     </script>
 
     <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://mitsde.com/"
-    },
-     {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Executive MBA",
-      "item": "https://mitsde.com/executive-mba"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "EMBA in Human Resource Management",
-      "item": "https://mitsde.com/executive-mba-human-resource-management"
-    }
-  ]
-}
-</script>
+        {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://mitsde.com/"
+            },
+            {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Executive MBA",
+            "item": "https://mitsde.com/executive-mba"
+            },
+            {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "EMBA in Human Resource Management",
+            "item": "https://mitsde.com/executive-mba-human-resource-management"
+            }
+        ]
+        }
+    </script>
 
-
+<?php include "5-common-seo-tag-1.php" ?>
 </head>
 
 <body>
-    <?php include "5-common-seo-tag-2.php" ?>
-    <!-- Header Nav Start -->
-    <?php include "header.php" ?>
-    <!-- Header Nav End --->
-    <main class="main-body">
-        <?php include "announcementUpdate.php" ?>
-        <section class="banner inner-banner">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 col-lg-6 main-banner">
-                        <div class="row align-items-center">
-                            <!-- Logo Column -->
-                            <div class="col-4 col-md-4 col-lg-4">
-                                <img src="assets/images/common-images/avantika.svg" alt="Avantika Logo"
-                                    class="img-fluid">
-                            </div>
+  <?php include "5-common-seo-tag-2.php" ?>
+    <?php include "header-new.php" ?>
 
-                            <!-- Heading Column -->
-                            <div class="col-8 col-md-8 col-lg-8">
-                                <h1 class="mb-0">EMBA in Human Resource Management</h1>
-                            </div>
-                        </div>
+    <!-- ═══════════════════════════════════════════════
+       PROGRAM HERO
+       Reusable .ph-* classes — replicate for every
+       program detail page, only swap heading + pills.
+    ════════════════════════════════════════════════ -->
+    <section class="hero ph-hero">
 
-                        <p>Lead People, Drive Change — Build a Stronger Workforce <br>MIT Pune Campus at Ujjain </p>
+        <!-- Breadcrumb — outside container, full-width white strip -->
+        <nav class="page-breadcrumb" aria-label="Breadcrumb">
+            <span class="pb-line"></span>
+            <a href="index.php">Home</a>
+            <span class="pb-sep">/</span>
+            <span>Executive MBA</span>
+            <span class="pb-sep">/</span>
+            <span class="pb-current">Executive MBA in Human Resource Management</span>
+        </nav>
 
-                        <div class="page-btn">
+        <div class="container">
 
+            <!-- 3-column layout: left content | center image | right form -->
+            <div class="ph-layout py-5">
 
-                            <button type="button" class="btn btn-primary mit-button cus-btn inner-cus ms-0"
-                                data-bs-toggle="modal" data-bs-target="#enquiryModal-download-form"><span
-                                    class="mtsk-download"></span> &nbsp; Download BROCHURE
-                            </button>
-
-                        </div>
-                        <div>
-                            <nav>
-                                <ol class="breadcrumb">
-                                    <li class="breadcrumb-item"><a href=" https://mitsde.com">Home</a>
-                                    </li>
-                                    <li class="breadcrumb-item"><a href="executive-mba">Executive MBA</a></li>
-                                    <li class="breadcrumb-item active text-capitalize" aria-current="page">Executive MBA
-                                        in human resource management
-                                    </li>
-
-                            </nav>
-
-
-                        </div>
-
-                    </div>
-                    <div class="col-md-12 col-lg-6">
-                        <div class="css-details">
-                            <div class="stc-det student-sec inner-sec">
-                                <img src="assets/images/course/ex-mba/Human-Resource-Management_Icon-1.jpg">
-                            </div>
-                            <img src="assets/images/course/ex-mba/executive-mba-in-human-resource-management.jpg"
-                                class="Human-Resource-Management" fetchpriority="high" alt="executive-mba-in-human-resource-management">
-                            <div class="stc-det course-sec inner-sec">
-                                <img src="assets/images/course/ex-mba/Human-Resource-Management_Icon-2.jpg">
-                            </div>
-                        </div>
+                <!-- Left — heading + partner -->
+                <div class="ph-left">
+                    <h1 class="ph-heading">EMBA in Human Resource Management</h1>
+                    <div class="ph-sub">
+                        <img src="assets-new/images/avantika-logo.png" alt="Avantika-logo" />
+                        <div class="vertical-divider-3"></div>
+                        <p>MIT Pune Campus at Ujjain</p>
                     </div>
                 </div>
-            </div>
-        </section>
 
-        <?php include "6-common-Executive-mba-common-fees-1.php" ?>
-
-        <section class="app-featurelist">
-            <div class="container">
-                <div class="row">
-                    <ul class="app-features">
-                        <li><a class="active" href="#overview">About Course</a></li>
-                        <li><a href="#curriculam">Course Syllbus</a></li>
-
-
-                        <li><a href="#progressFee">Program Fees</a></li>
-                        <!-- <li><a href="#learnExpert">Our Courses</a></li> -->
-                    </ul>
+                <!-- Center — hero image -->
+                <div class="ph-right">
+                    <img src="assets-new/images/finance-management.webp" alt="Human Resource Management Image" />
                 </div>
-            </div>
-        </section>
 
-        <section id="overview" class="skill-story pb-0" style="background:white;">
-            <div class="container">
-                <div class="text-center mb-4">
-                    <h2 class="fw-bold">About The Program</h2>
+                <!-- Right — registration form card -->
+                <!-- <div class="ph-right">
+                    <div class="contact-form">
 
-                </div>
-                <div class="row">
-
-                    <div class="col-md-12 col-lg-7 with-decades">
-                        <p align="justify">
-                            The <b>Executive MBA in HR Management</b> is a specialized <b>MBA Executive program</b>
-                            designed for professionals seeking to lead strategic people operations in modern
-                            organizations. This industry-relevant curriculum blends <b>human resource management</b>
-                            principles with behavioral sciences, economics, and data-driven HR strategies.
-                        </p>
-
-                        <p align="justify">
-                            The program provides advanced training in talent acquisition, employee relations,
-                            organizational development, and <b>HR analytics</b>. Participants will learn how to design
-                            effective people strategies, foster inclusive workplace cultures, and align human capital
-                            with business goals. With a strong focus on real-world application, this <b>MBA in Human
-                                Resource Management</b> equips you to drive workforce transformation and elevate
-                            organizational performance.
-                        </p>
-                        <p align="justify">
-                            Ideal for working professionals, this flexible <b>Executive MBA course</b> enables learners
-                            to balance career growth with continuous education, opening doors to leadership roles in HR
-                            across industries.
-                        </p>
+                        <?php //include "home-get-in-touch-form-new.php" ?>
 
                     </div>
+                </div> -->
 
+            </div><!-- /ph-layout -->
 
+            <!-- Specialisation filter pills -->
+            <div class="ph-specs-wrap">
+                <div class="ph-specs">
+                    <a href="executive-mba-in-project-management"><button class="ph-spec-pill">Project Management</button></a>
+                    <a href="executive-mba-in-operations"><button class="ph-spec-pill">Operations Management</button></a>
+                    <a href="executive-mba-human-resource-management"><button class="ph-spec-pill is-active">Human Resource Management</button></a>
+                    <a href="executive-mba-finance-management"><button class="ph-spec-pill">Finance Management</button></a>
+                    <a href="executive-mba-in-international-business"><button class="ph-spec-pill">International Business</button></a>
+                    <a href="executive-mba-in-supply-chain-management"><button class="ph-spec-pill">Supply Chain Management</button></a>
+                    <a href="executive-mba-marketing"><button class="ph-spec-pill">Marketing Management</button></a>
+                    <a href="executive-mba-in-business-analytics-and-ai"><button class="ph-spec-pill">Business Analytics and AI</button></a>
+                </div>
+                <p class="ph-specs-hint">Select a category above to explore all available specializations, fees,
+                    duration, and learning outcomes.</p>
+            </div>
 
-                    <?php include "executive-mba-common-form.php" ?>
+        </div>
+    </section>
 
+    <script>
+        // Specialisation pill switcher
+        (function () {
+            var pills = document.querySelectorAll('.ph-spec-pill');
+            pills.forEach(function (pill) {
+                pill.addEventListener('click', function () {
+                    pills.forEach(function (p) { p.classList.remove('is-active'); });
+                    pill.classList.add('is-active');
+                });
+            });
+        })();
+    </script>
 
+    <!-- ═══════════════════════════════════════════════
+       COURSE INFO BAR
+    ════════════════════════════════════════════════ -->
+    <?php include "executive-mba-common-fee-bar.php" ?>
+
+    <!-- About Section -->
+
+    <section class="about-section">
+
+        <div class="container">
+
+            <!-- Heading -->
+            <div class="mb-5">
+
+                <h2 class="section-heading">
+                    <span class="text-orange">About </span>the Programme
+                </h2>
+
+                <p>
+                    The Executive MBA in HR Management is a specialized MBA Executive program designed for professionals
+                    seeking to lead strategic people operations in modern organizations. This industry-relevant
+                    curriculum blends human resource management principles with behavioral sciences, economics, and
+                    data-driven HR strategies.
+                </p>
+
+                <p>
+                    The program provides advanced training in talent acquisition, employee relations, organizational
+                    development, and HR analytics. Participants will learn how to design effective people strategies,
+                    foster inclusive workplace cultures, and align human capital with business goals. With a strong
+                    focus on real-world application, this MBA in Human Resource Management equips you to drive workforce
+                    transformation and elevate organizational performance.
+                </p>
+                <p>
+                    Ideal for working professionals, this flexible Executive MBA course enables learners to balance
+                    career growth with continuous education, opening doors to leadership roles in HR across industries.
+                </p>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- ── Section: Course Syllabus ── -->
+    <?php include "executive-mba-common-course-structure.php" ?>
+
+    <!-- ═══════════════════════════════════════════════
+       FEE STRUCTURE
+    ════════════════════════════════════════════════ -->
+    <?php include "executive-mba-common-fee-structure.php" ?>
+
+    <!-- FAQ -->
+
+    <section class="faq-section">
+        <div class="container">
+            <h2 class="section-heading">Frequently Asked Questions</h2>
+            <div class="faq-list">
+
+                <div class="faq-item is-open">
+                    <button class="faq-q" aria-expanded="true">
+                        <span>What sets an Executive MBA apart from a regular MBA?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>An Executive MBA is designed for working professionals with experience, focusing more on
+                            leadership, strategy, and real-world application—while a regular MBA is typically suited for
+                            early-career individuals building foundational knowledge.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>Who is this programme best suited for?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>This programme is ideal for mid-to-senior-level working professionals seeking to accelerate
+                            their career growth, develop strategic leadership skills, and gain a globally-recognised
+                            management qualification without pausing their careers.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>Can I continue working while pursuing this programme?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>Yes. The Executive MBA is structured for working professionals with a blended learning
+                            format—online sessions, weekend modules, and short on-campus immersions—so you can continue
+                            in your current role throughout the programme.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>What specialisations can I choose from?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>Specialisations include Finance Management, HR Management, Marketing Management, Operations
+                            Management, Project Management, Business Analytics & AI, Logistics and Supply Chain
+                            Management, Material Management, and more.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>How long does the programme typically take?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>The programme is typically 24 months (4 semesters) in duration, structured to balance
+                            professional commitments with rigorous academic learning.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>How is the programme delivered?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>The programme follows a blended learning model — a combination of live online classes,
+                            self-paced learning modules, and periodic offline contact sessions at the Avantika
+                            University campus in Ujjain.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>What is the investment required for the programme?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>The total programme fee is ₹1,80,000 (payable as ₹45,000 per semester). EMI and scholarship
+                            options are available. Contact our counselling team for personalised fee guidance.</p>
+                    </div>
                 </div>
 
             </div>
-        </section>
+        </div>
+    </section>
 
+    <!-- ═══════════════════════════════════════════════
+       SITE FOOTER
+    ════════════════════════════════════════════════ -->
+    <?php include "footer-new.php" ?>
 
-        <?php include "6-common-Executive-mba-common-fees-2.php" ?>
-
-        <?php //include "all-similar-program-all-courses-slider.php" 
-        ?>
-
-        <?php include "learner-support.php" ?>
-
-    </main>
-    <!-- Footer Start -->
-
-    <?php include "footer.php" ?>
-
-
-    <!-- footer end  -->
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/js/bootstrap-select.min.js"></script>
-    <script src="assets/js/slick.min.js"></script>
-    <script src="assets/js/common.js"></script>
-    <script src="assets/js/course-slider.js"></script>
-
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        new Swiper('.spec-swiper', {
+            slidesPerView: 3.5,
+            spaceBetween: 16,
+            pagination: { el: '.spec-pagination', clickable: true },
+            breakpoints: {
+                0: { slidesPerView: 1.2, spaceBetween: 12 },
+                576: { slidesPerView: 2.2, spaceBetween: 14 },
+                992: { slidesPerView: 3.5, spaceBetween: 16 }
+            }
+        });
+    </script>
 </body>
 
 </html>

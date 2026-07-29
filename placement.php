@@ -17,9 +17,6 @@
 
     <link rel="canonical" href="https://mitsde.com/placement" />
 
-    <!-- CANONICAL TAG -->
-    <?php include "5-common-seo-tag-1.php"?>
-
     <!-- OGP TAG -->
 
     <meta property="og:title" content="Distance Learning MBA - PGDM courses With 100% Placement | MITSDE">
@@ -28,511 +25,232 @@
     <meta property="og:description"
         content="MIT School of Distance Education provides 100% placement support to the students and industry connect facility for career enhancement.">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/assets/images/course/common/Placements.jpg">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/placement.webp">
 
     <!-- / OG TAG -->
-    <!-- Page Title -->
-    <link rel="icon" type="image/png" href="assets/images/favicon-mit.ico" />
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="assets/css/bootstrap-select.min.css" />
-    <link rel="stylesheet" href="assets/css/slick.min.css" />
-    <link rel="stylesheet" href="assets/css/fonts.css" type="text/css" />
-    <link rel="stylesheet" href="assets/css/style.css" type="text/css" />
-    <link rel="stylesheet" href="assets/fontawesome/css/all.min.css" type="text/css">
-    <link rel="stylesheet" href="assets/css/course-common-internal.css" type="text/css" />
-    <style>
-    .parent {
-        display: grid;
-        grid-template-columns: repeat(1, 1fr);
-        grid-template-rows: repeat(5, 1fr);
-        grid-column-gap: 22px;
-        grid-row-gap: 22px;
 
-    }
-
-    @media (min-width: 576px) {
-        .parent {
-            grid-template-columns: repeat(3, 1fr);
-            /* Show two columns */
-            grid-template-rows: repeat(5, 1fr);
-            /* Adjust rows as needed */
-        }
-    }
-    </style>
-    <!-- <link rel="stylesheet" href="assets/css/harbour.css" type="text/css" /> -->
-    <!--API for Queck contact----->
-    <script src="assets/js/api/jquery-1.10.2.min.js"></script>
-    <script type="text/javascript" src="assets/js/api/validation.js" charset="UTF-8"></script>
-    <!----->
-
+    <!--  -->
+    <link rel="icon" type="image/png" href="assets-new/images/favicon-mit.ico" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="css-new/styles.css" />
+    <link rel="stylesheet" href="css-new/intlTelInput.css">
+<?php include "5-common-seo-tag-1.php" ?>
 </head>
 
 <body>
-    <?php include "5-common-seo-tag-2.php"?>
-    <!-- Header Nav Start -->
-    <?php include "header.php"?>
-    <!-- Header Nav End --->
-    <main class="main-body">
-        <section class="banner inner-banner">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 col-lg-6 main-banner">
-                        <h1>Placements</h1>
+  <?php include "5-common-seo-tag-2.php" ?>
+    <?php include "header-new.php" ?>
 
-                        <div class="page-btn mt-3">
+    <!-- ═══════════════════════════════════════════════
+       PROGRAM HERO
+       Reusable .ph-* classes — replicate for every
+       program detail page, only swap heading + pills.
+    ════════════════════════════════════════════════ -->
+    <section class="hero ph-hero">
 
-
-                            <button type="button" class="btn btn-primary mit-button cus-btn inner-cus ms-0"
-                                data-bs-toggle="modal" data-bs-target="#enquiryModal-download-form"><span
-                                    class="mtsk-download"></span> &nbsp; Download BROCHURE
-                            </button>
-
-
-                        </div>
-                        <nav>
-
-                            <ol class="breadcrumb">
-                                <li class="breadcrumb-item"><a href="https://mitsde.com">Home</a></li>
-                                <li class="breadcrumb-item active" aria-current="page">Placements</li>
-                            </ol>
-                        </nav>
-                    </div>
-                    <div class="col-md-12 col-lg-6">
-                        <div class="css-details">
-                            <div class="stc-det student-sec inner-sec">
-                                <img src="assets/images/progress.svg" alt="Progress indicator icon">
-                            </div>
-                            <img src="assets/images/course/common/Placements.jpg" class="banner-img" alt="Placements">
-                            <div class="stc-det course-sec inner-sec">
-                                <img src="assets/images/walet.svg" alt="Wallet icon for payment">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-
-
-
-
-
-        <section id="curriculam" class="enroll-certification">
-            <div class="container">
-                <h2><strong>Placements </strong></h2>
-                <div class="row fin-feature hero11">
-                    <p align="justify">One of the TOP Online Institutions in India, MITSDE offers All India Council for
-                        Technical Education (AICTE) Govt. of India-approved Post Graduate Programs with specializations
-                        in various domains namely Marketing, Finance, Human resources, Operations, Information
-                        Technology, Business Analytics, Digital Marketing Logistics and Supply Chain, and Project
-                        Management. We also impart upskilling/reskilling programs on UI/UX, AI in Digital Marketing,
-                        Data Science, Machine Learning and a few more new-age programs.
-                    </p>
-                    <p align="justify">All the programs are curated as per Industry practices and Global standards for
-                        the ever-evolving business. The curriculum is updated regularly in association with Institutes
-                        and Industries of global repute like PMI, ASCM, HBP, KPMG, TCS ION, etc. considering the
-                        fast-evolving management practices, industry requirements, changes in the business environment,
-                        and technological disruptions.</p>
-
-                    <p align="justify">Our Corporate Partnerships and Strategic Alliances with Industries felicitate and
-                        leverage Job and Internship Opportunities in all Domains, for our Learners. The pool of our
-                        learners has varied Graduation backgrounds like Engineering, Management, Commerce, etc., and
-                        look for opportunities to enhance their knowledge and career progressions. The key feature of
-                        MIT School of Distance Education is that our learners receive Placement Opportunities through
-                        our dedicated Web Portal regularly during their final semester and when they are passed out of
-                        the Institution as Alumni, also.</p>
-                </div>
-                <hr>
-
-
-            </div>
-        </section>
-
-        <section>
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 d-flex justify-content-center">
-                        <img src="./assets/images/course/placement/logo-new-added-2025-feb-27.png" width="100%" class="img-responsive"
-                            alt="mitsde lab">
-                    </div>
-                </div>
-            </div>
-        </section>
+        <!-- Breadcrumb — outside container, full-width white strip -->
+        <nav class="page-breadcrumb" aria-label="Breadcrumb">
+            <span class="pb-line"></span>
+            <a href="index.php">Home</a>
+            <span class="pb-sep">/</span>
+            <span class="pb-current">Placements</span>
+        </nav>
 
         <div class="container">
-            <div class="cer-slider">
-                <h2>Our Student's Work Here
 
+            <!-- 3-column layout: left content | center image | right form -->
+            <div class="ph-layout py-5">
+
+                <!-- Left — heading + partner -->
+                <div class="ph-left">
+                    <h1 class="ph-heading">Placements<p class="text-small mt-2">Launch your career with real-world impact.</p>
+                    </h1>
+                </div>
+
+                <!-- Center — hero image -->
+                <div class="ph-right">
+                    <img src="assets-new/images/placement.webp" alt="Placements Image" />
+                </div>
+
+                <!-- Right — registration form card -->
+                <!-- <div class="ph-right">
+                    <div class="contact-form">
+
+                        <?php //include "home-get-in-touch-form-new.php" ?>
+
+                    </div>
+                </div> -->
+
+            </div><!-- /ph-layout -->
+
+        </div>
+    </section>
+
+    <!-- About Section -->
+
+    <!-- ── Section: Programs Designed for AI-Powered Leaders ── -->
+    <section class="about-section">
+
+        <div class="container">
+
+            <!-- Heading -->
+            <div class="mb-5">
+
+                <!-- <h2 class="section-heading">
+                    <span class="text-orange">About </span>the Programme
+                </h2> -->
+
+                <p>
+                    At MITSDE, placements are approached as an ongoing pathway—not a one-time outcome. 
+                    As a recognised institution offering AICTE-approved postgraduate programmes, 
+                    we cover a wide range of domains including Marketing, Finance, HR, Operations, IT, 
+                    Business Analytics, Digital Marketing, Supply Chain, and Project Management, 
+                    along with new-age programmes in UI/UX, AI, Data Science, and Machine Learning.
+                </p>
+
+                <!-- <p>
+                    <b>Screening & Shortlisting</b>
+                </p> -->
+                <p>
+                    The learning experience is shaped by industry relevance and global standards, 
+                    with the curriculum continuously refined in collaboration with organisations such as PMI, 
+                    ASCM, HBP, KPMG, and TCS iON—ensuring it evolves alongside changing business and technology landscapes.<br>
+                    Supported by strong corporate partnerships, learners gain access to curated job and internship opportunities across industries. 
+                    Through a dedicated placement portal, these opportunities remain accessible during the programme and beyond—allowing you to stay connected to career possibilities even as you progress in your professional journey.
+                </p>
+
+            </div>
+        </div>
+    </section>
+
+            <hr>
+
+            <!-- =========================
+     10M+ Learners Section
+========================= -->
+<section class="placement-learners py-5">
+    <div class="container">
+        <div class="row align-items-center">
+
+            <!-- Left Content -->
+            <div class="col-lg-3 col-md-4 col-sm-12 mb-4 mb-lg-0">
+                <h2 class="learners-heading">
+                    <span>10M+</span><br>
+                    Learners
                 </h2>
+
+                <p class="learners-text">
+                    have advanced their careers through our placement support
+                </p>
             </div>
 
-            <div class="parent">
-                <!-- 2025 -->
-                <div class="card">
-                    <img src="./assets/images/course/placement/2025/Jayesh-Vijay-Shinde.jpg" alt="Placement">
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/2025/01-Kruti-Paranjpe.jpg" alt="Placement">
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/2025/02-Bablu-Yadav.jpg" alt="Placement">
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/2025/05-Akshaya-Adepu.jpg" alt="Placement">
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/2025/04-Chandan-Paul.jpg" alt="Placement">
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/2025/06-Anurita-Ghosh.jpg" alt="Placement">
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/2025/15-Anup-Vaidya.jpg" alt="Placement">
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/2025/03-Balireddy-Markenday.jpg" alt="Placement">
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/2025/09-Sameer-Bandre.jpg" alt="Placement">
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/2025/12-Ashutosh-Dhananjay-Shitole.jpg" alt="Placement">
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/2025/14-Jay-Kadgi.jpg" alt="Placement">
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/2025/11-Yashwant-Kumar.jpg" alt="Placement">
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/2025/13-Anurag-Kolachana.jpg" alt="Placement">
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/2025/08-Mahika-Arora.jpg" alt="Placement">
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/2025/16-Patil-Lokesh-Prakash.jpg" alt="Placement">
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/2025/10-Sanjana-Mashalkar.jpg" alt="Placement">
-                </div>
-              
-                <!-- 2024 -->
-                <!-- 2024 -->
-                <!-- aug -->
-                <div class="card">
-                    <img src="./assets/images/course/placement/2024/aug/01-Neha-Pathak.jpg" alt="Placement">
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/2024/aug/02-Pushkar-Sudhakar-Aghav.jpg" alt="Placement">
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/2024/aug/03-Rutvik-Mane.jpg" alt="Placement">
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/2024/aug/04-Snehal-Anant-Shewale.jpg" alt="Placement">
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/2024/aug/05-Vipul-Bhaware.jpg" alt="Placement">
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/2024/aug/06-Chetan-Raj-Singh.jpg" alt="Placement">
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/2024/aug/07-Namrata-Das.jpg" alt="Placement">
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/2024/aug/08-Vivek-Sampat-Nehe.jpg" alt="Placement">
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/2024/aug/09-Mahima-Mugutmal.jpg" alt="Placement">
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/2024/aug/10-Sanjana-Mahindrakar.jpg" alt="Placement">
-                </div>
-                <!-- aug -->
-                <!-- new -->
-                <div class="card">
-                    <img src="./assets/images/course/placement/2024/Sakshi-Kakade-17.jpg" alt="Placement">
+            <!-- Right Content -->
+            <div class="col-lg-9 col-md-8 col-sm-12">
 
+                <?php
+                // Replace these demo filenames after uploading the six individual learner-card images.
+                $placementLearners = [
+                    ['image' => 'placement-img-1.jpg', 'name' => 'Jayesh Shinde', 'role' => 'Relationship Trainee'],
+                    ['image' => 'placement-img-2.jpg', 'name' => 'Kruti Paranjpe', 'role' => 'Flight Support Executive'],
+                    ['image' => 'placement-img-3.jpg', 'name' => 'Jayesh Shinde', 'role' => 'Relationship Trainee'],
+                    ['image' => 'placement-img-4.jpg', 'name' => 'Jayesh Shinde', 'role' => 'Relationship Trainee'],
+                    ['image' => 'placement-img-5.jpg', 'name' => 'Jayesh Shinde', 'role' => 'Relationship Trainee'],
+                    ['image' => 'placement-img-6.jpg', 'name' => 'Jayesh Shinde', 'role' => 'Relationship Trainee'],
+                ];
+                ?>
+
+                <div class="placement-carousel" aria-label="Learner placement stories">
+                    <div class="placement-carousel-track">
+                        <?php for ($repeat = 0; $repeat < 2; $repeat++): ?>
+                            <?php foreach ($placementLearners as $learner): ?>
+                                <article class="placement-profile-card"<?php if ($repeat === 1): ?> aria-hidden="true"<?php endif; ?>>
+                                    <img
+                                        src="assets-new/images/<?php echo htmlspecialchars($learner['image']); ?>"
+                                        alt="<?php echo htmlspecialchars($learner['name']); ?>"
+                                        class="placement-profile-image"
+                                    >
+                                    <div class="placement-profile-copy">
+                                        <h6><?php echo htmlspecialchars($learner['name']); ?></h6>
+                                        <p><?php echo htmlspecialchars($learner['role']); ?></p>
+                                    </div>
+                                </article>
+                            <?php endforeach; ?>
+                        <?php endfor; ?>
+                    </div>
                 </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/2024/Shweta-Shendge-18.jpg" alt="Placement">
-
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/2024/Abhishek-Kumar-Kushwaha19.jpg" alt="Placement">
-
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/2024/Rajat-Rajendra-Bhilare-Placement-20.jpg"
-                        alt="Placement">
-
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/2024/Viraj-Sunil-Kale-21.jpg" alt="Placement">
-
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/2024/Dev-Ratan-Kumar-22.jpg" alt="Placement">
-
-                </div>
-                <!-- new -->
-                <div class="card">
-                    <img src="./assets/images/course/placement/2024/01-Merlin-Ann-Mathew.jpg" alt="Placement">
-
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/2024/02-Umarani-M-Pawar.jpg" alt="Placement">
-
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/2024/11-Pratik-Baviskar.jpg" alt="Placement">
-
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/2024/12-Shashwat-shukla.jpg" alt="Placement">
-
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/2024/13-Omkar-Pawar.jpg" alt="Placement">
-
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/2024/15-Sonar-Sumit-Jayvant.jpg" alt="Placement">
-
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/2024/16-Barkha.jpg" alt="Placement">
-
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/2024/14-Shreya-Biswas.jpg" alt="Placement">
-
-                </div>
-
-
-
-                <!-- 2024 -->
-                <div class="card">
-                    <img src="./assets/images/course/placement/Archies-Kulkarni.jpg" alt="Placement">
-
-                </div>
-
-                <div class="card">
-                    <img src="./assets/images/course/placement/Sania-Zakir-Hussain-Datey.jpg" alt="Placement "
-                        class="card-img-top">
-
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/2024/03-Dhiresh-Seta.jpg" alt="Placement">
-
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/2024/04-Nisha-Marda.jpg" alt="Placement">
-
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/2024/05-Parigha-Vijay-Paygude.jpg" alt="Placement">
-
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/2024/06-Jatin-Kumar-Gupta.jpg" alt="Placement">
-
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/2024/07-Rahul-R.jpg" alt="Placement">
-
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/2024/08-Kalyani-Mahajan.jpg" alt="Placement">
-
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/2024/09-Rishabh-Kumar.jpg" alt="Placement">
-
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/2024/10-Akshay-Rajeshrao-Jumale.jpg" alt="Placement">
-
-                </div>
-
-
-
-                <div class="card">
-                    <img src="./assets/images/course/placement/Akanksha-Kumbhar.jpg" alt="Placement ">
-
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/Neeloy-Pranab-Howlader.jpg" alt="Placement "
-                        class="card-img-top">
-
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/Pallavi-Balvant-Andhare.jpg" alt="Placement "
-                        class="card-img-top">
-
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/Gunjal-Vaishnavi-Balkrishna.jpg" alt="Placement "
-                        class="card-img-top">
-                </div>
-
-
-                <div class="card">
-                    <img src="./assets/images/course/placement/Parul-Rajesh-Agrawal.jpg" alt="Placement "
-                        class="card-img-top">
-
-                </div>
-                <!--  -->
-
-                <div class="card">
-                    <img src="./assets/images/course/placement/Supriya-Chetankumar-Salunkhe.jpg" alt="Placement "
-                        class="card-img-top">
-
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/Darshan-Sanjeev-Sonawane.jpg" alt="Placement "
-                        class="card-img-top">
-
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/Anirudh-Sharma.jpg" alt="Placement "
-                        class="card-img-top">
-
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/mane.jpg" alt="Placement  " class="card-img-top">
-
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/Sathe.jpg" alt="Placement " class="card-img-top">
-
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/mahaling.jpg" alt="Placement " class="card-img-top">
-
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/ghadage.jpg" alt="Placement " class="card-img-top">
-
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/barangule-aniket-ramesh.jpg" alt="Placement "
-                        class="card-img-top">
-
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/Naik-Ambiya-Raju-(1).jpg" alt="Placement "
-                        class="card-img-top">
-
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/Udawant-Gauri-Ashok.jpg" alt="Placement "
-                        class="card-img-top">
-
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/Abhijit.jpg" alt="Placement " class="card-img-top">
-
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/Kulkarni.jpg" alt="Placement " class="card-img-top">
-
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/Lamb-Abhijit-Mohan.jpg" alt="Placement "
-                        class="card-img-top">
-
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/Khalokar-Sushant-Ajay-.jpg" alt="Placement "
-                        class="card-img-top">
-
-                </div>
-
-                <div class="card">
-                    <img src="./assets/images/course/placement/Sonal-Patil.jpg" alt="Placement " class="card-img-top">
-
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/Halpani.jpg" alt="Placement " class="card-img-top">
-
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/Pai-Sudhanshu-Anant_new.jpg" alt="Placement "
-                        class="card-img-top">
-
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/Gangurde-Prashik-Siddhartha_new.jpg" alt="Placement "
-                        class="card-img-top">
-
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/1new1.jpg" alt="Placement " class="card-img-top">
-
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/2new1.jpg" alt="Placement " class="card-img-top">
-
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/3new1.jpg" alt="Placement " class="card-img-top">
-
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/Plecement_New_SiddhaliP.jpg" alt="Placement "
-                        class="card-img-top">
-
-                </div>
-                <div class="card">
-                    <img src="./assets/images/course/placement/Plecement_New_Rohit_Todkar.jpg" alt="Placement "
-                        class="card-img-top">
-
-                </div>
-
 
             </div>
 
         </div>
+    </div>
+</section>
 
-
-        <section>
+        <section class="top-recruiters" aria-labelledby="top-recruiters-title">
             <div class="container">
-                <div class="row">
-                    <div class="col-md-12 d-flex justify-content-center">
-                        <img src="./assets/images/course/placement/logoTable.jpg" width="100%" class="img-responsive"
-                            alt="mitsde lab">
+            <div class="top-recruiters-panel">
+                <img
+                    src="assets-new/images/top-recruiters-bg.jpg"
+                    alt=""
+                    class="top-recruiters-overlay"
+                    aria-hidden="true"
+                >
+
+                <div class="top-recruiters-content">
+                    <h2 id="top-recruiters-title">Top recruiters</h2>
+
+                    <?php
+                    // Replace these demo filenames after uploading the individual company-logo images.
+                    $topRecruiters = [
+                        ['logo' => 'deloitte-logo.png', 'name' => 'Deloitte'],
+                        ['logo' => 'tcs-logo.png', 'name' => 'TCS'],
+                        ['logo' => 'amazon-logo.png', 'name' => 'Amazon'],
+                        ['logo' => 'accenture-logo.png', 'name' => 'Accenture'],
+                        ['logo' => 'mercedes-logo.png', 'name' => 'Mercedes-Benz'],
+                        ['logo' => 'wipro-logo.png', 'name' => 'Wipro'],
+                        ['logo' => 'ibm-logo.png', 'name' => 'IBM'],
+                        ['logo' => 'ignitarium-logo.png', 'name' => 'Ignitarium'],
+                        ['logo' => 'prodesk-logo.png', 'name' => 'Prodesk'],
+                        ['logo' => 'vodafone-logo.png', 'name' => 'Vodafone'],
+                        ['logo' => 'kotak-logo.png', 'name' => 'Kotak Mahindra Bank'],
+                        ['logo' => 'flipkart-logo.png', 'name' => 'Flipkart'],
+                        ['logo' => 'star-health-logo.png', 'name' => 'STAR Health Insurance'],
+                        ['logo' => 'persistent-logo.png', 'name' => 'Persistent'],
+                        ['logo' => 'genpact-logo.png', 'name' => 'Genpact'],
+                        ['logo' => 'jk-tyre-logo.png', 'name' => 'JK Tyre'],
+                        ['logo' => 'sbi-logo.png', 'name' => 'SBI Securities'],
+                        ['logo' => 'john-deere-logo.png', 'name' => 'John Deere'],
+                        ['logo' => 'british-council-logo.png', 'name' => 'British Council'],
+                        ['logo' => 'rupeek-logo.png', 'name' => 'Rupeek'],
+                    ];
+                    ?>
+
+                    <div class="top-recruiters-grid">
+                        <?php foreach ($topRecruiters as $recruiter): ?>
+                            <div class="top-recruiter-logo-card">
+                                <img
+                                    src="assets-new/images/logos/<?php echo htmlspecialchars($recruiter['logo']); ?>"
+                                    alt="<?php echo htmlspecialchars($recruiter['name']); ?>"
+                                >
+                            </div>
+                        <?php endforeach; ?>
                     </div>
                 </div>
-                <blockquote>
-                    <p style="color:#f47521; font-size:20px;"><i
-                            class="fa fa-quote-left fa-1x fa-pull-left flip fa-border"></i>A MITSDE qualification is an
-                        investment in your future; a qualification you will have – and be proud to have - for the rest
-                        of your life.</p>
-                </blockquote>
             </div>
+            </div>
+
         </section>
 
 
+    <!-- ═══════════════════════════════════════════════
+       SITE FOOTER
+    ════════════════════════════════════════════════ -->
+    <?php include "footer-new.php" ?>
 
-
-
-    </main>
-    <!-- Footer Start -->
-
-    <?php include "footer.php"?>
-
-
-    <!-- footer end  -->
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/js/bootstrap-select.min.js"></script>
-    <script src="assets/js/slick.min.js"></script>
-    <script src="assets/js/common.js"></script>
-    <script src="assets/js/course-slider.js"></script>
-
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    
 </body>
 
 </html>

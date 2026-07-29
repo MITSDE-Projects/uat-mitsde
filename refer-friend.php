@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 
 <head>
@@ -9,7 +9,7 @@
 
     <title>Refer Friend - MIT School of Distance Education</title>
     <meta name="description"
-        content="Invite your friend to join MIT SDE’s distance learning programs. Refer now and enjoy rewards when they register and enroll."/>
+        content="Invite your friend to join MIT SDE's distance learning programs. Refer now and enjoy rewards when they register and enroll."/>
 
     <!-- CANONICAL TAG -->
 
@@ -18,211 +18,131 @@
 
     <!-- CANONICAL TAG -->
 
-    <?php include "5-common-seo-tag-1.php" ?>
-
     <!-- OGP TAG -->
 
     <meta property="og:title" content="Refer Friend - MIT School of Distance Education">
     <meta property="og:site_name" content="MIT School of Distance Education">
     <meta property="og:url" content="https://mitsde.com/refer-friend.php">
-    <meta property="og:description" content="Invite your friend to join MIT SDE’s distance learning programs. Refer now and enjoy rewards when they register and enroll.">
+    <meta property="og:description" content="Invite your friend to join MIT SDE's distance learning programs. Refer now and enjoy rewards when they register and enroll.">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/assets/images/common-images/Refer-Banner.jpg">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/referral.webp">
 
     <!-- / OG TAG -->
 
-    <!-- Page Title -->
-    <link rel="icon" type="image/png" href="assets/images/favicon-mit.ico" />
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="assets/css/bootstrap-select.min.css" />
-    <link rel="stylesheet" href="assets/css/slick.min.css" />
-    <link rel="stylesheet" href="assets/css/fonts.css" type="text/css" />
-    <link rel="stylesheet" href="assets/css/style.css" type="text/css" />
-    <link rel="stylesheet" href="assets/fontawesome/css/all.min.css" type="text/css">
-    <link rel="stylesheet" href="assets/css/course-common-internal.css" type="text/css" />
-    <link rel="stylesheet" href="assets/css/form-new.css" type="text/css" />
+    <!--  -->
+    <link rel="icon" type="image/png" href="assets-new/images/favicon-mit.ico" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="css-new/styles.css" />
+    <link rel="stylesheet" href="css-new/intlTelInput.css">
     <script src="https://www.google.com/recaptcha/api.js" async defer></script>
-
-    <!--API for Queck contact----->
-    <!-- <script src="assets/js/api/jquery-1.10.2.min.js"></script>
-    <script type="text/javascript" src="assets/js/api/validation.js" charset="UTF-8"></script> -->
-
-    <script type="text/javascript">
-        var ck_name = /^[A-Za-z0-9 ]{3,100}$/;
-        var ck_email = /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/;
-        var ck_username = /^[A-Za-z0-9_]{1,20}$/;
-        var ck_password = /^[A-Za-z0-9!@#$%^&*()_]{6,20}$/;
-        var ck_mob = /^[\s()+-]*([0-9][\s()+-]*){10}$/;
-
-
-        function validate(Refer_frend) {
-            //alert('hi');
-
-            var Registration_no = Refer_frend.Registration_no.value;
-            var form_name = Refer_frend.form_name.value;
-            var Your_Email = Refer_frend.Your_Email.value;
-            var Mobile_no = Refer_frend.Mobile_no.value;
-            var form_name_candidate = Refer_frend.form_name_candidate.value;
-            //var student_email = Refer_frend.student_email.value;
-            //var student_mob = Refer_frend.student_mob.value;
-
-
-            //var FeesType = stories.FeesType.value;
-
-
-            var errors = [];
-
-            if (!ck_name.test(Registration_no)) {
-                errors[errors.length] = "Please Enter your Registration number .";
-            }
-            if (!ck_name.test(form_name)) {
-                errors[errors.length] = "Please Enter your Name .";
-            }
-
-            if (!ck_email.test(Your_Email)) {
-                errors[errors.length] = "You must enter a valid email address.";
-            }
-            if (!ck_mob.test(Mobile_no)) {
-                errors[errors.length] = "You must enter a valid Mobile.";
-            }
-
-            if (!ck_name.test(form_name_candidate)) {
-                errors[errors.length] = "Please Enter candidate name";
-            }
-
-            if (!ck_email.test(Your_Email)) {
-                errors[errors.length] = "You must enter a valid email address.";
-            }
-
-            /*if (!ck_email.test(student_email)) {
-             errors[errors.length] = "You must enter a valid email address of student.";
-            }
-
-            if (!ck_email.test(student_mob)) {
-             errors[errors.length] = "You must enter a valid email address of student.";
-            }*/
-
-            /*if (FeesType==0) {
-             errors[errors.length] = "Select Fees Type";
-            }
-            */
-
-            if (errors.length > 0) {
-                reportErrors(errors);
-                return false;
-            }
-
-            return true;
-        }
-
-        function reportErrors(errors) {
-            var msg = "Please Enter Valide Data...\n";
-            for (var i = 0; i < errors.length; i++) {
-                var numError = i + 1;
-                msg += "\n" + numError + ". " + errors[i];
-            }
-            alert(msg);
-        }
-    </script>
     <script>
         function enableSubmitBtn() {
             document.getElementById("mysubmitBtn").disabled = false;  //enable the submit button
 
         }
     </script>
-   
-
-
-    <!----->
-
-
-    <!----->
-
+<?php include "5-common-seo-tag-1.php" ?>
 </head>
 
-<body class="bg-pic" style="margin-top:-2px;margin-bottom:8px;" onload="createCaptcha()">
-    <?php include "5-common-seo-tag-2.php" ?>
-    <!-- Header Nav Start -->
-    <?php include "header.php" ?>
-    <!-- Header Nav End --->
-    <main class="main-body">
-        <?php include "announcementUpdate.php" ?>
+<body>
+  <?php include "5-common-seo-tag-2.php" ?>
+    <?php include "header-new.php" ?>
 
-        <section>
-            <img src="assets/images/common-images/Refer-Banner.jpg" class="img-fluid w-100" alt="Referral banner">
-        </section>
+    <!-- ═══════════════════════════════════════════════
+       PROGRAM HERO
+       Reusable .ph-* classes — replicate for every
+       program detail page, only swap heading + pills.
+    ════════════════════════════════════════════════ -->
+    <section class="hero ph-hero">
 
+        <!-- Breadcrumb — outside container, full-width white strip -->
+        <nav class="page-breadcrumb" aria-label="Breadcrumb">
+            <span class="pb-line"></span>
+            <a href="index.php">Home</a>
+            <span class="pb-sep">/</span>
+            <span class="pb-current">Refer Friend</span>
+        </nav>
 
+        <div class="container">
 
+            <!-- 3-column layout: left content | center image | right form -->
+            <div class="ph-layout py-5">
 
-        <div class="container-fluid px-1 py-5 mx-auto">
-            <div class="row d-flex justify-content-center">
-                <div class="col-xl-7 col-lg-8 col-md-9 col-11 text-center">
+                <!-- Left — heading + partner -->
+                <div class="ph-left">
+                    <h1 class="ph-heading"><p class="text-small">Refer Your Friends Unlock an Exclusive Benefit</p>Get Flat ₹6000 Off*</h1>
+                    <div class="ph-sub flex-column align-items-start">
+                        <button type="button" class="btn btn-dark rounded-pill px-4 py-2">Download Brochure</button>
+                    </div>
+                </div>
 
-                    <div class="card">
-                        <!-- <h5 class="text-center mb-4">Powering world-class companies</h5> -->
-                        <h3>Referral Policy</h3>
-                        <p class="blue-text"><b>Get a Course Discount by Referring</b></p>
-                        <form class="form-card" id="Refer_frend" name="Refer_frend"
-                            action="includes/sendreferfriend.php" method="post" enctype="multipart/form-data"
-                            onSubmit="return validate(this);">
-                            <div class="row justify-content-between text-left">
-                                <div class="form-group col-sm-6 flex-column d-flex"> <label
-                                        class="form-control-label px-3">Registration No</label>
-                                    <input type="text" id="Registration_no" name="Registration_no"
-                                        placeholder="Registration No" class="form-control">
-                                </div>
+                <!-- Center — hero image -->
+                <div class="ph-right">
+                    <img src="assets-new/images/referral.webp" alt="Refer Friend Image" />
+                </div>
 
+                <!-- Right — registration form card -->
+                <!-- <div class="ph-right">
+                    <div class="contact-form">
 
-                                <div class="form-group col-sm-6 flex-column d-flex"> <label
-                                        class="form-control-label px-3"> Name<span class="text-danger">
-                                            *</span></label> <input type="text" name="form_name" id="form_name"
-                                        placeholder="Enter Name" class="form-control">
+                        <?php //include "home-get-in-touch-form-new.php" ?>
 
+                    </div>
+                </div> -->
 
-                                </div>
+            </div><!-- /ph-layout -->
+        </div>
+    </section>
+
+    <!-- Referral Form Section -->
+    <section class="rf-section">
+        <div class="container">
+            <div class="rf-card">
+
+                <h2 class="rf-heading">
+                    Referral Policy
+                    <span class="rf-sub">Get a Course Discount by Referring</span>
+                </h2>
+
+                <form class="rf-form" action="includes/sendreferfriend.php" method="post" novalidate>
+                    <div class="rf-grid">
+
+                        <!-- Friends Details -->
+                        <div class="rf-group">
+                            <p class="rf-group-label">Friends Details</p>
+                            <div class="rf-field">
+                                <input type="text" class="rf-input" name="form_name_candidate" placeholder="Name" required />
+                                <span class="rf-star" aria-hidden="true">*</span>
+                                <span class="rf-error-msg"></span>
                             </div>
-
-                            <div class="row justify-content-between text-left">
-                                <div class="form-group col-sm-6 flex-column d-flex"> <label
-                                        class="form-control-label px-3">Your Email<span class="text-danger">
-                                            *</span></label> <input name="Your_Email" id="Your_Email"
-                                        class="form-control required email" type="email" placeholder="Enter Email">
-                                </div>
-
-
-                                <div class="form-group col-sm-6 flex-column d-flex"> <label>Mobile No
-                                        <small>*</small></label>
-                                    <input type="text" name="Mobile_no" id="Mobile_no" placeholder="Mobile No"
-                                        class="form-control">
-                                </div>
-                                <div class="form-group col-sm-6 flex-column d-flex mt-1">
-                                    <label class="form-control-label ">Relation<span class="text-danger">
-                                            *</span></label>
-                                    <select name="Relation" class="form-select form-select-md" aria-label="Small select example">
-                                        <option value="">Select One</option>
-                                        <option value="Friend">Friend</option>
-                                        <option value="Relative">Relative</option>
-                                        <option value="Colleague">Colleague</option>
-                                    </select>
-                                </div>
-                                <div class="form-group col-sm-6 flex-column d-flex mt-1 "> <label
-                                        class="form-control-label ">
-                                        Name of Student<span class="text-danger">
-                                            *</span></label> <input type="text" id="form_name_candidate"
-                                        name="form_name_candidate" placeholder="Name of Student" class="form-control">
-
-
-
-
-                                </div>
-                                <div class="form-group col-sm-6 flex-column d-flex mt-1">
-                                    <label class="form-control-label ">Program Interested<span class="text-danger">
-                                            *</span></label>
-                                    <select name="Program_Interested" class="form-select form-select-md " aria-label="Small select example">
-                                        <!-- <option selected>Open this select menu</option> -->
-                                        <option value="">Select Course</option>
-                                        <option value="PGDM in Project Management">PGDM in Project Management</option>
+                            <div class="rf-field">
+                                <input type="email" class="rf-input" name="student_email" placeholder="Email" required />
+                                <span class="rf-star" aria-hidden="true">*</span>
+                                <span class="rf-error-msg"></span>
+                            </div>
+                            <div class="rf-field">
+                                <input type="tel" class="rf-input" name="student_mob" placeholder="Mobile No" required />
+                                <span class="rf-star" aria-hidden="true">*</span>
+                                <span class="rf-error-msg"></span>
+                            </div>
+                            <div class="rf-field">
+                                <select class="rf-input" name="Relation" required>
+                                    <option value="" disabled selected>Relation</option>
+                                    <option value="Friend">Friend</option>
+                                    <option value="Family">Family</option>
+                                    <option value="Colleague">Colleague</option>
+                                    <option value="Classmate">Classmate</option>
+                                    <option value="Other">Other</option>
+                                </select>
+                                <span class="rf-star" aria-hidden="true">*</span>
+                                <span class="rf-error-msg"></span>
+                            </div>
+                            <div class="rf-field">
+                                <select class="rf-input" name="Program_Interested" required>
+                                    <option value="" disabled selected>Program Interested</option>
+                                    <option value="PGDM in Project Management">PGDM in Project Management</option>
                                         <option value="PGDM in Operations Management">PGDM in Operations Management</option>
                                         <option value="PGDM in Human Resource Management">PGDM in Human Resource Management</option>
                                         <option value="PGDM in Information Technology">PGDM in Information Technology</option>
@@ -256,114 +176,118 @@
                                         <option value="Certification in Material Management">Certification in Material Management</option>
                                         <option value="Certification in Logistics and Supply Chain">Certification in Logistics and Supply Chain</option>
                                         <option value="Certification in Finance Management">Certification in Finance Management</option>
-
-                                    </select>
-                                </div>
-                                <div class="form-group col-sm-6 flex-column d-flex mt-1"> <label
-                                        class="form-control-label ">
-                                        Email<span class="text-danger">
-                                            *</span></label> <input type="text" id="student_email" name="student_email"
-                                        placeholder="Enter Email" class="form-control">
-
-
-                                </div>
-                                <div class="form-group col-sm-6 flex-column d-flex"> <label>Mobile No
-                                        <small>*</small></label>
-                                    <input type="text" name="student_mob" id="student_mob" placeholder="Mobile No"
-                                        class="form-control">
-                                </div>
+                                </select>
+                                <span class="rf-star" aria-hidden="true">*</span>
+                                <span class="rf-error-msg"></span>
                             </div>
-                            <div><label id="label-password" style="left: 80%;">Captcha <sanp style="color:red;">*</sanp></label>
+                        </div>
+
+                        <!-- Your Details -->
+                        <div class="rf-group">
+                            <p class="rf-group-label">Your Details</p>
+                            <div class="rf-field">
+                                <input type="text" class="rf-input" name="form_name" placeholder="Name" required />
+                                <span class="rf-star" aria-hidden="true">*</span>
+                                <span class="rf-error-msg"></span>
                             </div>
-                            <div class="row">
-
-                                <div class="col-sm-4">
-
-                                </div>
-                                <div class="col-sm-8">
-
+                            <div class="rf-field">
+                                <input type="text" class="rf-input" name="Registration_no" placeholder="Registration No" required />
+                                <span class="rf-star" aria-hidden="true">*</span>
+                                <span class="rf-error-msg"></span>
+                            </div>
+                            <div class="rf-field">
+                                <input type="email" class="rf-input" name="Your_Email" placeholder="Email" required />
+                                <span class="rf-star" aria-hidden="true">*</span>
+                                <span class="rf-error-msg"></span>
+                            </div>
+                            <div class="rf-field">
+                                <input type="tel" class="rf-input" name="Mobile_no" placeholder="Mobile No" required />
+                                <span class="rf-star" aria-hidden="true">*</span>
+                                <span class="rf-error-msg"></span>
+                            </div>
+                            <div class="rf-footer">
+                                <div>
                                     <div class="g-recaptcha" data-sitekey="6Lf1dR4gAAAAAJXXpTYVhawIuElj2l7XXvd2FRsJ" required="" data-callback="enableSubmitBtn"></div>
                                 </div>
+                                <button type="submit" class="btn-rf-submit" id="mysubmitBtn" disabled="disabled">Submit</button>
                             </div>
+                        </div>
 
-
-                            <div class="row justify-content-center mt-2">
-                                <div class="form-group col-sm-6">
-                                    <input name="form_botcheck" class="form-control" type="hidden" value="" />
-                                    <button type="submit" class="btn btn" id="mysubmitBtn" disabled="disabled"
-                                        style="background: #f47521;width: 70%;color: #fff;">Submit</button>
-
-
-                                </div>
-
-                        </form>
-                        <script type="text/javascript">
-                            $("#Refer_frend").validate({
-                                submitHandler: function(form) {
-                                    var form_btn = $(form).find('button[type="submit"]');
-                                    var form_result_div = '#form-result';
-                                    $(form_result_div).remove();
-                                    form_btn.before(
-                                        '<div id="form-result" class="alert alert-success" role="alert" style="display: none;"></div>'
-                                    );
-                                    var form_btn_old_msg = form_btn.html();
-                                    form_btn.html(form_btn.prop('disabled', true).data("loading-text"));
-                                    $(form).ajaxSubmit({
-                                        dataType: 'json',
-                                        success: function(data) {
-                                            if (data.status == 'true') {
-                                                $(form).find('.form-control').val('');
-                                            }
-                                            form_btn.prop('disabled', false).html(
-                                                form_btn_old_msg);
-                                            $(form_result_div).html(data.message).fadeIn(
-                                                'slow');
-                                            setTimeout(function() {
-                                                $(form_result_div).fadeOut('slow')
-                                            }, 6000);
-                                        }
-                                    });
-                                }
-                            });
-                        </script>
-                        <div class="submitbtn123"></div><!-- /.comment-form -->
                     </div>
-                </div>
+                </form>
+
             </div>
         </div>
+    </section>
 
+    <!-- ═══════════════════════════════════════════════
+       SITE FOOTER
+    ════════════════════════════════════════════════ -->
+    <?php include "footer-new.php" ?>
 
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+    (function () {
+        var RULES = {
+            form_name_candidate:        { test: /^[a-zA-Z\s]{3,50}$/,           msg: 'Please enter a valid name (letters only, min 3 characters).' },
+            student_email:       { test: /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/, msg: 'Please enter a valid email address.' },
+            student_mob:      { test: /^(?!([0-9])\1{9}$)[6-9]\d{9}$/,                  msg: 'Please enter a valid 10-digit mobile number.' },
+            Relation:           { test: function(v){ return v !== ''; },  msg: 'Please select your relation with the friend.' },
+            Program_Interested: { test: function(v){ return v !== ''; },  msg: 'Please select a program.' },
+            form_name:          { test: /^[a-zA-Z\s]{3,50}$/,           msg: 'Please enter a valid name (letters only, min 3 characters).' },
+            Registration_no:    { test: /^.{3,}$/,                       msg: 'Please enter your registration number.' },
+            Your_Email:         { test: /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/, msg: 'Please enter a valid email address.' },
+            Mobile_no:        { test: /^(?!([0-9])\1{9}$)[6-9]\d{9}$/,                  msg: 'Please enter a valid 10-digit mobile number.' }
+        };
 
+        function validateField(input) {
+            var field = input.closest('.rf-field');
+            if (!field) return true;
+            var rule = RULES[input.name];
+            if (!rule) return true;
 
+            var val = input.value.trim();
+            var valid = (typeof rule.test === 'function') ? rule.test(val) : rule.test.test(val);
+            var errEl = field.querySelector('.rf-error-msg');
 
+            field.classList.toggle('rf-error', !valid);
+            field.classList.toggle('rf-valid', valid);
+            if (errEl) errEl.textContent = valid ? '' : rule.msg;
+            return valid;
+        }
 
+        function validateAll() {
+            var inputs = document.querySelectorAll('.rf-form .rf-input');
+            var allValid = true;
+            inputs.forEach(function(input) {
+                if (!validateField(input)) allValid = false;
+            });
+            return allValid;
+        }
 
+        // Validate on blur; re-validate on input while in error state
+        document.querySelectorAll('.rf-form .rf-input').forEach(function(input) {
+            input.addEventListener('blur', function() { validateField(input); });
+            input.addEventListener('input', function() {
+                if (input.closest('.rf-field').classList.contains('rf-error')) validateField(input);
+            });
+            input.addEventListener('change', function() { validateField(input); });
+        });
 
-
-
-
-
-
-
-
-
-        <?php //  include "learner-support.php" 
-        ?>
-
-    </main>
-    <!-- Footer Start -->
-
-    <?php include "footer.php" ?>
-
-
-    <!-- footer end  -->
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/js/bootstrap-select.min.js"></script>
-    <script src="assets/js/slick.min.js"></script>
-    <script src="assets/js/common.js"></script>
-    <script src="assets/js/course-slider.js"></script>
-
+        // Block submit if validation fails; scroll to first error
+        var form = document.querySelector('.rf-form');
+        if (form) {
+            form.addEventListener('submit', function(e) {
+                if (!validateAll()) {
+                    e.preventDefault();
+                    var firstErr = form.querySelector('.rf-field.rf-error .rf-input');
+                    if (firstErr) firstErr.focus();
+                }
+            });
+        }
+    })();
+    </script>
 </body>
 
 </html>

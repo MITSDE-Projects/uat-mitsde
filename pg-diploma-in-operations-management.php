@@ -19,8 +19,6 @@
 
     <!-- CANONICAL TAG -->
 
-    <?php include "5-common-seo-tag-1.php" ?>
-
     <!-- OGP TAG -->
 
     <meta property="og:title" content="Online PG Diploma in Operations Management Courses | MITSDE - 2026">
@@ -28,31 +26,24 @@
     <meta property="og:url" content="https://mitsde.com/pg-diploma-in-operations-management">
     <meta property="og:description" content="Pursue one of the top online pg diplomas in operations management with MITSDE. Our online operations management courses are designed for professionals seeking to enhance their managerial skills and career growth.">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/assets/images/course/pgdm/PGDM-Operations-Management.jpg">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/project-management.webp">
 
     <!-- / OG TAG -->
 
-    <!-- Page Title -->
+    <link rel="icon" type="image/png" href="assets-new/images/favicon-mit.ico" />
 
-    <link rel="icon" type="image/png" href="assets/images/favicon-mit.ico" />
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="assets/css/bootstrap-select.min.css" />
-    <link rel="stylesheet" href="assets/css/slick.min.css" />
-    <link rel="stylesheet" href="assets/css/fonts.css" type="text/css" />
-    <link rel="stylesheet" href="assets/css/style.css" type="text/css" />
-    <link rel="stylesheet" href="assets/fontawesome/css/all.min.css" type="text/css">
-    <link rel="stylesheet" href="assets/css/course-common-internal.css" type="text/css" />
-    <link rel="stylesheet" href="assets/css/new-common-design-course-page-demo-final.css" type="text/css" />
-    <!--API for Queck contact----->
-    <script src="assets/js/api/jquery-1.10.2.min.js"></script>
-    <script type="text/javascript" src="assets/js/api/validation.js" charset="UTF-8"></script>
-    <!----->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="css-new/styles.css" />
+    <link rel="stylesheet" href="css-new/intlTelInput.css">
+
     <script type="application/ld+json">
         {
             "@context": "https://schema.org/",
             "@type": "Product",
             "name": "Distance PGDM in Operations Management | Online PG course in Operations",
-            "image": "https://mitsde.com/assets/images/course/pgdm/PGDM-Operations-Management.jpg",
+            "image": "https://mitsde.com/assets-new/images/project-management.webp",
             "description": "Master operations excellence with MITSDE's online PGDM. Streamline processes, optimize resources, and drive profitability for a competitive edge.",
             "brand": {
                 "@type": "Brand",
@@ -82,7 +73,7 @@
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
             "name": "MIT School of Distance Education",
-            "image": "https://mitsde.com/assets/images/new/logo-mit-school-of-distance-education.png",
+            "image": "https://mitsde.com/assets-new/images/logo_mitsde.png",
             "@id": "",
             "url": "https://mitsde.com/",
             "telephone": "9112-207-207",
@@ -115,868 +106,650 @@
     </script>
 
     <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://mitsde.com/"
-    },
-     {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Online PGDM Programs in India",
-      "item": "https://mitsde.com/post-graduate-diploma-in-management"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Online PGDM Course In Operations Management",
-      "item": "https://mitsde.com/pg-diploma-in-operations-management"
-    }
-  ]
-}
-</script>
+        {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://mitsde.com/"
+            },
+            {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Online PGDM Programs in India",
+            "item": "https://mitsde.com/post-graduate-diploma-in-management"
+            },
+            {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Online PGDM Course In Operations Management",
+            "item": "https://mitsde.com/pg-diploma-in-operations-management"
+            }
+        ]
+        }
+    </script>
 
-
-
+<?php include "5-common-seo-tag-1.php" ?>
 </head>
 
 <body>
-    <?php include "5-common-seo-tag-2.php" ?>
-    <!-- Header Nav Start -->
-    <?php include "header.php" ?>
-    <!-- Header Nav End --->
-    <main class="main-body">
+  <?php include "5-common-seo-tag-2.php" ?>
+    <?php include "header-new.php" ?>
 
-        <?php include "announcementUpdate.php" ?>
-        <section class="banner inner-banner">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 col-lg-6 main-banner">
-                        <h1>Online PGDM Course In Operations Management</h1>
-                        <p><img src="assets/images/course/pgdm/kpmg.png" class="img-fluid" alt="KPMG"
-                                style="height: 50px;">in India is the academic partner for the Operational Analytics Certification Program. ( Optional)
+    <!-- ═══════════════════════════════════════════════
+       PROGRAM HERO
+       Reusable .ph-* classes — replicate for every
+       program detail page, only swap heading + pills.
+    ════════════════════════════════════════════════ -->
+    <section class="hero ph-hero">
+        <div class="container">
 
+            <!-- Breadcrumb -->
+            <nav class="page-breadcrumb" aria-label="Breadcrumb">
+                <a href="index.php">Home</a>
+                <span class="pb-sep">/</span>
+                <a href="#">PGDM</a>
+                <span class="pb-sep">/</span>
+                <span class="pb-current">PG Diploma In Operations Management</span>
+            </nav>
 
-                        </p>
-                        <div class="page-btn">
+            <!-- 3-column layout: left content | center image | right form -->
+            <div class="ph-layout">
 
-                            <a href="assets/images/course/pgdm/pdf/Operational-Analytics.pdf" download
-                                class="btn btn-primary mit-button cus-btn inner-cus ms-0">
-                                <span class="mtsk-download"></span> &nbsp; Download BROCHURE
-                            </a>
-
-                        </div>
-                        <div>
-                            <nav>
-                                <ol class="breadcrumb">
-                                    <li class="breadcrumb-item"><a href=" https://mitsde.com">Home</a>
-                                    </li>
-                                    <li class="breadcrumb-item"><a href="post-graduate-diploma-in-management">PGDM</a>
-                                    </li>
-                                    <li class="breadcrumb-item active text-capitalize" aria-current="page">PG diploma in
-                                        operations management
-                                    </li>
-
-                            </nav>
-
-
-                        </div>
-                    </div>
-                    <div class="col-md-12 col-lg-6">
-                        <div class="css-details">
-                            <div class="stc-det student-sec inner-sec">
-                                <img src="assets/images/course/pgdm/PGDM-Operations-Management_Icon-1.jpg" alt="PGDM Operations Management Icon 1">
-                            </div>
-                            <img src="assets/images/course/pgdm/PGDM-Operations-Management.jpg" class="banner-img"
-                                alt="PG-diploma-in-operations-management">
-                            <div class="stc-det course-sec inner-sec">
-                                <img src="assets/images/course/pgdm/PGDM-Operations-Management_Icon-2.jpg" alt="PGDM Operations Management Icon 2">
-                            </div>
-                        </div>
-                    </div>
+                <!-- Left — heading + partner -->
+                <div class="ph-left">
+                    <h1 class="ph-heading">Online PGDM Course<br>In Operations Management</h1>
+                    <!-- <div class="ph-sub">
+                        <p style="max-width: 400px;"><img src="assets-new/images/kpmg-logo.png" alt="KPMG" class="ph-partner-logo" /> in India is the academic partner for the Operational Analytics Certification Program. ( Optional)</p>
+                    </div> -->
                 </div>
+
+                <div class="ph-right">
+                    <img src="assets-new/images/project-management.webp" alt="Project Management Image" />
+                </div>
+
+            </div><!-- /ph-layout -->
+
+            <!-- Specialisation filter pills -->
+            <div class="ph-specs-wrap">
+                <div class="ph-specs">
+                    <a href="pg-diploma-in-project-management"><button class="ph-spec-pill">Project Management</button></a>
+                    <a href="pg-diploma-in-operations-management"><button class="ph-spec-pill is-active">Operations Management</button></a>
+                    <a href="pg-diploma-in-human-resource-management"><button class="ph-spec-pill">Human Resource Management</button></a>
+                    <a href="pg-diploma-in-information-technology"><button class="ph-spec-pill">Information Technology</button></a>
+                    <a href="pg-diploma-in-marketing-management"><button class="ph-spec-pill">Marketing Management</button></a>
+                    <a href="pg-diploma-in-finance-management"><button class="ph-spec-pill">Finance Management</button></a>
+                    <a href="pg-diploma-in-supply-chain-management"><button class="ph-spec-pill">Logistics And Supply Chain Management</button></a>
+                    <a href="pg-diploma-in-material-management"><button class="ph-spec-pill">Material Management</button></a>
+                    <a href="pg-diploma-in-banking-finance"><button class="ph-spec-pill">Banking &amp; Financial Services</button></a>
+                    <a href="pg-diploma-in-construction-and-project-management"><button class="ph-spec-pill">Construction And Project Management</button></a>
+                </div>
+                <p class="ph-specs-hint">Select a category above to explore all available specializations, fees,
+                    duration, and learning outcomes.</p>
             </div>
-        </section>
 
-        <?php include "2-PGDM-first-common-fees.php" ?>
-        <section class="app-featurelist">
-            <div class="container">
-                <div class="row">
-                    <ul class="app-features">
-                        <li><a class="active" href="#kpmg">KPMG</a></li>
-                        <li><a href="#module">Modules</a></li>
-                        <li><a href="#faq">FAQ</a></li>
-                        <li><a href="#overview">About </a></li>
-                        <li><a href="#learning">Learning</a></li>
+        </div>
+    </section>
 
-                        <li><a href="#curriculam">Curriculum</a></li>
-                        <li><a href="#progressFee">Program Fees</a></li>
-                        <li><a href="#learnExpert">Our Courses</a></li>
+    <!-- ═══════════════════════════════════════════════
+       COURSE INFO BAR
+    ════════════════════════════════════════════════ -->
+    <?php include "pgdm-common-fee-bar.php" ?>
 
+    <!-- TABs -->
+
+    <div class="ph-specs-wrap sticky-pills">
+        <div class="ph-specs">
+            <!-- <a href="#kpmg"><button class="ph-spec-pill is-active">KPMG</button></a>
+            <a href="#modules"><button class="ph-spec-pill">Modules</button></a> -->
+            <a href="#faq"><button class="ph-spec-pill">FAQ</button></a>
+            <a href="#about"><button class="ph-spec-pill">About</button></a>
+            <a href="#learning"><button class="ph-spec-pill">Learning</button></a>
+            <a href="#curriculum"><button class="ph-spec-pill">Curriculum</button></a>
+            <a href="#fees"><button class="ph-spec-pill">Program Fees</button></a>
+            <a href="#courses"><button class="ph-spec-pill">Our Courses</button></a>
+        </div>
+    </div>
+
+    <!-- About Section -->
+
+    <section class="about-section pb-0" id="about">
+
+        <div class="container">
+
+            <!-- Heading -->
+
+            <h2 class="section-heading">
+                <span class="text-orange">About </span>the Programme
+            </h2>
+
+            <p>
+                Achieving the set goals within the given time and budget, controlling processes and coordinating between different departments, creating reports, and analyzing them are the core business areas that can be classified as operations. Thus, operations management is one of the essential functions of any organization.
+            </p>
+
+            <p>
+                PG Diploma in Operations Management prepares you to confront the challenges put forth by the field, head-on. Academic and industrial experts have designed the curriculum keeping in mind the current orientation of the global industry.
+            </p>
+
+            <p>
+                The program aims at training eligible personnel to deliver excellent services at low cost and minimum time, to develop change agents having the adequate competencies and mindsets for creating a rich culture of operational dexterity at the workplace.
+            </p>
+
+
+        </div>
+
+    </section>
+
+    <!-- Pedagogy section -->
+
+    <?php include "pgdm-common-unique-pedagogy.php"?>
+
+    <!-- Learning Section -->
+
+    <section class="learning-section" id="learning">
+
+        <div class="container">
+
+            <!-- Heading -->
+
+            <h2 class="section-heading">
+                <span class="text-orange">Learning </span>Outcomes
+            </h2>
+
+            <div class="learning-outcomes-layout">
+
+                <div class="learning-outcomes-left">
+                    <!-- TODO: replace with real photo -->
+                    <img src="assets-new/images/learning-outcomes.jpg" alt="Learning Outcomes" />
+                </div>
+
+                <div class="learning-outcomes-right">
+                    <ul class="learning-outcomes-list">
+                        <li>
+                            <i class="fa-regular fa-square-check"></i>
+                            <span>Understand the basic concepts, importance and need for Operations Management</span>
+                        </li>
+                        <li>
+                            <i class="fa-regular fa-square-check"></i>
+                            <span>Learn all the aspects of Product Lifecycle Management (PLM)</span>
+                        </li>
+                        <li>
+                            <i class="fa-regular fa-square-check"></i>
+                            <span>Learn the global operational excellence practices</span>
+                        </li>
+                        <li>
+                            <i class="fa-regular fa-square-check"></i>
+                            <span>Learn the basics of Six Sigma Quality Management</span>
+                        </li>
                     </ul>
                 </div>
-            </div>
 
-        </section>
+            </div><!-- /learning-outcomes-layout -->
 
-        <!-- KPMG CONTENT -->
-        <section id="kpmg">
-            <div class="container mt-4">
-                <h2 class="course-title">Operational Analytics - 40 Hrs </h2>
-                <!-- <hr class="custom-hr"> -->
-                <div class="row">
-                    <div class="col-md-8">
-                        <p class="course-description">
-                            The table of contents provides a comprehensive guide to Operational Analytics, focusing on
-                            transforming
-                            operations and supply chain management through data-driven insights. It covers essential tools like
-                            Advanced Excel, SAS, Power BI, and Orange 3, emphasizing data integration, pivot tables, interactive
-                            dashboards, and scenario planning. Key topics include statistical methods for data analysis,
-                            correlation
-                            analysis, hypothesis testing, and vendor performance assessment. Predictive analytics is explored
-                            through
-                            regression and classification models, time series analysis, and forecasting techniques. Practical
-                            applications
-                            are illustrated with case studies, culminating in building a comprehensive operational analytics
-                            model.
-                        </p>
-                    </div>
-                    <div class="col-md-4"><?php include "common-home-form-added-all-36-courses-pages.php" ?></div>
-                </div>
-            </div>
-        </section>
+        </div>
 
+    </section>
 
+    <!-- ── Section: Course Syllabus ── -->
+    <section class="pgcs-section" id="curriculum">
+        <div class="container">
+            <div class="pgcs-bg-wrap">
 
-        <!-- Modules content -->
-        <section>
-            <div class="container">
-                <div class="row" id="module">
-                    <div class="cur-accordiaon">
-                        <div id="module" class="module-title">Modules</div>
+                <h2 class="pgcs-heading">Course Syllabus</h2>
 
+                <div class="pgcs-stack">
 
-                        <div class="accordion curriculum-accordion mt-4" id="freQuestions">
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button " type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions21" aria-expanded="false" aria-controls="questions21">
-                                        Introduction to Operational Analytics
+                    <!-- Semester 1 -->
+                    <?php include "pgdm-common-semester-one.php" ?>
 
-
-                                    </button>
-                                </h2>
-                                <div id="questions21" class="accordion-collapse " data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <ul>
-                                                        <li>Introduction to Operational Analytics and its role in
-                                                            transforming operations and supply chain management.</li>
-                                                        <li>Covers essential tools like Advanced Excel, SAS, Power BI,
-                                                            and Orange 3 for data analysis and process optimization.
-                                                        </li>
-                                                        <li>Focuses on decision support in operational contexts.</li>
-                                                    </ul>
-
-
-                                                </div>
-                                            </div>
-
-
-                                        </div>
-                                    </div>
+                    <!-- Semester 2 -->
+                    <div class="pgcs-card">
+                        <div class="pgcs-top">
+                            <div class="pgcs-left">
+                                <span class="pgcs-tag"><span class="pgcs-tag-inner">Semester 2</span></span>
+                                <ul class="pgcs-course-list">
+                                    <li>Research Methodology and Management Decision (S2C14)</li>
+                                    <li>Management Intelligence System (S2C13)</li>
+                                    <li>Financial Reporting, Statements, and Analysis (S2C12)</li>
+                                    <li>Operations Management (S2SO1)</li>
+                                    <li>Lean Management Systems - LAB (Credits = 3+1) (S2SO2)</li>
+                                </ul>
+                            </div>
+                            <div class="pgcs-right">
+                                <div class="pgcs-right-info">
+                                    <img class="pgcs-icon" src="assets-new/images/star-icon.png" alt="">
+                                    <h3 class="pgcs-title">AI Intermediate</h3>
+                                    <p class="pgcs-desc">Domain-contextualised AI module + workplace artifact</p>
+                                </div>
+                                <span class="pgcs-vdivider"></span>
+                                <div class="pgcs-right-outcome">
+                                    <p class="pgcs-learner-label">What the Learner Becomes:</p>
+                                    <span class="pgcs-outcome">AI-Enabled Task Optimiser</span>
                                 </div>
                             </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions22" aria-expanded="false" aria-controls="questions22">
-                                        Advanced Excel Modeling and SAS
-
-                                    </button>
-                                </h2>
-                                <div id="questions22" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-                                    <div class="accordion-body  hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <ul>
-                                                        <li>Integrate multiple data sheets using Power Pivot for
-                                                            comprehensive analysis and reporting.</li>
-                                                        <li>Build pivot tables, charts, and interactive dashboards to
-                                                            visualize operational metrics and monitor KPIs.</li>
-                                                        <li>Utilize Solver, Scenario Manager, and SAS for scenario
-                                                            planning, predictive analytics, and advanced data analysis
-                                                            to enhance operational efficiency and decision-making.</li>
-
-
-
-
-                                                    </ul>
-
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions23" aria-expanded="false" aria-controls="questions23">
-                                        Operational Decision Making
-                                    </button>
-                                </h2>
-                                <div id="questions23" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-
-                                                    <ul>
-                                                        <li>Learn statistical methods to analyze and interpret
-                                                            operational data for informed decision-making.</li>
-                                                        <li>Topics include summarizing data features, correlation
-                                                            analysis, and hypothesis testing for operational processes.
-                                                        </li>
-                                                        <li>Assess vendor performance and apply case studies for
-                                                            practical insights and robust operational strategies.</li>
-
-
-
-                                                    </ul>
-
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions24" aria-expanded="false" aria-controls="questions24">
-                                        Predictive Modelling & Forecasting
-
-                                    </button>
-                                </h2>
-                                <div id="questions24" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <ul>
-                                                        <li>Learn predictive analytics methods, including regression
-                                                            models, R square, and RMSE for forecasting and evaluating
-                                                            prediction accuracy.</li>
-                                                        <li>Build and interpret regression and classification models for
-                                                            inventory prediction and probabilistic demand forecasting,
-                                                            using metrics like confusion matrix, recall, precision, and
-                                                            F1 score.</li>
-                                                        <li>Understand time series analysis for identifying patterns and
-                                                            forecasting with Naïve Bayes and exponential smoothing
-                                                            techniques.</li>
-
-
-
-
-                                                    </ul>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions25" aria-expanded="false" aria-controls="questions25">
-                                        Getting Started with Power BI
-                                    </button>
-                                </h2>
-                                <div id="questions25" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <ul>
-                                                        <li>Introduction to Power BI for importing and preparing data,
-                                                            and creating interactive reports and dashboards.</li>
-                                                        <li>Use case studies to demonstrate real-world applications and
-                                                            visualize operational data.</li>
-                                                        <li>Help operational managers create dynamic visualizations and
-                                                            dashboards to communicate insights and support
-                                                            decision-making.</li>
-
-
-
-
-                                                    </ul>
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions26" aria-expanded="false" aria-controls="questions26">
-                                        Introduction to Orange 3
-                                    </button>
-                                </h2>
-                                <div id="questions26" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <ul>
-                                                        <li>Learn the basics of Orange 3, including key features and
-                                                            functions.</li>
-                                                        <li>Build and test models, and integrate Orange 3 with Excel
-                                                            data.</li>
-                                                        <li>Enable advanced data mining and machine learning techniques
-                                                            for operational analytics.</li>
-
-
-
-
-                                                    </ul>
-
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-
-
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions31" aria-expanded="false" aria-controls="questions31">
-                                        Project Closure
-                                    </button>
-                                </h2>
-                                <div id="questions31" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <ul>
-                                                        <li>Build a comprehensive operational analytics model in a
-                                                            real-world application project.</li>
-                                                        <li>Integrate various analytical techniques and tools to solve
-                                                            real-world challenges and drive strategic decisions.</li>
-                                                        <li>Apply knowledge to optimize operations, improve supply chain
-                                                            efficiency, and enhance overall organizational performance.
-                                                        </li>
-
-
-
-
-                                                    </ul>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions32" aria-expanded="false" aria-controls="questions32">
-                                        Final Project
-                                    </button>
-                                </h2>
-                                <div id="questions32" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <ul>
-                                                        <li>Integrate various marketing analytics techniques into a
-                                                            comprehensive model.</li>
-                                                        <li>Emphasize practical, real-world applications for analyzing
-                                                            marketing data.</li>
-                                                        <li>Construct a robust framework for informed decision-making
-                                                            and strategic planning.</li>
-
-
-
-                                                    </ul>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row p-3 m-0 mt-5" style="background-color: #00338d; border-radius: 15px;">
-                                <div class="col-md-3 d-flex justify-content-center  align-items-center">
-                                    <h5 class="text-white"><b>Tool Used</b></h5>
-                                </div>
-                                <div class="col-md-3"><img src="assets/images/course/pgdm/kpmg/Power-bi.jpg" alt=""
-                                        loading="lazy" class="img-fluid rounded-2"></div>
-                                <div class="col-md-3"> <img src="assets/images/course/pgdm/kpmg/ms-new.jpg" alt="Microsoft tools training"
-                                        loading="lazy" class="img-fluid rounded-2"></div>
-                                <div class="col-md-3"> <img src="assets/images/course/pgdm/kpmg/Orange.jpg" alt=""
-                                        loading="lazy" class="img-fluid rounded-2"></div>
-                            </div>
-
-
-                        </div>
-
+                        </div><!-- /pgcs-top -->
+                        <div class="pgcs-cert">
+                            <span class="pgcs-tag"><span class="pgcs-tag-inner">Certificate</span></span>
+                            <ul class="pgcs-cert-list">
+                                <li>AI Productivity Certificate (AIPC)</li>
+                                <li>Certified Professional Data Science Analyst (CPDSA)</li>
+                                <li>Certified Professional Quantitative Research Analyst (CPQBA)</li>
+                            </ul>
+                            <p class="sub-text"><strong>Total Credits 20</strong></p>
+                        </div><!-- /pgcs-cert -->
                     </div>
 
-                </div>
-            </div>
-        </section>
-        <!-- Modules content -->
-
-        <?php include "kpmg-program-learning-common-image.php" ?>
-
-        <!-- KPMG CONTENT -->
-
-        <!-- mitsde content start -->
-        <section id="overview" class="enroll-certification">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 col-lg-4 fintech-certi">
-                        <h2>About <br> The <br> Program</h2>
-
-                    </div>
-                    <div class="col-md-12 col-lg-8 fin-feature hero11">
-                        <p>Achieving the set goals within the given time and budget, controlling processes and
-                            coordinating between different departments, creating reports, and analyzing them are the
-                            core business areas that can be classified as operations. Thus, <b>operations management is
-                                one of the essential functions of any organization.</b></p>
-                        <p><b>PG Diploma in Operations Management</b> prepares you to confront the challenges put forth
-                            by the field, head-on. Academic and industrial experts have designed the curriculum keeping
-                            in mind the current orientation of the global industry.</p>
-                        <p><b>The program aims at training eligible</b> personnel to deliver excellent services at low
-                            cost and minimum time, to develop change agents having the adequate competencies and
-                            mindsets for creating a rich culture of operational dexterity at the workplace.</p>
-
-                    </div>
-                </div>
-                <!-- COMMON Unique Pedagogy  -->
-
-                <?php include "PGDM-common-unique-pedagogy.php" ?>
-
-                <!-- COMMON Unique Pedagogy  -->
-            </div>
-        </section>
-        <section id="learning" class="enroll-certification">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 col-lg-4 fintech-certi aboutMit-skills">
-                        <h2>Learning <br> Outcomes <br> </h2>
-                        <!-- <img src="assets/images/humancloud.svg" alt=""> -->
-                    </div>
-                    <div class="col-md-12 col-lg-8 fin-feature1 hero11">
-
-                        <li><span class="newright-icon1"></span> Understand the basic concepts, importance and need for
-                            Operations Management</li>
-                        <li><span class="newright-icon1"></span> Learn all the aspects of Product Lifecycle Management
-                            (PLM)</li>
-                        <li><span class="newright-icon1"></span> Understand the concept of operational research and its
-                            application</li>
-                        <li><span class="newright-icon1"></span> Learn the global operational excellence practices</li>
-                        <li><span class="newright-icon1"></span> Learn the basics of Six Sigma Quality Management</li>
-
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section id="curriculam" class="enroll-certification">
-            <div class="container">
-                <div class="row">
-                    <div class="cur-accordiaon">
-                        <h3>Course Syllabus</h3>
-                        <div class="accordion curriculum-accordion" id="curriculum">
-                            <?php include "pgdm-common-semester-one.php" ?>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button " type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#module2" aria-expanded="false" aria-controls="module2">
-                                        Semester II
-                                    </button>
-                                </h2>
-                                <div id="module2" class="accordion-collapse show" data-bs-parent="#curriculum">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <ul class="curriculum">
-
-                                                <table class="table">
-                                                    <thead>
-                                                        <tr>
-                                                            <th>S.No</th>
-                                                            <th>Code</th>
-                                                            <th>Subject</th>
-                                                            <th>Credits</th>
-                                                        </tr>
-                                                    </thead>
-                                                    <tbody>
-                                                        <tr>
-                                                            <td>1</td>
-                                                            <td>S2C14</td>
-                                                            <td>Research Methodology and Management Decision</td>
-                                                            <td>4 credits</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>2</td>
-                                                            <td>S2C13</td>
-                                                            <td>Management Intelligence System</td>
-                                                            <td>4 credits</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>3</td>
-                                                            <td>S2C12</td>
-                                                            <td>Financial Reporting, Statements, and Analysis</td>
-                                                            <td>4 credits</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>4</td>
-                                                            <td>S2SO1</td>
-                                                            <td>Operations Management</td>
-                                                            <td>4 credits</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>5</td>
-                                                            <td>S2SO2</td>
-                                                            <td>Lean Management Systems - LAB (Credits = 3+1)</td>
-                                                            <td>4 credits</td>
-                                                        </tr>
-
-                                                    </tbody>
-                                                </table>
-                                                <?php include "pgdm-common-sem2-sub.php"?>
-                                                <div class="alert brandcolor" align="right" role="alert">
-                                                    Total Credits 20
-                                                </div>
-
-
-                                            </ul>
-
-                                        </div>
-                                    </div>
+                    <!-- Semester 3 -->
+                    <div class="pgcs-card">
+                        <div class="pgcs-top">
+                            <div class="pgcs-left">
+                                <span class="pgcs-tag"><span class="pgcs-tag-inner">Semester 3</span></span>
+                                <ul class="pgcs-course-list">
+                                    <li>Strategic Management (S3C01)</li>
+                                    <li>Organizational Behaviour (S3C02)</li>
+                                    <li>World Class Manufacturing (S3SO1)</li>
+                                    <li>Operations Research - LAB (Credits = 3+1) (S4EL4)</li>
+                                    <li>Production, Planning and Control (S3SO3)</li>
+                                    <li>Project Work (PWMI1)</li>
+                                </ul>
+                            </div>
+                            <div class="pgcs-right">
+                                <div class="pgcs-right-info">
+                                    <img class="pgcs-icon" src="assets-new/images/star-icon.png" alt="">
+                                    <h3 class="pgcs-title">AI Specialist</h3>
+                                    <p class="pgcs-desc">Advanced specialisation + leadership artifact</p>
+                                </div>
+                                <span class="pgcs-vdivider"></span>
+                                <div class="pgcs-right-outcome">
+                                    <p class="pgcs-learner-label">What the Learner Becomes:</p>
+                                    <span class="pgcs-outcome">AI Workflow Builder</span>
                                 </div>
                             </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button " type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#module3" aria-expanded="false" aria-controls="module3">
-                                        Semester III
-                                    </button>
-                                </h2>
-                                <div id="module3" class="accordion-collapse show" data-bs-parent="#curriculum">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <ul class="curriculum">
-                                                <table class="table">
-                                                    <thead>
-                                                        <tr>
-                                                            <th>S.No</th>
-                                                            <th>Code</th>
-                                                            <th>Subject</th>
-                                                            <th>Credits</th>
-                                                        </tr>
-                                                    </thead>
-                                                    <tbody>
-                                                        <tr>
-                                                            <td>1</td>
-                                                            <td>S3C01</td>
-                                                            <td>Strategic Management</td>
-                                                            <td>4 credits</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>2</td>
-                                                            <td>S3C02</td>
-                                                            <td>Organizational Behaviour</td>
-                                                            <td>4 credits</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>3</td>
-                                                            <td>S3SO1</td>
-                                                            <td>World Class Manufacturing</td>
-                                                            <td>4 credits</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>4</td>
-                                                            <td>S4EL4</td>
-                                                            <td>Operations Research  - LAB (Credits = 3+1)</td>
-                                                            <td>4 credits</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>5</td>
-                                                            <td>S3SO3</td>
-                                                            <td>Production, Planning and Control</td>
-                                                            <td>4 credits</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>6</td>
-                                                            <td>PWMI1</td>
-                                                            <td>Project Work</td>
-                                                            <td>6 credits</td>
-                                                        </tr>
-                                                    </tbody>
-                                                </table>
-                                                <?php include "pgdm-common-sem3-sub.php"?>
-                                                <div class="alert brandcolor" align="right" role="alert">
-                                                    Total Credits 26
-                                                </div>
-                                            </ul>
+                        </div><!-- /pgcs-top -->
+                        <div class="pgcs-cert">
+                            <span class="pgcs-tag"><span class="pgcs-tag-inner">Certificate</span></span>
+                            <ul class="pgcs-cert-list">
+                                <li>AI Automation Certificate (AIAC)</li>
+                            </ul>
+                            <p class="sub-text"><strong>Total Credits 26</strong></p>
+                        </div><!-- /pgcs-cert -->
+                    </div>
 
-
-
-                                        </div>
-                                    </div>
+                    <!-- Semester 4 -->
+                    <div class="pgcs-card">
+                        <div class="pgcs-top">
+                            <div class="pgcs-left">
+                                <span class="pgcs-tag"><span class="pgcs-tag-inner">Semester 4</span></span>
+                                <ul class="pgcs-course-list">
+                                    <li>Organizational Strategy in a Global Environment (S4EO3)</li>
+                                    <li>Emerging Trends in SCM and Logistics - LAB (Credits = 3+1) (S4SO1)</li>
+                                    <li>Entrepreneurship and Venture Capital Management (S4SO2)</li>
+                                    <li>Industrial Relations and Labour Laws (S4SO3)</li>
+                                </ul>
+                            </div>
+                            <div class="pgcs-right">
+                                <div class="pgcs-right-info">
+                                    <img class="pgcs-icon" src="assets-new/images/star-icon.png" alt="">
+                                    <h3 class="pgcs-title">AI Mastery</h3>
+                                    <p class="pgcs-desc">Capstone with measurable business impact</p>
+                                </div>
+                                <span class="pgcs-vdivider"></span>
+                                <div class="pgcs-right-outcome">
+                                    <p class="pgcs-learner-label">What the Learner Becomes:</p>
+                                    <span class="pgcs-outcome">AI Strategy Architect</span>
                                 </div>
                             </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button " type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#module4" aria-expanded="false" aria-controls="module4">
-                                        Semester IV
-                                    </button>
-                                </h2>
-                                <div id="module4" class="accordion-collapse show" data-bs-parent="#curriculum">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <ul class="curriculum">
-                                                <table class="table">
-                                                    <thead>
-                                                        <tr>
-                                                            <th>S.No</th>
-                                                            <th>Code</th>
-                                                            <th>Subject</th>
-                                                            <th>Credits</th>
-                                                        </tr>
-                                                    </thead>
-                                                    <tbody>
+                        </div><!-- /pgcs-top -->
+                        <div class="pgcs-cert">
+                            <span class="pgcs-tag"><span class="pgcs-tag-inner">Certificate</span></span>
+                            <ul class="pgcs-cert-list">
+                                <li>AI Strategy Certificate (AISC)</li>
+                            </ul>
+                            <p class="sub-text"><strong>Total Credits 16</strong></p>
+                        </div><!-- /pgcs-cert -->
+                    </div>
 
-                                                        <tr>
-                                                            <td>1</td>
-                                                            <td>S4EO3</td>
-                                                            <td>Organizational Strategy in a Global Environment</td>
-                                                            <td>4 credits</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>2</td>
-                                                            <td>S4SO1</td>
-                                                            <td>Emerging Trends in SCM and Logistics  - LAB (Credits = 3+1)</td>
-                                                            <td>4 credits</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>3</td>
-                                                            <td>S4SO2</td>
-                                                            <td>Entrepreneurship and Venture Capital Management</td>
-                                                            <td>4 credits</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>4</td>
-                                                            <td>S4SO3</td>
-                                                            <td>Industrial Relations and Labour Laws</td>
-                                                            <td>4 credits</td>
-                                                        </tr>
-                                                    </tbody>
-                                                </table>
-                                                <?php include "pgdm-common-sem4-sub.php" ?>
-                                                <div class="alert brandcolor" align="right" role="alert">
-                                                    Total Credits 16
-                                                </div>
-                                                <div class="alert brandcolor" align="right" role="alert">
-                                                    Total Cumulative Credits 82
-                                                </div>
+                </div><!-- /pgcs-stack -->
 
+                <p class="sub-text text-light mt-4"><strong>Total Cumulative Credits 82</strong></p>
 
-                                            </ul>
+                <div class="pgcs-note">
+                    <h3 class="pgcs-note-heading">Note :</h3>
+                    <ul class="pgcs-note-list">
+                        <li>The above course curriculum is subject to revision as per AICTE guidelines from time to
+                            time and as per industry updates.</li>
+                        <li>Exams would be conducted during the January and July exam cycles.</li>
+                        <li>All the Exams at MITSDE (Internal &amp; External) are in the form of Multiple Choice
+                            Questions.</li>
+                        <li>Student will have to attempt all the components in the Learning Management System and
+                            submit TWO Quizzes (30 marks each) for each subject.</li>
+                        <li>Internal Examinations carry 60% marks (2 Quizzes of 30 Marks each) and External Proctored
+                            Exam carry 40% weightage (passing criteria for both internal &amp; external exam is
+                            50%).</li>
+                    </ul>
+                </div><!-- /pgcs-note -->
 
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+            </div><!-- /pgcs-bg-wrap -->
+        </div>
+    </section>
 
+    <!-- ═══════════════════════════════════════════════
+       FEE STRUCTURE
+    ════════════════════════════════════════════════ -->
+    <section class="fee-structure-section" id="fees">
+        <div class="container">
+            <h2 class="section-heading"><span>Fee</span> Structure</h2>
 
-                            <li class="section hero10 p-3" style="list-style-type: none;">
-                                <!-- <h4 class="section-title">Project Term – 3 Months</h4>
-                                <ul class="curriculum me-1">
+            <div class="fs-outer">
 
-                                    <table class="table">
+                <?php include "pgdm-common-fee-structure.php" ?>
+                <!-- Note (reuses the same .pgcs-note pattern/CSS from Course Syllabus) -->
+                <div class="fs-note-wrap">
+                    <div class="pgcs-note">
+                        <h3 class="pgcs-note-heading">Note :</h3>
+                        <ul class="pgcs-note-list">
+                            <li>Students are required to pay an additional Exam Fee of ₹750 per paper and a Project
+                                Evaluation Fee of ₹2,000.</li>
+                        </ul>
+                        <p class="fs-note-subhead">For Installments</p>
+                        <ul class="pgcs-note-list">
+                            <li>First Installment needs to be paid at the time of admission.</li>
+                            <li>Second Installment needs to be paid within 3 months from the date of admission.</li>
+                            <li>Third Installment needs to be paid within 6 months from the date of admission.</li>
+                        </ul>
+                    </div>
+                    <div class="faq-list">
+
+                        <div class="faq-item is-open">
+                            <button class="faq-q" style="background: white;" aria-expanded="true">
+                                <span>Validity</span>
+                                <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round" />
+                                </svg>
+                            </button>
+                            <div class="faq-a" style="background: transparent;">
+                                <div class="tbl-wrap">
+                                    <table class="tbl">
                                         <thead>
                                             <tr>
-                                                <th>S.No</th>
-                                                <th>Code</th>
-
-                                                <th>Credits</th>
+                                                <th class="tbl-label">Course Duration</th>
+                                                <th>Extension</th>
+                                                <th>Validity</th>
                                             </tr>
                                         </thead>
+
                                         <tbody>
                                             <tr>
-                                                <td>1</td>
-                                                <td>Desk Research</td>
-                                                <td>2</td>
+                                                <td class="tbl-label">24 Months</td>
+                                                <td>6 Months</td>
+                                                <td>2 Years 6 Months</td>
                                             </tr>
-                                            <tr>
-                                                <td>2</td>
-                                                <td>Project Work</td>
-                                                <td>4</td>
-                                            </tr>
-
                                         </tbody>
                                     </table>
-                                    <div class="alert brandcolor" align="right" role="alert">Total Credits 6 </div>
-
-
-
-
-                                    <div class="alert brandcolor" align="right" role="alert">Total Cumulative Credits 78
-                                    </div> -->
-
-
-                                <div class="alert brandcolor" role="alert"><b>Note :</b><br>
-                                    <ul class="fin-feature2" style="list-style: none;">
-                                        <li><span class="newright-icon1"></span> The above course curriculum is
-                                            subject to revision as per AICTE
-                                            guidelines
-                                            from time to time and as per industry updates.</li>
-                                        <li><span class="newright-icon1"></span> Exams would be conducted during the
-                                            January and July exam
-                                            cycles.</li>
-                                        <li><span class="newright-icon1"></span> All the Exams at MITSDE (Internal &
-                                            External) are in the form of
-                                            Multiple
-                                            Choice Questions.
-                                        </li>
-                                        <li><span class="newright-icon1"></span> Student will have to attempt all
-                                            the components in the Learning
-                                            Management
-                                            System and submit TWO Quizzes (30 marks each) for each subject.
-
-                                        </li>
-                                        <li><span class="newright-icon1"></span> Internal Examinations carry 60%
-                                            marks (2 Quizzes of 30 Marks
-                                            each) and
-                                            External Proctored Exam carry 40% weightage (passing criteria for both
-                                            internal & external exam is 50%).
-                                        </li>
-
-                                    </ul>
-                                </div>
-
-
-
-
-                                </ul>
-
-                            </li>
-
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-
-        <?php include "2-PGDM-second-common-fees.php" ?>
-
-        <section>
-            <div class="container">
-                <div class="row">
-                    <div class="cur-accordiaon">
-
-                        <div class="accordion curriculum-accordion" id="freQuestions">
-                            <?php include "2-PGDM-validity.php" ?>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions1" aria-expanded="false" aria-controls="questions1">
-                                        Potential Career
-                                    </button>
-                                </h2>
-                                <div id="questions1" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <p>Upon completion of the course, you will be in demand in thriving
-                                                industries like Information Technology, Pharmaceutical, Petrochemical,
-                                                Construction, Automotive in challenging roles namely:</p>
-                                            <ul class="fin-feature2" style="list-style: none;">
-                                                <li><span class="newright-icon1"></span> Purchasing Manager Plant
-                                                    Manager</li>
-                                                <li><span class="newright-icon1"></span> Service Operations Director
-                                                </li>
-                                                <li><span class="newright-icon1"></span> Supply Chain Manager </li>
-
-                                                <li><span class="newright-icon1"></span> Quality Control Officer</li>
-
-
-                                                <li><span class="newright-icon1"></span> Warehouse Manager</li>
-
-                                            </ul>
-                                        </div>
-                                    </div>
                                 </div>
                             </div>
-
                         </div>
+
+                        <div class="faq-item">
+                            <button class="faq-q" style="background: white;" aria-expanded="false">
+                                <span>Potential Career</span>
+                                <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round" />
+                                </svg>
+                            </button>
+                            <div class="faq-a" style="background: transparent;">
+                                <p class="text-dark">Upon completion of the course, you will be in demand in thriving industries like Information Technology, Pharmaceutical, Petrochemical, Construction, Automotive in challenging roles namely: </p>
+                                <ul class="ac-list text-dark">
+                                    <li>Purchasing Manager Plant Manager</li>
+                                    <li>Service Operations Director</li>
+                                    <li>Supply Chain Manager</li>
+                                    <li>Quality Control Officer</li>
+                                    <li>Warehouse Manager</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                    </div>
+                </div><!-- /fs-note-wrap -->
+
+
+            </div><!-- /fs-outer -->
+        </div>
+    </section>
+
+    <!-- FAQ -->
+
+    <section class="faq-section" id="faq">
+        <div class="container">
+            <h2 class="section-heading">Frequently Asked Questions</h2>
+            <div class="faq-list">
+
+                <div class="faq-item is-open">
+                    <button class="faq-q" aria-expanded="true">
+                        <span>When are the KPMG Domain Analytics certification training sessions scheduled?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <ul class="ac-list text-dark">
+                            <li>
+                                The KPMG certification training sessions are exclusively held on Saturdays and Sundays.
+                            </li>
+                            <li>
+                                Saturdays - 7pm to 10pm
+                            </li>
+                            <li>
+                                Sundays - 10am to 1pm
+                            </li>
+                        </ul>
                     </div>
                 </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>Is the KPMG Domain Analytics certification course part of PGDM? Is there an additional
+                            charge for the KPMG certification?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>Yes, the KPMG Domain Analytics certification course is part of PGDM, and there is no extra
+                            charge for obtaining the KPMG certification. The Domain Analytics certification program will
+                            begin in Sem 3 of the PGDM course.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>Will there be recordings of the KPMG sessions available?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>Yes, a 20-minute summary videos of all live sessions will be provided after each live session
+                            on the KPMG LMS.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>When will the KPMG LMS link and ID be activated, and when is the session on this
+                            scheduled?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>The KPMG login credentials will be activated and shared before the Master E-INDCUTION. you
+                            will receive the email from us, and there will be a Master Orientation session to understand
+                            the KPMG Domain Analytics Certification Program conducted by the team from KPMG and MITSDE.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>What is the assessment methodology?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>The assessments consist of 10 multiple-choice questions (MCQs) worth 5 marks each to gauge
+                            conceptual understanding and 3 practical questions worth 50 marks aimed at assessing the
+                            application of learned skills. The total marks allotted for the assessment are 100, with a
+                            passing percentage set at 50%.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>What is the method of delivery for the training program?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>The training program is delivered through Virtual Instructor-Led Training (VILT), utilizing
+                            online platforms to connect learners with instructors in a dynamic, interactive virtual
+                            environment.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>What is the duration of the course?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>The course spans over a total of 40 hours of live sessions. It is structured to optimize
+                            learning outcomes while accommodating the busy schedules of participants.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>What certificates will participants receive upon completion, and what are the conditions
+                            for receiving them?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>Participants who clear the Final assessments with a minimum of 50% out of total 100 marks,
+                            will receive a Certificate of Completion, while those who fail to clear the final assessment
+                            will receive a Certificate of Participation. Participants are allowed two attempts to clear
+                            the final assessment, with one free retake. Subsequent retake – only 1, will be charged at
+                            Rs. 1000/-. To qualify for the certificate of completion, participants must pass both the
+                            project and final assessment, separately.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>What additional support will students receive during and after the training?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>Participants will have access to KPMG’S Learning Management System (LMS), including Module
+                            wise demo videos, session presentations, and access to LMS for two months after completion
+                            of each training course.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>Will there be doubt solving, Exam and project preparation session for the KPMG Domain
+                            Analytics Certification Program?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>Yes, there will be a doubt solving session every fortnight, followed by, Exam and project
+                            preparation session after the live session concludes.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>What is the format for the project, and what role does it play in certification
+                            qualification?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>The project is hands-on and must be submitted in the format recommended by KPMG SME within a
+                            specified duration. Participants have only one attempt to submit the project, and the
+                            project score significantly influences final certification qualification. The total marks
+                            allotted for the Project is 50, with a passing percentage set at 50%.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>What is the duration of the course?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>The course spans over a total of 40 hours of live sessions. It is structured to optimize
+                            learning outcomes while accommodating the busy schedules of participants.</p>
+                    </div>
+                </div>
+
             </div>
-        </section>
+        </div>
+    </section>
 
-        <!-- mitsde content start -->
+    <!-- ═══════════════════════════════════════════════
+       SITE FOOTER
+    ════════════════════════════════════════════════ -->
+    <?php include "footer-new.php" ?>
 
-        <?php include "faq-of-kpmg-project-management.php" ?>
+    <script>
+        // Specialisation pill switcher
+        (function () {
+            var pills = document.querySelectorAll('.ph-spec-pill');
+            pills.forEach(function (pill) {
+                pill.addEventListener('click', function () {
+                    pills.forEach(function (p) { p.classList.remove('is-active'); });
+                    pill.classList.add('is-active');
+                });
+            });
+        })();
+    </script>
 
-        <?php include "all-similar-program-all-courses-slider.php" ?>
-
-        <?php include "learner-support.php" ?>
-
-
-    </main>
-    <!-- Footer Start -->
-
-    <?php include "footer.php" ?>
-
-
-    <!-- footer end  -->
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/js/bootstrap-select.min.js"></script>
-    <script src="assets/js/slick.min.js"></script>
-    <script src="assets/js/common.js"></script>
-    <script src="assets/js/course-slider.js"></script>
-
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 
 </html>

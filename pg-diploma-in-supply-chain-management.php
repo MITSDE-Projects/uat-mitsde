@@ -1,109 +1,43 @@
 <!DOCTYPE html>
-
 <html lang="en">
 
-
-
 <head>
-
     <meta charset="UTF-8" />
-
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <title>Distance PGDM in Logistics and Supply Chain Management | Online PG course in Logistics and Supply Chain Management</title>
 
-    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <meta name="description" content="Online PGDM in Supply Chain Management, grow your career in global logistics and supply chain management to get equiped with industry-required skillset." />
 
-
-
-    <title>Distance PGDM in Logistics and Supply Chain Management | Online PG course in Logistics and Supply Chain
-
-        Management</title>
-
-
-
-    <meta name="description"
-        content="Online PGDM in Supply Chain Management, grow your career in global logistics and supply chain management to get equiped with industry-required skillset." />
-
-
-
-    <meta name="keywords"
-        content="pgdm in logistics and supply chain management in india, post graduate diploma in logistics and supply chain management, pgdm in logistics and supply chain management Pune, pg diploma in supply chain management distance, pg diploma in supply chain management in india, postgraduate diploma in logistics and supply chain management, diploma in supply chain management distance learning, Online PGDM in supply chain management" />
+    <meta name="keywords" content="pgdm in logistics and supply chain management in india, post graduate diploma in logistics and supply chain management, pgdm in logistics and supply chain management Pune, pg diploma in supply chain management distance, pg diploma in supply chain management in india, postgraduate diploma in logistics and supply chain management, diploma in supply chain management distance learning, Online PGDM in supply chain management" />
 
     <meta name="robots" content="index, follow">
 
-
-
     <!-- CANONICAL TAG -->
-
-
 
     <link rel="canonical" href="https://mitsde.com/pg-diploma-in-supply-chain-management" />
 
-
-
     <!-- CANONICAL TAG -->
 
-
-
-    <?php include "5-common-seo-tag-1.php" ?>
-
-
-
-    <!-- OGP TAG -->
-
-
-
-    <meta property="og:title" content="Distance PGDM in Logistics and Supply Chain Management | Online PG course in Logistics and Supply Chain
-
-        Management">
-
+    <meta property="og:title" content="Distance PGDM in Logistics and Supply Chain Management | Online PG course in Logistics and Supply Chain Management">
     <meta property="og:site_name" content="MIT School of Distance Education">
-
     <meta property="og:url" content="https://mitsde.com/pg-diploma-in-supply-chain-management">
-
-    <meta property="og:description"
-        content="Online PGDM in Supply Chain Management, grow your career in global logistics and supply chain management to get equiped with industry-required skillset.">
-
+    <meta property="og:description" content="Online PGDM in Supply Chain Management, grow your career in global logistics and supply chain management to get equiped with industry-required skillset.">
     <meta property="og:type" content="website">
-
-    <meta property="og:image"
-        content="https://mitsde.com/assets/images/course/pgdm/pg-diploma-in-supply-chain-management.jpg">
-
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/course/pgdm/pg-diploma-in-supply-chain-management.jpg">
 
 
     <!-- / OG TAG -->
 
-    <!-- Page Title -->
-    <link rel="icon" type="image/png" href="assets/images/favicon-mit.ico" />
+    <link rel="icon" type="image/png" href="assets-new/images/favicon-mit.ico" />
 
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="assets/css/bootstrap-select.min.css" />
-    <!-- font awesome css -->
-    <link rel="stylesheet" href="assets/fontawesome/css/all.min.css">
-    <!-- Preload CSS (Non-blocking) -->
-    <link rel="preload" href="assets/css/slick.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <link rel="preload" href="assets/css/fonts.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <link rel="preload" href="assets/css/style.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <link rel="preload" href="assets/css/course-common-internal.css" as="style"
-        onload="this.onload=null;this.rel='stylesheet'">
-
-    <!-- Fallback (Loads CSS if JS disabled) -->
-    <noscript>
-        <link rel="stylesheet" href="assets/css/slick.min.css">
-        <link rel="stylesheet" href="assets/css/fonts.css">
-        <link rel="stylesheet" href="assets/css/style.css">
-        <link rel="stylesheet" href="assets/css/course-common-internal.css">
-    </noscript>
-
-    <!--API for Queck contact----->
-
-    <script src="assets/js/api/jquery-1.10.2.min.js"></script>
-
-    <script type="text/javascript" src="assets/js/api/validation.js" charset="UTF-8"></script>
-
-    <!----->
-
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="css-new/styles.css" />
+    <link rel="stylesheet" href="css-new/intlTelInput.css">
+         
     <script type="application/ld+json">
         {
 
@@ -115,7 +49,7 @@
 
             Management ",
 
-            "image": "https://mitsde.com/assets/images/course/pgdm/pg-diploma-in-supply-chain-management.jpg",
+            "image": "https://mitsde.com/assets-new/images/course/pgdm/pg-diploma-in-supply-chain-management.jpg",
 
             "description": "Online PGDM in Supply Chain Management, grow your career in global logistics and supply chain management to get equipped with industry-required skill set.",
 
@@ -187,7 +121,7 @@
     }
   ]
 }
-</script>
+    </script>
 
     <script type="application/ld+json">
         {
@@ -304,7 +238,7 @@
 
                     "@type": "Answer",
 
-                    "text": "Absolutely! MITSDE’s supply chain management courses for working professionals are flexible and tailored to fit your busy schedule, allowing you to learn and grow without career interruptions."
+                    "text": "Absolutely! MITSDEâ€™s supply chain management courses for working professionals are flexible and tailored to fit your busy schedule, allowing you to learn and grow without career interruptions."
 
                 }
 
@@ -327,1861 +261,666 @@
         }
     </script>
 
+    <!-- faq -->
 
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "LocalBusiness",
+            "name": "MIT School of Distance Education",
+            "image": "https://mitsde.com/assets-new/images/new/logo-mit-school-of-distance-education.png",
+            "@id": "",
+            "url": "https://mitsde.com/",
+            "telephone": "9112-207-207",
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "opposite Gajanan Maharaj Sansthan, Alandi",
+                "addressLocality": "Pune",
+                "postalCode": "412105",
+                "addressCountry": "IN"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 18.672932,
+                "longitude": 73.889243
+            },
+            "openingHoursSpecification": [{
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday",
+                    "Saturday"
+                ],
+                "opens": "09:30",
+                "closes": "05:30"
+            }]
+        }
+    </script>
 
-
-
-
-
+<?php include "5-common-seo-tag-1.php" ?>
 </head>
 
-
-
 <body>
+  <?php include "5-common-seo-tag-2.php" ?>
+    <?php include "header-new.php" ?>
 
-    <?php include "5-common-seo-tag-2.php" ?>
+    <section class="hero ph-hero">
+        <div class="container">
 
-    <!-- Header Nav Start -->
+            <!-- Breadcrumb -->
+            <nav class="page-breadcrumb" aria-label="Breadcrumb">
+                <a href="index.php">Home</a>
+                <span class="pb-sep">/</span>
+                <a href="#">PGDM</a>
+                <span class="pb-sep">/</span>
+                <span class="pb-current">Pg diploma in supply chain management</span>
+            </nav>
 
-    <?php include "header.php" ?>
+            <!-- 3-column layout: left content | center image | right form -->
+            <div class="ph-layout">
 
-    <!-- Header Nav End --->
-
-    <main class="main-body">
-
-        <?php include "announcementUpdate.php" ?>
-
-        <section class="banner inner-banner">
-
-            <div class="container">
-
-                <div class="row">
-
-                    <div class="col-md-12 col-lg-6 main-banner">
-
-                        <h1>PGDM In Logistics and Supply Chain</h1>
-
-                        <p>Low costs, timely delivery, and smooth running supply chain, learn to achieve
-
-                            excellence in Supply Chain and Logistics.</p>
-
-                        <div class="page-btn">
-
-
-
-
-
-                            <button type="button" class="btn btn-primary mit-button cus-btn inner-cus ms-0"
-                                data-bs-toggle="modal" data-bs-target="#enquiryModal-download-form"><span
-                                    class="mtsk-download"></span> &nbsp; Download BROCHURE
-
-                            </button>
-
-
-
-                        </div>
-
-                        <div>
-
-                            <nav>
-
-                                <ol class="breadcrumb">
-
-                                    <li class="breadcrumb-item"><a href=" https://mitsde.com">Home</a>
-
-                                    </li>
-
-                                    <li class="breadcrumb-item"><a href="post-graduate-diploma-in-management">PGDM</a>
-
-                                    </li>
-
-                                    <li class="breadcrumb-item active text-capitalize" aria-current="page">PG diploma in
-
-                                        supply chain management
-
-                                    </li>
-
-
-
-                            </nav>
-
-
-
-
-
-                        </div>
-
-                    </div>
-
-                    <div class="col-md-12 col-lg-6">
-
-                        <div class="css-details">
-
-                            <div class="stc-det student-sec inner-sec">
-
-                                <img src="assets/images/course/pgdm/PGDM-Logistics-and-Supply-Chain_Icon_01.jpg" alt="">
-
-                            </div>
-
-                            <img src="assets/images/course/pgdm/pg-diploma-in-supply-chain-management.jpg"
-                                class="banner-img" fetchpriority="high" alt="pg-diploma-in-supply-chain-management">
-
-                            <div class="stc-det course-sec inner-sec">
-
-                                <img src="assets/images/course/pgdm/PGDM-Logistics-and-Supply-Chain_Icon_02.jpg" alt="">
-
-                            </div>
-
-                        </div>
-
-                    </div>
-
+                <!-- Left â€” heading + partner -->
+                <div class="ph-left">
+                    <h1 class="ph-heading">Online PGDM Course<br>In Logistics and Supply Chain<br> Management</h1>
+                    
+                    <!-- <div class="ph-sub">
+                        <p style="max-width: 400px;"><img src="assets-new/images/kpmg-logo.png" alt="KPMG" class="ph-partner-logo" /> in India across is
+                            the academic partner for the Project Analytics Certification Program.
+                            (Optional)</p>
+                    </div> -->
                 </div>
 
-            </div>
-
-        </section>
-
-        <?php //include "2-kpmg-not-added-fees-PGDM-first-common-fees.php" ?>
-        <?php include "2-PGDM-first-common-fees.php" ?>
-
-
-
-
-
-
-
-        <section class="app-featurelist">
-
-            <div class="container">
-
-                <div class="row">
-
-                    <ul class="app-features">
-
-                        <li><a class="active" href="#overview">About MITSDE</a></li>
-
-                        <li><a href="#learning">Learning</a></li>
-
-
-
-                        <li><a href="#curriculam">Curriculum</a></li>
-
-                        <li><a href="#progressFee">Program Fees</a></li>
-
-                        <li><a href="#learnExpert">Our Courses</a></li>
-
-                    </ul>
-
+                <div class="ph-right">
+                    <img src="assets-new/images/project-management.webp" alt="PG Diploma in Logistics and Supply Chain Management" />
                 </div>
 
+            </div><!-- /ph-layout -->
+
+            <!-- Specialisation filter pills -->
+            <div class="ph-specs-wrap">
+                <div class="ph-specs">
+                    <a href="pg-diploma-in-project-management"><button class="ph-spec-pill">Project Management</button></a>
+                    <a href="pg-diploma-in-operations-management"><button class="ph-spec-pill">Operations Management</button></a>
+                    <a href="pg-diploma-in-human-resource-management"><button class="ph-spec-pill">Human Resource Management</button></a>
+                    <a href="pg-diploma-in-information-technology"><button class="ph-spec-pill">Information Technology</button></a>
+                    <a href="pg-diploma-in-marketing-management"><button class="ph-spec-pill">Marketing Management</button></a>
+                    <a href="pg-diploma-in-finance-management"><button class="ph-spec-pill">Finance Management</button></a>
+                    <a href="pg-diploma-in-supply-chain-management"><button class="ph-spec-pill is-active">Logistics And Supply Chain Management</button></a>
+                    <a href="pg-diploma-in-material-management"><button class="ph-spec-pill">Material Management</button></a>
+                    <a href="pg-diploma-in-banking-finance"><button class="ph-spec-pill">Banking &amp; Financial Services</button></a>
+                    <a href="pg-diploma-in-construction-and-project-management"><button class="ph-spec-pill">Construction And Project Management</button></a>
+                </div>
+                <p class="ph-specs-hint">Select a category above to explore all available specializations, fees,
+                    duration, and learning outcomes.</p>
             </div>
 
-        </section>
+        </div>
+    </section>
 
-        <section id="overview" class="enroll-certification">
+    <!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+       COURSE INFO BAR
+    â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
+    <?php include "pgdm-common-fee-bar.php" ?>
 
-            <div class="container">
+    <!-- TABs -->
 
-                <div class="row">
-                    <div class="col-md-12 col-lg-12 fintech-certi aboutMit-skills">
-                        <h2>About The Program</h2>
+    <div class="ph-specs-wrap sticky-pills">
+        <div class="ph-specs">
+            <!-- <a href="#kpmg"><button class="ph-spec-pill is-active">KPMG</button></a>
+            <a href="#modules"><button class="ph-spec-pill">Modules</button></a> -->
+            <a href="#faq"><button class="ph-spec-pill">FAQ</button></a>
+            <a href="#about"><button class="ph-spec-pill">About</button></a>
+            <a href="#learning"><button class="ph-spec-pill">Learning</button></a>
+            <a href="#curriculum"><button class="ph-spec-pill">Curriculum</button></a>
+            <a href="#fees"><button class="ph-spec-pill">Program Fees</button></a>
+            <a href="#courses"><button class="ph-spec-pill">Our Courses</button></a>
+        </div>
+    </div>
 
-                    </div>
-                    <div class="col-md-8 col-lg-8 fintech-certi fin-feature hero11">
-                        <p><b>Logistics and Supply Chain Management</b> constitutes integration and coordination of
+    <!-- About Section -->
 
-                            the flow of material, information, and finances both internal and external to the
+    <section class="about-section pb-0" id="about">
 
-                            company. Generally, the chain of flow is from supplier to manufacturer and from
+        <div class="container">
 
-                            wholesaler to retailer to consumer. Today, organizations realize that any business
+            <!-- Heading -->
 
-                            can sustainably succeed only with high customer satisfaction. The task demands
+            <h2 class="section-heading">
+                <span class="text-orange">About </span>the Programme
+            </h2>
 
-                            efficient management skills like coordinating, monitoring, up-dating, allocating,
+            <p>
+                Logistics and Supply Chain Management constitutes integration and coordination of the flow of material, information, and finances both internal and external to the company. Generally, the chain of flow is from supplier to manufacturer and from wholesaler to retailer to consumer. Today, organizations realize that any business can sustainably succeed only with high customer satisfaction. The task demands efficient management skills like coordinating, monitoring, up-dating, allocating, for the function to be effective in essence.
+            </p>
 
-                            for the function to be effective in essence.</p>
+            <p>
+                The PG Diploma in Logistics and Supply Chain Management course encompasses business sustainability and green operations, general operations, project management and covers logistics management to equip you with the latest business and social needs.
+            </p>
 
-
-
-                        <p> The <b>PG Diploma in Logistics and Supply Chain Management</b> course encompasses
-
-                            business sustainability and green operations, <b>general operations, project
-
-                                management and covers logistics management</b> to equip you with the latest
-
-                            business and social needs.
-
-                        </p>
-
-                        <p>The fast-paced global economy highlights the crucial role of <strong>Logistics and Supply
-
-                                Chain
-
-                                Management (SCM)</strong> in ensuring smooth operations across industries. This PG
-
-                            Diploma equips
-
-                            professionals with the skills to manage the complexities of modern supply chains, enabling
-
-                            them to address challenges and optimize processes. With a growing focus on efficiency and
-
-                            sustainability, trained <strong>SCM professionals</strong> are in high demand in e-commerce,
-
-                            manufacturing,
-
-                            retail, and other sectors, making this diploma a strategic choice for career growth.
-
-                        </p>
+            <p>
+                The fast-paced global economy highlights the crucial role of Logistics and Supply Chain Management (SCM) in ensuring smooth operations across industries. This PG Diploma equips professionals with the skills to manage the complexities of modern supply chains, enabling them to address challenges and optimize processes. With a growing focus on efficiency and sustainability, trained SCM professionals are in high demand in e-commerce, manufacturing, retail, and other sectors, making this diploma a strategic choice for career growth.
+            </p>
 
 
-                    </div>
-                    <div class="col-md-4 col-lg-4 ">
-                        <?php include "common-home-form-added-all-36-courses-pages.php" ?>
+        </div>
 
-                    </div>
+    </section>
+
+    <!-- Pedagogy section -->
+
+    <?php include "pgdm-common-unique-pedagogy.php"?>
+
+    <!-- Learning Section -->
+
+    <section class="learning-section" id="learning">
+
+        <div class="container">
+
+            <!-- Heading -->
+
+            <h2 class="section-heading">
+                <span class="text-orange">Learning </span>Outcomes
+            </h2>
+
+            <div class="learning-outcomes-layout">
+
+                <div class="learning-outcomes-left">
+                    <!-- TODO: replace with real photo -->
+                    <img src="assets-new/images/learning-outcomes.jpg" alt="Learning Outcomes" />
                 </div>
 
-
-
-
-
-
-                <!-- COMMON Unique Pedagogy  -->
-
-
-
-                <?php include "PGDM-common-unique-pedagogy.php" ?>
-
-
-
-                <!-- COMMON Unique Pedagogy  -->
-
-
-
-
-
-            </div>
-
-        </section>
-
-        <section id="learning" class="enroll-certification">
-
-            <div class="container">
-
-                <div class="row">
-
-                    <div class="col-md-12 col-lg-4 fintech-certi aboutMit-skills">
-
-                        <h2>Learning <br> Outcomes <br> </h2>
-
-
-
-                    </div>
-
-                    <div class="col-md-12 col-lg-8 fin-feature1 hero11">
-
-                        <li><span class="newright-icon1"></span> Understand the basics of Supply Chain Management (SCM)
-
+                <div class="learning-outcomes-right">
+                    <ul class="learning-outcomes-list">
+                        
+                        <li>
+                            <i class="fa-regular fa-square-check"></i>
+                            <span>Understand the basics of Supply Chain Management (SCM)</span>
                         </li>
-
-                        <li><span class="newright-icon1"></span> Understand the challenges and learn to forecast the
-
-                            bottlenecks in the supply
-
-                            chain for a competitive advantage</li>
-
-                        <li><span class="newright-icon1"></span> Learn the use of analytical software to minimize risk
-
-                            and optimize profits</li>
-
-                        <li><span class="newright-icon1"></span> Learn critical people management skills for
-
-                            negotiation, working with a diverse
-
-                            group and ethical decision making</li>
-
-                        <li><span class="newright-icon1"></span> Learn strong managerial, communication, coordination,
-
-                            organizational and
-
-                            execution skills</li>
-
-
-
-                    </div>
-
+                        <li>
+                            <i class="fa-regular fa-square-check"></i>
+                            <span>Understand the challenges and learn to forecast the bottlenecks in the supply chain for a competitive advantage</span>
+                        </li>
+                        <li>
+                            <i class="fa-regular fa-square-check"></i>
+                            <span>Learn the use of analytical software to minimize risk and optimize profits</span>
+                        </li>
+                        <li>
+                            <i class="fa-regular fa-square-check"></i>
+                            <span>Learn critical people management skills for negotiation, working with a diverse group and ethical decision making</span>
+                        </li>
+                        <li>
+                            <i class="fa-regular fa-square-check"></i>
+                            <span>Learn strong managerial, communication, coordination, organizational and execution skills</span>
+                        </li>
+                    
+                    </ul>
                 </div>
 
-                <hr>
-
-            </div>
-
-
-
-        </section>
-
-        <section id="learning" class="mt-4">
-
-            <div class="container">
-
-                <div class="row">
-
-                    <div class="col-md-12 col-lg-12 fintech-certi aboutMit-skills">
-
-                        <h3><strong>What is a PG Diploma in Logistics and Supply Chain Management?</strong>
-
-                        </h3>
-
-
-
-
-
-                    </div>
-
-                    <div class="col-md-12 col-lg-12 fin-feature1 hero11">
-
-                        <p>A <strong>Post Graduate Diploma in Logistics</strong> and <strong>SCM</strong> equips you
-
-                            with in-depth knowledge and practical skills to handle the complexities of modern supply
-
-                            chains. By enrolling in a <strong>logistics and supply chain management diploma</strong>,
-
-                            you gain expertise to improve efficiency, reduce costs, and enhance customer satisfaction.
-
-                        </p>
-
-
-
-
-
-
-
-                    </div>
-
-                </div>
-
-                <hr>
-
-            </div>
-
-        </section>
-
-        <section id="learning">
-
-            <div class="container">
-
-                <div class="row">
-
-                    <div class="col-md-12 col-lg-12 fintech-certi aboutMit-skills">
-
-                        <h3><strong>Why Choose an Online PGDM in Supply Chain Management?
-
-                            </strong>
-
-                        </h3>
-
-
-
-
-
-                    </div>
-
-                    <div class="col-md-12 col-lg-12 fin-feature1 hero11">
-
-                        <p>Online learning offers flexibility and convenience, allowing you to balance work, life, and
-
-                            education. Here’s why <strong>supply chain online courses</strong> are an excellent choice:
-
-                        </p>
-
-
-
-                        <div class="col-md-12 col-lg-12 fin-feature hero11">
-
-                            <ul class="fin-feature hero11" style="list-style-type: decimal;">
-
-                                <li><strong>Flexibility:</strong> Study at your own pace from anywhere in the world.
-
-                                </li>
-
-                                <li><strong>Industry-Relevant Curriculum:</strong> Learn the latest trends and tools,
-
-                                    such as AI, blockchain, and IoT in SCM.</li>
-
-                                <li><strong>Networking Opportunities:</strong> Connect with industry professionals and
-
-                                    peers globally.</li>
-
-                                <li><strong>Affordability:</strong> Reduced expenses compared to traditional classroom
-
-                                    programs.</li>
-
-                                <li><strong>Globally Recognized Curriculum:</strong> Stay updated with industry trends
-
-                                    and standards.</li>
-
-                                <li><strong>Practical Training:</strong> Hands-on exposure to tools and real-world
-
-                                    supply chain challenges.</li>
-
-                                <li><strong>Affordable Fees:</strong> Competitive pricing with flexible payment plans.
-
-                                </li>
-
-                                <li><strong>Online Learning Support:</strong> 24/7 access to course materials and expert
-
-                                    guidance.</li>
-
-                                <li><strong>Career Services:</strong> Placement support and career counseling to help
-
-                                    you land your dream job.</li>
-
-                            </ul>
-
-
-
-
-
-                        </div>
-
-
-
-
-
-
-
-                    </div>
-
-                </div>
-
-                <hr>
-
-            </div>
-
-        </section>
-
-
-
-        <section id="learning">
-
-            <div class="container">
-
-                <div class="row">
-
-                    <div class="col-md-12 col-lg-12 fintech-certi aboutMit-skills">
-
-                        <h3><strong>Key Features of Logistics and Supply Chain Management Courses Online
-
-                            </strong>
-
-                        </h3>
-
-
-
-
-
-                    </div>
-
-                    <div class="col-md-12 col-lg-12 fin-feature1 hero11">
-
-
-
-
-
-                        <div class="col-md-12 col-lg-12 fin-feature hero11">
-
-                            <ul class="fin-feature hero11">
-
-                                <li><strong>Comprehensive Curriculum:</strong> Covers end-to-end supply chain
-
-                                    operations.</li>
-
-                                <li><strong>Hands-On Projects:</strong> Gain real-world insights through case studies
-
-                                    and projects.</li>
-
-                                <li><strong>Experienced Faculty:</strong> Learn from industry experts and seasoned
-
-                                    academicians.</li>
-
-                                <li><strong>Technology Integration:</strong> Explore tools like SAP, Oracle, and
-
-                                    advanced analytics platforms.</li>
-
-                            </ul>
-
-
-
-
-
-                        </div>
-
-
-
-
-
-
-
-                    </div>
-
-                </div>
-
-                <hr>
-
-            </div>
-
-        </section>
-
-        <section id="learning">
-
-            <div class="container">
-
-                <div class="row">
-
-                    <div class="col-md-12 col-lg-12 fintech-certi aboutMit-skills">
-
-                        <h3><strong>Benefits of a Post Graduate Diploma in Logistics and Supply Chain Management
-
-                            </strong>
-
-                        </h3>
-
-
-
-
-
-                    </div>
-
-                    <div class="col-md-12 col-lg-12 fin-feature1 hero11">
-
-
-
-
-
-                        <div class="col-md-12 col-lg-12 fin-feature hero11">
-
-                            <ul class="fin-feature hero11" style="list-style-type: decimal;">
-
-                                <li><strong>Career Advancement:</strong> Open doors to roles like Logistics Manager,
-
-                                    Supply Chain Analyst, and Operations Head.</li>
-
-                                <li><strong>Higher Earning Potential:</strong> Graduates of online SCM programs often
-
-                                    see a significant salary increase.</li>
-
-                                <li><strong>Global Opportunities:</strong> SCM professionals are in demand worldwide.
-
-                                </li>
-
-                                <li><strong>Future-Ready Skills:</strong> Stay ahead with knowledge of sustainable and
-
-                                    digital supply chains.</li>
-
-                            </ul>
-
-
-
-
-
-                        </div>
-
-
-
-
-
-
-
-                    </div>
-
-                </div>
-
-                <hr>
-
-            </div>
-
-
-
-        </section>
-
-
-
-
-
-
-
-        <section id="curriculam">
-
-            <div class="container">
-
-                <div class="row">
-
-                    <div class="cur-accordiaon">
-
-                        <h3>Course Syllabus</h3>
-
-                        <div class="accordion curriculum-accordion" id="curriculum">
-
-                            <?php include "pgdm-common-semester-one.php" ?>
-
-                            <div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button " type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#module2" aria-expanded="false" aria-controls="module2">
-
-                                        Semester II
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="module2" class="accordion-collapse show" data-bs-parent="#curriculum">
-
-                                    <div class="accordion-body hero10">
-
-                                        <div class="row">
-
-                                            <ul class="curriculum">
-                                                <table class="table">
-
-                                                    <thead>
-
-                                                        <tr>
-
-                                                            <th>S.No</th>
-
-                                                            <th>Code</th>
-
-                                                            <th>Subject</th>
-
-                                                            <th>Credits</th>
-
-                                                        </tr>
-
-                                                    </thead>
-
-                                                    <tbody>
-
-                                                        <tr>
-                                                            <td>1</td>
-                                                            <td>S2C14</td>
-                                                            <td>Research Methodology and Management Decision</td>
-                                                            <td>4 credits</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>2</td>
-                                                            <td>S2C13</td>
-                                                            <td>Management Intelligence System</td>
-                                                            <td>4 credits</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>3</td>
-                                                            <td>S2C12</td>
-                                                            <td>Financial Reporting, Statements, and Analysis</td>
-                                                            <td>4 credits</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>4</td>
-                                                            <td>S4EO2</td>
-                                                            <td>Warehouse Management</td>
-                                                            <td>4 credits</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>5</td>
-                                                            <td>S2SL2</td>
-                                                            <td>Introduction to Logistics and Supply Chain Management - LAB (Credits = 3+1)</td>
-                                                            <td>4 credits</td>
-                                                        </tr>
-                                                       
-
-
-                                                    </tbody>
-
-                                                </table>
-                                                <?php include "pgdm-common-sem2-sub.php"?>
-                                                <div class="alert brandcolor" align="right" role="alert">
-                                                    Total Credits 20
-                                                </div>
-
-                                            </ul>
-
-
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
+            </div><!-- /learning-outcomes-layout -->
+
+        </div>
+
+    </section>
+
+    <!-- â”€â”€ Section: Course Syllabus â”€â”€ -->
+    <section class="pgcs-section" id="curriculum">
+        <div class="container">
+            <div class="pgcs-bg-wrap">
+
+                <h2 class="pgcs-heading">Course Syllabus</h2>
+
+                <div class="pgcs-stack">
+
+                    <!-- Semester 1 -->
+                    <?php include "pgdm-common-semester-one.php" ?>
+
+                    <!-- Semester 2 -->
+                    <div class="pgcs-card">
+                        <div class="pgcs-top">
+                            <div class="pgcs-left">
+                                <span class="pgcs-tag"><span class="pgcs-tag-inner">Semester 2</span></span>
+                                <ul class="pgcs-course-list">
+                                    <li>Research Methodology and Management Decision (S2C14)</li>
+                                    <li>Management Intelligence System (S2C13)</li>
+                                    <li>Financial Reporting, Statements, and Analysis (S2C12)</li>
+                                    <li>Warehouse Management (S4EO2)</li>
+                                    <li>Introduction to Logistics and Supply Chain Management - LAB (Credits = 3+1) (S2SL2)</li>
+                                </ul>
                             </div>
-
-                            <div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button " type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#module3" aria-expanded="false" aria-controls="module3">
-
-                                        Semester III
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="module3" class="accordion-collapse show" data-bs-parent="#curriculum">
-
-                                    <div class="accordion-body hero10">
-
-                                        <div class="row">
-
-                                            <ul class="curriculum">
-
-                                                <table class="table">
-
-                                                    <thead>
-
-                                                        <tr>
-
-                                                            <th>S.No</th>
-
-                                                            <th>Code</th>
-
-                                                            <th>Subject</th>
-
-                                                            <th>Credits</th>
-
-                                                        </tr>
-
-                                                    </thead>
-
-                                                    <tbody>
-
-                                                        <tr>
-                                                            <td>1</td>
-                                                            <td>S3C01</td>
-                                                            <td>Strategic Management</td>
-                                                            <td>4 credits</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>2</td>
-                                                            <td>S3C02</td>
-                                                            <td>Organizational Behaviour</td>
-                                                            <td>4 credits</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>3</td>
-                                                            <td>S4SO1</td>
-                                                            <td>Emerging Trends in SCM and Logistics  - LAB (Credits = 3+1)</td>
-                                                            <td>4 credits</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>4</td>
-                                                            <td>S3SL02</td>
-                                                            <td>Port and Airport Management for Logistics</td>
-                                                            <td>4 credits</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>5</td>
-                                                            <td>S3SL03</td>
-                                                            <td>Inventory Management - LAB (Credits = 3+1)</td>
-                                                            <td>4 credits</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>6</td>
-                                                            <td>PWMI1</td>
-                                                            <td>Project Work</td>
-                                                            <td>6 credits</td>
-                                                        </tr>
-                                                    </tbody>
-
-                                                </table>
-                                                <?php include "pgdm-common-sem3-sub.php"?>
-                                                <div class="alert brandcolor" align="right" role="alert">
-                                                    Total Credits 26
-                                                </div>
-
-                                            </ul>
-
-
-
-
-
-
-
-                                        </div>
-
-                                    </div>
-
+                            <div class="pgcs-right">
+                                <div class="pgcs-right-info">
+                                    <img class="pgcs-icon" src="assets-new/images/star-icon.png" alt="">
+                                    <h3 class="pgcs-title">AI Intermediate</h3>
+                                    <p class="pgcs-desc">Domain-contextualised AI module + workplace artifact</p>
                                 </div>
-
-                            </div>
-
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button " type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#module4" aria-expanded="false" aria-controls="module4">
-                                        Semester IV
-                                    </button>
-                                </h2>
-                                <div id="module4" class="accordion-collapse show" data-bs-parent="#curriculum">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <ul class="curriculum">
-                                                <table class="table">
-                                                    <thead>
-                                                        <tr>
-                                                            <th>S.No</th>
-                                                            <th>Code</th>
-                                                            <th>Subject</th>
-                                                            <th>Credits</th>
-                                                        </tr>
-                                                    </thead>
-                                                    <tbody>
-
-                                                        <tr>
-                                                            <td>1</td>
-                                                            <td>S4EO3</td>
-                                                            <td>Organizational Strategy in a Global Environment</td>
-                                                            <td>4 credits</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>2</td>
-                                                            <td>S4SL1</td>
-                                                            <td>Supply Chain Analytics  - LAB (Credits = 3+1)</td>
-                                                            <td>4 credits</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>3</td>
-                                                            <td>S4SL2</td>
-                                                            <td>Achieving Supply Chain Integration -  LAB (Credits = 3+1)</td>
-                                                            <td>4 credits</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>4</td>
-                                                            <td>S4SL3</td>
-                                                            <td>International Logistics and Management</td>
-                                                            <td>4 credits</td>
-                                                        </tr>
-
-                                                    </tbody>
-                                                </table>
-                                                <?php include "pgdm-common-sem4-sub.php" ?>
-                                                <div class="alert brandcolor" align="right" role="alert">
-                                                    Total Credits 16
-                                                </div>
-                                                <div class="alert brandcolor" align="right" role="alert">
-                                                    Total Cumulative Credits 82
-                                                </div>
-
-                                            </ul>
-
-
-
-                                        </div>
-                                    </div>
+                                <span class="pgcs-vdivider"></span>
+                                <div class="pgcs-right-outcome">
+                                    <p class="pgcs-learner-label">What the Learner Becomes:</p>
+                                    <span class="pgcs-outcome">AI-Enabled Task Optimiser</span>
                                 </div>
                             </div>
+                        </div><!-- /pgcs-top -->
+                        <div class="pgcs-cert">
+                            <span class="pgcs-tag"><span class="pgcs-tag-inner">Certificate</span></span>
+                            <ul class="pgcs-cert-list">
+                                <li>AI Productivity Certificate (AIPC)</li>
+                                <li>Certified Professional Data Science Analyst (CPDSA)</li>
+                                <li>Certified Professional Quantitative Business Analyst (CPQBA)</li>
+                            </ul>
+                            <p class="sub-text"><strong>Total Credits 20</strong></p>
+                        </div><!-- /pgcs-cert -->
+                    </div>
 
-                            <li class="section hero10 p-3" style="list-style-type: none;">
+                    <!-- Semester 3 -->
+                    <div class="pgcs-card">
+                        <div class="pgcs-top">
+                            <div class="pgcs-left">
+                                <span class="pgcs-tag"><span class="pgcs-tag-inner">Semester 3</span></span>
+                                <ul class="pgcs-course-list">
+                                    <li>Strategic Management (S3C01)</li>
+                                    <li>Organizational Behaviour (S3C02)</li>
+                                    <li>Emerging Trends in SCM and Logistics - LAB (Credits = 3+1) (S4SO1)</li>
+                                    <li>Port and Airport Management for Logistics (S3SL02)</li>
+                                    <li>Inventory Management - LAB (Credits = 3+1) (S3SL03)</li>
+                                    <li>Project Work (PWMI1)</li>
+                                </ul>
+                            </div>
+                            <div class="pgcs-right">
+                                <div class="pgcs-right-info">
+                                    <img class="pgcs-icon" src="assets-new/images/star-icon.png" alt="">
+                                    <h3 class="pgcs-title">AI Specialist</h3>
+                                    <p class="pgcs-desc">Advanced specialisation + leadership artifact</p>
+                                </div>
+                                <span class="pgcs-vdivider"></span>
+                                <div class="pgcs-right-outcome">
+                                    <p class="pgcs-learner-label">What the Learner Becomes:</p>
+                                    <span class="pgcs-outcome">AI Workflow Builder</span>
+                                </div>
+                            </div>
+                        </div><!-- /pgcs-top -->
+                        <div class="pgcs-cert">
+                            <span class="pgcs-tag"><span class="pgcs-tag-inner">Certificate</span></span>
+                            <ul class="pgcs-cert-list">
+                                <li>AI Automation Certificate (AIAC)</li>
+                            </ul>
+                            <p class="sub-text"><strong>Total Credits 26</strong></p>
+                        </div><!-- /pgcs-cert -->
+                    </div>
 
-                                <!-- <h4 class="section-title">Project Term – 3 Months</h4>
+                    <!-- Semester 4 -->
+                    <div class="pgcs-card">
+                        <div class="pgcs-top">
+                            <div class="pgcs-left">
+                                <span class="pgcs-tag"><span class="pgcs-tag-inner">Semester 4</span></span>
+                                <ul class="pgcs-course-list">
+                                    <li>Organizational Strategy in a Global Environment (S4EO3)</li>
+                                    <li>Supply Chain Analytics - LAB (Credits = 3+1) (S4SL1)</li>
+                                    <li>Achieving Supply Chain Integration - LAB (Credits = 3+1) (S4SL2)</li>
+                                    <li>International Logistics and Management (S4SL3)</li>
+                                </ul>
+                            </div>
+                            <div class="pgcs-right">
+                                <div class="pgcs-right-info">
+                                    <img class="pgcs-icon" src="assets-new/images/star-icon.png" alt="">
+                                    <h3 class="pgcs-title">AI Mastery</h3>
+                                    <p class="pgcs-desc">Capstone with measurable business impact</p>
+                                </div>
+                                <span class="pgcs-vdivider"></span>
+                                <div class="pgcs-right-outcome">
+                                    <p class="pgcs-learner-label">What the Learner Becomes:</p>
+                                    <span class="pgcs-outcome">AI Strategy Architect</span>
+                                </div>
+                            </div>
+                        </div><!-- /pgcs-top -->
+                        <div class="pgcs-cert">
+                            <span class="pgcs-tag"><span class="pgcs-tag-inner">Certificate</span></span>
+                            <ul class="pgcs-cert-list">
+                                <li>AI Strategy Certificate (AISC)</li>
+                            </ul>
+                            <p class="sub-text"><strong>Total Credits 16</strong></p>
+                        </div><!-- /pgcs-cert -->
+                    </div>
 
-                                <ul class="curriculum me-1">
+                </div><!-- /pgcs-stack -->
 
+                <p class="sub-text text-light mt-4"><strong>Total Cumulative Credits 82</strong></p>
 
+                <div class="pgcs-note">
+                    <h3 class="pgcs-note-heading">Note :</h3>
+                    <ul class="pgcs-note-list">
+                        <li>The above course curriculum is subject to revision as per AICTE guidelines from time to
+                            time and as per industry updates.</li>
+                        <li>Exams would be conducted during the January and July exam cycles.</li>
+                        <li>All the Exams at MITSDE (Internal &amp; External) are in the form of Multiple Choice
+                            Questions.</li>
+                        <li>Student will have to attempt all the components in the Learning Management System and
+                            submit TWO Quizzes (30 marks each) for each subject.</li>
+                        <li>Internal Examinations carry 60% marks (2 Quizzes of 30 Marks each) and External Proctored
+                            Exam carry 40% weightage (passing criteria for both internal &amp; external exam is
+                            50%).</li>
+                    </ul>
+                </div><!-- /pgcs-note -->
 
-                                    <table class="table">
+            </div><!-- /pgcs-bg-wrap -->
+        </div>
+    </section>
 
+    <!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+       FEE STRUCTURE
+    â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
+    <section class="fee-structure-section" id="fees">
+        <div class="container">
+            <h2 class="section-heading"><span>Fee</span> Structure</h2>
+
+            <div class="fs-outer">
+
+                <?php include "pgdm-common-fee-structure.php" ?>
+                <!-- Note (reuses the same .pgcs-note pattern/CSS from Course Syllabus) -->
+                <div class="fs-note-wrap">
+                    <div class="pgcs-note">
+                        <h3 class="pgcs-note-heading">Note :</h3>
+                        <ul class="pgcs-note-list">
+                            <li>Students are required to pay an additional Exam Fee of â‚¹750 per paper and a Project
+                                Evaluation Fee of â‚¹2,000.</li>
+                        </ul>
+                        <p class="fs-note-subhead">For Installments</p>
+                        <ul class="pgcs-note-list">
+                            <li>First Installment needs to be paid at the time of admission.</li>
+                            <li>Second Installment needs to be paid within 3 months from the date of admission.</li>
+                            <li>Third Installment needs to be paid within 6 months from the date of admission.</li>
+                        </ul>
+                    </div>
+                    <div class="faq-list">
+
+                        <div class="faq-item is-open">
+                            <button class="faq-q" style="background: white;" aria-expanded="true">
+                                <span>Validity</span>
+                                <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round" />
+                                </svg>
+                            </button>
+                            <div class="faq-a" style="background: transparent;">
+                                <div class="tbl-wrap">
+                                    <table class="tbl">
                                         <thead>
-
                                             <tr>
-
-                                                <th>S.No</th>
-
-                                                <th>Code</th>
-
-
-
-                                                <th>Credits</th>
-
+                                                <th class="tbl-label">Course Duration</th>
+                                                <th>Extension</th>
+                                                <th>Validity</th>
                                             </tr>
-
                                         </thead>
 
                                         <tbody>
-
                                             <tr>
-
-                                                <td>1</td>
-
-                                                <td>Desk Research</td>
-
-                                                <td>2</td>
-
+                                                <td class="tbl-label">24 Months</td>
+                                                <td>6 Months</td>
+                                                <td>2 Years 6 Months</td>
                                             </tr>
-
-                                            <tr>
-
-                                                <td>2</td>
-
-                                                <td>Project Work</td>
-
-                                                <td>4</td>
-
-                                            </tr>
-
-
-
                                         </tbody>
-
                                     </table>
-
-
-
-
-
-
-
-
-
-                                    <div class="alert brandcolor" align="right" role="alert">Total Credits 6</div>
-
-                                    <div class="alert brandcolor" align="right" role="alert">Total Cumulative Credits 78
-
-                                    </div> -->
-
-
-
-
-
-
-
-                                <div class="alert brandcolor" role="alert"><b>Note :</b><br>
-
-                                    <ul class="fin-feature2" style="list-style: none;">
-
-                                        <li><span class="newright-icon1"></span> The above course curriculum is
-
-                                            subject to revision as per AICTE
-
-                                            guidelines
-
-                                            from time to time and as per industry updates.</li>
-
-                                        <li><span class="newright-icon1"></span> Exams would be conducted during the
-
-                                            January and July exam
-
-                                            cycles.</li>
-
-                                        <li><span class="newright-icon1"></span> All the Exams at MITSDE (Internal &
-
-                                            External) are in the form of
-
-                                            Multiple
-
-                                            Choice Questions.
-
-                                        </li>
-
-                                        <li><span class="newright-icon1"></span> Student will have to attempt all
-
-                                            the components in the Learning
-
-                                            Management
-
-                                            System and submit TWO Quizzes (30 marks each) for each subject.
-
-
-
-                                        </li>
-
-                                        <li><span class="newright-icon1"></span> Internal Examinations carry 60%
-
-                                            marks (2 Quizzes of 30 Marks
-
-                                            each) and
-
-                                            External Proctored Exam carry 40% weightage (passing criteria for both
-
-                                            internal & external exam is 50%).
-
-                                        </li>
-
-
-
-                                    </ul>
-
                                 </div>
+                            </div>
+                        </div>
 
-
-
-
-
-
-
-
-
+                        <div class="faq-item">
+                            <button class="faq-q" style="background: white;" aria-expanded="false">
+                                <span>Potential Career</span>
+                                <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round" />
+                                </svg>
+                            </button>
+                            <div class="faq-a" style="background: transparent;">
+                                <p class="text-dark">Upon completion of the course, you will be in demand in thriving
+                                    industries like Information Technology, Pharmaceutical, Petrochemical, Construction,
+                                    Automotive in challenging roles namely: </p>
+                                <ul class="ac-list text-dark">
+                                    <li>Project Coordinator</li>
+                                    <li>Project Scheduler</li>
+                                    <li>Project Manager</li>
+                                    <li>Senior Project Manager</li>
+                                    <li>Project Planner</li>
                                 </ul>
+                            </div>
+                        </div>
+
+                    </div>
+                </div><!-- /fs-note-wrap -->
 
 
+            </div><!-- /fs-outer -->
+        </div>
+    </section>
 
+    <!-- FAQ -->
+
+    <section class="faq-section" id="faq">
+        <div class="container">
+            <h2 class="section-heading">Frequently Asked Questions</h2>
+            <div class="faq-list">
+
+                <div class="faq-item is-open">
+                    <button class="faq-q" aria-expanded="true">
+                        <span>When are the KPMG Domain Analytics certification training sessions scheduled?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <ul class="ac-list text-dark">
+                            <li>
+                                The KPMG certification training sessions are exclusively held on Saturdays and Sundays.
                             </li>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                        </div>
-
-                    </div>
-
-                </div>
-
-            </div>
-
-        </section>
-
-
-
-        <?php //include "2-kpmg-not-added-fees-PGDM-second-common-fees.php" ?>
-        <?php include "2-PGDM-second-common-fees.php" ?>
-
-
-
-
-
-
-        <section>
-
-            <div class="container">
-
-                <div class="row">
-
-                    <div class="cur-accordiaon">
-
-
-
-                        <div class="accordion curriculum-accordion" id="freQuestions">
-
-
-
-                            <?php include "2-PGDM-validity.php" ?>
-
-                            <div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions1" aria-expanded="false" aria-controls="questions1">
-
-                                        Career Prospects After a PGDM in Supply Chain Management
-
-
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="questions1" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-
-                                    <div class="accordion-body hero10">
-
-                                        <div class="row fintech-module alert brandcolor hero10">
-
-                                            <p>You can venture into the field as a Management Trainee, Front Line
-
-                                                Supervisor, or Analyst, with these roles offering unique challenges and
-
-                                                opportunities. As the demand for SCM professionals rises due to
-
-                                                globalization and e-commerce growth, exciting career paths are emerging,
-
-                                                providing avenues for development in various industries such as
-
-                                                logistics, manufacturing, and retail.
-
-
-
-                                            </p>
-
-                                            <ul class="fin-feature2" style="list-style: none;">
-
-                                                <div class="row">
-
-                                                    <div class="col-md-6">
-
-                                                        <li><span class="newright-icon1"></span> Freight Manager</li>
-
-                                                        <li><span class="newright-icon1"></span> Dispatch Manager</li>
-
-                                                        <li><span class="newright-icon1"></span> Customer Service
-
-                                                            Manager</li>
-
-                                                        <li><span class="newright-icon1"></span> Fulfillment Supervisor
-
-                                                        </li>
-
-                                                        <li><span class="newright-icon1"></span> Supply Chain Manager
-
-                                                        </li>
-
-                                                        <li><span class="newright-icon1"></span> Consultant</li>
-
-                                                        <li><span class="newright-icon1"></span> Transportation Manager
-
-                                                        </li>
-
-
-
-
-
-                                                    </div>
-
-                                                    <div class="col-md-6">
-
-                                                        <li><span class="newright-icon1"></span> Warehouse Operations
-
-                                                            Manager</li>
-
-                                                        <li><span class="newright-icon1"></span> Export Manager</li>
-
-                                                        <li><span class="newright-icon1"></span> Purchasing Manager</li>
-
-                                                        <li><span class="newright-icon1"></span> Supply Chain Software
-
-                                                            Manager</li>
-
-                                                        <li><span class="newright-icon1"></span> International Logistics
-
-                                                            Manager </li>
-
-                                                        <li><span class="newright-icon1"></span> Master Production
-
-                                                            Scheduler</li>
-
-                                                        <li><span class="newright-icon1"></span> Supply Chain
-
-                                                            Distributor</li>
-
-
-
-
-
-                                                    </div>
-
-                                                </div>
-
-
-
-
-
-                                            </ul>
-
-                                        </div>
-
-                                    </div>
-
-
-
-                                    <div class="container hero10">
-
-                                        <h4><strong>How to Get Started with Online Supply Chain Management?</strong>
-
-                                        </h4>
-
-                                        <div class="fintech-module alert brandcolor hero10">
-
-                                            <ul style="list-style-type: decimal;">
-
-                                                <li><strong>Explore the Program:</strong> Review course details,
-
-                                                    curriculum, and outcomes.</li>
-
-                                                <li><strong>Check Eligibility:</strong> Ensure you meet the program
-
-                                                    requirements.</li>
-
-                                                <li><strong>Compare Fees:</strong> Look for competitive pricing and
-
-                                                    flexible payment options.</li>
-
-                                                <li><strong>Enroll Today:</strong> Take the first step towards a
-
-                                                    rewarding career in logistics and SCM.</li>
-
-
-
-
-
-                                            </ul>
-
-
-
-
-
-                                        </div>
-
-                                        <div class="row">
-
-                                            <h4><strong>Conclusion</strong>
-
-                                            </h4>
-
-                                            <div class="fintech-module alert brandcolor hero10">
-
-                                                <p>A PGDM in Supply Chain Management is your gateway to a thriving
-                                                    career in a high-demand field. With the convenience of online
-                                                    logistics and supply chain management courses, you can enhance your
-                                                    skills without disrupting your routine. Whether you’re a working
-                                                    professional or a recent graduate, this diploma can unlock
-                                                    opportunities in leading organizations worldwide.</p>
-
-
-
-                                            </div>
-
-
-
-                                        </div>
-
-                                    </div>
-
-
-
-
-
-                                </div>
-
-
-
-
-
-
-
-
-
-                            </div>
-
-
-
-                        </div>
-
-                    </div>
-
-
-
-
-
-
-
-
-
-                </div>
-
-            </div>
-
-        </section>
-
-
-
-
-
-        <section>
-
-            <div class="container">
-
-                <h2>Frequently Asked Questions </h2>
-
-                <div class="row">
-
-                    <div class="cur-accordiaon">
-
-                        <!-- <h3>COURSE SYLLABUS</h3> -->
-
-                        <div class="accordion curriculum-accordion" id="curriculum">
-
-                            <div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#module1" aria-expanded="true" aria-controls="module1">
-
-                                        What is a PGDM in Logistics and Supply Chain Management?
-
-
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="module1" class="accordion-collapse collapse show" data-bs-parent="#curriculum">
-
-                                    <div class="accordion-body hero10">
-
-                                        <div class="row p-3">
-
-
-
-                                            <div class="alert brandcolor" role="alert">
-
-
-
-
-
-
-
-                                                <p>A Post Graduate Diploma in Logistics and Supply Chain Management
-                                                    focuses on equipping professionals with skills to manage the flow of
-                                                    goods, services, and information efficiently across supply chains.
-
-
-
-                                                </p>
-
-
-
-
-
-                                            </div>
-
-
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                            <div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#module2" aria-expanded="false" aria-controls="module2">
-
-                                        Why choose MITSDE for a PG Diploma in Logistics and Supply Chain Management?
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="module2" class="accordion-collapse collapse" data-bs-parent="#curriculum">
-
-                                    <div class="accordion-body hero10">
-
-                                        <div class="row p-3">
-
-                                            <div class="alert brandcolor" role="alert">
-
-
-
-
-
-                                                <p>MITSDE offers flexible, industry-aligned online supply chain
-                                                    management courses for working professionals. The program combines
-                                                    practical insights, case studies, and certifications to enhance your
-                                                    career prospects.
-
-
-
-                                                </p>
-
-
-
-
-
-
-
-
-
-                                            </div>
-
-
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                            <div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#module3" aria-expanded="false" aria-controls="module3">
-
-                                        Who should pursue a diploma in logistics and supply chain management?
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="module3" class="accordion-collapse collapse" data-bs-parent="#curriculum">
-
-                                    <div class="accordion-body hero10">
-
-                                        <div class="row p-3">
-
-                                            <div class="alert brandcolor" role="alert">
-
-
-
-
-
-                                                <p>This program is ideal for professionals in logistics, operations,
-                                                    procurement, or supply chain roles, as well as graduates aiming to
-                                                    specialize in supply chain management.</p>
-
-
-
-
-
-                                            </div>
-
-
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                            <div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#module3" aria-expanded="false" aria-controls="module3">
-
-                                        Who should pursue a diploma in logistics and supply chain management?
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="module3" class="accordion-collapse collapse" data-bs-parent="#curriculum">
-
-                                    <div class="accordion-body hero10">
-
-                                        <div class="row p-3">
-
-                                            <div class="alert brandcolor" role="alert">
-
-
-
-
-
-                                                <p>This program is ideal for professionals in logistics, operations,
-                                                    procurement, or supply chain roles, as well as graduates aiming to
-                                                    specialize in supply chain management.</p>
-
-
-
-
-
-
-
-
-
-                                            </div>
-
-
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                            <div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#module4" aria-expanded="false" aria-controls="module4">
-
-                                        Are there any online SCM courses available at MITSDE?
-
-
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="module4" class="accordion-collapse collapse" data-bs-parent="#curriculum">
-
-                                    <div class="accordion-body hero10">
-
-                                        <div class="row p-3">
-
-                                            <div class="alert brandcolor" role="alert">
-
-
-
-
-
-                                                <p>Yes, MITSDE provides comprehensive online SCM courses, enabling you
-                                                    to upskill without disrupting your work schedule.</p>
-
-
-
-
-
-
-
-
-
-                                            </div>
-
-
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-
-
-                            <div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#module5" aria-expanded="false" aria-controls="module5">
-
-                                        What are the career opportunities after completing a PG Diploma in Supply Chain
-                                        Management?
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="module5" class="accordion-collapse collapse" data-bs-parent="#curriculum">
-
-                                    <div class="accordion-body hero10">
-
-                                        <div class="row p-3">
-
-                                            <div class="alert brandcolor" role="alert">
-
-
-
-
-
-                                                <p>This program is ideal for professionals in logistics, operations,
-                                                    procurement, or supply chain roles, as well as graduates aiming to
-                                                    specialize in supply chain management.</p>
-
-
-
-
-
-
-
-                                            </div>
-
-
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-
-
-                            <div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#module6" aria-expanded="false" aria-controls="module6">
-
-                                        What is the duration of the course?
-
-
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="module6" class="accordion-collapse collapse" data-bs-parent="#curriculum">
-
-                                    <div class="accordion-body hero10">
-
-                                        <div class="row p-3">
-
-                                            <div class="alert brandcolor" role="alert">
-
-
-
-
-
-                                                <p>Typically, the program duration is 24 Months. MITSDE offers a
-                                                    self-paced learning approach, allowing you to complete it at your
-                                                    convenience within the prescribed time frame..</p>
-
-
-
-
-
-                                            </div>
-
-
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-
-
-                            <div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#module7" aria-expanded="false" aria-controls="module7">
-
-                                        Does MITSDE offer a certificate in supply chain management and logistics?
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="module7" class="accordion-collapse collapse" data-bs-parent="#curriculum">
-
-                                    <div class="accordion-body hero10">
-
-                                        <div class="row p-3">
-
-                                            <div class="alert brandcolor" role="alert">
-
-
-
-
-
-                                                <p>Yes, MITSDE's PGDM program includes certifications designed to
-                                                    validate your expertise in supply chain management and logistics.
-                                                </p>
-
-
-
-
-
-                                            </div>
-
-
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-
-
-                            <div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#module8" aria-expanded="false" aria-controls="module8">
-
-                                        Can working professionals benefit from supply chain online courses?
-
-
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="module8" class="accordion-collapse collapse" data-bs-parent="#curriculum">
-
-                                    <div class="accordion-body hero10">
-
-                                        <div class="row p-3">
-
-                                            <div class="alert brandcolor" role="alert">
-
-
-
-                                                <p>Absolutely! MITSDE’s supply chain management courses for working
-                                                    professionals are flexible and tailored to fit your busy schedule,
-                                                    allowing you to learn and grow without career interruptions.</p>
-
-
-
-
-
-                                            </div>
-
-
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-
-
-                            <div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#module9" aria-expanded="false" aria-controls="module9">
-
-                                        How does a Post Graduate Diploma in Supply Chain Management differ from other
-                                        courses?
-
-
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="module9" class="accordion-collapse collapse" data-bs-parent="#curriculum">
-
-                                    <div class="accordion-body hero10">
-
-                                        <div class="row p-3">
-
-                                            <div class="alert brandcolor" role="alert">
-
-
-
-
-
-                                                <p>A PGDM in Supply Chain Management offers a more comprehensive,
-                                                    strategic approach compared to short-term certifications, providing
-                                                    in-depth knowledge and leadership skills essential for senior roles.
-
-                                                </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                            </div>
-
-
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-
-
-                            </ul>
-
-
-
+                            <li>
+                                Saturdays - 7pm to 10pm
                             </li>
-
-
-
-                        </div>
-
+                            <li>
+                                Sundays - 10am to 1pm
+                            </li>
+                        </ul>
                     </div>
+                </div>
 
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>Is the KPMG Domain Analytics certification course part of PGDM? Is there an additional
+                            charge for the KPMG certification?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>Yes, the KPMG Domain Analytics certification course is part of PGDM, and there is no extra
+                            charge for obtaining the KPMG certification. The Domain Analytics certification program will
+                            begin in Sem 3 of the PGDM course.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>Will there be recordings of the KPMG sessions available?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>Yes, a 20-minute summary videos of all live sessions will be provided after each live session
+                            on the KPMG LMS.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>When will the KPMG LMS link and ID be activated, and when is the session on this
+                            scheduled?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>The KPMG login credentials will be activated and shared before the Master E-INDCUTION. you
+                            will receive the email from us, and there will be a Master Orientation session to understand
+                            the KPMG Domain Analytics Certification Program conducted by the team from KPMG and MITSDE.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>What is the assessment methodology?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>The assessments consist of 10 multiple-choice questions (MCQs) worth 5 marks each to gauge
+                            conceptual understanding and 3 practical questions worth 50 marks aimed at assessing the
+                            application of learned skills. The total marks allotted for the assessment are 100, with a
+                            passing percentage set at 50%.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>What is the method of delivery for the training program?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>The training program is delivered through Virtual Instructor-Led Training (VILT), utilizing
+                            online platforms to connect learners with instructors in a dynamic, interactive virtual
+                            environment.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>What is the duration of the course?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>The course spans over a total of 40 hours of live sessions. It is structured to optimize
+                            learning outcomes while accommodating the busy schedules of participants.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>What certificates will participants receive upon completion, and what are the conditions
+                            for receiving them?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>Participants who clear the Final assessments with a minimum of 50% out of total 100 marks,
+                            will receive a Certificate of Completion, while those who fail to clear the final assessment
+                            will receive a Certificate of Participation. Participants are allowed two attempts to clear
+                            the final assessment, with one free retake. Subsequent retake â€“ only 1, will be charged at
+                            Rs. 1000/-. To qualify for the certificate of completion, participants must pass both the
+                            project and final assessment, separately.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>What additional support will students receive during and after the training?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>Participants will have access to KPMGâ€™S Learning Management System (LMS), including Module
+                            wise demo videos, session presentations, and access to LMS for two months after completion
+                            of each training course.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>Will there be doubt solving, Exam and project preparation session for the KPMG Domain
+                            Analytics Certification Program?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>Yes, there will be a doubt solving session every fortnight, followed by, Exam and project
+                            preparation session after the live session concludes.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>What is the format for the project, and what role does it play in certification
+                            qualification?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>The project is hands-on and must be submitted in the format recommended by KPMG SME within a
+                            specified duration. Participants have only one attempt to submit the project, and the
+                            project score significantly influences final certification qualification. The total marks
+                            allotted for the Project is 50, with a passing percentage set at 50%.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>What is the duration of the course?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>The course spans over a total of 40 hours of live sessions. It is structured to optimize
+                            learning outcomes while accommodating the busy schedules of participants.</p>
+                    </div>
                 </div>
 
             </div>
+        </div>
+    </section>
 
-        </section>
+    <?php include "footer-new.php" ?>
 
+    <script>
+        // Specialisation pill switcher
+        (function () {
+            var pills = document.querySelectorAll('.ph-spec-pill');
+            pills.forEach(function (pill) {
+                pill.addEventListener('click', function () {
+                    pills.forEach(function (p) { p.classList.remove('is-active'); });
+                    pill.classList.add('is-active');
+                });
+            });
+        })();
+    </script>
 
-
-        <?php include "all-similar-program-all-courses-slider.php" ?>
-
-
-
-        <?php include "learner-support.php" ?>
-
-
-
-    </main>
-
-    <!-- Footer Start -->
-
-
-
-    <?php include "footer.php" ?>
-
-
-
-
-
-    <!-- footer end  -->
-
-    <script src="assets/js/jquery.min.js"></script>
-
-    <script src="assets/js/bootstrap.bundle.min.js"></script>
-
-    <script src="assets/js/bootstrap-select.min.js"></script>
-
-    <script src="assets/js/slick.min.js"></script>
-
-    <script src="assets/js/common.js"></script>
-
-    <script src="assets/js/course-slider.js"></script>
-
-
-
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
-
-
 
 </html>

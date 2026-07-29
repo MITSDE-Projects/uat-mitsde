@@ -2,7 +2,7 @@
 include("admin/include/configpdo.php");
 
 if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
-    header("Location: /", true, 302);
+    header("Location: ./", true, 302);
     exit;
 }
 

@@ -5,15 +5,13 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
     <title>Certification in Material Management | MITSDE</title>
+
     <meta name="description"
         content="Gain certification in material management. Perfect for advancing your skills in inventory control and supply chain efficiency. Enroll now" />
 
     <meta name="keywords"
         content="Certification In Material Management, Material Management Certification, Online Material Management Courses, Material Management Training, Material Management Programs." />
-
-
 
     <!-- CANONICAL TAG -->
 
@@ -21,462 +19,429 @@
 
     <!-- CANONICAL TAG -->
 
-    <?php include "5-common-seo-tag-1.php" ?>
-
     <!-- OGP TAG -->
-
     <meta property="og:title" content="Certification in Material Management | MITSDE">
     <meta property="og:site_name" content="MIT School of Distance Education">
     <meta property="og:url" content="https://mitsde.com/certification-in-material-management">
     <meta property="og:description"
         content="Gain certification in material management. Perfect for advancing your skills in inventory control and supply chain efficiency. Enroll now">
     <meta property="og:type" content="website">
-    <meta property="og:image"
-        content="https://mitsde.com/assets/images/course/cap/certification-in-material-management.jpg">
-
-
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/project-management.webp">
     <!-- / OG TAG -->
 
-    <!-- Page Title -->
+    <link rel="icon" type="image/png" href="assets-new/images/favicon-mit.ico" />
 
-    <!--  -->
-    <link rel="icon" type="image/png" href="assets/images/favicon-mit.ico" />
-
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="assets/css/bootstrap-select.min.css" />
-    <!-- font awesome css -->
-    <link rel="stylesheet" href="assets/fontawesome/css/all.min.css">
-    <!-- Preload CSS (Non-blocking) -->
-    <link rel="preload" href="assets/css/slick.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <link rel="preload" href="assets/css/fonts.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <link rel="preload" href="assets/css/style.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <link rel="preload" href="assets/css/course-common-internal.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-
-
-    <!-- Fallback (Loads CSS if JS disabled) -->
-    <noscript>
-        <link rel="stylesheet" href="assets/css/slick.min.css">
-        <link rel="stylesheet" href="assets/css/fonts.css">
-        <link rel="stylesheet" href="assets/css/style.css">
-        <link rel="stylesheet" href="assets/css/course-common-internal.css">
-
-    </noscript>
-    <!--  -->
-    <!--API for Queck contact----->
-    <script src="assets/js/api/jquery-1.10.2.min.js"></script>
-    <script type="text/javascript" src="assets/js/api/validation.js" charset="UTF-8"></script>
-    <!----->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="css-new/styles.css" />
+    <link rel="stylesheet" href="css-new/intlTelInput.css">
 
     <script type="application/ld+json">
-        {
-            "@context": "https://schema.org/",
-            "@type": "Product",
-            "name": "Certification in Material Management | MITSDE",
-            "image": "https://mitsde.com/assets/images/course/cap/certification-in-material-management.jpg",
-            "description": "Gain certification in material management. Perfect for advancing your skills in inventory control and supply chain efficiency. Enroll now",
-            "brand": {
-                "@type": "Brand",
-                "name": "MITSDE"
-            },
-            "offers": {
-                "@type": "Offer",
-                "url": "https://mitsde.com/certification-in-material-management",
-                "priceCurrency": "INR",
-                "price": "25000",
-                "priceValidUntil": "2025-12-31",
-                "availability": "https://schema.org/InStock",
-                "itemCondition": "https://schema.org/NewCondition"
-            },
-            "aggregateRating": {
-                "@type": "AggregateRating",
-                "ratingValue": "5",
-                "bestRating": "5",
-                "worstRating": "1",
-                "ratingCount": "10"
-            }
+    {
+        "@context": "https://schema.org/",
+        "@type": "Product",
+        "name": "Certification in Material Management | MITSDE",
+        "image": "https://mitsde.com/assets-new/images/project-management.webp",
+        "description": "Gain certification in material management. Perfect for advancing your skills in inventory control and supply chain efficiency. Enroll now",
+        "brand": {
+            "@type": "Brand",
+            "name": "MITSDE"
+        },
+        "offers": {
+            "@type": "Offer",
+            "url": "https://mitsde.com/certification-in-material-management",
+            "priceCurrency": "INR",
+            "price": "25000",
+            "priceValidUntil": "2025-12-31",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1",
+            "ratingCount": "10"
         }
+    }
     </script>
 
     <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
         {
-            "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "itemListElement": [{
-                    "@type": "ListItem",
-                    "position": 1,
-                    "name": "Home",
-                    "item": "https://mitsde.com/"
-                },
-                {
-                    "@type": "ListItem",
-                    "position": 2,
-                    "name": "Professional Certification In Material Management",
-                    "item": "https://mitsde.com/certification-in-material-management"
-                }
-            ]
+        "@type": "Question",
+        "name": "What is LMS?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "LMS (Learning Management System) is an online platform where you can access all your learning content, including videos, study material, and assessments."
         }
+        },
+        {
+        "@type": "Question",
+        "name": "Who can enroll for this course?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Students who have completed 10th or 12th and are interested in learning management concepts."
+        }
+        },
+        {
+        "@type": "Question",
+        "name": "What is the eligibility criteria?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minimum qualification: 10th or 12th pass."
+        }
+        },
+        {
+        "@type": "Question",
+        "name": "What is the duration of the course?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The course duration is 6 months (self-paced)."
+        }
+        },
+        {
+        "@type": "Question",
+        "name": "Is the program live or recorded?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The program is fully self-paced with recorded video lectures, allowing flexibility to learn anytime."
+        }
+        },
+        {
+        "@type": "Question",
+        "name": "What study material will I get?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Learners will get access to: Video lectures, E-Book, Presentations (PPTs)."
+        }
+        },
+        {
+        "@type": "Question",
+        "name": "How long can I access the content?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You will have unlimited access for 6 months from the date of registration."
+        }
+        },
+        {
+        "@type": "Question",
+        "name": "What is the passing criteria?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You need to score minimum 50% in assessments."
+        }
+        },
+        {
+        "@type": "Question",
+        "name": "What type of assessments are conducted?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Assessments are objective (MCQ-based)."
+        }
+        },
+        {
+        "@type": "Question",
+        "name": "How many assessments are there?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "There are 2 assessments for each subject/module and 1 final assignment."
+        }
+        },
+        {
+        "@type": "Question",
+        "name": "How many attempts are allowed?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You get 3 attempts per assessment."
+        }
+        },
+        {
+        "@type": "Question",
+        "name": "Are there any live projects?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, this program focuses on foundational learning and conceptual clarity."
+        }
+        }
+    ]
+    }
     </script>
-
-    <!--  -->
 
     <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
         {
-            "@context": "https://schema.org",
-            "@type": "FAQPage",
-            "mainEntity": [{
-                    "@type": "Question",
-                    "name": "Why should I enroll in a Certification Course in Material Management?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Enrolling in a Certification Course in Material Management helps you enhance your skills and career prospects in the supply chain and logistics field."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "What are the benefits of a Professional Certification in Material Management?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "It improves job opportunities, career growth, and credibility in the field of materials management."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "What is the duration of a Certification Course in Material Management?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "The duration varies, but it typically ranges from a few months to a year depending on the institution and program type."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "Is MITSDE’s Professional Certification in Material Management recognized?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Yes, MITSDE’s Professional Certification in Material Management is recognized and respected by industry professionals globally."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "What career opportunities can I pursue with a Certification in Material Management?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "You can pursue roles such as Materials Manager, Supply Chain Coordinator, or Inventory Manager, among others."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "Can I study the Certification Course in Material Management online with MITSDE?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Yes, MITSDE offers flexible online learning options for the Certification Course in Material Management."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "How can a Professional Certification in Material Management help my career?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "It can increase your chances of promotion and open doors to higher-paying roles in the material management sector."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "Do I need any prior experience to enroll in MITSDE’s Material Management Certification?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "No prior experience is required for MITSDE’s Certification in Material Management, though basic knowledge of logistics helps."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "How do I apply for a Certification Course in Material Management with MITSDE?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "You can apply easily through MITSDE’s website by filling out the online application form for the course."
-                    }
-                }
-            ]
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://mitsde.com/"
+        },
+        {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Certification in Material Management",
+        "item": "https://mitsde.com/certification-in-material-management"
         }
+    ]
+    }
     </script>
 
-
-
+<?php include "5-common-seo-tag-1.php" ?>
 </head>
 
 <body>
-    <?php include "5-common-seo-tag-2.php" ?>
-    <!-- Header Nav Start -->
-    <?php include "header.php" ?>
-    <!-- Header Nav End --->
-    <main class="main-body">
-        <?php include "announcementUpdate.php" ?>
-        <section class="banner inner-banner">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 col-lg-6 main-banner">
-                        <h1>Professional Certification In Material Management</h1>
-                        <p>Elevate your inventory prowess with our Material Management certification, ensuring seamless
-                            operations and cost efficiency.</p>
-                        <div class="page-btn">
+  <?php include "5-common-seo-tag-2.php" ?>
+    <?php include "header-new.php" ?>
 
+    <!-- ═══════════════════════════════════════════════
+       PROGRAM HERO
+    ════════════════════════════════════════════════ -->
+    <section class="hero ph-hero">
+        <div class="container">
 
-                            <button type="button" class="btn btn-primary mit-button cus-btn inner-cus ms-0"
-                                data-bs-toggle="modal" data-bs-target="#enquiryModal-download-form"><span
-                                    class="mtsk-download"></span> &nbsp; Download BROCHURE </button>
+            <!-- Breadcrumb -->
+            <nav class="page-breadcrumb" aria-label="Breadcrumb">
+                <a href="index.php">Home</a>
+                <span class="pb-sep">/</span>
+                <a href="#">PCP</a>
+                <span class="pb-sep">/</span>
+                <span class="pb-current">Certification in Material Management</span>
+            </nav>
 
+            <!-- 3-column layout: left content | center image | right form -->
+            <div class="ph-layout">
 
-                        </div>
-                        <div>
-                            <nav>
-                                <ol class="breadcrumb">
-                                    <li class="breadcrumb-item"><a href=" https://mitsde.com">Home</a>
-                                    </li>
-                                    <li class="breadcrumb-item"><a href="#">PCP</a></li>
-                                    <li class="breadcrumb-item active" aria-current="page">Certification In Material
-                                        Management</li>
-
-                            </nav>
-
-
-                        </div>
-                    </div>
-                    <div class="col-md-12 col-lg-6">
-                        <div class="css-details">
-                            <div class="stc-det student-sec inner-sec">
-                                <img src="assets/images/course/pgdm/Project-Management-icon1.jpg" alt="Project Management Icon 1">
-                            </div>
-                            <img src="assets/images/course/cap/certification-in-material-management.jpg" fetchpriority="high"
-                                class="banner-img" alt="Certification In Material Management">
-                            <div class="stc-det course-sec inner-sec">
-                                <img src="assets/images/course/pgdm/Project-Management-icon1.jpg" alt="Project Management Icon 1">
-                            </div>
-                        </div>
-                    </div>
+                <!-- Left — heading -->
+                <div class="ph-left">
+                    <h1 class="ph-heading">Professional Certification<br> In Material Management</h1>
                 </div>
+
+                <div class="ph-right">
+                    <img src="assets-new/images/project-management.webp" alt="Certification in Material Management" />
+                </div>
+
+            </div><!-- /ph-layout -->
+
+            <!-- Specialisation filter pills -->
+            <div class="ph-specs-wrap">
+                <div class="ph-specs">
+                    <a href="certification-in-digital-marketing"><button class="ph-spec-pill">Digital Marketing</button></a>
+                    <a href="certification-in-business-analytics"><button class="ph-spec-pill">Business Analytics</button></a>
+                    <a href="certification-in-project-management"><button class="ph-spec-pill">Project Management</button></a>
+                    <a href="certification-in-marketing-management"><button class="ph-spec-pill">Marketing Management</button></a>
+                    <a href="certification-in-human-resource-management"><button class="ph-spec-pill">Human Resource Management</button></a>
+                    <a href="certification-in-operations-management"><button class="ph-spec-pill">Operations Management</button></a>
+                    <a href="certification-in-material-management"><button class="ph-spec-pill is-active">Material Management</button></a>
+                    <a href="certification-in-supply-chain-management"><button class="ph-spec-pill">Logistics and Supply Chain</button></a>
+                    <a href="certification-in-finance-management"><button class="ph-spec-pill">Finance Management</button></a>
+                </div>
+                <p class="ph-specs-hint">Select a category above to explore all available specializations, fees,
+                    duration, and learning outcomes.</p>
             </div>
-        </section>
 
-        <?php include "7-cap-first-comman-fee.php" ?>
+        </div>
+    </section>
 
-        <section class="app-featurelist">
-            <div class="container">
-                <div class="row">
-                    <ul class="app-features">
-                        <li><a class="active" href="#overview">About MITSDE</a></li>
-                        <li><a href="#learning">Learning</a></li>
+    <!-- ═══════════════════════════════════════════════
+       COURSE INFO BAR
+    ════════════════════════════════════════════════ -->
+    <?php include "certification-common-fee-bar.php" ?>
 
-                        <li><a href="#curriculam">Curriculum</a></li>
-                        <li><a href="#progressFee">Program Fees</a></li>
-                        <li><a href="#learnExpert">Our Courses</a></li>
+    <!-- TABs -->
+
+    <div class="ph-specs-wrap sticky-pills">
+        <div class="ph-specs">
+            <a href="#faq"><button class="ph-spec-pill">FAQ</button></a>
+            <a href="#about"><button class="ph-spec-pill">About</button></a>
+            <a href="#learning"><button class="ph-spec-pill">Learning</button></a>
+            <a href="#curriculum"><button class="ph-spec-pill">Curriculum</button></a>
+            <a href="#fees"><button class="ph-spec-pill">Program Fees</button></a>
+        </div>
+    </div>
+
+    <!-- About Section -->
+
+    <section class="about-section pb-0" id="about">
+
+        <div class="container">
+
+            <!-- Heading -->
+
+            <h2 class="section-heading">
+                <span class="text-orange">About </span>the Programme
+            </h2>
+
+            <p>
+                This 6-month self-paced program helps you understand how organizations manage materials, from purchasing to storage. You will learn key concepts like procurement, inventory control, and resource planning, building a strong foundation for roles in operations and supply chain.
+            </p>
+
+            <h3>What will I gain after completing the course?</h3>
+            <ul class="ac-list text-dark">
+                <li>A 6-month self-paced foundation program tailored for 10th/12th pass students</li>
+                <li>Develop a strong understanding of fundamental management concepts before entering college</li>
+                <li>Gain exposure to key domains including Marketing, Project Management, Digital Marketing, Business Analytics, Operations, Finance, and HR</li>
+                <li>Identify areas of interest to make well-informed career decisions</li>
+                <li>Build confidence and preparedness for undergraduate programs such as BBA, B.Com, and B.M.S</li>
+                <li>Achieve a competitive advantage through early exposure to industry-relevant knowledge</li>
+            </ul>
+
+        </div>
+
+    </section>
+
+    <!-- Learning Section -->
+
+    <section class="learning-section" id="learning">
+
+        <div class="container">
+
+            <!-- Heading -->
+
+            <h2 class="section-heading">
+                <span class="text-orange">Learning </span>Outcomes
+            </h2>
+
+            <div class="learning-outcomes-layout">
+
+                <div class="learning-outcomes-left">
+                    <img src="assets-new/images/learning-outcomes.jpg" alt="Learning Outcomes" />
+                </div>
+
+                <div class="learning-outcomes-right">
+                    <ul class="learning-outcomes-list">
+                        <p>After completing this programme, learners will be able to:</p>
+
+                        <li>
+                            <i class="fa-regular fa-square-check"></i>
+                            <span>Understand procurement, inventory, and material planning</span>
+                        </li>
+                        <li>
+                            <i class="fa-regular fa-square-check"></i>
+                            <span>Learn cost control and vendor management basics</span>
+                        </li>
+                        <li>
+                            <i class="fa-regular fa-square-check"></i>
+                            <span>Gain knowledge of warehouse and resource management</span>
+                        </li>
                     </ul>
                 </div>
-            </div>
-        </section>
-        <section id="overview" class="enroll-certification">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 col-lg-12 fintech-certi aboutMit-skills">
-                        <h2>About The Program</h2>
 
+            </div><!-- /learning-outcomes-layout -->
+
+        </div>
+
+    </section>
+
+    <!-- ── Section: Course Syllabus ── -->
+    <section class="pgcs-section" id="curriculum">
+        <div class="container">
+            <div class="pgcs-bg-wrap">
+
+                <h2 class="pgcs-heading">Course Syllabus</h2>
+
+                <div class="pgcs-stack">
+
+                    <div class="pgcs-card">
+                        <div class="pgcs-top">
+                            <div class="pgcs-left">
+                                <span class="pgcs-tag"><span class="pgcs-tag-inner">Course Modules</span></span>
+                                <ul class="pgcs-course-list">
+                                    <li>Principles of Management</li>
+                                    <li>Supply Chain Analytics</li>
+                                    <li>Production, Planning and Control</li>
+                                    <li>Inventory Management</li>
+                                    <li>Materials Management</li>
+                                    <li>Warehouse Management</li>
+                                </ul>
+                            </div>
+                        </div><!-- /pgcs-top -->
                     </div>
-                    <div class="col-md-8 col-lg-8 fintech-certi fin-feature hero11">
-                        <p>
-                            This 6-month self-paced program helps you understand how organizations manage materials, from purchasing to storage. You will learn key concepts like procurement, inventory control, and resource planning, building a strong foundation for roles in operations and supply chain.
-                        </p>
-                        <h3>What will I gain after completing the PCP course?</h3>
-                        <div class="col-md-12 fin-feature1 hero11">
 
-                            <li><span class="newright-icon1"></span> A 6-month self-paced foundation program tailored for 10th/12th pass students</li>
-                            <li><span class="newright-icon1"></span> Develop a strong understanding of fundamental
-                                management concepts before entering college</li>
-                            <li><span class="newright-icon1"></span> Gain exposure to key domains including Marketing,
-                                Project Management, Digital Marketing, Business Analytics, Operations, Finance, and HR
-                            </li>
-                            <li><span class="newright-icon1"></span> Identify areas of interest to make well-informed
-                                career decisions</li>
-                            <li><span class="newright-icon1"></span> Build confidence and preparedness for undergraduate
-                                programs such as BBA, B.Com, and B.M.S</li>
-                            <li><span class="newright-icon1"></span> Achieve a competitive advantage through early
-                                exposure to industry-relevant knowledge</li>
+                </div><!-- /pgcs-stack -->
 
-                        </div>
-                    </div>
-                    <div class="col-md-4 col-lg-4 ">
-                        <?php include "common-home-form-added-all-36-courses-pages.php" ?>
+            </div><!-- /pgcs-bg-wrap -->
+        </div>
+    </section>
 
-                    </div>
-                </div>
-            </div>
-        </section>
+    <!-- ═══════════════════════════════════════════════
+       FEE STRUCTURE
+    ════════════════════════════════════════════════ -->
+    <section class="fee-structure-section" id="fees">
+        <div class="container">
+            <h2 class="section-heading"><span>Fee</span> Structure</h2>
 
-        <section id="learning" class="enroll-certification">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 col-lg-4 fintech-certi aboutMit-skills">
-                        <h2>Learning <br> Outcomes <br> </h2>
-                        <!-- <img src="assets/images/humancloud.svg" alt=""> -->
-                    </div>
-                    <div class="col-md-12 col-lg-8 fin-feature1 hero11">
+            <div class="fs-outer">
 
-                        <li><span class="newright-icon1"></span> Understand procurement, inventory, and material planning</li>
+                <?php include "certification-common-fee-structure.php" ?>
 
-                        <li><span class="newright-icon1"></span> Learn cost control and vendor management basics</li>
-                        <li><span class="newright-icon1"></span> Gain knowledge of warehouse and resource management</li>
+                <div class="fs-note-wrap">
+                    <div class="faq-list">
 
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section id="curriculam" class="enroll-certification">
-            <div class="container">
-                <div class="row">
-                    <div class="cur-accordiaon">
-                        <h3>Course Syllabus</h3>
-
-                        <div class="accordion curriculum-accordion" id="curriculum">
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#module1" aria-expanded="true" aria-controls="module1">
-                                        Subjects
-                                    </button>
-                                </h2>
-                                <div id="module1" class="accordion-collapse collapse show" data-bs-parent="#curriculum">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <!-- <div class="fintech-module alert brandcolor digital-mod"> -->
-                                            <ul class="curriculum">
-                                                <table class="table">
-                                                    <thead>
-                                                        <tr>
-                                                            <th>S.No</th>
-
-                                                            <th>Subject</th>
-
-                                                        </tr>
-                                                    </thead>
-                                                    <tbody>
-                                                        <tr>
-                                                            <td>1</td>
-                                                            <td>Principles of Management</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>2</td>
-                                                            <td>Supply Chain Analytics</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>3</td>
-                                                            <td>Production, Planning and Control</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>4</td>
-                                                            <td>Inventory Management</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>5</td>
-                                                            <td>Materials Management</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>6</td>
-                                                            <td>Warehouse Management
-                                                            </td>
-                                                        </tr>
-                                                    </tbody>
-                                                </table>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
+                        <div class="faq-item is-open">
+                            <button class="faq-q" style="background: white;" aria-expanded="true">
+                                <span>Potential Career</span>
+                                <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round" />
+                                </svg>
+                            </button>
+                            <div class="faq-a" style="background: transparent;">
+                                <p class="text-dark">Completing a certification course in material management can open doors to various career opportunities across industries, such as:</p>
+                                <ul class="ac-list text-dark">
+                                    <li>Procurement Executive</li>
+                                    <li>Inventory Controller</li>
+                                    <li>Warehouse Executive</li>
+                                </ul>
                             </div>
                         </div>
+
                     </div>
+                </div><!-- /fs-note-wrap -->
 
-                    <div class="cur-accordiaon" style="margin-top:-3rem;">
+            </div><!-- /fs-outer -->
+        </div>
+    </section>
 
-                        <div class="accordion curriculum-accordion" id="curriculum">
+    <section class="sam-certificate-section" id="certificate">
+        <div class="container">
+            <h2 class="section-heading"><span>Sample</span> Certificate</h2>
 
-                            <?php  //include "2-PGDM-validity.php" 
-                            ?>
-
-                            <!-- PGDM  -->
-
-                            <div class="accordion-item" id="pgcmbusiness">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button " type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#module5" aria-expanded="false" aria-controls="module5">
-                                        Potential Career
-                                    </button>
-                                </h2>
-                                <div id="module5" class="accordion-collapse " data-bs-parent="#curriculum">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <p>Completing a certification course in material management can open doors
-                                                to various career opportunities across industries. Here are some
-                                                potential career paths you might consider:</p>
-                                            <ul class="fin-feature2" style="list-style: none;">
-
-                                                <div class="row">
-
-                                                    <div class="col-md-6 col-lg-6 col-12">
-
-                                                        <li><span class="newright-icon1"></span> Procurement Executive</li>
-                                                        <li><span class="newright-icon1"></span> Inventory Controller</li>
-                                                        <li><span class="newright-icon1"></span> Warehouse Executive</li>
-                                                    </div>
-                                                </div>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- PGDM  -->
-
-                        </div>
-                    </div>
-                </div>
+            <div class="cert-img">
+                <img class="img-fluid" src="assets-new/images/certificate/certification-in-material-management_cer.webp" alt="Certificate in Material Management" loading="lazy">
             </div>
-        </section>
+        </div>
+    </section>
 
-        <?php include "pcp-common-fees.php" ?>
+    <?php include "certification-common-faq.php" ?>
 
-        <section id="curriculam" class="enroll-certification">
-            <div class="container">
-                <div class="row">
-                    <div class="cur-accordiaon">
-                        <h3>Sample Certificate</h3>
-                    </div>
+    <!-- ═══════════════════════════════════════════════
+       SITE FOOTER
+    ════════════════════════════════════════════════ -->
+    <?php include "footer-new.php" ?>
 
-                    <p align="center"><img src="assets/images/course/cap/certification-in-material-management_cer.jpg"
-                            class="img-fluid" alt="Material cert">
-                    </p>
-                </div>
-            </div>
-            <p>&nbsp;</p>
-        </section>
+    <script>
+        // Specialisation pill switcher
+        (function () {
+            var pills = document.querySelectorAll('.ph-spec-pill');
+            pills.forEach(function (pill) {
+                pill.addEventListener('click', function () {
+                    pills.forEach(function (p) { p.classList.remove('is-active'); });
+                    pill.classList.add('is-active');
+                });
+            });
+        })();
+    </script>
 
-        <!-- frequently asked question section -->
-
-        <?php include "pcp-common-faq.php" ?>
-
-        <?php  include "all-similar-program-all-courses-slider.php" ?>
-
-        <?php include "learner-support.php" ?>
-
-    </main>
-    <!-- Footer Start -->
-
-    <?php include "footer.php" ?>
-
-
-    <!-- footer end  -->
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/js/bootstrap-select.min.js"></script>
-    <script src="assets/js/slick.min.js"></script>
-    <script src="assets/js/common.js"></script>
-    <script src="assets/js/course-slider.js"></script>
-
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 
 </html>

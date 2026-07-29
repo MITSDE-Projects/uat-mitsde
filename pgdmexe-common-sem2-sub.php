@@ -1,30 +1,9 @@
-<table class="table">
-    <thead>
-        <tr>
-            <th>Code</th>
-            <th>Certificate</th>
-            <th>Credits</th>
-        </tr>
-    </thead>
-    <tbody>
-        <!-- Rows from the first table -->
-
-        <tr>
-            <td>AIACSC</td>
-            <td>AI Automation Certificate + AI Strategy Certificate</td>
-            <td>Non Credit</td>
-        </tr>
-
-        <tr>
-            <td>CPDSA</td>
-            <td>Certified Professional Data Science Analyst</td>
-            <td>Non Credit</td>
-        </tr>
-
-        <tr>
-            <td>CPQBA</td>
-            <td>Certified Professional Quantitative Business Analyst</td>
-            <td>Non Credit</td>
-        </tr>
-    </tbody>
-</table>
+<div class="pgcs-cert">
+    <span class="pgcs-tag"><span class="pgcs-tag-inner">Certificate</span></span>
+    <ul class="pgcs-cert-list">
+        <li>AI Automation Certificate + AI Strategy Certificate (AIACSC)</li>
+        <li>Certified Professional Data Science Analyst (CPDSA)</li>
+        <li>Certified Professional Quantitative Business Analyst (CPQBA)</li>
+    </ul>
+    <p class="sub-text"><strong>Total Credits 24</strong></p>
+</div><!-- /pgcs-cert -->

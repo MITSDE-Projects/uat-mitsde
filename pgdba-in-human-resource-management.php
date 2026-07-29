@@ -5,9 +5,8 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
     <title>PGDBA in Human Resource Management | Business Administration</title>
-
-
 
     <meta name="description"
         content="2-year PGDBA in Human Resource Management (Business Administration) covers HRM essentials, global practices by experts offers 100% placement assistance" />
@@ -21,8 +20,6 @@
 
     <!-- CANONICAL TAG -->
 
-    <?php include "5-common-seo-tag-1.php" ?>
-
     <!-- OGP TAG -->
 
     <meta property="og:title" content="PGDBA in Human Resource Management | Business Administration">
@@ -31,52 +28,31 @@
     <meta property="og:description"
         content="2-year PGDBA in Human Resource Management (Business Administration) covers HRM essentials, global practices by experts offers 100% placement assistance">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/assets/images/course/pgdba/Human-Resource-Management.jpg">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/course/pgdba/Human-Resource-Management.jpg">
+
+    <!-- / OG TAG -->
 
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="PGDBA in Human Resource Management | Business Administration">
-    <meta name="twitter:description" content="2-year PGDBA in Human Resource Management (Business Administration) covers HRM essentials, global practices by experts offers 100% placement assistance">
-    <meta name="twitter:image" content="https://mitsde.com/assets/images/course/pgdba/Human-Resource-Management.jpg">
+    <meta name="twitter:description"
+        content="2-year PGDBA in Human Resource Management (Business Administration) covers HRM essentials, global practices by experts offers 100% placement assistance">
+    <meta name="twitter:image" content="https://mitsde.com/assets-new/images/course/pgdba/Human-Resource-Management.jpg">
     <meta name="twitter:image:alt" content="PGDBA in Human Resource Management | Business Administration">
 
+    <link rel="icon" type="image/png" href="assets-new/images/favicon-mit.ico" />
 
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="css-new/styles.css" />
+    <link rel="stylesheet" href="css-new/intlTelInput.css">
 
-
-    <!-- / OG TAG -->
-    <!-- Page Title -->
-    <!--  -->
-    <link rel="icon" type="image/png" href="assets/images/favicon-mit.ico" />
-
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="assets/css/bootstrap-select.min.css" />
-    <!-- font awesome css -->
-    <link rel="stylesheet" href="assets/fontawesome/css/all.min.css">
-    <!-- Preload CSS (Non-blocking) -->
-    <link rel="preload" href="assets/css/slick.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <link rel="preload" href="assets/css/fonts.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <link rel="preload" href="assets/css/style.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <link rel="preload" href="assets/css/course-common-internal.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-
-
-    <!-- Fallback (Loads CSS if JS disabled) -->
-    <noscript>
-        <link rel="stylesheet" href="assets/css/slick.min.css">
-        <link rel="stylesheet" href="assets/css/fonts.css">
-        <link rel="stylesheet" href="assets/css/style.css">
-        <link rel="stylesheet" href="assets/css/course-common-internal.css">
-
-    </noscript>
-    <!--  -->
-    <!--API for Queck contact----->
-    <script src="assets/js/api/jquery-1.10.2.min.js"></script>
-    <script type="text/javascript" src="assets/js/api/validation.js" charset="UTF-8"></script>
-    <!----->
     <script type="application/ld+json">
         {
             "@context": "https://schema.org/",
             "@type": "Product",
             "name": "PGDBA in Human Resource Management | Business Administration",
-            "image": "https://mitsde.com/assets/images/course/pgdba/Human-Resource-Management.jpg",
+            "image": "https://mitsde.com/assets-new/images/course/pgdba/Human-Resource-Management.jpg",
             "description": "2-year PGDBA in Human Resource Management (Business Administration) covers HRM essentials, global practices by experts offers 100% placement assistance",
             "brand": {
                 "@type": "Brand",
@@ -127,8 +103,7 @@
         }
     </script>
 
-    <!--  -->
-
+    <!-- faq -->
     <script type="application/ld+json">
         {
             "@context": "https://schema.org",
@@ -216,933 +191,566 @@
             ]
         }
     </script>
+    <!-- faq -->
 
+    <script type="application/ld+json">
+        {
+        "@context": "https://schema.org",
+        "@type": "LocalBusiness",
+        "name": "MIT School of Distance Education",
+        "image": "https://mitsde.com/assets-new/images/logo_mitsde.png",
+        "@id": "",
+        "url": "https://mitsde.com/",
+        "telephone": "9112-207-207",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "opposite Gajanan Maharaj Sansthan, Alandi",
+            "addressLocality": "Pune",
+            "postalCode": "412105",
+            "addressCountry": "IN"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 18.672932,
+            "longitude": 73.889243
+        },
+        "openingHoursSpecification": [{
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+            ],
+            "opens": "09:30",
+            "closes": "05:30"
+        }]
+        }
+    </script>
 
-
+<?php include "5-common-seo-tag-1.php" ?>
 </head>
 
 <body>
-    <?php include "5-common-seo-tag-2.php" ?>
-    <!-- Header Nav Start -->
-    <?php include "header.php" ?>
-    <!-- Header Nav End --->
-    <main class="main-body">
-        <?php include "announcementUpdate.php" ?>
-        <section class="banner inner-banner">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 col-lg-6 main-banner">
-                        <h1>PGDBA Human Resource Management</h1>
-                        <p>Go beyond theory, learn people management skills to become a top-notch HR
-                            professional.</p>
-                        <div class="page-btn">
+  <?php include "5-common-seo-tag-2.php" ?>
+    <?php include "header-new.php" ?>
 
+    <!-- ═══════════════════════════════════════════════
+       PROGRAM HERO
+    ════════════════════════════════════════════════ -->
+    <section class="hero ph-hero">
+        <div class="container">
 
-                            <button type="button" class="btn btn-primary mit-button cus-btn inner-cus ms-0"
-                                data-bs-toggle="modal" data-bs-target="#enquiryModal-download-form"><span
-                                    class="mtsk-download"></span> &nbsp; Download BROCHURE
-                            </button>
+            <!-- Breadcrumb -->
+            <nav class="page-breadcrumb" aria-label="Breadcrumb">
+                <a href="index.php">Home</a>
+                <span class="pb-sep">/</span>
+                <a href="post-graduate-diploma-in-business-administration">PGDBA</a>
+                <span class="pb-sep">/</span>
+                <span class="pb-current">PGDBA In Human Resource Management</span>
+            </nav>
 
-                        </div>
-                        <div>
-                            <nav>
-                                <ol class="breadcrumb">
-                                    <li class="breadcrumb-item"><a href=" https://mitsde.com">Home</a>
-                                    </li>
-                                    <li class="breadcrumb-item"><a
-                                            href="post-graduate-diploma-in-business-administration">PGDBA</a></li>
-                                    <li class="breadcrumb-item active text-capitalize" aria-current="page">PGDBA in
-                                        human resource management
-                                    </li>
+            <!-- 3-column layout: left content | center image | right form -->
+            <div class="ph-layout">
 
-                            </nav>
-
-
-                        </div>
-                    </div>
-                    <div class="col-md-12 col-lg-6">
-                        <div class="css-details">
-                            <div class="stc-det student-sec inner-sec">
-                                <img src="assets/images/course/pgdba/Human-Resource-Management_Icon-1.jpg" alt="">
-                            </div>
-                            <img src="assets/images/course/pgdba/Human-Resource-Management.jpg" fetchpriority="high" class="banner-img"
-                                alt="pgdba-in-human-resource-management">
-                            <div class="stc-det course-sec inner-sec">
-                                <img src="assets/images/course/pgdba/Human-Resource-Management_Icon-2.jpg" alt="">
-                            </div>
-                        </div>
-                    </div>
+                <!-- Left — heading + partner -->
+                <div class="ph-left">
+                    <h1 class="ph-heading">Online PGDBA Course<br>In Human Resource Management</h1>
                 </div>
+
+                <div class="ph-right">
+                    <img src="assets-new/images/emba.webp" alt="PGDBA in Human Resource Management" />
+                </div>
+
+            </div><!-- /ph-layout -->
+
+            <!-- Specialisation filter pills -->
+            <div class="ph-specs-wrap">
+                <div class="ph-specs">
+                    <a href="pgdba-in-operations-management"><button class="ph-spec-pill">Operations Management</button></a>
+                    <a href="pgdba-in-finance"><button class="ph-spec-pill">Finance Management</button></a>
+                    <a href="pgdba-in-human-resource-management"><button class="ph-spec-pill is-active">Human Resource Management</button></a>
+                    <a href="pgdba-in-information-technology"><button class="ph-spec-pill">Information Technology</button></a>
+                    <a href="pgdba-in-marketing-management"><button class="ph-spec-pill">Marketing Management</button></a>
+                </div>
+                <p class="ph-specs-hint">Select a category above to explore all available specializations, fees,
+                    duration, and learning outcomes.</p>
             </div>
-        </section>
 
-        <?php include "4-PGDBA-first-common-fees.php"; ?>
+        </div>
+    </section>
 
-        <section class="app-featurelist">
-            <div class="container">
-                <div class="row">
-                    <ul class="app-features">
-                        <li><a class="active" href="#overview">About MITSDE</a></li>
-                        <li><a href="#learning">Learning</a></li>
+    <!-- ═══════════════════════════════════════════════
+       COURSE INFO BAR
+    ════════════════════════════════════════════════ -->
+    <?php include "pgdba-common-fee-bar.php" ?>
 
-                        <li><a href="#curriculam">Curriculum</a></li>
-                        <li><a href="#progressFee">Program Fees</a></li>
-                        <li><a href="#learnExpert">Our Courses</a></li>
+    <!-- TABs -->
+
+    <div class="ph-specs-wrap sticky-pills">
+        <div class="ph-specs">
+            <a href="#faq"><button class="ph-spec-pill">FAQ</button></a>
+            <a href="#about"><button class="ph-spec-pill">About</button></a>
+            <a href="#learning"><button class="ph-spec-pill">Learning</button></a>
+            <a href="#curriculum"><button class="ph-spec-pill">Curriculum</button></a>
+            <a href="#fees"><button class="ph-spec-pill">Program Fees</button></a>
+            <a href="#courses"><button class="ph-spec-pill">Our Courses</button></a>
+        </div>
+    </div>
+
+    <!-- About Section -->
+
+    <section class="about-section pb-0" id="about">
+
+        <div class="container">
+
+            <h2 class="section-heading">
+                <span class="text-orange">About </span>the Programme
+            </h2>
+
+            <p>
+                Human Resource Management is much more than just recruitment and selection of people. It encompasses
+                <b>managing the employees, training them, developing their skills, keeping them motivated, planning their
+                    career path</b> and retaining them for the long term.
+            </p>
+
+            <p>
+                The <b>PG Diploma in Business Administration with a specialization in Human Resource Management</b> is
+                designed to match innovation and trends persisting in the HR departments. The course imparts practical
+                knowledge and provides extensive training, guidance and support to would-be HR managers, like you. The PG
+                diploma in HR focuses mainly on real-world case studies in order to provide you with a practical
+                understanding of current scenarios.
+            </p>
+
+        </div>
+
+    </section>
+
+    <!-- Pedagogy section -->
+
+    <?php include "pgdm-common-unique-pedagogy.php"?>
+
+    <!-- Learning Section -->
+
+    <section class="learning-section" id="learning">
+
+        <div class="container">
+
+            <h2 class="section-heading">
+                <span class="text-orange">Learning </span>Outcomes
+            </h2>
+
+            <div class="learning-outcomes-layout">
+
+                <div class="learning-outcomes-left">
+                    <img src="assets-new/images/learning-outcomes.jpg" alt="Learning Outcomes" />
+                </div>
+
+                <div class="learning-outcomes-right">
+                    <ul class="learning-outcomes-list">
+                        <li>
+                            <i class="fa-regular fa-square-check"></i>
+                            <span>Understand core HR functions — recruitment, selection and onboarding</span>
+                        </li>
+                        <li>
+                            <i class="fa-regular fa-square-check"></i>
+                            <span>Learn training, learning &amp; development and employee engagement</span>
+                        </li>
+                        <li>
+                            <i class="fa-regular fa-square-check"></i>
+                            <span>Master compensation management, HR audit and performance management</span>
+                        </li>
+                        <li>
+                            <i class="fa-regular fa-square-check"></i>
+                            <span>Understand industrial relations, labour laws and HR Information Systems</span>
+                        </li>
+                        <li>
+                            <i class="fa-regular fa-square-check"></i>
+                            <span>Apply HR analytics and strategic HRM to real-world scenarios</span>
+                        </li>
                     </ul>
                 </div>
-            </div>
-        </section>
-        <section id="overview" class="enroll-certification">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 col-lg-12 fintech-certi aboutMit-skills">
-                        <h2>About The Program</h2>
 
+            </div><!-- /learning-outcomes-layout -->
+
+        </div>
+
+    </section>
+
+    <!-- ── Section: Course Syllabus ── -->
+    <section class="pgcs-section" id="curriculum">
+        <div class="container">
+            <div class="pgcs-bg-wrap">
+
+                <h2 class="pgcs-heading">Course Syllabus</h2>
+
+                <div class="pgcs-stack">
+
+                    <!-- Semester 1 + Semester 2 (common across all PGDBA specializations) -->
+                    <?php include "pgdba-common-sem-1-2.php" ?>
+
+                    <!-- Semester 3 -->
+                    <div class="pgcs-card">
+                        <div class="pgcs-top">
+                            <div class="pgcs-left">
+                                <span class="pgcs-tag"><span class="pgcs-tag-inner">Semester 3</span></span>
+                                <ul class="pgcs-course-list">
+                                    <li>Business Ethics and Corporate Social Responsibility (S3EL1)</li>
+                                    <li>Strategic HRM (S3W17)</li>
+                                    <li>Learning and Development (S3W18)</li>
+                                    <li>Compensation Management and HR Audit (S3W19)</li>
+                                    <li>Project Management (S3C13)</li>
+                                    <li>Project Work (PWMI1)</li>
+                                </ul>
+                            </div>
+                            <div class="pgcs-right">
+                                <div class="pgcs-right-info">
+                                    <img class="pgcs-icon" src="assets-new/images/star-icon.png" alt="">
+                                    <h3 class="pgcs-title">AI Specialist</h3>
+                                    <p class="pgcs-desc">Advanced specialisation + leadership artifact</p>
+                                </div>
+                                <span class="pgcs-vdivider"></span>
+                                <div class="pgcs-right-outcome">
+                                    <p class="pgcs-learner-label">What the Learner Becomes:</p>
+                                    <span class="pgcs-outcome">AI Workflow Builder</span>
+                                </div>
+                            </div>
+                        </div><!-- /pgcs-top -->
+                        <div class="pgcs-cert">
+                            <span class="pgcs-tag"><span class="pgcs-tag-inner">Elective Basket</span></span>
+                            <p class="sub-text">Select any one of the following:</p>
+                            <ul class="pgcs-cert-list">
+                                <li>HR Analytics (S3EL3)</li>
+                                <li>Marketing Analytics (S3EL4)</li>
+                                <li>Supply Chain Analytics (S3LSC1)</li>
+                                <li>Financial Analytics (S3FM4)</li>
+                            </ul>
+                        </div><!-- /pgcs-cert (elective) -->
+                        <div class="pgcs-cert">
+                            <p class="sub-text"><strong>Total Credits 30</strong></p>
+                        </div><!-- /pgcs-cert -->
                     </div>
-                    <div class="col-md-8 col-lg-8 fintech-certi fin-feature hero11">
-                        <p>
-                            Human Resource Management is much more than just recruitment and selection of
-                            people. It encompasses <b>managing the employees, training them, developing their
-                                skills, keeping them motivated, planning their career path</b> and retaining
-                            them for the long term.
-                        </p>
 
-                        <p>
-                            The <b>PG Diploma in Business Administration with a specialization in Human
-                                Resource</b> Management is designed to match innovation and trends persisting in
-                            the HR departments. The course imparts practical knowledge and provides extensive
-                            training, guidance and support to would-be HR managers, like you. The PG diploma in
-                            HR focuses mainly on real-world case studies in order to provide you with a
-                            practical understanding of current scenarios.
-                        </p>
+                    <!-- Semester 4 -->
+                    <div class="pgcs-card">
+                        <div class="pgcs-top">
+                            <div class="pgcs-left">
+                                <span class="pgcs-tag"><span class="pgcs-tag-inner">Semester 4</span></span>
+                                <ul class="pgcs-course-list">
+                                    <li>Entrepreneurship and Venture Capital Management (S9EV2)</li>
+                                    <li>Human Resource Information System (S4W25)</li>
+                                    <li>Industrial Relations and Labour Laws (S4W26)</li>
+                                    <li>Performance Management and Competency Mapping (S4W27)</li>
+                                    <li>Project Work (PWMJ2)</li>
+                                </ul>
+                            </div>
+                            <div class="pgcs-right">
+                                <div class="pgcs-right-info">
+                                    <img class="pgcs-icon" src="assets-new/images/star-icon.png" alt="">
+                                    <h3 class="pgcs-title">AI Mastery</h3>
+                                    <p class="pgcs-desc">Capstone with measurable business impact</p>
+                                </div>
+                                <span class="pgcs-vdivider"></span>
+                                <div class="pgcs-right-outcome">
+                                    <p class="pgcs-learner-label">What the Learner Becomes:</p>
+                                    <span class="pgcs-outcome">AI Strategy Architect</span>
+                                </div>
+                            </div>
+                        </div><!-- /pgcs-top -->
+                        <div class="pgcs-cert">
+                            <span class="pgcs-tag"><span class="pgcs-tag-inner">Elective Basket</span></span>
+                            <p class="sub-text">Select any one of the following:</p>
+                            <ul class="pgcs-cert-list">
+                                <li>Marketing of Financial Services (S3EL2)</li>
+                                <li>Social Media Marketing (S3El5)</li>
+                                <li>Predictive Modelling (S3EL6)</li>
+                            </ul>
+                        </div><!-- /pgcs-cert (elective) -->
+                        <div class="pgcs-cert">
+                            <p class="sub-text"><strong>Total Credits 28</strong></p>
+                        </div><!-- /pgcs-cert -->
                     </div>
-                    <div class="col-md-4 col-lg-4 ">
-                        <?php include "common-home-form-added-all-36-courses-pages.php" ?>
 
+                </div><!-- /pgcs-stack -->
+
+                <p class="sub-text text-light mt-4"><strong>Total Cumulative Credits 106</strong></p>
+
+                <div class="pgcs-note">
+                    <h3 class="pgcs-note-heading">Note :</h3>
+                    <ul class="pgcs-note-list">
+                        <li>The above course curriculum is subject to revision as per AICTE guidelines from time to
+                            time and as per industry updates.</li>
+                        <li>Exams would be conducted during the January and July exam cycles.</li>
+                        <li>All the Exams at MITSDE (Internal &amp; External) are in the form of Multiple Choice
+                            Questions.</li>
+                        <li>Student will have to attempt all the components in the Learning Management System and
+                            submit TWO Quizzes (30 marks each) for each subject.</li>
+                        <li>Internal Examinations carry 60% marks (2 Quizzes of 30 Marks each) and External Proctored
+                            Exam carry 40% weightage (passing criteria for both internal &amp; external exam is
+                            50%).</li>
+                    </ul>
+                </div><!-- /pgcs-note -->
+
+            </div><!-- /pgcs-bg-wrap -->
+        </div>
+    </section>
+
+    <!-- ═══════════════════════════════════════════════
+       FEE STRUCTURE
+    ════════════════════════════════════════════════ -->
+    <section class="fee-structure-section" id="fees">
+        <div class="container">
+            <h2 class="section-heading"><span>Fee</span> Structure</h2>
+
+            <div class="fs-outer">
+
+                <?php include "pgdba-common-fee-structure.php" ?>
+                <div class="fs-note-wrap">
+                    <div class="pgcs-note">
+                        <h3 class="pgcs-note-heading">Note :</h3>
+                        <ul class="pgcs-note-list">
+                            <li>Students are required to pay an additional Exam Fee of ₹750 per paper and a Project
+                                Evaluation Fee of ₹2,000.</li>
+                        </ul>
+                        <p class="fs-note-subhead">For Installments</p>
+                        <ul class="pgcs-note-list">
+                            <li>First Installment needs to be paid at the time of admission.</li>
+                            <li>Second Installment needs to be paid within 3 months from the date of admission.</li>
+                            <li>Third Installment needs to be paid within 6 months from the date of admission.</li>
+                        </ul>
                     </div>
-                </div>
-
-                <!-- COMMON Unique Pedagogy  -->
-
-                <?php include "PGDBA-common-unique-pedagogy.php" ?>
-
-                <!-- COMMON Unique Pedagogy  -->
-
-
-            </div>
-        </section>
-        <section id="learning" class="enroll-certification">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 col-lg-4 fintech-certi aboutMit-skills">
-                        <h2>Learning <br> Outcomes <br> </h2>
-
-                    </div>
-                    <div class="col-md-12 col-lg-8 fin-feature1 hero11">
-
-
-
-                        <li><span class="newright-icon1"></span> Understand the basic concepts, need and use of
-                            operation management</li>
-                        <li><span class="newright-icon1"></span> Learn the world-class practices in Operations</li>
-                        <li><span class="newright-icon1"></span> Learn about softwares like ERP and CRM</li>
-                        <li><span class="newright-icon1"></span> Understanding the global procurement, logistics and
-                            operational excellence
-                            practises</li>
-                        <li><span class="newright-icon1"></span> Learning about the World-class practises (WCP) in
-                            factories</li>
-
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section id="curriculam" class="enroll-certification">
-            <div class="container">
-                <div class="row">
-                    <div class="cur-accordiaon">
-                        <h3>Course Syllabus</h3>
-                        <div class="accordion curriculum-accordion" id="curriculum">
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#module1" aria-expanded="true" aria-controls="module1">
-                                        Semester I
-                                    </button>
-                                </h2>
-                                <div id="module1" class="accordion-collapse collapse show" data-bs-parent="#curriculum">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-
-                                            <ul class="curriculum">
-                                                <table class="table">
-                                                    <thead>
-                                                        <tr>
-                                                            <th>S.No</th>
-                                                            <th>Code</th>
-                                                            <th>Subject</th>
-                                                            <th>Credits</th>
-                                                        </tr>
-                                                    </thead>
-                                                    <tbody>
-                                                        <tr>
-                                                            <td>1</td>
-                                                            <td>S1C01</td>
-                                                            <td>Principles of Management</td>
-                                                            <td>4</td>
-                                                        </tr>
-
-                                                        <tr>
-                                                            <td>2</td>
-                                                            <td>S1C02</td>
-                                                            <td>Indian Economy and Policy</td>
-                                                            <td>4</td>
-                                                        </tr>
-
-                                                        <tr>
-                                                            <td>3</td>
-                                                            <td>S1C03</td>
-                                                            <td>Business Communication</td>
-                                                            <td>4</td>
-                                                        </tr>
-
-                                                        <tr>
-                                                            <td>4</td>
-                                                            <td>S1C15</td>
-                                                            <td>Accounting for Managers</td>
-                                                            <td>4</td>
-                                                        </tr>
-
-                                                        <tr>
-                                                            <td>5</td>
-                                                            <td>S1C05</td>
-                                                            <td>Marketing Management</td>
-                                                            <td>4</td>
-                                                        </tr>
-
-                                                        <tr>
-                                                            <td>6</td>
-                                                            <td>S1C06</td>
-                                                            <td>Legal and Business Environment (Micro and Macro)</td>
-                                                            <td>4</td>
-                                                        </tr>
-                                                    </tbody>
-                                                </table>
-
-
-
-
-
-                                                <div class="alert brandcolor" align="right" role="alert">
-                                                    Total Credits 24
-                                                </div>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button " type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#module2" aria-expanded="false" aria-controls="module2">
-                                        Semester II
-                                    </button>
-                                </h2>
-                                <div id="module2" class="accordion-collapse show" data-bs-parent="#curriculum">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <ul class="curriculum">
-
-                                                <table class="table">
-                                                    <thead>
-                                                        <tr>
-                                                            <th>S.No</th>
-                                                            <th>Code</th>
-                                                            <th>Subject</th>
-                                                            <th>Credits</th>
-                                                        </tr>
-                                                    </thead>
-                                                    <tbody>
-
-
-                                                        <tr>
-                                                            <td>1</td>
-                                                            <td>S2C07</td>
-                                                            <td>Management Information System</td>
-                                                            <td>4</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>2</td>
-                                                            <td>S2C08</td>
-                                                            <td>Human Resource Management</td>
-                                                            <td>4</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>3</td>
-                                                            <td>S2C09</td>
-                                                            <td>Research Methodology and Management Decision</td>
-                                                            <td>4</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>4</td>
-                                                            <td>S2C10</td>
-                                                            <td>Strategic Management</td>
-                                                            <td>4</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>5</td>
-                                                            <td>S2C11</td>
-                                                            <td>Business Analytics</td>
-                                                            <td>4</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>6</td>
-                                                            <td>S2C16</td>
-                                                            <td>Financial Management</td>
-                                                            <td>4</td>
-                                                        </tr>
-                                                    </tbody>
-                                                </table>
-
-                                                <div class="alert brandcolor" align="right" role="alert">Total
-                                                    Credits 24
-                                                </div>
-                                            </ul>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#module3" aria-expanded="false" aria-controls="module3">
-                                        Semester III
-                                    </button>
-                                </h2>
-                                <div id="module3" class="accordion-collapse collapse" data-bs-parent="#curriculum">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <ul class="curriculum">
-                                                <table class="table">
-                                                    <thead>
-                                                        <tr>
-                                                            <th>S.No</th>
-                                                            <th>Code</th>
-                                                            <th>Subject</th>
-                                                            <th>Credits</th>
-                                                        </tr>
-                                                    </thead>
-                                                    <tbody>
-                                                        <!-- Rows from the second table -->
-                                                        <tr>
-                                                            <td>1</td>
-                                                            <td>S3EL1</td>
-                                                            <td>Business Ethics and Corporate Social Responsibility</td>
-                                                            <td>4</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>2</td>
-                                                            <td>S3W17</td>
-                                                            <td>Strategic HRM</td>
-                                                            <td>4</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>3</td>
-                                                            <td>S3W18</td>
-                                                            <td>Learning and Development</td>
-                                                            <td>4</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>4</td>
-                                                            <td>S3W19</td>
-                                                            <td>Compensation Management and HR Audit</td>
-                                                            <td>4</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>5</td>
-                                                            <td>S3C13</td>
-                                                            <td>Project Management</td>
-                                                            <td>4</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>6</td>
-                                                            <td>PWMI1 </td>
-                                                            <td>Project Work</td>
-                                                            <td>6</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>7</td>
-                                                            <td>-</td>
-                                                            <td>Elective Basket (Select Any One)</td>
-                                                            <td>4</td>
-                                                        </tr>
-                                                    </tbody>
-                                                </table>
-                                                <div class="alert brandcolor" align="right" role="alert">
-                                                    Total Credits 30
-                                                </div>
-
-                                            </ul>
-                                            <li class="section hero10 p-3" style="list-style-type: none;">
-                                                <h4 class="section-title">Elective Basket (Select Any One)</h4>
-                                                <ul class="curriculum me-1 ">
-                                                    <table class="table">
-                                                        <thead>
-                                                            <tr>
-                                                                <th>S.No</th>
-                                                                <th>Code</th>
-                                                                <th>Subject</th>
-                                                                <th>Credits</th>
-                                                            </tr>
-                                                        </thead>
-                                                        <tbody>
-                                                            <tr>
-                                                                <td>1</td>
-                                                                <td>S3EL3</td>
-                                                                <td>HR Analytics</td>
-                                                                <td>4</td>
-                                                            </tr>
-                                                            <tr>
-                                                                <td>2</td>
-                                                                <td>S3EL4</td>
-                                                                <td>Marketing Analytics</td>
-                                                                <td>4</td>
-                                                            </tr>
-                                                            <tr>
-                                                                <td>3</td>
-                                                                <td>S3LSC1</td>
-                                                                <td>Supply Chain Analytics</td>
-                                                                <td>4</td>
-                                                            </tr>
-                                                            <tr>
-                                                                <td>4</td>
-                                                                <td>S3FM4</td>
-                                                                <td>Financial Analytics</td>
-                                                                <td>4</td>
-                                                            </tr>
-                                                        </tbody>
-                                                    </table>
-
-
-
-                                                </ul>
-
-
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-
-                            </li>
-
-
-
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#modulefive" aria-expanded="false" aria-controls="modulefive">
-                                        Semester IV
-                                    </button>
-                                </h2>
-                                <div id="modulefive" class="accordion-collapse collapse" data-bs-parent="#curriculum">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <ul class="curriculum">
-                                                <table class="table">
-                                                    <thead>
-                                                        <tr>
-                                                            <th>S.No</th>
-                                                            <th>Code</th>
-                                                            <th>Subject</th>
-                                                            <th>Credits</th>
-                                                        </tr>
-                                                    </thead>
-                                                    <tbody>
-
-                                                        <tr>
-                                                            <td>1</td>
-                                                            <td>S9EV2</td>
-                                                            <td>Entrepreneurship and Venture Capital Management</td>
-                                                            <td>4</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>2</td>
-                                                            <td>S4W25</td>
-                                                            <td>Human Resource Information System</td>
-                                                            <td>4</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>3</td>
-                                                            <td>S4W26</td>
-                                                            <td>Industrial Relations and Labour Laws</td>
-                                                            <td>4</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>4</td>
-                                                            <td>S4W27</td>
-                                                            <td>Performance Management and Competency Mapping</td>
-                                                            <td>4</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>5</td>
-                                                            <td>PWMJ2</td>
-                                                            <td>Project Work</td>
-                                                            <td>8</td>
-                                                        </tr>
-
-                                                        <tr>
-                                                            <td>6</td>
-                                                            <td>-</td>
-                                                            <td>Elective Basket (Select Any One)</td>
-                                                            <td>4</td>
-                                                        </tr>
-                                                    </tbody>
-                                                </table>
-                                                <div class="alert brandcolor" align="right" role="alert">
-                                                    Total Credits 28
-                                                </div>
-
-                                            </ul>
-                                            <li class="section hero10 p-3" style="list-style-type: none;">
-                                                <h4 class="section-title">Elective Basket (Select Any One)</h4>
-                                                <ul class="curriculum me-1 ">
-                                                    <table class="table">
-                                                        <thead>
-                                                            <tr>
-                                                                <th>S.No</th>
-                                                                <th>Code</th>
-                                                                <th>Subject</th>
-                                                                <th>Credits</th>
-                                                            </tr>
-                                                        </thead>
-                                                        <tbody>
-                                                            <tr>
-                                                                <td>1</td>
-                                                                <td>S3EL2</td>
-                                                                <td>Marketing of Financial Services</td>
-                                                                <td>4</td>
-                                                            </tr>
-                                                            <tr>
-                                                                <td>2</td>
-                                                                <td>S3El5</td>
-                                                                <td>Social Media Marketing</td>
-                                                                <td>4</td>
-                                                            </tr>
-                                                            <tr>
-                                                                <td>3</td>
-                                                                <td>S3EL6</td>
-                                                                <td>Predictive Modelling</td>
-                                                                <td>4</td>
-                                                            </tr>
-
-                                                        </tbody>
-                                                    </table>
-
-
-
-                                                </ul>
-                                            </li>
-
-
-
-                                        </div>
-                                        <div class="alert brandcolor" align="right" role="alert">Total Cumulative
-                                            Credits 106</div>
-
-
-
-
-
-                                        <div class="alert brandcolor" role="alert"><b>Note :</b><br>
-                                            <ul class="fin-feature2" style="list-style: none;">
-                                                <li><span class="newright-icon1"></span> The above course curriculum is
-                                                    subject to revision as per
-                                                    AICTE
-                                                    guidelines
-                                                    from time to time and as per industry updates.</li>
-                                                <li><span class="newright-icon1"></span> Exams would be conducted during
-                                                    the January and July exam
-                                                    cycles.</li>
-                                                <li><span class="newright-icon1"></span> All the Exams at MITSDE
-                                                    (Internal & External) are in the
-                                                    form of
-                                                    Multiple
-                                                    Choice Questions.
-                                                </li>
-                                                <li><span class="newright-icon1"></span> Student will have to attempt
-                                                    all the components in the
-                                                    Learning
-                                                    Management
-                                                    System and submit TWO Quizzes (30 marks each) for each subject.
-
-                                                </li>
-                                                <li><span class="newright-icon1"></span> Internal Examinations carry 60%
-                                                    marks (2 Quizzes of 30 Marks
-                                                    each) and
-                                                    External Proctored Exam carry 40% weightage (passing criteria for
-                                                    both
-                                                    internal & external exam is 50%).
-                                                </li>
-
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-
-
-
-
-
-
-
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-
-
-        <?php include "4-PGDBA-second-common-fees.php" ?>
-
-
-        <section>
-            <div class="container">
-                <div class="row">
-                    <div class="cur-accordiaon">
-
-                        <div class="accordion curriculum-accordion" id="freQuestions">
-                            <?php include "4-PGDBA-validity-common.php" ?>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions1" aria-expanded="false" aria-controls="questions1">
-                                        Potential Career
-                                    </button>
-                                </h2>
-                                <div id="questions1" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <p>The wide-ranging course is a gateway to the operations
-                                                department of top-notch MNCs. It successfully enhances your capability
-                                                and equips you with the latest industry insights for exciting roles
-                                                namely:</p>
-                                            <ul class="fin-feature2" style="list-style: none;">
-
-                                                <div class="row">
-                                                    <div class="col-md-6">
-
-
-                                                        <li><span class="newright-icon1"></span> Payroll Manager </li>
-                                                        <li><span class="newright-icon1"></span> Recruitment Manager
-                                                        </li>
-                                                        <li><span class="newright-icon1"></span> HR Manager</li>
-
-
-                                                    </div>
-                                                    <div class="col-md-6">
-                                                        <li><span class="newright-icon1"></span> Learning and
-                                                            Development Manager</li>
-                                                        <li><span class="newright-icon1"></span> Employee Education
-                                                            Consultant</li>
-                                                        <li><span class="newright-icon1"></span> Headhunter - Freelancer
-                                                        </li>
-                                                    </div>
-                                                </div>
-
-
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-
-        <!-- frequently asked question section -->
-
-        <section class="enroll-certification mt-3" style="padding-top: 0px;">
-            <div class="container">
-                <div class="row">
-                    <div class="cur-accordiaon">
-                        <h3>Frequently Asked Questions?</h3>
-                        <div class="accordion curriculum-accordion" id="freQuestions">
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions1" aria-expanded="false" aria-controls="questions1">
-                                        What is the duration of the PGDBA in Human Resource Management program?
-                                    </button>
-                                </h2>
-                                <div id="questions1" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        The program duration is 24 months.
-                                                    </p>
-                                                </div>
-                                            </div>
-
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions2" aria-expanded="false" aria-controls="questions2">
-                                        What is the eligibility criteria for enrolling in the program?
-                                    </button>
-                                </h2>
-                                <div id="questions2" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        Any graduate is eligible to apply for this program.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions3" aria-expanded="false" aria-controls="questions3">
-                                        What is the fee for the PGDBA in Human Resource Management?
-                                    </button>
-                                </h2>
-                                <div id="questions3" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        The program fee is ₹95,000.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions4" aria-expanded="false" aria-controls="questions4">
-                                        Is this program conducted online?
-                                    </button>
-                                </h2>
-                                <div id="questions4" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        Yes, the program is conducted online.
-                                                    </p>
-
-
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions5" aria-expanded="false" aria-controls="questions5">
-                                        What subjects are covered in the first semester of the program?
-                                    </button>
-                                </h2>
-                                <div id="questions5" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        Key subjects include Principles of Management, Business
-                                                        Communication, Marketing Management, and Accounting for
-                                                        Managers.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions6" aria-expanded="false" aria-controls="questions6">
-                                        What are the learning outcomes of this program?
-                                    </button>
-                                </h2>
-                                <div id="questions6" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        You will gain knowledge about HR practices, business
-                                                        communication, strategic management, HRM, and more.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions7" aria-expanded="false" aria-controls="questions7">
-                                        Are there any scholarships available for this program?
-                                    </button>
-                                </h2>
-                                <div id="questions7" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        Yes, scholarships are available for alumni, defense personnel,
-                                                        and specially-abled candidates.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions8" aria-expanded="false" aria-controls="questions8">
-                                        What is the assessment structure for this program?
-                                    </button>
-                                </h2>
-                                <div id="questions8" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        Assessments include quizzes, internal examinations,
-                                                        and external proctored exams.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions9" aria-expanded="false" aria-controls="questions9">
-                                        What career opportunities are available after completing this program?
-                                    </button>
-                                </h2>
-                                <div id="questions9" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        Graduates can pursue roles in HR management, talent acquisition,
-                                                        employee relations, and other senior HR positions.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions10" aria-expanded="false" aria-controls="questions10">
-                                        Is there any project work included in the curriculum?
-                                    </button>
-                                </h2>
-                                <div id="questions10" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>
-                                                        Yes, there is a project work component in the program,
-                                                        focusing on HR-related real-world applications.
-                                                    </p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
+                    <div class="faq-list">
+
+                        <div class="faq-item is-open">
+                            <button class="faq-q" style="background: white;" aria-expanded="true">
+                                <span>Validity</span>
+                                <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round" />
+                                </svg>
+                            </button>
+                            <div class="faq-a" style="background: transparent;">
+                                <div class="tbl-wrap">
+                                    <table class="tbl">
+                                        <thead>
+                                            <tr>
+                                                <th class="tbl-label">Course Duration</th>
+                                                <th>Extension</th>
+                                                <th>Validity</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td class="tbl-label">2 Years</td>
+                                                <td>6 Months</td>
+                                                <td>2 Years 3 Months</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
                                 </div>
                             </div>
                         </div>
+
+                        <div class="faq-item">
+                            <button class="faq-q" style="background: white;" aria-expanded="false">
+                                <span>Potential Career</span>
+                                <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round" />
+                                </svg>
+                            </button>
+                            <div class="faq-a" style="background: transparent;">
+                                <p class="text-dark">This wide-ranging course is a gateway to the HR departments of
+                                    top-notch MNCs. It successfully enhances your capability and equips you with the
+                                    latest industry insights for exciting roles namely:</p>
+                                <ul class="ac-list text-dark">
+                                    <li>Payroll Manager</li>
+                                    <li>Recruitment Manager</li>
+                                    <li>HR Manager</li>
+                                    <li>Learning and Development Manager</li>
+                                    <li>Employee Education Consultant</li>
+                                    <li>Headhunter - Freelancer</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                    </div>
+                </div><!-- /fs-note-wrap -->
+
+            </div><!-- /fs-outer -->
+        </div>
+    </section>
+
+    <!-- FAQ -->
+
+    <section class="faq-section" id="faq">
+        <div class="container">
+            <h2 class="section-heading">Frequently Asked Questions</h2>
+            <div class="faq-list">
+
+                <div class="faq-item is-open">
+                    <button class="faq-q" aria-expanded="true">
+                        <span>What is the duration of the PGDBA in Human Resource Management program?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>The program duration is 24 months.</p>
                     </div>
                 </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>What is the eligibility criteria for enrolling in the program?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>Any graduate is eligible to apply for this program.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>What is the fee for the PGDBA in Human Resource Management?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>The program fee is ₹95,000.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>Is this program conducted online?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>Yes, the program is conducted online.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>What subjects are covered in the first semester of the program?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>Key subjects include Principles of Management, Business Communication, Marketing Management,
+                            and Accounting for Managers.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>What are the learning outcomes of this program?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>You will gain knowledge about HR practices, business communication, strategic management, HRM,
+                            and more.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>Are there any scholarships available for this program?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>Yes, scholarships are available for alumni, defense personnel, and specially-abled
+                            candidates.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>What is the assessment structure for this program?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>Assessments include quizzes, internal examinations, and external proctored exams.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>What career opportunities are available after completing this program?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>Graduates can pursue roles in HR management, talent acquisition, employee relations, and other
+                            senior HR positions.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>Is there any project work included in the curriculum?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>Yes, there is a project work component in the program, focusing on HR-related real-world
+                            applications.</p>
+                    </div>
+                </div>
+
             </div>
-        </section>
+        </div>
+    </section>
 
+    <!-- ═══════════════════════════════════════════════
+       SITE FOOTER
+    ════════════════════════════════════════════════ -->
+    <?php include "footer-new.php" ?>
 
-        <?php include "all-similar-program-all-courses-slider.php" ?>
+    <script>
+        // Specialisation pill switcher
+        (function () {
+            var pills = document.querySelectorAll('.ph-spec-pill');
+            pills.forEach(function (pill) {
+                pill.addEventListener('click', function () {
+                    pills.forEach(function (p) { p.classList.remove('is-active'); });
+                    pill.classList.add('is-active');
+                });
+            });
+        })();
+    </script>
 
-        <?php include "learner-support.php" ?>
-
-    </main>
-    <!-- Footer Start -->
-
-    <?php include "footer.php" ?>
-
-
-    <!-- footer end  -->
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/js/bootstrap-select.min.js"></script>
-    <script src="assets/js/slick.min.js"></script>
-    <script src="assets/js/common.js"></script>
-    <script src="assets/js/course-slider.js"></script>
-
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 
 </html>

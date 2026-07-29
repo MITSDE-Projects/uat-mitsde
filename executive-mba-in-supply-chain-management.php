@@ -9,11 +9,16 @@
 
     <title>Executive MBA in Supply Chain Management | MITSDE</title>
 
-    <meta name="description"
-        content="Pursue an Executive MBA in Supply Chain Management from MITSDE Pune. Learn logistics, procurement, inventory, transportation, and supply chain strategy." />
+    <meta name="description" content="Pursue an Executive MBA in Supply Chain Management from MITSDE Pune. Learn logistics, procurement, inventory, transportation, and supply chain strategy." />
 
-    <meta name="keywords"
-        content="mba in logistics and supply chain management, executive mba in supply chain management logistics management course, executive mba pune, supply chain strategy course" />
+    <meta name="keywords" content="mba in logistics and supply chain management, executive mba in supply chain management logistics management course, executive mba pune, supply chain strategy course" />
+
+    <!-- twitter tag -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Executive MBA in Supply Chain Management | MITSDE">
+    <meta name="twitter:description" content="Pursue an Executive MBA in Supply Chain Management from MITSDE Pune. Learn logistics, procurement, inventory, transportation, and supply chain strategy.">
+    <meta name="twitter:image" content="https://mitsde.com/assets-new/images/finance-management.webp">
+    <meta name="twitter:image:alt" content="Executive MBA in Supply Chain Management">
 
     <!-- CANONICAL TAG -->
 
@@ -21,64 +26,31 @@
 
     <!-- CANONICAL TAG -->
 
-
-    <?php include "5-common-seo-tag-1.php" ?>
-
     <!-- OGP TAG -->
 
     <meta property="og:title" content="Executive MBA in Supply Chain Management | MITSDE">
     <meta property="og:site_name" content="MIT School of Distance Education">
     <meta property="og:url" content="https://mitsde.com/executive-mba-in-supply-chain-management">
-    <meta property="og:description"
-        content="Pursue an Executive MBA in Supply Chain Management from MITSDE Pune. Learn logistics, procurement, inventory, transportation, and supply chain strategy.">
+    <meta property="og:description" content="Pursue an Executive MBA in Supply Chain Management from MITSDE Pune. Learn logistics, procurement, inventory, transportation, and supply chain strategy.">
     <meta property="og:type" content="website">
-    <meta property="og:image"
-        content="https://mitsde.com/assets/images/course/ex-mba/Supply-Chain-Management.jpg">
-
-    <!-- twitter tag -->
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="Executive MBA in Supply Chain Management | MITSDE">
-    <meta name="twitter:description"
-        content="Pursue an Executive MBA in Supply Chain Management from MITSDE Pune. Learn logistics, procurement, inventory, transportation, and supply chain strategy.">
-    <meta name="twitter:image"
-        content="https://mitsde.com/assets/images/course/ex-mba/Supply-Chain-Management.jpg">
-    <meta name="twitter:image:alt" content="Executive MBA in Supply Chain Management">
-
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/finance-management.webp">
 
     <!-- / OG TAG -->
-    
-    <link rel="icon" type="image/png" href="assets/images/favicon-mit.ico" />
-    <!-- Preload CSS (Non-blocking) -->
-    <link rel="preload" href="assets/css/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <link rel="preload" href="assets/css/bootstrap-select.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <link rel="preload" href="assets/fontawesome/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <link rel="preload" href="assets/css/slick.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <link rel="preload" href="assets/css/fonts.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <link rel="preload" href="assets/css/style.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <link rel="preload" href="assets/css/course-common-internal.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 
-    <!-- Fallback (Loads CSS if JS disabled) -->
-    <noscript>
-        <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-        <link rel="stylesheet" href="assets/css/bootstrap-select.min.css">
-        <link rel="stylesheet" href="assets/fontawesome/css/all.min.css">
-        <link rel="stylesheet" href="assets/css/slick.min.css">
-        <link rel="stylesheet" href="assets/css/fonts.css">
-        <link rel="stylesheet" href="assets/css/style.css">
-        <link rel="stylesheet" href="assets/css/course-common-internal.css">
-    </noscript>
-    <!--API for Queck contact----->
-    <script src="assets/js/api/jquery-1.10.2.min.js"></script>
-    <script type="text/javascript" src="assets/js/api/validation.js" charset="UTF-8"></script>
-    <!----->
+    <link rel="icon" type="image/png" href="assets-new/images/favicon-mit.ico" />
 
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="css-new/styles.css" />
+    <link rel="stylesheet" href="css-new/intlTelInput.css">
 
     <script type="application/ld+json">
         {
             "@context": "https://schema.org/",
             "@type": "Product",
             "name": "Executive MBA in Supply Chain Management | MITSDE",
-            "image": "https://mitsde.com/assets/images/course/ex-mba/Supply-Chain-Management.jpg",
+            "image": "https://mitsde.com/assets-new/images/course/ex-mba/Supply-Chain-Management.jpg",
             "description": "Pursue an Executive MBA in Supply Chain Management from MITSDE Pune. Learn logistics, procurement, inventory, transportation, and supply chain strategy.",
             "brand": {
                 "@type": "Brand",
@@ -130,570 +102,412 @@
 }
 </script>
 
-
+<?php include "5-common-seo-tag-1.php" ?>
 </head>
 
 <body>
-    <?php include "5-common-seo-tag-2.php" ?>
-    <!-- Header Nav Start -->
-    <?php include "header.php" ?>
-    <!-- Header Nav End --->
-    <main class="main-body">
-        <?php include "announcementUpdate.php" ?>
-        <section class="banner inner-banner">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 col-lg-6 main-banner">
-                        <div class="row align-items-center">
-                            <!-- Logo Column -->
-                            <div class="col-4 col-md-4 col-lg-4">
-                                <img src="assets/images/common-images/avantika.svg" alt="Avantika Logo"
-                                    class="img-fluid">
-                            </div>
+  <?php include "5-common-seo-tag-2.php" ?>
+    <?php include "header-new.php" ?>
 
-                            <!-- Heading Column -->
-                            <div class="col-8 col-md-8 col-lg-8">
-                                <h1 class="mb-0">EMBA in Supply Chain Management</h1>
-                            </div>
-                        </div>
+    <!-- ═══════════════════════════════════════════════
+       PROGRAM HERO
+       Reusable .ph-* classes — replicate for every
+       program detail page, only swap heading + pills.
+    ════════════════════════════════════════════════ -->
+    <section class="hero ph-hero">
 
+        <!-- Breadcrumb — outside container, full-width white strip -->
+        <nav class="page-breadcrumb" aria-label="Breadcrumb">
+            <span class="pb-line"></span>
+            <a href="index.php">Home</a>
+            <span class="pb-sep">/</span>
+            <span>Executive MBA</span>
+            <span class="pb-sep">/</span>
+            <span class="pb-current">Executive MBA in Supply Chain Management</span>
+        </nav>
 
+        <div class="container">
 
-                        <p>Drive end-to-end supply chains with strategic precision — MIT Alandi Campus, Pune</p>
+            <!-- 3-column layout: left content | center image | right form -->
+            <div class="ph-layout py-5">
 
-
-
-                        <div class="page-btn">
-
-
-                            <button type="button" class="btn btn-primary mit-button cus-btn inner-cus ms-0"
-                                data-bs-toggle="modal" data-bs-target="#enquiryModal-download-form"><span
-                                    class="mtsk-download"></span> &nbsp; Download BROCHURE
-                            </button>
-
-                        </div>
-                        <div>
-                            <nav>
-                                <ol class="breadcrumb">
-                                    <li class="breadcrumb-item"><a href=" https://mitsde.com">Home</a>
-                                    </li>
-                                    <li class="breadcrumb-item"><a href="executive-mba">Executive MBA</a></li>
-                                    <li class="breadcrumb-item active text-capitalize" aria-current="page">Executive MBA
-                                        in Supply Chain Management
-                                    </li>
-
-                            </nav>
-
-
-                        </div>
-                    </div>
-                    <div class="col-md-12 col-lg-6">
-                        <div class="css-details">
-                            <div class="stc-det student-sec inner-sec">
-                                <img src="assets/images/course/ex-mba/Supply-Chain-Management-Icon-1.jpg" >
-                            </div>
-                            <img src="assets/images/course/ex-mba/Supply-Chain-Management.jpg" class="banner-img" alt="executive-mba-in-supply-chain-management">
-                            <div class="stc-det course-sec inner-sec">
-                                <img src="assets/images/course/ex-mba/Supply-Chain-Management-icon-2.jpg" >
-                            </div>
-                        </div>
+                <!-- Left — heading + partner -->
+                <div class="ph-left">
+                    <h1 class="ph-heading">EMBA in Supply Chain Management</h1>
+                    <div class="ph-sub">
+                        <img src="assets-new/images/avantika-logo.png" alt="Avantika-logo" />
+                        <div class="vertical-divider-3"></div>
+                        <p>MIT Pune Campus at Ujjain</p>
                     </div>
                 </div>
-            </div>
-        </section>
 
-        <?php include "6-common-Executive-mba-common-fees-1.php" ?>
-
-        <section class="app-featurelist">
-            <div class="container">
-                <div class="row">
-                    <ul class="app-features">
-                        <li><a class="active" href="#overview">About Course</a></li>
-                        <li><a href="#curriculam">Course Syllbus</a></li>
-                        <li><a href="#progressFee">Program Fees</a></li>
-                        <!-- <li><a href="#learnExpert">Our Courses</a></li> -->
-                    </ul>
+                <!-- Center — hero image -->
+                <div class="ph-right">
+                    <img src="assets-new/images/finance-management.webp" alt="EMBA in Supply Chain Management" />
                 </div>
-            </div>
-        </section>
-        <section id="overview" class="skill-story pb-0" style="background:white;">
-            <div class="container">
-                <div class="text-center mb-4">
-                    <h2 class="fw-bold">About The Program</h2>
 
-                </div>
-                <div class="row">
+                <!-- Right — registration form card -->
+                <!-- <div class="ph-right">
+                    <div class="contact-form">
 
-                    <div class="col-md-12 col-lg-7 with-decades">
-                        <p align="justify">
-                            The <b>Executive MBA in Logistics & Supply Chain Management</b> is built for working professionals who want to master end-to-end supply chain strategy, procurement, logistics, inventory, and distribution network design.
-                        </p>
-
-                        <p align="justify">
-                            The curriculum builds from core management fundamentals — financial reporting, business statistics, HR, and corporate governance — to specialized disciplines including supply chain strategy, procuring and sourcing, logistics management, inventory management, distribution network design, and transportation management. A mandatory summer internship in Semester 3 and a capstone project in Semester 4 ensure industry exposure from day one.
-                        </p>
-                        <p align="justify">
-                            Whether you work in operations, procurement, warehousing, or logistics consulting, this program gives you the frameworks and tools to lead complex, global supply chains effectively.
-                        </p>
+                        <?php //include "home-get-in-touch-form-new.php" ?>
 
                     </div>
+                </div> -->
 
+            </div><!-- /ph-layout -->
 
-
-                    <?php include "executive-mba-common-form.php" ?>
-
-
+            <!-- Specialisation filter pills -->
+            <div class="ph-specs-wrap">
+                <div class="ph-specs">
+                    <a href="executive-mba-in-project-management"><button class="ph-spec-pill">Project Management</button></a>
+                    <a href="executive-mba-in-operations"><button class="ph-spec-pill">Operations Management</button></a>
+                    <a href="executive-mba-human-resource-management"><button class="ph-spec-pill">Human Resource Management</button></a>
+                    <a href="executive-mba-finance-management"><button class="ph-spec-pill">Finance Management</button></a>
+                    <a href="executive-mba-in-international-business"><button class="ph-spec-pill">International Business</button></a>
+                    <a href="executive-mba-in-supply-chain-management"><button class="ph-spec-pill is-active">Supply Chain Management</button></a>
+                    <a href="executive-mba-marketing"><button class="ph-spec-pill">Marketing Management</button></a>
+                    <a href="executive-mba-in-business-analytics-and-ai"><button class="ph-spec-pill">Business Analytics and AI</button></a>
                 </div>
+                <p class="ph-specs-hint">Select a category above to explore all available specializations, fees, duration, and learning outcomes.</p>
+            </div>
+
+        </div>
+    </section>
+
+    <script>
+        // Specialisation pill switcher
+        (function () {
+            var pills = document.querySelectorAll('.ph-spec-pill');
+            pills.forEach(function (pill) {
+                pill.addEventListener('click', function () {
+                    pills.forEach(function (p) { p.classList.remove('is-active'); });
+                    pill.classList.add('is-active');
+                });
+            });
+        })();
+    </script>
+
+    <!-- ═══════════════════════════════════════════════
+       COURSE INFO BAR
+    ════════════════════════════════════════════════ -->
+    <?php include "executive-mba-common-fee-bar.php" ?>
+
+    <!-- About Section -->
+
+    <!-- ── Section: Programs Designed for AI-Powered Leaders ── -->
+    <section class="about-section">
+
+        <div class="container">
+
+            <!-- Heading -->
+            <div class="mb-5">
+
+                <h2 class="section-heading">
+                    <span class="text-orange">About </span>the Programme
+                </h2>
+
+                <p>
+                    The Executive MBA in Logistics & Supply Chain Management is built for working professionals who want to master end-to-end supply 
+                    chain strategy, procurement, logistics, inventory, and distribution network design.
+                </p>
+
+                <p>
+                    The curriculum builds from core management fundamentals — financial reporting, business statistics, HR, and corporate governance — to 
+                    specialized disciplines including supply chain strategy, procuring and sourcing, logistics management, inventory management, distribution network design, 
+                    and transportation management. A mandatory summer internship in Semester 3 and a capstone project in Semester 4 ensure industry exposure from day one.
+                </p>
+
+                <p>
+                    Whether you work in operations, procurement, warehousing, or logistics consulting, this program gives you the frameworks and tools to lead complex, global supply chains effectively.
+                </p>
+                
 
             </div>
-        </section>
 
-        <section id="curriculam" class="enroll-certification">
+        </div>
+
+    </section>
+
+    <!-- ── Section: Course Syllabus ── -->
+    <section class="course-syllabus-section pt-0">
     <div class="container">
-        <div class="row">
-            <div class="cur-accordiaon">
-                <h3>Course Syllabus</h3>
-                <div class="accordion curriculum-accordion" id="curriculum">
-                    <!-- first semester -->
+        <div class="cs-bg-wrap">
 
-                    <div class="accordion-item">
+            <h2 class="cs-heading">Course Syllabus</h2>
 
-                        <h2 class="accordion-header">
+            <div class="cs-grid">
 
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                data-bs-target="#module1" aria-expanded="true" aria-controls="module1">
-
-                                Semester I
-
-                            </button>
-
-                        </h2>
-
-                        <div id="module1" class="accordion-collapse collapse show" data-bs-parent="#curriculum">
-
-                            <div class="accordion-body hero10">
-
-                                <div class="row">
-                                    <ul class="curriculum">
-                                        <table class="table">
-                                            <thead>
-                                                <tr>
-                                                    <th>Course Code</th>
-                                                    <th>Course Type</th>
-                                                    <th>Course Name</th>
-                                                    <th>Credits</th>
-                                                </tr>
-                                            </thead>
-                                            <tbody>
-                                                <tr>
-                                                    <td>EMN1001</td>
-                                                    <td>Core Course</td>
-                                                    <td>Financial Reporting and Analysis</td>
-                                                    <td>4</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>EMN1002</td>
-                                                    <td>Core Course</td>
-                                                    <td>Business Environment</td>
-                                                    <td>4</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>EMN1003</td>
-                                                    <td>Core Course</td>
-                                                    <td>Cost and Management Accounting</td>
-                                                    <td>4</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>EMN1004</td>
-                                                    <td>Core Course</td>
-                                                    <td>Business Statistics and Research Methodology</td>
-                                                    <td>4</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>EMN1701</td>
-                                                    <td>Project</td>
-                                                    <td>Field Project</td>
-                                                    <td>4</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>EMN1201</td>
-                                                    <td>Multi-disciplinary</td>
-                                                    <td>Leadership & Change Management</td>
-                                                    <td>4</td>
-                                                </tr>
-                                            </tbody>
-                                        </table>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
+                <!-- Semester 1 -->
+                <div class="cs-block">
+                    <div class="cs-left">
+                        <span class="cs-semester-tag"><span class="cs-semester-tag-inner">Semester 1</span></span>
+                        <ul class="cs-course-list">
+                            <li>Financial Reporting and Analysis (EMN1001)</li>
+                            <li>Business Environment (EMN1002)</li>
+                            <li>Cost and Management Accounting (EMN1003)</li>
+                            <li>Business Statistics and Research Methodology (EMN1004)</li>
+                            <li>Field Project (EMN1701)</li>
+                            <li>Leadership &amp; Change Management (EMN1201)</li>
+                        </ul>
+                        <p class="sub-text"><strong>Total Credits 24</strong></p>
                     </div>
-                    <!-- first semester -->
-                    <div class="accordion-item">
-                        <h2 class="accordion-header">
-                            <button class="accordion-button " type="button" data-bs-toggle="collapse"
-                                data-bs-target="#module2" aria-expanded="false" aria-controls="module2">
-                                Semester II
-                            </button>
-                        </h2>
-                        <div id="module2" class="accordion-collapse show" data-bs-parent="#curriculum">
-                            <div class="accordion-body hero10">
-                                <div class="row">
-                                    <ul class="curriculum">
-
-                                        <table class="table">
-                                            <thead>
-                                                <tr>
-                                                    <th>Course Code</th>
-                                                    <th>Course Type</th>
-                                                    <th>Course Name</th>
-                                                    <th>Credits</th>
-                                                </tr>
-                                            </thead>
-                                            <tbody>
-                                                <tr>
-                                                    <td>EMN2001</td>
-                                                    <td>Core Course</td>
-                                                    <td>Managerial Economics</td>
-                                                    <td>4</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>EMN2002</td>
-                                                    <td>Core Course</td>
-                                                    <td>Human Resource Management</td>
-                                                    <td>4</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>EMN2003</td>
-                                                    <td>Core Course</td>
-                                                    <td>Operations Research</td>
-                                                    <td>4</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>EMN2004</td>
-                                                    <td>Core Course</td>
-                                                    <td>Corporate Governance and Legal Aspects of Business</td>
-                                                    <td>4</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>EMN2701</td>
-                                                    <td>Project</td>
-                                                    <td>Live Project</td>
-                                                    <td>4</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>EMN2201</td>
-                                                    <td>Multi-disciplinary</td>
-                                                    <td>Crisis Management & Decision-Making</td>
-                                                    <td>4</td>
-                                                </tr>
-                                            </tbody>
-                                        </table>
-                                    </ul>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item">
-                        <h2 class="accordion-header">
-                            <button class="accordion-button " type="button" data-bs-toggle="collapse"
-                                data-bs-target="#module3" aria-expanded="false" aria-controls="module3">
-                                Semester III
-                            </button>
-                        </h2>
-                        <div id="module3" class="accordion-collapse show" data-bs-parent="#curriculum">
-                            <div class="accordion-body hero10">
-                                <div class="row">
-                                    <ul class="curriculum">
-                                        <table class="table">
-                                            <thead>
-                                                <tr>
-                                                    <th>Course Code</th>
-                                                    <th>Course Type</th>
-                                                    <th>Course Name</th>
-                                                    <th>Credits</th>
-                                                </tr>
-                                            </thead>
-                                            <tbody>
-                                                <tr>
-                                                    <td>ELS3401</td>
-                                                    <td>Discipline Specific</td>
-                                                    <td>Supply Chain Strategy</td>
-                                                    <td>4</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>ELS3402</td>
-                                                    <td>Discipline Specific</td>
-                                                    <td>Procuring and Sourcing</td>
-                                                    <td>4</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>ELS3403</td>
-                                                    <td>Discipline Specific</td>
-                                                    <td>Logistics Management</td>
-                                                    <td>4</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>ELS3404</td>
-                                                    <td>Discipline Specific</td>
-                                                    <td>Inventory Management</td>
-                                                    <td>4</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>EMN3101</td>
-                                                    <td>Ability Enhancement</td>
-                                                    <td>Summer Internship</td>
-                                                    <td>4</td>
-                                                </tr>
-                                            </tbody>
-                                        </table>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item">
-                        <h2 class="accordion-header">
-                            <button class="accordion-button " type="button" data-bs-toggle="collapse"
-                                data-bs-target="#module4" aria-expanded="false" aria-controls="module4">
-                                Semester IV
-                            </button>
-                        </h2>
-                        <div id="module4" class="accordion-collapse show" data-bs-parent="#curriculum">
-                            <div class="accordion-body hero10">
-                                <div class="row">
-                                    <ul class="curriculum">
-                                        <table class="table">
-                                            <thead>
-                                                <tr>
-                                                    <th>Course Code</th>
-                                                    <th>Course Type</th>
-                                                    <th>Course Name</th>
-                                                    <th>Credits</th>
-                                                </tr>
-                                            </thead>
-                                            <tbody>
-                                                <tr>
-                                                    <td>ELS3405</td>
-                                                    <td>Discipline Specific</td>
-                                                    <td>Distribution Network Design</td>
-                                                    <td>4</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>ELS3406</td>
-                                                    <td>Discipline Specific</td>
-                                                    <td>Transportation Management</td>
-                                                    <td>4</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>EMN4501</td>
-                                                    <td>Skills Enhancement</td>
-                                                    <td>Capstone / Internship</td>
-                                                    <td>4</td>
-                                                </tr>
-                                            </tbody>
-                                        </table>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="container">
-                        <h2>Course Basket — Logistics & Supply Chain Management</h2>
-                        <div class="col-md-12 col-lg-12">
-                            <table class="table fee-table">
-
-                                <thead>
-                                    <tr>
-                                        <th>Slot</th>
-                                        <th>Course Code</th>
-                                        <th>Subject</th>
-                                        <th>Credits</th>
-                                    </tr>
-                                </thead>
-
-                                <tbody>
-                                    <tr>
-                                        <td>Discipline Specific 1</td>
-                                        <td>ELS3401</td>
-                                        <td>Supply Chain Strategy</td>
-                                        <td>3</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Discipline Specific 2</td>
-                                        <td>ELS3402</td>
-                                        <td>Procuring and Sourcing</td>
-                                        <td>3</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Discipline Specific 3</td>
-                                        <td>ELS3403</td>
-                                        <td>Logistics Management</td>
-                                        <td>3</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Discipline Specific 4</td>
-                                        <td>ELS3404</td>
-                                        <td>Inventory Management</td>
-                                        <td>3</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Discipline Specific 5</td>
-                                        <td>ELS3405</td>
-                                        <td>Distribution Network Design</td>
-                                        <td>3</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Discipline Specific 6</td>
-                                        <td>ELS3406</td>
-                                        <td>Transportation Management</td>
-                                        <td>3</td>
-                                    </tr>
-                                </tbody>
-                            </table>
-
-                        </div>
+                    <div class="cs-right">
+                        <img class="cs-icon" src="assets-new/images/star-icon.png" alt="">
+                        <h3 class="cs-title">AI Foundation</h3>
+                        <p class="cs-desc">AI Mindset + Prompt Engineering for Business Output</p>
+                        <hr class="cs-divider">
+                        <p class="cs-learner-label">What the Learner Becomes:</p>
+                        <span class="cs-outcome">AI-Ready Professional</span>
                     </div>
                 </div>
+
+                <!-- Semester 2 -->
+                <div class="cs-block">
+                    <div class="cs-left">
+                        <span class="cs-semester-tag"><span class="cs-semester-tag-inner">Semester 2</span></span>
+                        <ul class="cs-course-list">
+                            <li>Managerial Economics (EMN2001)</li>
+                            <li>Human Resource Management (EMN2002)</li>
+                            <li>Operations Research (EMN2003)</li>
+                            <li>Corporate Governance and Legal Aspects of Business (EMN2004)</li>
+                            <li>Live Project (EMN2701)</li>
+                            <li>Crisis Management &amp; Decision-Making (EMN2201)</li>
+                        </ul>
+                        <p class="sub-text"><strong>Total Credits 24</strong></p>
+                    </div>
+                    <div class="cs-right">
+                        <img class="cs-icon" src="assets-new/images/star-icon.png" alt="">
+                        <h3 class="cs-title">AI Intermediate</h3>
+                        <p class="cs-desc">Domain-contextualised AI module + workplace artifact</p>
+                        <hr class="cs-divider">
+                        <p class="cs-learner-label">What the Learner Becomes:</p>
+                        <span class="cs-outcome">AI-Enabled Task Optimiser</span>
+                    </div>
+                </div>
+
+                <!-- Semester 3 -->
+                <div class="cs-block">
+                    <div class="cs-left">
+                        <span class="cs-semester-tag"><span class="cs-semester-tag-inner">Semester 3</span></span>
+                        <ul class="cs-course-list">
+                            <li>Supply Chain Strategy (ELS3401)</li>
+                            <li>Procuring and Sourcing (ELS3402)</li>
+                            <li>Logistics Management (ELS3403)</li>
+                            <li>Inventory Management (ELS3404)</li>
+                            <li>Summer Internship (EMN3101)</li>
+                        </ul>
+                        <p class="sub-text"><strong>Total Credits 20</strong></p>
+                    </div>
+                    <div class="cs-right">
+                        <img class="cs-icon" src="assets-new/images/star-icon.png" alt="">
+                        <h3 class="cs-title">AI Specialist</h3>
+                        <p class="cs-desc">Advanced specialisation + leadership artifact</p>
+                        <hr class="cs-divider">
+                        <p class="cs-learner-label">What the Learner Becomes:</p>
+                        <span class="cs-outcome">AI Workflow Builder</span>
+                    </div>
+                </div>
+
+                <!-- Semester 4 -->
+                <div class="cs-block">
+                    <div class="cs-left">
+                        <span class="cs-semester-tag"><span class="cs-semester-tag-inner">Semester 4</span></span>
+                        <ul class="cs-course-list">
+                            <li>Distribution Network Design (ELS3405)</li>
+                            <li>Transportation Management (ELS3406)</li>
+                            <li>Capstone / Internship (EMN4501)</li>
+                        </ul>
+                        <p class="sub-text"><strong>Total Credits 12</strong></p>
+                    </div>
+                    <div class="cs-right">
+                        <img class="cs-icon" src="assets-new/images/star-icon.png" alt="">
+                        <h3 class="cs-title">AI Mastery</h3>
+                        <p class="cs-desc">Capstone with measurable business impact</p>
+                        <hr class="cs-divider">
+                        <p class="cs-learner-label">What the Learner Becomes:</p>
+                        <span class="cs-outcome">AI Strategy Architect</span>
+                    </div>
+                </div>
+
+            </div><!-- /cs-grid -->
+            <p class="sub-text text-light mt-4"><strong>Total Cumulative Credits 80</strong></p>
+
+        </div><!-- /cs-bg-wrap -->
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════
+       SPECIALIZATIONS — ELECTIVE SUBJECT
+    ════════════════════════════════════════════════ -->
+<?php include "executive-mba-common-specialization.php" ?>
+
+<!-- ═══════════════════════════════════════════════
+       ELIGIBILITY CRITERIA
+    ════════════════════════════════════════════════ -->
+<section class="eligibility-section">
+    <div class="container">
+        <h2 class="section-heading"><span>Eligibility</span> Criteria</h2>
+        <div class="eligibility-grid">
+
+            <div class="eligibility-card">
+                <span class="eligibility-tag">Educational qualification</span>
+                <ul class="eligibility-list">
+                    <li>Bachelor's degree from a recognized university</li>
+                    <li>No age limit</li>
+                    <li>Working professionals preferred</li>
+                </ul>
             </div>
+
+            <div class="eligibility-card">
+                <span class="eligibility-tag" style="background: #FFF5DE;">Grades</span>
+                <ul class="eligibility-list">
+                    <li>Minimum 40–50% aggregate</li>
+                </ul>
+            </div>
+
         </div>
     </div>
 </section>
 
-<section id="progressFee" class="enroll-certification mb-4" style="padding-top: 0px;">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12 col-lg-4 fintech-certi fee-section">
-                <h4>Program <br> Fees</h4>
-                <div class="price-enquiry">
-                    <h3>₹ 1,80,000 /-</h3>
+    <!-- ═══════════════════════════════════════════════
+       FEE STRUCTURE
+    ════════════════════════════════════════════════ -->
+    <?php include "executive-mba-common-fee-structure.php" ?>
 
-                    <?php include "single-common-button-add-all-fees-courses-code.php" ?>
+    <!-- FAQ -->
 
+    <section class="faq-section">
+        <div class="container">
+            <h2 class="section-heading">Frequently Asked Questions</h2>
+            <div class="faq-list">
+
+                <div class="faq-item is-open">
+                    <button class="faq-q" aria-expanded="true">
+                        <span>What sets an Executive MBA apart from a regular MBA?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>An Executive MBA is designed for working professionals with experience, focusing more on
+                            leadership, strategy, and real-world application—while a regular MBA is typically suited for
+                            early-career individuals building foundational knowledge.</p>
+                    </div>
                 </div>
-                <div></div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>Who is this programme best suited for?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>This programme is ideal for mid-to-senior-level working professionals seeking to accelerate
+                            their career growth, develop strategic leadership skills, and gain a globally-recognised
+                            management qualification without pausing their careers.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>Can I continue working while pursuing this programme?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>Yes. The Executive MBA is structured for working professionals with a blended learning
+                            format—online sessions, weekend modules, and short on-campus immersions—so you can continue
+                            in your current role throughout the programme.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>What specialisations can I choose from?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>Specialisations include Finance Management, HR Management, Marketing Management, Operations
+                            Management, Project Management, Business Analytics & AI, Logistics and Supply Chain
+                            Management, Material Management, and more.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>How long does the programme typically take?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>The programme is typically 24 months (4 semesters) in duration, structured to balance
+                            professional commitments with rigorous academic learning.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>How is the programme delivered?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>The programme follows a blended learning model — a combination of live online classes,
+                            self-paced learning modules, and periodic offline contact sessions at the Avantika
+                            University campus in Ujjain.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>What is the investment required for the programme?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>The total programme fee is ₹1,80,000 (payable as ₹45,000 per semester). EMI and scholarship
+                            options are available. Contact our counselling team for personalised fee guidance.</p>
+                    </div>
+                </div>
+
             </div>
-            <div class="col-md-12 col-lg-8 fin-feature">
-                <div class="fee-distribution">
-                    <!-- Column 1: Fee Options -->
-                    <div class="fee-card">
-                        <h5 class="card-title">Fees Options</h5>
-                        <div class="card-body">
-                            <button type="button" class="btn btn-primary mit-button w-100">Program Fees</button>
-                            <ul class="fee-list">
-                                <li>Installment 1</li>
-                                <li>Installment 2</li>
-                                <li>Installment 3</li>
-                                <li>Installment 4</li>
-                            </ul>
-                        </div>
-                    </div>
-
-                    <!-- Column 2: Course Fee - Installment -->
-                    <div class="fee-card">
-                        <h5 class="card-title">Course fee - Installment</h5>
-                        <div class="card-body">
-                            <button type="button" class="btn btn-primary mit-button w-100">₹ 1,80,000 /-</button>
-                            <ul class="fee-list">
-                                <li><span style="font-size: 12px;">At the time of admission-</span>₹ 45,000/-</li>
-                                <li>Within 6 months - ₹ 45,000/-</li>
-                                <li>Within 12 months - ₹ 45,000/-</li>
-                                <li>Within 18 months - ₹ 45,000/-</li>
-                            </ul>
-                        </div>
-                    </div>
-
-                    <!-- Column 3: Course Fee - Yearly -->
-                    <div class="fee-card">
-                        <h5 class="card-title">Course Fee - Yearly</h5>
-                        <div class="card-body">
-                            <button type="button" class="btn btn-primary mit-button w-100">₹ 1,70,000 /-</button>
-                            <ul class="fee-list">
-                                <li>1st Year ₹ 85,000 /-</li>
-                                <li>2nd Year ₹ 85,000 /-</li>
-                            </ul>
-                        </div>
-                    </div>
-
-                    <!-- Column 4: Course Fee - Lumpsum -->
-                    <div class="fee-card">
-                        <h5 class="card-title">Course fee - Lumpsum</h5>
-                        <div class="card-body">
-                            <button type="button" class="btn btn-primary mit-button w-100">₹ 1,80,000 /-</button>
-                            <ul class="fee-list">
-                                <li>Discount- ₹ 10,000 /-</li>
-                                <li><b>Total Lumpsum- ₹ 1,70,000/-</b></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="alert brandcolor mt-3 text-justify" style="text-align: justify;" role="alert"><b>EMI & Loan</b>: Easy EMI options available via leading banks and NBFCs. Educational loan assistance is also provided. Contact admissions for details — <a class="text-decoration-none" href="tel:+919112207207">+91 9112-207-207</a>
-                </div>
-            </div>
-
         </div>
-        <!-- <div class="alert brandcolor" role="alert"><b>Note :</b><br>
-            <ul class="fin-feature2" style="list-style: none;">
+    </section>
 
-                <li><strong>Students are required to pay additional exam fee per
-                        exam per attempt and Project Evaluation Fees. </strong> </li>
-                <strong>For Installments</strong>
-                <li><span class="newright-icon1"></span> First Installment needs to be paid at the time of
-                    admission.</li>
-                <li><span class="newright-icon1"></span> Second Installment needs to be paid before Commencement of second year</li>
-            </ul>
-        </div> -->
+    <!-- ═══════════════════════════════════════════════
+       SITE FOOTER
+    ════════════════════════════════════════════════ -->
+    <?php include "footer-new.php" ?>
 
-    </div>
-</section>
-
-<section class="enroll-certification pt-3">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 col-lg-12 fintech-certi aboutMit-skills">
-                        <h2>Eligibility & Admissions</h2>
-                    </div>
-                    <div class="col-md-12 col-lg-12 fin-feature1 hero11">
-                        <div class="row">
-                            <div>
-                                <ul>
-                                    <li> Graduation from any stream (10+2+3) from a recognised board</li>
-                                    <li> Minimum 50% aggregate marks in the UG degree</li>
-                                    <li> Admission based on graduation merit + entrance scores (CAT / MAT / XAT) + personal interview</li>
-                                    <li> Mandatory industry internship built into the curriculum (Semester 3)</li>
-                                    <li> Merit and need-based scholarships available; educational loan assistance provided</li>
-                                    <li>100% placement assistance with dedicated career counseling and recruitment drives</li>
-                                </ul>
-                            </div>
-                        </div>
-                        <hr>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <?php //include "all-similar-program-all-courses-slider.php" 
-        ?>
-
-        <?php include "learner-support.php" ?>
-
-    </main>
-    <!-- Footer Start -->
-
-    <?php include "footer.php" ?>
-
-
-    <!-- footer end  -->
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/js/bootstrap-select.min.js"></script>
-    <script src="assets/js/slick.min.js"></script>
-    <script src="assets/js/common.js"></script>
-    <script src="assets/js/course-slider.js"></script>
-
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        new Swiper('.spec-swiper', {
+            slidesPerView: 3.5,
+            spaceBetween: 16,
+            pagination: { el: '.spec-pagination', clickable: true },
+            breakpoints: {
+                0: { slidesPerView: 1.2, spaceBetween: 12 },
+                576: { slidesPerView: 2.2, spaceBetween: 14 },
+                992: { slidesPerView: 3.5, spaceBetween: 16 }
+            }
+        });
+    </script>
 </body>
 
 </html>

@@ -7,11 +7,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>PGDM Executive in Human Capital Management | Executive Courses</title>
 
-    <meta name="description"
-        content="Executive PG Diploma in Human Resource Management is best suited for working professionals looking for growth or change in career in the HR domain." />
+    <meta name="description" content="Executive PG Diploma in Human Resource Management is best suited for working professionals looking for growth or change in career in the HR domain." />
 
-    <meta name="keywords"
-        content="executive PGDM courses, post graduate diploma in HR management, pg diploma in HR management, online mba in HR Management, HR courses, online courses in HR management, online courses in Human Resource Management" />
+    <meta name="keywords" content="executive PGDM courses, post graduate diploma in HR management, pg diploma in HR management, online mba in HR Management, HR courses, online courses in HR management, online courses in Human Resource Management" />
 
     <!-- CANONICAL TAG -->
 
@@ -19,35 +17,56 @@
 
     <!-- CANONICAL TAG -->
 
-    <?php include "5-common-seo-tag-1.php" ?>
-
     <!-- OGP TAG -->
 
     <meta property="og:title" content="PGDM Executive in Human Capital Management | Executive Courses">
     <meta property="og:site_name" content="MIT School of Distance Education">
     <meta property="og:url" content="https://mitsde.com/pgdm-executive-in-human-capital-management">
-    <meta property="og:description"
-        content="Executive PG Diploma in Human Resource Management is best suited for working professionals looking for growth or change in career in the HR domain.">
+    <meta property="og:description" content="Executive PG Diploma in Human Resource Management is best suited for working professionals looking for growth or change in career in the HR domain.">
     <meta property="og:type" content="website">
     <meta property="og:image" content="https://mitsde.com/assets/images/new/logo-mit-school-of-distance-education.png">
 
     <!-- / OG TAG -->
 
-    <!-- Page Title -->
-    <link rel="icon" type="image/png" href="assets/images/favicon-mit.ico" />
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="assets/css/bootstrap-select.min.css" />
-    <link rel="stylesheet" href="assets/css/slick.min.css" />
-    <link rel="stylesheet" href="assets/css/fonts.css" type="text/css" />
-    <link rel="stylesheet" href="assets/css/style.css" type="text/css" />
-    <link rel="stylesheet" href="assets/fontawesome/css/all.min.css" type="text/css">
-    <link rel="stylesheet" href="assets/css/course-common-internal.css" type="text/css" />
-    <!--API for Queck contact----->
-    <script src="assets/js/api/jquery-1.10.2.min.js"></script>
-    <script type="text/javascript" src="assets/js/api/validation.js" charset="UTF-8"></script>
-    <!----->
-    <script type="application/ld+json">
+    <link rel="icon" type="image/png" href="assets-new/images/favicon-mit.ico" />
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="css-new/styles.css" />
+    <link rel="stylesheet" href="css-new/intlTelInput.css">
+
+   <script type="application/ld+json">
     {
+        "@context": "https://schema.org/",
+        "@type": "Product",
+        "name": "PGDM Executive in Digital Marketing Online | AICTE-Approved MITSDE",
+        "image": "https://mitsde.com/assets-new/images/course/pgdm-exe/PGDM-Executive-Digital-Marketing.png",
+        "description": "Enhance your career with MITSDE’s 15-month AICTE-approved PGDM Executive in Digital Marketing. Learn SEO, SEM, analytics & leadership online.",
+        "brand": {
+            "@type": "Brand",
+            "name": "MITSDE"
+        },
+        "offers": {
+            "@type": "Offer",
+            "url": "https://mitsde.com/pgdm-executive-in-digital-marketing",
+            "priceCurrency": "INR",
+            "price": "95000",
+            "priceValidUntil": "2026-12-31",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1",
+            "ratingCount": "10"
+        }
+    }
+    </script>
+
+    <script type="application/ld+json">{
         "@context": "https://schema.org/",
         "@type": "Product",
         "name": "PGDM Executive in Human Capital Management | Executive Courses",
@@ -76,8 +95,7 @@
     }
     </script>
 
-    <script type="application/ld+json">
-{
+    <script type="application/ld+json">{
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
@@ -101,13 +119,9 @@
     }
   ]
 }
-</script>
+    </script>
 
-
-    <!--  -->
-
-    <script type="application/ld+json">
-    {
+    <script type="application/ld+json">{
         "@context": "https://schema.org",
         "@type": "FAQPage",
         "mainEntity": [{
@@ -202,921 +216,475 @@
     }
     </script>
 
-
+<?php include "5-common-seo-tag-1.php" ?>
 </head>
 
 <body>
-    <?php include "5-common-seo-tag-2.php" ?>
-    <!-- Header Nav Start -->
-    <?php include "header.php" ?>
-    <!-- Header Nav End --->
-    <main class="main-body">
-        <?php include "announcementUpdate.php" ?>
-        <section class="banner inner-banner">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 col-lg-6 main-banner">
-                        <h1>PGDM Executive In Human Capital Management</h1>
-                        <p>Learn people management with <img src="assets/images/common-images/kpmg-png.png" style="width: 70px;" alt="KPMG logo"> in INDIA to make the biggest asset of the company, Human Resources, to drive exceptional results. ( Optional)</p>
-                        <div class="page-btn">
+  <?php include "5-common-seo-tag-2.php" ?>
+    <?php include "header-new.php" ?>
 
+    <!-- ═══════════════════════════════════════════════
+       PROGRAM HERO
+       Reusable .ph-* classes — replicate for every
+       program detail page, only swap heading + pills.
+    ════════════════════════════════════════════════ -->
+    <section class="hero ph-hero">
+        <div class="container">
 
-                            <button type="button" class="btn btn-primary mit-button cus-btn inner-cus ms-0"
-                                data-bs-toggle="modal" data-bs-target="#enquiryModal-download-form"><span
-                                    class="mtsk-download"></span> &nbsp; Download BROCHURE
-                            </button>
+            <!-- Breadcrumb -->
+            <nav class="page-breadcrumb" aria-label="Breadcrumb">
+                <a href="index.php">Home</a>
+                <span class="pb-sep">/</span>
+                <a href="#">PGDM Exe</a>
+                <span class="pb-sep">/</span>
+                <span class="pb-current">PGDM Executive In Human Capital Management</span>
+            </nav>
 
-                        </div>
-                        <div>
-                            <nav>
-                                <ol class="breadcrumb">
-                                    <li class="breadcrumb-item"><a href=" https://mitsde.com">Home</a>
-                                    </li>
-                                    <li class="breadcrumb-item"><a
-                                            href="post-graduate-diploma-in-management-executive">PGDM Exe </a></li>
-                                    <li class="breadcrumb-item active" aria-current="page">PGDM Executive Human Capital
-                                        Management
-                                    </li>
+            <!-- 3-column layout: left content | center image | right form -->
+            <div class="ph-layout">
 
-                            </nav>
-
-
-                        </div>
-                    </div>
-                    <div class="col-md-12 col-lg-6">
-                        <div class="css-details">
-                            <div class="stc-det student-sec inner-sec">
-                                <img src="assets/images/course/pgdm-exe/PGDM-Executive-Human-Capital-Management_Icon-1.jpg"
-                                    alt="Human Capital Management icon 1">
-                            </div>
-                            <img src="assets/images/course/pgdm-exe/PGDM-Executive-Human-Capital-Management.jpg"
-                                class="banner-img" alt="PGDM-Executive-Human-Capital-Management">
-                            <div class="stc-det course-sec inner-sec">
-                                <img src="assets/images/course/pgdm-exe/PGDM-Executive-Human-Capital-Management_Icon-2.jpg"
-                                    alt="Human Capital Management icon 2">
-                            </div>
-                        </div>
-                    </div>
+                <!-- Left — heading + partner -->
+                <div class="ph-left">
+                    <h1 class="ph-heading">PGDM Executive In<br> Human Capital Management</h1>
+                    <!-- <div class="ph-sub">
+                        <p style="max-width: 400px;"><img src="assets-new/images/kpmg-logo.png" alt="KPMG" class="ph-partner-logo" /> in India across is
+                            the academic partner for the Project Analytics Certification Program.
+                            (Optional)</p>
+                    </div> -->
                 </div>
+
+                <div class="ph-right">
+                    <img src="assets-new/images/project-management.webp" alt="PGDM Executive In Human Capital Management" />
+                </div>
+
+            </div><!-- /ph-layout -->
+
+            <!-- Specialisation filter pills -->
+            <div class="ph-specs-wrap">
+                <div class="ph-specs">
+                    <a href="digital-marketing-strategist"><button class="ph-spec-pill">Chief Digital Marketing Strategist Program</button></a>
+                    <a href="pgdm-executive-in-digital-marketing"><button class="ph-spec-pill">Digital Marketing</button></a>
+                    <a href="pgdm-executive-in-business-analytics"><button class="ph-spec-pill">Business Analytics</button></a>
+                    <a href="pgdm-executive-in-information-technology"><button class="ph-spec-pill">Information Technology</button></a>
+                    <a href="pgdm-executive-in-modern-project-management"><button class="ph-spec-pill">Project Management</button></a>
+                    <a href="pgdm-executive-in-technology-and-operations-management"><button class="ph-spec-pill">Technology & Operations</button></a>
+                    <a href="pgdm-executive-in-human-capital-management"><button class="ph-spec-pill is-active">Human Capital Management</button></a>
+                    <a href="pgdm-executive-in-banking-financial-services"><button class="ph-spec-pill">Banking &amp; Financial Services</button></a>
+                    <a href="pgdm-executive-in-finance-management"><button class="ph-spec-pill">Finance Management</button></a>
+                    <a href="pgdm-executive-in-strategic-marketing-management"><button class="ph-spec-pill">Strategic Marketing Management</button></a>
+                    <a href="pgdm-executive-in-material-management"><button class="ph-spec-pill">Material Management</button></a>
+                    <a href="pgdm-executive-in-global-logistics-and-supply-chain-management"><button class="ph-spec-pill">Global Logistics & Supply Chain</button></a>
+                    <a href="pgdm-executive-in-construction-and-project-management"><button class="ph-spec-pill">Construction and Project</button></a>
+                </div>
+                <p class="ph-specs-hint">Select a category above to explore all available specializations, fees,
+                    duration, and learning outcomes.</p>
             </div>
-        </section>
-        <?php include "3-PGDM-Executive-first-common-fees.php" ?>
 
-        <section class="app-featurelist">
-            <div class="container">
-                <div class="row">
-                    <ul class="app-features">
-                        <li><a class="active" href="#overview">About Course</a></li>
-                        <li><a href="#learning">Learning</a></li>
+        </div>
+    </section>
 
-                        <li><a href="#curriculam">Curriculum</a></li>
-                        <li><a href="#progressFee">Program Fees</a></li>
-                        <li><a href="#learnExpert">Our Courses</a></li>
+    <!-- ═══════════════════════════════════════════════
+       COURSE INFO BAR
+    ════════════════════════════════════════════════ -->
+    <?php include "pgdm-exe-common-fee-bar.php" ?>
+
+    <!-- TABs -->
+
+    <div class="ph-specs-wrap sticky-pills">
+        <div class="ph-specs">
+            <!-- <a href="#kpmg"><button class="ph-spec-pill is-active">KPMG</button></a>
+            <a href="#modules"><button class="ph-spec-pill">Modules</button></a> -->
+            <a href="#faq"><button class="ph-spec-pill">FAQ</button></a>
+            <a href="#about"><button class="ph-spec-pill">About</button></a>
+            <a href="#learning"><button class="ph-spec-pill">Learning</button></a>
+            <a href="#curriculum"><button class="ph-spec-pill">Curriculum</button></a>
+            <a href="#fees"><button class="ph-spec-pill">Program Fees</button></a>
+            <a href="#courses"><button class="ph-spec-pill">Our Courses</button></a>
+        </div>
+    </div>
+
+    <!-- About Section -->
+
+    <section class="about-section pb-0" id="about">
+
+        <div class="container">
+
+            <!-- Heading -->
+
+            <h2 class="section-heading">
+                <span class="text-orange">About </span>the Programme
+            </h2>
+
+            <p>
+                Human Capital is the capital asset of any organization. Organizations are striving hard to acquire and retain a highly qualified and experienced talent pool in the organization. Human capital management becomes a key task for any organization hence the responsibility of maintaining an adequate workforce, overall employee mental and physical well-being and creating a good employer brand in the market fall on the HCM department.
+            </p>
+
+            <p>
+                The objective Post Graduate Executive Diploma in Human Capital Management is to develop learner’s competence in the HR domain, help them to acquire new skills, learn about the latest tools and techniques to effectively handle employee’s day to day tasks and the global HR practices and laws.
+            </p>
+
+
+        </div>
+
+    </section>
+
+    <!-- Pedagogy section -->
+
+    <?php include "pgdm-common-unique-pedagogy.php" ?>
+
+    <!-- Learning Section -->
+
+    <section class="learning-section" id="learning">
+
+        <div class="container">
+
+            <!-- Heading -->
+
+            <h2 class="section-heading">
+                <span class="text-orange">Learning </span>Outcomes
+            </h2>
+
+            <div class="learning-outcomes-layout">
+
+                <div class="learning-outcomes-left">
+                    <!-- TODO: replace with real photo -->
+                    <img src="assets-new/images/learning-outcomes.jpg" alt="Learning Outcomes" />
+                </div>
+
+                <div class="learning-outcomes-right">
+                    <ul class="learning-outcomes-list">
+                        
+                        <li>
+                            <i class="fa-regular fa-square-check"></i>
+                            <span>Understand the basics of Human Resource Management</span>
+                        </li>
+                        <li>
+                            <i class="fa-regular fa-square-check"></i>
+                            <span>Learn the global Human Resource practices</span>
+                        </li>
+                        <li>
+                            <i class="fa-regular fa-square-check"></i>
+                            <span>Understand the latest technology in HRM</span>
+                        </li>
+                        <li>
+                            <i class="fa-regular fa-square-check"></i>
+                            <span>Learn the learning and development strategies</span>
+                        </li>
+                        <li>
+                            <i class="fa-regular fa-square-check"></i>
+                            <span>Learn the HR Information Systems and the tools used</span>
+                        </li>
+                    
                     </ul>
                 </div>
-            </div>
-        </section>
-        <section id="overview" class="enroll-certification">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 col-lg-12 fintech-certi aboutMit-skills">
-                        <h2>About The Course</h2>
 
-                    </div>
-                    <div class="col-md-8 col-lg-8 fintech-certi fin-feature hero11">
-                        <p>
-                            <b>Human Capital is the capital asset of any organization.</b> Organizations are striving
-                            hard to acquire and retain a highly qualified and experienced talent pool in the
-                            organization. Human capital management becomes a key task for any organization hence
-                            the responsibility of maintaining an adequate workforce, overall employee mental and
-                            physical well-being and creating a good employer brand in the market fall on the HCM
-                            department.
+            </div><!-- /learning-outcomes-layout -->
 
+        </div>
 
-                        </p>
+    </section>
 
-                        <p>
-                            <b>The objective Post Graduate Executive Diploma in Human Capital Management</b> is to
-                            develop learner’s competence in the HR domain, help them to acquire new skills,
-                            learn about the latest tools and techniques to effectively handle employee’s day to
-                            day tasks and the global HR practices and laws.
-                        </p>
-                    </div>
-                    <div class="col-md-4 col-lg-4 ">
-                        <?php include "common-home-form-added-all-36-courses-pages.php" ?>
+    <!-- ── Section: Course Syllabus ── -->
+    <section class="pgcs-section" id="curriculum">
+        <div class="container">
+            <div class="pgcs-bg-wrap">
 
-                    </div>
-                </div>
+                <h2 class="pgcs-heading">Course Syllabus</h2>
 
-                <!-- COMMON Unique Pedagogy  -->
+                <div class="pgcs-stack">
 
-                <?php include "PGDM-common-unique-pedagogy.php" ?>
+                    <!-- Semester 1 -->
+                    <?php include "pgdm-exe-common-semester-one.php" ?>
 
-                <!-- COMMON Unique Pedagogy  -->
-
-
-            </div>
-        </section>
-        <section id="learning" class="enroll-certification">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 col-lg-4 fintech-certi aboutMit-skills">
-                        <h2>Learning <br> Outcomes <br> </h2>
-
-                    </div>
-                    <div class="col-md-12 col-lg-8 fin-feature1 hero11">
-
-                        <li><span class="newright-icon1"></span> Understand the basics of Human Resource Management</li>
-                        <li><span class="newright-icon1"></span> Learn the global Human Resource practices</li>
-                        <li><span class="newright-icon1"></span> Understand the latest technology in HRM </li>
-                        <li><span class="newright-icon1"></span> Learn the learning and development strategies</li>
-                        <li><span class="newright-icon1"></span> Learn the HR Information Systems and the tools used
-                        </li>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section id="curriculam" class="enroll-certification">
-            <div class="container">
-                <div class="row">
-                    <div class="cur-accordiaon">
-                        <h3>Course Syllabus</h3>
-                        <div class="accordion curriculum-accordion" id="curriculum">
-                            <?php include "pgdmexe-common-semester-one.php" ?>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button " type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#module2" aria-expanded="false" aria-controls="module2">
-                                        Semester II
-                                    </button>
-                                </h2>
-                                <div id="module2" class="accordion-collapse show" data-bs-parent="#curriculum">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <ul class="curriculum">
-
-                                                <table class="table">
-                                                    <thead>
-                                                        <tr>
-                                                            <th>S.No</th>
-                                                            <th>Code</th>
-                                                            <th>Subject</th>
-                                                            <th>Credits</th>
-                                                        </tr>
-                                                    </thead>
-                                                    <tbody>
-
-
-                                                        <tr>
-                                                            <td>1</td>
-                                                            <td>S2C14</td>
-                                                            <td>Research Methodology and Management Decision</td>
-                                                            <td>4</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>2</td>
-                                                            <td>S2SH1</td>
-                                                            <td>Human Resource Management</td>
-                                                            <td>4</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>3</td>
-                                                            <td>S2SH2</td>
-                                                            <td>Learning and Development</td>
-                                                            <td>4</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>4</td>
-                                                            <td>S3SH03</td>
-                                                            <td>Compensation Management and HR Audit</td>
-                                                            <td>4</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>5</td>
-                                                            <td>S3SH01</td>
-                                                            <td>Strategic Human Resource Management</td>
-                                                            <td>4</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>6</td>
-                                                            <td>S3EL3</td>
-                                                            <td>HR Analytics  - LAB (Credits = 3+1)</td>
-                                                            <td>4</td>
-                                                        </tr>
-                                                    </tbody>
-                                                </table>
-                                                <?php include "pgdmexe-common-sem2-sub.php" ?>
-
-                                                <div class="alert brandcolor" align="right" role="alert">Total
-                                                    Credits 24
-                                                </div>
-                                            </ul>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-
-
-
-                            <li class="section hero10 p-3" style="list-style-type: none;">
-                                <?php include "pgdmexe-common-project-term.php" ?>
-
-                                    <div class="alert brandcolor" role="alert"><b>Note :</b><br>
-                                        <ul class="fin-feature2" style="list-style: none;">
-                                            <li><span class="newright-icon1"></span> The above course curriculum is
-                                                subject to revision as per AICTE
-                                                guidelines
-                                                from time to time and as per industry updates.</li>
-                                            <li><span class="newright-icon1"></span> Exams would be conducted during the
-                                                January and July exam
-                                                cycles.</li>
-                                            <li><span class="newright-icon1"></span> All the Exams at MITSDE (Internal &
-                                                External) are in the form of
-                                                Multiple
-                                                Choice Questions.
-                                            </li>
-                                            <li><span class="newright-icon1"></span> Student will have to attempt all
-                                                the components in the Learning
-                                                Management
-                                                System and submit TWO Quizzes (30 marks each) for each subject.
-
-                                            </li>
-                                            <li><span class="newright-icon1"></span> Internal Examinations carry 60%
-                                                marks (2 Quizzes of 30 Marks
-                                                each) and
-                                                External Proctored Exam carry 40% weightage (passing criteria for both
-                                                internal & external exam is 50%).
-                                            </li>
-
-                                        </ul>
-                                    </div>
-
-
-
-
+                    <!-- Semester 2 -->
+                    <div class="pgcs-card">
+                        <div class="pgcs-top">
+                            <div class="pgcs-left">
+                                <span class="pgcs-tag"><span class="pgcs-tag-inner">Semester 2</span></span>
+                                <ul class="pgcs-course-list">
+                                    <li>Research Methodology and Management Decision (S2C14)</li>
+                                    <li>Human Resource Management (S2SH1)</li>
+                                    <li>Learning and Development (S2SH2)</li>
+                                    <li>Compensation Management and HR Audit (S3SH03)</li>
+                                    <li>Strategic Human Resource Management (S3SH01)</li>
+                                    <li>HR Analytics - LAB (Credits = 3+1) (S3EL3)</li>
                                 </ul>
-
-                            </li>
-
-
-
-
-
-
-
-                        </div>
+                            </div>
+                            <div class="pgcs-right">
+                                <div class="pgcs-right-info">
+                                    <img class="pgcs-icon" src="assets-new/images/star-icon.png" alt="">
+                                    <h3 class="pgcs-title">AI Intermediate</h3>
+                                    <p class="pgcs-desc">Domain-contextualised AI module + workplace artifact</p>
+                                </div>
+                                <span class="pgcs-vdivider"></span>
+                                <div class="pgcs-right-outcome">
+                                    <p class="pgcs-learner-label">What the Learner Becomes:</p>
+                                    <span class="pgcs-outcome">AI-Enabled Task Optimiser</span>
+                                </div>
+                            </div>
+                        </div><!-- /pgcs-top -->
+                        <?php include "pgdmexe-common-sem2-sub.php" ?>
                     </div>
-                </div>
-            </div>
-        </section>
+                    <!-- Project -->
+                    <?php include "pgdmexe-common-project-term.php" ?>
 
+                </div><!-- /pgcs-stack -->
 
+                <p class="sub-text text-light mt-4"><strong>Total Cumulative Credits 50</strong></p>
 
-        <?php include "3-PGDM-Executive-second-common-fees.php" ?>
+                <div class="pgcs-note">
+                    <h3 class="pgcs-note-heading">Note :</h3>
+                    <ul class="pgcs-note-list">
+                        <li>The above course curriculum is subject to revision as per AICTE guidelines from time to
+                            time and as per industry updates.</li>
+                        <li>Exams would be conducted during the January and July exam cycles.</li>
+                        <li>All the Exams at MITSDE (Internal &amp; External) are in the form of Multiple Choice
+                            Questions.</li>
+                        <li>Student will have to attempt all the components in the Learning Management System and
+                            submit TWO Quizzes (30 marks each) for each subject.</li>
+                        <li>Internal Examinations carry 60% marks (2 Quizzes of 30 Marks each) and External Proctored
+                            Exam carry 40% weightage (passing criteria for both internal &amp; external exam is
+                            50%).</li>
+                    </ul>
+                </div><!-- /pgcs-note -->
 
+            </div><!-- /pgcs-bg-wrap -->
+        </div>
+    </section>
 
-        <section>
-            <div class="container">
-                <div class="row">
-                    <div class="cur-accordiaon">
+    <!-- ═══════════════════════════════════════════════
+       FEE STRUCTURE
+    ════════════════════════════════════════════════ -->
+    <section class="fee-structure-section" id="fees">
+        <div class="container">
+            <h2 class="section-heading"><span>Fee</span> Structure</h2>
 
-                        <div class="accordion curriculum-accordion" id="freQuestions">
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions1" aria-expanded="false" aria-controls="questions1">
-                                        Potential Career
-                                    </button>
-                                </h2>
-                                <div id="questions1" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <p>On completion of the course, you can be hired in various
-                                                sectors in exciting roles namely:</p>
-                                            <ul class="fin-feature2" style="list-style: none;">
-                                                <div class="row">
-                                                    <div class="col-md-6">
-                                                        <li><span class="newright-icon1"></span> HR Generalist</li>
-                                                        <li><span class="newright-icon1"></span> HR Executive </li>
-                                                        <li><span class="newright-icon1"></span> HR Manager</li>
-                                                    </div>
-                                                    <div class="col-md-6">
+            <div class="fs-outer">
 
-                                                        <li><span class="newright-icon1"></span> HRBP</li>
-                                                        <li><span class="newright-icon1"></span> HR Specialist</li>
-                                                    </div>
-                                                </div>
-
-
-
-
-
-
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
+                <?php include "pgdm-exe-common-fee-structure.php" ?>
+                <!-- Note (reuses the same .pgcs-note pattern/CSS from Course Syllabus) -->
+                <div class="fs-note-wrap">
+                    <div class="pgcs-note">
+                        <h3 class="pgcs-note-heading">Note :</h3>
+                        <ul class="pgcs-note-list">
+                            <li>Students are required to pay an additional Exam Fee of ₹750 per paper and a Project
+                                Evaluation Fee of ₹2,000.</li>
+                        </ul>
+                        <p class="fs-note-subhead">For Installments</p>
+                        <ul class="pgcs-note-list">
+                            <li>First Installment needs to be paid at the time of admission.</li>
+                            <li>Second Installment needs to be paid within 3 months from the date of admission.</li>
+                            <li>Third Installment needs to be paid within 6 months from the date of admission.</li>
+                        </ul>
                     </div>
-                </div>
-            </div>
-        </section>
+                    <div class="faq-list">
 
-        <section id="faq">
-
-            <div class="container">
-
-                <div class="row">
-
-                    <div class="cur-accordiaon">
-
-                        <h2 class="fw-bold ">Frequently Asked Questions (FAQs)</h2>
-
-
-
-
-
-                        <div class="accordion curriculum-accordion" id="freQuestions">
-
-                            <div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions12" aria-expanded="false" aria-controls="questions12">
-
-                                        What is the duration of the PGDM Executive in Human Capital Management program?
-
-
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="questions12" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-
-                                    <div class="accordion-body  hero10">
-
-                                        <div class="row">
-
-                                            <div class="col-md-12 col-lg-12">
-
-                                                <div class="fintech-module alert brandcolor">
-
-
-
-                                                    <p>The program spans 15 months.</p>
-
-
-
-
-                                                </div>
-
-                                            </div>
-
-
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
+                        <div class="faq-item is-open">
+                            <button class="faq-q" style="background: white;" aria-expanded="false">
+                                <span>Potential Career</span>
+                                <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round" />
+                                </svg>
+                            </button>
+                            <div class="faq-a" style="background: transparent;">
+                                <p class="text-dark">On completion of the course, you can be hired in various sectors in exciting roles namely:</p>
+                                <ul class="ac-list text-dark">
+                                    <p><strong>Career Opportunities Include:</strong></p>
+                                    <li>HR Generalist</li>
+                                    <li>HR Executive</li>
+                                    <li>HR Manager</li>
+                                    <li>HRBP</li>
+                                    <li>HR Specialist</li>
+                                </ul>
                             </div>
-
-                            <div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions13" aria-expanded="false" aria-controls="questions13">
-
-                                        Who is eligible to enroll in this program?
-
-
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="questions13" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-
-                                    <div class="accordion-body hero10">
-
-                                        <div class="row">
-
-                                            <div class="col-md-12 col-lg-12">
-
-                                                <div class="fintech-module alert brandcolor">
-
-
-
-
-
-                                                    <p>Graduates with over 5 years of work experience are eligible to
-                                                        apply.</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                                </div>
-
-                                            </div>
-
-
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                            <div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions14" aria-expanded="false" aria-controls="questions14">
-
-                                        How is the course delivered?
-
-
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="questions14" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-
-                                    <div class="accordion-body hero10">
-
-                                        <div class="row">
-
-                                            <div class="col-md-12 col-lg-12">
-
-                                                <div class="fintech-module alert brandcolor">
-
-
-
-                                                    <p>The course is delivered online, providing flexibility
-                                                        for working professionals.</p>
-
-
-
-
-
-                                                </div>
-
-                                            </div>
-
-
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                            <div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions15" aria-expanded="false" aria-controls="questions15">
-
-                                        What is the fee structure for the program?
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="questions15" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-
-                                    <div class="accordion-body hero10">
-
-                                        <div class="row">
-
-                                            <div class="col-md-12 col-lg-12">
-
-                                                <div class="fintech-module alert brandcolor">
-
-
-
-                                                    <p>The program fee is ₹95,000.</p>
-
-
-
-
-                                                </div>
-
-                                            </div>
-
-
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                            <div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions23" aria-expanded="false" aria-controls="questions15">
-
-                                        What are the key objectives of this program?
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="questions23" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-
-                                    <div class="accordion-body hero10">
-
-                                        <div class="row">
-
-                                            <div class="col-md-12 col-lg-12">
-
-                                                <div class="fintech-module alert brandcolor">
-
-
-
-                                                    <p>The program aims to develop learners' competence in the HR
-                                                        domain,
-                                                        helping them acquire new skills, learn about the latest
-                                                        tools and techniques to effectively handle employees' day-to-day
-                                                        tasks, and understand global HR practices and laws.</p>
-
-
-
-
-                                                </div>
-
-                                            </div>
-
-
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-
-                            <div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions17" aria-expanded="false" aria-controls="questions17">
-
-                                        Does MITSDE offer placement assistance upon completion?
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="questions17" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-
-                                    <div class="accordion-body hero10">
-
-                                        <div class="row">
-
-                                            <div class="col-md-12 col-lg-12">
-
-                                                <div class="fintech-module alert brandcolor">
-
-
-
-                                                    <p>Yes, MITSDE provides placement support to students
-                                                        after they complete the program.</p>
-
-
-
-
-
-                                                </div>
-
-                                            </div>
-
-
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                            <div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions18" aria-expanded="false" aria-controls="questions18">
-
-                                        What are the career prospects after completing this program?
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="questions18" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-
-                                    <div class="accordion-body hero10">
-
-                                        <div class="row">
-
-                                            <div class="col-md-12 col-lg-12">
-
-                                                <div class="fintech-module alert brandcolor">
-
-
-
-                                                    <p>Graduates can pursue leadership roles in various sectors,
-                                                        including human resources, talent management, and
-                                                        organizational development.</p>
-
-
-
-
-
-                                                </div>
-
-                                            </div>
-
-
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                            <div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions19" aria-expanded="false" aria-controls="questions19">
-
-                                        Is the program suitable for professionals from non-HR backgrounds?
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="questions19" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-
-                                    <div class="accordion-body hero10">
-
-                                        <div class="row">
-
-                                            <div class="col-md-12 col-lg-12">
-
-                                                <div class="fintech-module alert brandcolor">
-
-
-
-                                                    <p>Yes, the program is designed to equip professionals from
-                                                        diverse fields with the necessary skills in
-                                                        human capital management.
-                                                    </p>
-
-
-
-
-
-                                                </div>
-
-                                            </div>
-
-
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                            <div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions20" aria-expanded="false" aria-controls="questions20">
-
-                                        Are there any prerequisites in terms of prior knowledge or skills?
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="questions20" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-
-                                    <div class="accordion-body hero10">
-
-                                        <div class="row">
-
-                                            <div class="col-md-12 col-lg-12">
-
-                                                <div class="fintech-module alert brandcolor">
-
-
-
-                                                    <p>While a background in HR is beneficial, the program is
-                                                        structured to provide foundational knowledge
-                                                        for all participants.
-
-                                                    </p>
-
-
-
-
-
-                                                </div>
-
-                                            </div>
-
-
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                            <div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions21" aria-expanded="false" aria-controls="questions21">
-
-                                        How does the online learning platform facilitate interaction and support?
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="questions21" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-
-                                    <div class="accordion-body hero10">
-
-                                        <div class="row">
-
-                                            <div class="col-md-12 col-lg-12">
-
-                                                <div class="fintech-module alert brandcolor">
-
-
-
-                                                    <p>MITSDE's online platform offers interactive learning materials,
-                                                        discussion forums, and access to faculty for queries and
-                                                        support.</p>
-
-
-
-
-
-                                                </div>
-
-                                            </div>
-
-
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                            <div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions22" aria-expanded="false" aria-controls="questions21">
-
-                                        What makes this program unique compared to other human capital management
-                                        courses?
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="questions22" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-
-                                    <div class="accordion-body hero10">
-
-                                        <div class="row">
-
-                                            <div class="col-md-12 col-lg-12">
-
-                                                <div class="fintech-module alert brandcolor">
-
-
-
-                                                    <p>The program offers a comprehensive curriculum tailored
-                                                        for middle and senior executives, focusing on modern practices
-                                                        across various industries.</p>
-
-
-
-
-
-                                                </div>
-
-                                            </div>
-
-
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-
                         </div>
 
-
-
                     </div>
+                </div><!-- /fs-note-wrap -->
 
 
+            </div><!-- /fs-outer -->
+        </div>
+    </section>
 
+    <!-- FAQ -->
+
+    <section class="faq-section" id="faq">
+        <div class="container">
+            <h2 class="section-heading">Frequently Asked Questions</h2>
+            <div class="faq-list">
+
+                
+                <div class="faq-item is-open">
+                    <button class="faq-q" aria-expanded="true">
+                        <span>What is the duration of the PGDM Executive in Human Capital Management program?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>The program spans 15 months.</p>
+                    </div>
                 </div>
 
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>Who is eligible to enroll in this program?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>Graduates with over 5 years of work experience are eligible to apply.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>How is the course delivered?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>The course is delivered online, providing flexibility for working professionals.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>What is the fee structure for the program?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>The program fee is ₹95,000.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>What are the key objectives of this program?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>The program aims to develop learners' competence in the HR domain, helping them acquire new skills, learn about the latest tools and techniques to effectively handle employees' day-to-day tasks, and understand global HR practices and laws.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>Does MITSDE offer placement assistance upon completion?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>Yes, MITSDE provides placement support to students after they complete the program.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>What are the career prospects after completing this program?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>Graduates can pursue leadership roles in various sectors, including human resources, talent management, and organizational development.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>Is the program suitable for professionals from non-HR backgrounds?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>Yes, the program is designed to equip professionals from diverse fields with the necessary skills in human capital management.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>Are there any prerequisites in terms of prior knowledge or skills?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>While a background in HR is beneficial, the program is structured to provide foundational knowledge for all participants.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>How does the online learning platform facilitate interaction and support?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>MITSDE's online platform offers interactive learning materials, discussion forums, and access to faculty for queries and support.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>What makes this program unique compared to other human capital management courses?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>The program offers a comprehensive curriculum tailored for middle and senior executives, focusing on modern practices across various industries.</p>
+                    </div>
+                </div>
+            
+
             </div>
+        </div>
+    </section>
 
-        </section>
+    <!-- ═══════════════════════════════════════════════
+       SITE FOOTER
+    ════════════════════════════════════════════════ -->
+    <?php include "footer-new.php" ?>
 
-        <?php include "all-similar-program-all-courses-slider.php" ?>
+    <script>
+        // Specialisation pill switcher
+        (function () {
+            var pills = document.querySelectorAll('.ph-spec-pill');
+            pills.forEach(function (pill) {
+                pill.addEventListener('click', function () {
+                    pills.forEach(function (p) { p.classList.remove('is-active'); });
+                    pill.classList.add('is-active');
+                });
+            });
+        })();
+    </script>
 
-        <?php include "learner-support.php" ?>
-
-    </main>
-    <!-- Footer Start -->
-
-    <?php include "footer.php" ?>
-
-
-    <!-- footer end  -->
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/js/bootstrap-select.min.js"></script>
-    <script src="assets/js/slick.min.js"></script>
-    <script src="assets/js/common.js"></script>
-    <script src="assets/js/course-slider.js"></script>
-
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 
 </html>

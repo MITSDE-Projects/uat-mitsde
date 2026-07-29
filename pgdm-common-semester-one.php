@@ -1,170 +1,35 @@
-<!-- first semester -->
-
-<div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse"
-
-                                        data-bs-target="#module1" aria-expanded="true" aria-controls="module1">
-
-                                        Semester I
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="module1" class="accordion-collapse collapse show" data-bs-parent="#curriculum">
-
-                                    <div class="accordion-body hero10">
-
-                                        <div class="row">
-
-                                            
-
-                                            <ul class="curriculum">
-
-                                                <table class="table">
-
-                                                    <thead>
-
-                                                        <tr>
-
-                                                            <th>S.No</th>
-
-                                                            <th>Code</th>
-
-                                                            <th>Subject</th>
-
-                                                            <th>Credits</th>
-
-                                                        </tr>
-
-                                                    </thead>
-
-                                                    <tbody>
-
-                                                        <tr>
-
-                                                            <td>1</td>
-
-                                                            <td>S1F01</td>
-
-                                                            <td>Foundations of Business Management</td>
-
-                                                            <td>4 credits</td>
-
-                                                        </tr>
-
-                                                        <tr>
-
-                                                            <td>2</td>
-
-                                                            <td>S1C10</td>
-
-                                                            <td>Managerial Economics</td>
-
-                                                            <td>4 credits</td>
-
-                                                        </tr>
-
-                                                        <tr>
-
-                                                            <td>3</td>
-
-                                                            <td>S1C15</td>
-
-                                                            <td>Accounting for Managers</td>
-
-                                                            <td>4 credits</td>
-
-                                                        </tr>
-
-                                                        <tr>
-
-                                                            <td>4</td>
-
-                                                            <td>S1C14</td>
-
-                                                            <td>Managerial Communication - LAB (Credits = 2+2)</td>
-
-                                                            <td>4 credits</td>
-
-                                                        </tr>
-
-                                                        <tr>
-
-                                                            <td>5</td>
-
-                                                            <td>S4EO4</td>
-
-                                                            <td>Leading People and Organization</td>
-
-                                                            <td>4 credits</td>
-
-                                                        </tr>
-
-                                                    </tbody>
-
-                                                </table>
-
-                                                <table class="table">
-                                                    <thead>
-                                                        <tr>
-                                                            <th>Code</th>
-                                                            <th>Certificate</th>
-                                                            <th>Credits</th>
-                                                        </tr>
-                                                    </thead>
-                                                    <tbody>
-                                                        <!-- Rows from the first table -->
-
-                                                        <tr>
-                                                            <td>AIRC</td>
-                                                            <td>AI Readiness Certificate</td>
-                                                            <td>Non Credit</td>
-                                                        </tr>
-
-                                                        <tr>
-                                                            <td>CPEA</td>
-                                                            <td>CPEA -Certified Professional Excel Analyst</td>
-                                                            <td>Non Credit</td>
-                                                        </tr>
-
-                                                        <tr>
-                                                            <td>CPDA</td>
-                                                            <td>CPDA -Certified Professional Data Analyst</td>
-                                                            <td>Non Credit</td>
-                                                        </tr>
-                                                    </tbody>
-                                                </table>
-
-
-
-
-
-
-
-
-
-
-
-                                                <div class="alert brandcolor" align="right" role="alert">
-
-                                                    Total Credits 20
-
-                                                </div>
-
-                                            </ul>
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-
-
-                            <!-- first semester -->
+<div class="pgcs-card">
+    <div class="pgcs-top">
+        <div class="pgcs-left">
+            <span class="pgcs-tag"><span class="pgcs-tag-inner">Semester 1</span></span>
+            <ul class="pgcs-course-list">
+                <li>Financial Reporting and Analysis (S1F01)</li>
+                <li>Managerial Economics (S1C10)</li>
+                <li>Accounting for Managers (S1C15)</li>
+                <li>Managerial Communication - LAB (Credits = 2+2) (S1C14)</li>
+                <li>Leading People and Organization (S4EO4)</li>
+            </ul>
+        </div>
+        <div class="pgcs-right">
+            <div class="pgcs-right-info">
+                <img class="pgcs-icon" src="assets-new/images/star-icon.png" alt="">
+                <h3 class="pgcs-title">AI Foundation</h3>
+                <p class="pgcs-desc">AI Mindset + Prompt Engineering for Business Output</p>
+            </div>
+            <span class="pgcs-vdivider"></span>
+            <div class="pgcs-right-outcome">
+                <p class="pgcs-learner-label">What the Learner Becomes:</p>
+                <span class="pgcs-outcome">AI-Ready Professional</span>
+            </div>
+        </div>
+    </div><!-- /pgcs-top -->
+    <div class="pgcs-cert">
+        <span class="pgcs-tag"><span class="pgcs-tag-inner">Certificate</span></span>
+        <ul class="pgcs-cert-list">
+            <li>AI Readiness Certificate (AIRC)</li>
+            <li>Certified Professional Excel Analyst (CPEA)</li>
+            <li>Certified Professional Data Analyst (CPDA)</li>
+        </ul>
+    </div><!-- /pgcs-cert -->
+    <p class="sub-text"><strong>Total Credits 20</strong></p>
+</div>

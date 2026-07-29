@@ -5,14 +5,13 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
     <title>Top Online Finance Certifications in India | MIT School of Distance Education</title>
+
     <meta name="description"
         content="Explore top finance certifications in India with MITSDE's flexible online and distance learning options. Enroll in certification courses in financial services to boost your finance career." />
 
     <meta name="keywords"
-        content="Certification in Finance Management,  Finance Management Certification, Online  Finance Management Courses,  Finance Management Training,  Finance Management Programs." />
-
+        content="Certification in Finance Management, Finance Management Certification, Online Finance Management Courses, Finance Management Training, Finance Management Programs." />
 
     <!-- CANONICAL TAG -->
 
@@ -20,123 +19,30 @@
 
     <!-- CANONICAL TAG -->
 
-    <?php include "5-common-seo-tag-1.php" ?>
-
     <!-- OGP TAG -->
-
     <meta property="og:title" content="Top Online Finance Certifications in India | MIT School of Distance Education">
     <meta property="og:site_name" content="MIT School of Distance Education">
     <meta property="og:url" content="https://mitsde.com/certification-in-finance-management">
     <meta property="og:description"
-        content="Explore top finance certifications in India with MITSDE's flexible online and distance learning options. Enroll in certification courses in financial services to boost your finance career.
-">
+        content="Explore top finance certifications in India with MITSDE's flexible online and distance learning options. Enroll in certification courses in financial services to boost your finance career.">
     <meta property="og:type" content="website">
-    <meta property="og:image"
-        content="https://mitsde.com/assets/images/course/cap/certification-in-finance-management.jpg">
-
-
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/project-management.webp">
     <!-- / OG TAG -->
 
-    <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Top Online Finance Certifications in India | MIT School of Distance Education">
-<meta name="twitter:description" content="Explore top finance certifications in India with MITSDE's flexible online and distance learning options. Enroll in certification courses in financial services to boost your finance career.">
-<meta name="twitter:image" content="https://mitsde.com/assets/images/course/cap/certification-in-finance-management.jpg">
-<meta name="twitter:image:alt" content="Top Online Finance Certifications in India | MIT School of Distance Education">
+    <link rel="icon" type="image/png" href="assets-new/images/favicon-mit.ico" />
 
-
-    <!-- Page Title -->
-    <link rel="icon" type="image/png" href="assets/images/favicon-mit.ico" />
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="assets/css/bootstrap-select.min.css" />
-    <!-- font awesome css -->
-    <link rel="stylesheet" href="assets/fontawesome/css/all.min.css">
-
-    <!-- Preload CSS (Non-blocking) -->
-    <link rel="preload" href="assets/css/slick.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <link rel="preload" href="assets/css/fonts.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <link rel="preload" href="assets/css/style.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <link rel="preload" href="assets/css/course-common-internal.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-
-    <!-- Fallback (Loads CSS if JS disabled) -->
-    <noscript>
-        <link rel="stylesheet" href="assets/css/slick.min.css">
-        <link rel="stylesheet" href="assets/css/fonts.css">
-        <link rel="stylesheet" href="assets/css/style.css">
-        <link rel="stylesheet" href="assets/css/course-common-internal.css">
-    </noscript>
-    <!--API for Queck contact----->
-    <script src="assets/js/api/jquery-1.10.2.min.js"></script>
-    <script type="text/javascript" src="assets/js/api/validation.js" charset="UTF-8"></script>
-    <!----->
-
-    <!-- local bussiness schema -->
-    <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "LocalBusiness",
-  "name": "MIT School of Distance Education",
-  "image": "https://mitsde.com/assets/images/new/logo-mit-school-of-distance-education.png",
-  "@id": "",
-  "url": "https://mitsde.com/",
-  "telephone": "9112-207-207",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "opposite Gajanan Maharaj Sansthan, Alandi",
-    "addressLocality": "Pune",
-    "postalCode": "412105",
-    "addressCountry": "IN"
-  },
-  "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": 18.672932,
-    "longitude": 73.889243
-  },
-  "openingHoursSpecification": [{
-    "@type": "OpeningHoursSpecification",
-    "dayOfWeek": [
-      "Monday",
-      "Tuesday",
-      "Wednesday",
-      "Thursday",
-      "Friday",
-      "Saturday"
-    ],
-    "opens": "09:30",
-    "closes": "05:30"
-  }] 
-}
-</script>
-
-<!-- local business schema end -->
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://mitsde.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Top Online Professional Certification In Finance Management",
-      "item": "https://mitsde.com/certification-in-finance-management"
-    }
-  ]
-}
-</script>
-
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="css-new/styles.css" />
+    <link rel="stylesheet" href="css-new/intlTelInput.css">
 
     <script type="application/ld+json">
     {
         "@context": "https://schema.org/",
         "@type": "Product",
         "name": "Certification in Finance Management MITSDE",
-        "image": "https://mitsde.com/assets/images/course/cap/certification-in-finance-management.jpg",
+        "image": "https://mitsde.com/assets-new/images/project-management.webp",
         "description": "Excel in finance management with our certification by MITSDE. Develop skills in financial analysis, risk management, and strategic planning. Enroll now for career advancement!",
         "brand": {
             "@type": "Brand",
@@ -161,362 +67,381 @@
     }
     </script>
 
-    <!--  -->
-
     <script type="application/ld+json">
     {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": [{
-                "@type": "Question",
-                "name": "Why should I choose a Certification Course in Finance Management?",
-                "acceptedAnswer": {
-                    "@type": "Answer",
-                    "text": "It boosts your career prospects by equipping you with in-demand financial management skills valued by top employers."
-                }
-            },
-            {
-                "@type": "Question",
-                "name": "How does MITSDE's Certification in Finance Management benefit me?",
-                "acceptedAnswer": {
-                    "@type": "Answer",
-                    "text": "MITSDE offers industry-relevant content, flexible learning, and expert mentorship to ensure holistic financial management training."
-                }
-            },
-            {
-                "@type": "Question",
-                "name": "Who is eligible for a Professional Certification in Finance Management?",
-                "acceptedAnswer": {
-                    "@type": "Answer",
-                    "text": "Graduates or professionals from any stream with an interest in finance can pursue this certification."
-                }
-            },
-            {
-                "@type": "Question",
-                "name": "What career opportunities are available after completing the Certification Course in Finance Management?",
-                "acceptedAnswer": {
-                    "@type": "Answer",
-                    "text": "Career options include financial analyst, investment banker, portfolio manager, and finance consultant."
-                }
-            },
-            {
-                "@type": "Question",
-                "name": "Is MITSDE's Certification Course in Finance Management online?",
-                "acceptedAnswer": {
-                    "@type": "Answer",
-                    "text": "Yes, MITSDE's course is 100% online, allowing flexible learning anytime, anywhere."
-                }
-            },
-            {
-                "@type": "Question",
-                "name": "How long does it take to complete a Professional Certification in Finance Management?",
-                "acceptedAnswer": {
-                    "@type": "Answer",
-                    "text": "MITSDE's program typically takes 6-12 months, depending on your chosen learning pace."
-                }
-            },
-            {
-                "@type": "Question",
-                "name": "What makes MITSDE's Professional Certification in Finance Management unique?",
-                "acceptedAnswer": {
-                    "@type": "Answer",
-                    "text": "It integrates theoretical knowledge with practical insights, aligned with current industry trends."
-                }
-            },
-            {
-                "@type": "Question",
-                "name": "Can I pursue a Certification in Finance Management while working?",
-                "acceptedAnswer": {
-                    "@type": "Answer",
-                    "text": "Absolutely, as MITSDE's online course is designed for working professionals to learn without disrupting their job."
-                }
-            },
-            {
-                "@type": "Question",
-                "name": "How do I enroll in MITSDE’s Certification Course in Finance Management?",
-                "acceptedAnswer": {
-                    "@type": "Answer",
-                    "text": "You can enroll through the MITSDE website by filling out an application form and choosing your preferred program."
-                }
-            }
-        ]
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+        {
+        "@type": "Question",
+        "name": "What is LMS?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "LMS (Learning Management System) is an online platform where you can access all your learning content, including videos, study material, and assessments."
+        }
+        },
+        {
+        "@type": "Question",
+        "name": "Who can enroll for this course?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Students who have completed 10th or 12th and are interested in learning management concepts."
+        }
+        },
+        {
+        "@type": "Question",
+        "name": "What is the eligibility criteria?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minimum qualification: 10th or 12th pass."
+        }
+        },
+        {
+        "@type": "Question",
+        "name": "What is the duration of the course?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The course duration is 6 months (self-paced)."
+        }
+        },
+        {
+        "@type": "Question",
+        "name": "Is the program live or recorded?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The program is fully self-paced with recorded video lectures, allowing flexibility to learn anytime."
+        }
+        },
+        {
+        "@type": "Question",
+        "name": "What study material will I get?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Learners will get access to: Video lectures, E-Book, Presentations (PPTs)."
+        }
+        },
+        {
+        "@type": "Question",
+        "name": "How long can I access the content?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You will have unlimited access for 6 months from the date of registration."
+        }
+        },
+        {
+        "@type": "Question",
+        "name": "What is the passing criteria?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You need to score minimum 50% in assessments."
+        }
+        },
+        {
+        "@type": "Question",
+        "name": "What type of assessments are conducted?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Assessments are objective (MCQ-based)."
+        }
+        },
+        {
+        "@type": "Question",
+        "name": "How many assessments are there?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "There are 2 assessments for each subject/module and 1 final assignment."
+        }
+        },
+        {
+        "@type": "Question",
+        "name": "How many attempts are allowed?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You get 3 attempts per assessment."
+        }
+        },
+        {
+        "@type": "Question",
+        "name": "Are there any live projects?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, this program focuses on foundational learning and conceptual clarity."
+        }
+        }
+    ]
     }
     </script>
 
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://mitsde.com/"
+        },
+        {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Certification in Finance Management",
+        "item": "https://mitsde.com/certification-in-finance-management"
+        }
+    ]
+    }
+    </script>
 
-
-
+<?php include "5-common-seo-tag-1.php" ?>
 </head>
 
 <body>
-    <?php include "5-common-seo-tag-2.php" ?>
-    <!-- Header Nav Start -->
-    <?php include "header.php" ?>
-    <!-- Header Nav End --->
-    <main class="main-body">
-        <?php include "announcementUpdate.php" ?>
-        <section class="banner inner-banner">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 col-lg-6 main-banner">
-                        <h1>Top Online Professional Certification In Finance Management</h1>
-                        <p>Unlock financial acumen and lead with confidence through our Finance Management certification
-                        </p>
-                        <div class="page-btn">
+  <?php include "5-common-seo-tag-2.php" ?>
+    <?php include "header-new.php" ?>
 
+    <!-- ═══════════════════════════════════════════════
+       PROGRAM HERO
+    ════════════════════════════════════════════════ -->
+    <section class="hero ph-hero">
+        <div class="container">
 
-                            <button type="button" class="btn btn-primary mit-button cus-btn inner-cus ms-0"
-                                data-bs-toggle="modal" data-bs-target="#enquiryModal-download-form"><span
-                                    class="mtsk-download"></span> &nbsp; Download BROCHURE </button>
+            <!-- Breadcrumb -->
+            <nav class="page-breadcrumb" aria-label="Breadcrumb">
+                <a href="index.php">Home</a>
+                <span class="pb-sep">/</span>
+                <a href="#">PCP</a>
+                <span class="pb-sep">/</span>
+                <span class="pb-current">Certification in Finance Management</span>
+            </nav>
 
+            <!-- 3-column layout: left content | center image | right form -->
+            <div class="ph-layout">
 
-                        </div>
-                        <div>
-                            <nav>
-                                <ol class="breadcrumb">
-                                    <li class="breadcrumb-item"><a href=" https://mitsde.com">Home</a>
-                                    </li>
-                                    <li class="breadcrumb-item"><a href="#">PCP</a></li>
-                                    <li class="breadcrumb-item active" aria-current="page">Certification In Finance
-                                        Management</li>
-
-                            </nav>
-
-
-                        </div>
-                    </div>
-                    <div class="col-md-12 col-lg-6">
-                        <div class="css-details">
-                            <div class="stc-det student-sec inner-sec">
-                                <img src="assets/images/course/pgdm/Project-Management-icon1.jpg" alt="Project Management Icon 1">
-                            </div>
-                            <img src="assets/images/course/cap/certification-in-finance-management.jpg"
-                                class="banner-img" fetchpriority="high" title="Certification in Finance Management" alt="Certification in Finance Management">
-                            <div class="stc-det course-sec inner-sec">
-                                <img src="assets/images/course/pgdm/Project-Management-icon1.jpg" alt="Project Management Icon 1">
-                            </div>
-                        </div>
-                    </div>
+                <!-- Left — heading -->
+                <div class="ph-left">
+                    <h1 class="ph-heading">Top Online Professional<br> Certification In<br> Finance Management</h1>
                 </div>
+
+                <div class="ph-right">
+                    <img src="assets-new/images/project-management.webp" alt="Certification in Finance Management" />
+                </div>
+
+            </div><!-- /ph-layout -->
+
+            <!-- Specialisation filter pills -->
+            <div class="ph-specs-wrap">
+                <div class="ph-specs">
+                    <a href="certification-in-digital-marketing"><button class="ph-spec-pill">Digital Marketing</button></a>
+                    <a href="certification-in-business-analytics"><button class="ph-spec-pill">Business Analytics</button></a>
+                    <a href="certification-in-project-management"><button class="ph-spec-pill">Project Management</button></a>
+                    <a href="certification-in-marketing-management"><button class="ph-spec-pill">Marketing Management</button></a>
+                    <a href="certification-in-human-resource-management"><button class="ph-spec-pill">Human Resource Management</button></a>
+                    <a href="certification-in-operations-management"><button class="ph-spec-pill">Operations Management</button></a>
+                    <a href="certification-in-material-management"><button class="ph-spec-pill">Material Management</button></a>
+                    <a href="certification-in-supply-chain-management"><button class="ph-spec-pill">Logistics and Supply Chain</button></a>
+                    <a href="certification-in-finance-management"><button class="ph-spec-pill is-active">Finance Management</button></a>
+                </div>
+                <p class="ph-specs-hint">Select a category above to explore all available specializations, fees,
+                    duration, and learning outcomes.</p>
             </div>
-        </section>
 
-        <?php include "7-cap-first-comman-fee.php" ?>
+        </div>
+    </section>
 
-        <section class="app-featurelist">
-            <div class="container">
-                <div class="row">
-                    <ul class="app-features">
-                        <li><a class="active" href="#overview">About MITSDE</a></li>
-                        <li><a href="#learning">Learning</a></li>
+    <!-- ═══════════════════════════════════════════════
+       COURSE INFO BAR
+    ════════════════════════════════════════════════ -->
+    <?php include "certification-common-fee-bar.php" ?>
 
-                        <li><a href="#curriculam">Curriculum</a></li>
-                        <li><a href="#progressFee">Program Fees</a></li>
-                        <li><a href="#learnExpert">Our Courses</a></li>
+    <!-- TABs -->
+
+    <div class="ph-specs-wrap sticky-pills">
+        <div class="ph-specs">
+            <a href="#faq"><button class="ph-spec-pill">FAQ</button></a>
+            <a href="#about"><button class="ph-spec-pill">About</button></a>
+            <a href="#learning"><button class="ph-spec-pill">Learning</button></a>
+            <a href="#curriculum"><button class="ph-spec-pill">Curriculum</button></a>
+            <a href="#fees"><button class="ph-spec-pill">Program Fees</button></a>
+        </div>
+    </div>
+
+    <!-- About Section -->
+
+    <section class="about-section pb-0" id="about">
+
+        <div class="container">
+
+            <!-- Heading -->
+
+            <h2 class="section-heading">
+                <span class="text-orange">About </span>the Programme
+            </h2>
+
+            <p>
+                This 6-month self-paced program helps you understand the basics of finance in a simple and easy way. You will learn how money is managed in businesses, including budgeting, investments, and financial planning. With practical examples, the course builds your confidence to explore careers in finance.
+            </p>
+
+            <h3>What will I gain after completing the course?</h3>
+            <ul class="ac-list text-dark">
+                <li>A 6-month self-paced foundation program tailored for 10th/12th pass students</li>
+                <li>Develop a strong understanding of fundamental management concepts before entering college</li>
+                <li>Gain exposure to key domains including Marketing, Project Management, Digital Marketing, Business Analytics, Operations, Finance, and HR</li>
+                <li>Identify areas of interest to make well-informed career decisions</li>
+                <li>Build confidence and preparedness for undergraduate programs such as BBA, B.Com, and B.M.S</li>
+                <li>Achieve a competitive advantage through early exposure to industry-relevant knowledge</li>
+            </ul>
+
+        </div>
+
+    </section>
+
+    <!-- Learning Section -->
+
+    <section class="learning-section" id="learning">
+
+        <div class="container">
+
+            <!-- Heading -->
+
+            <h2 class="section-heading">
+                <span class="text-orange">Learning </span>Outcomes
+            </h2>
+
+            <div class="learning-outcomes-layout">
+
+                <div class="learning-outcomes-left">
+                    <img src="assets-new/images/learning-outcomes.jpg" alt="Learning Outcomes" />
+                </div>
+
+                <div class="learning-outcomes-right">
+                    <ul class="learning-outcomes-list">
+                        <p>After completing this programme, learners will be able to:</p>
+
+                        <li>
+                            <i class="fa-regular fa-square-check"></i>
+                            <span>Understand basic financial concepts, budgeting, and accounting</span>
+                        </li>
+                        <li>
+                            <i class="fa-regular fa-square-check"></i>
+                            <span>Learn financial decision-making and analysis</span>
+                        </li>
+                        <li>
+                            <i class="fa-regular fa-square-check"></i>
+                            <span>Gain awareness of financial markets and business finance</span>
+                        </li>
                     </ul>
                 </div>
-            </div>
-        </section>
-        <section id="overview" class="enroll-certification">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 col-lg-12 fintech-certi aboutMit-skills">
-                        <h2>About The Program</h2>
 
+            </div><!-- /learning-outcomes-layout -->
+
+        </div>
+
+    </section>
+
+    <!-- ── Section: Course Syllabus ── -->
+    <section class="pgcs-section" id="curriculum">
+        <div class="container">
+            <div class="pgcs-bg-wrap">
+
+                <h2 class="pgcs-heading">Course Syllabus</h2>
+
+                <div class="pgcs-stack">
+
+                    <div class="pgcs-card">
+                        <div class="pgcs-top">
+                            <div class="pgcs-left">
+                                <span class="pgcs-tag"><span class="pgcs-tag-inner">Course Modules</span></span>
+                                <ul class="pgcs-course-list">
+                                    <li>Principles of Management</li>
+                                    <li>Accounting For Managers</li>
+                                    <li>Financial Management</li>
+                                    <li>Financial Markets and Services</li>
+                                    <li>Corporate Finance</li>
+                                    <li>Financial Analytics</li>
+                                </ul>
+                            </div>
+                        </div><!-- /pgcs-top -->
                     </div>
-                    <div class="col-md-8 col-lg-8 fintech-certi fin-feature hero11">
-                        <p>
-                            This 6-month self-paced program helps you understand the basics of finance in a simple and easy way. You will learn how money is managed in businesses, including budgeting, investments, and financial planning. With practical examples, the course builds your confidence to explore careers in finance.
-                        </p>
-                        <h3>What will I gain after completing the PCP course?</h3>
-                        <div class="col-md-12 fin-feature1 hero11">
 
-                            <li><span class="newright-icon1"></span> A 6-month self-paced foundation program tailored for 10th/12th pass students</li>
-                            <li><span class="newright-icon1"></span> Develop a strong understanding of fundamental
-                                management concepts before entering college</li>
-                            <li><span class="newright-icon1"></span> Gain exposure to key domains including Marketing,
-                                Project Management, Digital Marketing, Business Analytics, Operations, Finance, and HR
-                            </li>
-                            <li><span class="newright-icon1"></span> Identify areas of interest to make well-informed
-                                career decisions</li>
-                            <li><span class="newright-icon1"></span> Build confidence and preparedness for undergraduate
-                                programs such as BBA, B.Com, and B.M.S</li>
-                            <li><span class="newright-icon1"></span> Achieve a competitive advantage through early
-                                exposure to industry-relevant knowledge</li>
+                </div><!-- /pgcs-stack -->
 
-                        </div>
-                    </div>
-                    <div class="col-md-4 col-lg-4 ">
-                        <?php include "common-home-form-added-all-36-courses-pages.php" ?>
+            </div><!-- /pgcs-bg-wrap -->
+        </div>
+    </section>
 
-                    </div>
-                </div>
-            </div>
-        </section>
+    <!-- ═══════════════════════════════════════════════
+       FEE STRUCTURE
+    ════════════════════════════════════════════════ -->
+    <section class="fee-structure-section" id="fees">
+        <div class="container">
+            <h2 class="section-heading"><span>Fee</span> Structure</h2>
 
-        <section id="learning" class="enroll-certification">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 col-lg-4 fintech-certi aboutMit-skills">
-                        <h2>Learning <br> Outcomes <br> </h2>
-                        <!-- <img src="assets/images/humancloud.svg" alt=""> -->
-                    </div>
-                    <div class="col-md-12 col-lg-8 fin-feature1 hero11">
+            <div class="fs-outer">
 
-                        <li><span class="newright-icon1"></span> Understand basic financial concepts, budgeting, and accounting</li>
-                        <li><span class="newright-icon1"></span> Learn financial decision-making and analysis</li>
-                        <li><span class="newright-icon1"></span> Gain awareness of financial markets and business finance</li>
-                    </div>
-                </div>
-            </div>
-        </section>
+                <?php include "certification-common-fee-structure.php" ?>
 
-        <section id="curriculam" class="enroll-certification">
-            <div class="container">
-                <div class="row">
-                    <div class="cur-accordiaon">
-                        <h3>Course Syllabus</h3>
+                <div class="fs-note-wrap">
+                    <div class="faq-list">
 
-                        <div class="accordion curriculum-accordion" id="curriculum">
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#module1" aria-expanded="true" aria-controls="module1">
-                                        Subjects
-                                    </button>
-                                </h2>
-                                <div id="module1" class="accordion-collapse collapse show" data-bs-parent="#curriculum">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <!-- <div class="fintech-module alert brandcolor digital-mod"> -->
-                                            <ul class="curriculum">
-                                                <table class="table">
-                                                    <thead>
-                                                        <tr>
-                                                            <th>S.No</th>
-
-                                                            <th>Subject</th>
-
-                                                        </tr>
-                                                    </thead>
-                                                    <tbody>
-                                                        <tr>
-                                                            <td>1</td>
-                                                            <td>Principles of Management</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>2</td>
-                                                            <td>Accounting For Managers</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>3</td>
-                                                            <td>Financial Management</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>4</td>
-                                                            <td>Financial Markets and Services</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>5</td>
-                                                            <td>Corporate Finance</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>6</td>
-                                                            <td>Financial Analytics</td>
-                                                        </tr>
-                                                    </tbody>
-                                                </table>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
+                        <div class="faq-item is-open">
+                            <button class="faq-q" style="background: white;" aria-expanded="true">
+                                <span>Potential Career</span>
+                                <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round" />
+                                </svg>
+                            </button>
+                            <div class="faq-a" style="background: transparent;">
+                                <p class="text-dark">Completing a certification course in finance management can open up various career opportunities across different industries, such as:</p>
+                                <ul class="ac-list text-dark">
+                                    <li>Finance Executive</li>
+                                    <li>Accounts Assistant</li>
+                                    <li>Banking & Finance Trainee</li>
+                                </ul>
                             </div>
                         </div>
+
                     </div>
+                </div><!-- /fs-note-wrap -->
 
-                    <div class="cur-accordiaon" style="margin-top:-3rem;">
+            </div><!-- /fs-outer -->
+        </div>
+    </section>
 
-                        <div class="accordion curriculum-accordion" id="curriculum">
+    <section class="sam-certificate-section" id="certificate">
+        <div class="container">
+            <h2 class="section-heading"><span>Sample</span> Certificate</h2>
 
-                            <?php //include "2-PGDM-validity.php" ?>
-
-                            <!-- PGDM  -->
-
-                            <div class="accordion-item" id="pgcmbusiness">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button " type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#module5" aria-expanded="false" aria-controls="module5">
-                                        Potential Career
-                                    </button>
-                                </h2>
-                                <div id="module5" class="accordion-collapse " data-bs-parent="#curriculum">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <p>Completing a <a class="text-decoration-none" href="https://mitsde.com/pg-diploma-in-finance-management">certification course in finance management</a> can open up
-                                                various career opportunities across different industries. Here are some
-                                                potential career paths you might consider:</p>
-                                            <ul class="fin-feature2" style="list-style: none;">
-
-
-                                                <div class="row">
-
-                                                    <div class="col-md-6 col-lg-6 col-12">
-                                                        <li><span class="newright-icon1"></span> Finance Executive</li>
-                                                        <li><span class="newright-icon1"></span> Accounts Assistant</li>
-                                                        <li><span class="newright-icon1"></span> Banking & Finance Trainee</li>
-                                                    </div>
-                                                </div>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- PGDM  -->
-
-                        </div>
-                    </div>
-                </div>
+            <div class="cert-img">
+                <img class="img-fluid" src="assets-new/images/certificate/certification-in-finance-management_cer.webp" alt="Certificate in Finance Management" loading="lazy">
             </div>
-        </section>
+        </div>
+    </section>
 
-        <?php include "pcp-common-fees.php" ?>
+    <?php include "certification-common-faq.php" ?>
 
-        <section id="curriculam" class="enroll-certification">
-            <div class="container">
-                <div class="row">
-                    <div class="cur-accordiaon">
-                        <h3>Sample Certificate</h3>
-                    </div>
+    <!-- ═══════════════════════════════════════════════
+       SITE FOOTER
+    ════════════════════════════════════════════════ -->
+    <?php include "footer-new.php" ?>
 
-                    <p align="center"><img src="assets/images/course/certifications/2.jpg" title="Certificate in Finance Management" alt="Certificate in Finance Management" class="img-fluid">
-                    </p>
-                </div>
-            </div>
-            <p>&nbsp;</p>
-        </section>
+    <script>
+        // Specialisation pill switcher
+        (function () {
+            var pills = document.querySelectorAll('.ph-spec-pill');
+            pills.forEach(function (pill) {
+                pill.addEventListener('click', function () {
+                    pills.forEach(function (p) { p.classList.remove('is-active'); });
+                    pill.classList.add('is-active');
+                });
+            });
+        })();
+    </script>
 
-        <!-- frequently asked question section -->
-
-        <?php include "pcp-common-faq.php" ?>
-
-        <?php include "all-similar-program-all-courses-slider.php" ?>
-
-        <?php include "learner-support.php" ?>
-
-    </main>
-    <!-- Footer Start -->
-
-    <?php include "footer.php" ?>
-
-
-    <!-- footer end  -->
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/js/bootstrap-select.min.js"></script>
-    <script src="assets/js/slick.min.js"></script>
-    <script src="assets/js/common.js"></script>
-    <script src="assets/js/course-slider.js"></script>
-
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 
 </html>

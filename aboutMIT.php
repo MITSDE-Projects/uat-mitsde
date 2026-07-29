@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 
 <head>
@@ -6,269 +6,185 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-
-
-    <meta name="description" content="Discover MIT School of Distance Education, its vision, mission, academic excellence, industry-focused programs, and commitment to quality education." />
+    <!-- Page Title -->
+    <title>About MIT School of Distance Education | MIT SDE</title>
+    <meta name="description"
+        content="Discover MIT School of Distance Education, its vision, mission, academic excellence, industry-focused programs, and commitment to quality education." />
     <meta name="keywords"
         content="distance pg certificate courses, distance certificate courses, online learning, distance learning center, online mba programs, pgdm courses, pgdm distance courses" />
     <meta name="author" content="" />
     <meta name="robots" content="index, follow">
 
     <link rel="canonical" href="https://mitsde.com/aboutMIT" />
-    <!-- Page Title -->
-    <title>About MIT School of Distance Education | MIT SDE</title>
-    <link rel="icon" type="image/png" href="assets/images/favicon-mit.ico" />
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="assets/css/bootstrap-select.min.css" />
-    <link rel="stylesheet" href="assets/css/slick.min.css" />
-    <link rel="stylesheet" href="assets/css/fonts.css" type="text/css" />
-   <link rel="stylesheet" href="assets/css/style.css" type="text/css" />
-    <link  rel="stylesheet" href="assets/fontawesome/css/all.min.css" type="text/css">
 
-    <link rel="stylesheet" href="assets/css/homepage.css" type="text/css" />
-
-    <style>
-  .parent {
-        display: grid;
-        grid-template-columns: repeat(1, 1fr);
-        grid-template-rows: repeat(4, 1fr);
-        grid-column-gap: 22px;
-        grid-row-gap: 22px;
-
-    }
-
-    @media (min-width: 576px) {
-        .parent {
-            grid-template-columns: repeat(2, 1fr);
-            /* Show two columns */
-            grid-template-rows: repeat(4, 1fr);
-            /* Adjust rows as needed */
-        }
-    }
-</style>
+    <link rel="icon" type="image/png" href="assets-new/images/favicon-mit.ico" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="css-new/styles.css" />
 
 
-
-    <!--API for Queck contact----->
-    <script src="assets/js/api/jquery-1.10.2.min.js"></script>
-    <script type="text/javascript" src="assets/js/api/validation.js" charset="UTF-8"></script>
-    <!----->
-    <?php // include"google_code.html";?>
+<?php include "5-common-seo-tag-1.php" ?>
 </head>
 
 <body>
-    <!-- Header Nav Start -->
-    <?php include "header.php"?>
-    <!-- Header Nav End --->
-    <main class="main-body">
-        <section class="banner inner-banner">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 col-lg-6 main-banner">
-                        <h1>About MIT </h1>
-                        
-                        <div class="page-btn mt-2">
+  <?php include "5-common-seo-tag-2.php" ?>
+    <?php include "header-new.php" ?>
 
-                            <!-- <button type="button" class="btn btn-primary mit-button cus-btn inner-cus"><span class="mtsk-download"></span> &nbsp; Download BROCHURE</button> -->
-                            <button type="button" class="btn btn-primary mit-button cus-btn inner-cus ms-0"
-                                data-bs-toggle="modal" data-bs-target="#enquiryModal-download-form"><span
-                                    class="mtsk-download"></span> &nbsp; Download BROCHURE
-                            </button>
-
-                        </div>
-                        <div>
-                            <nav>
-                                <ol class="breadcrumb">
-                                    <li class="breadcrumb-item"><a href=" https://mitsde.com">Home</a>
-                                    </li>
-                                   
-                                    <li class="breadcrumb-item active" aria-current="page">About MIT
-                                         </li>
-
-                            </nav>
-
-
-                        </div>
-                    </div>
-                    <div class="col-md-12 col-lg-6">
-                        <div class="css-details">
-                            <div class="stc-det student-sec inner-sec">
-                                <img src="assets/images/progress.svg" alt="Progress indicator icon">
-                            </div>
-                            <img src="assets/images/course/common/boards.jpg" class="banner-img"
-                                alt="Banner 1">
-                            <div class="stc-det course-sec inner-sec">
-                                <img src="assets/images/walet.svg" alt="Wallet icon for payment">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-        </section>
-
-
-        <section id="overview" class="enroll-certification">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 col-lg-12 fintech-certi">
-                        <h2>ABOUT Process</h2>
-                        <!-- <img src="assets/images/humancloud.svg" alt=""> -->
-                    </div>
-                    <div class="col-md-12 col-lg-12 fin-feature hero11">
-                        <p align="justify"><strong>Maharashtra Institute of Technology (MIT) is the first private
-                                Engineering
-                                Institute to be established in the city of Pune, Maharashtra. </strong>It is one of the
-                            premier
-                            institutes for Indian and international students offering Undergraduate and Postgraduate
-                            courses in Engineering, Management, Medicine, Pharmacy, Design, and so on. </p>
-
-                        <p align="justify"><strong>Contributing towards the industrial, economic, and social growth of
-                                the
-                                society for over a quarter of a century, Maharashtra Academy of Engineering Education
-                            </strong> and
-                            Research (MAEER)’s MIT Group of Institutions has helped realize the dreams and aspirations
-                            of thousands of students. The group has spread its wings across Maharashtra with campuses in
-                            Kothrud, Alandi, and Loni- Kalbhor within Pune, along with Latur, Talegaon, Ambejogai, and
-                            Pandharpur. </p>
-
-                        <p align="justify"><strong>Being the brainchild of its visionary founder, Prof. Vishwanath D.
-                                Karad,</strong>
-                            MAEER established in 1983, managed to craft a niche position for being a one-of-its-kind
-                            undertaking that focused on value-based education.</p>
-
-
-
-
-                    </div>
-                </div>
-
-                <div class="row ">
-                    <div class="col-md-12 col-lg-12 fintech-certi fin-feature hero11">
-                        <h2>International Academic Partners</h2>
-                        <!-- <img src="assets/images/humancloud.svg" alt=""> -->
-                    </div>
-                    <div class="col-md-12 col-lg-12 fintech-certi fin-feature hero11">
-                        <h4>MIT Pune Collaborations</h4>
-                        <p align="justify"><strong>MIT, Pune is recognized as one of the premier educational
-                                institutions from the state of Maharashtra and is in-line with the best from the
-                                education world. </strong> collaborations with other institutions and universities of
-                            higher learning help our students, faculty, partners, and staff with a myriad of learning
-                            prospects. These partnerships cover the areas of developing and advancing curriculum,
-                            research and exchange opportunities. </p>
-
-                        <ul class="fintech-certi fin-feature hero11" style="list-style: none;">
-                            <li><span class="newright-icon1"></span> University of Abertay, Dundee, Scotland</li>
-                            <li><span class="newright-icon1"></span> University of Dundee, Scotland</li>
-                            <li><span class="newright-icon1"></span> Northumbria University, UK</li>
-                            <li><span class="newright-icon1"></span> Coventry University, UK</li>
-                            <li><span class="newright-icon1"></span> Middlesex University, UK</li>
-                            <li><span class="newright-icon1"></span> University of Derby, UK</li>
-                            <li><span class="newright-icon1"></span> University for the Creative Arts, UK</li>
-                            <li><span class="newright-icon1"></span> E.S.A.D. Orleans, France</li>
-                            <li><span class="newright-icon1"></span> The Hong Kong Polytechnic University, Hong Kong
-                            </li>
-                            <li><span class="newright-icon1"></span> George Brown College, Canada</li>
-                            <li><span class="newright-icon1"></span> Manchester Metropolitan University, UK</li>
-                            <li><span class="newright-icon1"></span> Universidad Iberoamericana Puebla, Mexico</li>
-                            <li> <span class="newright-icon1"></span> Edinburgh Napier University, UK</li>
-                            <li><span class="newright-icon1"></span> Ecole De Design Nantes Atlantique, France</li>
-                            <li><span class="newright-icon1"></span> Strate Collège, France</li>
-                            <li><span class="newright-icon1"></span> Istituto Europeo di Design, Italy</li>
-                            <li><span class="newright-icon1"></span> Politecnico Di Milano, Italy</li>
-                            <li><span class="newright-icon1"></span> College for Creative Studies, USA</li>
-                            <li><span class="newright-icon1"></span> The Ontario Maharashtra Goa Student Exchange
-                                Program</li>
-                            <li><span class="newright-icon1"></span> KunsthochscHule Berlin Weissensee School of Art and
-                                Design, Berlin</li>
-                        </ul>
-
-
-
-
-
-                    </div>
-
-                </div>
-
-             
-
-
-
-
-
-            </div>
-        </section>
-
-        <section>
+    <!-- ═══════════════════════════════════════════════
+       PAGE HERO
+       Same .hero gradient background as the homepage —
+       only the breadcrumb + heading text below changes
+       per page.
+  ════════════════════════════════════════════════ -->
+    <section class="hero about">
         <div class="container">
-                <div class="cer-slider">
-                    <h2>Campus Overview
-                        
-                    </h2>
+            <div class="hero-background"></div>
+
+            <nav class="page-breadcrumb" aria-label="Breadcrumb">
+                <a href="index.php">Home</a>
+                <span class="pb-sep">/</span>
+                <span class="pb-current">About MIT</span>
+            </nav>
+
+            <h1 class="page-hero-heading">
+                <span class="hero-bg-text">About</span>
+                <span class="page-hero-title">MIT School of Distance Education</span>
+            </h1>
+        </div>
+    </section>
+
+    <!-- ═══════════════════════════════════════════════
+       ABOUT — Intro paragraph
+  ════════════════════════════════════════════════ -->
+    <section class="about-intro-section">
+        <div class="container">
+            <p>
+                MIT School of Distance Education (MITSDE), a part of the prestigious MAEER's MIT Pune, was established
+                in 2008 and carries forward the legacy of quality education initiated in 1983 by Dr. Vishwanath D.
+                Karad.
+                Recognized among the leading distance learning institutes in India, MITSDE offers a wide range of All
+                India Council for Technical Education-approved online PGDM programs designed especially for working
+                professionals. These programs are industry-relevant, enabling learners to effectively balance their
+                careers and studies while gaining practical, future-ready skills. With a strong focus on bridging the
+                skill gap, MITSDE emphasizes hands-on training, industry exposure, and career advancement. It offers
+                specializations across diverse domains such as Marketing, Finance, Human Resource, Operations, IT,
+                Project Management, Construction &amp; Project, and Logistics &amp; Supply Chain, ensuring learners are
+                well-prepared for evolving industry demands.
+            </p>
+        </div>
+    </section>
+
+    <!-- ═══════════════════════════════════════════════
+       ABOUT — Leadership cards
+  ════════════════════════════════════════════════ -->
+    <section class="about-leaders-section">
+        <div class="container">
+
+            <!-- Leader 1 -->
+            <article class="about-leader-card">
+                <div>
+                    <img src="assets-new/images/dr-vishwanath-karad.webp"
+                        alt="Prof (Dr.) Vishwanath D Karad - Founder & Chief Patron, MAEER's MIT Group of Institutions"
+                        class="about-leader-img" width="260" height="260" loading="lazy" />
                 </div>
-
-                <div class="parent">
-                    <div class="card">
-                        <img src="./assets/images/media/common-images-new/new/loni-pune.jpg" alt="Webinar Image" >
-
+                <div class="about-leader-content">
+                    <h2 class="stage-title text-orange">Prof (Dr.) Vishwanath D Karad</h2>
+                    <p class="section-sub">
+                        Founder &amp; Chief Patron - MAEER's MIT Group of Institutions<br />
+                        Founder President - MIT-WPU
+                    </p>
+                    <hr class="about-leader-hr" />
+                    <div class="sub-text">
+                        <p>Dr. Vishwanath D. Karad is a visionary educationist and institution builder who has redefined
+                            higher education in India through a unique integration of science, technology, and
+                            spirituality.</p>
+                        <p>As the Founder and Chief Patron of MAEER's MIT Group of Institutions and Founder President of
+                            MIT World Peace University, he has built a globally respected education ecosystem spanning
+                            multiple disciplines, shaping generations of future-ready and value-driven leaders.</p>
+                        <p>Inspired by the philosophy of Swami Vivekananda, he pioneered the concept of &ldquo;Education
+                            for Peace, Harmony, and Progress,&rdquo; making it the foundation of MIT's academic vision.
+                            His leadership has transformed MIT into a large-scale institution known for academic
+                            excellence, innovation, and holistic development.</p>
+                        <p>Recognized for his contribution to education and society, Dr. Karad continues to lead a
+                            movement that goes beyond learning - towards building a more enlightened, responsible, and
+                            peaceful world.</p>
                     </div>
-                    <div class="card">
-                    <img src="./assets/images/media/common-images-new/new/MIT-1.jpg" alt="Webinar Image" >
-
-                    </div>
-                    <div class="card">
-                    <img src="./assets/images/media/common-images-new/new/MIT-2.jpg" alt="Webinar Image" >
-
-                    </div>
-                    <div class="card">
-                    <img src="./assets/images/media/common-images-new/new/mit-gurkulam.jpg" alt="Webinar Image" >
-
-                    </div>
-                    <div class="card">
-                    <img src="./assets/images/media/common-images-new/new/MIT-pune.jpg" alt="Webinar Image" >
-
-                    </div>
-                    <div class="card">
-                    <img src="./assets/images/media/common-images-new/new/mitaoe.jpg" alt="Webinar Image" >
-                    </div>
-                    <div class="card">
-                    <img src="./assets/images/media/common-images-new/new/MITWPU.jpg" alt="Webinar Image" >
-
-                    </div>
-                    <div class="card">
-                    <img src="./assets/images/media/common-images-new/new/WPD.jpg" alt="Webinar Image" >
-
-                    </div>
-                   
-
                 </div>
+            </article>
 
-            </div>
-        </section>
+            <!-- Leader 2 (image on right) -->
+            <article class="about-leader-card about-leader-card--reverse">
+                <div>
+                    <img src="assets-new/images/dr-sunil-karad.webp"
+                        alt="Dr. Sunil Karad - Executive Director, Treasurer & Trustee, MIT Group of Institutions"
+                        class="about-leader-img" width="260" height="260" loading="lazy" />
+                </div>
+                <div class="about-leader-content">
+                    <h3 class="stage-title text-orange">Dr. Sunil Karad</h3>
+                    <p class="section-sub">Executive Director, Treasurer &amp; Trustee MIT Group of Institutions |
+                        Pune | India</p>
+                    <hr class="about-leader-hr" />
+                    <div class="sub-text">
+                        <p>Dr. Sunil Karad is a transformative education leader driving strategic growth and innovation
+                            across India's higher education ecosystem.</p>
+                        <p>As Executive Director &amp; Trustee of the MIT Group of Institutions, he plays a key role in
+                            shaping and scaling a vast academic network impacting over 50,000 learners annually. With a
+                            proven track record of establishing 10+ new-age institutions, his leadership is defined by
+                            execution excellence, structured planning, and long-term institutional vision.</p>
+                        <p>He holds a PG Diploma in Strategy and Innovation from the University of Oxford, a PhD and
+                            Master's from the University of Sheffield, UK, and a Bachelor's in Engineering from the
+                            University of Pune - bringing a strong global academic foundation to his leadership
+                            approach.</p>
+                        <p>A strong believer in technology-led transformation, Dr. Karad is the founding force behind
+                            Edugild, a global platform supporting edtech startups in AI, XR, and emerging learning
+                            technologies. His work continues to bridge education, entrepreneurship, and innovation,
+                            enabling more accessible, scalable, and future-ready learning systems.</p>
+                    </div>
+                </div>
+            </article>
 
+            <!-- Leader 3 -->
+            <article class="about-leader-card">
+                <div>
+                    <img src="assets-new/images/dr-suhrud-neurgaonkar.webp" alt="Dr. Suhrud Neurgaonkar - Director, MITSDE"
+                        class="about-leader-img" width="260" height="260" loading="lazy" />
+                </div>
+                <div class="about-leader-content">
+                    <h3 class="stage-title text-orange">Dr. Suhrud Neurgaonkar</h3>
+                    <p class="section-sub">Director, MITSDE</p>
+                    <hr class="about-leader-hr" />
+                    <div class="sub-text">
+                        <p>At the helm of MIT School of Distance Education, Dr. Suhrud Neurgaonkar stands as a decisive
+                            force shaping the future of professional education in India.</p>
+                        <p>As Director since 2018, he has led MITSDE with unwavering authority and strategic clarity -
+                            transforming it into a high-impact, industry-aligned institution built for scale, relevance,
+                            and real career outcomes. His leadership goes beyond administration; it is rooted in
+                            institution-building, system thinking, and a sharp focus on delivering measurable value to
+                            learners and industries alike.</p>
+                        <p>With over two decades of cross-functional expertise spanning academia, research, and business
+                            development, Dr. Neurgaonkar brings command over monetary economics, management, and
+                            organizational strategy. He is known for building resilient teams, driving innovation at
+                            scale, and establishing frameworks that sustain long-term growth.</p>
+                        <p>Armed with a Ph.D. in Management and advanced qualifications in finance and commerce, he
+                            combines intellectual depth with executive precision. Under his leadership, MITSDE is not
+                            just adapting to the changing education landscape - it is defining it, setting new
+                            benchmarks for excellence, accessibility, and impact in distance learning.</p>
+                    </div>
+                </div>
+            </article>
 
+        </div>
+    </section>
 
+    <!-- ═══════════════════════════════════════════════
+     SITE FOOTER
+════════════════════════════════════════════════ -->
+    <?php include "footer-new.php" ?>
 
-
-
-
-
-
-    </main>
-    <!-- Footer Start -->
-
-    <?php include "footer.php"?>
-
-
-    <!-- footer end  -->
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/js/bootstrap-select.min.js"></script>
-    <script src="assets/js/slick.min.js"></script>
-    <script src="assets/js/common.js"></script>
-    <script src="assets/js/course-slider.js"></script>
-
+    <script src="script.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 
 </html>

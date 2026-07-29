@@ -1,133 +1,38 @@
-<?php
+<form action="../test.php" method="post" class="reservation-form mt-20 myFormM" accept-charset="utf-8"
+    name="menuContactFloting" id="menuContactFloting" novalidate="novalidate">
+    <input type="hidden" name="csrf_test_name" value="e678298614a47d7e40efe0ccaf02b49c" />
+    <input type="hidden" id="product_id3" name="product_id3" value="0" />
+    <!-- <input type="hidden" id="product_name3" name="product_name3" value="" /> -->
+    <input type="text" name="website" style="display:none">
+    <input type="hidden" name="request_type3" value="Enquiry" />
 
-$tablet_browser = 0;
-$mobile_browser = 0;
- 
-if (preg_match('/(tablet|ipad|playbook)|(android(?!.*(mobi|opera mini)))/i', strtolower($_SERVER['HTTP_USER_AGENT']))) {
-    $tablet_browser++;
-}
- 
-if (preg_match('/(up.browser|up.link|mmp|symbian|smartphone|midp|wap|phone|android|iemobile)/i', strtolower($_SERVER['HTTP_USER_AGENT']))) {
-    $mobile_browser++;
-}
- 
-if ((strpos(strtolower($_SERVER['HTTP_ACCEPT']),'application/vnd.wap.xhtml+xml') > 0) or ((isset($_SERVER['HTTP_X_WAP_PROFILE']) or isset($_SERVER['HTTP_PROFILE'])))) {
-    $mobile_browser++;
-}
- 
-$mobile_ua = strtolower(substr($_SERVER['HTTP_USER_AGENT'], 0, 4));
-$mobile_agents = array(
-    'w3c ','acs-','alav','alca','amoi','audi','avan','benq','bird','blac',
-    'blaz','brew','cell','cldc','cmd-','dang','doco','eric','hipt','inno',
-    'ipaq','java','jigs','kddi','keji','leno','lg-c','lg-d','lg-g','lge-',
-    'maui','maxo','midp','mits','mmef','mobi','mot-','moto','mwbp','nec-',
-    'newt','noki','palm','pana','pant','phil','play','port','prox',
-    'qwap','sage','sams','sany','sch-','sec-','send','seri','sgh-','shar',
-    'sie-','siem','smal','smar','sony','sph-','symb','t-mo','teli','tim-',
-    'tosh','tsm-','upg1','upsi','vk-v','voda','wap-','wapa','wapi','wapp',
-    'wapr','webc','winw','winw','xda ','xda-');
- 
-if (in_array($mobile_ua,$mobile_agents)) {
-    $mobile_browser++;
-}
- 
-if (strpos(strtolower($_SERVER['HTTP_USER_AGENT']),'opera mini') > 0) {
-    $mobile_browser++;
-    //Check for tablets on opera mini alternative headers
-    $stock_ua = strtolower(isset($_SERVER['HTTP_X_OPERAMINI_PHONE_UA'])?$_SERVER['HTTP_X_OPERAMINI_PHONE_UA']:(isset($_SERVER['HTTP_DEVICE_STOCK_UA'])?$_SERVER['HTTP_DEVICE_STOCK_UA']:''));
-    if (preg_match('/(tablet|ipad|playbook)|(android(?!.*mobile))/i', $stock_ua)) {
-      $tablet_browser++;
-    }
-}
-
-if ($tablet_browser > 0) {
-   // do something for tablet devices
-  // print 'is tablet';
-     $divice="tablet";
-}
-else if ($mobile_browser > 0) {
-   // do something for mobile devices
- //  print 'is mobile';
-   
-   $divice="mobile";
-}
-else {
-   // do something for everything else
- //  print 'is desktop';
-   $divice="desktop";
-}   
-/* if(isset($_POST['submitbtn']))
- {
-    $first_name=$_POST['first_name3'];
-	$last_name=$_POST['last_name'];
-	$emaiid=$_POST['email3'];
-	
- }*/
- $pagename=basename($_SERVER['PHP_SELF'])
-?>
-<script type="text/javascript">
-        
-            if (navigator.geolocation) {
-                navigator.geolocation.getCurrentPosition(showPosition1,showError);
-            }
-        
-
-        function showPosition1(Position) {
-            document.querySelector('.myFormH input[name="latitude"]').value = Position.coords.latitude;
-            document.querySelector('.myFormH input[name="longitude"]').value = Position.coords.longitude;
-        }
-        function showError(error){
-            switch(error.code){
-                case error.PERMISSION_DENIED:
-                    //alert("ERROR");
-                   // location.reload();
-                    break;
-            }
-        }
-        
-    </script>
-<div class="col-md-12 col-lg-4 bg-dark d-flex justify-content-evenly " id="firstform"
-    style="border-radius: 10px; padding-top: 20px; margin-bottom: 5px ; height: 100%">
-
-    <div class="col-md-12 col-lg-12 bg-dark  pb-3 " style="border-radius: 5px;">
-    <h4 class="text-white">Get in touch <a href="tel:9112-207-207"
-                    style="text-decoration: none; color: #FFF; font-size: 18px; color: #F47521"">+91
-                    9112-2072-07</a></h4>
+    <div class="input-group mb-3">
+        <span class="input-group-text" id="userName"><i class="fa-solid fa-user"></i></span>
+        <input name="first_name3" type="text" class="form-control" value="Full Name*"
+            onBlur="javascript:addDefault(this,'menuContactFloting')" onFocus="javascript:removeDefault(this)"
+            validate="Required|Full Name*" />
+    </div>
+    <div class="input-group mb-3">
+        <span class="input-group-text" id="userEmail"><i class="fa-solid fa-envelope"></i></span>
+        <input name="email3" type="text" class="form-control" value="Email*"
+            onBlur="javascript:addDefault(this,'menuContactFloting')" onFocus="javascript:removeDefault(this)"
+            validate="Email|Email*" />
+    </div>
+    <div class="input-group country-list mb-3">
+        <input type="text" class="form-control country-code" name="MobileNumber" placeholder="Mobile" pattern="[0-9]"
+            value="Mobile Number*" aria-label="Mobile" aria-describedby="userMobile"
+            onBlur="javascript:addDefault(this,'menuContactFloting')" onFocus="javascript:removeDefault(this)"
+            validate="Required|Phone|Phone*">
+    </div>
 
 
 
-    <form action="thankyou.php" method="post" class="reservation-form mt-20 myFormH" accept-charset="utf-8"
-        name="menuContactFloting" id="menuContactFloting" novalidate="novalidate">
-        <input type="hidden" name="csrf_test_name" value="e678298614a47d7e40efe0ccaf02b49c" />
-        <input type="hidden" id="product_id3" name="product_id3" value="0" />
-        <input type="hidden" id="product_name3" name="product_name3" value="" />
-        <input type="hidden" name="request_type3" value="Enquiry" />
-       
-        <div class="mb-3">
-
-            <input name="first_name3" type="text" class="form-control" value="First Name*"
-                onBlur="javascript:addDefault(this,'menuContactFloting')" onFocus="javascript:removeDefault(this)"
-                validate="Required|First Name*" />
-        </div>
-        <div class="mb-3">
-
-            <input name="email3" type="text" class="form-control" value="Email*"
-                onBlur="javascript:addDefault(this,'menuContactFloting')" onFocus="javascript:removeDefault(this)"
-                validate="Email|Email*" />
-        </div>
-        <div class="mb-3">
-
-            <input name="MobileNumber" class="form-control" type="text" pattern="[0-9]" value="MobileNumber*"
-                onBlur="javascript:addDefault(this,'menuContactFloting')" onFocus="javascript:removeDefault(this)"
-                validate="Required|Phone|Phone*" />
-        </div>
-
-
-        <select name="state" class="form-select form-control   mb-3" id="state"
+    <div class="input-group select-box lead-s1 mb-3">
+        <span class="input-group-text"><i class="fa-solid fa-address-card"></i></span>
+        <select name="state" class="form-select form-control " id="state"
             onBlur="javascript:addDefault(this,'menuContactFloting')" onFocus="javascript:removeDefault(this)"
             validate="Required|State|State*">
-           
-            <option value>Select State</option>
+            <option value="" disabled selected>Select State</option>
             <option value="Andhra Pradesh">Andhra Pradesh</option>
             <option value="Andaman and Nicobar Islands">Andaman and Nicobar Islands</option>
             <option value="Arunachal Pradesh">Arunachal Pradesh</option>
@@ -166,38 +71,28 @@ else {
             <option value="West Bengal">West Bengal</option>
         </select>
 
-        <select name="HQ" id="HQ" class="form-select form-control mb-4"
+    </div>
+    <div class="input-group select-box lead-s1 mb-3">
+        <span class="input-group-text" id="userCourse"><i class="fa-solid fa-graduation-cap"></i></span>
+        <select name="HQ" id="HQ" class="form-select form-control "
             onBlur="javascript:addDefault(this,'menuContactFloting')" onFocus="javascript:removeDefault(this)"
             validate="Required|HQ*">
-            
-            <option value="" readonly>Select Highest Qualification</option>
+            <option value="" disabled selected>Select Highest Qualification</option>
             <option value="graduation">Graduation</option>
             <option value="post graduation">Post Graduation</option>
             <option value="Diploma">Diploma</option>
         </select>
-                      <input name="Divice" type="hidden" value="<?php echo $divice; ?>"  />
-					   <input name="PageName" type="hidden" value="<?php echo $pagename; ?>"  />
-                       <input type="hidden" name="latitude" value="">
-                       <input type="hidden" name="longitude" value="">
-       
-        <div class="form-check">
-            <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked" checked>
-            
-            <small class="text-white">I authorize MIT-SDE representative to contact me,this will override DND/NDNC
-                registry.</small>
-        </div>
+        <input name="Divice" type="hidden" value="<?php echo $divice; ?>" />
+        <input name="PageName" type="hidden" value="<?php echo $pagename; ?>" />
+        <input type="hidden" name="latitude" value="">
+        <input type="hidden" name="longitude" value="">
 
-        <div class="form-group ">
-            <input type="hidden" name="submitthirdcontact" value="submitthirdcontact" />
-            <button type="button" id="submitbtnsticky" class="btn btn-primary mit-button mit-footer btn-ripple w-100 "
-                onClick="validate('menuContactFloting')">
-                Register Now
-            </button>
-            
+    </div>
 
-    </form>
+    <div class="d-grid leadgen-btn">
+        <input type="hidden" name="submitthirdcontact" value="submitthirdcontact" />
+        <button class="btn-register" type="button" id="submitbtnsticky"
+            onClick="validate('menuContactFloting')">Register Now</button>
+    </div>
 
-</div>
-</div>
-
-</div>
+</form>
