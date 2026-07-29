@@ -383,8 +383,7 @@
                                                         <tr>
                                                             <td>1</td>
                                                             <td>S1F01</td>
-                                                            <td>Foundations of Business Management (HR, Marketing,
-                                                                Finance & Operations)</td>
+                                                            <td>Foundations of Business Management</td>
                                                             <td>4</td>
                                                         </tr>
 
