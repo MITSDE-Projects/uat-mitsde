@@ -826,9 +826,9 @@
     </section>
 
     <!-- Disclaimer -->
-    <section>
+    <section class="pt-0">
         <div class="container">
-            <p class="text-light" style="font-size: 0.8rem;">
+            <p>
                 <strong>Disclaimer:</strong> The KPMG name and logo are trademarks used under license by the independent member firms of the KPMG global organization. The KPMG trademarks are the sole property of KPMG International Cooperative.
             </p>
         </div>
