@@ -65,6 +65,10 @@
                             <ul class="dropdown-menu secondDrop" style="width: 320px; max-height: 300px; overflow-y: auto;">
                                 <li><a class="dropdown-item" href="digital-marketing-strategist">Chief Digital Marketing
                                         Strategist Program </a></li>
+                                <li><a class="dropdown-item" href="pgdm-executive-in-international-business">PGDM
+                                        (Ex.) in International Business </a></li>
+                                <li><a class="dropdown-item" href="pgdm-executive-in-sustainability-esg">PGDM
+                                        (Ex.) in Sustainability & ESG </a></li>
                                 <li><a class="dropdown-item" href="pgdm-executive-in-digital-marketing">PGDM
                                         (Ex.) in Digital Marketing </a></li>
                                 <li><a class="dropdown-item" href="pgdm-executive-in-business-analytics">PGDM
