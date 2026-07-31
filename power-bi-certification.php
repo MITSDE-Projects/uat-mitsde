@@ -210,7 +210,7 @@
 
             <p>Take your career to the next level with our Enterprise Data Specialist Certification Program, designed to equip you with cutting-edge data management and visualization skills.</p>
 
-            <p>Learn the fundamentals such as querying data, database design, and data manipulation. SQL is crucial for database administration, data analysis, and backend development. This program ensures unmatched credibility and relevance.</p>
+            <p>Learn the fundamentals such as querying data, database design, and data manipulation. SQL is crucial for database administration, data analysis, and backend development. Validated by industry leaders KPMG in India and MIT School of Distance Education (MITSDE), this program ensures unmatched credibility and relevance.</p>
 
         </div>
     </section>
