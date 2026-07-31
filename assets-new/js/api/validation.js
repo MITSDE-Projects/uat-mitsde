@@ -403,32 +403,19 @@ function do_form_submit(form_id) {
 
         
       } else if (form_id == "menuContactformone") {
-        //document.getElementsByClassName("submitbtn")[1].disabled=true;
         document.getElementById("submitbtn2").style.visibility = "hidden";
-        var $inputs = $(
-          "#" +
-            form_id +
-            " textarea, " +
-            "#" +
-            form_id +
-            " :input, " +
-            "#" +
-            form_id +
-            " select"
-        );
-        //alert("QuickContact3");
         var lead = {
           AuthToken: "MITSDE-11-06-2020",
           Source: "mitsde",
-          FirstName: $inputs[4].value,
-          MobileNumber: $inputs[6].value,
-          Email: $inputs[5].value,
+          FirstName: $("#menuContactformone [name='first_name3']").val(),
+          Email:     $("#menuContactformone [name='email3']").val(),
+          MobileNumber: $("#menuContactformone [name='MobileNumber']").val(),
           LeadSource: "Organic-Direct-Form",
           LeadType: "Online",
           LeadName: "Contact us form leads",
           Course: "Not Known",
-          State: $inputs[8].value,
-          Textb1: $inputs[7].value,
+          State:  $("#menuContactformone [name='state']").val(),
+          Textb1: $("#menuContactformone [name='HQ']").val(),
         };
         //alert(JSON.stringify(lead));
         //alert(lead);
@@ -444,7 +431,7 @@ function do_form_submit(form_id) {
           },
           error: function (response) {
             //alert(JSON.stringify(response));
-            //alert("You have already submited a form");
+            alert("You have already submited a form");
             location.reload();
           },
         });

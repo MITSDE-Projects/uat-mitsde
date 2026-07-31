@@ -268,6 +268,7 @@
 <script src="assets-new/js/intlTelInput-jquery.min.js"></script>
 <script src="assets-new/js/script.js"></script>
 <?php include "popup-enquiry-form.php"; ?>
+<?php include "downloadbro-popup-form.php"; ?>
 
 <!-- Sticky Enquiry Tab -->
 <div class="eq-sticky-tab" onclick="openEnquiryPopup({})" role="button" tabindex="0" aria-label="Open Enquiry Form">
