@@ -38,15 +38,14 @@
        per page.
   ════════════════════════════════════════════════ -->
     <section class="hero about">
+        <nav class="page-breadcrumb" aria-label="Breadcrumb">
+            <span class="pb-line"></span>
+            <a href="index.php">Home</a>
+            <span class="pb-sep">/</span>
+            <span class="pb-current">About MIT</span>
+        </nav>
         <div class="container">
             <div class="hero-background"></div>
-
-            <nav class="page-breadcrumb" aria-label="Breadcrumb">
-                <a href="index.php">Home</a>
-                <span class="pb-sep">/</span>
-                <span class="pb-current">About MIT</span>
-            </nav>
-
             <h1 class="page-hero-heading">
                 <span class="hero-bg-text">About</span>
                 <span class="page-hero-title">MIT School of Distance Education</span>
