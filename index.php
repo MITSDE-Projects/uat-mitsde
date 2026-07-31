@@ -820,14 +820,14 @@
 
             <!-- Slide 2 -->
             <div class="swiper-slide" data-logo="assets-new/images/ET-logo.png" data-title="Education Excellence Award 2025"
-              data-link="#">
+              data-link="https://www.linkedin.com/feed/update/urn:li:activity:7341696387866107909">
 
               <img src="assets-new/images/award-excellence-box.jpg" class="award-image" alt="">
             </div>
 
             <!-- Slide 3 -->
             <div class="swiper-slide" data-logo="assets-new/images/emiza-logo.png" data-title="Digii100 Innovation Award 2024"
-              data-link="#">
+              data-link="https://www.linkedin.com/feed/update/urn:li:activity:7275025398197870592">
 
               <img src="assets-new/images/award-digii100.jpg" class="award-image" alt="">
             </div>
@@ -841,14 +841,14 @@
 
             <!-- Slide 2 -->
             <div class="swiper-slide" data-logo="assets-new/images/ET-logo.png" data-title="Education Excellence Award 2025"
-              data-link="#">
+              data-link="https://www.linkedin.com/feed/update/urn:li:activity:7341696387866107909">
 
               <img src="assets-new/images/award-excellence-box.jpg" class="award-image" alt="">
             </div>
 
             <!-- Slide 3 -->
             <div class="swiper-slide" data-logo="assets-new/images/emiza-logo.png" data-title="Digii100 Innovation Award 2024"
-              data-link="#">
+              data-link="https://www.linkedin.com/feed/update/urn:li:activity:7275025398197870592">
 
               <img src="assets-new/images/award-digii100.jpg" class="award-image" alt="">
             </div>
