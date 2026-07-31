@@ -69,7 +69,7 @@
                     <div class="ph-sub">
                         <p>A simple, step-by-step admission journey.</p>
                     </div>
-                    <button type="button" class="btn btn-dark rounded-pill px-4 py-2">Download Brochure</button>
+                    <button type="button" class="btn btn-dark rounded-pill px-4 py-2" data-bs-toggle="modal" data-bs-target="#downloadModal">Download Brochure</button>
                 </div>
 
                 <!-- Center — hero image -->

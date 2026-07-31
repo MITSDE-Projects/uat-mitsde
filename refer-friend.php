@@ -70,30 +70,29 @@
             <!-- 3-column layout: left content | center image | right form -->
             <div class="ph-layout py-5">
 
-                <!-- Left — heading + partner -->
+                <div>
+                    <img src="assets-new/images/Refer-Banner.webp" class="img-fluid" alt="Refer Friend Image" />
+                </div>
+
+            </div><!-- /ph-layout -->
+        </div>
+        <!-- <div class="container">
+
+            <div class="ph-layout py-5">
+
                 <div class="ph-left">
                     <h1 class="ph-heading"><p class="text-small">Refer Your Friends Unlock an Exclusive Benefit</p>Get Flat ₹6000 Off*</h1>
                     <div class="ph-sub flex-column align-items-start">
-                        <button type="button" class="btn btn-dark rounded-pill px-4 py-2">Download Brochure</button>
+                        <button type="button" class="btn btn-dark rounded-pill px-4 py-2" data-bs-toggle="modal" data-bs-target="#downloadModal">Download Brochure</button>
                     </div>
                 </div>
 
-                <!-- Center — hero image -->
                 <div class="ph-right">
                     <img src="assets-new/images/referral.webp" alt="Refer Friend Image" />
                 </div>
 
-                <!-- Right — registration form card -->
-                <!-- <div class="ph-right">
-                    <div class="contact-form">
-
-                        <?php //include "home-get-in-touch-form-new.php" ?>
-
-                    </div>
-                </div> -->
-
-            </div><!-- /ph-layout -->
-        </div>
+            </div>
+        </div> -->
     </section>
 
     <!-- Referral Form Section -->
