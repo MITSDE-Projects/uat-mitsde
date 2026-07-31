@@ -7,12 +7,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>PGDM Executive in International Business | AICTE-Approved MITSDE</title>
 
-    <meta name="description"
-        content="Advance your career with MITSDE’s 15-month AICTE-approved PGDM Executive in International Business. Learn data analytics, BI tools & strategic decision-making online." />
+    <meta name="description" content="Advance your career with MITSDE’s 15-month AICTE-approved PGDM Executive in International Business. Learn global trade, cross-border strategy & international finance online." />
 
-    <meta name="keywords"
-        content="PGDM Executive in International Business, Online Executive PGDM International Business, AICTE-approved International Business course, Advanced International Business Course Online, Executive PGDM in International Business Online, Online International Business Certification for Executives, Professional International Business Courses, International Business Course for Career Growth, Executive International Business Program Online, Data Analytics and International Business Course Online, Best Online International Business PGDM, Predictive Analytics and International Business Executive Course, International Business PGDM for Working Professionals" />
-
+    <meta name="keywords" content="PGDM Executive in International Business, Online Executive PGDM International Business, AICTE-approved International Business course, Advanced International Business Course Online, Executive PGDM in International Business Online, Online International Business Certification for Executives, Professional International Business Courses, International Business Course for Career Growth, Executive International Business Program Online, Best Online International Business PGDM, International Business PGDM for Working Professionals" />
 
     <!-- CANONICAL TAG -->
 
@@ -20,53 +17,32 @@
 
     <!-- CANONICAL TAG -->
 
-    <?php include "5-common-seo-tag-1.php" ?>
-
     <!-- OGP TAG -->
+
     <meta property="og:title" content="PGDM Executive in International Business Online | AICTE-Approved MITSDE">
     <meta property="og:site_name" content="MIT School of Distance Education">
     <meta property="og:url" content="https://mitsde.com/pgdm-executive-in-international-business">
-    <meta property="og:description"
-        content="Advance your career with MITSDE’s 15-month AICTE-approved PGDM Executive in International Business. Learn data analytics, BI tools & strategic decision-making online.">
+    <meta property="og:description" content="Advance your career with MITSDE’s 15-month AICTE-approved PGDM Executive in International Business. Learn global trade, cross-border strategy & international finance online.">
     <meta property="og:type" content="website">
-    <meta property="og:image"
-        content="https://mitsde.com/assets/images/course/pgdm-exe/PGDM-Executive-Business-Analytics.png">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/project-management.webp">
+
     <!-- / OG TAG -->
 
-    <!-- Page Title -->
-    <link rel="icon" type="image/png" href="assets/images/favicon-mit.ico" />
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="assets/css/bootstrap-select.min.css" />
-    <!-- font awesome css -->
-    <link rel="stylesheet" href="assets/fontawesome/css/all.min.css">
-    <!-- Preload CSS (Non-blocking) -->
-    <link rel="preload" href="assets/css/slick.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <link rel="preload" href="assets/css/fonts.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <link rel="preload" href="assets/css/style.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <link rel="preload" href="assets/css/course-common-internal.css" as="style"
-        onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="icon" type="image/png" href="assets-new/images/favicon-mit.ico" />
 
-
-    <!-- Fallback (Loads CSS if JS disabled) -->
-    <noscript>
-        <link rel="stylesheet" href="assets/css/slick.min.css">
-        <link rel="stylesheet" href="assets/css/fonts.css">
-        <link rel="stylesheet" href="assets/css/style.css">
-        <link rel="stylesheet" href="assets/css/course-common-internal.css">
-
-    </noscript>
-    <!--API for Queck contact----->
-    <script src="assets/js/api/jquery-1.10.2.min.js"></script>
-    <script type="text/javascript" src="assets/js/api/validation.js" charset="UTF-8"></script>
-    <!----->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="css-new/styles.css" />
+    <link rel="stylesheet" href="css-new/intlTelInput.css">
 
     <script type="application/ld+json">
     {
         "@context": "https://schema.org/",
         "@type": "Product",
         "name": "PGDM Executive in International Business Online | AICTE-Approved MITSDE",
-        "image": "https://mitsde.com/assets/images/course/pgdm-exe/PGDM-Executive-Business-Analytics.png",
-        "description": "Advance your career with MITSDE’s 15-month AICTE-approved PGDM Executive in International Business. Learn data analytics, BI tools & strategic decision-making online.",
+        "image": "https://mitsde.com/assets-new/images/project-management.webp",
+        "description": "Advance your career with MITSDE’s 15-month AICTE-approved PGDM Executive in International Business. Learn global trade, cross-border strategy & international finance online.",
         "brand": {
             "@type": "Brand",
             "name": "MITSDE"
@@ -91,883 +67,559 @@
     </script>
 
     <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [{
-    "@type": "Question",
-    "name": "Who can apply for the PGDM Executive in International Business?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Graduates with a minimum of 5 years of professional experience across any sector can apply."
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+        {
+        "@type": "Question",
+        "name": "Who should enroll?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Working professionals and graduates with at least five years of work experience who want to advance in international business." }
+        },
+        {
+        "@type": "Question",
+        "name": "What is the programme duration?",
+        "acceptedAnswer": { "@type": "Answer", "text": "15 months." }
+        },
+        {
+        "@type": "Question",
+        "name": "What is the mode of learning?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Online." }
+        },
+        {
+        "@type": "Question",
+        "name": "What career opportunities are available?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Leadership and specialist roles in international trade, exports, imports, global marketing, finance and supply chain management." }
+        },
+        {
+        "@type": "Question",
+        "name": "Is there a project?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Yes. The programme concludes with a three-month desk research and project work component." }
+        },
+        {
+        "@type": "Question",
+        "name": "How many credits does the programme carry?",
+        "acceptedAnswer": { "@type": "Answer", "text": "The programme comprises 50 cumulative credits." }
+        }
+    ]
     }
-  },{
-    "@type": "Question",
-    "name": "What is the duration of the course?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The course is a 15-month online programme designed for working professionals."
-    }
-  },{
-    "@type": "Question",
-    "name": "How is the course delivered?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The programme is delivered entirely online through a flexible learning platform with access to recorded lectures, case studies, and digital resources."
-    }
-  },{
-    "@type": "Question",
-    "name": "What kind of assessments are there?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Assessment is based on assignments, online quizzes, projects, and final evaluations focusing on practical applications."
-    }
-  },{
-    "@type": "Question",
-    "name": "Will I receive placement assistance?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Yes. Learners receive 100% placement assistance, including resume support, interview preparation, and career guidance."
-    }
-  },{
-    "@type": "Question",
-    "name": "What tools or technologies will I learn?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The course provides exposure to analytics tools and techniques for business intelligence, performance tracking, and decision-making (conceptual understanding)."
-    }
-  },{
-    "@type": "Question",
-    "name": "How is this programme different from a regular PGDM?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The PGDM Executive is designed for experienced professionals, focusing on strategic leadership, managerial application, and analytics-based business transformation rather than entry-level management training."
-    }
-  }]
-}
-</script>
-
+    </script>
 
     <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
     {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://mitsde.com/"
-    },
-     {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Online PGDM Executive Programs",
-      "item": "https://mitsde.com/post-graduate-diploma-in-management-executive"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "PGDM Executive in International Business Online",
-      "item": "https://mitsde.com/pgdm-executive-in-international-business"
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://mitsde.com/"
+        },
+        {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Online PGDM Executive Programs",
+        "item": "https://mitsde.com/post-graduate-diploma-in-management-executive"
+        },
+        {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "PGDM Executive in International Business Online",
+        "item": "https://mitsde.com/pgdm-executive-in-international-business"
+        }
+    ]
     }
-  ]
-}
-</script>
-
-
+    </script>
+<?php include "5-common-seo-tag-1.php" ?>
 </head>
 
 <body>
     <?php include "5-common-seo-tag-2.php" ?>
-    <!-- Header Nav Start -->
-    <?php include "header.php" ?>
-    <!-- Header Nav End --->
-    <main class="main-body">
-        <?php include "announcementUpdate.php" ?>
-        <section class="banner inner-banner">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 col-lg-6 main-banner">
-                        <h1>PGDM Executive in International Business</h1>
-                        <p></p>
-                        <div class="page-btn">
-                            <button type="button" class="btn btn-primary mit-button cus-btn inner-cus ms-0"
-                                data-bs-toggle="modal" data-bs-target="#enquiryModal-download-form"><span
-                                    class="mtsk-download"></span> &nbsp; Download BROCHURE
-                            </button>
+    <?php include "header-new.php" ?>
 
-                        </div>
-                        <div>
-                            <nav>
-                                <ol class="breadcrumb">
-                                    <li class="breadcrumb-item"><a href=" https://mitsde.com">Home</a>
-                                    </li>
-                                    <li class="breadcrumb-item"><a
-                                            href="post-graduate-diploma-in-management-executive">PGDM Exe </a></li>
-                                    <li class="breadcrumb-item active" aria-current="page">PGDM Executive International Business
-                                    </li>
+    <!-- ═══════════════════════════════════════════════
+       PROGRAM HERO
+    ════════════════════════════════════════════════ -->
+    <section class="hero ph-hero">
+        <div class="container">
 
-                            </nav>
+            <!-- Breadcrumb -->
+            <nav class="page-breadcrumb" aria-label="Breadcrumb">
+                <a href="index.php">Home</a>
+                <span class="pb-sep">/</span>
+                <a href="#">PGDM Exe</a>
+                <span class="pb-sep">/</span>
+                <span class="pb-current">PGDM Executive in International Business</span>
+            </nav>
 
+            <!-- 3-column layout: left content | center image | right form -->
+            <div class="ph-layout">
 
-                        </div>
-                    </div>
-                    <div class="col-md-12 col-lg-6">
-                        <div class="css-details">
-                            <div class="stc-det student-sec inner-sec">
-                                <img src="assets/images/course/pgdm-exe/PGDM-Executive-Business-Analytics_icon-1.png"
-                                    alt="">
-                            </div>
-                            <img src="assets/images/course/pgdm-exe/international.webp"
-                                class="banner-img" fetchpriority="high"
-                                alt="Executive PGDM in Sustainability & ESG online course AICTE approved MITSDE">
-                            <div class="stc-det course-sec inner-sec">
-                                <img src="assets/images/course/pgdm-exe/PGDM-Executive-Business-Analytics_icon-2.png"
-                                    alt="">
-                            </div>
-                        </div>
-                    </div>
+                <!-- Left — heading + partner -->
+                <div class="ph-left">
+                    <h1 class="ph-heading">PGDM Executive in<br> International Business</h1>
                 </div>
+
+                <div class="ph-right">
+                    <img src="assets-new/images/project-management.webp" alt="PGDM Executive in International Business" />
+                </div>
+
+            </div><!-- /ph-layout -->
+
+            <!-- Specialisation filter pills -->
+            <div class="ph-specs-wrap">
+                <div class="ph-specs">
+                    <a href="digital-marketing-strategist"><button class="ph-spec-pill">Chief Digital Marketing Strategist Program</button></a>
+                    <a href="pgdm-executive-in-digital-marketing"><button class="ph-spec-pill">Digital Marketing</button></a>
+                    <a href="pgdm-executive-in-business-analytics"><button class="ph-spec-pill">Business Analytics</button></a>
+                    <a href="pgdm-executive-in-information-technology"><button class="ph-spec-pill">Information Technology</button></a>
+                    <a href="pgdm-executive-in-modern-project-management"><button class="ph-spec-pill">Project Management</button></a>
+                    <a href="pgdm-executive-in-technology-and-operations-management"><button class="ph-spec-pill">Technology & Operations</button></a>
+                    <a href="pgdm-executive-in-human-capital-management"><button class="ph-spec-pill">Human Capital Management</button></a>
+                    <a href="pgdm-executive-in-banking-financial-services"><button class="ph-spec-pill">Banking &amp; Financial Services</button></a>
+                    <a href="pgdm-executive-in-finance-management"><button class="ph-spec-pill">Finance Management</button></a>
+                    <a href="pgdm-executive-in-strategic-marketing-management"><button class="ph-spec-pill">Strategic Marketing Management</button></a>
+                    <a href="pgdm-executive-in-material-management"><button class="ph-spec-pill">Material Management</button></a>
+                    <a href="pgdm-executive-in-global-logistics-and-supply-chain-management"><button class="ph-spec-pill">Global Logistics & Supply Chain</button></a>
+                    <a href="pgdm-executive-in-construction-and-project-management"><button class="ph-spec-pill">Construction and Project</button></a>
+                    <a href="pgdm-executive-in-international-business"><button class="ph-spec-pill is-active">International Business</button></a>
+                    <a href="pgdm-executive-in-sustainability-esg"><button class="ph-spec-pill">Sustainability & ESG</button></a>
+                </div>
+                <p class="ph-specs-hint">Select a category above to explore all available specializations, fees,
+                    duration, and learning outcomes.</p>
             </div>
-        </section>
-        <?php include "3-PGDM-Executive-first-common-fees.php" ?>
 
-        <section class="app-featurelist">
-            <div class="container">
-                <div class="row">
-                    <ul class="app-features">
-                        <li><a class="active" href="#overview">About Course</a></li>
-                        <li><a href="#learning">Learning</a></li>
+        </div>
+    </section>
 
-                        <li><a href="#curriculam">Curriculum</a></li>
-                        <li><a href="#progressFee">Program Fees</a></li>
-                        <li><a href="#learnExpert">Our Courses</a></li>
+    <!-- ═══════════════════════════════════════════════
+       COURSE INFO BAR
+    ════════════════════════════════════════════════ -->
+    <?php include "pgdm-exe-common-fee-bar.php" ?>
+
+    <!-- TABs -->
+
+    <div class="ph-specs-wrap sticky-pills">
+        <div class="ph-specs">
+            <a href="#faq"><button class="ph-spec-pill">FAQ</button></a>
+            <a href="#about"><button class="ph-spec-pill">About</button></a>
+            <a href="#learning"><button class="ph-spec-pill">Learning</button></a>
+            <a href="#curriculum"><button class="ph-spec-pill">Curriculum</button></a>
+            <a href="#fees"><button class="ph-spec-pill">Program Fees</button></a>
+            <a href="#courses"><button class="ph-spec-pill">Our Courses</button></a>
+        </div>
+    </div>
+
+    <!-- About Section -->
+
+    <section class="about-section pb-0" id="about">
+
+        <div class="container">
+
+            <!-- Heading -->
+
+            <h2 class="section-heading">
+                <span class="text-orange">About </span>the Programme
+            </h2>
+
+            <p>
+                The Post Graduate Diploma in Management (Executive) – International Business is designed for working professionals who aspire to build expertise in managing business across global markets. The programme develops a comprehensive understanding of international trade, cross-border business strategy, global marketing, finance, supply chain management and emerging market opportunities.
+            </p>
+
+            <p>
+                As organizations continue to expand internationally, professionals require the knowledge and skills to navigate geopolitical developments, global regulations, cultural diversity and international business risks. This programme combines management fundamentals with specialized international business subjects to help learners make informed strategic decisions in a dynamic global environment.
+            </p>
+
+            <p>
+                Through industry-oriented learning, case studies, assignments and project work, participants gain practical exposure to international business operations, trade procedures, financial management, cross-cultural leadership and sustainable global business practices.
+            </p>
+
+        </div>
+
+    </section>
+
+    <!-- Pedagogy section -->
+
+    <section class="pedagogy-section pb-0">
+        <div class="container">
+            <div class="pedagogy-grid">
+                <div class="pedagogy-card">
+                    <div class="pedagogy-card-img">
+                        <img src="assets-new/images/unique-pedagogy.jpg" alt="Unique Pedagogy" />
+                    </div>
+                    <h3 class="pedagogy-card-title">Unique Pedagogy</h3>
+                    <ul class="ac-list text-dark">
+                        <li>The programme blends self-paced online learning, faculty interaction, real-world case studies, quizzes, assignments and a capstone project. This flexible approach enables professionals to upgrade their skills while continuing their careers.</li>
+                    </ul>
+                </div>
+                <div class="pedagogy-card">
+                    <div class="pedagogy-card-img">
+                        <img src="assets-new/images/academic-partnership.jpg" alt="Academic Partnerships" />
+                    </div>
+                    <h3 class="pedagogy-card-title">Academic Partnerships</h3>
+                    <ul class="ac-list text-dark">
+                        <li>The curriculum follows an industry-oriented approach and is designed to bridge academic concepts with practical business applications. Learners are exposed to contemporary global business practices and international management perspectives.</li>
+                    </ul>
+                </div>
+                <div class="pedagogy-card">
+                    <div class="pedagogy-card-img">
+                        <img src="assets-new/images/expert-faculty.jpg" alt="Expert Faculty" />
+                    </div>
+                    <h3 class="pedagogy-card-title">Expert Faculty</h3>
+                    <ul class="ac-list text-dark">
+                        <li>The programme is delivered by experienced academicians and industry professionals with expertise in international business, strategy, finance, marketing and global supply chains. Faculty members combine academic knowledge with practical insights to enrich the learning experience.</li>
                     </ul>
                 </div>
             </div>
-        </section>
-        <section id="overview" class="enroll-certification">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 col-lg-12 fintech-certi aboutMit-skills">
-                        <h2>About The Course</h2>
+        </div>
+    </section>
 
-                    </div>
-                    <div class="col-md-8 col-lg-8 fintech-certi fin-feature hero11">
-                        <p>
-                            The Post Graduate Diploma in Management (Executive) – International Business is designed
-                            for working professionals who aspire to build expertise in managing business across global
-                            markets. The programme develops a comprehensive understanding of international trade,
-                            cross-border business strategy, global marketing, finance, supply chain management and
-                            emerging market opportunities.
-                        </p>
+    <!-- Learning Section -->
 
-                        <p>
-                            As organizations continue to expand internationally, professionals require the knowledge
-                            and skills to navigate geopolitical developments, global regulations, cultural diversity and
-                            international business risks. This programme combines management fundamentals with
-                            specialized international business subjects to help learners make informed strategic
-                            decisions in a dynamic global environment.
-                        </p>
-                        <p>
-                            Through industry-oriented learning, case studies, assignments and project work,
-                            participants gain practical exposure to international business operations, trade procedures,
-                            financial management, cross-cultural leadership and sustainable global business practices.
-                        </p>
-                    </div>
-                    <div class="col-md-4 col-lg-4 ">
-                        <?php include "common-home-form-added-all-36-courses-pages.php" ?>
+    <section class="learning-section" id="learning">
 
-                    </div>
+        <div class="container">
+
+            <!-- Heading -->
+
+            <h2 class="section-heading">
+                <span class="text-orange">Learning </span>Outcomes
+            </h2>
+
+            <div class="learning-outcomes-layout">
+
+                <div class="learning-outcomes-left">
+                    <img src="assets-new/images/learning-outcomes.jpg" alt="Learning Outcomes" />
                 </div>
 
-                <div class="row hero1.1">
-                    <div class="col-md-12 col-lg-4 pede-card">
-                        <div class="card over-card">
-                            <img src="assets/images/pedagogy.svg" class="img-fluid " title="Unique Pedagogy"
-                                alt="Unique Pedagogy">
-                            <div class="card-body">
-                                <h5 class="card-title">Unique Pedagogy </h5>
-                                <p class="card-text">The programme blends self-paced online learning, faculty interaction, real-world case
-                                    studies, quizzes, assignments and a capstone project. This flexible approach enables
-                                    professionals to upgrade their skills while continuing their careers.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-12 col-lg-4 pede-card">
-                        <div class="card over-card">
-                            <img src="assets/images/collaberation.svg" class="img-fluid " title="Industry Collaboration"
-                                alt="collaboration with industry leaders and partners">
-                            <div class="card-body">
-                                <h5 class="card-title">Academic Partnerships</h5>
-                                <p class="card-text">The curriculum follows an industry-oriented approach and is designed to bridge academic
-                                    concepts with practical business applications. Learners are exposed to contemporary global
-                                    business practices and international management perspectives.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-12 col-lg-4 pede-card">
-                        <div class="card over-card">
-                            <img src="assets/images/faculty.svg" class="img-fluid " title="Expert Faculty"
-                                alt="professional faculty with expertise in their respective fields">
-                            <div class="card-body">
-                                <h5 class="card-title">Expert Faculty</h5>
-                                <p class="card-text">The programme is delivered by experienced academicians and industry professionals with
-                                    expertise in international business, strategy, finance, marketing and global supply chains.
-                                    Faculty members combine academic knowledge with practical insights to enrich the
-                                    learning experience.</p>
-                            </div>
-                        </div>
-                    </div>
+                <div class="learning-outcomes-right">
+                    <ul class="learning-outcomes-list">
+                        <p>By the end of the PGDM Executive in International Business programme, learners will be able to:</p>
 
-
-                </div>
-
-
-            </div>
-        </section>
-        <section id="learning" class="enroll-certification">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 col-lg-4 fintech-certi aboutMit-skills">
-                        <h2>Learning <br> Outcomes <br> </h2>
-
-                    </div>
-                    <div class="col-md-12 col-lg-8 fin-feature1 hero11">
-                        <li><span class="newright-icon1"></span> Understand global business environments and international trade.
+                        <li>
+                            <i class="fa-regular fa-square-check"></i>
+                            <span>Understand global business environments and international trade.</span>
                         </li>
-                        <li><span class="newright-icon1"></span> Evaluate geopolitical developments and their business impact.</li>
-                        <li><span class="newright-icon1"></span> Develop international marketing strategies.
+                        <li>
+                            <i class="fa-regular fa-square-check"></i>
+                            <span>Evaluate geopolitical developments and their business impact.</span>
                         </li>
-                        <li><span class="newright-icon1"></span> Understand global financial management practices.</li>
-                        <li><span class="newright-icon1"></span> Manage cross-cultural teams and negotiations.</li>
-                        <li><span class="newright-icon1"></span> Apply sustainable and circular economy concepts in international business.</li>
-                        <li><span class="newright-icon1"></span> Strengthen global supply chain management capabilities.</li>
-                        <li><span class="newright-icon1"></span> Evaluate opportunities in emerging markets.</li>
-                        <li><span class="newright-icon1"></span> Apply research methods for strategic business decisions.</li>
-                        <li><span class="newright-icon1"></span> Execute international business projects.</li>
-                    </div>
+                        <li>
+                            <i class="fa-regular fa-square-check"></i>
+                            <span>Develop international marketing strategies.</span>
+                        </li>
+                        <li>
+                            <i class="fa-regular fa-square-check"></i>
+                            <span>Understand global financial management practices.</span>
+                        </li>
+                        <li>
+                            <i class="fa-regular fa-square-check"></i>
+                            <span>Manage cross-cultural teams and negotiations.</span>
+                        </li>
+                        <li>
+                            <i class="fa-regular fa-square-check"></i>
+                            <span>Apply sustainable and circular economy concepts in international business.</span>
+                        </li>
+                        <li>
+                            <i class="fa-regular fa-square-check"></i>
+                            <span>Strengthen global supply chain management capabilities.</span>
+                        </li>
+                        <li>
+                            <i class="fa-regular fa-square-check"></i>
+                            <span>Evaluate opportunities in emerging markets.</span>
+                        </li>
+                        <li>
+                            <i class="fa-regular fa-square-check"></i>
+                            <span>Apply research methods for strategic business decisions.</span>
+                        </li>
+                        <li>
+                            <i class="fa-regular fa-square-check"></i>
+                            <span>Execute international business projects.</span>
+                        </li>
+                    </ul>
                 </div>
-            </div>
-        </section>
 
-        <section id="curriculam" class="enroll-certification">
-            <div class="container">
-                <div class="row">
-                    <div class="cur-accordiaon">
-                        <h3>Course Syllabus</h3>
-                        <div class="accordion curriculum-accordion" id="curriculum">
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#module1" aria-expanded="true" aria-controls="module1">
-                                        Semester I
-                                    </button>
-                                </h2>
-                                <div id="module1" class="accordion-collapse collapse show" data-bs-parent="#curriculum">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <!-- <div class="fintech-module digital-mod"> -->
-                                            <ul class="curriculum">
-                                                <table class="table">
-                                                    <thead>
-                                                        <tr>
-                                                            <th>S.No</th>
-                                                            <th>Code</th>
-                                                            <th>Subject</th>
-                                                            <th>Credits</th>
-                                                        </tr>
-                                                    </thead>
-                                                    <tbody>
-                                                        <tr>
-                                                            <td>1</td>
-                                                            <td>S1F01</td>
-                                                            <td>Foundations of Business Management</td>
-                                                            <td>4</td>
-                                                        </tr>
+            </div><!-- /learning-outcomes-layout -->
 
-                                                        <tr>
-                                                            <td>2</td>
-                                                            <td>S3C01</td>
-                                                            <td>Strategic Management</td>
-                                                            <td>4</td>
-                                                        </tr>
+        </div>
 
-                                                        <tr>
-                                                            <td>3</td>
-                                                            <td>S2SP1</td>
-                                                            <td>Project Management</td>
-                                                            <td>4</td>
-                                                        </tr>
+    </section>
 
-                                                        <tr>
-                                                            <td>4</td>
-                                                            <td>S1G01</td>
-                                                            <td>Geopolitical Environment</td>
-                                                            <td>4</td>
-                                                        </tr>
+    <!-- ── Section: Course Syllabus ── -->
+    <section class="pgcs-section" id="curriculum">
+        <div class="container">
+            <div class="pgcs-bg-wrap">
 
-                                                        <tr>
-                                                            <td>5</td>
-                                                            <td>S4SM1</td>
-                                                            <td>International Marketing</td>
-                                                            <td>4</td>
-                                                        </tr>
-                                                    </tbody>
-                                                </table>
-                                                <table class="table">
-                                                    <thead>
-                                                        <tr>
-                                                            <th>Code</th>
-                                                            <th>Certificate</th>
-                                                            <th>Credits</th>
-                                                        </tr>
-                                                    </thead>
-                                                    <tbody>
-                                                        <!-- Rows from the first table -->
+                <h2 class="pgcs-heading">Course Syllabus</h2>
 
-                                                        <tr>
-                                                            <td>AIRCPC</td>
-                                                            <td>AI Readiness Certificate + AI Productivity Certificate</td>
-                                                            <td>Non Credit</td>
-                                                        </tr>
+                <div class="pgcs-stack">
 
-                                                        <tr>
-                                                            <td>CPEA</td>
-                                                            <td>Certified Professional Excel Analyst</td>
-                                                            <td>Non Credit</td>
-                                                        </tr>
-
-                                                        <tr>
-                                                            <td>CPDA</td>
-                                                            <td>Certified Professional Data Analyst</td>
-                                                            <td>Non Credit</td>
-                                                        </tr>
-                                                    </tbody>
-                                                </table>
-                                                <div class="alert brandcolor" align="right" role="alert">
-                                                    Total Credits 20
-                                                </div>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button " type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#module2" aria-expanded="false" aria-controls="module2">
-                                        Semester II
-                                    </button>
-                                </h2>
-                                <div id="module2" class="accordion-collapse show" data-bs-parent="#curriculum">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <ul class="curriculum">
-
-                                                <table class="table">
-                                                    <thead>
-                                                        <tr>
-                                                            <th>S.No</th>
-                                                            <th>Code</th>
-                                                            <th>Subject</th>
-                                                            <th>Credits</th>
-                                                        </tr>
-                                                    </thead>
-                                                    <tbody>
-
-
-                                                        <tr>
-                                                            <td>1</td>
-                                                            <td>S2C14</td>
-                                                            <td>Research Methodology and Management Decision</td>
-                                                            <td>4</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>2</td>
-                                                            <td>S4SF2</td>
-                                                            <td>International Finance</td>
-                                                            <td>4</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>3</td>
-                                                            <td>S2C22</td>
-                                                            <td>Cross-Cultural Management and Negotiations</td>
-                                                            <td>4</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>4</td>
-                                                            <td>S2I15</td>
-                                                            <td>International Trade & Procedures</td>
-                                                            <td>4</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>5</td>
-                                                            <td>S2G15</td>
-                                                            <td>Global Supply Chain Management</td>
-                                                            <td>4</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>6</td>
-                                                            <td>S2B15</td>
-                                                            <td>Business with Emerging Markets</td>
-                                                            <td>4</td>
-                                                        </tr>
-                                                    </tbody>
-                                                </table>
-                                                <?php include "pgdmexe-common-sem2-sub.php" ?>
-                                                <div class="alert brandcolor" align="right" role="alert">Total
-                                                    Credits 24
-                                                </div>
-                                            </ul>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <li class="section hero10 p-3" style="list-style-type: none;">
-                                <?php include "pgdmexe-common-project-term.php" ?>
-
-                                    <div class="alert brandcolor" role="alert"><b>Note :</b><br>
-                                        <ul class="fin-feature2" style="list-style: none;">
-                                            <li><span class="newright-icon1"></span> The above course curriculum is
-                                                subject to revision as per AICTE
-                                                guidelines
-                                                from time to time and as per industry updates.</li>
-                                            <li><span class="newright-icon1"></span> Exams would be conducted during the
-                                                January and July exam
-                                                cycles.</li>
-                                            <li><span class="newright-icon1"></span> All the Exams at MITSDE (Internal &
-                                                External) are in the form of
-                                                Multiple
-                                                Choice Questions.
-                                            </li>
-                                            <li><span class="newright-icon1"></span> Student will have to attempt all
-                                                the components in the Learning
-                                                Management
-                                                System and submit TWO Quizzes (30 marks each) for each subject.
-
-                                            </li>
-                                            <li><span class="newright-icon1"></span> Internal Examinations carry 60%
-                                                marks (2 Quizzes of 30 Marks
-                                                each) and
-                                                External Proctored Exam carry 40% weightage (passing criteria for both
-                                                internal & external exam is 50%).
-                                            </li>
-
-                                        </ul>
-                                    </div>
-
-
-
-
+                    <!-- Semester 1 (unique to this specialization — not the common Sem-1 include) -->
+                    <div class="pgcs-card">
+                        <div class="pgcs-top">
+                            <div class="pgcs-left">
+                                <span class="pgcs-tag"><span class="pgcs-tag-inner">Semester 1</span></span>
+                                <ul class="pgcs-course-list">
+                                    <li>Foundations of Business Management (S1F01)</li>
+                                    <li>Strategic Management (S3C01)</li>
+                                    <li>Project Management (S2SP1)</li>
+                                    <li>Geopolitical Environment (S1G01)</li>
+                                    <li>International Marketing (S4SM1)</li>
                                 </ul>
+                            </div>
+                            <div class="pgcs-right">
+                                <div class="pgcs-right-info">
+                                    <img class="pgcs-icon" src="assets-new/images/star-icon.png" alt="">
+                                    <h3 class="pgcs-title">AI Foundation</h3>
+                                    <p class="pgcs-desc">AI Mindset + Prompt Engineering for Business Output</p>
+                                </div>
+                                <span class="pgcs-vdivider"></span>
+                                <div class="pgcs-right-outcome">
+                                    <p class="pgcs-learner-label">What the Learner Becomes:</p>
+                                    <span class="pgcs-outcome">AI-Ready Professional</span>
+                                </div>
+                            </div>
+                        </div><!-- /pgcs-top -->
+                        <div class="pgcs-cert">
+                            <span class="pgcs-tag"><span class="pgcs-tag-inner">Certificate</span></span>
+                            <ul class="pgcs-cert-list">
+                                <li>AI Readiness Certificate + AI Productivity Certificate (AIRCPC)</li>
+                                <li>Certified Professional Excel Analyst (CPEA)</li>
+                                <li>Certified Professional Data Analyst (CPDA)</li>
+                            </ul>
+                        </div><!-- /pgcs-cert -->
+                        <p class="sub-text"><strong>Total Credits 20</strong></p>
+                    </div>
 
-                            </li>
+                    <!-- Semester 2 (unique subjects to this specialization; shared cert-row + credit total via common include) -->
+                    <div class="pgcs-card">
+                        <div class="pgcs-top">
+                            <div class="pgcs-left">
+                                <span class="pgcs-tag"><span class="pgcs-tag-inner">Semester 2</span></span>
+                                <ul class="pgcs-course-list">
+                                    <li>Research Methodology and Management Decision (S2C14)</li>
+                                    <li>International Finance (S4SF2)</li>
+                                    <li>Cross-Cultural Management and Negotiations (S2C22)</li>
+                                    <li>International Trade &amp; Procedures (S2I15)</li>
+                                    <li>Global Supply Chain Management (S2G15)</li>
+                                    <li>Business with Emerging Markets (S2B15)</li>
+                                </ul>
+                            </div>
+                            <div class="pgcs-right">
+                                <div class="pgcs-right-info">
+                                    <img class="pgcs-icon" src="assets-new/images/star-icon.png" alt="">
+                                    <h3 class="pgcs-title">AI Intermediate</h3>
+                                    <p class="pgcs-desc">Domain-contextualised AI module + workplace artifact</p>
+                                </div>
+                                <span class="pgcs-vdivider"></span>
+                                <div class="pgcs-right-outcome">
+                                    <p class="pgcs-learner-label">What the Learner Becomes:</p>
+                                    <span class="pgcs-outcome">AI-Enabled Task Optimiser</span>
+                                </div>
+                            </div>
+                        </div><!-- /pgcs-top -->
+                        <?php include "pgdmexe-common-sem2-sub.php" ?>
+                    </div>
+                    <!-- Project -->
+                    <?php include "pgdmexe-common-project-term.php" ?>
 
+                </div><!-- /pgcs-stack -->
+
+                <p class="sub-text text-light mt-4"><strong>Total Cumulative Credits 50</strong></p>
+
+                <div class="pgcs-note">
+                    <h3 class="pgcs-note-heading">Note :</h3>
+                    <ul class="pgcs-note-list">
+                        <li>The above course curriculum is subject to revision as per AICTE guidelines from time to time and as per industry updates.</li>
+                        <li>Exams are conducted during the January and July examination cycles.</li>
+                        <li>All Internal and External examinations are Multiple Choice Question (MCQ) based.</li>
+                        <li>Students are required to complete all LMS learning components and submit two quizzes (30 marks each) for every subject.</li>
+                        <li>Internal Assessment carries 60% weightage and the External Proctored Examination carries 40% weightage. Learners must secure at least 50% marks separately in both components.</li>
+                    </ul>
+                </div><!-- /pgcs-note -->
+
+            </div><!-- /pgcs-bg-wrap -->
+        </div>
+    </section>
+
+    <!-- ═══════════════════════════════════════════════
+       FEE STRUCTURE
+    ════════════════════════════════════════════════ -->
+    <section class="fee-structure-section" id="fees">
+        <div class="container">
+            <h2 class="section-heading"><span>Fee</span> Structure</h2>
+
+            <div class="fs-outer">
+
+                <?php include "pgdm-exe-common-fee-structure.php" ?>
+                <!-- Note (reuses the same .pgcs-note pattern/CSS from Course Syllabus) -->
+                <div class="fs-note-wrap">
+                    <div class="pgcs-note">
+                        <h3 class="pgcs-note-heading">Note :</h3>
+                        <ul class="pgcs-note-list">
+                            <li>Students are required to pay an additional Exam Fee of ₹750 per paper and a Project
+                                Evaluation Fee of ₹2,000.</li>
+                        </ul>
+                        <p class="fs-note-subhead">For Installments</p>
+                        <ul class="pgcs-note-list">
+                            <li>First Installment needs to be paid at the time of admission.</li>
+                            <li>Second Installment needs to be paid within 3 months from the date of admission.</li>
+                            <li>Third Installment needs to be paid within 6 months from the date of admission.</li>
+                        </ul>
+                    </div>
+                    <div class="faq-list">
+
+                        <div class="faq-item is-open">
+                            <button class="faq-q" style="background: white;" aria-expanded="false">
+                                <span>Potential Career</span>
+                                <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round" />
+                                </svg>
+                            </button>
+                            <div class="faq-a" style="background: transparent;">
+                                <ul class="ac-list text-dark">
+                                    <div class="row">
+                                        <div class="col-md-6">
+                                            <li>International Business Manager</li>
+                                            <li>Export Manager</li>
+                                            <li>Import Manager</li>
+                                            <li>International Marketing Manager</li>
+                                            <li>Global Supply Chain Manager</li>
+                                            <li>International Trade Analyst</li>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <li>Business Development Manager</li>
+                                            <li>Global Sourcing Manager</li>
+                                            <li>International Finance Executive</li>
+                                            <li>Cross-Border Operations Manager</li>
+                                            <li>International Strategy Consultant</li>
+                                            <li>Emerging Markets Specialist</li>
+                                        </div>
+                                    </div>
+                                </ul>
+                            </div>
                         </div>
+
+                    </div>
+                </div><!-- /fs-note-wrap -->
+
+
+            </div><!-- /fs-outer -->
+        </div>
+    </section>
+
+    <!-- FAQ -->
+
+    <section class="faq-section" id="faq">
+        <div class="container">
+            <h2 class="section-heading">Frequently Asked Questions</h2>
+            <div class="faq-list">
+
+                <div class="faq-item is-open">
+                    <button class="faq-q" aria-expanded="true">
+                        <span>Who should enroll?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>Working professionals and graduates with at least five years of work experience who want to advance in international business.</p>
                     </div>
                 </div>
-            </div>
-        </section>
 
-
-
-        <?php include "3-PGDM-Executive-second-common-fees.php" ?>
-
-
-        
-        
-        <section>
-            <div class="container">
-                <div class="row">
-                    <div class="cur-accordiaon">
-
-                        <div class="accordion curriculum-accordion" id="freQuestions">
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#importantNotes" aria-expanded="false" aria-controls="importantNotes">
-                                        Important Notes
-                                    </button>
-                                </h2>
-                                <div id="importantNotes" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row fin-feature1">
-                                            <ul class="fin-feature2" style="list-style: none;">
-                                                <div class="row">
-                                                    <div class="col-md-12">
-                                                        <li><span class="newright-icon1"></span> The above course curriculum is subject to revision as per AICTE guidelines from time to time and as per industry updates.</li>
-                                                        <li><span class="newright-icon1"></span> Exams are conducted during the January and July examination cycles.</li>
-                                                        <li><span class="newright-icon1"></span> All Internal and External examinations are Multiple Choice Question (MCQ) based.</li>
-                                                        <li><span class="newright-icon1"></span> Students are required to complete all LMS learning components and submit two quizzes (30 marks each) for every subject.</li>
-                                                        <li><span class="newright-icon1"></span> Internal Assessment carries 60% weightage and the External Proctored Examination carries 40% weightage. Learners must secure at least 50% marks separately in both components.</li>
-                                                    </div>
-                                                </div>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions1" aria-expanded="false" aria-controls="questions1">
-                                        Potential Career
-                                    </button>
-                                </h2>
-                                <div id="questions1" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row fin-feature1">
-                                            <ul class="fin-feature2" style="list-style: none;">
-                                                <div class="row">
-                                                    <div class="col-md-6">
-                                                        <li><span class="newright-icon1"></span> International Business Manager</li>
-                                                        <li><span class="newright-icon1"></span> Export Manager</li>
-                                                        <li><span class="newright-icon1"></span> Import Manager</li>
-                                                        <li><span class="newright-icon1"></span> International Marketing Manager</li>
-                                                        <li><span class="newright-icon1"></span> Global Supply Chain Manager</li>
-                                                        <li><span class="newright-icon1"></span> International Trade Analyst</li>
-                                                    </div>
-                                                    <div class="col-md-6">
-                                                        <li><span class="newright-icon1"></span> Business Development Manager</li>
-                                                        <li><span class="newright-icon1"></span> Global Sourcing Manager</li>
-                                                        <li><span class="newright-icon1"></span> International Finance Executive</li>
-                                                        <li><span class="newright-icon1"></span> Cross-Border Operations Manager</li>
-                                                        <li><span class="newright-icon1"></span> International Strategy Consultant</li>
-                                                        <li><span class="newright-icon1"></span> Emerging Markets Specialist</li>
-                                                    </div>
-                                                </div>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>What is the programme duration?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>15 months.</p>
                     </div>
                 </div>
-            </div>
-        </section>
 
-        <section id="faq">
-
-            <div class="container">
-
-                <div class="row">
-
-                    <div class="cur-accordiaon">
-
-                        <h2 class="fw-bold ">Frequently Asked Questions (FAQs)</h2>
-
-
-
-
-
-                        <div class="accordion curriculum-accordion" id="freQuestions">
-
-                            <div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions12" aria-expanded="false" aria-controls="questions12">
-
-                                        Who should enroll?
-
-
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="questions12" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-
-                                    <div class="accordion-body  hero10">
-
-                                        <div class="row">
-
-                                            <div class="col-md-12 col-lg-12">
-
-                                                <div class="fintech-module alert brandcolor">
-
-
-
-                                                    <p>Working professionals and graduates with at least five years of work experience who want to advance in international business.</p>
-
-
-
-
-                                                </div>
-
-                                            </div>
-
-
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                            <div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions13" aria-expanded="false" aria-controls="questions13">
-
-                                        What is the programme duration?
-
-
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="questions13" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-
-                                    <div class="accordion-body hero10">
-
-                                        <div class="row">
-
-                                            <div class="col-md-12 col-lg-12">
-
-                                                <div class="fintech-module alert brandcolor">
-
-                                                    <p>15 months.</p>
-
-                                                </div>
-
-                                            </div>
-
-
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                            <div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions14" aria-expanded="false" aria-controls="questions14">
-
-                                        What is the mode of learning?
-
-
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="questions14" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-
-                                    <div class="accordion-body hero10">
-
-                                        <div class="row">
-
-                                            <div class="col-md-12 col-lg-12">
-
-                                                <div class="fintech-module alert brandcolor">
-
-
-
-                                                    <p>Online.</p>
-
-                                                </div>
-
-                                            </div>
-
-
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                            <div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions15" aria-expanded="false" aria-controls="questions15">
-
-                                        What career opportunities are available?
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="questions15" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-
-                                    <div class="accordion-body hero10">
-
-                                        <div class="row">
-
-                                            <div class="col-md-12 col-lg-12">
-
-                                                <div class="fintech-module alert brandcolor">
-
-
-
-                                                    <p>Leadership and specialist roles in international trade, exports, imports, global marketing, finance and supply chain management.</p>
-
-
-
-
-                                                </div>
-
-                                            </div>
-
-
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                            <div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions23" aria-expanded="false" aria-controls="questions15">
-
-                                        Is there a project?
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="questions23" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-
-                                    <div class="accordion-body hero10">
-
-                                        <div class="row">
-
-                                            <div class="col-md-12 col-lg-12">
-
-                                                <div class="fintech-module alert brandcolor">
-
-
-
-                                                    <p>Yes. The programme concludes with a three-month desk research and project work component.</p>
-
-
-
-
-                                                </div>
-
-                                            </div>
-
-
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-
-                            <div class="accordion-item">
-
-                                <h2 class="accordion-header">
-
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions17" aria-expanded="false" aria-controls="questions17">
-
-                                        How many credits does the programme carry?
-
-                                    </button>
-
-                                </h2>
-
-                                <div id="questions17" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-
-                                    <div class="accordion-body hero10">
-
-                                        <div class="row">
-
-                                            <div class="col-md-12 col-lg-12">
-
-                                                <div class="fintech-module alert brandcolor">
-
-
-
-                                                    <p>The programme comprises 54 cumulative credits.</p>
-
-                                                </div>
-
-                                            </div>
-
-
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-
-                        </div>
-
-
-
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>What is the mode of learning?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>Online.</p>
                     </div>
+                </div>
 
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>What career opportunities are available?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>Leadership and specialist roles in international trade, exports, imports, global marketing, finance and supply chain management.</p>
+                    </div>
+                </div>
 
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>Is there a project?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>Yes. The programme concludes with a three-month desk research and project work component.</p>
+                    </div>
+                </div>
 
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>How many credits does the programme carry?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>The programme comprises 50 cumulative credits.</p>
+                    </div>
                 </div>
 
             </div>
+        </div>
+    </section>
 
-        </section>
+    <!-- ═══════════════════════════════════════════════
+       SITE FOOTER
+    ════════════════════════════════════════════════ -->
+    <?php include "footer-new.php" ?>
 
-        <?php include "all-similar-program-all-courses-slider.php" ?>
+    <script>
+        // Specialisation pill switcher
+        (function () {
+            var pills = document.querySelectorAll('.ph-spec-pill');
+            pills.forEach(function (pill) {
+                pill.addEventListener('click', function () {
+                    pills.forEach(function (p) { p.classList.remove('is-active'); });
+                    pill.classList.add('is-active');
+                });
+            });
+        })();
+    </script>
 
-        <?php include "learner-support.php" ?>
-
-    </main>
-    <!-- Footer Start -->
-
-    <?php include "footer.php" ?>
-
-
-    <!-- footer end  -->
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/js/bootstrap-select.min.js"></script>
-    <script src="assets/js/slick.min.js"></script>
-    <script src="assets/js/common.js"></script>
-    <script src="assets/js/course-slider.js"></script>
-
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 
 </html>

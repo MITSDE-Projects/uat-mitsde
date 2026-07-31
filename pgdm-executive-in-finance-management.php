@@ -267,6 +267,8 @@
                     <a href="pgdm-executive-in-material-management"><button class="ph-spec-pill">Material Management</button></a>
                     <a href="pgdm-executive-in-global-logistics-and-supply-chain-management"><button class="ph-spec-pill">Global Logistics & Supply Chain</button></a>
                     <a href="pgdm-executive-in-construction-and-project-management"><button class="ph-spec-pill">Construction and Project</button></a>
+                    <a href="pgdm-executive-in-international-business"><button class="ph-spec-pill">International Business</button></a>
+                    <a href="pgdm-executive-in-sustainability-esg"><button class="ph-spec-pill">Sustainability & ESG</button></a>
                 </div>
                 <p class="ph-specs-hint">Select a category above to explore all available specializations, fees,
                     duration, and learning outcomes.</p>
