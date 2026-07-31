@@ -200,41 +200,43 @@
                 <div class="top-recruiters-content">
                     <h2 id="top-recruiters-title">Top recruiters</h2>
 
+                    <div class="d-flex justify-content-center align-item-center mt-3">
+                        <img src="assets-new/images/placement-logos.webp" class="img-fluid" alt="">
+                    </div>
                     <?php
-                    // Replace these demo filenames after uploading the individual company-logo images.
-                    $topRecruiters = [
-                        ['logo' => 'deloitte-logo.png', 'name' => 'Deloitte'],
-                        ['logo' => 'tcs-logo.png', 'name' => 'TCS'],
-                        ['logo' => 'amazon-logo.png', 'name' => 'Amazon'],
-                        ['logo' => 'accenture-logo.png', 'name' => 'Accenture'],
-                        ['logo' => 'mercedes-logo.png', 'name' => 'Mercedes-Benz'],
-                        ['logo' => 'wipro-logo.png', 'name' => 'Wipro'],
-                        ['logo' => 'ibm-logo.png', 'name' => 'IBM'],
-                        ['logo' => 'ignitarium-logo.png', 'name' => 'Ignitarium'],
-                        ['logo' => 'prodesk-logo.png', 'name' => 'Prodesk'],
-                        ['logo' => 'vodafone-logo.png', 'name' => 'Vodafone'],
-                        ['logo' => 'kotak-logo.png', 'name' => 'Kotak Mahindra Bank'],
-                        ['logo' => 'flipkart-logo.png', 'name' => 'Flipkart'],
-                        ['logo' => 'star-health-logo.png', 'name' => 'STAR Health Insurance'],
-                        ['logo' => 'persistent-logo.png', 'name' => 'Persistent'],
-                        ['logo' => 'genpact-logo.png', 'name' => 'Genpact'],
-                        ['logo' => 'jk-tyre-logo.png', 'name' => 'JK Tyre'],
-                        ['logo' => 'sbi-logo.png', 'name' => 'SBI Securities'],
-                        ['logo' => 'john-deere-logo.png', 'name' => 'John Deere'],
-                        ['logo' => 'british-council-logo.png', 'name' => 'British Council'],
-                        ['logo' => 'rupeek-logo.png', 'name' => 'Rupeek'],
-                    ];
+                    // $topRecruiters = [
+                    //     ['logo' => 'deloitte-logo.png', 'name' => 'Deloitte'],
+                    //     ['logo' => 'tcs-logo.png', 'name' => 'TCS'],
+                    //     ['logo' => 'amazon-logo.png', 'name' => 'Amazon'],
+                    //     ['logo' => 'accenture-logo.png', 'name' => 'Accenture'],
+                    //     ['logo' => 'mercedes-logo.png', 'name' => 'Mercedes-Benz'],
+                    //     ['logo' => 'wipro-logo.png', 'name' => 'Wipro'],
+                    //     ['logo' => 'ibm-logo.png', 'name' => 'IBM'],
+                    //     ['logo' => 'ignitarium-logo.png', 'name' => 'Ignitarium'],
+                    //     ['logo' => 'prodesk-logo.png', 'name' => 'Prodesk'],
+                    //     ['logo' => 'vodafone-logo.png', 'name' => 'Vodafone'],
+                    //     ['logo' => 'kotak-logo.png', 'name' => 'Kotak Mahindra Bank'],
+                    //     ['logo' => 'flipkart-logo.png', 'name' => 'Flipkart'],
+                    //     ['logo' => 'star-health-logo.png', 'name' => 'STAR Health Insurance'],
+                    //     ['logo' => 'persistent-logo.png', 'name' => 'Persistent'],
+                    //     ['logo' => 'genpact-logo.png', 'name' => 'Genpact'],
+                    //     ['logo' => 'jk-tyre-logo.png', 'name' => 'JK Tyre'],
+                    //     ['logo' => 'sbi-logo.png', 'name' => 'SBI Securities'],
+                    //     ['logo' => 'john-deere-logo.png', 'name' => 'John Deere'],
+                    //     ['logo' => 'british-council-logo.png', 'name' => 'British Council'],
+                    //     ['logo' => 'rupeek-logo.png', 'name' => 'Rupeek'],
+                    // ];
                     ?>
 
-                    <div class="top-recruiters-grid">
-                        <?php foreach ($topRecruiters as $recruiter): ?>
-                            <div class="top-recruiter-logo-card">
+                    <!-- <div class="top-recruiters-grid"> -->
+                        <?php //foreach ($topRecruiters as $recruiter): ?>
+                            <!-- <div class="top-recruiter-logo-card">
                                 <img
                                     src="assets-new/images/logos/<?php echo htmlspecialchars($recruiter['logo']); ?>"
-                                    alt="<?php echo htmlspecialchars($recruiter['name']); ?>"
+                                    alt="<?php //echo htmlspecialchars($recruiter['name']); ?>"
                                 >
-                            </div>
-                        <?php endforeach; ?>
+                            </div> -->
+                        <?php //endforeach; ?>
                     </div>
                 </div>
             </div>
