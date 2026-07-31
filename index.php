@@ -120,14 +120,19 @@
               <img class="mc-bg" src="assets-new/images/csbe-card-bg.jpg" alt="Corporate Upscaling" />
               <div class="mc-overlay" style="background: rgba(255, 87, 0, 0.72)"></div>
               <!-- CSBE logo white -->
-              <div class="mc-title" style="top: 42%; transform: translate(-50%, -50%)">
+              <!-- <div class="mc-title" style="top: 42%; transform: translate(-50%, -50%)">
                 <img src="assets-new/images/csbe.png" alt="CSBE" style="
                     height: 52px;
                     object-fit: contain;
                     filter: brightness(0) invert(1);
                   " />
               </div>
-              <div class="mc-label">Corporate Upscaling</div>
+              <div class="mc-label">Corporate Upscaling</div> -->
+              <div class="mc-title">
+                <div class="mc-title-sm">International</div>
+                <div class="mc-title-big">Relations</div>
+              </div>
+              <div class="mc-label"><a href="international-relations" class="text-dark">Know More</a></div>
             </div>
           </div>
         </div><!-- /.cards-scroll-strip -->

@@ -133,9 +133,9 @@ else $nav_active = '';
             </svg>
         </a>
 
-        <a href="#">Career Support Hub</a>
-        <span class="divider">|</span>
-        <a href="csbe"><strong>Corporate Acceleration</strong></a>
+        <!-- <a href="#">Career Support Hub</a>
+        <span class="divider">|</span> -->
+        <a href="international-relations"><strong>International Relations</strong></a>
 
         <div class="nav-actions">
             <button class="btn-outline">Login</button>
