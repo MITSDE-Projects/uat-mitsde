@@ -481,12 +481,29 @@ else $nav_active = '';
         var isOpen    = false;
         var closeTimer = null;
 
+        // Desktop only: anchor the dropdown directly under its own trigger
+        // instead of the default viewport-centered position (CSS left:50% +
+        // translateX(-50%)). Tablet/mobile keep the centered/full-width CSS
+        // behaviour untouched.
+        function positionDD() {
+            if (isMobile()) { dropdown.style.left = ''; dropdown.style.transform = ''; return; }
+            var rect = trigger.getBoundingClientRect();
+            var ddWidth = dropdown.offsetWidth;
+            var left = rect.left;
+            var maxLeft = window.innerWidth - ddWidth - 16;
+            if (left > maxLeft) left = maxLeft;
+            if (left < 16) left = 16;
+            dropdown.style.left = left + 'px';
+            dropdown.style.transform = 'none';
+        }
+
         function openDD() {
             if (closeTimer) { clearTimeout(closeTimer); closeTimer = null; }
             // Close any other open dropdown first
             if (activeClose && activeClose !== closeDD) activeClose();
             activeClose = closeDD;
             isOpen = true;
+            positionDD();
             dropdown.classList.add('is-open');
             backdrop.classList.add('is-open');
             trigger.classList.add('dd-open');
@@ -501,6 +518,8 @@ else $nav_active = '';
             if (activeClose === closeDD) activeClose = null;
             isOpen = false;
             dropdown.classList.remove('is-open');
+            dropdown.style.left = '';
+            dropdown.style.transform = '';
             backdrop.classList.remove('is-open');
             trigger.classList.remove('dd-open');
             if (mobTrigger) mobTrigger.classList.remove('dd-open');
@@ -560,6 +579,9 @@ else $nav_active = '';
             } else {
                 dropdown.classList.remove('has-panel');
             }
+            // Re-anchor: the panel column can widen the dropdown well past
+            // the width it had when openDD() first positioned it.
+            positionDD();
             return !!panel;
         }
 

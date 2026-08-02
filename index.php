@@ -746,8 +746,11 @@
 
         <div class="mit-adv-right">
           <div class="mit-adv-video-card">
-            <div class="mit-adv-thumb-wrap">
-              <img src="assets-new/images/mit-advantage.png" alt="MITSDE Unique Offerings" class="mit-adv-thumb" />
+            <div class="mit-adv-thumb-wrap" id="mitAdvThumbWrap" data-yt-id="D7QDQZDbBmI" role="button" tabindex="0" aria-label="Play MITSDE Unique Offerings video">
+              <!-- <img src="assets-new/images/mit-advantage.png" alt="MITSDE Unique Offerings" class="mit-adv-thumb" /> -->
+              <img src="https://img.youtube.com/vi/D7QDQZDbBmI/maxresdefault.jpg"
+                onerror="this.onerror=null; this.src='https://img.youtube.com/vi/D7QDQZDbBmI/hqdefault.jpg';"
+                alt="MITSDE Unique Offerings" class="mit-adv-thumb" />
               <div class="mit-adv-play-btn">
                 <svg viewBox="0 0 68 48" width="72" height="52">
                   <path
@@ -770,7 +773,7 @@
         <p><strong>Don't just learn what's happening.</strong></p>
         <p><strong>Learn how to operate with AI.</strong></p>
       </div>
-      <button class="mit-adv-btn">READ MORE</button>
+      <a href="aboutMIT" class="mit-adv-btn">READ MORE</a>
     </div>
   </section>
 
@@ -1085,6 +1088,21 @@
 
 
   <script>
+
+    // MIT Advantage — click-to-play YouTube embed (loads iframe only on click)
+    (function () {
+      var wrap = document.getElementById('mitAdvThumbWrap');
+      if (!wrap) return;
+      function playVideo() {
+        var ytId = wrap.dataset.ytId;
+        wrap.classList.add('is-playing');
+        wrap.innerHTML = '<iframe class="mit-adv-video-frame" src="https://www.youtube.com/embed/' + ytId + '?autoplay=1&rel=0" title="MITSDE Unique Offerings video" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>';
+      }
+      wrap.addEventListener('click', playVideo);
+      wrap.addEventListener('keydown', function (e) {
+        if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); playVideo(); }
+      });
+    })();
 
     const swiper = new Swiper(".awardsSwiper", {
       loop: true,
