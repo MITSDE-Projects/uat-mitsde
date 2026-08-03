@@ -104,82 +104,73 @@
             "@type": "FAQPage",
             "mainEntity": [{
                 "@type": "Question",
-                "name": "When are the KPMG Domain Analytics certification training sessions scheduled?",
+                "name": "What is the duration of the PGDM in Project Management program?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "The KPMG certification training sessions are exclusively held on Saturdays and Sundays.
-                    Saturdays– 7 pm to 10 pm
-                    Sundays– 10 am to 1 pm "
+                    "text": "The program is 24 months long, with a validity period of 2 years 6 months (including a 6-month extension window) to complete all requirements."
                 }
             }, {
                 "@type": "Question",
-                "name": "Is the KPMG Domain Analytics certification course part of PGDM? Is there an additional charge for the KPMG certification?",
+                "name": "Who is eligible to apply for this PGDM in Project Management?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Yes, the KPMG Domain Analytics certification course is part of PGDM, and there is no extra charge for obtaining the KPMG certification. The Domain Analytics certification program will begin in Sem 3 of the PGDM course."
+                    "text": "Any graduate from a recognized university can apply -- there's no specific stream restriction."
                 }
             }, {
                 "@type": "Question",
-                "name": "Will there be recordings of the KPMG sessions available?",
+                "name": "Is this program AICTE-approved?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Yes, a 20-minute summary videos of all live sessions will be provided after each live session on the KPMG LMS."
+                    "text": "Yes, MITSDE's PGDM in Project Management is offered by an AICTE-approved distance education institution, and the curriculum is periodically revised in line with AICTE guidelines and industry updates."
                 }
             }, {
                 "@type": "Question",
-                "name": "When will the KPMG LMS link and ID be activated, and when is the session on this scheduled?",
+                "name": "What is the total program fee, and are installment options available?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "The KPMG login credentials will be activated and shared before the Master E-INDUCTION. you will receive the email from us, and there will be a Master Orientation session to understand the KPMG Domain Analytics Certification Program conducted by the team from KPMG and MITSDE."
+                    "text": "The total fee is Rs. 1,05,000. You can pay via three installments or as a lump sum. Note: an additional exam fee of Rs. 750 per paper and a project evaluation fee of Rs. 2,000 apply separately."
                 }
             }, {
                 "@type": "Question",
-                "name": "What is the assessment methodology?",
+                "name": "Are scholarships available?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "The assessments consist of 10 multiple-choice questions (MCQs) worth 5 marks each to gauge conceptual understanding and 3 practical questions worth 50 marks aimed at assessing the application of learned skills. The total marks allotted for the assessment are 100, with a passing percentage set at 50%."
+                    "text": "Yes -- up to 25% for alumni, up to 30% for defence personnel, and up to 20% for specially-abled candidates."
                 }
             }, {
                 "@type": "Question",
-                "name": "What is the method of delivery for the training program?",
+                "name": "What does the curriculum cover?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "The training program is delivered through Virtual Instructor-Led Training (VILT), utilizing online platforms to connect learners with instructors in a dynamic, interactive virtual environment."
+                    "text": "The program spans 4 semesters (82 total credits) covering project planning and scheduling, resource and cost management, agile and hybrid project management, risk and quality management, procurement, and a final project -- along with hands-on tools training in MS Project, Primavera, and JIRA."
                 }
             }, {
                 "@type": "Question",
-                "name": "What is the duration of the course?",
+                "name": "How are exams conducted, and what's the passing criteria?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "The course spans over a total of 40 hours of live sessions. It is structured to optimize learning outcomes while accommodating the busy schedules of participants."
+                    "text": "Exams are held during January and July cycles, in multiple-choice format. Each subject requires two quizzes (60% weight) plus an external proctored exam (40% weight), with a 50% passing criterion for both."
                 }
             }, {
                 "@type": "Question",
-                "name": "What certificates will participants receive upon completion, and what are the conditions for receiving them?",
+                "name": "What career roles can I pursue after completing this program?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Participants who clear the Final assessments with a minimum of 50% out of total 100 marks, will receive a Certificate of Completion, while those who fail to clear the final assessment will receive a Certificate of Participation. Participants are allowed two attempts to clear the final assessment, with one free retake. Subsequent retake – only 1, will be charged at Rs. 1000/-. To qualify for the certificate of completion, participants must pass both the project and final assessment, separately."
+                    "text": "Graduates can pursue roles such as Project Coordinator, Project Scheduler, Project Manager, Senior Project Manager, and Project Planner across industries like IT, Pharmaceutical, Petrochemical, Construction, and Automotive."
                 }
             }, {
                 "@type": "Question",
-                "name": "What additional support will students receive during and after the training?",
+                "name": "Is this a fully online program?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Participants will have access to KPMG’S Learning Management System (LMS), including Module wise demo videos, session presentations, and access to LMS for two months after completion of each training course."
+                    "text": "Yes, it's delivered entirely online, designed for working professionals to study at their own pace."
                 }
             }, {
                 "@type": "Question",
-                "name": "Will there be doubt solving, Exam and project preparation session for the KPMG Domain Analytics Certification Program?",
+                "name": "What additional certifications can I earn during the program?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Yes, there will be a doubt solving session every fortnight, followed by, Exam and project preparation session after the live session concludes."
-                }
-            }, {
-                "@type": "Question",
-                "name": "What is the format for the project, and what role does it play in certification qualification?",
-                "acceptedAnswer": {
-                    "@type": "Answer",
-                    "text": "The project is hands-on and must be submitted in the format recommended by KPMG SME within a specified duration. Participants have only one attempt to submit the project, and the project score significantly influences final certification qualification. The total marks allotted for the Project is 50, with a passing percentage set at 50%."
+                    "text": "Non-credit certifications are included across semesters -- AI Readiness, AI Productivity, AI Automation, and AI Strategy certificates, plus certified analyst credentials (CPEA, CPDA, CPDSA, CPQBA)."
                 }
             }]
         }

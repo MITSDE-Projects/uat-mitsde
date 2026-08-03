@@ -533,196 +533,131 @@
 
                 <div class="faq-item is-open">
                     <button class="faq-q" aria-expanded="true">
-                        <span>When are the KPMG Domain Analytics certification training sessions scheduled?</span>
+                        <span>What is the duration of the PGDM in Operations Management program?</span>
                         <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
                                 stroke-linejoin="round" />
                         </svg>
                     </button>
                     <div class="faq-a">
-                        <ul class="ac-list text-dark">
-                            <li>
-                                The KPMG certification training sessions are exclusively held on Saturdays and Sundays.
-                            </li>
-                            <li>
-                                Saturdays - 7pm to 10pm
-                            </li>
-                            <li>
-                                Sundays - 10am to 1pm
-                            </li>
-                        </ul>
+                        <p>The program is 24 months long, with a validity period of 2 years 6 months (including a 6-month extension window) to complete all requirements.</p>
                     </div>
                 </div>
 
                 <div class="faq-item">
                     <button class="faq-q" aria-expanded="false">
-                        <span>Is the KPMG Domain Analytics certification course part of PGDM? Is there an additional
-                            charge for the KPMG certification?</span>
+                        <span>Who is eligible to apply?</span>
                         <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
                                 stroke-linejoin="round" />
                         </svg>
                     </button>
                     <div class="faq-a">
-                        <p>Yes, the KPMG Domain Analytics certification course is part of PGDM, and there is no extra
-                            charge for obtaining the KPMG certification. The Domain Analytics certification program will
-                            begin in Sem 3 of the PGDM course.</p>
+                        <p>Any graduate from a recognized university can apply — there’s no specific stream restriction.</p>
                     </div>
                 </div>
 
                 <div class="faq-item">
                     <button class="faq-q" aria-expanded="false">
-                        <span>Will there be recordings of the KPMG sessions available?</span>
+                        <span>Is this program AICTE-approved?</span>
                         <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
                                 stroke-linejoin="round" />
                         </svg>
                     </button>
                     <div class="faq-a">
-                        <p>Yes, a 20-minute summary videos of all live sessions will be provided after each live session
-                            on the KPMG LMS.</p>
+                        <p>Yes, MITSDE’s PGDM in Operations Management is offered by an AICTE-approved distance education institution, and the curriculum is periodically revised in line with AICTE guidelines and industry updates.</p>
                     </div>
                 </div>
 
                 <div class="faq-item">
                     <button class="faq-q" aria-expanded="false">
-                        <span>When will the KPMG LMS link and ID be activated, and when is the session on this
-                            scheduled?</span>
+                        <span>What is the total program fee, and are installment options available?</span>
                         <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
                                 stroke-linejoin="round" />
                         </svg>
                     </button>
                     <div class="faq-a">
-                        <p>The KPMG login credentials will be activated and shared before the Master E-INDCUTION. you
-                            will receive the email from us, and there will be a Master Orientation session to understand
-                            the KPMG Domain Analytics Certification Program conducted by the team from KPMG and MITSDE.
-                        </p>
+                        <p>The total fee is ₹1,05,000. You can pay via three installments (₹30,000 at admission, ₹33,000 within 3 months, ₹33,000 within 6 months, with a ₹9,000 special discount) or as a lump sum (₹90,000 after a ₹15,000 discount). Note: an additional exam fee of ₹750 per paper and a project evaluation fee of ₹2,000 apply separately.</p>
                     </div>
                 </div>
 
                 <div class="faq-item">
                     <button class="faq-q" aria-expanded="false">
-                        <span>What is the assessment methodology?</span>
+                        <span>Are scholarships available?</span>
                         <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
                                 stroke-linejoin="round" />
                         </svg>
                     </button>
                     <div class="faq-a">
-                        <p>The assessments consist of 10 multiple-choice questions (MCQs) worth 5 marks each to gauge
-                            conceptual understanding and 3 practical questions worth 50 marks aimed at assessing the
-                            application of learned skills. The total marks allotted for the assessment are 100, with a
-                            passing percentage set at 50%.</p>
+                        <p>Yes — up to 25% for alumni, up to 30% for defence personnel, and up to 20% for specially-abled candidates.</p>
                     </div>
                 </div>
 
                 <div class="faq-item">
                     <button class="faq-q" aria-expanded="false">
-                        <span>What is the method of delivery for the training program?</span>
+                        <span>What does the curriculum cover?</span>
                         <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
                                 stroke-linejoin="round" />
                         </svg>
                     </button>
                     <div class="faq-a">
-                        <p>The training program is delivered through Virtual Instructor-Led Training (VILT), utilizing
-                            online platforms to connect learners with instructors in a dynamic, interactive virtual
-                            environment.</p>
+                        <p>The program spans 4 semesters (82 total credits), covering business management foundations, managerial economics, operations management, lean management systems, world-class manufacturing, operations research, production planning and control, and emerging trends in supply chain management and logistics — culminating in a project work component.</p>
                     </div>
                 </div>
 
                 <div class="faq-item">
                     <button class="faq-q" aria-expanded="false">
-                        <span>What is the duration of the course?</span>
+                        <span>How are exams conducted, and what’s the passing criteria?</span>
                         <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
                                 stroke-linejoin="round" />
                         </svg>
                     </button>
                     <div class="faq-a">
-                        <p>The course spans over a total of 40 hours of live sessions. It is structured to optimize
-                            learning outcomes while accommodating the busy schedules of participants.</p>
+                        <p>Exams are held during January and July cycles, in multiple-choice format. Each subject requires two quizzes (30 marks each, 60% weight) plus an external proctored exam (40% weight), with a 50% passing criterion for both.</p>
                     </div>
                 </div>
 
                 <div class="faq-item">
                     <button class="faq-q" aria-expanded="false">
-                        <span>What certificates will participants receive upon completion, and what are the conditions
-                            for receiving them?</span>
+                        <span>What career roles can I pursue after completing this program?</span>
                         <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
                                 stroke-linejoin="round" />
                         </svg>
                     </button>
                     <div class="faq-a">
-                        <p>Participants who clear the Final assessments with a minimum of 50% out of total 100 marks,
-                            will receive a Certificate of Completion, while those who fail to clear the final assessment
-                            will receive a Certificate of Participation. Participants are allowed two attempts to clear
-                            the final assessment, with one free retake. Subsequent retake – only 1, will be charged at
-                            Rs. 1000/-. To qualify for the certificate of completion, participants must pass both the
-                            project and final assessment, separately.</p>
+                        <p>Graduates can pursue roles such as Purchasing Manager, Plant Manager, Service Operations Director, Supply Chain Manager, Quality Control Officer, and Warehouse Manager, across industries like IT, Pharmaceutical, Petrochemical, Construction, and Automotive.</p>
                     </div>
                 </div>
 
                 <div class="faq-item">
                     <button class="faq-q" aria-expanded="false">
-                        <span>What additional support will students receive during and after the training?</span>
+                        <span>Is this a fully online program?</span>
                         <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
                                 stroke-linejoin="round" />
                         </svg>
                     </button>
                     <div class="faq-a">
-                        <p>Participants will have access to KPMG’S Learning Management System (LMS), including Module
-                            wise demo videos, session presentations, and access to LMS for two months after completion
-                            of each training course.</p>
+                        <p>Yes, it’s delivered entirely online, designed for working professionals to study at their own pace.</p>
                     </div>
                 </div>
 
                 <div class="faq-item">
                     <button class="faq-q" aria-expanded="false">
-                        <span>Will there be doubt solving, Exam and project preparation session for the KPMG Domain
-                            Analytics Certification Program?</span>
+                        <span>What additional certifications can I earn during the program?</span>
                         <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
                                 stroke-linejoin="round" />
                         </svg>
                     </button>
                     <div class="faq-a">
-                        <p>Yes, there will be a doubt solving session every fortnight, followed by, Exam and project
-                            preparation session after the live session concludes.</p>
-                    </div>
-                </div>
-
-                <div class="faq-item">
-                    <button class="faq-q" aria-expanded="false">
-                        <span>What is the format for the project, and what role does it play in certification
-                            qualification?</span>
-                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                                stroke-linejoin="round" />
-                        </svg>
-                    </button>
-                    <div class="faq-a">
-                        <p>The project is hands-on and must be submitted in the format recommended by KPMG SME within a
-                            specified duration. Participants have only one attempt to submit the project, and the
-                            project score significantly influences final certification qualification. The total marks
-                            allotted for the Project is 50, with a passing percentage set at 50%.</p>
-                    </div>
-                </div>
-
-                <div class="faq-item">
-                    <button class="faq-q" aria-expanded="false">
-                        <span>What is the duration of the course?</span>
-                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                                stroke-linejoin="round" />
-                        </svg>
-                    </button>
-                    <div class="faq-a">
-                        <p>The course spans over a total of 40 hours of live sessions. It is structured to optimize
-                            learning outcomes while accommodating the busy schedules of participants.</p>
+                        <p>Non-credit certifications are included across semesters — AI Readiness, AI Productivity, AI Automation, and AI Strategy certificates, plus certified analyst credentials (CPEA, CPDA, CPDSA, CPQBA).</p>
                     </div>
                 </div>
 
