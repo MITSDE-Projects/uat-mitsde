@@ -132,10 +132,480 @@
         <section class="about-banner1" style="margin-top: 100px;">
             <div class="container mt-2">
                 <div class="row">
-                    <h1>Contact Sessions June 2026 </h1>
+                    <h1>Contact Sessions July 2026 </h1>
 
 
                     <div class="col-md-12 curriculum">
+
+                        <!-- Aug  2026  -->
+                        <h3 class="module-title-new"><strong> Cohort Live session </strong></h3>
+
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th>Sr No</th>
+                                    <th>Subject</th>
+                                    <th>Program</th>
+                                    <th>Faculty Name</th>
+                                    <th>Date</th>
+                                    <th>Time</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+
+                                <tr>
+                                    <th colspan="6" style="text-align:center; background-color:#F47521; color:#fff; font-size:16px;">
+                                        <strong>C15 Sem-1</strong>
+                                    </th>
+                                </tr>
+
+                                <tr>
+                                    <td>1</td>
+                                    <td>Managerial Economics</td>
+                                    <td>PGDM, PGDM Exe and PGCM-BA</td>
+                                    <td>Rajesh Raut</td>
+                                    <td>16-Jul-26</td>
+                                    <td>6:00 - 8:00 PM</td>
+                                </tr>
+
+                                <tr>
+                                    <td>2</td>
+                                    <td>Strategic Marketing Communications</td>
+                                    <td>PGCM-DM</td>
+                                    <td>Rohan Das</td>
+                                    <td>16-Jul-26</td>
+                                    <td>6:00 - 8:00 PM</td>
+                                </tr>
+
+                                <tr>
+                                    <td>3</td>
+                                    <td>Foundations of Business Management</td>
+                                    <td>PGDM, PGDM Exe and PGCM-BA</td>
+                                    <td>Rachna Arora</td>
+                                    <td>17-Jul-26</td>
+                                    <td>6:00 - 8:00 PM</td>
+                                </tr>
+
+                                <tr>
+                                    <td>4</td>
+                                    <td>Strategic Management and Business Policy</td>
+                                    <td>PGCM-DM</td>
+                                    <td>Mayank Parkhi</td>
+                                    <td>17-Jul-26</td>
+                                    <td>6:00 - 8:00 PM</td>
+                                </tr>
+
+                                <tr>
+                                    <td>5</td>
+                                    <td>Consumer Behaviour</td>
+                                    <td>PGDM-MM, PGCM-DM</td>
+                                    <td>Bonnie Rajesh</td>
+                                    <td>23-Jul-26</td>
+                                    <td>6:00 - 8:00 PM</td>
+                                </tr>
+
+                                <tr>
+                                    <td>6</td>
+                                    <td>Accounting for Managers</td>
+                                    <td>PGCM-BA, PGDM, PGDM Exe</td>
+                                    <td>SP Ghodake</td>
+                                    <td>23-Jul-26</td>
+                                    <td>6:00 - 8:00 PM</td>
+                                </tr>
+
+                                <tr>
+                                    <td>7</td>
+                                    <td>Product and Brand Strategy</td>
+                                    <td>PGCM-DM</td>
+                                    <td>Ansted Joseph</td>
+                                    <td>24-Jul-26</td>
+                                    <td>6:00 - 8:00 PM</td>
+                                </tr>
+
+                                <tr>
+                                    <td>8</td>
+                                    <td>Managerial Communication</td>
+                                    <td>PGDM, PGDM Exe, PGCM-BA</td>
+                                    <td>Gomati Ghosh</td>
+                                    <td>30-Jul-26</td>
+                                    <td>6:00 - 8:00 PM</td>
+                                </tr>
+
+                                <tr>
+                                    <td>9</td>
+                                    <td>Principles of Marketing Management</td>
+                                    <td>PGCM-DM</td>
+                                    <td>Bonnie Rajesh</td>
+                                    <td>30-Jul-26</td>
+                                    <td>6:00 - 8:00 PM</td>
+                                </tr>
+
+                                <tr>
+                                    <th colspan="6" style="text-align:center; background-color:#F47521; color:#fff; font-size:16px;">
+                                        <strong>C14 Sem-1</strong>
+                                    </th>
+                                </tr>
+
+                                <tr>
+                                    <td>10</td>
+                                    <td>Digital Marketing</td>
+                                    <td>PGCM-DM</td>
+                                    <td>Deepak Verma</td>
+                                    <td>1-Jul-26</td>
+                                    <td>6:00 - 8:00 PM</td>
+                                </tr>
+
+                                <tr>
+                                    <td>11</td>
+                                    <td>Business Analytics</td>
+                                    <td>PGCM-BA, PGDM Exe, PGDBA</td>
+                                    <td>Sonali Kulkarni</td>
+                                    <td>2-Jul-26</td>
+                                    <td>6:00 - 8:00 PM</td>
+                                </tr>
+
+                                <tr>
+                                    <td>12</td>
+                                    <td>Foundations of Business Management</td>
+                                    <td>PGCM and PGDM Exe</td>
+                                    <td>Rajesh Raut</td>
+                                    <td>8-Jul-26</td>
+                                    <td>6:00 - 8:00 PM</td>
+                                </tr>
+
+                                <tr>
+                                    <th colspan="6" style="text-align:center; background-color:#F47521; color:#fff; font-size:16px;">
+                                        <strong>C12 &amp; C13 Sem-2</strong>
+                                    </th>
+                                </tr>
+
+                                <tr>
+                                    <td>13</td>
+                                    <td>Research Methodology and Management Decision</td>
+                                    <td>PGDM-All, PGDBA-All &amp; PGDM-Exe-All</td>
+                                    <td>Supriya Phadke</td>
+                                    <td>3-Jul-26</td>
+                                    <td>6:00 - 8:00 PM</td>
+                                </tr>
+
+                                <tr>
+                                    <td>14</td>
+                                    <td>Marketing Analytics</td>
+                                    <td>PGCM-BA &amp; PGDM Exe-SMM</td>
+                                    <td>Deepak Verma</td>
+                                    <td>8-Jul-26</td>
+                                    <td>6:00 - 7:00 PM</td>
+                                </tr>
+
+                                <tr>
+                                    <td>15</td>
+                                    <td>Strategic Cost Management</td>
+                                    <td>PGDM Exe-B&amp;FS and PGDM-FM</td>
+                                    <td>Bhavna Dadhich</td>
+                                    <td>8-Jul-26</td>
+                                    <td>6:00 - 8:00 PM</td>
+                                </tr>
+
+                                <tr>
+                                    <td>16</td>
+                                    <td>Cost Engineering and Contracts Management</td>
+                                    <td>PGDM Exe-C&amp;PM</td>
+                                    <td>Asha Oak</td>
+                                    <td>9-Jul-26</td>
+                                    <td>7:00 - 8:00 PM</td>
+                                </tr>
+
+                                <tr>
+                                    <td>17</td>
+                                    <td>Compensation Management and HR Audit</td>
+                                    <td>PGDM Exe-HCM</td>
+                                    <td>Ashish Mohture</td>
+                                    <td>9-Jul-26</td>
+                                    <td>7:00 - 8:00 PM</td>
+                                </tr>
+
+                                <tr>
+                                    <td>18</td>
+                                    <td>Mergers and Acquisitions</td>
+                                    <td>PGDM Exe-FM</td>
+                                    <td>Bhavna Dadhich</td>
+                                    <td>9-Jul-26</td>
+                                    <td>6:00 - 7:00 PM</td>
+                                </tr>
+
+                                <tr>
+                                    <td>19</td>
+                                    <td>Social Media Marketing</td>
+                                    <td>PGCM-DM</td>
+                                    <td>Deepak Verma</td>
+                                    <td>15-Jul-26</td>
+                                    <td>6:00 - 7:00 PM</td>
+                                </tr>
+
+                                <tr>
+                                    <td>20</td>
+                                    <td>Corporate Finance</td>
+                                    <td>PGDM Exe-B&amp;FS</td>
+                                    <td>Rohan Bhase</td>
+                                    <td>15-Jul-26</td>
+                                    <td>7:00 - 8:00 PM</td>
+                                </tr>
+
+                                <tr>
+                                    <td>21</td>
+                                    <td>Project Formulation and Real Estate Project Development</td>
+                                    <td>PGDM Exe-C&amp;PM</td>
+                                    <td>Asha Oak</td>
+                                    <td>16-Jul-26</td>
+                                    <td>7:00 - 8:00 PM</td>
+                                </tr>
+
+                                <tr>
+                                    <td>22</td>
+                                    <td>Social Media Analytics and Future Trends</td>
+                                    <td>PGCM-DM</td>
+                                    <td>Deepak Verma</td>
+                                    <td>17-Jul-26</td>
+                                    <td>6:00 - 7:00 PM</td>
+                                </tr>
+
+                                <tr>
+                                    <td>23</td>
+                                    <td>International Finance</td>
+                                    <td>PGDM Exe-FM</td>
+                                    <td>Dhirendra Kumar</td>
+                                    <td>17-Jul-26</td>
+                                    <td>7:00 - 8:00 PM</td>
+                                </tr>
+
+                                <tr>
+                                    <td>24</td>
+                                    <td>Financial Markets and Services</td>
+                                    <td>PGDM Exe-B&amp;FS, FM and PGDM-B&amp;FS</td>
+                                    <td>Rohan Bhase</td>
+                                    <td>22-Jul-26</td>
+                                    <td>6:30 - 8:30 PM</td>
+                                </tr>
+
+                                <tr>
+                                    <td>25</td>
+                                    <td>SEO &amp; SEM</td>
+                                    <td>PGCM-DM</td>
+                                    <td>Deepak Verma</td>
+                                    <td>23-Jul-26</td>
+                                    <td>6:00 - 7:00 PM</td>
+                                </tr>
+
+                                <tr>
+                                    <td>26</td>
+                                    <td>Construction Technology for Real Estate and Infrastructure Development</td>
+                                    <td>PGDM Exe-C&amp;PM</td>
+                                    <td>Asha Oak</td>
+                                    <td>23-Jul-26</td>
+                                    <td>7:00 - 8:00 PM</td>
+                                </tr>
+
+                                <tr>
+                                    <td>27</td>
+                                    <td>Management Intelligence System</td>
+                                    <td>PGDM-All</td>
+                                    <td>Sonali Kulkarni</td>
+                                    <td>24-Jul-26</td>
+                                    <td>6:00 - 8:00 PM</td>
+                                </tr>
+
+                                <tr>
+                                    <td>28</td>
+                                    <td>Digital Marketing Strategies</td>
+                                    <td>PGDM Exe-SMM</td>
+                                    <td>Deepak Verma</td>
+                                    <td>29-Jul-26</td>
+                                    <td>6:00 - 7:00 PM</td>
+                                </tr>
+
+                            </tbody>
+
+
+                        </table>
+                        <br>
+
+                        <h3 class="module-title"><strong> LABs</strong></h3>
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th>Sr No</th>
+                                    <th>Company's Name</th>
+                                    <th>Engagement Activity</th>
+                                    <th>Domain</th>
+                                    <th>Industry/Sector</th>
+                                    <th>Speaker - Webinar</th>
+                                    <th>Topic - Webinar</th>
+                                    <th>Date of Webinar</th>
+                                </tr>
+
+                                <tr>
+                                    <td>1</td>
+                                    <td>MITSDE</td>
+                                    <td>Oracle Primavera</td>
+                                    <td>All</td>
+                                    <td>Construction Management Project Management</td>
+                                    <td>Mr. B. T. Ade</td>
+                                    <td>MITSDE LAB's _Oracle Primavera</td>
+                                    <td>4-Jul-2026</td>
+                                </tr>
+                                <tr>
+                                    <td>2</td>
+                                    <td>MITSDE</td>
+                                    <td>Supply Chain Domain</td>
+                                    <td>All</td>
+                                    <td>Supply Chain</td>
+                                    <td>Prof.Mangesh Dhande</td>
+                                    <td>Supply Chain Analytics Emerging Trends in SCM and Logistics Achieving Supply Chain Integration</td>
+                                    <td>12-Jul-2026</td>
+                                </tr>
+                                <tr>
+                                    <td>3</td>
+                                    <td>MITSDE</td>
+                                    <td>JIRA</td>
+                                    <td>All</td>
+                                    <td>Project Management</td>
+                                    <td>Mr. Sakar Kalkotwar</td>
+                                    <td>JIRA</td>
+                                    <td>18-Jul-2026</td>
+                                </tr>
+                                <tr>
+                                    <td>4</td>
+                                    <td>MITSDE</td>
+                                    <td>Operations Research</td>
+                                    <td>All</td>
+                                    <td>Operations Management</td>
+                                    <td>Dr. Lalit Prasad</td>
+                                    <td>Operations Research</td>
+                                    <td>19-Jul-2026</td>
+                                </tr>
+
+                            </thead>
+                            </tbody>
+                        </table>
+
+                        <h3 class="module-title"><strong> MITSDE- BOOTCAMP</strong></h3>
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th>Sr No</th>
+                                    <th>Company's Name</th>
+                                    <th>Engagement Activity</th>
+                                    <th>Domain</th>
+                                    <th>Industry/Sector</th>
+                                    <th>Speaker - Webinar</th>
+                                    <th>Topic - Webinar</th>
+                                    <th>Date of Webinar</th>
+                                </tr>
+                                <tr>
+                                    <td>1</td>
+                                    <td>MITSDE</td>
+                                    <td>MITSDE -BOOTCAMP</td>
+                                    <td>All</td>
+                                    <td>Business Analytics</td>
+                                    <td>Ms. Nayana Menon</td>
+                                    <td>Bootcamp_SQL & Relational Databases</td>
+                                    <td>4-Jul-2026</td>
+                                </tr>
+                                <tr>
+                                    <td>2</td>
+                                    <td>MITSDE</td>
+                                    <td>MITSDE -BOOTCAMP</td>
+                                    <td>All</td>
+                                    <td>Business Analytics</td>
+                                    <td>Ms. Nayana Menon</td>
+                                    <td>Bootcamp_ Grouping, Relationships & Joins in SQL</td>
+                                    <td>5-Jul-2026</td>
+                                </tr>
+                                <tr>
+                                    <td>3</td>
+                                    <td>MITSDE</td>
+                                    <td>MITSDE -BOOTCAMP</td>
+                                    <td>All</td>
+                                    <td>Business Analytics</td>
+                                    <td>Dr. Chanakya Kumar</td>
+                                    <td>Power BI Fundamentals & Power Query Essentials</td>
+                                    <td>12-Jul-2026</td>
+                                </tr>
+                                <tr>
+                                    <td>4</td>
+                                    <td>MITSDE</td>
+                                    <td>MITSDE -BOOTCAMP</td>
+                                    <td>All</td>
+                                    <td>Business Analytics</td>
+                                    <td>Dr. Chanakya Kumar</td>
+                                    <td>Bootcamp_Power BI Data Modeling & Query Management</td>
+                                    <td>18-Jul-2026</td>
+                                </tr>
+                                <tr>
+                                    <td>5</td>
+                                    <td>MITSDE</td>
+                                    <td>MITSDE -BOOTCAMP</td>
+                                    <td>All</td>
+                                    <td>Business Analytics</td>
+                                    <td>Dr. Chanakya Kumar</td>
+                                    <td>Certified Professional Excel Analyst (CPEA) Certification - Session 1</td>
+                                    <td>19-Jul-2026</td>
+                                </tr>
+                                <tr>
+                                    <td>6</td>
+                                    <td>MITSDE</td>
+                                    <td>MITSDE -BOOTCAMP</td>
+                                    <td>All</td>
+                                    <td>Business Analytics</td>
+                                    <td>Ms. Nayana Menon</td>
+                                    <td>Introduction to Python & Programming Fundamentals</td>
+                                    <td>26-Jul-2026</td>
+                                </tr>
+                                <tr>
+                                    <td>7</td>
+                                    <td>MITSDE</td>
+                                    <td>MITSDE -BOOTCAMP</td>
+                                    <td>All</td>
+                                    <td>Business Analytics</td>
+                                    <td>Dr. Chanakya Kumar</td>
+                                    <td>Certified Professional Excel Analyst (CPEA) Certification - Session 2</td>
+                                    <td>26-Jul-2026</td>
+                                </tr>
+
+                            </thead>
+                            </tbody>
+                        </table>
+
+                        <h3 class="module-title"><strong> SynergySphere</strong></h3>
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th>Sr No</th>
+                                    <th>Company's Name</th>
+                                    <th>Engagement Activity</th>
+                                    <th>Domain</th>
+                                    <th>Industry/Sector</th>
+                                    <th>Speaker - Webinar</th>
+                                    <th>Topic - Webinar</th>
+                                    <th>Date of Webinar</th>
+                                </tr>
+
+                                <tr>
+                                    <td>1</td>
+                                    <td>MITSDE</td>
+                                    <td>SynergySphere</td>
+                                    <td>Process Piping Engineering / Plant Design Engineering</td>
+                                    <td>Oil & Gas, Power, Pharmaceuticals, Fertilizers, Water Treatment, Process Plant Engineering</td>
+                                    <td>Mr. Sunil Ganpat Pangale</td>
+                                    <td>SynergySphere_Piping Engineering: Designing the Backbone of Modern Industries</td>
+                                    <td>25- Jul - 2026</td>
+                                </tr>
+
+                            </thead>
+                            </tbody>
+                        </table>
+
+                        <!-- Aug  2026  -->
 
                         <!-- July  2026  -->
                         <h3 class="module-title-new"><strong> Cohort Live session </strong></h3>
