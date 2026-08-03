@@ -1073,7 +1073,7 @@ a { text-decoration: none; }
   flex-direction: column;
   border-radius: 10px;
   padding: 34px;
-  background: linear-gradient(180deg, #fe7c04 0%, #ffd6ab 100%);
+  background: #fff;
 }
 .input-group input {
   border: 0;

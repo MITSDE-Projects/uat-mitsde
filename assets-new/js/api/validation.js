@@ -306,6 +306,41 @@ function do_form_submit(form_id) {
         });
 
         
+      } else if (form_id == "menuContactknow") {
+        document.getElementById("submitbtnknow").style.visibility = "hidden";
+        var lead = {
+          AuthToken: "MITSDE-11-06-2020",
+          Source: "mitsde",
+          FirstName: $("#menuContactknow [name='first_name3']").val(),
+          Email:     $("#menuContactknow [name='email3']").val(),
+          MobileNumber: $("#menuContactknow [name='MobileNumber']").val(),
+          LeadSource: "Organic-Direct-Form",
+          LeadType: "Online",
+          LeadName: "Contact us form leads",
+          Course: "Not Known",
+          State:  $("#menuContactknow [name='state']").val(),
+          Textb1: $("#menuContactknow [name='HQ']").val(),
+        };
+        //alert(JSON.stringify(lead));
+        //alert(lead);
+        $.ajax({
+          url: "https://thirdpartyapi.extraaedge.com/api/SaveRequest",
+          type: "POST",
+          data: JSON.stringify(lead),
+          dataType: "Text",
+          crossDomain: true,
+          contentType: "application/json; charset=utf-8",
+          success: function (response) {
+            $("#" + form_id).submit();
+          },
+          error: function (response) {
+            //alert(JSON.stringify(response));
+            alert("You have already submited a form");
+            location.reload();
+          },
+        });
+
+        
       } else if (form_id == "menuContactFlotingCity") {
         //document.getElementsByClassName("submitbtn")[1].disabled=true;
         document.getElementById("submitbtnsticky").style.visibility = "hidden";
