@@ -85,12 +85,21 @@
         <div class="cards-scroll-strip">
           <div class="floating-cards left">
             <!-- Video card 1 (woman with headset) -->
-            <div class="mini-card">
+            <!-- <div class="mini-card">
               <img class="mc-bg" src="assets-new/images/video-card-img1.jpg" alt="Intro Video" />
               <div class="mc-overlay" style="background: rgba(0, 0, 0, 0.12)"></div>
               <div class="mc-play">
                 <div class="mc-play-tri"></div>
               </div>
+            </div> -->
+
+            <div class="mini-card">
+              <img class="mc-bg" src="assets-new/images/placement-mini-bg.webp" alt="Placement" />
+              <div class="mc-title">
+                <!-- <div class="mc-title-big">AI</div> -->
+                <div class="mc-title-sm">Placement</div>
+              </div>
+              <div class="mc-label">Know More</div>
             </div>
 
             <!-- AI Masterclass orange card -->
@@ -98,7 +107,7 @@
               <img class="mc-bg" src="assets-new/images/ai-card-bg.jpg" alt="AI Masterclass" />
               <div class="mc-overlay" style="background: rgba(255, 87, 0, 0.72)"></div>
               <div class="mc-title">
-                <div class="mc-title-big">AI</div>
+                <div class="mc-title-big text-start">AI</div>
                 <div class="mc-title-sm">Masterclass</div>
               </div>
               <div class="mc-label">Know More</div>
@@ -117,20 +126,19 @@
 
             <!-- Corporate Upscaling orange card -->
             <div class="mini-card">
-              <img class="mc-bg" src="assets-new/images/csbe-card-bg.jpg" alt="Corporate Upscaling" />
+              <img class="mc-bg" src="assets-new/images/international-card-bg.webp" alt="Corporate Upscaling" />
               <div class="mc-overlay" style="background: rgba(255, 87, 0, 0.72)"></div>
               <!-- CSBE logo white -->
-              <!-- <div class="mc-title" style="top: 42%; transform: translate(-50%, -50%)">
-                <img src="assets-new/images/csbe.png" alt="CSBE" style="
-                    height: 52px;
+              <div class="mc-title" style="top: 25%; left:30%;">
+                <img src="assets-new/images/plane-logo.png" alt="CSBE" style="
+                    height: 100%;
                     object-fit: contain;
                     filter: brightness(0) invert(1);
                   " />
               </div>
-              <div class="mc-label">Corporate Upscaling</div> -->
               <div class="mc-title">
                 <div class="mc-title-sm">International</div>
-                <div class="mc-title-big">Relations</div>
+                <div class="mc-title-sm text-start">Relations</div>
               </div>
               <div class="mc-label"><a href="international-relations" class="text-dark">Know More</a></div>
             </div>
@@ -619,7 +627,7 @@
 
                 <!-- <div class="program-overlay"></div> -->
 
-                <img src="assets-new/images/program-1.png" class="program-character">
+                <img src="assets-new/images/program-4.webp" class="program-character">
 
               </div>
 
@@ -658,7 +666,7 @@
 
                 <!-- <div class="program-overlay"></div> -->
 
-                <img src="assets-new/images/program-2.png" class="program-character">
+                <img src="assets-new/images/program-5.webp" class="program-character">
 
               </div>
 
@@ -697,7 +705,7 @@
 
                 <!-- <div class="program-overlay"></div> -->
 
-                <img src="assets-new/images/program-3.png" class="program-character">
+                <img src="assets-new/images/program-6.webp" class="program-character">
 
               </div>
 
