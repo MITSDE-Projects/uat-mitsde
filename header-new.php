@@ -138,7 +138,7 @@ else $nav_active = '';
         <a href="international-relations"><strong>International Relations</strong></a>
 
         <div class="nav-actions">
-            <button class="btn-outline">Login</button>
+            <a href="https://mitpro.mitsde.com/"><button class="btn-outline">Login</button></a>
             <button class="btn-outline" data-bs-toggle="modal" data-bs-target="#eqModal">Apply Now</button>
         </div>
     </nav>

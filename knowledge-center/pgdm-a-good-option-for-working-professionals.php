@@ -146,7 +146,7 @@
                     <a href="knowledge-center/mba-vs-pgdm-which-one-is-better-for-your-career"><button class="ph-spec-pill">PGDM vs MBA</button></a>
                     <a href="knowledge-center/pgdm-for-career-switchers"><button class="ph-spec-pill">Career Switch</button></a>
                     <a href="knowledge-center/pgdm-a-good-option-for-working-professionals"><button class="ph-spec-pill is-active">Working Professionals</button></a>
-                    <a href="knowledge-center/scope-of-pgdm"><button class="ph-spec-pill">Scope of PGDM</button></a>
+                    <a href="knowledge-center/scope-of-pgdm-in-india"><button class="ph-spec-pill">Scope of PGDM</button></a>
                     <a href="knowledge-center/finance-careers"><button class="ph-spec-pill">Finance Careers</button></a>
                     <a href="knowledge-center/pgdm-marketing"><button class="ph-spec-pill">PGDM Marketing</button></a>
                     <a href=""><button class="ph-spec-pill">PGDM Operations</button></a>
