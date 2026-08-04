@@ -4257,3 +4257,5 @@ input.valid, select.valid, textarea.valid { border-color: #22c55e !important; }
 .fc-bio-rest { display: none; }
 .fc-read-more { background: none; border: none; color: var(--primary-orange); font-size: 13px; font-weight: 600; cursor: pointer; padding: 0; text-decoration: underline; margin-top: 4px; }
 .fc-read-more:hover { color: var(--accent-orange); }
+
+.recruiter-logo { width: 90px; height: 36px; object-fit: contain; }

@@ -54,7 +54,6 @@
           <li><a href="pgdm-executive-emba-dual-program">Dual Programs</a></li>
           <li><a href="careers">Careers</a></li>
           <li><a href="application-process">Admissions</a></li>
-          <li><a href="csbe">Corporate Upskilling</a></li>
           <li><a href="refer-friend">Refer a Friend</a></li>
           <li><a href="about-us">About Us</a></li>
           <li><a href="https://blog.mitsde.com/">Blog / Insights</a></li>
