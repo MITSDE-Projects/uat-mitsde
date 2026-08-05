@@ -99,7 +99,7 @@
                 <!-- <div class="mc-title-big">AI</div> -->
                 <div class="mc-title-sm">Placement</div>
               </div>
-              <div class="mc-label">Know More</div>
+              <div class="mc-label"><a href="placement" class="text-dark">Know More</a></div>
             </div>
 
             <!-- AI Masterclass orange card -->
@@ -353,7 +353,7 @@
         <div class="quiz-right">
           <!-- Cube: decorative, floats outside card -->
 
-          <div class="quiz-card">
+          <div class="quiz-card" id="quizCard">
             <div class="quiz-cube">
               <img src="assets-new/images/rubiks-cube.gif" alt="AI Cube" />
             </div>
@@ -369,6 +369,76 @@
             </div>
             <div class="quiz-dots" id="quizDots"></div>
           </div>
+
+          <!-- FORM PANEL -->
+          <div class="quiz-form-panel" id="quizFormPanel">
+            <div class="qfp-left">
+              <h3 class="qfp-heading">Where should we send your recommendation?</h3>
+              <p class="qfp-sub">Please fill your details</p>
+            </div>
+            <div class="qfp-right">
+              <form id="quizLeadForm" name="quizLeadForm" novalidate accept-charset="utf-8">
+                <input type="hidden" name="csrf_test_name" value="e678298614a47d7e40efe0ccaf02b49c">
+                <input type="hidden" name="product_id3" value="0">
+                <input type="hidden" name="request_type3" value="Enquiry">
+                <input type="hidden" name="submitthirdcontact" value="submitthirdcontact">
+                <input type="hidden" name="Divice" value="<?php echo $divice; ?>">
+                <input type="hidden" name="PageName" value="Homepage Quiz">
+                <input type="hidden" name="latitude" value="">
+                <input type="hidden" name="longitude" value="">
+                <input type="text" name="website" tabindex="-1" autocomplete="off" style="position:absolute;left:-9999px;opacity:0;pointer-events:none;">
+                <div class="eq-field">
+                  <input type="text" name="first_name3" class="eq-input" placeholder="Full Name *" validate="Required|Full Name*" autocomplete="off">
+                </div>
+                <div class="eq-field">
+                  <input type="email" name="email3" class="eq-input" placeholder="Email Address *" validate="Email|Email*" autocomplete="off">
+                </div>
+                <div class="eq-field">
+                  <input type="tel" name="MobileNumber" class="eq-input" placeholder="Mobile Number *" maxlength="10" validate="Required|Phone|Phone*" autocomplete="off">
+                </div>
+                <div class="eq-field">
+                  <select name="state" class="eq-input eq-select" validate="Required|State|State*">
+                    <option value="">Select State *</option>
+                    <option value="Andhra Pradesh">Andhra Pradesh</option><option value="Andaman and Nicobar Islands">Andaman and Nicobar Islands</option>
+                    <option value="Arunachal Pradesh">Arunachal Pradesh</option><option value="Assam">Assam</option><option value="Bihar">Bihar</option>
+                    <option value="Chandigarh">Chandigarh</option><option value="Chhattisgarh">Chhattisgarh</option><option value="Dadar and Nagar Haveli">Dadar and Nagar Haveli</option>
+                    <option value="Daman and Diu">Daman and Diu</option><option value="Delhi">Delhi</option><option value="Lakshadweep">Lakshadweep</option>
+                    <option value="Puducherry">Puducherry</option><option value="Goa">Goa</option><option value="Gujarat">Gujarat</option>
+                    <option value="Haryana">Haryana</option><option value="Himachal Pradesh">Himachal Pradesh</option><option value="Jammu and Kashmir">Jammu and Kashmir</option>
+                    <option value="Jharkhand">Jharkhand</option><option value="Karnataka">Karnataka</option><option value="Kerala">Kerala</option>
+                    <option value="Madhya Pradesh">Madhya Pradesh</option><option value="Maharashtra">Maharashtra</option><option value="Manipur">Manipur</option>
+                    <option value="Meghalaya">Meghalaya</option><option value="Mizoram">Mizoram</option><option value="Nagaland">Nagaland</option>
+                    <option value="Odisha">Odisha</option><option value="Punjab">Punjab</option><option value="Rajasthan">Rajasthan</option>
+                    <option value="Sikkim">Sikkim</option><option value="Tamil Nadu">Tamil Nadu</option><option value="Telangana">Telangana</option>
+                    <option value="Tripura">Tripura</option><option value="Uttar Pradesh">Uttar Pradesh</option><option value="Uttarakhand">Uttarakhand</option>
+                    <option value="West Bengal">West Bengal</option>
+                  </select>
+                </div>
+                <div class="eq-field">
+                  <select name="HQ" class="eq-input eq-select" validate="Required|HQ*">
+                    <option value="">Highest Qualification *</option>
+                    <option value="graduation">Graduation</option>
+                    <option value="post graduation">Post Graduation</option>
+                    <option value="Diploma">Diploma</option>
+                  </select>
+                </div>
+                <button type="button" id="quizSubmitBtn" class="eq-submit" onclick="validate('quizLeadForm')">Register Now</button>
+              </form>
+            </div>
+          </div>
+
+          <!-- THANKS PANEL -->
+          <div class="quiz-thanks-panel" id="quizThanksPanel">
+            <div class="qtp-check"><i class="fa-solid fa-check"></i></div>
+            <h2 class="qtp-heading">Thanks, <span id="quizLeadName">there</span> you're all set!</h2>
+            <p class="qtp-body">Based on your answers, our academic advisor is preparing a personalised Career Acceleration path for you. Our expert will reach out within 24 hours to walk you through what fits best for your goals.</p>
+            <div class="qtp-actions">
+              <!-- <button class="qtp-btn-dark">Talk to an Expert Now</button> -->
+              <a href="tel:+9112207207" class="qtp-btn-dark">Talk to an Expert Now</a>
+              <a href="./#program-section" class="qtp-btn-outline">Explore Programs</a>
+            </div>
+          </div>
+
         </div>
 
       </div>
@@ -442,10 +512,9 @@
         answers[currentQ] = index;
         renderQuiz();
         if (currentQ < quizData.length - 1) {
-          advanceTimer = setTimeout(function () {
-            currentQ++;
-            renderQuiz();
-          }, 420);
+          advanceTimer = setTimeout(function () { currentQ++; renderQuiz(); }, 420);
+        } else {
+          advanceTimer = setTimeout(showQuizForm, 600);
         }
       }
 
@@ -462,10 +531,21 @@
 
       renderQuiz();
     })();
+
+    function showQuizForm() {
+      document.getElementById('quizCard').style.display = 'none';
+      document.getElementById('quizFormPanel').style.display = 'flex';
+    }
+
+    function showQuizThanks(firstName) {
+      document.getElementById('quizLeadName').textContent = firstName || 'there';
+      document.getElementById('quizFormPanel').style.display = 'none';
+      document.getElementById('quizThanksPanel').style.display = 'flex';
+    }
   </script>
 
   <!-- ── Section: Programs Designed for AI-Powered Leaders ── -->
-  <section class="programs-section">
+  <section class="programs-section" id="program-section">
 
     <div class="container">
 
@@ -754,10 +834,10 @@
 
         <div class="mit-adv-right">
           <div class="mit-adv-video-card">
-            <div class="mit-adv-thumb-wrap" id="mitAdvThumbWrap" data-yt-id="D7QDQZDbBmI" role="button" tabindex="0" aria-label="Play MITSDE Unique Offerings video">
+            <div class="mit-adv-thumb-wrap" id="mitAdvThumbWrap" data-yt-id="hTOwfKnCROA" role="button" tabindex="0" aria-label="Play MITSDE Unique Offerings video">
               <!-- <img src="assets-new/images/mit-advantage.png" alt="MITSDE Unique Offerings" class="mit-adv-thumb" /> -->
-              <img src="https://img.youtube.com/vi/D7QDQZDbBmI/maxresdefault.jpg"
-                onerror="this.onerror=null; this.src='https://img.youtube.com/vi/D7QDQZDbBmI/hqdefault.jpg';"
+              <img src="https://img.youtube.com/vi/hTOwfKnCROA/maxresdefault.jpg"
+                onerror="this.onerror=null; this.src='https://img.youtube.com/vi/hTOwfKnCROA/hqdefault.jpg';"
                 alt="MITSDE Unique Offerings" class="mit-adv-thumb" />
               <div class="mit-adv-play-btn">
                 <svg viewBox="0 0 68 48" width="72" height="52">

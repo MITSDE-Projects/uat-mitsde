@@ -46,6 +46,7 @@
         </nav>
         <div class="container">
             <div class="hero-background"></div>
+
             <h1 class="page-hero-heading">
                 <span class="hero-bg-text">About</span>
                 <span class="page-hero-title">MIT School of Distance Education</span>
@@ -91,7 +92,7 @@
                     <h2 class="stage-title text-orange">Prof (Dr.) Vishwanath D Karad</h2>
                     <p class="section-sub">
                         Founder &amp; Chief Patron - MAEER's MIT Group of Institutions<br />
-                        Founder President - MIT-WPU
+                        Founder President - MIT
                     </p>
                     <hr class="about-leader-hr" />
                     <div class="sub-text">
@@ -145,6 +146,24 @@
 
             <!-- Leader 3 -->
             <article class="about-leader-card">
+                <div>
+                    <img src="assets-new/images/mr-digvijay-karad.webp" alt="Digvijay Karad - Group Director, MIT INDIA, MITSDE, VGWS"
+                        class="about-leader-img" width="260" height="260" loading="lazy" />
+                </div>
+                <div class="about-leader-content">
+                    <h3 class="stage-title text-orange">Mr. Digvijay Karad</h3>
+                    <p class="section-sub">Group Director, MIT INDIA, MITSDE, VGWS</p>
+                    <hr class="about-leader-hr" />
+                    <div class="sub-text">
+                        <p>Representing a new generation of institutional leadership, Mr. Digvijay Karad is focused on strengthening innovation, entrepreneurship, and future-oriented learning ecosystems across MIT INDIA. His work spans educational innovation, startup incubation, industry collaboration, and the development of platforms that connect academia with emerging economic and societal needs.</p>
+                        <p>His vision reflects MIT INDIA's continuing commitment to preparing learners and institutions for an evolving global future.</p>
+                        
+                    </div>
+                </div>
+            </article>
+
+            <!-- Leader 4 -->
+            <article class="about-leader-card about-leader-card--reverse">
                 <div>
                     <img src="assets-new/images/dr-suhrud-neurgaonkar.webp" alt="Dr. Suhrud Neurgaonkar - Director, MITSDE"
                         class="about-leader-img" width="260" height="260" loading="lazy" />

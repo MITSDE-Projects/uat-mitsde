@@ -341,6 +341,44 @@ function do_form_submit(form_id) {
         });
 
         
+      } else if (form_id == "quizLeadForm") {
+        document.getElementById("quizSubmitBtn").style.visibility = "hidden";
+        var lead = {
+          AuthToken: "MITSDE-11-06-2020",
+          Source: "mitsde",
+          FirstName: $("#quizLeadForm [name='first_name3']").val(),
+          Email:     $("#quizLeadForm [name='email3']").val(),
+          MobileNumber: $("#quizLeadForm [name='MobileNumber']").val(),
+          LeadSource: "Organic-Direct-Form",
+          LeadType: "Online",
+          LeadName: "Contact us form leads",
+          Course: "Not Known",
+          State:  $("#quizLeadForm [name='state']").val(),
+          Textb1: $("#quizLeadForm [name='HQ']").val(),
+        };
+        $.ajax({
+          url: "https://thirdpartyapi.extraaedge.com/api/SaveRequest",
+          type: "POST",
+          data: JSON.stringify(lead),
+          dataType: "Text",
+          crossDomain: true,
+          contentType: "application/json; charset=utf-8",
+          success: function (response) {
+            var fd = new FormData(document.getElementById("quizLeadForm"));
+            fetch("ai-thankyou.php", { method: "POST", body: fd })
+              .finally(function () {
+                if (typeof showQuizThanks === "function") {
+                  showQuizThanks(lead.FirstName.split(" ")[0]);
+                }
+              });
+          },
+          error: function (response) {
+            alert("You have already submitted a form");
+            location.reload();
+          },
+        });
+
+
       } else if (form_id == "menuContactFlotingCity") {
         //document.getElementsByClassName("submitbtn")[1].disabled=true;
         document.getElementById("submitbtnsticky").style.visibility = "hidden";

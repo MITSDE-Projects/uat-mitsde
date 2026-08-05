@@ -4294,3 +4294,28 @@ input.valid, select.valid, textarea.valid { border-color: #22c55e !important; }
   .ai_mobile_img{display:block}
   .ai-cta-btn{width:100%}
 }
+
+/* ── Quiz Form Panel ── */
+.quiz-form-panel{display:none;flex-direction:row;border-radius:20px;overflow:hidden;box-shadow:0 8px 32px rgba(0,0,0,.10);min-height:340px}
+.qfp-left{flex:0 0 42%;padding:2rem 1.75rem;display:flex;flex-direction:column;justify-content:center;background:linear-gradient(150deg, var(--primary-orange) 0%, #9a3412 100%)}
+.qfp-heading{font-size:1.2rem;font-weight:700;color:#fff;line-height:1.4;margin-bottom:.6rem}
+.qfp-sub{font-size:.9rem;color:#fff;}
+.qfp-right{flex:1;background:#fff;padding:1.3rem 1.4rem;display:flex;flex-direction:column;gap:0;justify-content:center}
+.qfp-right form{display:flex;flex-direction:column}
+.qfp-right .eq-submit{background:linear-gradient(90deg, var(--primary-orange), var(--accent-orange));margin-top:.3rem;cursor: pointer;transition: opacity .15s, transform .15s;}
+.qfp-right .eq-submit:hover { opacity: .9; transform: translateY(-1px); }
+
+/* ── Quiz Thanks Panel ── */
+.quiz-thanks-panel{display:none;flex-direction:column;align-items:start;text-align:start;background:#fff;border-radius:20px;padding:2.5rem 2rem;box-shadow:0 8px 32px rgba(0,0,0,.10)}
+.qtp-check{width:58px;height:58px;border-radius:50%;background:#22c55e;display:flex;align-items:center;justify-content:center;color:#fff;font-size:1.4rem;margin-bottom:1.1rem}
+.qtp-heading{font-size:1.6rem;font-weight:800;color:var(--text-dark);margin-bottom:.6rem}
+.qtp-body{font-size:.88rem;color:var(--text-light);max-width:460px;line-height:1.65;margin-bottom:1.4rem}
+.qtp-actions{display:flex;gap:.75rem;flex-wrap:wrap;justify-content:start;}
+.qtp-btn-dark{padding:.6rem 1.2rem;background:var(--text-dark);color:#fff;border:none;border-radius:50px;font-size:.84rem;font-weight:600;cursor:pointer}
+.qtp-btn-outline{padding:.6rem 1.2rem;background:transparent;color:var(--text-dark);border:1.5px solid var(--text-dark);border-radius:50px;font-size:.84rem;font-weight:600;text-decoration:none}
+@media(max-width:768px){
+  .quiz-form-panel{flex-direction:column}
+  .qfp-left{padding:1.25rem}
+  .qfp-right{padding:1.25rem}
+  .qtp-heading{font-size:1.3rem}
+}
