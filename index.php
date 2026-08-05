@@ -110,7 +110,7 @@
                 <div class="mc-title-big text-start">AI</div>
                 <div class="mc-title-sm">Masterclass</div>
               </div>
-              <div class="mc-label">Know More</div>
+              <div class="mc-label"><a href="ai-masterclass" class="text-dark">Know More</a></div>
             </div>
           </div>
           <div class="floating-cards right">
