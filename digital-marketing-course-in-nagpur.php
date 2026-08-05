@@ -64,6 +64,36 @@
     <!----->
 
     <?php include "new-city-page-google-code.html"; ?>
+    <script type="application/ld+json">
+{
+        "@context": "https://schema.org/",
+        "@type": "Product",
+        "name": "Digital Marketing Course in Nagpur | Fees, Placement, Certification",
+        "image": "https://mitsde.com/assets/images/city/digital-marketing-course-in-mumbai.jpg",
+        "description": "Upgrade your digital skills with AI-driven digital marketing courses in Nagpur by MIT SDE. Learn SEO, social media, content marketing, and advanced AI tools for success!",
+        "brand": {
+            "@type": "Brand",
+            "name": "MITSDE"
+        },
+        "offers": {
+            "@type": "Offer",
+            "url": "https://mitsde.com/digital-marketing-course-in-nagpur",
+            "priceCurrency": "INR",
+            "price": "64000",
+            "priceValidUntil": "2026-12-31",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1",
+            "ratingCount": "10"
+        }
+    }
+</script>
+
 </head>
 
 <body>
@@ -770,19 +800,23 @@
                             <div class="col-md-12 col-lg-4 fintech-certi fee-section">
                                 <h4>Program Fees</h4>
                                 <div class="price-enquiry">
-                                    <h3>₹ 80,000 /-</h3>
-                                    <button type="button" class="btn btn-primary mit-button">Enquire Now</button>
+                                    <h3>₹ 64,000 /-</h3>
+                                    <?php include "single-common-button-add-all-fees-courses-code.php" ?>
                                 </div>
-                                <div class="note-list">
-                                    <strong>Note : </strong>
-                                    <p> Scholarship Applicable for Eligible Students <br>No cost 6 or 9 Month EMI Option
-                                        Available</p>
+                                <div class="note-list mb-4" style="list-style-type: none;">
+                                    <strong class="fs-5">Scholarship : </strong>
+                                    <li><span class="newright-icon1"></span> Alumni– up to 25% in course fees.</li>
+                                    <li><span class="newright-icon1"></span> Defence personal- up to 30% in course fees.
+                                    </li>
+                                    <li><span class="newright-icon1"></span> Specially Abled- up to 20% in course fees.
+                                    </li>
+
                                 </div>
                             </div>
                             <div class="col-md-12 col-lg-8 fin-feature">
                                 <div class="fee-distribution">
                                     <div class="fee-card">
-                                        <h5 class="card-title">Pro Certificate in digital marketing</h5>
+                                        <h5 class="card-title">Fees Options</h5>
                                         <div class="card-body">
                                             <button type="button" class="btn btn-primary mit-button w-100">Program
                                                 Fees</button>
@@ -797,27 +831,28 @@
                                     <div class="fee-card">
                                         <h5 class="card-title">Course fee - Installment</h5>
                                         <div class="card-body">
-                                            <button type="button" class="btn btn-primary mit-button w-100">₹ 80,000
+                                            <button type="button" class="btn btn-primary mit-button w-100">₹ 64,000
                                                 /-</button>
                                             <ul class="fee-list">
-                                                <li>₹ 40,000 /- </li>
-                                                <li>Within 2 months - ₹ 40,000 /- </li>
-
+                                                <li>₹ 25,000 /- </li>
+                                                <li>Within 3 months - ₹ 19,500/-</li>
+                                                <li>Within 6 months - ₹ 19,500/-</li>
                                             </ul>
                                         </div>
                                     </div>
                                     <div class="fee-card">
                                         <h5 class="card-title">Course fee - Lumpsum</h5>
                                         <div class="card-body">
-                                            <button type="button" class="btn btn-primary mit-button w-100">₹ 80,000
+                                            <button type="button" class="btn btn-primary mit-button w-100">₹ 64,000
                                                 /-</button>
                                             <ul class="fee-list">
-                                                <li>Discount- ₹ 5,000 /-</li>
+                                                <li>Discount- ₹ 6,000 /- </li>
                                                 <li>-</li>
-                                                <li><b>Total- ₹ 75,000 /-</b></li>
+                                                <li><b>Total Lumpsum- ₹ 58,000 /-</b></li>
                                             </ul>
                                         </div>
                                     </div>
+
                                 </div>
                             </div>
                         </div>
