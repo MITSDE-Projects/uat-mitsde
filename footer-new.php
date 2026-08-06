@@ -50,7 +50,7 @@
         <h5 class="sf-nav-heading">Quick Links</h5>
         <ul class="sf-nav-list">
           <li><a href="./">Home</a></li>
-          <li><a href="international-relations">International Relations</a></li>
+          <li><a href="global-exposure">Global Exposure</a></li>
           <li><a href="pgdm-executive-emba-dual-program">Dual Programs</a></li>
           <li><a href="careers">Careers</a></li>
           <li><a href="application-process">Admissions</a></li>

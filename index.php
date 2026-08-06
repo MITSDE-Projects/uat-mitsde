@@ -137,10 +137,10 @@
                   " />
               </div>
               <div class="mc-title">
-                <div class="mc-title-sm">International</div>
-                <div class="mc-title-sm text-start">Relations</div>
+                <div class="mc-title-big text-start">Global</div>
+                <div class="mc-title-sm text-start">Exposure</div>
               </div>
-              <div class="mc-label"><a href="international-relations" class="text-dark">Know More</a></div>
+              <div class="mc-label"><a href="global-exposure" class="text-dark">Know More</a></div>
             </div>
           </div>
         </div><!-- /.cards-scroll-strip -->

@@ -135,7 +135,7 @@ else $nav_active = '';
 
         <!-- <a href="#">Career Support Hub</a>
         <span class="divider">|</span> -->
-        <a href="international-relations"><strong>Global Exposure</strong></a>
+        <a href="global-exposure"><strong>Global Exposure</strong></a>
 
         <div class="nav-actions">
             <a href="https://mitpro.mitsde.com/"><button class="btn-outline">Login</button></a>
@@ -353,8 +353,8 @@ else $nav_active = '';
                     <li><a href="knowledge-center/pgdm-a-good-option-for-working-professionals"><span>Working Professionals</span><svg class="mega-panel-item-arrow" viewBox="0 0 20 10" fill="none"><path d="M0 5h18M14 1l4 4-4 4" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a></li>
                     <li><a href="knowledge-center/scope-of-pgdm-in-india"><span>Scope of PGDM</span><svg class="mega-panel-item-arrow" viewBox="0 0 20 10" fill="none"><path d="M0 5h18M14 1l4 4-4 4" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a></li>
                     <li><a href="knowledge-center/best-career-opportunities-after-completing-a-finance-course"><span>Finance Careers</span><svg class="mega-panel-item-arrow" viewBox="0 0 20 10" fill="none"><path d="M0 5h18M14 1l4 4-4 4" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a></li>
-                    <li><a href="knowledge-center/how-a-pgdm-in-marketing-shapes-your-career-trajectory"><span>PGDM Marketing</span><svg class="mega-panel-item-arrow" viewBox="0 0 20 10" fill="none"><path d="M0 5h18M14 1l4 4-4 4" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a></li>
-                    <li><a href="knowledge-center/jobs-after-pgdm-in-operations-management"><span>PGDM Operations</span><svg class="mega-panel-item-arrow" viewBox="0 0 20 10" fill="none"><path d="M0 5h18M14 1l4 4-4 4" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a></li>
+                    <!-- <li><a href="knowledge-center/how-a-pgdm-in-marketing-shapes-your-career-trajectory"><span>PGDM Marketing</span><svg class="mega-panel-item-arrow" viewBox="0 0 20 10" fill="none"><path d="M0 5h18M14 1l4 4-4 4" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a></li>
+                    <li><a href="knowledge-center/jobs-after-pgdm-in-operations-management"><span>PGDM Operations</span><svg class="mega-panel-item-arrow" viewBox="0 0 20 10" fill="none"><path d="M0 5h18M14 1l4 4-4 4" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a></li> -->
                 </ul>
             </div>
 

@@ -149,8 +149,8 @@
                     <a href="knowledge-center/working-professionals"><button class="ph-spec-pill">Working Professionals</button></a>
                     <a href="knowledge-center/scope-of-pgdm-in-india"><button class="ph-spec-pill">Scope of PGDM</button></a>
                     <a href="knowledge-center/finance-careers"><button class="ph-spec-pill">Finance Careers</button></a>
-                    <a href="knowledge-center/pgdm-marketing"><button class="ph-spec-pill">PGDM Marketing</button></a>
-                    <a href=""><button class="ph-spec-pill">PGDM Operations</button></a>
+                    <!-- <a href="knowledge-center/pgdm-marketing"><button class="ph-spec-pill">PGDM Marketing</button></a>
+                    <a href=""><button class="ph-spec-pill">PGDM Operations</button></a> -->
                 </div>
                 <p class="ph-specs-hint">Select a category above to explore all available specializations, fees, duration, and learning outcomes.</p>
             </div>
