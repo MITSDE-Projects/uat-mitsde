@@ -138,7 +138,7 @@ else $nav_active = '';
         <a href="global-exposure"><strong>Global Exposure</strong></a>
 
         <div class="nav-actions">
-            <a href="https://mitpro.mitsde.com/"><button class="btn-outline">Login</button></a>
+            <a href="https://mitpro.mitsde.com/" target="_blank"><button class="btn-outline">Login</button></a>
             <button class="btn-outline" data-bs-toggle="modal" data-bs-target="#eqModal">Apply Now</button>
         </div>
     </nav>
@@ -458,7 +458,7 @@ else $nav_active = '';
     <a href="#">Career Support Hub</a>
     <a href="#"><strong>Corporate Acceleration</strong></a>
     <div class="mobile-menu-actions">
-        <button class="btn-outline">Login</button>
+        <a href="https://mitpro.mitsde.com/" target="_blank" class="btn-outline">Login</a>
         <button class="btn-outline" data-bs-toggle="modal" data-bs-target="#eqModal">Apply Now</button>
     </div>
 </div>
