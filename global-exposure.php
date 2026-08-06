@@ -71,7 +71,7 @@
             opacity: 0.2;
         }
         .ge-hero-globe {
-            position: absolute; right: -20px; top: 50%; transform: translateY(-50%);
+            position: absolute; right: 80px; top: 50%; transform: translateY(-50%);
             width: 420px; height: 420px; pointer-events: none; opacity: 0.22;
         }
         .ge-hero-content { position: relative; z-index: 1; }
@@ -303,6 +303,27 @@
         .ge-faq-a { font-size: 13.5px; color: var(--ge-text-sec); line-height: 1.65; padding-bottom: 18px; display: none; }
         .ge-faq-item.open .ge-faq-a { display: block; }
 
+        /* ── ANIMATIONS ── */
+        @keyframes ge-globe-spin {
+            from { transform: rotate(0deg); }
+            to   { transform: rotate(360deg); }
+        }
+        .ge-globe-inner {
+            transform-origin: 240px 240px;
+            animation: ge-globe-spin 30s linear infinite;
+        }
+
+        @keyframes ge-india-pulse {
+            0%   { transform: scale(1);   opacity: 0.7; }
+            100% { transform: scale(2.8); opacity: 0; }
+        }
+        .ge-india-ring {
+            transform-box: fill-box;
+            transform-origin: center;
+            animation: ge-india-pulse 2.2s ease-out infinite;
+        }
+        .ge-india-ring-2 { animation-delay: 1.1s; }
+
         /* ── RESPONSIVE ── */
         @media (max-width: 991px) {
             .ge-hero { padding: 90px 0 48px; }
@@ -323,6 +344,7 @@
             .ge-stories-grid  { grid-template-columns: 1fr; }
             .ge-stat-val { font-size: 28px; }
             .ge-hero-h1 { font-size: 28px; }
+            .ge-hero-globe { right: -100px; }
         }
     </style>
 
@@ -339,16 +361,18 @@
         <section class="ge-hero">
             <div class="ge-hero-grid"></div>
             <svg class="ge-hero-globe" viewBox="0 0 480 480" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-                <circle cx="240" cy="240" r="200" stroke="#fff" stroke-width="2"/>
-                <circle cx="240" cy="240" r="150" stroke="#fff" stroke-width="2"/>
-                <circle cx="240" cy="240" r="100" stroke="#fff" stroke-width="2"/>
-                <circle cx="240" cy="240" r="50"  stroke="#fff" stroke-width="2"/>
-                <ellipse cx="240" cy="240" rx="200" ry="70"  stroke="#fff" stroke-width="2"/>
-                <ellipse cx="240" cy="240" rx="200" ry="140" stroke="#fff" stroke-width="2"/>
-                <line x1="240" y1="40" x2="240" y2="440" stroke="#fff" stroke-width="2"/>
-                <line x1="40"  y1="240" x2="440" y2="240" stroke="#fff" stroke-width="2"/>
-                <line x1="100" y1="90"  x2="380" y2="390" stroke="#fff" stroke-width="2"/>
-                <line x1="380" y1="90"  x2="100" y2="390" stroke="#fff" stroke-width="2"/>
+                <g class="ge-globe-inner">
+                    <circle cx="240" cy="240" r="200" stroke="#fff" stroke-width="2"/>
+                    <circle cx="240" cy="240" r="150" stroke="#fff" stroke-width="2"/>
+                    <circle cx="240" cy="240" r="100" stroke="#fff" stroke-width="2"/>
+                    <circle cx="240" cy="240" r="50"  stroke="#fff" stroke-width="2"/>
+                    <ellipse cx="240" cy="240" rx="200" ry="70"  stroke="#fff" stroke-width="2"/>
+                    <ellipse cx="240" cy="240" rx="200" ry="140" stroke="#fff" stroke-width="2"/>
+                    <line x1="240" y1="40" x2="240" y2="440" stroke="#fff" stroke-width="2"/>
+                    <line x1="40"  y1="240" x2="440" y2="240" stroke="#fff" stroke-width="2"/>
+                    <line x1="100" y1="90"  x2="380" y2="390" stroke="#fff" stroke-width="2"/>
+                    <line x1="380" y1="90"  x2="100" y2="390" stroke="#fff" stroke-width="2"/>
+                </g>
             </svg>
             <div class="container">
                 <div class="ge-hero-content">
@@ -457,9 +481,10 @@
                 <ellipse cx="200" cy="310" rx="40" ry="60" fill="#f4c0a0"/>
                 <ellipse cx="920" cy="340" rx="50" ry="35" fill="#f4c0a0"/>
                 <ellipse cx="300" cy="130" rx="30" ry="22" fill="#f4c0a0"/>
-                <!-- INDIA (orange) -->
+                <!-- INDIA (orange + animated pulse rings) -->
+                <circle class="ge-india-ring"   cx="780" cy="252" r="14" fill="none" stroke="#ea580c" stroke-width="2" stroke-opacity="0.6"/>
+                <circle class="ge-india-ring ge-india-ring-2" cx="780" cy="252" r="14" fill="none" stroke="#ea580c" stroke-width="1.5" stroke-opacity="0.4"/>
                 <circle cx="780" cy="252" r="9" fill="#ea580c"/>
-                <circle cx="780" cy="252" r="16" stroke="#ea580c" stroke-width="1.5" stroke-opacity="0.3" fill="none"/>
                 <text x="794" y="246" fill="#7c1500" font-size="11" font-family="monospace" font-weight="700">India</text>
                 <!-- Japan -->
                 <circle cx="940" cy="198" r="6" fill="#9a3412"/>
