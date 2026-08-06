@@ -115,7 +115,7 @@
         .ge-section-dark .ge-section-eyebrow { color: var(--ge-primary-lt); }
         .ge-section-h2 { font-size: 34px; font-weight: 300; letter-spacing: -0.01em; color: var(--ge-text); margin-bottom: 10px; }
         .ge-section-dark .ge-section-h2 { color: #fff; }
-        .ge-section-sub { font-size: 15px; color: var(--ge-text-sec); font-style: italic; }
+        .ge-section-sub { font-size: 15px; color: var(--ge-text-sec); }
         .ge-section-dark .ge-section-sub { color: #9ca3af; }
         .ge-dot-row { display: flex; justify-content: center; gap: 6px; margin-top: 16px; }
         .ge-dot { width: 5px; height: 5px; border-radius: 50%; background: var(--ge-primary-dim); }
