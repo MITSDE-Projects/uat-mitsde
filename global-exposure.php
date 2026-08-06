@@ -305,7 +305,7 @@
 
         /* ── RESPONSIVE ── */
         @media (max-width: 991px) {
-            .ge-hero { padding: 56px 0 48px; }
+            .ge-hero { padding: 90px 0 48px; }
             .ge-hero-h1 { font-size: 36px; }
             .ge-stats { gap: 24px; }
             .ge-pillars-grid { grid-template-columns: 1fr; }
@@ -339,16 +339,16 @@
         <section class="ge-hero">
             <div class="ge-hero-grid"></div>
             <svg class="ge-hero-globe" viewBox="0 0 480 480" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-                <circle cx="240" cy="240" r="200" stroke="#fff" stroke-width="1"/>
-                <circle cx="240" cy="240" r="150" stroke="#fff" stroke-width="1"/>
-                <circle cx="240" cy="240" r="100" stroke="#fff" stroke-width="1"/>
-                <circle cx="240" cy="240" r="50"  stroke="#fff" stroke-width="1"/>
-                <ellipse cx="240" cy="240" rx="200" ry="70"  stroke="#fff" stroke-width="1"/>
-                <ellipse cx="240" cy="240" rx="200" ry="140" stroke="#fff" stroke-width="1"/>
-                <line x1="240" y1="40" x2="240" y2="440" stroke="#fff" stroke-width="1"/>
-                <line x1="40"  y1="240" x2="440" y2="240" stroke="#fff" stroke-width="1"/>
-                <line x1="100" y1="90"  x2="380" y2="390" stroke="#fff" stroke-width="1"/>
-                <line x1="380" y1="90"  x2="100" y2="390" stroke="#fff" stroke-width="1"/>
+                <circle cx="240" cy="240" r="200" stroke="#fff" stroke-width="2"/>
+                <circle cx="240" cy="240" r="150" stroke="#fff" stroke-width="2"/>
+                <circle cx="240" cy="240" r="100" stroke="#fff" stroke-width="2"/>
+                <circle cx="240" cy="240" r="50"  stroke="#fff" stroke-width="2"/>
+                <ellipse cx="240" cy="240" rx="200" ry="70"  stroke="#fff" stroke-width="2"/>
+                <ellipse cx="240" cy="240" rx="200" ry="140" stroke="#fff" stroke-width="2"/>
+                <line x1="240" y1="40" x2="240" y2="440" stroke="#fff" stroke-width="2"/>
+                <line x1="40"  y1="240" x2="440" y2="240" stroke="#fff" stroke-width="2"/>
+                <line x1="100" y1="90"  x2="380" y2="390" stroke="#fff" stroke-width="2"/>
+                <line x1="380" y1="90"  x2="100" y2="390" stroke="#fff" stroke-width="2"/>
             </svg>
             <div class="container">
                 <div class="ge-hero-content">
