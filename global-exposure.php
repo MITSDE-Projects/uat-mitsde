@@ -376,7 +376,7 @@
             </svg>
             <div class="container">
                 <div class="ge-hero-content">
-                    <div class="ge-eyebrow">MITSDE &middot; Office of International Relations</div>
+                    <div class="ge-eyebrow">MITSDE &middot; Office of Global Exposure</div>
                     <h1 class="ge-hero-h1">Your degree,<br><em>globally connected.</em></h1>
                     <p class="ge-hero-sub">Internships and immersion programs across 15+ countries — built into your MITSDE journey as a distance learner.</p>
                     <div class="ge-stats">
