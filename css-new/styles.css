@@ -372,7 +372,7 @@ a { text-decoration: none; }
 
 .learner-item {
     width: 100px;
-    height: 120px;
+    height: 140px;
     background: #f3f4f6;
     border-radius: 10px;
     display: flex;
@@ -400,7 +400,7 @@ a { text-decoration: none; }
     overflow: hidden;
 }
 
-.company-logo { max-width: 100%; max-height: 25px; object-fit: contain; }
+.company-logo { max-width: 100%; max-height: 35px; object-fit: contain; }
 .learner-photo { width: 100%; height: 100%; object-fit: contain; object-position: bottom center; }
 
 .learner-li {
@@ -430,7 +430,7 @@ a { text-decoration: none; }
     background: #fff1e6;
     display: flex;
     align-items: center;
-    padding: 50px 1rem;
+    padding: 60px 1rem;
     border-radius: 12px;
     gap: 2rem;
 }

@@ -159,60 +159,60 @@
             <div class="learner-track">
               <div class="learner-item">
                 <div class="logo-wrap">
-                  <img src="assets-new/images/rupeek-logo.png" alt="rupeek-logo" class="company-logo" />
+                  <img src="assets-new/images/learners/flipkart.webp" alt="flipkart-logo" class="company-logo" />
                 </div>
                 <div class="photo-wrap">
-                  <img src="assets-new/images/learner1.png" alt="Learner" class="learner-photo" />
+                  <img src="assets-new/images/learners/amol-narayan.webp" alt="Learner" class="learner-photo" />
                 </div>
                 <a class="learner-li" href="#" target="_blank" rel="noopener noreferrer"><i
                     class="fab fa-linkedin-in"></i></a>
               </div>
               <div class="learner-item">
                 <div class="logo-wrap">
-                  <img src="assets-new/images/easymytrip-logo.png" alt="easymytrip-logo" class="company-logo" />
+                  <img src="assets-new/images/learners/patterns.webp" alt="patterns-logo" class="company-logo" />
                 </div>
                 <div class="photo-wrap">
-                  <img src="assets-new/images/learner2.png" alt="Learner" class="learner-photo" />
+                  <img src="assets-new/images/learners/darshan-sonawane.webp" alt="Learner" class="learner-photo" />
                 </div>
                 <a class="learner-li" href="#" target="_blank" rel="noopener noreferrer"><i
                     class="fab fa-linkedin-in"></i></a>
               </div>
               <div class="learner-item">
                 <div class="logo-wrap">
-                  <img src="assets-new/images/emiza-logo.png" alt="emiza-logo" class="company-logo" />
+                  <img src="assets-new/images/learners/tech-mahindra.webp" alt="tech-mahindra-logo" class="company-logo" />
                 </div>
                 <div class="photo-wrap">
-                  <img src="assets-new/images/learner3.png" alt="Learner" class="learner-photo" />
+                  <img src="assets-new/images/learners/kruti-paranjpe.webp" alt="Learner" class="learner-photo" />
                 </div>
                 <a class="learner-li" href="#" target="_blank" rel="noopener noreferrer"><i
                     class="fab fa-linkedin-in"></i></a>
               </div>
               <div class="learner-item">
                 <div class="logo-wrap">
-                  <img src="assets-new/images/bharti-logo.png" alt="bharti-logo" class="company-logo" />
+                  <img src="assets-new/images/learners/accenture.webp" alt="accenture-logo" class="company-logo" />
                 </div>
                 <div class="photo-wrap">
-                  <img src="assets-new/images/learner1.png" alt="Learner" class="learner-photo" />
+                  <img src="assets-new/images/learners/shantanu-nipankar.webp" alt="Learner" class="learner-photo" />
                 </div>
                 <a class="learner-li" href="#" target="_blank" rel="noopener noreferrer"><i
                     class="fab fa-linkedin-in"></i></a>
               </div>
               <div class="learner-item">
                 <div class="logo-wrap">
-                  <img src="assets-new/images/hexaware-logo.png" alt="hexaware-logo" class="company-logo" />
+                  <img src="assets-new/images/learners/omadus.webp" alt="omadus-logo" class="company-logo" />
                 </div>
                 <div class="photo-wrap">
-                  <img src="assets-new/images/learner2.png" alt="Learner" class="learner-photo" />
+                  <img src="assets-new/images/learners/vaishnavi-bhoite.webp" alt="Learner" class="learner-photo" />
                 </div>
                 <a class="learner-li" href="#" target="_blank" rel="noopener noreferrer"><i
                     class="fab fa-linkedin-in"></i></a>
               </div>
               <div class="learner-item">
                 <div class="logo-wrap">
-                  <img src="assets-new/images/jktyre-logo.png" alt="jktyre-logo" class="company-logo" />
+                  <img src="assets-new/images/learners/e-team.webp" alt="e-team-logo" class="company-logo" />
                 </div>
                 <div class="photo-wrap">
-                  <img src="assets-new/images/learner3.png" alt="Learner" class="learner-photo" />
+                  <img src="assets-new/images/learners/vivek-nehe.webp" alt="Learner" class="learner-photo" />
                 </div>
                 <a class="learner-li" href="#" target="_blank" rel="noopener noreferrer"><i
                     class="fab fa-linkedin-in"></i></a>

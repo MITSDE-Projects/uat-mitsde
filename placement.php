@@ -152,12 +152,12 @@
                 <?php
                 // Replace these demo filenames after uploading the six individual learner-card images.
                 $placementLearners = [
-                    ['image' => 'placement-img-1.jpg', 'name' => 'Jayesh Shinde', 'role' => 'Relationship Trainee'],
-                    ['image' => 'placement-img-2.jpg', 'name' => 'Kruti Paranjpe', 'role' => 'Flight Support Executive'],
-                    ['image' => 'placement-img-3.jpg', 'name' => 'Jayesh Shinde', 'role' => 'Relationship Trainee'],
-                    ['image' => 'placement-img-4.jpg', 'name' => 'Jayesh Shinde', 'role' => 'Relationship Trainee'],
-                    ['image' => 'placement-img-5.jpg', 'name' => 'Jayesh Shinde', 'role' => 'Relationship Trainee'],
-                    ['image' => 'placement-img-6.jpg', 'name' => 'Jayesh Shinde', 'role' => 'Relationship Trainee'],
+                    ['image' => 'shantanu-nipankar-bw.webp', 'name' => 'Jayesh Shinde', 'role' => 'Trust & Safety Associate'],
+                    ['image' => 'kruti-paranjpe-bw.webp', 'name' => 'Kruti Paranjpe', 'role' => 'Sales Associate'],
+                    ['image' => 'darshan-sonawane-bw.webp', 'name' => 'Darshan Sonawane', 'role' => 'Talent Acquisition Associate'],
+                    ['image' => 'amol-narayan-bw.webp', 'name' => 'Amol Narayan', 'role' => 'Associate - Warehouse and E-commerce'],
+                    ['image' => 'vaishnavi-bhoite-bw.webp', 'name' => 'Vaishnavi Bhoite', 'role' => 'Executive'],
+                    ['image' => 'vivek-nehe-bw.webp', 'name' => 'Vivek Nehe', 'role' => 'Associate Technical Recruiter'],
                 ];
                 ?>
 
@@ -167,7 +167,7 @@
                             <?php foreach ($placementLearners as $learner): ?>
                                 <article class="placement-profile-card"<?php if ($repeat === 1): ?> aria-hidden="true"<?php endif; ?>>
                                     <img
-                                        src="assets-new/images/<?php echo htmlspecialchars($learner['image']); ?>"
+                                        src="assets-new/images/learners/<?php echo htmlspecialchars($learner['image']); ?>"
                                         alt="<?php echo htmlspecialchars($learner['name']); ?>"
                                         class="placement-profile-image"
                                     >
@@ -258,6 +258,9 @@
 
                 <?php
                 $placedByCompany = [
+                    'Accenture' => [
+                        ['name' => 'Shantanu Nipankar', 'designation' => 'Trust & Safety Associate', 'course' => 'Post Graduate Diploma in Management', 'specialization' => 'Finance Management'],
+                    ],
                     'AWL Agri Business Ltd' => [
                         ['name' => 'Ajit Patkar', 'designation' => 'Intern - Live Project', 'course' => 'Post Graduate Diploma in Management', 'specialization' => 'Logistics & Supply chain Management'],
                         ['name' => 'Pooja Aringle', 'designation' => 'Intern - Live Project', 'course' => 'Post Graduate Diploma in Management', 'specialization' => 'Finance Management'],
@@ -371,6 +374,9 @@
                         ['name' => 'Iyer Bhawani Chandrashekharan', 'designation' => 'AI Data Consultant', 'course' => 'Post Graduate Certificate in Management', 'specialization' => 'Business Analytics'],
                         ['name' => 'Mudaliyar Akash Nithyananthan', 'designation' => 'AI Data Consultant', 'course' => 'Post Graduate Diploma in Management', 'specialization' => 'Information Technology Management'],
                         ['name' => 'Shorbhika Raja Bhattacharya', 'designation' => 'AI Data Consultant', 'course' => 'Post Graduate Diploma in Management', 'specialization' => 'Human Resource Management'],
+                    ],
+                    'eTeam Inc' => [
+                        ['name' => 'Vivek Sampat Nehe', 'designation' => 'Associate Technical Recruiter', 'course' => 'Post Graduate Diploma in Management', 'specialization' => 'Associate Technical Recruiter'],
                     ],
                     'Edify Equity' => [
                         ['name' => 'Viral Chopra', 'designation' => 'Finance Research Analyst', 'course' => 'Post Graduate Certificate in Management', 'specialization' => 'Business Analytics'],
@@ -519,6 +525,12 @@
                     'NayePankh Foundation' => [
                         ['name' => 'Suthar Manju Babulal', 'designation' => 'Intern', 'course' => 'Post Graduate Certificate in Management', 'specialization' => 'Business Analytics'],
                         ['name' => 'Deep Kumar', 'designation' => 'Intern', 'course' => 'Post Graduate Diploma in Management', 'specialization' => 'Logistics and Supply Chain Management'],
+                    ],
+                    'Omadus Infotech' => [
+                        ['name' => 'Vaishnavi Bhoite', 'designation' => 'Executive', 'course' => 'Post Graduate Diploma in Management', 'specialization' => 'Marketing Management'],
+                    ],
+                    'Patterns Hiring LLC - US' => [
+                        ['name' => 'Darshan Sanjeev Sonawane', 'designation' => 'Talent Acquisition Associate', 'course' => 'Post Graduate Diploma in Management', 'specialization' => 'Finance Management'],
                     ],
                     'PRAN FINSERV Private Limited' => [
                         ['name' => 'Sable Om Suresh Sable', 'designation' => 'Field Executive', 'course' => 'Post Graduate Diploma in Management', 'specialization' => 'Logistics and Supply Chain Management'],

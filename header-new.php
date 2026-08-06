@@ -135,7 +135,7 @@ else $nav_active = '';
 
         <!-- <a href="#">Career Support Hub</a>
         <span class="divider">|</span> -->
-        <a href="international-relations"><strong>International Relations</strong></a>
+        <a href="international-relations"><strong>Global Exposure</strong></a>
 
         <div class="nav-actions">
             <a href="https://mitpro.mitsde.com/"><button class="btn-outline">Login</button></a>
