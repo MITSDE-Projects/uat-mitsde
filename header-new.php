@@ -322,9 +322,9 @@ else $nav_active = '';
                 <a href="application-process"><span class="mega-cat-label">Application Process</span></a>
             </div>
 
-            <div class="mega-cat" data-cat="gs-blog">
+            <!-- <div class="mega-cat" data-cat="gs-blog">
                 <a href="https://blog.mitsde.com/"><span class="mega-cat-label">Blogs</span></a>
-            </div>
+            </div> -->
 
             <div class="mega-cat" data-cat="gs-faq">
                 <a href="faq"><span class="mega-cat-label">FAQ</span></a>

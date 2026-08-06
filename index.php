@@ -137,7 +137,7 @@
                   " />
               </div>
               <div class="mc-title">
-                <div class="mc-title-big text-start">Global</div>
+                <div class="mc-title-sm text-start">Global</div>
                 <div class="mc-title-sm text-start">Exposure</div>
               </div>
               <div class="mc-label"><a href="global-exposure" class="text-dark">Know More</a></div>
@@ -641,7 +641,7 @@
 
                 <div class="mb-3">
                   <p class="sub-text">Duration - 15 Months</p>
-                  <p class="sub-text">Eligibility - Graduation</p>
+                  <p class="sub-text">Eligibility - Any graduate having 5+ years of work experience</p>
                 </div>
 
                 <div class="program-explore">
@@ -1009,26 +1009,26 @@
 
                 <img src="assets-new/images/industry-1.jpg" alt="" class="industry-image">
 
-                <span class="industry-badge">
+                <!-- <span class="industry-badge">
                   Online Learning
-                </span>
+                </span> -->
 
               </div>
 
               <div class="industry-content">
 
-                <div class="sub-text">
+                <!-- <div class="sub-text">
                   15 Apr 2026
                   <span>|</span>
                   11 mins
-                </div>
+                </div> -->
 
                 <h3 class="card-title mt-3">
-                  How Meta-Learning in Online Education Helps Students Study Smarter
+                  PGDM vs MBA: Make the Smart Switch
                 </h3>
 
                 <div class="program-explore">
-                  <a href="#" class="btn-card">
+                  <a href="knowledge-center/mba-vs-pgdm-which-one-is-better-for-your-career" class="btn-card">
                     Explore More
                   </a>
                 </div>
@@ -1048,26 +1048,26 @@
 
                 <img src="assets-new/images/industry-2.jpg" alt="" class="industry-image">
 
-                <span class="industry-badge">
+                <!-- <span class="industry-badge">
                   Career
-                </span>
+                </span> -->
 
               </div>
 
               <div class="industry-content">
 
-                <div class="sub-text">
+                <!-- <div class="sub-text">
                   15 Apr 2026
                   <span>|</span>
                   11 mins
-                </div>
+                </div> -->
 
                 <h3 class="card-title mt-3">
-                  How to Choose the Right Career Path in a Changing Job Market
+                  PGDM for Career Switchers
                 </h3>
 
                 <div class="program-explore">
-                  <a href="#" class="btn-card">
+                  <a href="knowledge-center/pgdm-for-career-switchers" class="btn-card">
                     Explore More
                   </a>
                 </div>
@@ -1087,26 +1087,26 @@
 
                 <img src="assets-new/images/industry-3.png" alt="" class="industry-image">
 
-                <span class="industry-badge">
+                <!-- <span class="industry-badge">
                   Artificial Intelligence
-                </span>
+                </span> -->
 
               </div>
 
               <div class="industry-content">
 
-                <div class="sub-text">
+                <!-- <div class="sub-text">
                   15 Apr 2026
                   <span>|</span>
                   11 mins
-                </div>
+                </div> -->
 
                 <h3 class="card-title mt-3">
-                  AI Is Changing How We Work: What That Means for You
+                  Is PGDM a Good Option for Working Professionals?
                 </h3>
 
                 <div class="program-explore">
-                  <a href="#" class="btn-card">
+                  <a href="knowledge-center/pgdm-a-good-option-for-working-professionals" class="btn-card">
                     Explore More
                   </a>
                 </div>
@@ -1126,26 +1126,26 @@
 
                 <img src="assets-new/images/industry-4.jpg" alt="" class="industry-image">
 
-                <span class="industry-badge">
+                <!-- <span class="industry-badge">
                   Artificial Intelligence
-                </span>
+                </span> -->
 
               </div>
 
               <div class="industry-content">
 
-                <div class="sub-text">
+                <!-- <div class="sub-text">
                   15 Apr 2026
                   <span>|</span>
                   11 mins
-                </div>
+                </div> -->
 
                 <h3 class="card-title mt-3">
-                  AI Is Changing How We Work: What That Means for You
+                  Scope of PGDM in India
                 </h3>
 
                 <div class="program-explore">
-                  <a href="#" class="btn-card">
+                  <a href="knowledge-center/scope-of-pgdm-in-india" class="btn-card">
                     Explore More
                   </a>
                 </div>
