@@ -164,7 +164,7 @@
                 <div class="photo-wrap">
                   <img src="assets-new/images/learners/amol-narayan.webp" alt="Learner" class="learner-photo" />
                 </div>
-                <a class="learner-li" href="#" target="_blank" rel="noopener noreferrer"><i
+                <a class="learner-li" href="https://www.linkedin.com/in/amol-rathod-6a5836290/" target="_blank" rel="noopener noreferrer"><i
                     class="fab fa-linkedin-in"></i></a>
               </div>
               <div class="learner-item">
@@ -174,7 +174,7 @@
                 <div class="photo-wrap">
                   <img src="assets-new/images/learners/darshan-sonawane.webp" alt="Learner" class="learner-photo" />
                 </div>
-                <a class="learner-li" href="#" target="_blank" rel="noopener noreferrer"><i
+                <a class="learner-li" href="https://www.linkedin.com/in/darshan-sonawane-778048103/" target="_blank" rel="noopener noreferrer"><i
                     class="fab fa-linkedin-in"></i></a>
               </div>
               <div class="learner-item">
@@ -184,7 +184,7 @@
                 <div class="photo-wrap">
                   <img src="assets-new/images/learners/kruti-paranjpe.webp" alt="Learner" class="learner-photo" />
                 </div>
-                <a class="learner-li" href="#" target="_blank" rel="noopener noreferrer"><i
+                <a class="learner-li" href="https://www.linkedin.com/in/kruti-paranjpe-59b329165/" target="_blank" rel="noopener noreferrer"><i
                     class="fab fa-linkedin-in"></i></a>
               </div>
               <div class="learner-item">
@@ -194,7 +194,7 @@
                 <div class="photo-wrap">
                   <img src="assets-new/images/learners/shantanu-nipankar.webp" alt="Learner" class="learner-photo" />
                 </div>
-                <a class="learner-li" href="#" target="_blank" rel="noopener noreferrer"><i
+                <a class="learner-li" href="https://www.linkedin.com/in/shantanu-nipankar-b9b810202/" target="_blank" rel="noopener noreferrer"><i
                     class="fab fa-linkedin-in"></i></a>
               </div>
               <div class="learner-item">
@@ -204,7 +204,7 @@
                 <div class="photo-wrap">
                   <img src="assets-new/images/learners/vaishnavi-bhoite.webp" alt="Learner" class="learner-photo" />
                 </div>
-                <a class="learner-li" href="#" target="_blank" rel="noopener noreferrer"><i
+                <a class="learner-li" href="https://www.linkedin.com/in/vaishnavi-bhoite-0991a1306/" target="_blank" rel="noopener noreferrer"><i
                     class="fab fa-linkedin-in"></i></a>
               </div>
               <div class="learner-item">
@@ -214,7 +214,7 @@
                 <div class="photo-wrap">
                   <img src="assets-new/images/learners/vivek-nehe.webp" alt="Learner" class="learner-photo" />
                 </div>
-                <a class="learner-li" href="#" target="_blank" rel="noopener noreferrer"><i
+                <a class="learner-li" href="https://www.linkedin.com/in/viveknehe/" target="_blank" rel="noopener noreferrer"><i
                     class="fab fa-linkedin-in"></i></a>
               </div>
             </div>
