@@ -121,16 +121,16 @@
               <div class="mc-play">
                 <div class="mc-play-tri"></div>
               </div>
-              <div class="mc-label">Success Stories</div>
+              <div class="mc-label"><a href="testimonials" class="text-dark">Success Stories</a></div>
             </div>
 
             <!-- Corporate Upscaling orange card -->
             <div class="mini-card">
-              <img class="mc-bg" src="assets-new/images/international-card-bg.webp" alt="Corporate Upscaling" />
+              <img class="mc-bg" src="assets-new/images/international-card-bg.webp" alt="Global Exposure" />
               <div class="mc-overlay" style="background: rgba(255, 87, 0, 0.72)"></div>
               <!-- CSBE logo white -->
               <div class="mc-title" style="top: 25%; left:30%;">
-                <img src="assets-new/images/plane-logo.png" alt="CSBE" style="
+                <img src="assets-new/images/plane-logo.png" alt="Global Exposure" style="
                     height: 100%;
                     object-fit: contain;
                     filter: brightness(0) invert(1);
