@@ -19,6 +19,7 @@
 
     <link rel="icon" type="image/png" href="assets-new/images/favicon-mit.ico" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <link rel="stylesheet" href="css-new/styles.css" />
     <link rel="stylesheet" href="css-new/intlTelInput.css">
@@ -84,7 +85,7 @@
             border: 1px solid rgba(255,255,255,.5);
         }
         .ge-hero-h1 { font-size: 56px; font-weight: 800; line-height: 1.1; color: #fff; margin-bottom: 8px; letter-spacing: -0.01em; }
-        .ge-hero-h1 em { font-style: italic; color: #fff3e0; font-weight: 300; }
+        .ge-hero-h1 em { color: #fff3e0; font-weight: 300; }
         .ge-hero-sub { font-size: 16px; color: rgba(255,255,255,.88); line-height: 1.6; margin-bottom: 32px; max-width: 580px; }
         .ge-stats { display: flex; gap: 48px; margin-bottom: 36px; }
         .ge-stat-val { font-size: 40px; font-weight: 800; color: #7c1500; line-height: 1; }
@@ -188,7 +189,7 @@
         .ge-badge-amber  { background: var(--ge-amber-lt);  color: var(--ge-amber); }
         .ge-badge-blue   { background: #fde8d0;  color: #9a3412; }
         .ge-badge-muted  { background: #f3f4f6; color: var(--ge-muted); }
-        .ge-table-note { margin-top: 12px; font-size: 12px; color: var(--ge-muted); font-style: italic; }
+        .ge-table-note { margin-top: 12px; font-size: 12px; color: var(--ge-muted); }
 
         /* ── SESSION CARDS ── */
         .ge-sessions-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
@@ -208,7 +209,7 @@
         .ge-session-pill.completed { background: #f3f4f6; color: var(--ge-muted); }
         .ge-session-date { font-size: 11px; color: var(--ge-muted); }
         .ge-session-title { font-size: 14.5px; font-weight: 600; color: var(--ge-text); margin-bottom: 6px; line-height: 1.35; }
-        .ge-session-institution { font-size: 11.5px; color: var(--ge-muted); margin-bottom: 12px; font-style: italic; }
+        .ge-session-institution { font-size: 11.5px; color: var(--ge-muted); margin-bottom: 12px; }
         .ge-session-tags { display: flex; flex-wrap: wrap; gap: 5px; margin-bottom: 16px; }
         .ge-session-tag { font-size: 10px; font-weight: 600; padding: 3px 10px; border-radius: var(--r-pill); background: #fde8d0; color: #9a3412; }
         .ge-session-cta { font-size: 12px; font-weight: 600; text-decoration: none; }
@@ -217,6 +218,10 @@
 
         /* ── STUDENT STORIES ── */
         .ge-stories-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
+        .ge-stories-swiper { padding-bottom: 40px; }
+        .ge-stories-swiper .swiper-pagination-bullet-active { background: var(--ge-primary); }
+        .ge-stories-swiper .swiper-button-next,
+        .ge-stories-swiper .swiper-button-prev { color: var(--ge-primary); }
         .ge-story-card {
             background: #fff; border: 1px solid var(--ge-border);
             border-radius: var(--r-md); padding: 22px 20px;
@@ -236,7 +241,7 @@
         .ge-story-prog { font-size: 11.5px; color: var(--ge-text-sec); margin-bottom: 10px; }
         .ge-story-dest { font-size: 11.5px; font-weight: 600; color: var(--ge-primary); margin-bottom: 12px; }
         .ge-story-divider { height: 1px; background: var(--ge-border); margin-bottom: 12px; }
-        .ge-story-quote { font-size: 13px; color: var(--ge-text); line-height: 1.55; font-style: italic; }
+        .ge-story-quote { font-size: 13px; color: var(--ge-text); line-height: 1.55; }
 
         /* ── HOW TO APPLY ── */
         .ge-apply-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 64px; align-items: start; max-width: 960px; margin: 0 auto; }
@@ -552,12 +557,11 @@
                 <div class="ge-tab-row">
                     <button class="ge-tab-btn active" onclick="geTab(this,'2026')">ISIP 2026</button>
                     <button class="ge-tab-btn" onclick="geTab(this,'2025')">ISIP 2025</button>
-                    <button class="ge-tab-btn" onclick="geTab(this,'proposed')">Proposed</button>
                 </div>
                 <div class="ge-filter-row">
                     <button class="ge-filter-btn active" onclick="geFilter(this,'all')">All</button>
-                    <button class="ge-filter-btn" onclick="geFilter(this,'funded')">Fully funded</button>
-                    <button class="ge-filter-btn" onclick="geFilter(this,'self')">Self-funded</button>
+                    <button class="ge-filter-btn" onclick="geFilter(this,'funded')">Fully Funded</button>
+                    <button class="ge-filter-btn" onclick="geFilter(this,'self')">Self Funded</button>
                     <button class="ge-filter-btn" onclick="geFilter(this,'japan')">Japan</button>
                     <button class="ge-filter-btn" onclick="geFilter(this,'europe')">Europe</button>
                     <button class="ge-filter-btn" onclick="geFilter(this,'sea')">South-East Asia</button>
@@ -568,59 +572,17 @@
                         <thead>
                             <tr>
                                 <th>Program</th>
-                                <th>Country</th>
+                                <th>Place</th>
+                                <th>Duration</th>
                                 <th>Deadline</th>
-                                <th>Funding</th>
-                                <th>Applications</th>
+                                <th>Funding / Cost</th>
+                                <th>Applied / Selected</th>
                             </tr>
                         </thead>
-                        <tbody id="ge-isip-tbody">
-                            <tr data-year="2026" data-type="funded" data-region="japan">
-                                <td><div class="ge-prog-name">Kyoto University KU-STAR 2026</div></td>
-                                <td><span class="ge-prog-country">🇯🇵 Japan</span></td>
-                                <td><span class="ge-badge ge-badge-muted">Closed</span></td>
-                                <td><span class="ge-badge ge-badge-green">Fully funded</span></td>
-                                <td>20 received</td>
-                            </tr>
-                            <tr data-year="2026" data-type="self" data-region="europe">
-                                <td><div class="ge-prog-name">Denmark MBMI Program 2026</div></td>
-                                <td><span class="ge-prog-country">🇩🇰 Denmark</span></td>
-                                <td><span class="ge-badge ge-badge-amber">Apr 15</span></td>
-                                <td>&#8377; 2.9 L</td>
-                                <td>4 received</td>
-                            </tr>
-                            <tr data-year="2026" data-type="self" data-region="europe">
-                                <td><div class="ge-prog-name">Teesside Global Summer 2026</div></td>
-                                <td><span class="ge-prog-country">🇬🇧 UK</span></td>
-                                <td><span class="ge-badge ge-badge-blue">Ongoing</span></td>
-                                <td>&#8377; 3.1 L</td>
-                                <td>4 received</td>
-                            </tr>
-                            <tr data-year="2026" data-type="self" data-region="sea">
-                                <td><div class="ge-prog-name">UMN Indonesia 2026</div></td>
-                                <td><span class="ge-prog-country">🇮🇩 Indonesia</span></td>
-                                <td><span class="ge-badge ge-badge-blue">Ongoing</span></td>
-                                <td>&#8377; 98 K</td>
-                                <td>7 received</td>
-                            </tr>
-                            <tr data-year="2026" data-type="self" data-region="sea">
-                                <td><div class="ge-prog-name">SDG Vietnam Program 2026</div></td>
-                                <td><span class="ge-prog-country">🇻🇳 Vietnam</span></td>
-                                <td><span class="ge-badge ge-badge-amber">Apr 30</span></td>
-                                <td>&#8377; 2.1–2.6 L</td>
-                                <td>4 received</td>
-                            </tr>
-                            <tr data-year="2026" data-type="funded" data-region="japan">
-                                <td><div class="ge-prog-name">LOTUS India–Japan 2026</div></td>
-                                <td><span class="ge-prog-country">🇯🇵 Japan</span></td>
-                                <td><span class="ge-badge ge-badge-blue">Jun 9</span></td>
-                                <td><span class="ge-badge ge-badge-green">Fully funded</span></td>
-                                <td>34 received</td>
-                            </tr>
-                        </tbody>
+                        <tbody id="ge-isip-tbody"></tbody>
                     </table>
                 </div>
-                <p class="ge-table-note">Each program expands with eligibility criteria, itinerary and direct application link. Contact <strong>isip@mitsde.com</strong> for details.</p>
+                <p class="ge-table-note">Contact <strong>isip@mitsde.com</strong> for eligibility criteria, itinerary and direct application links.</p>
             </div>
         </section>
         <div class="ge-gold-rule"></div>
@@ -717,39 +679,120 @@
                     <p class="ge-section-sub">MITSDE students who stepped into a global classroom</p>
                     <div class="ge-dot-row"><div class="ge-dot"></div><div class="ge-dot"></div><div class="ge-dot"></div><div class="ge-dot"></div><div class="ge-dot"></div></div>
                 </div>
-                <div class="ge-stories-grid">
-                    <div class="ge-story-card">
-                        <div class="ge-story-avatar">PJ</div>
-                        <div class="ge-story-name">Prajakta Jadhav</div>
-                        <div class="ge-story-prog">PGDM – Project Management &middot; C6</div>
-                        <div class="ge-story-dest">&#9992; KU-STAR, Japan 2025</div>
-                        <div class="ge-story-divider"></div>
-                        <div class="ge-story-quote">"Presenting at Kyoto changed how I think about scale entirely."</div>
+                <div class="ge-stories-swiper swiper">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <div class="ge-story-card">
+                                <div class="ge-story-avatar">PJ</div>
+                                <div class="ge-story-name">Prajakta Jadhav</div>
+                                <div class="ge-story-prog">PGDM – Project Management &middot; C6</div>
+                                <div class="ge-story-dest">&#9992; KU-STAR, Japan 2025</div>
+                                <div class="ge-story-divider"></div>
+                                <div class="ge-story-quote">"Presenting at Kyoto changed how I think about scale entirely."</div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="ge-story-card">
+                                <div class="ge-story-avatar">RZ</div>
+                                <div class="ge-story-name">Rutuja Zarkar</div>
+                                <div class="ge-story-prog">PGDM – Project Management &middot; C8</div>
+                                <div class="ge-story-dest">&#9992; KU-STAR, Japan 2025</div>
+                                <div class="ge-story-divider"></div>
+                                <div class="ge-story-quote">"Research exposure at a top global university is unmatched."</div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="ge-story-card">
+                                <div class="ge-story-avatar">RM</div>
+                                <div class="ge-story-name">Rugvedi Mane</div>
+                                <div class="ge-story-dest">&#9992; Inspiring Japan Internship</div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="ge-story-card">
+                                <div class="ge-story-avatar">RB</div>
+                                <div class="ge-story-name">Rajaram Bhosle</div>
+                                <div class="ge-story-prog">PGDM – Operations &middot; C7</div>
+                                <div class="ge-story-dest">&#9992; CTIF Global, Denmark 2025</div>
+                                <div class="ge-story-divider"></div>
+                                <div class="ge-story-quote">"Seeing lean operations applied in Europe opened new doors for me."</div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="ge-story-card">
+                                <div class="ge-story-avatar">HP</div>
+                                <div class="ge-story-name">Harshwardhan Patil</div>
+                                <div class="ge-story-dest">&#9992; CTIF Global Capsule, Denmark 2025</div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="ge-story-card">
+                                <div class="ge-story-avatar">SP</div>
+                                <div class="ge-story-name">Shriya Phukane</div>
+                                <div class="ge-story-prog">PGDM – Project Management &middot; C4</div>
+                                <div class="ge-story-dest">&#9992; Teesside University, UK 2025</div>
+                                <div class="ge-story-divider"></div>
+                                <div class="ge-story-quote">"The cross-cultural perspective redefined my leadership approach."</div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="ge-story-card">
+                                <div class="ge-story-avatar">SS</div>
+                                <div class="ge-story-name">Snehal Shinde</div>
+                                <div class="ge-story-dest">&#9992; Teesside University, UK 2025</div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="ge-story-card">
+                                <div class="ge-story-avatar">BK</div>
+                                <div class="ge-story-name">Balram Kumar</div>
+                                <div class="ge-story-dest">&#9992; UMN Student Mobility, Indonesia</div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="ge-story-card">
+                                <div class="ge-story-avatar">AB</div>
+                                <div class="ge-story-name">Ayush Bhardwaj</div>
+                                <div class="ge-story-dest">&#9992; UMN Student Mobility, Indonesia</div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="ge-story-card">
+                                <div class="ge-story-avatar">PK</div>
+                                <div class="ge-story-name">Prathmesh Khot</div>
+                                <div class="ge-story-dest">&#9992; Global Immersion, AIT Thailand</div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="ge-story-card">
+                                <div class="ge-story-avatar">PV</div>
+                                <div class="ge-story-name">Pranali Vardam</div>
+                                <div class="ge-story-dest">&#9992; AI Horizon, Vietnam 2026</div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="ge-story-card">
+                                <div class="ge-story-avatar">AT</div>
+                                <div class="ge-story-name">Anshu Toppo</div>
+                                <div class="ge-story-dest">&#9992; AI Horizon, Vietnam 2026</div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="ge-story-card">
+                                <div class="ge-story-avatar">AC</div>
+                                <div class="ge-story-name">Amanraj Chavan</div>
+                                <div class="ge-story-dest">&#9992; AI Horizon, Vietnam 2026</div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="ge-story-card">
+                                <div class="ge-story-avatar">AG</div>
+                                <div class="ge-story-name">Aaryan Gharat</div>
+                                <div class="ge-story-dest">&#9992; AI Horizon, Vietnam 2026</div>
+                            </div>
+                        </div>
                     </div>
-                    <div class="ge-story-card">
-                        <div class="ge-story-avatar">RZ</div>
-                        <div class="ge-story-name">Rutuja Zarkar</div>
-                        <div class="ge-story-prog">PGDM – Project Management &middot; C8</div>
-                        <div class="ge-story-dest">&#9992; KU-STAR, Japan 2025</div>
-                        <div class="ge-story-divider"></div>
-                        <div class="ge-story-quote">"Research exposure at a top global university is unmatched."</div>
-                    </div>
-                    <div class="ge-story-card">
-                        <div class="ge-story-avatar">RB</div>
-                        <div class="ge-story-name">Rajaram Bhosle</div>
-                        <div class="ge-story-prog">PGDM – Operations &middot; C7</div>
-                        <div class="ge-story-dest">&#9992; CTIF Global, Denmark 2025</div>
-                        <div class="ge-story-divider"></div>
-                        <div class="ge-story-quote">"Seeing lean operations applied in Europe opened new doors for me."</div>
-                    </div>
-                    <div class="ge-story-card">
-                        <div class="ge-story-avatar">SP</div>
-                        <div class="ge-story-name">Shriya Phukane</div>
-                        <div class="ge-story-prog">PGDM – Project Management &middot; C4</div>
-                        <div class="ge-story-dest">&#9992; Teesside University, UK 2025</div>
-                        <div class="ge-story-divider"></div>
-                        <div class="ge-story-quote">"The cross-cultural perspective redefined my leadership approach."</div>
-                    </div>
+                    <div class="swiper-pagination ge-stories-pagination"></div>
                 </div>
             </div>
         </section>
@@ -982,32 +1025,161 @@
 
     <?php include "footer-new.php" ?>
 
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
     <script>
+        new Swiper('.ge-stories-swiper', {
+            slidesPerView: 4,
+            spaceBetween: 16,
+            pagination: { el: '.ge-stories-pagination', clickable: true },
+            breakpoints: {
+                0:   { slidesPerView: 1.15, spaceBetween: 12 },
+                576: { slidesPerView: 2.1,  spaceBetween: 14 },
+                992: { slidesPerView: 4,    spaceBetween: 16 }
+            }
+        });
+    </script>
+    <script>
+        /* ── ISIP DATA ── */
+        const ISIP_DATA = {
+            '2026': [
+                { internship: 'Kyoto University KU-STAR Research Internship 2026', related_field: 'Engineering, Computer Science, Energy, Life Sciences, Agriculture, Medicine, Interdisciplinary', application_deadline: '2026-01-27', duration: 'May–July 2026', place: 'Japan', funding: 'Fully Funded', cost: null, students_applied: 20, students_selected: 0 },
+                { internship: 'Denmark MBMI Program 2026', related_field: 'Entrepreneurship & Business Innovation', application_deadline: '2026-04-15', duration: '4 or 6 Weeks', place: 'Struer, Denmark', funding: 'Self Funded', cost: 'INR 290500', students_applied: 4, students_selected: 1 },
+                { internship: 'Teesside University Global Summer School 2026', related_field: 'Multi-disciplinary', application_deadline: 'Ongoing', duration: '4 Weeks', place: 'Middlesbrough, UK', funding: 'Self Funded', cost: 'INR 310000', students_applied: 4, students_selected: 0 },
+                { internship: 'Sustainability Immersion Program UMN Indonesia 2026', related_field: 'Sustainability, Culture', application_deadline: 'Ongoing', duration: '3 Weeks (Hybrid)', place: 'Jakarta, Indonesia', funding: 'Self Funded', cost: 'INR 98000', students_applied: 7, students_selected: 1 },
+                { internship: 'SDG Global Internship Program Vietnam 2026', related_field: 'Sustainability / SDG', application_deadline: '2026-04-30', duration: '30 Days', place: 'Vietnam', funding: 'Self Funded', cost: 'INR 209500–260000', students_applied: 4, students_selected: null },
+                { internship: 'LOTUS Programme 2026', related_field: 'AI, Biotechnology, Energy, Quantum, Research', application_deadline: '2026-06-09', duration: 'Up to 12–36 Months', place: 'Japan', funding: 'Fully Funded', cost: 'INR 1,40,000/month Stipend', students_applied: 34, students_selected: 0 },
+                { internship: 'Inspiring Japan Program', related_field: 'Cultural & Educational Exposure', application_deadline: '2026-06-30', duration: '6 Nights / 7 Days', place: 'Tokyo, Osaka, Kyoto, Japan', funding: 'Self Funded', cost: 'INR 180000', students_applied: 3, students_selected: 0 },
+                { internship: 'Global Immersion Program for MBA', related_field: 'Strategy, Business Model Transformation, Technology, Data', application_deadline: 'Ongoing', duration: '7 Days', place: 'Thailand', funding: 'Self Funded', cost: 'INR 56981', students_applied: 2, students_selected: 0 },
+                { internship: 'Global Immersion Program for Engineering & MBA', related_field: 'AI, Business Analytics, Marketing, Finance, Operations', application_deadline: 'Ongoing', duration: '7 Days', place: 'Thailand', funding: 'Self Funded', cost: 'INR 56981', students_applied: 3, students_selected: 0 },
+                { internship: 'Vietnam Immersion Programme 2026 by VEO-Connect', related_field: 'Entrepreneurship, Global Learning, Cultural Immersion', application_deadline: '2026-05-18', duration: '6 Nights / 7 Days', place: 'Ho Chi Minh City, Vietnam', funding: 'Self Funded', cost: 'INR 65000', students_applied: 4, students_selected: 0 },
+                { internship: 'AI Horizon: Global Immersion Program – Vietnam 2026', related_field: 'Artificial Intelligence, Digital Transformation, Sustainable Innovation, Global Business', application_deadline: '2026-06-20', duration: '5 Nights / 6 Days', place: 'Hanoi & Halong Bay, Vietnam', funding: 'Self Funded', cost: 'INR 109999', students_applied: 4, students_selected: 4 }
+            ],
+            '2025': [
+                { internship: 'KU Star Research Internship Program', related_field: 'Operations Research & Continuous Optimization', application_deadline: '2025-01-31', duration: 'May 20 – July 17, 2025', place: 'Kyoto University, Japan', funding: 'Fully Funded', cost: null, students_applied: 20, students_selected: 2 },
+                { internship: 'Teesside University International Summer Internship 2025', related_field: 'Project Management', application_deadline: '2025-03-15', duration: '4 Weeks (7 July – 2 Aug 2025)', place: 'Teesside University, UK', funding: 'Self Funded', cost: 'INR 328000', students_applied: 2, students_selected: 2 },
+                { internship: 'Global Internship Program 2025: CTIF Global Capsule', related_field: 'Multi-Business Model Innovation', application_deadline: '2025-03-31', duration: '1 Month', place: 'Denmark', funding: 'Self Funded', cost: 'INR 462000', students_applied: 2, students_selected: 2 },
+                { internship: 'Virtual Beginnings, Real-Life Adventures: Indonesian Cultural Exploration', related_field: 'Any Specialization', application_deadline: '2025-05-20', duration: '3 Weeks (7–25 July 2025)', place: 'Indonesia', funding: 'Self Funded', cost: 'INR 77670', students_applied: 8, students_selected: 2 },
+                { internship: 'CGC Fall School 2025', related_field: 'Any Specialization', application_deadline: '2025-07-30', duration: '22 Sept – 10 Oct 2025', place: 'Denmark', funding: 'Self Funded', cost: 'INR 169000', students_applied: 0, students_selected: null },
+                { internship: 'Inspiring Japan Program – February 2026', related_field: 'Any Specialization', application_deadline: '2025-10-20', duration: '20 Days (9–28 Feb 2026)', place: 'Japan', funding: 'Self Funded', cost: 'INR 175000', students_applied: 3, students_selected: 1 },
+                { internship: 'International Internship at AIT – Global Business Leadership', related_field: 'MBA, Global Business, Digital Transformation, Strategic Leadership', application_deadline: '2025-11-12', duration: '7 Days (7–13 Dec 2025)', place: 'Thailand', funding: 'Self Funded', cost: 'INR 53175', students_applied: 4, students_selected: 1 },
+                { internship: 'ISIP 7-Day International Bootcamps 2026', related_field: 'AI, Data Science, Business Analytics, Innovation & Entrepreneurship', application_deadline: '2025-12-08', duration: '7 Days (May 2026)', place: 'Singapore · Malaysia · Germany · France', funding: 'Self Funded', cost: 'INR 1,09,000+ (SG/MY) | INR 1,59,000+ (DE/FR)', students_applied: 4, students_selected: 2 },
+                { internship: 'ETH Zurich Summer Research Fellowship Programme', related_field: 'Computer Science, Electrical Engineering, Mathematics, Physics', application_deadline: '2025-12-16', duration: '2 Months (July–Aug 2026)', place: 'Zurich, Switzerland', funding: 'Fully Funded', cost: 'CHF 4,000 Stipend (~₹4 L)', students_applied: 18, students_selected: null },
+                { internship: 'CERN Openlab Summer Programme 2026', related_field: 'IT, Computer Science, Physics, Mathematics, Engineering', application_deadline: '2026-01-26', duration: '9 Weeks (Summer 2026)', place: 'Geneva, Switzerland', funding: 'Fully Funded', cost: null, students_applied: 41, students_selected: 22 }
+            ]
+        };
+
+        /* ── PLACE → FLAG + REGION ── */
+        function placeInfo(place) {
+            const rules = [
+                { keys: ['japan','kyoto','tokyo','osaka','kobe'], flag: '🇯🇵', label: 'Japan',       region: 'japan'  },
+                { keys: ['uk','united kingdom','teesside','middlesbrough','england'], flag: '🇬🇧', label: 'UK', region: 'europe' },
+                { keys: ['denmark','struer','cgc'],               flag: '🇩🇰', label: 'Denmark',     region: 'europe' },
+                { keys: ['germany'],                              flag: '🇩🇪', label: 'Germany',     region: 'europe' },
+                { keys: ['france'],                               flag: '🇫🇷', label: 'France',      region: 'europe' },
+                { keys: ['switzerland','zurich','geneva','eth'],  flag: '🇨🇭', label: 'Switzerland', region: 'europe' },
+                { keys: ['singapore'],                            flag: '🇸🇬', label: 'Singapore',   region: 'sea'    },
+                { keys: ['malaysia'],                             flag: '🇲🇾', label: 'Malaysia',    region: 'sea'    },
+                { keys: ['indonesia','jakarta'],                  flag: '🇮🇩', label: 'Indonesia',   region: 'sea'    },
+                { keys: ['vietnam','ho chi minh','hanoi','halong','veo'], flag: '🇻🇳', label: 'Vietnam', region: 'sea' },
+                { keys: ['thailand','bangkok','ait'],             flag: '🇹🇭', label: 'Thailand',    region: 'sea'    }
+            ];
+            const p = place.toLowerCase();
+            const matched = rules.filter(r => r.keys.some(k => p.includes(k)));
+            if (!matched.length) return { display: place, regions: ['other'] };
+            // build display: unique flags + unique labels (collapse same-country dupes)
+            const seen = new Set();
+            const parts = [];
+            matched.forEach(function(m) {
+                if (!seen.has(m.flag)) { seen.add(m.flag); parts.push(m.flag + ' ' + m.label); }
+            });
+            return { display: parts.join(', '), regions: [...new Set(matched.map(m => m.region))] };
+        }
+
+        /* ── COST FORMATTER ── */
+        function formatCost(funding, cost) {
+            if (funding === 'Fully Funded') return '<span class="ge-badge ge-badge-green">Fully Funded</span>';
+            if (!cost) return '—';
+            // already-formatted strings (with ₹ or mixed): return as-is
+            if (cost.includes('₹') || cost.includes('CHF') || cost.includes('|') || cost.includes('/month')) return cost;
+            // "INR 328000" → "₹ 3.28 L"
+            const m = cost.match(/INR\s*([\d,]+(?:\.\d+)?)/i);
+            if (m) {
+                const n = parseFloat(m[1].replace(/,/g, ''));
+                if (n >= 100000) return '&#8377;&nbsp;' + (n / 100000).toFixed(2).replace(/\.?0+$/, '') + ' L';
+                return '&#8377;&nbsp;' + Math.round(n).toLocaleString('en-IN');
+            }
+            return cost;
+        }
+
+        /* ── DEADLINE BADGE ── */
+        function deadlineBadge(dl) {
+            if (!dl) return '—';
+            if (dl.toLowerCase() === 'ongoing') return '<span class="ge-badge ge-badge-blue">Ongoing</span>';
+            const d = new Date(dl.split(' ')[0]);
+            if (isNaN(d)) return dl;
+            const today = new Date();
+            today.setHours(0,0,0,0);
+            if (d < today) return '<span class="ge-badge ge-badge-muted">Closed</span>';
+            const label = d.toLocaleDateString('en-IN', { day: 'numeric', month: 'short' });
+            return '<span class="ge-badge ge-badge-amber">' + label + '</span>';
+        }
+
+        /* ── STATE ── */
+        let geYear   = '2026';
+        let geFilter_v = 'all';
+
+        /* ── RENDER ── */
+        function geRender() {
+            const data = ISIP_DATA[geYear] || [];
+            const tbody = document.getElementById('ge-isip-tbody');
+            let html = '';
+
+            data.forEach(function(p) {
+                const pi = placeInfo(p.place);
+                if (geFilter_v !== 'all') {
+                    if (geFilter_v === 'funded' && p.funding !== 'Fully Funded') return;
+                    if (geFilter_v === 'self'   && p.funding === 'Fully Funded') return;
+                    if (geFilter_v === 'japan'  && !pi.regions.includes('japan'))  return;
+                    if (geFilter_v === 'europe' && !pi.regions.includes('europe')) return;
+                    if (geFilter_v === 'sea'    && !pi.regions.includes('sea'))    return;
+                }
+                const applied  = p.students_applied > 0 ? p.students_applied + ' applied' : '—';
+                const selected = p.students_selected !== null && p.students_selected !== undefined
+                    ? p.students_selected + ' selected' : 'Pending';
+                html += '<tr>'
+                    + '<td><div class="ge-prog-name">' + p.internship + '</div>'
+                    + '<div class="ge-prog-country" style="margin-top:3px;font-size:11.5px;">' + p.related_field + '</div></td>'
+                    + '<td><span class="ge-prog-country">' + pi.display + '</span></td>'
+                    + '<td style="font-size:13px;white-space:nowrap;">' + p.duration + '</td>'
+                    + '<td>' + deadlineBadge(p.application_deadline) + '</td>'
+                    + '<td style="font-size:13px;">' + formatCost(p.funding, p.cost) + '</td>'
+                    + '<td style="font-size:12.5px;white-space:nowrap;">' + applied + '<br>'
+                    + '<span style="color:var(--ge-text-sec);">' + selected + '</span></td>'
+                    + '</tr>';
+            });
+
+            tbody.innerHTML = html || '<tr><td colspan="6" style="text-align:center;color:var(--ge-muted);padding:28px 16px;">No programs match the selected filter.</td></tr>';
+        }
+
         function geTab(btn, year) {
             document.querySelectorAll('.ge-tab-btn').forEach(b => b.classList.remove('active'));
             btn.classList.add('active');
+            geYear = year;
+            geFilter_v = 'all';
             document.querySelectorAll('.ge-filter-btn').forEach(b => b.classList.remove('active'));
             document.querySelector('.ge-filter-btn').classList.add('active');
-            document.querySelectorAll('#ge-isip-tbody tr').forEach(r => r.style.display = '');
+            geRender();
         }
 
         function geFilter(btn, filter) {
             document.querySelectorAll('.ge-filter-btn').forEach(b => b.classList.remove('active'));
             btn.classList.add('active');
-            document.querySelectorAll('#ge-isip-tbody tr').forEach(row => {
-                if (filter === 'all') { row.style.display = ''; return; }
-                const type   = row.dataset.type;
-                const region = row.dataset.region;
-                const show =
-                    (filter === 'funded' && type   === 'funded') ||
-                    (filter === 'self'   && type   === 'self')   ||
-                    (filter === 'japan'  && region === 'japan')  ||
-                    (filter === 'europe' && region === 'europe') ||
-                    (filter === 'sea'    && region === 'sea');
-                row.style.display = show ? '' : 'none';
-            });
+            geFilter_v = filter;
+            geRender();
         }
+
+        geRender();
 
         // FAQ accordion
         document.querySelectorAll('#geFaq .ge-faq-q').forEach(function (btn) {
