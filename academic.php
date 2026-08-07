@@ -151,6 +151,7 @@
                             2026</span></a>
                     <a href="assets/images/media/Teacher-Training-Policy.pdf" target="_blank"><span class="academic-tag"><i class="fa-solid fa-chalkboard-teacher"></i>Teacher Training
                             Policy</span></a>
+                    <a href="contact-session-timer" target="_blank"><span class="academic-tag"><i class="fa-solid fa-calendar-check"></i>Contact Session</span></a>
                 </div>
             </div>
 
@@ -184,7 +185,7 @@
 
                 <div class="service-item">
                     <div class="service-card">
-                        <div class="img-wrap"><img src="assets-new/images/labs.png" alt="MITSDE LAB" /></div>
+                        <div class="img-wrap"><img src="assets-new/images/labs.webp" alt="MITSDE LAB" /></div>
                         <a href="mitsde-lab" target="_blank" class="service-action" aria-label="Open">
                             <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
                                 <path d="M6 18 L18 6" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"
@@ -199,7 +200,7 @@
 
                 <div class="service-item">
                     <div class="service-card">
-                        <div class="img-wrap"><img src="assets-new/images/mitsde-bootcamp.png" alt="MITSDE Bootcamp" /></div>
+                        <div class="img-wrap"><img src="assets-new/images/mitsde-bootcamp.webp" alt="MITSDE Bootcamp" /></div>
                         <a href="bootcamp" target="_blank" class="service-action" aria-label="Open">
                             <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
                                 <path d="M6 18 L18 6" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"
@@ -214,7 +215,7 @@
 
                 <div class="service-item">
                     <div class="service-card">
-                        <div class="img-wrap"><img src="assets-new/images/synergy-sphere" alt="Synergy Sphere" /></div>
+                        <div class="img-wrap"><img src="assets-new/images/synergy-sphere.webp" alt="Synergy Sphere" /></div>
                         <a href="synergysphere" target="_blank" class="service-action" aria-label="Open">
                             <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
                                 <path d="M6 18 L18 6" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"
@@ -229,7 +230,7 @@
 
                 <div class="service-item">
                     <div class="service-card">
-                        <div class="img-wrap"><img src="assets-new/images/mitsde-cie.png" alt="MITSDE CRIE" /></div>
+                        <div class="img-wrap"><img src="assets-new/images/mitsde-crie.webp" alt="MITSDE CRIE" /></div>
                         <a href="mitsde-crie" target="_blank" class="service-action" aria-label="Open">
                             <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
                                 <path d="M6 18 L18 6" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"
@@ -242,9 +243,9 @@
                     <div class="service-title">MITSDE CRIE</div>
                 </div>
 
-                <div class="service-item">
+                <!-- <div class="service-item">
                     <div class="service-card">
-                        <div class="img-wrap"><img src="assets-new/images/contact-session.png" alt="Contact Sessions" /></div>
+                        <div class="img-wrap"><img src="assets-new/images/contact-session.webp" alt="Contact Sessions" /></div>
                         <a href="contact-session-timer" target="_blank" class="service-action" aria-label="Open">
                             <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
                                 <path d="M6 18 L18 6" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"
@@ -255,7 +256,7 @@
                         </a>
                     </div>
                     <div class="service-title">Contact Sessions</div>
-                </div>
+                </div> -->
 
             </div>
 

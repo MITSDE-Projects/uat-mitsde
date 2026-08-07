@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+<?php $pagename = "Sample Certificate"; ?>
+<!doctype html>
 <html lang="en">
 
 <head>
@@ -7,140 +8,110 @@
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
-    <title>Course Sample Certificates</title>
+    <title>Sample Certificates | MITSDE Course Certificates</title>
 
-    <meta name="description" content="Sample certificate of distacne PG courses at MITSDE" />
-    <meta name="keywords" content="distance pg certificate courses, distance certificate courses, online learning, distance learning center, online mba programs, pgdm courses, pgdm distance courses" />
-    
-    <!-- CANONICAL TAG -->
+    <meta name="description" content="View sample certificates for MITSDE distance PG courses — PGDM, PGCM, PGDM Executive, PGDBA and specialization certificates." />
+    <meta name="keywords" content="MITSDE sample certificate, PGDM certificate, PGCM certificate, distance education certificate, MITSDE certificate format" />
 
-   <link rel="canonical" href="https://mitsde.com/sample-certificate" />
+    <link rel="canonical" href="https://mitsde.com/sample-certificate" />
 
-    <!-- CANONICAL TAG -->
-    <!-- Page Title -->
-    <?php  include "5-common-seo-tag-1.php" ?>
-    
-
-    <!-- OGP TAG -->
-
-    <meta property="og:title" content="Course Sample Certificates">
+    <meta property="og:title" content="Sample Certificates | MITSDE Course Certificates">
     <meta property="og:site_name" content="MIT School of Distance Education">
     <meta property="og:url" content="https://mitsde.com/sample-certificate">
-    <meta property="og:description"
-        content="Sample certificate of distacne PG courses at MITSDE">
+    <meta property="og:description" content="View sample certificates for MITSDE distance PG courses — PGDM, PGCM, PGDM Executive, PGDBA and specialization certificates.">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/sample-certificate">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/certificate/PGDM.webp">
 
-    <!-- / OG TAG -->
+    <link rel="icon" type="image/png" href="assets-new/images/favicon-mit.ico" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="css-new/styles.css" />
+    <link rel="stylesheet" href="css-new/intlTelInput.css">
 
-
-                       
-
-
-    <link rel="icon" type="image/png" href="assets/images/favicon-mit.ico" />
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="assets/css/bootstrap-select.min.css" />
-    <link rel="stylesheet" href="assets/css/slick.min.css" />
-    <link rel="stylesheet" href="assets/css/fonts.css" type="text/css" />
-   <link rel="stylesheet" href="assets/css/style.css" type="text/css" />
-    <link  rel="stylesheet" href="assets/fontawesome/css/all.min.css" type="text/css">
-    <link rel="stylesheet" href="assets/css/course-common-internal.css" type="text/css" />
-    <link rel="stylesheet" href="assets/css/harbour.css" type="text/css" />
-
-    <!--API for Queck contact----->
-    <script src="assets/js/api/jquery-1.10.2.min.js"></script>
-    <script type="text/javascript" src="assets/js/api/validation.js" charset="UTF-8"></script>
-    <!----->
-
-
-    <style>
-        .parent {
-        display: grid;
-        grid-template-columns: repeat(1, 1fr);
-        grid-template-rows: repeat(2, 1fr);
-        grid-column-gap: 22px;
-        grid-row-gap: 22px;
-
-    }
-
-    @media (min-width: 576px) {
-        .parent {
-            grid-template-columns: repeat(2, 1fr);
-            /* Show two columns */
-            grid-template-rows: repeat(2, 1fr);
-            /* Adjust rows as needed */
-        }
-    }
-    </style>
+<?php include "5-common-seo-tag-1.php" ?>
 </head>
 
 <body>
-    <?php include "5-common-seo-tag-2.php" ?>
-    <!-- Header Nav Start -->
-    <?php include "header.php"?>
-    <!-- Header Nav End --->
-    <main class="main-body">
-    
+<?php include "5-common-seo-tag-2.php" ?>
+<?php include "header-new.php" ?>
 
-        <section id="learnExpert">
-            <div class="container">
-                <div class="cer-slider">
-                    <h1>Sample Certificate
-                     
-                    </h1>
+<!-- ═══════════════════════════════════════════════
+   HERO
+════════════════════════════════════════════════ -->
+<section class="hero ph-hero">
+
+    <nav class="page-breadcrumb" aria-label="Breadcrumb">
+        <span class="pb-line"></span>
+        <a href="./">Home</a>
+        <span class="pb-sep">/</span>
+        <span class="pb-current">Sample Certificates</span>
+    </nav>
+
+    <div class="container">
+        <div class="ph-layout py-5">
+            <div class="ph-left">
+                <h1 class="ph-heading">Sample<br>Certificates</h1>
+                <div class="ph-sub">
+                    <p>Preview the certificate formats awarded upon successful completion of MITSDE programmes.</p>
                 </div>
-           
-                <div class="parent">
-                    <div class="card">
-                        <img src="./assets/images/media/sample-certificate/PGDM.jpg" alt="sample-certificate"
-                            class="card-img-top">
+                <!-- <button type="button" class="btn btn-dark rounded-pill px-4 py-2" data-bs-toggle="modal" data-bs-target="#downloadModal">Download Brochure</button> -->
+            </div>
+            <div class="ph-right">
+                <img src="assets-new/images/dual-acceleration-img.webp" alt="Dual Acceleration Image" />
+            </div>
+        </div>
+    </div>
 
-                    </div>
-                    <div class="card">
-                        <img src="./assets/images/media/sample-certificate/pgcm.jpg" alt="Webinar Image"
-                            class="card-img-top">
+</section>
 
-                    </div>
-                    <div class="card">
-                        <img src="./assets/images/media/sample-certificate/PGDM-EX.jpeg" alt="Webinar Image"
-                            class="card-img-top">
+<!-- ═══════════════════════════════════════════════
+   MAIN COURSE CERTIFICATES
+════════════════════════════════════════════════ -->
+<section class="sam-certificate-section py-5">
+    <div class="container">
 
-                    </div>
-                    <div class="card">
-                        <img src="./assets/images/media/sample-certificate/PGDBA.jpeg" alt="Webinar Image"
-                            class="card-img-top">
+        <h2 class="section-heading">PG <span class="text-orange">Course</span> Certificates</h2>
 
-                    </div>
-                    
-                
+        <div class="row g-4 mt-2">
+
+            <div class="col-12 col-md-6">
+                <div class="cert-img">
+                    <img src="assets-new/images/certificate/PGDM.webp" alt="PGDM Certificate Sample" loading="lazy">
                 </div>
-               
+                <p class="text-center mt-3 fw-semibold" style="color:var(--text-dark);">Post Graduate Diploma in Management (PGDM)</p>
             </div>
 
-        </section>
+            <div class="col-12 col-md-6">
+                <div class="cert-img">
+                    <img src="assets-new/images/certificate/PGCM.webp" alt="PGCM Certificate Sample" loading="lazy">
+                </div>
+                <p class="text-center mt-3 fw-semibold" style="color:var(--text-dark);">Post Graduate Certificate in Management (PGCM)</p>
+            </div>
 
+            <div class="col-12 col-md-6">
+                <div class="cert-img">
+                    <img src="assets-new/images/certificate/PGDM-EX.webp" alt="PGDM Executive Certificate Sample" loading="lazy">
+                </div>
+                <p class="text-center mt-3 fw-semibold" style="color:var(--text-dark);">PGDM Executive (PGDM-EX)</p>
+            </div>
 
+            <div class="col-12 col-md-6">
+                <div class="cert-img">
+                    <img src="assets-new/images/certificate/PGDBA.webp" alt="PGDBA Certificate Sample" loading="lazy">
+                </div>
+                <p class="text-center mt-3 fw-semibold" style="color:var(--text-dark);">Post Graduate Diploma in Business Administration (PGDBA)</p>
+            </div>
 
+        </div>
+    </div>
+</section>
 
+<!-- ═══════════════════════════════════════════════
+   SITE FOOTER
+════════════════════════════════════════════════ -->
+<?php include "footer-new.php" ?>
 
-
-
-    </main>
-    <!-- Footer Start -->
-
-    <?php include "footer.php"?>
-
-
-    <!-- footer end  -->
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/js/bootstrap-select.min.js"></script>
-    <script src="assets/js/slick.min.js"></script>
-    <script src="assets/js/common.js"></script>
-    <script src="assets/js/course-slider.js"></script>
-    <script src="assets/js/harbour.js"></script>
-
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 
 </body>
-
 </html>
