@@ -111,16 +111,15 @@
        PROGRAM HERO
     ════════════════════════════════════════════════ -->
     <section class="hero ph-hero">
+        <nav class="page-breadcrumb" aria-label="Breadcrumb">
+            <span class="pb-line"></span>
+            <a href="./">Home</a>
+            <span class="pb-sep">/</span>
+            <a href="#">CAP</a>
+            <span class="pb-sep">/</span>
+            <span class="pb-current">Power BI Certification</span>
+        </nav>
         <div class="container">
-
-            <!-- Breadcrumb -->
-            <nav class="page-breadcrumb" aria-label="Breadcrumb">
-                <a href="index.php">Home</a>
-                <span class="pb-sep">/</span>
-                <a href="#">CAP</a>
-                <span class="pb-sep">/</span>
-                <span class="pb-current">Power BI Certification</span>
-            </nav>
 
             <div class="ph-layout mt-5">
 

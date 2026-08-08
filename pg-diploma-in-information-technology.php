@@ -317,16 +317,15 @@
        program detail page, only swap heading + pills.
     ════════════════════════════════════════════════ -->
     <section class="hero ph-hero">
+        <nav class="page-breadcrumb" aria-label="Breadcrumb">
+            <span class="pb-line"></span>
+            <a href="./">Home</a>
+            <span class="pb-sep">/</span>
+            <a href="#">PGDM</a>
+            <span class="pb-sep">/</span>
+            <span class="pb-current">PG diploma in information technology</span>
+        </nav>
         <div class="container">
-
-            <!-- Breadcrumb -->
-            <nav class="page-breadcrumb" aria-label="Breadcrumb">
-                <a href="index.php">Home</a>
-                <span class="pb-sep">/</span>
-                <a href="#">PGDM</a>
-                <span class="pb-sep">/</span>
-                <span class="pb-current">PG diploma in information technology</span>
-            </nav>
 
             <!-- 3-column layout: left content | center image | right form -->
             <div class="ph-layout">

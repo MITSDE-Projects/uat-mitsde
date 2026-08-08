@@ -136,15 +136,13 @@
        PROGRAM HERO (no specialization pill row — standalone page, no sibling family)
     ════════════════════════════════════════════════ -->
     <section class="hero ph-hero">
-        <div class="container">
-
-            <!-- Breadcrumb (2 levels only, matching the old page) -->
-            <nav class="page-breadcrumb" aria-label="Breadcrumb">
-                <a href="index.php">Home</a>
-                <span class="pb-sep">/</span>
+        <nav class="page-breadcrumb" aria-label="Breadcrumb">
+            <span class="pb-line"></span>
+            <a href="./">Home</a>
+            <span class="pb-sep">/</span>
                 <span class="pb-current">Gen AI for Educators Certification Program</span>
-            </nav>
-
+        </nav>
+        <div class="container">
             <div class="ph-layout">
                 <div class="ph-left">
                     <h1 class="ph-heading">Gen AI for Educators Certification Program</h1>
