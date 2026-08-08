@@ -1,483 +1,341 @@
+<?php $pagename = "SynergySphere"; ?>
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
-    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SynergySphere | MITSDE's Student Learning Platform</title>
 
-    <title> Synergysphere | MITSDE's Student Learning Platform</title>
+    <meta name="description"
+        content="Explore SynergySphere — MITSDE's platform connecting speakers and learners one-on-one to boost career growth, collaboration, and industry insight." />
 
-    <meta name="description" content="Explore Synergysphere – MITSDE's platform for learning, collaboration, and industry insights to boost your career growth and knowledge." />
-
-    <meta name="keywords" content="synergyspehere" />
-
+    <meta name="keywords" content="synergysphere, mitsde synergysphere, speaker learner platform" />
 
     <!-- CANONICAL TAG -->
-
     <link rel="canonical" href="https://mitsde.com/synergysphere" />
-
-
     <!-- CANONICAL TAG -->
-    <?php include "5-common-seo-tag-1.php"?>
 
     <!-- OGP TAG -->
-    <meta property="og:title" content="Synergysphere | MITSDE's Student Learning Platform">
+    <meta property="og:title" content="SynergySphere | MITSDE's Student Learning Platform">
     <meta property="og:site_name" content="MIT School of Distance Education">
-    <meta property="og:url" content="https://mitsde.com/synergyspehere">
-    <meta property="og:description" content="Explore Synergysphere – MITSDE's platform for learning, collaboration, and industry insights to boost your career growth and knowledge. ">
+    <meta property="og:url" content="https://mitsde.com/synergysphere">
+    <meta property="og:description"
+        content="Explore SynergySphere — MITSDE's platform connecting speakers and learners one-on-one to boost career growth, collaboration, and industry insight.">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="assets/images/city/synergyspehere.jpg">
-
-
-
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/synergy-sphere.webp">
     <!-- / OG TAG -->
 
-    <link rel="icon" type="image/png" href="assets/images/favicon-mit.ico" />
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="assets/css/bootstrap-select.min.css" />
-    <link rel="stylesheet" href="assets/css/slick.min.css" />
-    <link rel="stylesheet" href="assets/css/fonts.css" type="text/css" />
-    <link rel="stylesheet" href="assets/css/style.css" type="text/css" />
-    <link rel="stylesheet" href="assets/css/course-common-internal.css" type="text/css" />
-    <link rel="stylesheet" href="assets/css/master-page.css" type="text/css" />
-    <link rel="stylesheet" href="assets/css/city-page.css" type="text/css" />
-    <!-- font awesome css -->
+    <link rel="icon" type="image/png" href="assets-new/images/favicon-mit.ico" />
 
-    <link rel="stylesheet" href="assets/fontawesome/css/all.min.css">
-    <!--API for Queck contact----->
-    <script src="assets/js/api/jquery-1.10.2.min.js"></script>
-    <script type="text/javascript" src="assets/js/api/validation.js" charset="UTF-8"></script>
-    <!----->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="css-new/styles.css" />
+    <link rel="stylesheet" href="css-new/intlTelInput.css">
 
-    <?php include "new-city-page-google-code.html";?>
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org/",
+        "@type": "Product",
+        "name": "SynergySphere | MITSDE's Student Learning Platform",
+        "image": "https://mitsde.com/assets-new/images/synergy-sphere.webp",
+        "description": "Explore SynergySphere — MITSDE's platform connecting speakers and learners one-on-one to boost career growth, collaboration, and industry insight.",
+        "brand": {
+            "@type": "Brand",
+            "name": "MITSDE"
+        }
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+        {
+        "@type": "Question",
+        "name": "When can I register for SynergySphere?",
+        "acceptedAnswer": { "@type": "Answer", "text": "You can register through the link on this page: mitsde.com/synergysphere — click Register Now or Click to Register." }
+        },
+        {
+        "@type": "Question",
+        "name": "What is the eligibility for being a speaker at SynergySphere?",
+        "acceptedAnswer": { "@type": "Answer", "text": "The speaker should have at least 5 years of relevant work experience in their specialized domain." }
+        },
+        {
+        "@type": "Question",
+        "name": "What is the process after registration?",
+        "acceptedAnswer": { "@type": "Answer", "text": "After registration, we get in touch with shortlisted speakers to understand their domain knowledge and plan the session topic, content, and preparation." }
+        },
+        {
+        "@type": "Question",
+        "name": "How do I contact the SynergySphere team?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Through our email ID: synergy.sphere@mitsde.com" }
+        },
+        {
+        "@type": "Question",
+        "name": "What benefits do I get if I am a speaker on the platform?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Certificate of Participation, spotlight across MITSDE's social media platforms, and networking opportunities with other working professionals." }
+        },
+        {
+        "@type": "Question",
+        "name": "How is the topic selected?",
+        "acceptedAnswer": { "@type": "Answer", "text": "The session topic is selected based on current market trends and the interests shared by speakers as per their domain." }
+        }
+    ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://mitsde.com/" },
+        { "@type": "ListItem", "position": 2, "name": "SynergySphere", "item": "https://mitsde.com/synergysphere" }
+    ]
+    }
+    </script>
+
+<?php include "5-common-seo-tag-1.php" ?>
 </head>
 
 <body>
-    <?php include "5-common-seo-tag-2.php"?>
-    <!-- Header Nav Start -->
-    <?php include "header.php"?>
-    <!-- Header Nav End --->
-    <main class="main-body">
-        <section class="banner inner-banner">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 col-lg-6 main-banner">
+  <?php include "5-common-seo-tag-2.php" ?>
+    <?php include "header-new.php" ?>
 
-                        <h1>SynergySphere</h1>
-                        <p class="fs-4">Uniting minds for collective success</p>
-
-
-                        <div class="page-btn ">
-                            <a href="https://forms.gle/KY7s8xsjFGJ4mZm69" target="_black"> <button type="button"
-                                    class="btn btn-primary mit-button btn-ripple">Register Now</button>
-                            </a>
-
-                        </div>
-                        <nav aria-label="breadcrumb">
-                            <ol class="breadcrumb">
-                                <li class="breadcrumb-item"><a href="https://mitsde.com">Home</a></li>
-                                <!-- <li class="breadcrumb-item"><a href="#">Distance MBA</a></li> -->
-                                <li class="breadcrumb-item active" aria-current="page"> Uniting minds for collective
-                                    success
-                                    Cell.</li>
-                            </ol>
-                        </nav>
-
+    <!-- ═══════════════════════════════════════════════
+       HERO
+    ════════════════════════════════════════════════ -->
+    <section class="hero ph-hero">
+        <nav class="page-breadcrumb" aria-label="Breadcrumb">
+            <span class="pb-line"></span>
+            <a href="./">Home</a>
+            <span class="pb-sep">/</span>
+            <span class="pb-current">SynergySphere</span>
+        </nav>
+        <div class="container">
+            <div class="ph-layout">
+                <div class="ph-left">
+                    <h1 class="ph-heading">SynergySphere</h1>
+                    <div class="ph-sub">
+                        <p>Uniting minds for collective success</p>
                     </div>
-                    <div class="col-md-12 col-lg-6">
-                        <div class="css-details">
+                    <a href="https://forms.gle/KY7s8xsjFGJ4mZm69" target="_blank" rel="noopener" class="btn btn-dark rounded-pill px-4 py-2 mt-3">Register Now</a>
+                </div>
 
-                            <img src="assets/images/city/synergyspehere.png" class="banner-img" alt="synergyspehere"
-                                loading="lazy">
+                <div class="ph-right">
+                    <img src="assets-new/images/synergy-sphere.webp" alt="SynergySphere — Uniting Minds For Collective Success" />
+                </div>
+            </div><!-- /ph-layout -->
 
-                        </div>
-                    </div>
+        </div>
+    </section>
+
+    <!-- Objective -->
+    <section class="about-section" id="objective">
+        <div class="container">
+            <h2 class="section-heading">
+                <span class="text-orange">Our </span>Objective
+            </h2>
+
+            <p>SynergySphere is a platform designed to foster one-on-one connections between speakers and learners.
+                Its primary goal is to create a diverse environment where learners can gain valuable insights from
+                industry experts. Our experts — currently enrolled in our courses — bring a wealth of personal and
+                professional experience to the table.</p>
+            <p>These shared experiences help bridge the gap between learners and experts, fostering meaningful
+                connections based on mutual interests. By enabling direct collaboration, SynergySphere empowers both
+                speakers and learners to achieve remarkable results together.</p>
+            <p>This platform brings together professionals from various fields, ensuring a rich exchange of ideas.</p>
+        </div>
+    </section>
+
+    <!-- Why Join SynergySphere -->
+    <section class="gae-feature-section">
+        <div class="container">
+            <h2 class="section-heading"><span class="text-orange">Why Join </span>SynergySphere?</h2>
+
+            <div class="gae-feature-grid gae-feature-grid-3">
+                <div class="gae-feature-card">
+                    <div class="gae-feature-icon-plain"><i class="fas fa-lightbulb"></i></div>
+                    <h4 class="gae-feature-title">Innovative Collaboration</h4>
+                    <p>Our platform fosters an environment where unique ideas converge.</p>
+                </div>
+                <div class="gae-feature-card">
+                    <div class="gae-feature-icon-plain"><i class="fas fa-users"></i></div>
+                    <h4 class="gae-feature-title">Diverse Perspectives</h4>
+                    <p>Benefit from a wide range of experiences and viewpoints.</p>
+                </div>
+                <div class="gae-feature-card">
+                    <div class="gae-feature-icon-plain"><i class="fas fa-handshake"></i></div>
+                    <h4 class="gae-feature-title">Inclusivity</h4>
+                    <p>We value every voice and every perspective.</p>
                 </div>
             </div>
-        </section>
+        </div>
+    </section>
 
+    <!-- Formats in which You can Participate -->
+    <section class="gae-feature-section">
+        <div class="container">
+            <h2 class="section-heading"><span class="text-orange">Formats </span>You Can Participate In</h2>
 
-        <section id="overview" class="enroll-certification">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 col-lg-12 fintech-certi">
-                        <h2>Objective</h2>
-
-                    </div>
-                    <div class="col-md-12 col-lg-12 fin-feature hero11">
-
-                        <p>Synergy Sphere is a platform to connect the speaker one on one with the learners.Synergy
-                            Sphere is a unique platform designed to foster one-on-one connections between speakers and
-                            learners. Its primary goal is to create a diverse environment where learners can gain
-                            valuable insights from industry experts. Our experts, who are currently enrolled in our
-                            courses, bring a wealth of personal and professional experiences to the table. These shared
-                            experiences help bridge the gap between learners and experts, fostering meaningful
-                            connections based on mutual interests. By enabling direct collaboration, Synergy Sphere
-                            empowers both speakers and learners to achieve remarkable results together.</p>
-
-
-
-                        <div class="row hero11 fintech-certi aboutMit-skills">
-                            <p class="fs-4">This platform brings together professionals from various fields, ensuring a
-                                rich exchange of
-                                ideas.
-                            </p>
-
-                            <div class="col-md-12 col-lg-4 pede-card">
-                                <div class="card over-card">
-                                    <img src="assets/images/icon/Innovative-Collaboration.png" class="img-fluid "
-                                        alt="...">
-                                    <div class="card-body">
-                                        <h5 class="card-title">Innovative Collaboration </h5>
-                                        <p class="card-text">Our platform fosters an environment where unique ideas
-                                            converge.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-12 col-lg-4 pede-card">
-                                <div class="card over-card">
-                                    <img src="assets/images/icon/Diverse-Perspectives.png" class="img-fluid " alt="...">
-                                    <div class="card-body">
-                                        <h5 class="card-title">Diverse Perspectives </h5>
-                                        <p class="card-text">Benefit from a wide range of experiences and viewpoints.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-12 col-lg-4 pede-card">
-                                <div class="card over-card">
-                                    <img src="assets/images/icon/Inclusivity.png" class="img-fluid " alt="...">
-                                    <div class="card-body">
-                                        <h5 class="card-title">Inclusivity </h5>
-                                        <p class="card-text">We value every voice and perspective.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
+            <div class="gae-feature-grid gae-feature-grid-3">
+                <div class="gae-feature-card">
+                    <div class="gae-feature-icon-plain"><i class="fa-solid fa-people-arrows"></i></div>
+                    <h4 class="gae-feature-title">Panel Discussion</h4>
+                    <p>Speakers discuss a specific topic in front of learners, sharing insights and answering questions.</p>
                 </div>
-                <hr>
-                <div class="row hero11 fintech-certi aboutMit-skills">
-                    <h2>Formats in which You can Participate </h2>
-                    <div class="col-md-12 col-lg-4 pede-card">
-                        <div class="card over-card">
-                            <img src="assets/images/icon/Panel-Discussion.png" class="img-fluid " alt="...">
-                            <div class="card-body">
-                                <h5 class="card-title">Panel Discussion</h5>
-                                <p class="card-text">In the panel discussion, the speakers discuss a specific topic in
-                                    front of the learners. The speaker shares their insights and answer questions.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-12 col-lg-4 pede-card">
-                        <div class="card over-card">
-                            <img src="assets/images/icon/Interview-Style.png" class="img-fluid " alt="...">
-                            <div class="card-body">
-                                <h5 class="card-title">Interview Style</h5>
-                                <p class="card-text">An interview-style discussion is a one-on-one conversation where
-                                    the speaker/learner asks questions and the speaker/learner answers. </p>
-
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-12 col-lg-4 pede-card">
-                        <div class="card over-card">
-                            <img src="assets/images/faculty.svg" class="img-fluid">
-                            <div class="card-body">
-                                <h5 class="card-title">Individual contributor </h5>
-                                <p class="card-text">In this session, the speaker delivers the content of his domain
-                                    expertise and with the end of the session, the learners interacts with the speaker
-                                    in the form of Q & A where the learners clears their doubts/queries.</p>
-                            </div>
-                        </div>
-                    </div>
-
+                <div class="gae-feature-card">
+                    <div class="gae-feature-icon-plain"><i class="fas fa-user-tie"></i></div>
+                    <h4 class="gae-feature-title">Interview Style</h4>
+                    <p>A one-on-one conversation where the speaker and learner take turns asking and answering questions.</p>
                 </div>
-
-                <hr>
-
-                <div class="row">
-                    <div class="col-md-12 col-lg-12 fintech-certi aboutMit-skills">
-                        <h2>Benefits<br> </h2>
-
-                    </div>
-                    <div class="col-md-12 col-lg-12 fin-feature1 hero11">
-                        <li class="rounded-2 p-1" style="background-color: #f5f5f5;"><span
-                                class="newright-icon1 "></span><strong> Certificate of Participation
-                            </strong>
-                        </li>
-                        <li class="rounded-2 mt-3 mb-4 p-1" style="background-color: #f5f5f5;"><span
-                                class="newright-icon1"></span><strong>Networking opportunity among various other working
-                                professionals.
-                            </strong>
-                        </li>
-
-
-                    </div>
-                    <div class="col-md-12 col-lg-12 fin-feature1 hero11">
-                        <li class="rounded-2 p-1" style="background-color: #f5f5f5;"><span
-                                class="newright-icon1 "></span><strong> Spotlight across Social Media Platforms of
-                                MITSDE
-                            </strong>
-                        </li>
-                        <li class="rounded-2 mt-3 mb-4 p-1" style="background-color: #f5f5f5;"><span
-                                class="newright-icon1 "></span><strong>The speaker gets shout out to different social
-                                media platforms through our promotional campaigns.
-                            </strong>
-                        </li>
-
-
-                    </div>
-
-
+                <div class="gae-feature-card">
+                    <div class="gae-feature-icon-plain"><i class="fas fa-chalkboard-teacher"></i></div>
+                    <h4 class="gae-feature-title">Individual Contributor</h4>
+                    <p>The speaker delivers content from their domain expertise, followed by a Q&amp;A to clear learners' doubts.</p>
                 </div>
-                <hr>
-                <div class="row">
-                    <div class="col-md-12 col-lg-12 fintech-certi aboutMit-skills">
-                        <h2>How to Register?<br> </h2>
+            </div>
+        </div>
+    </section>
 
+    <!-- Benefits -->
+    <section class="about-section pt-0" id="benefits">
+        <div class="container">
+            <h2 class="section-heading">
+                <span class="text-orange">Speaker </span>Benefits
+            </h2>
 
+            <ul class="learning-outcomes-list">
+                <li>
+                    <i class="fa-regular fa-square-check"></i>
+                    <span>Certificate of Participation</span>
+                </li>
+                <li>
+                    <i class="fa-regular fa-square-check"></i>
+                    <span>Networking opportunity among various other working professionals</span>
+                </li>
+                <li>
+                    <i class="fa-regular fa-square-check"></i>
+                    <span>Spotlight across social media platforms of MITSDE</span>
+                </li>
+                <li>
+                    <i class="fa-regular fa-square-check"></i>
+                    <span>A shout-out on MITSDE's promotional campaigns across social media</span>
+                </li>
+            </ul>
+        </div>
+    </section>
 
-                    </div>
-                    <div class="col-md-8 col-lg-8 fin-feature1 hero11">
-                        <li><strong>To register as a speaker for a LIVE session where you can share your domain
-                                knowledge, personal story, and connect with your peers, please sign up here:
-                            </strong>
-                        </li>
+    <!-- How to Register -->
+    <section class="about-section pt-0">
+        <div class="container">
+            <h2 class="section-heading">
+                <span class="text-orange">How to </span>Register?
+            </h2>
+            <p>To register as a speaker for a LIVE session where you can share your domain knowledge, personal
+                story, and connect with your peers, please sign up here:</p>
+            <a href="https://forms.gle/KY7s8xsjFGJ4mZm69" target="_blank" rel="noopener" class="btn btn-dark rounded-pill px-4 py-2">Click to Register</a>
+        </div>
+    </section>
 
+    <!-- ═══════════════════════════════════════════════
+       FAQ
+    ════════════════════════════════════════════════ -->
+    <section class="faq-section" id="faq">
+        <div class="container">
+            <h2 class="section-heading">Frequently Asked Questions</h2>
+            <div class="faq-list">
 
-                    </div>
-                    <div class="col-md-3 col-lg-3 offset-1 fin-feature1 hero11">
-                        <a href="https://forms.gle/KY7s8xsjFGJ4mZm69" target="_black"> <button type="button"
-                                class="btn btn-primary mit-button btn-ripple">Click to Register</button></a>
-
-
-
-                    </div>
-
-
-                </div>
-
-                <hr>
-
-
-        </section>
-        <section>
-            <div class="container">
-                <div class="row">
-                    <div class="cur-accordiaon">
-                        <h2 class="fw-bold ">Frequently Asked Questions FAQs:
-
-                        </h2>
-                        <div class="accordion curriculum-accordion" id="freQuestions">
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button " type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions1" aria-expanded="false" aria-controls="questions1">
-                                        When can I register for Synergysphere?
-
-                                    </button>
-                                </h2>
-                                <div id="questions1" class="accordion-collapse " data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <ul>
-                                                        <p>We can resister ourself to synergysphere through the link: <a
-                                                                href="https://forms.gle/KY7s8xsjFGJ4mZm69"
-                                                                class="text-decoration-none">Click to Register</a>
-                                                        </p>
-
-                                                    </ul>
-
-
-                                                </div>
-                                            </div>
-
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions2" aria-expanded="false" aria-controls="questions2">
-                                        What is the eligibility for being a speaker at synergysphere?
-                                    </button>
-                                </h2>
-                                <div id="questions2" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body  hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <ul class="fin-feature2">
-                                                        <p>The speaker to be having at least 5 years of relevant work
-                                                            experience in her/his specialized domain.</p>
-
-
-
-                                                    </ul>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions3" aria-expanded="false" aria-controls="questions3">
-                                        what is the process after registration?
-
-                                    </button>
-                                </h2>
-                                <div id="questions3" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <ul class="fin-feature2">
-                                                        <p>After the resigtration, we will get in touch with the
-                                                            shortlisted speakers to understand more of their domain
-                                                            knowledge and plan with them regarding the session topic,
-                                                            content of the topic, preparation of mock.</p>
-
-                                                    </ul>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions4" aria-expanded="false" aria-controls="questions4">
-                                        How do I contact the synergysphere team?
-
-                                    </button>
-                                </h2>
-                                <div id="questions4" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <ul class="fin-feature2">
-                                                        <p>Through our email ID: <a
-                                                                href="mailto:synergy.sphere@mitsde.com"
-                                                                class="text-decoration-none">synergy.sphere@mitsde.com</a>
-                                                        </p>
-
-
-
-                                                    </ul>
-
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions5" aria-expanded="false" aria-controls="questions5">
-                                        What benefits do I get if I be a speaker on the platform?
-
-                                    </button>
-                                </h2>
-                                <div id="questions5" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <ul class="fin-feature2">
-                                                        <p>- Certificate of Participation</p>
-                                                        <p>- Spotlight across Social Media Platforms of MITSDE</p>
-                                                        <p>- Networking opportunity among various other working
-                                                            professionals.</p>
-                                                        <p>- The speaker gets shout out to different social media
-                                                            platforms through our promotional campaign.</p>
-
-                                                    </ul>
-
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions6" aria-expanded="false" aria-controls="questions6">
-                                        How is the topic selected?
-
-                                    </button>
-                                </h2>
-                                <div id="questions6" class="accordion-collapse collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <ul class="fin-feature2">
-                                                        <p>The session topic is selected by understanding the market
-                                                            trend topics of shared knowledge and by going through the
-                                                            interest shared by the speakers as per their domain is
-                                                            concerned.
-                                                        </p>
-
-
-
-                                                    </ul>
-
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-
-
-                        </div>
+                <div class="faq-item is-open">
+                    <button class="faq-q" aria-expanded="true">
+                        <span>When can I register for SynergySphere?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>You can register through the link: <a href="https://forms.gle/KY7s8xsjFGJ4mZm69" target="_blank" rel="noopener">Click to Register</a></p>
                     </div>
                 </div>
 
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>What is the eligibility for being a speaker at SynergySphere?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>The speaker should have at least 5 years of relevant work experience in their specialized domain.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>What is the process after registration?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>After registration, we get in touch with shortlisted speakers to understand their domain knowledge and plan the session topic, content, and preparation.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>How do I contact the SynergySphere team?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>Through our email ID: <a href="mailto:synergy.sphere@mitsde.com">synergy.sphere@mitsde.com</a></p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>What benefits do I get if I am a speaker on the platform?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <ul class="ac-list text-dark">
+                            <li>Certificate of Participation</li>
+                            <li>Spotlight across social media platforms of MITSDE</li>
+                            <li>Networking opportunity among various other working professionals</li>
+                            <li>A shout-out on our promotional campaigns across social media</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>How is the topic selected?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                        </svg>
+                    </button>
+                    <div class="faq-a">
+                        <p>The session topic is selected based on current market trends and the interests shared by speakers as per their domain.</p>
+                    </div>
+                </div>
 
             </div>
-        </section>
+        </div>
+    </section>
 
+    <!-- ═══════════════════════════════════════════════
+       SITE FOOTER
+    ════════════════════════════════════════════════ -->
+    <?php include "footer-new.php" ?>
 
-
-    </main>
-    <!-- Footer Start -->
-
-    <?php include "footer.php"?>
-
-
-    <!-- footer end  -->
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/js/bootstrap-select.min.js"></script>
-    <script src="assets/js/slick.min.js"></script>
-    <script src="assets/js/common.js"></script>
-
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 
 </html>
