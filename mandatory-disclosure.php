@@ -42,7 +42,7 @@
         <div class="ph-layout py-5">
             <div class="ph-left">
                 <h1 class="ph-heading">Mandatory Disclosure</h1>
-                <!-- <button type="button" class="btn btn-dark rounded-pill px-4 py-2" data-bs-toggle="modal" data-bs-target="#downloadModal">Download Brochure</button> -->
+                <button type="button" class="btn btn-dark rounded-pill px-4 py-2" data-bs-toggle="modal" data-bs-target="#downloadModal">Download Brochure</button>
             </div>
             <div class="ph-right">
                 <img src="assets-new/images/application-process.webp" alt="Dual Acceleration Image" />
