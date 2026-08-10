@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+<?php $pagename = "Recognition & Approval"; ?>
+<!doctype html>
 <html lang="en">
 
 <head>
@@ -7,461 +8,273 @@
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
-    <title>Recognition Approval</title>
+    <title>Recognition &amp; Approval | MITSDE Accreditations</title>
 
-    <meta name="description"
-        content="MITSDE is recognized by the Distance Education Bureau (DEB), of University Grants Commission(UGC) Govt. of India" />
-    <meta name="keywords"
-        content="distance pg certificate courses, distance certificate courses, online learning, distance learning center, online mba programs, pgdm courses, pgdm distance courses" />
-
-    <!-- CANONICAL TAG -->
+    <meta name="description" content="MITSDE is recognized by AICTE, UGC-DEB and is a member of ICDE. View all approval letters, membership certificates and accreditation documents." />
+    <meta name="keywords" content="MITSDE recognition, AICTE approval, UGC DEB recognition, ICDE membership, MITSDE accreditation, distance education approval" />
 
     <link rel="canonical" href="https://mitsde.com/recognition-approval" />
 
-    <!-- CANONICAL TAG -->
-
-
-    <?php include "5-common-seo-tag-1.php"?>
-
-
-
-
-    <!-- OGP TAG -->
-
-    <meta property="og:title" content="Recognition Approval">
+    <meta property="og:title" content="Recognition &amp; Approval | MITSDE Accreditations">
     <meta property="og:site_name" content="MIT School of Distance Education">
-    <meta property="og:url" content="https://mitsde.com/recognition-approval.php">
-    <meta property="og:description"
-        content="MITSDE is recognized by the Distance Education Bureau (DEB), of University Grants Commission(UGC) Govt. of India">
+    <meta property="og:url" content="https://mitsde.com/recognition-approval">
+    <meta property="og:description" content="MITSDE is recognized by AICTE, UGC-DEB and is a member of ICDE. View all approval letters, membership certificates and accreditation documents.">
     <meta property="og:type" content="website">
-    <meta property="og:image"
-        content="https://mitsde.com/assets/images/media/common-images-new/remaning-course-page/Recognition-&-Approval.jpg">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/academic.webp">
 
-    <!-- / OG TAG -->
+    <link rel="icon" type="image/png" href="assets-new/images/favicon-mit.ico" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="css-new/styles.css" />
+    <link rel="stylesheet" href="css-new/intlTelInput.css">
 
-
-
-    <link rel="icon" type="image/png" href="assets/images/favicon-mit.ico" />
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="assets/css/bootstrap-select.min.css" />
-    <link rel="stylesheet" href="assets/css/slick.min.css" />
-    <link rel="stylesheet" href="assets/css/fonts.css" type="text/css" />
-    <link rel="stylesheet" href="assets/css/style.css" type="text/css" />
-    <link rel="stylesheet" href="assets/fontawesome/css/all.min.css" type="text/css">
-    <link rel="stylesheet" href="assets/css/course-common-internal.css" type="text/css" />
     <style>
-    .fintech-module a {
-        text-decoration: none;
-    }
+        /* ── Recognition page — scoped .ra-* ── */
+        .ra-pdf-list {
+            list-style: none;
+            padding: 0; margin: 0;
+            display: flex; flex-direction: column; gap: 10px;
+        }
+        .ra-pdf-list li a {
+            display: flex; align-items: flex-start; gap: 10px;
+            color: var(--text-dark); text-decoration: none;
+            font-size: 14px; line-height: 1.5;
+            padding: 8px 12px;
+            border-radius: 6px;
+            border: 1px solid #f0ede9;
+            background: #fdf8f5;
+            transition: background .15s, border-color .15s, color .15s;
+        }
+        .ra-pdf-list li a:hover {
+            background: #fff3ec;
+            border-color: var(--primary-orange);
+            color: var(--primary-orange);
+        }
+        .ra-pdf-list li a i {
+            color: #c0392b;
+            font-size: 16px;
+            flex-shrink: 0;
+            margin-top: 2px;
+        }
+        .ra-logo-wrap {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 16px;
+            background: #fff;
+            border: 1px solid #e5e7eb;
+            border-radius: 10px;
+            height: 100%;
+            min-height: 120px;
+        }
+        .ra-logo-wrap img {
+            max-width: 100%;
+            max-height: 140px;
+            object-fit: contain;
+        }
+        @media (max-width: 767px) {
+            .ra-logo-wrap { margin-top: 20px; min-height: auto; }
+        }
     </style>
-    <!--API for Queck contact----->
-    <script src="assets/js/api/jquery-1.10.2.min.js"></script>
-    <script type="text/javascript" src="assets/js/api/validation.js" charset="UTF-8"></script>
-    <!----->
 
+<?php include "5-common-seo-tag-1.php" ?>
 </head>
 
 <body>
-    <?php include "5-common-seo-tag-2.php"?>
-    <!-- Header Nav Start -->
-    <?php include "header.php"?>
-    <!-- Header Nav End --->
-    <main class="main-body">
-        <section class="banner inner-banner">
-            <div class="container">
+<?php include "5-common-seo-tag-2.php" ?>
+<?php include "header-new.php" ?>
 
-                <div class="row">
-                    <div class="col-md-12 col-lg-6 main-banner">
-                        <h1>Recognition Approval</h1>
-                        <p>We are recognized by various industry bodies and academic institutions, highlighting our
-                            commitment to providing top-notch education and fostering professional growth.
-                        </p>
-                        <div class="page-btn">
+<!-- ═══════════════════════════════════════════════
+   HERO
+════════════════════════════════════════════════ -->
+<section class="hero ph-hero">
 
+    <nav class="page-breadcrumb" aria-label="Breadcrumb">
+        <span class="pb-line"></span>
+        <a href="./">Home</a>
+        <span class="pb-sep">/</span>
+        <span class="pb-current">Recognition &amp; Approval</span>
+    </nav>
 
-                            <button type="button" class="btn btn-primary mit-button cus-btn inner-cus ms-0"
-                                data-bs-toggle="modal" data-bs-target="#enquiryModal-download-form"><span
-                                    class="mtsk-download"></span> &nbsp; Download PDF BROCHURE
-                            </button>
-
-                        </div>
-
-                        <div>
-                            <nav>
-                                <ol class="breadcrumb">
-                                    <li class="breadcrumb-item"><a href=" https://mitsde.com">Home</a>
-                                    </li>
-
-                                    <li class="breadcrumb-item active" aria-current="page">Recognition Approval
-                                    </li>
-
-                            </nav>
-
-
-                        </div>
-                    </div>
-                    <div class="col-md-12 col-lg-6">
-                        <div class="css-details">
-                            <div class="stc-det student-sec inner-sec">
-                                <img src="assets/images/progress.svg" alt="Progress indicator icon">
-                            </div>
-                            <img src="assets/images/media/common-images-new/remaning-course-page/Recognition-and-Approval.jpg"
-                                class="banner-img" alt="recognition-approval">
-                            <div class="stc-det course-sec inner-sec">
-                                <img src="assets/images/walet.svg" alt="Wallet icon for payment">
-                            </div>
-                        </div>
-                    </div>
+    <div class="container">
+        <div class="ph-layout py-5">
+            <div class="ph-left">
+                <h1 class="ph-heading">Recognition &amp; Approval</h1>
+                <div class="ph-sub">
+                    <p style="max-width: 400px;">We are recognized by various industry bodies and academic institutions, highlighting our commitment to providing top-notch education and fostering professional growth.</p>
                 </div>
             </div>
-        </section>
+            <div class="ph-right">
+                <img src="assets-new/images/academic.webp" alt="MITSDE Recognition and Approval" />
+            </div>
+        </div>
+    </div>
 
+</section>
 
+<!-- ═══════════════════════════════════════════════
+   RECOGNITION ACCORDION
+════════════════════════════════════════════════ -->
+<section class="accordian-section py-5">
+    <div class="container">
 
+        <h2 class="section-heading mb-4">Recognition <span class="text-orange">&amp; Approval</span></h2>
 
+        <div class="faq-list">
 
-        <section id="curriculam" class="enroll-certification">
-            <div class="container">
-                <div class="row">
-                    <div class="cur-accordiaon">
-                        <h3>Recognition and Approval</h3>
-                        <div class="accordion curriculum-accordion" id="curriculum">
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#module1" aria-expanded="true" aria-controls="module1">
-                                        MITSDE is Recognized by (AICTE) All India Council for Technical Education, a
-                                        statutory body under Ministry of HRD, Govt. of India.
-                                    </button>
-                                </h2>
-                                <div id="module1" class="accordion-collapse collapse show" data-bs-parent="#curriculum">
-                                    <div class="accordion-body hero10">
-                                        <div class="row p-3">
-
-
-                                            <div class="alert " role="alert">
-                                                <div class="row">
-                                                    <div class="col-md-8">
-                                                        <ul class="fin-feature2 fintech-module"
-                                                            style="list-style: none;">
-
-                                                            <a href="assets/images/media/common-images-new/RecognitionApproval-pdf/EOA-Report-2025-2026.PDF"
-                                                                target="_blank"
-                                                                title="Download PDF Approval letter 2025-26"><span
-                                                                    class="newright-icon1"></span>Approval letter
-                                                                2025-26 from All India Council for Technical Education,
-                                                                (AICTE)
-                                                            </a>
-
-                                                            <a href="assets/images/media/common-images-new/RecognitionApproval-pdf/EOA-Report-2024-2025.PDF"
-                                                                target="_blank"
-                                                                title="Download PDF Approval letter 2024-25"><span
-                                                                    class="newright-icon1"></span>Approval letter
-                                                                2024-25 from All India Council for Technical Education,
-                                                                (AICTE)
-                                                            </a>
-
-                                                            <a href="assets/images/media/common-images-new/RecognitionApproval-pdf/AICT-2023-24.pdf"
-                                                                target="_blank"
-                                                                title="Download PDF Approval letter 2023-24"><span
-                                                                    class="newright-icon1"></span>Approval letter
-                                                                2023-24 from All India Council for Technical Education,
-                                                                (AICTE)
-                                                            </a>
-                                                            <a href="assets/images/media/common-images-new/RecognitionApproval-pdf/AICT-2022-23.pdf"
-                                                                target="_blank"
-                                                                title="Download PDF Approval letter 2022-23"><span
-                                                                    class="newright-icon1"></span>Approval letter
-                                                                2022-23 from All India Council for Technical Education,
-                                                                (AICTE)
-                                                            </a>
-                                                            <a href="assets/images/media/common-images-new/RecognitionApproval-pdf/AICT-2021-22.pdf"
-                                                                target="_blank"
-                                                                title="Download PDF Approval letter 2021-22"><span
-                                                                    class="newright-icon1"></span>Approval letter
-                                                                2021-22 from All India Council for Technical Education,
-                                                                (AICTE)
-                                                            </a>
-                                                            <a href="assets/images/media/common-images-new/RecognitionApproval-pdf/AICT-2020-2021.pdf"
-                                                                target="_blank"
-                                                                title="Download PDF Approval letter 2020-21"><span
-                                                                    class="newright-icon1"></span>Approval letter
-                                                                2020-21 from All India Council for Technical Education,
-                                                                (AICTE)
-                                                            </a>
-                                                            <a href="assets/images/media/common-images-new/RecognitionApproval-pdf/AICT-2019-2020.pdf"
-                                                                target="_blank"
-                                                                title="Download PDF Approval letter 2019-20"><span
-                                                                    class="newright-icon1"></span>Approval letter
-                                                                2019-20 from All India Council for Technical Education,
-                                                                (AICTE)
-                                                            </a>
-                                                            <a href="assets/images/media/common-images-new/RecognitionApproval-pdf/AICT-2018-19.pdf"
-                                                                target="_blank"
-                                                                title="Download PDF Approval letter 2018-19"><span
-                                                                    class="newright-icon1"></span>Approval letter
-                                                                2018-19 from All India Council for Technical Education,
-                                                                (AICTE)
-                                                            </a>
-                                                            <a href="assets/images/media/common-images-new/RecognitionApproval-pdf/AICT-2017-18.pdf"
-                                                                target="_blank"
-                                                                title="Download PDF Approval letter 2017-18"><span
-                                                                    class="newright-icon1"></span>Approval letter
-                                                                2017-18 from UGC, Distance Education Bureau (DEB)
-                                                            </a>
-                                                            <a href="assets/images/media/common-images-new/RecognitionApproval-pdf/AICT-2016-17.pdf"
-                                                                target="_blank"
-                                                                title="Download PDF Approval letter 2016-17"><span
-                                                                    class="newright-icon1"></span>Approval letter
-                                                                2016-17 from UGC, Distance Education Bureau (DEB)
-                                                            </a>
-                                                            <a href="assets/images/media/common-images-new/RecognitionApproval-pdf/AICT-2015-16.pdf"
-                                                                target="_blank"
-                                                                title="Download PDF Approval letter 2015-16"><span
-                                                                    class="newright-icon1"></span>Approval letter
-                                                                2015-16 from UGC, Distance Education Bureau (DEB)
-                                                            </a>
-
-
-
-
-
-
-                                                        </ul>
-                                                    </div>
-                                                    <div class="col-md-4 d-flex align-items-center">
-                                                        <img src="assets/images/media/common-images-new/AICET-logo (1).jpg"
-                                                            class="img-fluid" height="500px" alt="">
-                                                    </div>
-                                                </div>
-
-
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button " type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#module2" aria-expanded="false" aria-controls="module2">
-                                        Establishment and Functioning of Institutions Innovation Council (IIC)
-
-                                    </button>
-                                </h2>
-                                <div id="module2" class="accordion-collapse " data-bs-parent="#curriculum">
-                                    <div class="accordion-body hero10">
-                                        <div class="row p-3">
-                                            <div class="alert " role="alert">
-                                                <div class="row">
-                                                    <div class="col-md-8">
-                                                        <ul class="fin-feature2 fintech-module"
-                                                            style="list-style: none;">
-
-                                                            <a href="assets/images/media/common-images-new/RecognitionApproval-pdf/EstablismentCertificate.pdf"
-                                                                target="_blank" title="Download PDF Institution
-                                                                    Innovation Council"><span
-                                                                    class="newright-icon1"></span>Institution
-                                                                Innovation Council (IIC)
-                                                            </a>
-
-
-
-                                                        </ul>
-                                                    </div>
-                                                    <div class="col-md-4 d-flex align-items-center">
-                                                        <img src="assets/images/media/common-images-new/iiclogo (1).png"
-                                                            width="80%" alt="">
-                                                    </div>
-                                                </div>
-
-
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button " type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#module3" aria-expanded="false" aria-controls="module3">
-                                        MITSDE is Member of International Council For Open And Distance Education - A
-                                        Global Network for Online, Open and Flexible Education
-
-                                    </button>
-                                </h2>
-                                <div id="module3" class="accordion-collapse " data-bs-parent="#curriculum">
-                                    <div class="accordion-body hero10">
-                                        <div class="row p-3">
-                                            <div class="alert " role="alert">
-                                                <div class="row">
-                                                    <div class="col-md-8">
-                                                        <ul class="fin-feature2 fintech-module"
-                                                            style="list-style: none;">
-
-                                                            <a href="assets/images/media/common-images-new/RecognitionApproval-pdf/Membership Certificate-2019-20.pdf"
-                                                                target="_blank"
-                                                                title="Download PDF Membership Certificate 2019 from ICDE  "><span
-                                                                    class="newright-icon1"></span>Membership Certificate
-                                                                2019 from ICDE
-                                                            </a>
-                                                            <a href="assets/images/media/common-images-new/RecognitionApproval-pdf/Membership Certificate-2018-19.pdf"
-                                                                target="_blank" title="Download PDF Membership Certificate 2018 from ICDE
-                                                                   "><span class="newright-icon1"></span>Membership
-                                                                Certificate 2018 from ICDE
-                                                            </a>
-                                                            <a href="assets/images/media/common-images-new/RecognitionApproval-pdf/EstablismentCertificate.pdf"
-                                                                target="_blank"
-                                                                title="Download PDF Membership Certificate 2017 from ICDE    "><span
-                                                                    class="newright-icon1"></span>Membership Certificate
-                                                                2017 from ICDE
-                                                            </a>
-
-
-
-
-                                                        </ul>
-                                                    </div>
-                                                    <div class="col-md-4 d-flex align-items-center">
-                                                        <img src="assets/images/media/common-images-new/ICDE (1).jpg"
-                                                            width="80%" alt="">
-                                                    </div>
-                                                </div>
-
-
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button " type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#module4" aria-expanded="false" aria-controls="module4">
-                                        MCCIA Certificate
-
-                                    </button>
-                                </h2>
-                                <div id="module4" class="accordion-collapse " data-bs-parent="#curriculum">
-                                    <div class="accordion-body hero10">
-                                        <div class="row p-3">
-                                            <div class="alert " role="alert">
-                                                <div class="row">
-                                                    <div class="col-md-8">
-                                                        <ul class="fin-feature2 fintech-module"
-                                                            style="list-style: none;">
-
-
-                                                            <a href="assets/images/media/common-images-new/RecognitionApproval-pdf/MCCIA-2021-2022.pdf"
-                                                                target="_blank"
-                                                                title="Download PDF MCCIA Certificate 2021-2021       "><span
-                                                                    class="newright-icon1"></span>MCCIA Certificate
-                                                                2021-2021
-                                                            </a>
-
-                                                            <a href="assets/images/media/common-images-new/RecognitionApproval-pdf/MCCIA-2018-2019.pdf"
-                                                                target="_blank"
-                                                                title="Download PDF MCCIA Certificate 2018-2019       "><span
-                                                                    class="newright-icon1"></span>MCCIA Certificate
-                                                                2018-2019
-                                                            </a>
-
-
-
-
-
-                                                        </ul>
-                                                    </div>
-                                                    <div class="col-md-4 d-flex align-items-center">
-                                                        <img src="assets/images/media/common-images-new/44mccia (1).jpg"
-                                                            width="80%" alt="">
-                                                    </div>
-                                                </div>
-
-
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-
-
-
-
-                            <!-- <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button " type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions5" aria-expanded="false" aria-controls="questions5">
-                                        Career Accelerator Programs
-                                    </button>
-                                </h2>
-                                <div id="questions5" class="accordion-collapse " data-bs-parent="#freQuestions">
-                                    <div class="accordion-body ">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module">
-                                                    <ul>
-                                                        <li><a href="#">Executive Director</a></li>
-                                                        <li><a href="#">Gen Next Learning</a></li>
-                                                        <li><a href="#">Recognition and Approval</a></li>
-                                                        <li><a href="lean-six-sigma-green-black-belt">Lean Six Sigma
-                                                                (Green + Black Belt)</a></li>
-                                                        <li><a href="PMP-certification">PMP certification</a></li>
-                                                        <li><a href="#">Recognition and Approval</a></li>
-                                                        <li><a href="#">Success Stories</a></li>
-
-                                                    </ul>
-
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div> -->
-
-
+            <!-- ── 1. AICTE ── -->
+            <div class="faq-item is-open">
+                <button class="faq-q" aria-expanded="true">
+                    <span>MITSDE is Recognized by AICTE — All India Council for Technical Education, a statutory body under Ministry of HRD, Govt. of India</span>
+                    <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                    </svg>
+                </button>
+                <div class="faq-a">
+                    <div class="row align-items-start g-4">
+                        <div class="col-md-8">
+                            <ul class="ra-pdf-list">
+                                <li><a href="https://mitsde.com/assets/images/media/common-images-new/RecognitionApproval-pdf/EOA-Report-2025-2026.PDF" target="_blank" rel="noopener">
+                                    <i class="fa-solid fa-file-pdf"></i>Approval Letter 2025–26 from AICTE
+                                </a></li>
+                                <li><a href="https://mitsde.com/assets/images/media/common-images-new/RecognitionApproval-pdf/EOA-Report-2024-2025.PDF" target="_blank" rel="noopener">
+                                    <i class="fa-solid fa-file-pdf"></i>Approval Letter 2024–25 from AICTE
+                                </a></li>
+                                <li><a href="https://mitsde.com/assets/images/media/common-images-new/RecognitionApproval-pdf/AICT-2023-24.pdf" target="_blank" rel="noopener">
+                                    <i class="fa-solid fa-file-pdf"></i>Approval Letter 2023–24 from AICTE
+                                </a></li>
+                                <li><a href="https://mitsde.com/assets/images/media/common-images-new/RecognitionApproval-pdf/AICT-2022-23.pdf" target="_blank" rel="noopener">
+                                    <i class="fa-solid fa-file-pdf"></i>Approval Letter 2022–23 from AICTE
+                                </a></li>
+                                <li><a href="https://mitsde.com/assets/images/media/common-images-new/RecognitionApproval-pdf/AICT-2021-22.pdf" target="_blank" rel="noopener">
+                                    <i class="fa-solid fa-file-pdf"></i>Approval Letter 2021–22 from AICTE
+                                </a></li>
+                                <li><a href="https://mitsde.com/assets/images/media/common-images-new/RecognitionApproval-pdf/AICT-2020-2021.pdf" target="_blank" rel="noopener">
+                                    <i class="fa-solid fa-file-pdf"></i>Approval Letter 2020–21 from AICTE
+                                </a></li>
+                                <li><a href="https://mitsde.com/assets/images/media/common-images-new/RecognitionApproval-pdf/AICT-2019-2020.pdf" target="_blank" rel="noopener">
+                                    <i class="fa-solid fa-file-pdf"></i>Approval Letter 2019–20 from AICTE
+                                </a></li>
+                                <li><a href="https://mitsde.com/assets/images/media/common-images-new/RecognitionApproval-pdf/AICT-2018-19.pdf" target="_blank" rel="noopener">
+                                    <i class="fa-solid fa-file-pdf"></i>Approval Letter 2018–19 from AICTE
+                                </a></li>
+                                <li><a href="https://mitsde.com/assets/images/media/common-images-new/RecognitionApproval-pdf/AICT-2017-18.pdf" target="_blank" rel="noopener">
+                                    <i class="fa-solid fa-file-pdf"></i>Approval Letter 2017–18 from UGC, Distance Education Bureau (DEB)
+                                </a></li>
+                                <li><a href="https://mitsde.com/assets/images/media/common-images-new/RecognitionApproval-pdf/AICT-2016-17.pdf" target="_blank" rel="noopener">
+                                    <i class="fa-solid fa-file-pdf"></i>Approval Letter 2016–17 from UGC, Distance Education Bureau (DEB)
+                                </a></li>
+                                <li><a href="https://mitsde.com/assets/images/media/common-images-new/RecognitionApproval-pdf/AICT-2015-16.pdf" target="_blank" rel="noopener">
+                                    <i class="fa-solid fa-file-pdf"></i>Approval Letter 2015–16 from UGC, Distance Education Bureau (DEB)
+                                </a></li>
                             </ul>
-
-                            </li>
-
-
-
-
-
-
-
+                        </div>
+                        <div class="col-md-4">
+                            <div class="ra-logo-wrap">
+                                <img src="assets-new/images/logos/aicte-logo.webp" alt="AICTE — All India Council for Technical Education" />
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </section>
-        <?php include "WhyMitsdeSiteBar.php"?>
 
+            <!-- ── 2. IIC ── -->
+            <div class="faq-item">
+                <button class="faq-q" aria-expanded="false">
+                    <span>Establishment and Functioning of Institution Innovation Council (IIC)</span>
+                    <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                    </svg>
+                </button>
+                <div class="faq-a">
+                    <div class="row align-items-start g-4">
+                        <div class="col-md-8">
+                            <ul class="ra-pdf-list">
+                                <li><a href="https://mitsde.com/assets/images/media/common-images-new/RecognitionApproval-pdf/EstablismentCertificate.pdf" target="_blank" rel="noopener">
+                                    <i class="fa-solid fa-file-pdf"></i>Institution Innovation Council (IIC) — Establishment Certificate
+                                </a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="ra-logo-wrap">
+                                <img src="assets-new/images/logos/iic-logo.webp" alt="IIC — Institution Innovation Council" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
-        <?php // include "learner-support.php" ?>
+            <!-- ── 3. ICDE ── -->
+            <div class="faq-item">
+                <button class="faq-q" aria-expanded="false">
+                    <span>MITSDE is Member of ICDE — International Council for Open and Distance Education, a Global Network for Online, Open and Flexible Education</span>
+                    <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                    </svg>
+                </button>
+                <div class="faq-a">
+                    <div class="row align-items-start g-4">
+                        <div class="col-md-8">
+                            <ul class="ra-pdf-list">
+                                <li><a href="https://mitsde.com/assets/images/media/common-images-new/RecognitionApproval-pdf/Membership%20Certificate-2019-20.pdf" target="_blank" rel="noopener">
+                                    <i class="fa-solid fa-file-pdf"></i>Membership Certificate 2019 from ICDE
+                                </a></li>
+                                <li><a href="https://mitsde.com/assets/images/media/common-images-new/RecognitionApproval-pdf/Membership%20Certificate-2018-19.pdf" target="_blank" rel="noopener">
+                                    <i class="fa-solid fa-file-pdf"></i>Membership Certificate 2018 from ICDE
+                                </a></li>
+                                <li><a href="https://mitsde.com/assets/images/media/common-images-new/RecognitionApproval-pdf/EstablismentCertificate.pdf" target="_blank" rel="noopener">
+                                    <i class="fa-solid fa-file-pdf"></i>Membership Certificate 2017 from ICDE
+                                </a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="ra-logo-wrap">
+                                <img src="assets-new/images/logos/icde-logo.webp" alt="ICDE — International Council for Open and Distance Education" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
-    </main>
-    <!-- Footer Start -->
+            <!-- ── 4. MCCIA ── -->
+            <div class="faq-item">
+                <button class="faq-q" aria-expanded="false">
+                    <span>MCCIA Certificate — Mahratta Chamber of Commerce, Industries and Agriculture</span>
+                    <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                    </svg>
+                </button>
+                <div class="faq-a">
+                    <div class="row align-items-start g-4">
+                        <div class="col-md-8">
+                            <ul class="ra-pdf-list">
+                                <li><a href="https://mitsde.com/assets/images/media/common-images-new/RecognitionApproval-pdf/MCCIA-2021-2022.pdf" target="_blank" rel="noopener">
+                                    <i class="fa-solid fa-file-pdf"></i>MCCIA Certificate 2021–22
+                                </a></li>
+                                <li><a href="https://mitsde.com/assets/images/media/common-images-new/RecognitionApproval-pdf/MCCIA-2018-2019.pdf" target="_blank" rel="noopener">
+                                    <i class="fa-solid fa-file-pdf"></i>MCCIA Certificate 2018–19
+                                </a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="ra-logo-wrap">
+                                <img src="assets-new/images/logos/mccia-logo.webp" alt="MCCIA — Mahratta Chamber of Commerce, Industries and Agriculture" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
-    <?php include "footer.php"?>
+        </div><!-- /.faq-list -->
+    </div>
+</section>
 
+<!-- ═══════════════════════════════════════════════
+   SITE FOOTER
+════════════════════════════════════════════════ -->
+<?php include "footer-new.php" ?>
 
-    <!-- footer end  -->
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/js/bootstrap-select.min.js"></script>
-    <script src="assets/js/slick.min.js"></script>
-    <script src="assets/js/common.js"></script>
-    <script src="assets/js/course-slider.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 
 </body>
-
 </html>

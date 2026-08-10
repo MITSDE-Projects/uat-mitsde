@@ -72,7 +72,7 @@
 
                 <!-- Center — hero image -->
                 <div class="ph-right">
-                    <img src="assets-new/images/academic.webp" alt="" />
+                    <img src="assets-new/images/academic.webp" alt="Academic Programs" />
                 </div>
 
                 <!-- Right — registration form card -->
