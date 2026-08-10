@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+<?php $pagename = "Boards"; ?>
+<!doctype html>
 <html lang="en">
 
 <head>
@@ -15,432 +16,332 @@
     <!-- CANONICAL TAG -->
 
     <link rel="canonical" href="https://mitsde.com/boards" />
-
-    <!-- CANONICAL TAG -->
-
-    <?php  include "5-common-seo-tag-1.php" ?>
-
     <!-- OGP TAG -->
-
     <meta property="og:title" content="BOARD OF GOVERNANCE">
     <meta property="og:site_name" content="MIT School of Distance Education">
     <meta property="og:url" content="https://mitsde.com/boards">
-    <meta property="og:description"
-        content="BOARD OF GOVERNANCE">
+    <meta property="og:description" content="BOARD OF GOVERNANCE">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/assets/images/course/common/boards.jpg">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/application-process.webp">
 
-    <!-- / OG TAG -->
-    <!-- Page Title -->
-    <link rel="icon" type="image/png" href="assets/images/favicon-mit.ico" />
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="assets/css/bootstrap-select.min.css" />
-    <link rel="stylesheet" href="assets/css/slick.min.css" />
-    <link rel="stylesheet" href="assets/css/fonts.css" type="text/css" />
-   <link rel="stylesheet" href="assets/css/style.css" type="text/css" />
-    <link  rel="stylesheet" href="assets/fontawesome/css/all.min.css" type="text/css">
-    <link rel="stylesheet" href="assets/css/course-common-internal.css" type="text/css" />
-    <link rel="stylesheet" href="assets/css/harbour.css" type="text/css" />
-    <!--API for Queck contact----->
-    <script src="assets/js/api/jquery-1.10.2.min.js"></script>
-    <script type="text/javascript" src="assets/js/api/validation.js" charset="UTF-8"></script>
-    <!----->
-    
+    <link rel="icon" type="image/png" href="assets-new/images/favicon-mit.ico" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="css-new/styles.css" />
+    <link rel="stylesheet" href="css-new/intlTelInput.css">
+
+    <?php include "5-common-seo-tag-1.php" ?>
 </head>
 
 <body>
     <?php include "5-common-seo-tag-2.php" ?>
-    <!-- Header Nav Start -->
-    <?php include "header.php"?>
-    <!-- Header Nav End --->
-    <main class="main-body">
-        <section class="banner inner-banner">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 col-lg-6 main-banner">
-                        <h1>Board</h1>
+    <?php include "header-new.php" ?>
 
-                        
-                        <div class="page-btn mt-3">
-                        <button type="button" class="btn btn-primary mit-button cus-btn inner-cus ms-0"
-                                data-bs-toggle="modal" data-bs-target="#enquiryModal-download-form"><span
-                                    class="mtsk-download"></span> &nbsp; Download BROCHURE
-                            </button>
+    <!-- ═══════════════════════════════════════════════
+   HERO
+════════════════════════════════════════════════ -->
+    <section class="hero ph-hero">
 
-                            
+        <nav class="page-breadcrumb" aria-label="Breadcrumb">
+            <span class="pb-line"></span>
+            <a href="./">Home</a>
+            <span class="pb-sep">/</span>
+            <span class="pb-current">Board</span>
+        </nav>
 
-                        </div>
-                       
-                        <div>
-
-                           
-                            <nav >
-                                <ol class="breadcrumb">
-                                    <li class="breadcrumb-item"><a href="https://mitsde.com">Home</a></li>
-                                    <li class="breadcrumb-item active" aria-current="page">Board</li>
-                                </ol>
-                            </nav>
-
-                        </div>
-                    </div>
-                    <div class="col-md-12 col-lg-6">
-                        <div class="css-details">
-                            <div class="stc-det student-sec inner-sec">
-                                <img src="assets/images/progress.svg" alt="Progress indicator icon">
-                            </div>
-                            <img src="assets/images/course/common/boards.jpg" class="banner-img" alt="boards">
-                            <div class="stc-det course-sec inner-sec">
-                                <img src="assets/images/walet.svg" alt="Wallet icon for payment">
-                            </div>
-                        </div>
-                    </div>
+        <div class="container">
+            <div class="ph-layout py-5">
+                <div class="ph-left">
+                    <h1 class="ph-heading">Board</h1>
+                    <button type="button" class="btn btn-dark rounded-pill px-4 py-2" data-bs-toggle="modal"
+                        data-bs-target="#downloadModal">Download Brochure</button>
+                </div>
+                <div class="ph-right">
+                    <img src="assets-new/images/application-process.webp" alt="Dual Acceleration Image" />
                 </div>
             </div>
-        </section>
-        <section>
-            <div class="container mt-3">
-                <div class="row">
-                    <h2><strong>BOARD OF GOVERNANCE</strong>
-                        
-                    </h2>
+        </div>
 
-                    <div class="col-md-12 curriculum">
+    </section>
 
-                        <table class="table">
+    <!-- ================= BOARD OF GOVERNANCE ================= -->
+    <section>
+        <div class="container">
+            <h2><strong>Board of Governance</strong></h2>
+            <div class="tbl-wrap">
+                <table class="tbl">
+                    <thead>
+                        <tr>
+                            <th class="tbl-label">S.No</th>
+                            <th class="tbl-label">Board Members</th>
+                            <th class="tbl-label">Particulars</th>
+                            <th class="tbl-label">Designation</th>
+                            <th class="tbl-label">Affiliation</th>
+                        </tr>
+                    </thead>
 
-                            <thead>
-                                <tr>
-                                    <th>S.No</th>
-                                    <th>Board Members</th>
-                                    <th>Particulars</th>
-                                    <th>Designation</th>
-                                    <th>Affiliation</th>
-
-
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <!-- Rows from the first table -->
-
-                                <tr>
-                                    <td>1</td>
-                                    <td>Mr. Makarand Hardas </td>
-                                    <td>Professional Body, Representation</td>
-                                    <td>Chairperson</td>
-                                    <td>VP Academics, PMI Deccan Chapter, Pune</td>
-
-
-
-                                </tr>
-                                <tr>
-                                    <td>2</td>
-                                    <td>Mr. Anup Gogate</td>
-                                    <td>Industry Expert</td>
-                                    <td>Member</td>
-                                    <td>VP, Mobikon Technologies Pvt. Ltd., Pune</td>
-
-
-                                </tr>
-                                <tr>
-                                    <td>3</td>
-                                    <td>Mr. Bipin Datar</td>
-                                    <td>Industry Expert</td>
-                                    <td>Member</td>
-                                    <td>CMO & Sr. VP Sales and Service, Klaus Multiparking Systems Pvt. Ltd., India</td>
-
-
-                                </tr>
-                                <tr>
-                                    <td>4</td>
-                                    <td>Mr. Swapnil Joshi</td>
-                                    <td>Entrepreneur</td>
-                                    <td>Member</td>
-                                    <td>Director, Eco Regain Solutions Pvt. Ltd., Pune</td>
-                                </tr>
-                                <tr>
-                                    <td>5</td>
-                                    <td>Mr. Sheetal Singh</td>
-                                    <td>Entrepreneur</td>
-                                    <td>Member</td>
-                                    <td>Director, Market Intelligence & Consulting Pvt. Ltd., Pune</td>
-
-
-                                </tr>
-
-                                <tr>
-                                    <td>6</td>
-                                    <td>Mr. Sanjay Radhakrishnan</td>
-                                    <td>eLearning Expert</td>
-                                    <td>Member</td>
-                                    <td>CCO, Tata Class Edge, Mumbai</td>
-
-
-                                </tr>
-                                <tr>
-                                    <td>7</td>
-                                    <td>Mr. Sujeet Savargaonkar</td>
-                                    <td>Academician</td>
-                                    <td>Member</td>
-                                    <td>Academic Consultant</td>
-                                </tr>
-
-                                <tr>
-                                    <td>8</td>
-
-                                    <td>WRO, AICTE</td>
-                                    <td>Awaited</td>
-                                    <td>Member</td>
-                                    <td>WRO, AICTE</td>
-
-                                </tr>
-
-                                <tr>
-                                    <td>9</td>
-                                    <td>State Govt. Nominee</td>
-                                    <td>Awaited</td>
-                                    <td>Member</td>
-                                    <td>State Govt. Nominee</td>
-
-                                </tr>
-                                <tr>
-                                    <td>10</td>
-                                    <td>Dr. Nitin Rane </td>
-                                    <td>Project Director</td>
-                                    <td>Member - Secretary</td>
-                                    <td>Project Director, MITSDE, Pune</td>
-                                </tr>
-                                <tr>
-                                    <td>11</td>
-                                    <td>Dr. Suhrud Neurgaonkar</td>
-                                    <td>Academic Expert</td>
-                                    <td>Member - Secretary</td>
-                                    <td>Director, MITSDE, Pune</td>
-
-
-                                </tr>
-
-                                
-
-                            </tbody>
-                        </table>
-
-
-
-
-                    </div>
-                </div>
-
+                    <tbody data-board="governance"></tbody>
+                </table>
             </div>
-        </section>
-
-        <section>
-            <div class="container mt-3">
-                <div class="row">
-                    <h2><strong>Board of Studies</strong>
-                       
-                    </h2>
-
-                    <div class="col-md-12 curriculum">
-
-                        <table class="table">
-
-                            <thead>
-                                <tr>
-                                    <th>S.No</th>
-                                    <th>Board Members</th>
-                                    <th>Particulars</th>
-                                    <th>Designation</th>
-                                    <th>Affiliation</th>
+        </div>
+    </section>
 
 
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <!-- Rows from the first table -->
+    <!-- ================= BOARD OF STUDIES ================= -->
+    <section class="pt-0">
+        <div class="container">
+            <h2><strong>Board of Studies</strong></h2>
+            <div class="tbl-wrap">
+                <table class="tbl">
+                    <thead>
+                        <tr>
+                            <th class="tbl-label">S.No</th>
+                            <th class="tbl-label">Board Members</th>
+                            <th class="tbl-label">Particulars</th>
+                            <th class="tbl-label">Designation</th>
+                            <th class="tbl-label">Affiliation</th>
+                        </tr>
+                    </thead>
 
-                                <tr>
-							    <td >1</td>
-							    <td >Dr. Suhrud Neurgaonkar </td>
-								<td >Director</td>
-								<td >Chairman</td>
-								<td >Director, MITSDE</td>
-							</tr>
-							
-							 <tr>
-							     <td >2</td>
-							    <td >All Faculty</td>
-								<td >Academic Expert</td>
-								<td >Member</td>
-								<td>Annexure I</td>
-								
-							</tr>
-							
-							<tr>
-							     <td >3</td>
-							    <td >CS Avneesh Mishra</td>
-								<td >Academic Expert</td>
-								<td >Member</td>
-								<td >Manager – Legal Compliance & Ethics Secretarial Legal, Cummins India Ltd.</td>
-								
-								
-							</tr>
-							  <tr>
-							     <td >4</td>
-							    <td>Mr. R. Balaji</td>
-								<td >Academic Expert</td>
-								<td >Member</td>
-								<td >CA, Tax Expert, Pune </td>
-								
-								
-							</tr>
-							 
-							<tr>
-							     <td >5</td>
-							    <td>Mrs. Supriya Pujari</td>
-								<td >Industry Expert</td>
-								<td>Member</td>
-								<td >ICF Accredited Coach & Neuro Linguistics Programming (NLP) Master Practitioner</td>
-								
-								
-							</tr>
-							
-							<tr>
-							     <td >6</td>
-							    <td >Dr. Manjusha Kadam</td>
-								<td >Industry Expert</td>
-								<td >Member</td>
-								<td>Consultant, Tata Chemicals, Pune</td>
-								
-							</tr>
-							
-							<tr>
-							     <td >7</td>
-							    <td >Mr. Sadanand Garde</td>
-								<td >Entrepreneur</td>
-								<td >Member</td>
-								<td>Director at Horus Energy Pvt. Ltd, Pune</td>
-							</tr>
-							
-							<tr>
-							     <td >8</td>
-							    <td >Ms. Nivedita Indalkar</td>
-								<td >Alumnus Representation</td>
-								<td >Member</td>
-								<td>Manager - Training,  Vanderlande Industries Software Pvt. Ltd. India</td>
-							</tr>
-
-                            </tbody>
-                        </table>
-
-
-
-
-                    </div>
-                </div>
-
+                    <tbody data-board="studies"></tbody>
+                </table>
             </div>
-        </section>
-
-        <section>
-            <div class="container mt-3">
-                <div class="row">
-                    <h2><strong>Board of Examinations</strong>
-                       
-                    </h2>
-
-                    <div class="col-md-12 curriculum">
-
-                        <table class="table">
-
-                            <thead>
-                                <tr>
-                                    <th>S.No</th>
-                                    <th>Board Members</th>
-                                    <th>Particulars</th>
-                                    <th>Designation</th>
-                                  
+        </div>
+    </section>
 
 
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <!-- Rows from the first table -->
+    <!-- ================= BOARD OF EXAMINATIONS ================= -->
+    <section class="pt-0">
+        <div class="container">
+            <h2><strong>Board of Examinations</strong></h2>
+            <div class="tbl-wrap">
+                <table class="tbl">
+                    <thead>
+                        <tr>
+                            <th class="tbl-label">S.No</th>
+                            <th class="tbl-label">Board Members</th>
+                            <th class="tbl-label">Particulars</th>
+                            <th class="tbl-label">Designation</th>
+                        </tr>
+                    </thead>
 
-                                <tr>
-							    <td >1</td>
-							    <td >Dr. Suhrud Neurgaonkar </td>
-								<td >Director</td>
-								<td >Chairman</td>
-								
-								
-								
-							 </tr>
-							 <tr>
-							     <td >2</td>
-							    <td >Dr. Jaideep Jadhav</td>
-								<td >Controller of Examination</td>
-								<td >Member</td>
-								
-								
-							</tr>
-							<tr>
-							     <td >3</td>
-							    <td >Prof. Lalit Pawar</td>
-								<td >Representation – Panel of Evaluators & Examiners </td>
-								<td >Member</td>
-								
-								
-							</tr>
-							<tr>
-							     <td >4</td>
-							    <td >Dr. Nitin Zadpe</td>
-								<td >Exam Administrator</td>
-								<td >Member</td>
-								
-								
-							</tr>
-							<tr>
-							     <td >5</td>
-							    <td >Mr. Vinay D. Garud</td>
-								<td >Section Officer - Examination</td>
-								<td >Member</td>
-								
-								
-							</tr>
-
-                            </tbody>
-                        </table>
-
-
-
-
-                    </div>
-                </div>
-
+                    <tbody data-board="examinations"></tbody>
+                </table>
             </div>
-        </section>
+        </div>
+    </section>
 
 
+    <!-- ================= COMMON SCRIPT - ONLY ONCE ================= -->
+    <script>
+        const boardData = {
+
+            /* =========================================
+            BOARD OF GOVERNANCE
+            ========================================= */
+            governance: [
+                {
+                    name: 'Mr. Makarand Hardas',
+                    particulars: 'Professional Body, Representation',
+                    designation: 'Chairperson',
+                    affiliation: 'VP Academics, PMI Deccan Chapter, Pune'
+                },
+                {
+                    name: 'Mr. Anup Gogate',
+                    particulars: 'Industry Expert',
+                    designation: 'Member',
+                    affiliation: 'VP, Mobikon Technologies Pvt. Ltd., Pune'
+                },
+                {
+                    name: 'Mr. Bipin Datar',
+                    particulars: 'Industry Expert',
+                    designation: 'Member',
+                    affiliation: 'CMO & Sr. VP Sales and Service, Klaus Multiparking Systems Pvt. Ltd., India'
+                },
+                {
+                    name: 'Mr. Swapnil Joshi',
+                    particulars: 'Entrepreneur',
+                    designation: 'Member',
+                    affiliation: 'Director, Eco Regain Solutions Pvt. Ltd., Pune'
+                },
+                {
+                    name: 'Mr. Sheetal Singh',
+                    particulars: 'Entrepreneur',
+                    designation: 'Member',
+                    affiliation: 'Director, Market Intelligence & Consulting Pvt. Ltd., Pune'
+                },
+                {
+                    name: 'Mr. Sanjay Radhakrishnan',
+                    particulars: 'eLearning Expert',
+                    designation: 'Member',
+                    affiliation: 'CCO, Tata Class Edge, Mumbai'
+                },
+                {
+                    name: 'Mr. Sujeet Savargaonkar',
+                    particulars: 'Academician',
+                    designation: 'Member',
+                    affiliation: 'Academic Consultant'
+                },
+                {
+                    name: 'WRO, AICTE',
+                    particulars: 'Awaited',
+                    designation: 'Member',
+                    affiliation: 'WRO, AICTE'
+                },
+                {
+                    name: 'State Govt. Nominee',
+                    particulars: 'Awaited',
+                    designation: 'Member',
+                    affiliation: 'State Govt. Nominee'
+                },
+                {
+                    name: 'Dr. Nitin Rane',
+                    particulars: 'Project Director',
+                    designation: 'Member - Secretary',
+                    affiliation: 'Project Director, MITSDE, Pune'
+                },
+                {
+                    name: 'Dr. Suhrud Neurgaonkar',
+                    particulars: 'Academic Expert',
+                    designation: 'Member - Secretary',
+                    affiliation: 'Director, MITSDE, Pune'
+                }
+            ],
 
 
+            /* =========================================
+            BOARD OF STUDIES
+            ========================================= */
+            studies: [
+                {
+                    name: 'Dr. Suhrud Neurgaonkar',
+                    particulars: 'Director',
+                    designation: 'Chairman',
+                    affiliation: 'Director, MITSDE'
+                },
+                {
+                    name: 'All Faculty',
+                    particulars: 'Academic Expert',
+                    designation: 'Member',
+                    affiliation: 'Annexure I'
+                },
+                {
+                    name: 'CS Avneesh Mishra',
+                    particulars: 'Academic Expert',
+                    designation: 'Member',
+                    affiliation: 'Manager – Legal Compliance & Ethics Secretarial Legal, Cummins India Ltd.'
+                },
+                {
+                    name: 'Mr. R. Balaji',
+                    particulars: 'Academic Expert',
+                    designation: 'Member',
+                    affiliation: 'CA, Tax Expert, Pune'
+                },
+                {
+                    name: 'Mrs. Supriya Pujari',
+                    particulars: 'Industry Expert',
+                    designation: 'Member',
+                    affiliation: 'ICF Accredited Coach & Neuro Linguistics Programming (NLP) Master Practitioner'
+                },
+                {
+                    name: 'Dr. Manjusha Kadam',
+                    particulars: 'Industry Expert',
+                    designation: 'Member',
+                    affiliation: 'Consultant, Tata Chemicals, Pune'
+                },
+                {
+                    name: 'Mr. Sadanand Garde',
+                    particulars: 'Entrepreneur',
+                    designation: 'Member',
+                    affiliation: 'Director at Horus Energy Pvt. Ltd, Pune'
+                },
+                {
+                    name: 'Ms. Nivedita Indalkar',
+                    particulars: 'Alumnus Representation',
+                    designation: 'Member',
+                    affiliation: 'Manager - Training, Vanderlande Industries Software Pvt. Ltd. India'
+                }
+            ],
 
 
+            /* =========================================
+            BOARD OF EXAMINATIONS
+            ========================================= */
+            examinations: [
+                {
+                    name: 'Dr. Suhrud Neurgaonkar',
+                    particulars: 'Director',
+                    designation: 'Chairman'
+                },
+                {
+                    name: 'Dr. Jaideep Jadhav',
+                    particulars: 'Controller of Examination',
+                    designation: 'Member'
+                },
+                {
+                    name: 'Prof. Lalit Pawar',
+                    particulars: 'Representation – Panel of Evaluators & Examiners',
+                    designation: 'Member'
+                },
+                {
+                    name: 'Dr. Nitin Zadpe',
+                    particulars: 'Exam Administrator',
+                    designation: 'Member'
+                },
+                {
+                    name: 'Mr. Vinay D. Garud',
+                    particulars: 'Section Officer - Examination',
+                    designation: 'Member'
+                }
+            ]
+        };
 
 
+        /* =========================================
+        COMMON FUNCTION - RUNS FOR ALL TABLES
+        ========================================= */
 
-    </main>
-    <!-- Footer Start -->
+        document.querySelectorAll('[data-board]').forEach((tbody) => {
 
-    <?php include "footer.php"?>
+            const boardName = tbody.dataset.board;
+            const rows = boardData[boardName];
 
+            rows.forEach((row, index) => {
 
-    <!-- footer end  -->
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/js/bootstrap-select.min.js"></script>
-    <script src="assets/js/slick.min.js"></script>
-    <script src="assets/js/common.js"></script>
-    <script src="assets/js/course-slider.js"></script>
+                const tr = document.createElement('tr');
+
+                /* Board of Examinations has no Affiliation column */
+                if (boardName === 'examinations') {
+
+                    tr.innerHTML = `
+                        <td>${index + 1}</td>
+                        <td class="capitalize">${row.name}</td>
+                        <td class="capitalize">${row.particulars}</td>
+                        <td class="capitalize">${row.designation}</td>
+                    `;
+
+                } else {
+
+                    tr.innerHTML = `
+                        <td>${index + 1}</td>
+                        <td class="capitalize">${row.name}</td>
+                        <td class="capitalize">${row.particulars}</td>
+                        <td class="capitalize">${row.designation}</td>
+                        <td class="lowercase">${row.affiliation}</td>
+                    `;
+                }
+
+                tbody.appendChild(tr);
+            });
+        });
+    </script>
+
+    <!-- ═══════════════════════════════════════════════
+   SITE FOOTER
+════════════════════════════════════════════════ -->
+    <?php include "footer-new.php" ?>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 
 </body>
 

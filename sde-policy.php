@@ -1,4 +1,4 @@
-<?php $pagename = "SDE Policy"; ?>
+<?php $pagename = "MITSDE Policy"; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,8 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-    <title>SDE Policy & Student Guidelines | MIT SDE</title>
-    <meta name="description" content="Explore MIT SDE’s academic policies, student guidelines, admission rules, and institutional procedures designed to support quality distance education." />
+    <title>MITSDE Policy & Student Guidelines | MITSDE</title>
+    <meta name="description" content="Explore MITSDE’s academic policies, student guidelines, admission rules, and institutional procedures designed to support quality distance education." />
     <meta name="keywords" content="distance pg certificate courses, distance certificate courses, online learning, distance learning center, online mba programs, pgdm courses, pgdm distance courses" />
 
     <link rel="canonical" href="https://mitsde.com/sde-policy" />
