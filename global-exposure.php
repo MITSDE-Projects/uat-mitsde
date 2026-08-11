@@ -92,14 +92,14 @@
         .ge-stat-lbl { font-size: 11px; color: rgba(124,21,0,.7); letter-spacing: 0.08em; text-transform: uppercase; margin-top: 4px; }
         .ge-ctas { display: flex; gap: 12px; flex-wrap: wrap; }
         .ge-btn-primary {
-            padding: 12px 28px; background: #111827; color: #fff;
-            font-size: 13.5px; font-weight: 700; border-radius: var(--r-sm);
+            padding: 12px 28px; background: #f47521; color: #fff;
+            font-size: 13.5px; font-weight: 700; border-radius: 50px;
             text-decoration: none; letter-spacing: 0.02em; transition: background .15s;
         }
         .ge-btn-primary:hover { background: #374151; color: #fff; }
         .ge-btn-outline {
-            padding: 12px 28px; background: #111827; color: #fff;
-            font-size: 13.5px; font-weight: 600; border-radius: var(--r-sm);
+            padding: 12px 28px; background: #f47521; color: #fff;
+            font-size: 13.5px; font-weight: 600; border-radius: 50px;
             border: 1px solid rgba(255,255,255,.5); text-decoration: none; transition: background .15s, border-color .15s;
         }
         .ge-btn-outline:hover { background: #374151; border-color: #fff; color: #fff; }

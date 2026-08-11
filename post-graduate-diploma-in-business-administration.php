@@ -404,7 +404,7 @@
                     <span class="prog-emoji">🤔</span>
                     <h3>Not Sure Which Program?</h3>
                     <p>Get free career counselling from our experts</p>
-                    <a href="#counsellorModal" class="btn-counsellor" data-bs-toggle="modal">Talk to Counsellor</a>
+                    <a href="#" class="btn-counsellor" data-bs-toggle="modal" data-bs-target="#eqModal">Talk to Counsellor</a>
                 </div>
 
             </div>

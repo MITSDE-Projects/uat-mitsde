@@ -93,39 +93,39 @@
               </div>
             </div> -->
 
-            <div class="mini-card">
+            <a href="placement" class="text-dark"><div class="mini-card">
               <img class="mc-bg" src="assets-new/images/placement-mini-bg.webp" alt="Placement" />
               <div class="mc-title">
                 <!-- <div class="mc-title-big">AI</div> -->
                 <div class="mc-title-sm">Placement</div>
               </div>
-              <div class="mc-label"><a href="placement" class="text-dark">Know More</a></div>
-            </div>
+              <div class="mc-label">Know More</div>
+            </div></a>
 
             <!-- AI Masterclass orange card -->
-            <div class="mini-card">
+            <a href="ai-masterclass" class="text-dark"><div class="mini-card">
               <img class="mc-bg" src="assets-new/images/ai-card-bg.jpg" alt="AI Masterclass" />
               <div class="mc-overlay" style="background: rgba(255, 87, 0, 0.72)"></div>
               <div class="mc-title">
                 <div class="mc-title-big text-start">AI</div>
                 <div class="mc-title-sm">Masterclass</div>
               </div>
-              <div class="mc-label"><a href="ai-masterclass" class="text-dark">Know More</a></div>
-            </div>
+              <div class="mc-label">Know More</div>
+            </div></a>
           </div>
           <div class="floating-cards right">
             <!-- Success Stories video card -->
-            <div class="mini-card">
+            <a href="testimonials" class="text-dark"><div class="mini-card">
               <img class="mc-bg" src="assets-new/images/video-card-img2.jpg" alt="Success Stories" />
               <div class="mc-overlay" style="background: rgba(0, 0, 0, 0.18)"></div>
               <div class="mc-play">
                 <div class="mc-play-tri"></div>
               </div>
-              <div class="mc-label"><a href="testimonials" class="text-dark">Success Stories</a></div>
-            </div>
+              <div class="mc-label">Success Stories</div>
+            </div></a>
 
             <!-- Corporate Upscaling orange card -->
-            <div class="mini-card">
+            <a href="global-exposure" class="text-dark"><div class="mini-card">
               <img class="mc-bg" src="assets-new/images/international-card-bg.webp" alt="Global Exposure" />
               <div class="mc-overlay" style="background: rgba(255, 87, 0, 0.72)"></div>
               <!-- CSBE logo white -->
@@ -140,8 +140,8 @@
                 <div class="mc-title-sm text-start">Global</div>
                 <div class="mc-title-sm text-start">Exposure</div>
               </div>
-              <div class="mc-label"><a href="global-exposure" class="text-dark">Know More</a></div>
-            </div>
+              <div class="mc-label">Know More</div>
+            </div></a>
           </div>
         </div><!-- /.cards-scroll-strip -->
       </div>
@@ -158,9 +158,9 @@
           <div class="learner-track-wrap">
             <div class="learner-track">
               <div class="learner-item">
-                <div class="logo-wrap">
+                <!-- <div class="logo-wrap">
                   <img src="assets-new/images/learners/flipkart.webp" alt="flipkart-logo" class="company-logo" />
-                </div>
+                </div> -->
                 <div class="photo-wrap">
                   <img src="assets-new/images/learners/amol-narayan.webp" alt="Learner" class="learner-photo" />
                 </div>
@@ -168,9 +168,9 @@
                     class="fab fa-linkedin-in"></i></a>
               </div>
               <div class="learner-item">
-                <div class="logo-wrap">
+                <!-- <div class="logo-wrap">
                   <img src="assets-new/images/learners/patterns.webp" alt="patterns-logo" class="company-logo" />
-                </div>
+                </div> -->
                 <div class="photo-wrap">
                   <img src="assets-new/images/learners/darshan-sonawane.webp" alt="Learner" class="learner-photo" />
                 </div>
@@ -178,9 +178,9 @@
                     class="fab fa-linkedin-in"></i></a>
               </div>
               <div class="learner-item">
-                <div class="logo-wrap">
+                <!-- <div class="logo-wrap">
                   <img src="assets-new/images/learners/tech-mahindra.webp" alt="tech-mahindra-logo" class="company-logo" />
-                </div>
+                </div> -->
                 <div class="photo-wrap">
                   <img src="assets-new/images/learners/kruti-paranjpe.webp" alt="Learner" class="learner-photo" />
                 </div>
@@ -188,9 +188,9 @@
                     class="fab fa-linkedin-in"></i></a>
               </div>
               <div class="learner-item">
-                <div class="logo-wrap">
+                <!-- <div class="logo-wrap">
                   <img src="assets-new/images/learners/accenture.webp" alt="accenture-logo" class="company-logo" />
-                </div>
+                </div> -->
                 <div class="photo-wrap">
                   <img src="assets-new/images/learners/shantanu-nipankar.webp" alt="Learner" class="learner-photo" />
                 </div>
@@ -198,9 +198,9 @@
                     class="fab fa-linkedin-in"></i></a>
               </div>
               <div class="learner-item">
-                <div class="logo-wrap">
+                <!-- <div class="logo-wrap">
                   <img src="assets-new/images/learners/omadus.webp" alt="omadus-logo" class="company-logo" />
-                </div>
+                </div> -->
                 <div class="photo-wrap">
                   <img src="assets-new/images/learners/vaishnavi-bhoite.webp" alt="Learner" class="learner-photo" />
                 </div>
@@ -208,9 +208,9 @@
                     class="fab fa-linkedin-in"></i></a>
               </div>
               <div class="learner-item">
-                <div class="logo-wrap">
+                <!-- <div class="logo-wrap">
                   <img src="assets-new/images/learners/e-team.webp" alt="e-team-logo" class="company-logo" />
-                </div>
+                </div> -->
                 <div class="photo-wrap">
                   <img src="assets-new/images/learners/vivek-nehe.webp" alt="Learner" class="learner-photo" />
                 </div>

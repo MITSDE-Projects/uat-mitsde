@@ -152,7 +152,7 @@
                 </div>
                 <div class="about-leader-content">
                     <h3 class="stage-title text-orange">Mr. Digvijay Karad</h3>
-                    <p class="section-sub">Group Director, MIT INDIA, MITSDE, VGWS</p>
+                    <p class="section-sub">Group Director, MIT INDIA</p>
                     <hr class="about-leader-hr" />
                     <div class="sub-text">
                         <p>Representing a new generation of institutional leadership, Mr. Digvijay Karad is focused on strengthening innovation, entrepreneurship, and future-oriented learning ecosystems across MIT INDIA. His work spans educational innovation, startup incubation, industry collaboration, and the development of platforms that connect academia with emerging economic and societal needs.</p>

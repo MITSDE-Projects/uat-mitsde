@@ -372,7 +372,7 @@ a { text-decoration: none; }
 
 .learner-item {
     width: 100px;
-    height: 140px;
+    height: 147px;
     background: #f3f4f6;
     border-radius: 10px;
     display: flex;
@@ -430,7 +430,7 @@ a { text-decoration: none; }
     background: #fff1e6;
     display: flex;
     align-items: center;
-    padding: 60px 1rem;
+    padding: 61px 1rem;
     border-radius: 12px;
     gap: 2rem;
 }
@@ -585,7 +585,7 @@ a { text-decoration: none; }
 }
 
 @media (max-width: 480px) {
-    .learner-item { height: 120px; }
+    .learner-item { height: 147px; }
     .trust-badges { flex-direction: column; align-items: center; text-align: center; gap: 0.8rem; }
     .trust-badges .vertical-divider-2 { display: none; }
     .google-review { align-items: center; gap: 0.5rem; }
@@ -603,7 +603,7 @@ a { text-decoration: none; }
 
 .stage-card {
     background: var(--white);
-    border: 1px solid var(--text-dark);
+    border: 1px solid #cfcfcfb7;
     border-radius: 12px;
     padding: 1rem;
     display: flex;
@@ -648,7 +648,7 @@ a { text-decoration: none; }
 
 .diff-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; }
 
-.diff-card { border: 1px solid var(--text-dark); border-radius: 12px; padding: 1.5rem; background: var(--white); transition: 0.4s; }
+.diff-card { border: 1px solid #cfcfcfb7; border-radius: 12px; padding: 1.5rem; background: var(--white); transition: 0.4s; }
 .diff-card:hover { transform: translateY(-8px); box-shadow: 0 15px 40px rgba(0,0,0,.3); }
 
 @media (max-width: 991px) { .stages-grid { grid-template-columns: repeat(2, 1fr); } }
@@ -729,7 +729,7 @@ a { text-decoration: none; }
 
 .program-card {
     background: #fff;
-    border: 1px solid var(--text-dark);
+    border: 1px solid #cfcfcfb7;
     border-radius: 10px;
     padding: 14px;
     padding-top: 35px;
@@ -874,7 +874,7 @@ a { text-decoration: none; }
 
 .industrySwiper { padding-bottom: 60px; }
 
-.industry-card { background: #fff; border: 1px solid var(--text-dark); border-radius: 10px; padding: 16px; height: 100%; transition: .35s ease; }
+.industry-card { background: #fff; border: 1px solid #cfcfcfb7; border-radius: 10px; padding: 16px; height: 100%; transition: .35s ease; }
 .industry-card:hover { transform: translateY(-8px); box-shadow: 0 15px 40px rgba(0,0,0,.3); }
 
 .industry-image-wrapper { position: relative; overflow: hidden; border-radius: 8px; }

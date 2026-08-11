@@ -57,7 +57,7 @@
             aspect-ratio: 16 / 9;
             border-radius: 10px;
             overflow: hidden;
-            border: 3px solid var(--primary-orange);
+            /* border: 3px solid var(--primary-orange); */
             box-shadow: 0 4px 14px rgba(0,0,0,.10);
             cursor: pointer;
             transition: transform .25s, box-shadow .25s;
