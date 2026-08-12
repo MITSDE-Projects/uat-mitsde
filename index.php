@@ -388,15 +388,19 @@
                 <input type="hidden" name="longitude" value="">
                 <input type="text" name="website" tabindex="-1" autocomplete="off" style="position:absolute;left:-9999px;opacity:0;pointer-events:none;">
                 <div class="eq-field">
+                  <i class="fa-solid fa-user eq-icon"></i>
                   <input type="text" name="first_name3" class="eq-input" placeholder="Full Name *" validate="Required|Full Name*" autocomplete="off">
                 </div>
                 <div class="eq-field">
+                  <i class="fa-solid fa-envelope eq-icon"></i>
                   <input type="email" name="email3" class="eq-input" placeholder="Email Address *" validate="Email|Email*" autocomplete="off">
                 </div>
                 <div class="eq-field">
+                  <i class="fa-solid fa-phone eq-icon"></i>
                   <input type="tel" name="MobileNumber" class="eq-input" placeholder="Mobile Number *" maxlength="10" validate="Required|Phone|Phone*" autocomplete="off">
                 </div>
                 <div class="eq-field">
+                  <i class="fa-solid fa-location-dot eq-icon"></i>
                   <select name="state" class="eq-input eq-select" validate="Required|State|State*">
                     <option value="">Select State *</option>
                     <option value="Andhra Pradesh">Andhra Pradesh</option><option value="Andaman and Nicobar Islands">Andaman and Nicobar Islands</option>
@@ -415,6 +419,7 @@
                   </select>
                 </div>
                 <div class="eq-field">
+                  <i class="fa-solid fa-graduation-cap eq-icon"></i>
                   <select name="HQ" class="eq-input eq-select" validate="Required|HQ*">
                     <option value="">Highest Qualification *</option>
                     <option value="graduation">Graduation</option>

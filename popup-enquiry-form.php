@@ -54,6 +54,7 @@ $_eq_pagename = isset($pagename) ? $pagename : ((isset($_SERVER['HTTPS']) ? 'htt
                            style="position:absolute;left:-9999px;opacity:0;pointer-events:none;">
 
                     <div class="eq-field">
+                        <i class="fa-solid fa-user eq-icon"></i>
                         <input type="text" name="first_name3" class="eq-input"
                                placeholder="Full Name *"
                                validate="Required|Full Name*"
@@ -61,6 +62,7 @@ $_eq_pagename = isset($pagename) ? $pagename : ((isset($_SERVER['HTTPS']) ? 'htt
                     </div>
 
                     <div class="eq-field">
+                        <i class="fa-solid fa-envelope eq-icon"></i>
                         <input type="email" name="email3" class="eq-input"
                                placeholder="Email Address *"
                                validate="Email|Email*"
@@ -68,6 +70,7 @@ $_eq_pagename = isset($pagename) ? $pagename : ((isset($_SERVER['HTTPS']) ? 'htt
                     </div>
 
                     <div class="eq-field">
+                        <i class="fa-solid fa-phone eq-icon"></i>
                         <input type="tel" name="MobileNumber" class="eq-input"
                                placeholder="Mobile Number *" maxlength="10"
                                validate="Required|Phone|Phone*"
@@ -75,6 +78,7 @@ $_eq_pagename = isset($pagename) ? $pagename : ((isset($_SERVER['HTTPS']) ? 'htt
                     </div>
 
                     <div class="eq-field">
+                        <i class="fa-solid fa-graduation-cap eq-icon"></i>
                         <select name="HQ" class="eq-input eq-select" validate="Required|HQ*">
                             <option value="">Highest Qualification *</option>
                             <option value="graduation">Graduation</option>
@@ -84,6 +88,7 @@ $_eq_pagename = isset($pagename) ? $pagename : ((isset($_SERVER['HTTPS']) ? 'htt
                     </div>
 
                     <div class="eq-field">
+                        <i class="fa-solid fa-location-dot eq-icon"></i>
                         <select name="state" class="eq-input eq-select" validate="Required|State|State*">
                             <option value="">Select State *</option>
                             <option value="Andhra Pradesh">Andhra Pradesh</option>

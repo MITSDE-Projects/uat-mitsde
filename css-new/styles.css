@@ -3942,11 +3942,14 @@ select.rf-input option[value=""] { color: #9ca3af; }
 }
 .eq-title { font-size: 1.1rem; font-weight: 700; color: var(--text-dark); margin-bottom: .8rem; }
 
-.eq-field { margin-bottom: .5rem; }
+.eq-field {
+    margin-bottom: .5rem;
+    position: relative;
+}
 
 .eq-input {
     width: 100%;
-    padding: .55rem .8rem;
+    padding: .55rem .8rem .55rem 2.5rem; /* left padding increased for icon */
     border: 1.5px solid #e5e7eb;
     border-radius: 8px;
     font-size: .84rem;
@@ -3958,8 +3961,32 @@ select.rf-input option[value=""] { color: #9ca3af; }
     -webkit-appearance: none;
     font-family: inherit;
 }
-.eq-input::placeholder { color: #9ca3af; }
-.eq-input:focus { border-color: var(--primary-orange); box-shadow: 0 0 0 3px rgba(234,88,12,.1); }
+
+.eq-input::placeholder {
+    color: #9ca3af;
+}
+
+.eq-input:focus {
+    border-color: var(--primary-orange);
+    box-shadow: 0 0 0 3px rgba(234, 88, 12, .1);
+}
+
+/* Field Icons */
+.eq-icon {
+    position: absolute;
+    left: .85rem;
+    top: 1.30rem;
+    transform: translateY(-50%);
+    color: #9ca3af;
+    font-size: .85rem;
+    z-index: 2;
+    pointer-events: none;
+}
+
+/* Icon color when field is focused */
+.eq-field:focus-within .eq-icon {
+    color: var(--primary-orange);
+}
 
 .eq-select {
     background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'%3E%3Cpath d='M1 1l4 4 4-4' stroke='%236b7280' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");

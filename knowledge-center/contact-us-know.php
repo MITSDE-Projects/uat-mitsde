@@ -23,6 +23,7 @@
 
     <!-- Name -->
     <div class="eq-field">
+        <i class="fa-solid fa-user eq-icon"></i>
         <input
             type="text"
             name="first_name3"
@@ -34,6 +35,7 @@
 
     <!-- Email -->
     <div class="eq-field">
+        <i class="fa-solid fa-envelope eq-icon"></i>
         <input
             type="email"
             name="email3"
@@ -45,6 +47,7 @@
 
     <!-- Mobile -->
     <div class="eq-field">
+        <i class="fa-solid fa-phone eq-icon"></i>
         <input
             type="tel"
             name="MobileNumber"
@@ -57,6 +60,7 @@
 
     <!-- State -->
     <div class="eq-field">
+        <i class="fa-solid fa-location-dot eq-icon"></i>
         <select
             name="state"
             class="eq-input eq-select"
@@ -104,6 +108,7 @@
 
     <!-- Highest Qualification -->
     <div class="eq-field">
+        <i class="fa-solid fa-graduation-cap eq-icon"></i>
         <select
             name="HQ"
             id="HQ"
