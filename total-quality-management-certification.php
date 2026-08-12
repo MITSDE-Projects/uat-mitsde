@@ -61,7 +61,7 @@
             "@context": "https://schema.org/",
             "@type": "Product",
             "name": "Certification in Total Quality Management Training and Certificate | MITSDE",
-            "image": "https://mitsde.com/assets/images/course/cap/total-quality-management-certification.jpg.webp",
+            "image": "https://mitsde.com/assets/images/course/cap/total-quality-management-certification.webp",
             "description": "Upgrade your career with MITSDE’s Diploma in Total Quality Management Training. Gain valuable skills and earn a recognized certificate.",
             "brand": {
                 "@type": "Brand",
@@ -115,7 +115,7 @@
     <meta property="og:url" content="https://mitsde.com/diploma-in-total-quality-management">
     <meta property="og:description" content="Upgrade your career with MITSDE’s Diploma in Total Quality Management Training. Gain valuable skills and earn a recognized certificate.">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/assets/images/course/cap/total-quality-management-certification.jpg.webp">
+    <meta property="og:image" content="https://mitsde.com/assets/images/course/cap/total-quality-management-certification.webp">
 
     <!-- / OG TAG -->
 
@@ -130,7 +130,7 @@
         <?php include "announcementUpdate.php" ?>
         <section class="banner inner-banner pmp-hero">
             <div class="container">
-                <img src="assets/images/course/cap/total-quality-management-certification.jpg.webp" class="img-fluid w-100" alt="Diploma in Total Quality Management" />
+                <img src="assets/images/course/cap/total-quality-management-certification.webp" class="img-fluid w-100" alt="Diploma in Total Quality Management" />
             </div>
         </section>
         <section>
