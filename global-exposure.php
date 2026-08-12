@@ -133,8 +133,8 @@
             transition: transform .2s, box-shadow .2s;
         }
         .ge-pillar-card:hover { transform: translateY(-3px); box-shadow: 0 8px 24px rgba(0,0,0,.08); }
-        .ge-pillar-card::before { content:''; position:absolute; top:0;left:0;right:0;height:3px; background:var(--ge-primary); }
-        .ge-pillar-card::after  { content:''; position:absolute; top:0;left:0;bottom:0;width:3px; background:var(--ge-primary); }
+        /* .ge-pillar-card::before { content:''; position:absolute; top:0;left:0;right:0;height:3px; background:var(--ge-primary); } */
+        /* .ge-pillar-card::after  { content:''; position:absolute; top:0;left:0;bottom:0;width:3px; background:var(--ge-primary); } */
         .ge-pillar-num { font-size: 11px; font-weight: 700; color: var(--ge-primary); letter-spacing: 0.1em; margin-bottom: 12px; font-family: monospace; }
         .ge-pillar-title { font-size: 17px; font-weight: 600; color: var(--ge-text); margin-bottom: 8px; line-height: 1.3; }
         .ge-pillar-desc { font-size: 13.5px; color: var(--ge-text-sec); line-height: 1.6; }
@@ -200,8 +200,8 @@
         }
         .ge-session-card:hover { transform: translateY(-3px); box-shadow: 0 8px 24px rgba(0,0,0,.08); }
         .ge-session-status-bar { height: 3px; }
-        .ge-session-status-bar.upcoming  { background: var(--ge-green); }
-        .ge-session-status-bar.completed { background: var(--ge-muted); }
+        /* .ge-session-status-bar.upcoming  { background: var(--ge-green); } */
+        /* .ge-session-status-bar.completed { background: var(--ge-muted); } */
         .ge-session-body { padding: 20px; }
         .ge-session-pills { display: flex; align-items: center; gap: 8px; margin-bottom: 14px; }
         .ge-session-pill { font-size: 10px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; padding: 3px 10px; border-radius: var(--r-pill); }
@@ -228,7 +228,7 @@
             position: relative; overflow: hidden;
             transition: transform .2s, box-shadow .2s;
         }
-        .ge-story-card::before { content:''; position:absolute;top:0;left:0;right:0;height:3px;background:var(--ge-primary); }
+        /* .ge-story-card::before { content:''; position:absolute;top:0;left:0;right:0;height:3px;background:var(--ge-primary); } */
         .ge-story-card:hover { transform: translateY(-3px); box-shadow: 0 8px 24px rgba(0,0,0,.08); }
         .ge-story-avatar {
             width: 40px; height: 40px; border-radius: 50%;
@@ -260,7 +260,7 @@
             background: #fff; border: 1px solid var(--ge-border);
             border-radius: var(--r-md); padding: 28px; overflow: hidden; position: relative;
         }
-        .ge-apply-right::before { content:''; position:absolute;top:0;left:0;right:0;height:3px;background:var(--ge-primary); }
+        /* .ge-apply-right::before { content:''; position:absolute;top:0;left:0;right:0;height:3px;background:var(--ge-primary); } */
         .ge-apply-section-title { font-size: 14px; font-weight: 700; color: var(--ge-text); margin-bottom: 16px; }
         .ge-apply-divider { height:1px; background:var(--ge-border); margin: 20px 0; }
         .ge-elig-list { list-style: none; display: flex; flex-direction: column; gap: 10px; }
@@ -281,7 +281,7 @@
             background: #fff; border: 1px solid var(--ge-border); border-radius: var(--r-md);
             padding: 20px; position: relative; overflow: hidden;
         }
-        .ge-benefit-card::before { content:''; position:absolute; top:0; left:0; right:0; height:3px; background:var(--ge-primary); }
+        /* .ge-benefit-card::before { content:''; position:absolute; top:0; left:0; right:0; height:3px; background:var(--ge-primary); } */
         .ge-benefit-icon { font-size: 22px; margin-bottom: 10px; }
         .ge-benefit-title { font-size: 13.5px; font-weight: 700; color: var(--ge-text); margin-bottom: 6px; }
         .ge-benefit-desc { font-size: 12.5px; color: var(--ge-text-sec); line-height: 1.55; }

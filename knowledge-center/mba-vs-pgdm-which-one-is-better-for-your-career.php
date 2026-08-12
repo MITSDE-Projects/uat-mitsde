@@ -170,13 +170,11 @@
 
             <div class="ph-specs-wrap">
                 <div class="ph-specs">
-                    <a href="knowledge-center/mba-vs-pgdm-which-one-is-better-for-your-career"><button
-                            class="ph-spec-pill is-active">PGDM vs MBA</button></a>
-                    <a href="knowledge-center/career-switch"><button class="ph-spec-pill">Career Switch</button></a>
-                    <a href="knowledge-center/working-professionals"><button class="ph-spec-pill">Working
-                            Professionals</button></a>
+                    <a href="knowledge-center/mba-vs-pgdm-which-one-is-better-for-your-career"><button class="ph-spec-pill is-active">PGDM vs MBA</button></a>
+                    <a href="knowledge-center/pgdm-for-career-switchers"><button class="ph-spec-pill">Career Switch</button></a>
+                    <a href="knowledge-center/pgdm-a-good-option-for-working-professionals"><button class="ph-spec-pill">Working Professionals</button></a>
                     <a href="knowledge-center/scope-of-pgdm-in-india"><button class="ph-spec-pill">Scope of PGDM</button></a>
-                    <a href="knowledge-center/finance-careers"><button class="ph-spec-pill">Finance Careers</button></a>
+                    <a href="knowledge-center/best-career-opportunities-after-completing-a-finance-course"><button class="ph-spec-pill">Finance Careers</button></a>
                     <!-- <a href="knowledge-center/pgdm-marketing"><button class="ph-spec-pill">PGDM Marketing</button></a>
                     <a href=""><button class="ph-spec-pill">PGDM Operations</button></a> -->
                 </div>
