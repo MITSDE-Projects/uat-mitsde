@@ -35,7 +35,7 @@
 <body>
   <?php include "5-common-seo-tag-2.php" ?>
   <?php include "header-new.php" ?>
-  <section class="hero ph-hero ai-section">
+  <section class="hero ph-hero">
     <nav class="page-breadcrumb" aria-label="Breadcrumb">
       <span class="pb-line"></span>
       <a href="./">Home</a>

@@ -1,376 +1,110 @@
+<?php $pagename = "Chat with Support"; ?>
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-
-    <!-- Page Title -->
     <title>Admissions & Student Support | MIT SDE</title>
-
-
-    <meta name="description"
-        content="Get in touch with MITSDE, Pune. Call 9112-207-207, email admissions@mitsde.com or visit MIT Alandi Campus. Enquire about PGDM, EMBA & distance learning programs." />
-    <meta name="keywords"
-        content="MITSDE contact, contact MIT School of Distance Education, MITSDE Pune address, MITSDE phone number, MITSDE admissions contact, MIT Alandi Campus contact, MITSDE helpline, distance education enquiry Pune, PGDM admission enquiry, MITSDE email address, MIT SDE student support, MITSDE office location, contact MITSDE for admission, MIT Pune distance learning contact, MITSDE enquiry form" />
-    <!-- CANONICAL TAG -->
+    <meta name="description" content="Get in touch with MITSDE, Pune. Call 9112-207-207, email admissions@mitsde.com or visit MIT Alandi Campus. Enquire about PGDM, EMBA & distance learning programs." />
+    <meta name="keywords" content="MITSDE contact, contact MIT School of Distance Education, MITSDE Pune address, MITSDE phone number, MITSDE admissions contact, MIT Alandi Campus contact, MITSDE helpline, distance education enquiry Pune, PGDM admission enquiry, MITSDE email address, MIT SDE student support, MITSDE office location, contact MITSDE for admission, MIT Pune distance learning contact, MITSDE enquiry form" />
 
     <link rel="canonical" href="https://mitsde.com/contact-us" />
-
-    <!-- CANONICAL TAG -->
-
-    <?php include "5-common-seo-tag-1.php"?>
-
-
-    <!-- OGP TAG -->
 
     <meta property="og:title" content="Admissions & Student Support | MIT SDE">
     <meta property="og:site_name" content="MIT School of Distance Education">
     <meta property="og:url" content="https://mitsde.com/contact-us">
-    <meta property="og:description"
-        content="Get in touch with MITSDE, Pune. Call 9112-207-207, email admissions@mitsde.com or visit MIT Alandi Campus. Enquire about PGDM, EMBA & distance learning programs.">
+    <meta property="og:description" content="Get in touch with MITSDE, Pune. Call 9112-207-207, email admissions@mitsde.com or visit MIT Alandi Campus. Enquire about PGDM, EMBA & distance learning programs.">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/contact-us">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/student.png">
 
-    <!-- / OG TAG -->
+    <link rel="icon" type="image/png" href="assets-new/images/favicon-mit.ico" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="css-new/styles.css" />
+    <link rel="stylesheet" href="css-new/intlTelInput.css">
 
-
-
-    <link rel="icon" type="image/png" href="assets/images/favicon-mit.ico" />
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="assets/css/bootstrap-select.min.css" />
-    <link rel="stylesheet" href="assets/css/slick.min.css" />
-    <link rel="stylesheet" href="assets/css/fonts.css" type="text/css" />
-    <link rel="stylesheet" href="assets/css/style.css" type="text/css" />
-    <link rel="stylesheet" href="assets/fontawesome/css/all.min.css" type="text/css">
-    <link rel="stylesheet" href="assets/css/course-common-internal.css" type="text/css" />
-    <link rel="stylesheet" href="assets/css/harbour.css" type="text/css" />
-    <link rel="stylesheet" href="assets/css/other-page.css" type="text/css" />
-
-    <!--API for Queck contact----->
-    <script src="assets/js/api/jquery-1.10.2.min.js"></script>
-    <script type="text/javascript" src="assets/js/api/validation.js" charset="UTF-8"></script>
-
-
-    <?php // include"google_code.html";?>
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "organization",
-        "url": "http://www.mitsde.com",
-        "contactPoint": [{
-            "@type": "ContactPoint",
-            "telephone": "9112-207-207",
-            "contactType": "admissions",
-            "contactOption": "TollFree",
-            "areaServed": "India"
-        }, {
-            "@type": "ContactPoint",
-            "telephone": "9112-207-207",
-            "contactType": "admissions"
-        }, {
-            "@type": "ContactPoint",
-            "telephone": "9112-207-207",
-            "contactType": "admissions",
-            "contactOption": ["HearingImpairedSupported", "TollFree"],
-            "areaServed": "India"
-        }, {
-            "@type": "ContactPoint",
-            "telephone": "020-27409601",
-            "contactType": "Student Support",
-            "contactOption": "TollFree",
-            "areaServed": ["India"],
-            "availableLanguage": ["English"]
-        }, {
-            "@type": "ContactPoint",
-            "telephone": "020-27409602",
-            "contactType": "Student Support",
-            "contactOption": "TollFree",
-            "areaServed": ["India"]
-        }]
-    }
-    </script>
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "CollegeOrUniversity",
-        "aggregateRating": {
-            "@type": "AggregateRating",
-            "ratingValue": "4.5",
-            "reviewCount": "3"
-        },
-        "url": "https://mitsde.com/",
-        "name": "MIT School of Distance Education, Pune",
-        "logo": "https://mitsde.com/",
-        "address": {
-            "@type": "PostalAddress",
-            "addressRegion": "Pune",
-            "streetAddress": "MIT Alandi Campus,Pune -412105,Pune,Maharastra",
-            "addressCountry": "India"
-        },
-        "telephone": "9112207207"
-    }
-    </script>
+<?php include "5-common-seo-tag-1.php" ?>
 </head>
 
 <body>
-    <?php include "5-common-seo-tag-2.php"?>
-    <!-- Header Nav Start -->
-    <?php include "header.php"?>
-    <!-- Header Nav End --->
-    <main class="main-body">
-        <section class="banner inner-banner">
-            <div class="container">
+<?php include "5-common-seo-tag-2.php" ?>
+<?php include "header-new.php" ?>
 
-                <div class="row">
-                    <div class="col-md-12 col-lg-6 main-banner">
-                        <h1>Contact Us</h1>
+<!-- ═══════════════════════════════════════════════
+   PROGRAM HERO
+════════════════════════════════════════════════ -->
+<section class="hero ph-hero">
 
-                        <div class="page-btn mt-3">
+    <nav class="page-breadcrumb" aria-label="Breadcrumb">
+        <span class="pb-line"></span>
+        <a href="./">Home</a>
+        <span class="pb-sep">/</span>
+        <span class="pb-current">Contact Us</span>
+    </nav>
 
+    <div class="container">
+        <div class="ph-layout py-5">
+            <div class="ph-left">
+                <h1 class="ph-heading">Contact Us</h1>
+                <div class="ph-sub">
+                    <p>Get in touch with MITSDE, Pune.</p>
+                </div>
+                <button type="button" class="btn btn-dark rounded-pill px-4 py-2" data-bs-toggle="modal" data-bs-target="#downloadModal">Download Brochure</button>
+            </div>
+            <div class="ph-right">
+                    <img src="assets-new/images/placement.webp" alt="Certification in Project Management" />
+                </div>
+        </div>
+    </div>
 
-                            <button type="button" class="btn btn-primary mit-button cus-btn inner-cus ms-0"
-                                data-bs-toggle="modal" data-bs-target="#enquiryModal-download-form"><span
-                                    class="mtsk-download"></span> &nbsp; Download PDF BROCHURE
-                            </button>
+</section>
 
-                        </div>
-                        <div>
-                            <div>
+<!-- ═══════════════════════════════════════════════
+   CONNECT SECTION
+════════════════════════════════════════════════ -->
+<section class="py-5" style="background:var(--bg-light);">
+    <div class="container">
+        <h2 class="section-heading text-center mb-2">Connect With Our Team</h2>
+        <p class="text-center mb-5" style="max-width:700px;margin:0 auto;color:var(--text-light);">We're here to help you with any questions or concerns you may have.</p>
+        <div class="row g-4 justify-content-center">
 
-
-                                <nav>
-                                    <ol class="breadcrumb">
-                                        <li class="breadcrumb-item"><a href="https://mitsde.com">Home</a></li>
-                                        <li class="breadcrumb-item active" aria-current="page">Contact Us</li>
-                                    </ol>
-                                </nav>
-
-                            </div>
-                        </div>
+            <div class="col-12 col-md-5">
+                <div class="card h-100 border-0 shadow-sm rounded-4 p-4 text-center">
+                    <div class="mb-3"><i class="fa fa-headset fa-3x" style="color:var(--primary-orange);"></i></div>
+                    <h5 class="fw-bold mb-2">Need Assistance?</h5>
+                    <p style="color:var(--text-light);font-size:0.9rem;" class="mb-4">Contact us for any inquiries or support.</p>
+                    <div class="d-flex justify-content-center gap-3 mb-4">
+                    <a href="tel:+91-9112207207" class="btn btn-dark rounded-pill px-4">Call Us</a>
+                    <a href="mailto:admissions@mitsde.com" class="btn btn-dark rounded-pill px-4">Mail Us</a>
                     </div>
-                    <div class="col-md-12 col-lg-6">
-                        <div class="css-details">
-                            <div class="stc-det student-sec inner-sec">
-                                <img src="assets/images/progress.svg" alt="Progress indicator icon">
-                            </div>
-                            <img src="assets/images/media/common-images-new/remaning-course-page/careers.jpg"
-                                class="banner-img" alt="Banner 1">
-                            <div class="stc-det course-sec inner-sec">
-                                <img src="assets/images/walet.svg" alt="Wallet icon for payment">
-                            </div>
+                    <h5 class="fw-bold mb-2">Working Hours</h5>
+                    <p style="color:var(--text-light);font-size:0.9rem;" class="mb-0">Monday - Friday: 9.30 AM - 05.30 PM</p>
+                </div>
+            </div>
 
-                        </div>
-
+            <div class="col-12 col-md-5">
+                <div class="card h-100 border-0 shadow-sm rounded-4 overflow-hidden">
+                    <div style="height:200px;overflow:hidden;">
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7559.515574969718!2d73.89243800000001!3d18.674862!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c7cbe596e70b%3A0xff10439adb1b0066!2sMIT%20Alandi%20Campus!5e0!3m2!1sen!2sin!4v1707909750701!5m2!1sen!2sin" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    </div>
+                    <div class="p-4">
+                        <h5 class="fw-bold mb-2">Our Location</h5>
+                        <p style="color:var(--text-light);font-size:0.9rem;" class="mb-0">MIT Alandi Campus, Moshi-Alandi Road, Opposite to Ganjanan Maharaj Sansthan, Alandi, Pune, Maharashtra 412105</p>
                     </div>
                 </div>
             </div>
-        </section>
-
-
-        <section id="learnExpert">
-            <div class="container">
-                <div class="cer-slider">
-                    <h2>Contact Us
-
-                    </h2>
-                </div>
-                <div class="row">
-                    <div class="certification-carousel">
-                        <div class="item" id="fintech">
-                            <div class="card cus-card">
-                                <div style="width: 100%; height: 250px; overflow: hidden;">
-                                    <iframe
-                                        src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15119.203257090392!2d73.889243!3d18.6729322!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c9b259215b45%3A0xf4b4bf917294eaf7!2sMITSDE%20-%20MIT%20School%20of%20Distance%20Education!5e0!3m2!1sen!2sin!4v1729577117243!5m2!1sen!2sin"
-                                        width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
-                                        referrerpolicy="no-referrer-when-downgrade"></iframe>
-                                </div>
-                                <div class="card-body">
-                                    <h5 class="card-title">MITSDE</h5>
-                                    <span><b>Our location :</b> MIT Alandi Campus, Moshi-Alandi Road, Opposite to Gajanan Maharaj Sansthan Alandi Pune, Maharashtra 412105</span>
-                                    <br>
-                                    <span><b>Contact :</b> <a href="tel:9112207207">9112-207-207</a></span>
-                                    <br>
-                                    <span><b>Email :</b> <a href="mailto:admissions@mitsde.com">admissions@mitsde.com</a></span>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- <div class="item">
-                            <div class="card cus-card">
-                                <img src="assets/images/course/mitsdelab/SakarKalkotwar.jpg" alt="Certification">
-                                <div class="card-body">
-                                    <h6>video</h6>
-
-
-
-                                    <div class="d-flex justify-content-center mb-3">
-                                        <a class="btn btn-warning" href="https://elibrary.mitsde.com/callmeback.php"
-                                            target="_blank" role="button"
-                                            style="background: #F47521; color: #fff"><span>&#9742;</span> &nbsp;Call
-                                            Back Request</a>
-                                    </div>
-
-
-
-
-                                </div>
-                            </div>
-                        </div> -->
-                        <div class="item">
-                            <div class="card cus-card">
-                                <img src="assets/images/media/common-images-new/generate-a-Ticket.jpg"
-                                    alt="Certification">
-                                <div class="card-body">
-                                    <div class="d-flex justify-content-center">
-
-                                        <h5 class="card-title">Generate Ticket @ </h5> <br>
-                                    </div>
-
-
-
-
-                                    <div class="d-flex justify-content-center mb-3">
-                                        <a class="btn btn-warning" href="https://elibrary.mitsde.com/" target="_blank"
-                                            role="button" style="background: #F47521; color: #fff">E-library
-                                        </a>
-
-                                    </div>
-
-
-
-                                </div>
-                            </div>
-                        </div>
-
-
-
-
-                    </div>
-                </div>
-                <hr>
-            </div>
-
-        </section>
-
-        <div class="container otherpagecss">
 
         </div>
+    </div>
+</section>
 
+<!-- ═══════════════════════════════════════════════
+   SITE FOOTER
+════════════════════════════════════════════════ -->
+<?php include "footer-new.php" ?>
 
-        <div class="container-fluid otherpagecss px-1 py-5 mx-auto">
-            <div class="row d-flex justify-content-center">
-                <div class="col-xl-7 col-lg-8 col-md-9 col-11 text-center">
-
-                    <div class="card ">
-
-                        <h3>Interested in discussing?</h3>
-
-                        <form class="form-card" id="Refer_frend" name="Refer_frend"
-                            action="includes/sendreferfriend.php" method="post" enctype="multipart/form-data"
-                            onSubmit="return validate(this);">
-                            <div class="row justify-content-between text-left">
-
-
-
-                                <div class="form-group col-sm-6 flex-column d-flex"> <label
-                                        class="form-control-label px-3"> Name<span class="text-danger">
-                                            *</span></label> <input type="text" name="form_name" id="form_name"
-                                        placeholder="Enter Name">
-
-
-                                </div>
-                                <div class="form-group col-sm-6 flex-column d-flex"> <label
-                                        class="form-control-label px-3">Your Email<span class="text-danger">
-                                            *</span></label> <input name="Your_Email" id="Your_Email"
-                                        class="form-control required email" type="email" placeholder="Enter Email">
-                                </div>
-                            </div>
-
-                            <div class="row justify-content-between text-left">
-
-                                <div class="form-group col-sm-6 flex-column d-flex mt-1">
-                                    <label class="form-control-label ">Subject<span class="text-danger">
-                                            *</span></label>
-                                    <select class="form-select form-select-md " aria-label="Small select example">
-                                        <!-- <option selected>Open this select menu</option> -->
-                                        <option value="#">Select One</option>
-                                        <option value="Admissions">Admissions</option>
-                                        <!--admissions@mitsde.com-->
-                                        <option value="Academics">Academics</option>
-                                        <!--director@mitsde.com-->
-                                        <option value="Support">Support</option>
-                                        <!--campussupport@mitsde.com-->
-                                        <option value="Others">Others</option>
-                                        <!--director@mitsde.com-->
-                                    </select>
-                                </div>
-
-
-                                <div class="form-group col-sm-6 flex-column d-flex"> <label>Mobile No
-                                        <small>*</small></label>
-                                    <input type="text" name="Mobile_no" id="Mobile_no" placeholder="Mobile No"
-                                        class="form-control">
-                                </div>
-
-
-
-
-                            </div>
-                            <div class="form-group col-sm-12 flex-column d-flex"> <label
-                                    for="exampleFormControlTextarea1" class="form-label">Message</label>
-                                <textarea class="form-control" id="exampleFormControlTextarea1" rows="2"
-                                    placeholder="Enter Your Massage"></textarea>
-
-
-
-
-                            </div>
-
-
-                            <div class="row justify-content-center mt-2">
-                                <div class="form-group col-sm-6">
-                                    <input name="form_botcheck" class="form-control" type="hidden" value="" />
-                                    <button type="submit" class="btn btn"
-                                        style="background: #f47521;width: 70%;color: #fff;">Submit</button>
-
-
-
-
-                                </div>
-
-                        </form>
-
-                        <div class="submitbtn123"></div><!-- /.comment-form -->
-                    </div>
-                </div>
-            </div>
-        </div>
-
-
-
-
-
-
-
-
-
-    </main>
-    <!-- Footer Start -->
-
-    <?php include "footer.php"?>
-
-
-    <!-- footer end  -->
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/js/bootstrap-select.min.js"></script>
-    <script src="assets/js/slick.min.js"></script>
-    <script src="assets/js/common.js"></script>
-    <script src="assets/js/course-slider.js"></script>
-
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
-
 </html>

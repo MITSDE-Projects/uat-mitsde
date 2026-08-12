@@ -56,7 +56,7 @@ $student_mob = $_POST['student_mob'];
 
 
 
-$owenrMailID = "sanjay.gaikwad@mitsde.com";
+$owenrMailID = "umesh.ghatale@mitsde.com";
 
 
 
@@ -130,7 +130,7 @@ $mail->AddAddress($owenrMailID);
 
 
 
-$ccEmails = ['sanjay.gaikwad@mitsde.com'];
+$ccEmails = ['umesh.ghatale@mitsde.com'];
 
 foreach ($ccEmails as $ccEmail) {
 
