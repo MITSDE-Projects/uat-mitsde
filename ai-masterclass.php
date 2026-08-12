@@ -73,7 +73,7 @@
             <li>Learn to use AI for real business problems</li>
             <li>Build a future-ready skillset for your career</li>
           </ul>
-          <a href="post-graduate-diploma-in-management" class="ai-cta-btn" data-bs-toggle="modal" data-bs-target="#eqModal">Register Now</a>
+          <a href="#" class="ai-cta-btn" data-bs-toggle="modal" data-bs-target="#eqModal">Register Now</a>
         </div>
 
       </div>

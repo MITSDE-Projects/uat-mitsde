@@ -55,7 +55,8 @@
           <li><a href="careers">Careers</a></li>
           <li><a href="application-process">Admissions</a></li>
           <li><a href="refer-friend">Refer a Friend</a></li>
-          <li><a href="about-us">About Us</a></li>
+          <li><a href="mandatory-disclosure">Mandatory Disclosure</a></li>
+          <!-- <li><a href="about-us">About Us</a></li> -->
           <li><a href="https://blog.mitsde.com/">Blog / Insights</a></li>
           <li><a href="https://www.aicte.gov.in/schemes/students-development-schemes" target="_blank">AICTE Scholarship/Fellowship Schemes</a></li>
         </ul>
@@ -77,13 +78,12 @@
           <li><a href="placement">Placement</a></li>
           <li><a href="feedback">Feedback</a></li>
           <li><a href="chat-with-support">Student Support</a></li>
+          <li><a href="recognition-approval">Recognition Approval</a></li>
           <li><a href="faq">FAQs</a></li>
         </ul>
         <h5 class="sf-nav-heading sf-nav-heading--gap">About</h5>
         <ul class="sf-nav-list">
           <li><a href="aboutMIT">About MIT SDE</a></li>
-          <li><a href="mandatory-disclosure">Mandatory Disclosure</a></li>
-          <li><a href="recognition-approval">Recognition Approval</a></li>
           <li><a href="contact-us">Contact Us</a></li>
         </ul>
       </div>

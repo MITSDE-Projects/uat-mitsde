@@ -4295,11 +4295,10 @@ input.valid, select.valid, textarea.valid { border-color: #22c55e !important; }
 
 
 /* AI Masterclass */
-.ai-section{margin-bottom:100px}
 .ai-title{text-align:center;font-size:clamp(40px,7vw,90px);font-weight:800;margin-bottom:10px}
 .ai-script{font-family:'Aguafina Script',cursive;color:#fff;margin-right:10px;font-weight:400;text-shadow:2px 3px 1px #0000004d}
 .ai-bold{color:#fff;font-family:'SF Pro Display',sans-serif;font-weight:900;text-shadow:2px 3px 1px #0000004d}
-.ai-inner{display:flex;align-items:start;justify-content:space-between;border-bottom:2px solid #e5e7eb;max-width:1200px;margin:auto;gap:20px}
+.ai-inner{display:flex;align-items:start;justify-content:space-between;max-width:1200px;margin:auto;gap:20px}
 .ai-left{width:30%;font-size:0.9rem;line-height:1.6;font-family:'SF Pro Display',sans-serif;font-weight:400;margin-top:50px;}
 .ai-center{width:40%;text-align:center;margin-top:50px}
 .ai-center img{width:100%;max-width:380px;margin-bottom:-5px}
