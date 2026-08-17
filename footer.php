@@ -74,6 +74,7 @@
                             <li><a class="dropdown-item" href="refer-friend" target="_blank">Refer a Friend</a></li>
                             <li><a class="dropdown-item" href="feedback" target="_blank">Feedback</a></li>
                             <li><a class="dropdown-item" href="https://www.aicte.gov.in/schemes/students-development-schemes" target="_blank">AICTE Scholarship/Fellowship</br> Schemes</a></li>
+                            <li><a class="dropdown-item" href="assets/images/media/AICTE-ombudsperson.pdf" target="_blank">AICTE Ombudsperson</a></li>
                             <!-- <li><a class="dropdown-item" href="read-more.php" target="_blank">Read More</a></li> -->
                             <li><a class="dropdown-item" href="about-us" target="_blank">About Us</a></li>
                             <li><a class="dropdown-item" href="hire-from-mitsde" target="_blank">Hire From Mitsde</a></li>

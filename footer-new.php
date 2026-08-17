@@ -59,6 +59,7 @@
           <!-- <li><a href="about-us">About Us</a></li> -->
           <li><a href="https://blog.mitsde.com/">Blog / Insights</a></li>
           <li><a href="https://www.aicte.gov.in/schemes/students-development-schemes" target="_blank">AICTE Scholarship/Fellowship Schemes</a></li>
+          <li><a href="assets/images/media/AICTE-ombudsperson.pdf" target="_blank">AICTE Ombudsperson</a></li>
         </ul>
         <!-- <h5 class="sf-nav-heading sf-nav-heading--gap">Programs</h5>
         <ul class="sf-nav-list">

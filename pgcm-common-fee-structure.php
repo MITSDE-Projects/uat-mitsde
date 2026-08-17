@@ -5,7 +5,7 @@
         <p>Full course fee (Four semesters)</p>
         <h3 class="fs-main-amount">INR 64,000/-</h3>
         <p>Inclusive of all taxes</p>
-        <a href="#" class="btn-fs-dark">Talk to our expert</a>
+        <a href="#" data-bs-toggle="modal" data-bs-target="#eqModal" class="btn-fs-dark">Talk to our expert</a>
 
         <!-- Scholarship -->
         <div class="fs-scholarship">

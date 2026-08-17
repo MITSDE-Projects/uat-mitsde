@@ -629,7 +629,7 @@
                         <p>Full course fee</p>
                         <h3 class="fs-main-amount">INR 1,40,000/-</h3>
                         <p>Inclusive of all taxes</p>
-                        <a href="#" class="btn-fs-dark">Talk to our expert</a>
+                        <a href="#" data-bs-toggle="modal" data-bs-target="#eqModal" class="btn-fs-dark">Talk to our expert</a>
 
                         <div class="fs-scholarship">
                             <h4 class="fs-scholarship-heading">Scholarship</h4>
