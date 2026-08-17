@@ -102,7 +102,7 @@
                     </div>
                     <div class="cc-details mt-3">
                         <span class="mtsk-phone">
-                            <a href="tel:+9112207207" style="text-decoration: none; color: black;">9112-207-207</a>
+                            <a href="tel:08071455041" style="text-decoration: none; color: black;">08071455041</a>
 
 
                         </span>
@@ -595,7 +595,7 @@ else {
 </footer>
 
 
-<a href="tel:9112-207-207" class="float">
+<a href="tel:08071455041" class="float">
 
     <div class="d-flex justify-content-center align-items-center mt-3 "><span class="mtsk-phone fs-3"></span></div>
 
@@ -631,9 +631,8 @@ function showError(error) {
 <div class="modal-dialog modal-lg">
     <div class="modal-content">
         <div class="modal-header">
-            <h2 class="modal-title fs-5" id="enquiryModal-download-form">Enquire Now <a href="tel:9112-207-207"
-                    style="text-decoration: none; color: #F47521">+91
-                    9112-2072-07</a></h2>
+            <h2 class="modal-title fs-5" id="enquiryModal-download-form">Enquire Now <a href="tel:08071455041"
+                    style="text-decoration: none; color: #F47521">08071455041</a></h2>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body">

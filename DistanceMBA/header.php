@@ -301,9 +301,8 @@
                     target="_black"><i class="mtsk-linkedIn"></i></a>
                 <a class="socials-links" href="https://www.youtube.com/@MITSDEPune" target="_black"
                     style="color: red;"><i class="fa-brands fa-youtube fa-lg"></i> </a> -->
-                <a href="tel:91 9112-2072-07" style="width: max-content; text-decoration: none; color: #000;">
-                    <strong>+91
-                        9112-2072-07</strong></a>
+                <a href="tel:08071455041" style="width: max-content; text-decoration: none; color: #000;">
+                    <strong>08071455041</strong></a>
             </ul>
             <button type="button" class="btn btn-primary mit-button" data-bs-toggle="modal"
                 data-bs-target="#enquiryModal-download-form">Apply Now

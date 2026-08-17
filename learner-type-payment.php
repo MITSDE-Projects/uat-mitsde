@@ -1,337 +1,355 @@
-<!DOCTYPE html>
+<?php $pagename = "Learner Type Payment"; ?>
+<!doctype html>
 <html lang="en">
 
 <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Online Learning | Distance Learning PGDM | Online MBA</title>
-    <meta name="description" content="We have easy payment gatways for hassle-free payment. Enrol today." />
-    <meta name="robots" content="noindex, nofollow">
-    <meta name="keywords"
-        content="paymentgateway, paymentoptions, onlinemba, distanceeducation, onlineeducation, distance mba" />
-    <!-- CANONICAL TAG -->
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
+    <title>Online Learning | Distance Learning PGDM | Online MBA</title>
+    <meta name="description" content="We have easy payment gateways for hassle-free payment. Enrol today." />
+    <meta name="robots" content="noindex, nofollow">
+    <meta name="keywords" content="paymentgateway, paymentoptions, onlinemba, distanceeducation, onlineeducation, distance mba" />
+
+    <!-- CANONICAL TAG -->
     <link rel="canonical" href="https://mitsde.com/payment-gateway" />
 
-    <!-- CANONICAL TAG -->
-
-    <?php include "5-common-seo-tag-1.php" ?>
-
     <!-- OGP TAG -->
-
     <meta property="og:title" content="Post Graduate Diploma Courses in Management | PGDM Course">
     <meta property="og:site_name" content="MIT School of Distance Education">
     <meta property="og:url" content="https://mitsde.com/payment-gateway">
-    <meta property="og:description"
-        content="Future Proof Your Career with distance PGDM Course in Marketing, HR, Finance, Operations, Materials, Supply Chain and IT.">
+    <meta property="og:description" content="Pay your admission form fees online for MIT School of Distance Education. Choose your learner type and proceed with secure payment options.">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/payment-gateway">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/application-process.webp">
 
-    <!-- / OG TAG -->
+    <link rel="icon" type="image/png" href="assets-new/images/favicon-mit.ico" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="css-new/styles.css" />
+    <?php include "5-common-seo-tag-1.php" ?>
 
-
-
-    <!-- Page Title -->
-    <!-- <link rel="icon" type="image/png" href="assets/images/favicon.ico" /> -->
-    <link rel="icon" type="image/png" href="assets/images/favicon-mit.ico" />
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="assets/css/bootstrap-select.min.css" />
-    <link rel="stylesheet" href="assets/css/slick.min.css" />
-    <link rel="stylesheet" href="assets/css/fonts.css" type="text/css" />
-    <link rel="stylesheet" href="assets/css/style.css" type="text/css" />
-    <link rel="stylesheet" href="assets/fontawesome/css/all.min.css" type="text/css">
-    <link rel="stylesheet" href="assets/css/course-common-internal.css" type="text/css" />
-    <link rel="stylesheet" href="assets/css/harbour.css" type="text/css" />
-    <!--API for Queck contact----->
-    <script src="assets/js/api/jquery-1.10.2.min.js"></script>
-    <script type="text/javascript" src="assets/js/api/validation.js" charset="UTF-8"></script>
     <style>
-        .payment-logo {
-
-            transition: transform 0.6s, opacity 0.2s;
-            /* Add transitions for both transform and opacity */
-
-
+        /* ── Payment selection cards ── */
+        .ltp-card {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+            padding: 2.2rem 1.5rem 1.8rem;
+            border: 1.5px solid #e5e7eb;
+            border-radius: 16px;
+            background: #fff;
+            height: 100%;
+            transition: box-shadow .25s, transform .25s, border-color .25s;
+            cursor: pointer;
+        }
+        .ltp-card:hover {
+            box-shadow: 0 10px 32px rgba(234,88,12,.15);
+            transform: translateY(-5px);
+            border-color: var(--primary-orange);
+        }
+        .ltp-card__icon {
+            width: 68px;
+            height: 68px;
+            border-radius: 50%;
+            background: #fff1ea;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.6rem;
+            color: var(--primary-orange);
+            margin-bottom: 1.1rem;
+        }
+        .ltp-card__title {
+            font-size: 1rem;
+            font-weight: 600;
+            color: var(--text-dark);
+            margin: 0 0 1.4rem;
+            flex: 1;
+            line-height: 1.5;
+        }
+        .ltp-card__btn {
+            display: inline-flex;
+            align-items: center;
+            gap: .45rem;
+            padding: .45rem 1.3rem;
+            border-radius: 50px;
+            font-size: .85rem;
+            font-weight: 600;
+            background: var(--primary-orange);
+            color: #fff;
+            transition: background .2s, gap .2s;
+        }
+        .ltp-card:hover .ltp-card__btn {
+            background: var(--accent-orange);
+            gap: .7rem;
         }
 
-        .payment-logo:hover {
-            transform: scale(0.8);
-            /* Zoom the logo on hover (150% of its original size) */
-            opacity: 0.9;
-            /* Reduce opacity on hover */
-            border: 3px solid orangered;
-            outline: 7px solid black;
+        /* ── Warning note ── */
+        .ltp-note {
+            display: flex;
+            align-items: flex-start;
+            gap: .6rem;
+            background: #fff8f5;
+            border: 1.5px solid var(--primary-orange);
+            border-radius: 10px;
+            padding: .9rem 1.2rem;
+            color: var(--text-dark);
+            font-size: .9rem;
+        }
+        .ltp-note i {
+            color: var(--primary-orange);
+            margin-top: .15rem;
+            flex-shrink: 0;
+        }
+
+        /* ── Sub-row indent in fee table ── */
+        .tbl td.tbl-sub {
+            padding-left: 2rem;
+            color: var(--text-light);
+            /* font-style: italic; */
         }
     </style>
-
-
-
-    <!----->
-
 </head>
 
 <body>
-    <!-- Header Nav Start -->
-    <?php include "header.php" ?>
-    <!-- Header Nav End --->
-    <main class="main-body">
-        <section class="about-banner">
-            
-            <div class="container">
+    <?php include "5-common-seo-tag-2.php" ?>
+    <?php include "header-new.php" ?>
 
-                <div class="cer-slider">
-                    <h1>Choose Your Learners Type to Continue with Payment</h1>
+    <!-- ═══════════════════════════════════════════════
+       HERO
+    ════════════════════════════════════════════════ -->
+    <section class="hero ph-hero">
 
-                </div>
-                &nbsp;
-                     
-                <div class="row justify-content-center">
+        <nav class="page-breadcrumb" aria-label="Breadcrumb">
+            <span class="pb-line"></span>
+            <a href="./">Home</a>
+            <span class="pb-sep">/</span>
+            <span class="pb-current">Payment</span>
+        </nav>
 
-                    <div class="col-md-6">
+        <div class="container">
+            <div class="ph-layout py-5">
 
-                        <a href="new-admission-form-payment" style="color:#F47521; text-decoration:none;">
-                            <h3 class="payment-logo text-center bg-light p-3 rounded border border-dark">Payment For Admission</h3>
-                        </a>
-
+                <div class="ph-left">
+                    <h1 class="ph-heading">Choose Your Learner Type</h1>
+                    <div class="ph-sub">
+                        <p>Select your learner type to continue with payment.</p>
                     </div>
-
-                    
-
                 </div>
-                &nbsp;
-                <div class="row">
 
-                    <div class="col-md-6">
-
-                        <a href="OtherFeesPaymenticici" style="color:#F47521; text-decoration:none;">
-                            <h3 class="payment-logo text-center bg-light p-3 rounded border border-dark">Learners
-                                Enrolled <br><b>After</b> December 2022</h3>
-                        </a>
-
-                    </div>
-
-                    <div class="col-md-6">
-
-                        <a href="OtherFeesPayment03" style="color:#F47521; text-decoration:none;">
-                            <h3 class="payment-logo text-center bg-light p-3 rounded border border-dark">Learners
-                                Enrolled <br><b>Before</b> December 2022</h3>
-                        </a>
-
-                    </div>
-
+                <div class="ph-right">
+                    <img src="assets-new/images/application-process.webp" alt="Payment" />
                 </div>
-               
-<h3 style="color:red;">Note: This form is not to be used for exam form fee payment.</h3>
-                
 
             </div>
-            
-        </section>
-        <section>
-            <div class="container">
-                <div class="row mt-3">
-                    <h3>Fee Details</h3>
+        </div>
 
-                    <div class="col-md-12 curriculum">
+    </section>
 
-                        <table class="table">
-                            <thead>
-                                <tr>
-                                    <th>No</th>
-                                    <th>Description</th>
-                                    <th>Charges in INR</th>
-                                    <th>Charges in USD</th>
-                                </tr>
-                            </thead>
-                            <tbody>
+    <!-- ═══════════════════════════════════════════════
+       PAYMENT SELECTION
+    ════════════════════════════════════════════════ -->
+    <section class="about-section pb-0">
+        <div class="container">
 
+            <h2 class="section-heading">Continue with <span class="text-orange">Payment</span></h2>
 
-
-                                <tr>
-                                    <td>1</td>
-                                    <td>Course Extension Fee</td>
-                                    <td>&#8377; 7,500</td>
-                                    <td>&#36 300</td>
-                                </tr>
-                                <tr>
-                                    <td>2</td>
-                                    <td>Duplicate ID Card</td>
-                                    <td>&#8377; 250</td>
-                                    <td>&#36 10</td>
-                                </tr>
-                                <tr>
-                                    <td>3</td>
-                                    <td>Replacement of Study Material</td>
-                                    <td></td>
-                                    <td></td>
-                                </tr>
-
-
-                                <tr>
-                                    <td></td>
-                                    <td>PGDM</td>
-                                    <td>&#8377; 8,000</td>
-                                    <td>&#36 200</td>
-                                </tr>
-                                <tr>
-                                    <td></td>
-                                    <td>PGDBA</td>
-                                    <td>&#8377; 10,000</td>
-                                    <td>&#36 250</td>
-                                </tr>
-                                <tr>
-                                    <td>4</td>
-                                    <td>Bonafide Certificate</td>
-                                    <td>&#8377; 250</td>
-                                    <td>&#36 25</td>
-                                </tr>
-
-                                <tr>
-                                    <td>5</td>
-                                    <td>Duplicate Certificate</td>
-                                    <td>&#8377; 250</td>
-                                    <td>&#36 25</td>
-                                </tr>
-                                <tr>
-                                    <td>6</td>
-                                    <td>Transcript Certificate</td>
-                                    <td>&#8377; 1000</td>
-                                    <td>&#36 50</td>
-                                </tr>
-
-                                <tr>
-                                    <td>7</td>
-                                    <td>Duplicate Mark Sheet per semester</td>
-                                    <td>&#8377; 500</td>
-                                    <td>&#36 15</td>
-                                </tr>
-                                <tr>
-                                    <td>8</td>
-                                    <td>Change in specialization</td>
-                                    <td></td>
-                                    <td></td>
-                                </tr>
-                                <tr>
-                                    <td></td>
-                                    <td>PGCM</td>
-                                    <td>&#8377; 3,000</td>
-                                    <td>-</td>
-                                </tr>
-                                <tr>
-                                    <td></td>
-                                    <td>PGDM</td>
-                                    <td>&#8377; 3,000</td>
-                                    <td>&#36 150</td>
-                                </tr>
-                                <tr>
-                                    <td></td>
-                                    <td>PGDBA</td>
-                                    <td>&#8377; 5,000</td>
-                                    <td>&#36 200</td>
-                                </tr>
-
-
-                                <!-- <tr>
-                                    <td>9</td>
-                                    <td>Proctored Examination Fresh/Backlog Fee (Per Subject)</td>
-                                    <td>&#8377; 500</td>
-                                    <td>&#36 30</td>
-                                </tr> -->
-
-                                <tr>
-                                    <td>9</td>
-                                    <td>Project Evaluation</td>
-                                    <td>&#8377; 2000</td>
-                                    <td>&#36 30</td>
-                                </tr>
-
-                                <tr>
-                                    <td>10</td>
-                                    <td>Late Fee Charges (per month)</td>
-                                    <td>&#8377; 1000</td>
-                                    <td>&#36 100</td>
-                                </tr>
-
-                                <tr>
-                                    <td>11</td>
-                                    <td>Verification Charges</td>
-                                    <td>&#8377; 2500</td>
-                                    <td>&#36 50</td>
-                                </tr>
-
-                                <tr>
-                                    <td>12</td>
-                                    <td>International Dispatch for One Semester</td>
-                                    <td>&#8377; 7500</td>
-                                    <td>&#36 100</td>
-                                </tr>
-
-                                <tr>
-                                    <td>13</td>
-                                    <td>Elective change charges</td>
-                                    <td>&#8377; 500</td>
-                                    <td>-</td>
-                                </tr>
-
-                                <tr>
-                                    <td>14</td>
-                                    <td>Exam Fee Per Paper</td>
-                                    <td>&#8377; 750</td>
-                                    <td>-</td>
-                                </tr>
-
-
-                                </tr>
-                            </tbody>
-                        </table>
-
-
-
-
-                    </div>
+            <!-- 3 cards in one row -->
+            <div class="row g-4 mb-4">
+                <div class="col-12 col-md-4">
+                    <a href="new-admission-form-payment" class="text-decoration-none">
+                        <div class="ltp-card">
+                            <span class="ltp-card__icon"><i class="fa-solid fa-file-signature"></i></span>
+                            <h3 class="ltp-card__title">Payment For Admission</h3>
+                            <span class="ltp-card__btn">Proceed <i class="fa-solid fa-arrow-right"></i></span>
+                        </div>
+                    </a>
                 </div>
-                <hr>
+                <div class="col-12 col-md-4">
+                    <a href="OtherFeesPaymenticici" class="text-decoration-none">
+                        <div class="ltp-card">
+                            <span class="ltp-card__icon"><i class="fa-solid fa-calendar-check"></i></span>
+                            <h3 class="ltp-card__title">Learners Enrolled <strong>After</strong> December 2022</h3>
+                            <span class="ltp-card__btn">Proceed <i class="fa-solid fa-arrow-right"></i></span>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-12 col-md-4">
+                    <a href="OtherFeesPayment03" class="text-decoration-none">
+                        <div class="ltp-card">
+                            <span class="ltp-card__icon"><i class="fa-solid fa-calendar-xmark"></i></span>
+                            <h3 class="ltp-card__title">Learners Enrolled <strong>Before</strong> December 2022</h3>
+                            <span class="ltp-card__btn">Proceed <i class="fa-solid fa-arrow-right"></i></span>
+                        </div>
+                    </a>
+                </div>
             </div>
-        </section>
 
-    </main>
-    <!-- Footer Start -->
-    <?php include "footer.php" ?>
+            <!-- Warning note -->
+            <div class="ltp-note mb-2">
+                <i class="fa-solid fa-triangle-exclamation"></i>
+                <span><strong>Note:</strong> This form is not to be used for exam form fee payment.</span>
+            </div>
 
+        </div>
+    </section>
 
-    <!-- footer end  -->
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/js/bootstrap-select.min.js"></script>
-    <script src="assets/js/slick.min.js"></script>
-    <script src="assets/js/common.js"></script>
-    <script>
-        $(document).ready(function () {
-            $('.certification-carousel').slick({
-                dots: false,
-                infinite: false,
-                speed: 300,
-                slidesToShow: 3,
-                slidesToScroll: 1,
-                responsive: [{
-                    breakpoint: 1024,
-                    settings: {
-                        slidesToShow: 2,
-                        slidesToScroll: 1,
-                    }
-                },
-                {
-                    breakpoint: 768,
-                    settings: {
-                        slidesToShow: 1,
-                        slidesToScroll: 1
-                    }
-                }
-                ]
-            });
-        })
-    </script>
+    <!-- ═══════════════════════════════════════════════
+       FEE DETAILS TABLE
+    ════════════════════════════════════════════════ -->
+    <section class="accordian-section">
+        <div class="container">
+
+            <h2 class="section-heading">Fee Details</h2>
+
+            <div class="tbl-wrap">
+                <table class="tbl">
+                    <thead>
+                        <tr>
+                            <th class="tbl-label">No</th>
+                            <th class="tbl-label">Description</th>
+                            <th class="tbl-accent">Charges in INR</th>
+                            <th>Charges in USD</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>1</td>
+                            <td>Course Extension Fee</td>
+                            <td class="tbl-accent">&#8377; 7,500</td>
+                            <td>&#36; 300</td>
+                        </tr>
+                        <tr>
+                            <td>2</td>
+                            <td>Duplicate ID Card</td>
+                            <td class="tbl-accent">&#8377; 250</td>
+                            <td>&#36; 10</td>
+                        </tr>
+                        <tr>
+                            <td>3</td>
+                            <td>Replacement of Study Material</td>
+                            <td class="tbl-accent">—</td>
+                            <td>—</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td class="tbl-sub">PGDM</td>
+                            <td class="tbl-accent">&#8377; 8,000</td>
+                            <td>&#36; 200</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td class="tbl-sub">PGDBA</td>
+                            <td class="tbl-accent">&#8377; 10,000</td>
+                            <td>&#36; 250</td>
+                        </tr>
+                        <tr>
+                            <td>4</td>
+                            <td>Bonafide Certificate</td>
+                            <td class="tbl-accent">&#8377; 250</td>
+                            <td>&#36; 25</td>
+                        </tr>
+                        <tr>
+                            <td>5</td>
+                            <td>Duplicate Certificate</td>
+                            <td class="tbl-accent">&#8377; 250</td>
+                            <td>&#36; 25</td>
+                        </tr>
+                        <tr>
+                            <td>6</td>
+                            <td>Transcript Certificate</td>
+                            <td class="tbl-accent">&#8377; 1,000</td>
+                            <td>&#36; 50</td>
+                        </tr>
+                        <tr>
+                            <td>7</td>
+                            <td>Duplicate Mark Sheet per semester</td>
+                            <td class="tbl-accent">&#8377; 500</td>
+                            <td>&#36; 15</td>
+                        </tr>
+                        <tr>
+                            <td>8</td>
+                            <td>Change in Specialization</td>
+                            <td class="tbl-accent">—</td>
+                            <td>—</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td class="tbl-sub">PGCM</td>
+                            <td class="tbl-accent">&#8377; 3,000</td>
+                            <td>—</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td class="tbl-sub">PGDM</td>
+                            <td class="tbl-accent">&#8377; 3,000</td>
+                            <td>&#36; 150</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td class="tbl-sub">PGDBA</td>
+                            <td class="tbl-accent">&#8377; 5,000</td>
+                            <td>&#36; 200</td>
+                        </tr>
+                        <tr>
+                            <td>9</td>
+                            <td>Project Evaluation</td>
+                            <td class="tbl-accent">&#8377; 2,000</td>
+                            <td>&#36; 30</td>
+                        </tr>
+                        <tr>
+                            <td>10</td>
+                            <td>Late Fee Charges (per month)</td>
+                            <td class="tbl-accent">&#8377; 1,000</td>
+                            <td>&#36; 100</td>
+                        </tr>
+                        <tr>
+                            <td>11</td>
+                            <td>Verification Charges</td>
+                            <td class="tbl-accent">&#8377; 2,500</td>
+                            <td>&#36; 50</td>
+                        </tr>
+                        <tr>
+                            <td>12</td>
+                            <td>International Dispatch for One Semester</td>
+                            <td class="tbl-accent">&#8377; 7,500</td>
+                            <td>&#36; 100</td>
+                        </tr>
+                        <tr>
+                            <td>13</td>
+                            <td>Elective Change Charges</td>
+                            <td class="tbl-accent">&#8377; 500</td>
+                            <td>—</td>
+                        </tr>
+                        <tr>
+                            <td>14</td>
+                            <td>Exam Fee Per Paper</td>
+                            <td class="tbl-accent">&#8377; 750</td>
+                            <td>—</td>
+                        </tr>
+                        <tr>
+                            <td>15</td>
+                            <td>Exam Form Late Fee (per semester)</td>
+                            <td class="tbl-accent">&#8377; 1,000</td>
+                            <td>—</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+        </div>
+    </section>
+
+    <!-- ═══════════════════════════════════════════════
+       SITE FOOTER
+    ════════════════════════════════════════════════ -->
+    <?php include "footer-new.php" ?>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
 </body>
 
 </html>

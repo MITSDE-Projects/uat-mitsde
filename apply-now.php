@@ -227,10 +227,9 @@ $pagename = (isset($_SERVER['HTTPS']) ? "https" : "http") . "://$_SERVER[HTTP_HO
         <section>
             <div class="d-flex justify-content-center align-items-center p-5">
                 <div class="col-md-6 col-lg-6 bg-dark p-3 " style="border-radius: 5px;">
-                    <h4 class="text-white">Apply Now <a href="tel:9112-207-207"
-                            style="text-decoration: none; color: #FFF; font-size: 18px; color: #F47521"">+91
-                    9112-2072-07</a>
-                </h4>
+                    <h4 class="text-white">Apply Now <a href="tel:08071455041"
+                            style="text-decoration: none; color: #FFF; font-size: 18px; color: #F47521">08071455041</a>
+                    </h4>
 
 
 
