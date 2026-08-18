@@ -256,7 +256,7 @@
                     <div class="prog-card-img"><img src="assets-new/images/hr-management.png" alt="HR Management" /></div>
                     <div class="prog-card-body">
                         <a href="executive-mba-human-resource-management"><h3 class="prog-card-title">HR Management</h3></a>
-                        <p class="prog-card-desc">Master Financial Strategies with a Globally-Relevant MBA in Finance</p>
+                        <p class="prog-card-desc">Lead People, Drive Change — Build a Stronger Workforce</p>
                     </div>
                     <div class="prog-card-foot">
                         <span class="prog-duration"><i class="far fa-clock"></i> 24 Months</span>
@@ -269,7 +269,7 @@
                     <div class="prog-card-img"><img src="assets-new/images/marketing-management.png" alt="Marketing Management" /></div>
                     <div class="prog-card-body">
                         <a href="executive-mba-marketing"><h3 class="prog-card-title">Marketing Management</h3></a>
-                        <p class="prog-card-desc">Master Financial Strategies with a Globally-Relevant MBA in Finance</p>
+                        <p class="prog-card-desc">Master Modern Marketing Strategies and Drive Business Growth</p>
                     </div>
                     <div class="prog-card-foot">
                         <span class="prog-duration"><i class="far fa-clock"></i> 24 Months</span>
@@ -282,7 +282,7 @@
                     <div class="prog-card-img"><img src="assets-new/images/operation-management.png" alt="Operations Management" /></div>
                     <div class="prog-card-body">
                         <a href="executive-mba-in-operations"><h3 class="prog-card-title">Operations Management</h3></a>
-                        <p class="prog-card-desc">Master Financial Strategies with a Globally-Relevant MBA in Finance</p>
+                        <p class="prog-card-desc">Master Operational Excellence and Lead Process Innovation</p>
                     </div>
                     <div class="prog-card-foot">
                         <span class="prog-duration"><i class="far fa-clock"></i> 24 Months</span>
@@ -295,7 +295,7 @@
                     <div class="prog-card-img"><img src="assets-new/images/project-management.png" alt="Project Management" /></div>
                     <div class="prog-card-body">
                         <a href="executive-mba-in-project-management"><h3 class="prog-card-title">Project Management</h3></a>
-                        <p class="prog-card-desc">Master Financial Strategies with a Globally-Relevant MBA in Finance</p>
+                        <p class="prog-card-desc">Master the Skills to Lead and Deliver Projects with Excellence</p>
                     </div>
                     <div class="prog-card-foot">
                         <span class="prog-duration"><i class="far fa-clock"></i> 24 Months</span>
@@ -308,12 +308,38 @@
                     <div class="prog-card-img"><img src="assets-new/images/business-analytics-and-ai.png" alt="Business Analytics And AI" /></div>
                     <div class="prog-card-body">
                         <a href="executive-mba-in-business-analytics-and-ai"><h3 class="prog-card-title">Business Analytics And AI</h3></a>
-                        <p class="prog-card-desc">Master Financial Strategies with a Globally-Relevant MBA in Finance</p>
+                        <p class="prog-card-desc">Master Business Analytics and AI to Lead in a Data-Driven World</p>
                     </div>
                     <div class="prog-card-foot">
                         <span class="prog-duration"><i class="far fa-clock"></i> 24 Months</span>
                         <span class="prog-fee">₹1,80,000</span>
                         <a href="executive-mba-in-business-analytics-and-ai" class="prog-arrow">↗</a>
+                    </div>
+                </div>
+
+                <div class="prog-card">
+                    <div class="prog-card-img"><img src="assets-new/images/finance-management.png" alt="Supply Chain Management" /></div>
+                    <div class="prog-card-body">
+                        <a href="executive-mba-in-supply-chain-management"><h3 class="prog-card-title">Supply Chain Management</h3></a>
+                        <p class="prog-card-desc">Drive end-to-end supply chains with strategic precision</p>
+                    </div>
+                    <div class="prog-card-foot">
+                        <span class="prog-duration"><i class="far fa-clock"></i> 24 Months</span>
+                        <span class="prog-fee">₹1,80,000</span>
+                        <a href="executive-mba-in-supply-chain-management" class="prog-arrow">↗</a>
+                    </div>
+                </div>
+
+                <div class="prog-card">
+                    <div class="prog-card-img"><img src="assets-new/images/hr-management.png" alt="International Business" /></div>
+                    <div class="prog-card-body">
+                        <a href="executive-mba-in-international-business"><h3 class="prog-card-title">International Business</h3></a>
+                        <p class="prog-card-desc">Navigate global markets with confidence</p>
+                    </div>
+                    <div class="prog-card-foot">
+                        <span class="prog-duration"><i class="far fa-clock"></i> 24 Months</span>
+                        <span class="prog-fee">₹1,80,000</span>
+                        <a href="executive-mba-in-international-business" class="prog-arrow">↗</a>
                     </div>
                 </div>
 
