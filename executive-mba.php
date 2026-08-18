@@ -367,42 +367,42 @@
                     <div class="expert-avatar"><img src="assets-new/images/harish-bapat.png" alt="Harish Bapat" /></div>
                     <h3 class="expert-name">Harish Bapat</h3>
                     <p class="expert-role">Professor and Dean</p>
-                    <a href="#" class="expert-linkedin" target="_blank" rel="noopener"><i class="fab fa-linkedin-in"></i></a>
+                    <a href="https://www.linkedin.com/in/dr-harish-b-bapat-71b90714/" class="expert-linkedin" target="_blank" rel="noopener"><i class="fab fa-linkedin-in"></i></a>
                 </div>
 
                 <div class="expert-card">
                     <div class="expert-avatar"><img src="assets-new/images/masuma-mehta.png" alt="Masuma Mehta" /></div>
                     <h3 class="expert-name">Masuma Mehta</h3>
                     <p class="expert-role">Associate Professor</p>
-                    <a href="#" class="expert-linkedin" target="_blank" rel="noopener"><i class="fab fa-linkedin-in"></i></a>
+                    <a href="https://www.linkedin.com/in/dr-masuma-mehta-23535148/" class="expert-linkedin" target="_blank" rel="noopener"><i class="fab fa-linkedin-in"></i></a>
                 </div>
 
                 <div class="expert-card">
                     <div class="expert-avatar"><img src="assets-new/images/ankur-kumar-rastogi.png" alt="Ankur Kumar Rastogi" /></div>
                     <h3 class="expert-name">Ankur Kumar Rastogi</h3>
                     <p class="expert-role">Associate Professor</p>
-                    <a href="#" class="expert-linkedin" target="_blank" rel="noopener"><i class="fab fa-linkedin-in"></i></a>
+                    <a href="https://www.linkedin.com/in/ankurkumarrastogi/" class="expert-linkedin" target="_blank" rel="noopener"><i class="fab fa-linkedin-in"></i></a>
                 </div>
 
                 <div class="expert-card">
                     <div class="expert-avatar"><img src="assets-new/images/gaurav-bagra.png" alt="Gaurav Bagra" /></div>
                     <h3 class="expert-name">Gaurav Bagra</h3>
                     <p class="expert-role">Associate Professor</p>
-                    <a href="#" class="expert-linkedin" target="_blank" rel="noopener"><i class="fab fa-linkedin-in"></i></a>
+                    <a href="https://www.linkedin.com/in/dr-gaurav-bagra-9bb860a0/" class="expert-linkedin" target="_blank" rel="noopener"><i class="fab fa-linkedin-in"></i></a>
                 </div>
 
                 <div class="expert-card">
                     <div class="expert-avatar"><img src="assets-new/images/shilpa-sawant.png" alt="Shilpa Sawant" /></div>
                     <h3 class="expert-name">Shilpa Sawant</h3>
                     <p class="expert-role">Associate Professor</p>
-                    <a href="#" class="expert-linkedin" target="_blank" rel="noopener"><i class="fab fa-linkedin-in"></i></a>
+                    <a href="https://www.avantikauniversity.edu.in/courses/executive-mba/" class="expert-linkedin" target="_blank" rel="noopener"><i class="fab fa-linkedin-in"></i></a>
                 </div>
 
                 <div class="expert-card">
                     <div class="expert-avatar"><img src="assets-new/images/kshamaheeta-trivedi.png" alt="Kshamaheeta Trivedi" /></div>
                     <h3 class="expert-name">Kshamaheeta Trivedi</h3>
                     <p class="expert-role">Academic Associate</p>
-                    <a href="#" class="expert-linkedin" target="_blank" rel="noopener"><i class="fab fa-linkedin-in"></i></a>
+                    <a href="https://www.linkedin.com/in/kshamaheeta-trivedi-068587284/" class="expert-linkedin" target="_blank" rel="noopener"><i class="fab fa-linkedin-in"></i></a>
                 </div>
 
             </div>

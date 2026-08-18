@@ -22,7 +22,7 @@
                             <span class="fs-emi-amount">INR 45,000/</span>month
                         </p>
                         <p class="fs-sub">*Terms &amp; conditions apply</p>
-                        <button class="btn-fs-dark btn-fs-sm">Calculate EMI</button>
+                        <!-- <button class="btn-fs-dark btn-fs-sm">Calculate EMI</button> -->
                     </div>
 
                     <!-- Installment A -->
@@ -50,7 +50,7 @@
                         <p class="fs-card-label">Course fee – Lumpsum ₹1,80,000</p>
                         <span class="fs-discount-badge">Discount ₹ 10,000/-</span>
                         <p class="fs-sub">Total lumpsum – ₹1,70,000/-</p>
-                        <a href="#" class="btn-fs-orange">Enquire Now</a>
+                        <a href="#" data-bs-toggle="modal" data-bs-target="#eqModal" class="btn-fs-orange">Enquire Now</a>
                     </div>
 
                 </div>

@@ -68,7 +68,7 @@
                 <p class="fs-card-label">Course fee – Lumpsum ₹64,000</p>
                 <span class="fs-discount-badge">Discount ₹ 6,000/-</span>
                 <p class="fs-sub">Total lumpsum – ₹58,000/-</p>
-                <a href="#" class="btn-fs-orange">Enquire Now</a>
+                <a href="#" data-bs-toggle="modal" data-bs-target="#eqModal" class="btn-fs-orange">Enquire Now</a>
             </div>
 
         </div>
