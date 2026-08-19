@@ -147,8 +147,8 @@
                             Methodology</span></a>
                     <a href="assets/images/media/ComitteeDocument/Internal-Quality-Assurance-Cell-(IQAC).pdf" target="_blank"><span class="academic-tag"><i class="fa-solid fa-shield-halved"></i>Internal Quality
                             Assurance Cell (IQAC)</span></a>
-                    <a href="top-ten-students" target="_blank"><span class="academic-tag"><i class="fa-solid fa-trophy"></i>Top 10 Students
-                            2026</span></a>
+                    <!-- <a href="top-ten-students" target="_blank"><span class="academic-tag"><i class="fa-solid fa-trophy"></i>Top 10 Students
+                            2026</span></a> -->
                     <a href="assets/images/media/Teacher-Training-Policy.pdf" target="_blank"><span class="academic-tag"><i class="fa-solid fa-chalkboard-teacher"></i>Teacher Training
                             Policy</span></a>
                     <a href="contact-session-timer" target="_blank"><span class="academic-tag"><i class="fa-solid fa-calendar-check"></i>Contact Session</span></a>
@@ -213,7 +213,7 @@
                     <div class="service-title">MITSDE Bootcamp</div>
                 </div>
 
-                <div class="service-item">
+                <!-- <div class="service-item">
                     <div class="service-card">
                         <div class="img-wrap"><img src="assets-new/images/synergy-sphere.webp" alt="Synergy Sphere" /></div>
                         <a href="synergysphere" target="_blank" class="service-action" aria-label="Open">
@@ -226,7 +226,7 @@
                         </a>
                     </div>
                     <div class="service-title">Synergy Sphere</div>
-                </div>
+                </div> -->
 
                 <div class="service-item">
                     <div class="service-card">

@@ -1,3 +1,4 @@
+<?php $pagename = "Committee Documents"; ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -6,156 +7,120 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-
-
-    <meta name="description" content="Access MIT SDE committee documents including governance policies, institutional committees, compliance records, and administrative information." />
-    <meta name="keywords"
-        content="distance pg certificate courses, distance certificate courses, online learning, distance learning center, online mba programs, pgdm courses, pgdm distance courses" />
-
-
-    <!-- CANONICAL TAG -->
+    <title>Committee Documents &amp; Policies | MIT SDE</title>
+    <meta name="description" content="Access MIT School of Distance Education committee documents including governance policies, institutional committees, compliance records, and administrative information." />
+    <meta name="keywords" content="MITSDE committee documents, MIT SDE governance, internal complaints committee, grievance redressal, anti ragging committee, IQAC, SC ST committee, MITSDE Pune" />
 
     <link rel="canonical" href="https://mitsde.com/ComitteeDocument" />
 
-    <!-- CANONICAL TAG -->
-    <!-- Page Title -->
-    <title>Committee Documents & Policies | MIT SDE</title>
-    <link rel="icon" type="image/png" href="assets/images/favicon-mit.ico" />
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="assets/css/bootstrap-select.min.css" />
-    <link rel="stylesheet" href="assets/css/slick.min.css" />
-    <link rel="stylesheet" href="assets/css/fonts.css" type="text/css" />
-    <link rel="stylesheet" href="assets/css/style.css" type="text/css" />
-    <link rel="stylesheet" href="assets/css/course-common-internal.css" type="text/css" />
-    <style>
-    td a {
-        text-decoration: none;
-    }
-    </style>
+    <link rel="icon" type="image/png" href="assets-new/images/favicon-mit.ico" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="css-new/styles.css" />
+    <link rel="stylesheet" href="css-new/intlTelInput.css">
 
-    <!--API for Queck contact----->
-    <script src="assets/js/api/jquery-1.10.2.min.js"></script>
-    <script type="text/javascript" src="assets/js/api/validation.js" charset="UTF-8"></script>
-    <!----->
-    <?php // include"google_code.html";?>
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://mitsde.com/" },
+        { "@type": "ListItem", "position": 2, "name": "Mandatory Disclosure", "item": "https://mitsde.com/mandatory-disclosure" },
+        { "@type": "ListItem", "position": 3, "name": "Committee Documents", "item": "https://mitsde.com/ComitteeDocument" }
+    ]
+    }
+    </script>
+
+    <?php include "5-common-seo-tag-1.php" ?>
 </head>
 
 <body>
-    <!-- Header Nav Start -->
-    <?php include "header.php"?>
-    <!-- Header Nav End --->
-    <main class="main-body">
-        <section class="banner inner-banner">
-            <div class="container">
+<?php include "5-common-seo-tag-2.php" ?>
+<?php include "header-new.php" ?>
 
-                <div class="row">
-                    <div class="col-md-12 col-lg-6 main-banner">
-                        <h1>Comittee Document</h1>
+<!-- ═══════════════════════════════════════════════
+   HERO
+════════════════════════════════════════════════ -->
+<section class="hero ph-hero">
 
-                        <div>
-                            <nav>
-                                <ol class="breadcrumb">
-                                    <li class="breadcrumb-item"><a href="https://mitsde.com/">Home</a>
-                                    </li>
+    <nav class="page-breadcrumb" aria-label="Breadcrumb">
+        <span class="pb-line"></span>
+        <a href="./">Home</a>
+        <span class="pb-sep">/</span>
+        <a href="mandatory-disclosure">Mandatory Disclosure</a>
+        <span class="pb-sep">/</span>
+        <span class="pb-current">Committee Documents</span>
+    </nav>
 
-                                    <li class="breadcrumb-item active" aria-current="page">Comittee Document
-                                    </li>
-
-                            </nav>
-
-
-                        </div>
-                    </div>
-                    <div class="col-md-12 col-lg-6">
-                        <div class="css-details">
-                            <div class="stc-det student-sec inner-sec">
-                                <img src="assets/images/progress.svg" alt="Progress indicator icon">
-                            </div>
-                           <!-- <img src="assets/images/media/common-images-new/remaning-course-page/Mandatory-Disclosures.jpg"  class="banner-img" alt="mandatory-disclosure">-->
-                            <img src="assets/images/media/common-images-new/remaning-course-page/Mandatory-Disclosures.jpg"  class="banner-img" alt="mandatory-disclosure">
-                            <div class="stc-det course-sec inner-sec">
-                                <img src="assets/images/walet.svg" alt="Wallet icon for payment">
-                            </div>
-                        </div>
-                    </div>
-                </div>
+    <div class="container">
+        <div class="ph-layout py-5">
+            <div class="ph-left">
+                <h1 class="ph-heading">Committee <span class="text-orange">Documents</span></h1>
             </div>
-        </section>
-
-
-
-
-
-        <section id="curriculam" class="enroll-certification">
-            <div class="container">
-                <div class="row">
-                    <div class="cur-accordiaon">
-                        <!--<h3>Recognition and Approval</h3>-->
-                        <table class="table">
-                            <thead>
-                                <tr>
-                                    <th>Pages and there link</th>
-                                    <th>Pages and there link</th>
-                                    <th>Pages and there link</th>
-                                    <th>Pages and there link</th>
-
-                                </tr>
-                            </thead>
-                            <tbody>
-
-                                   <tr>
-                                     <td><a rel="canonical" href="#" target="_blank">Internal Complaint Comittee </a></td>
-                                      <!-- <td><a rel="canonical" href="assets/images/media/ComitteeDocument/Internal-Complaints-Committee.pdf" target="_blank">Internal Complaint Comittee </a></td>-->
-                                     <td><a rel="canonical" href="assets/images/media/ComitteeDocument/Grievances-Redressal-Committee.pdf" target="_blank">Grievance Redressal Committee</a></td>
-                                     <td><a rel="canonical" href="assets/images/media/ComitteeDocument/Online-Grievance-Redressal-Mechanism.pdf" target="_blank">Online Grievance Redressal Mechanism Committee</a></td>
-                                     <td><a rel="canonical" href="assets/images/media/ComitteeDocument/SC_ST_COMMITTEE_26_27.pdf" target="_blank">SC ST COMMITTEE</a></td>
-                                       
-                                    </tr>
-                                   <tr>
-                                       <td><a rel="canonical" href="#">Prevention of Caste Based Discrimination Committee</a></td>
-                                     <td><a rel="canonical" href="assets/images/media/ComitteeDocument/Internal-Quality-Assurance-Cell-(IQAC).pdf" target="_blank">Internal Quality Assurance Cell (IQAC)</a></td>
-                                     <td><a rel="canonical" href="assets/images/media/ComitteeDocument/Anti-Ragging-Committee.pdf" target="_blank">Anti Ragging Committee</a></td>
-                                    
-                                       
-                                   </tr>
-                                   <tr>
-                                       
-                                     
-                                   </tr>
-                                
-                                
-                                <tr></tr>
-                              
-
-
-
-
-
-                            </tbody>
-                        </table>
-
-                    </div>
-                </div>
+            <div class="ph-right">
+                <img src="assets-new/images/application-process.webp" alt="Committee Documents" />
             </div>
-        </section>
+        </div>
+    </div>
 
+</section>
 
+<!-- ═══════════════════════════════════════════════
+   COMMITTEE DOCUMENTS TABLE
+════════════════════════════════════════════════ -->
+<section class="about-section pb-0" id="about">
+    <div class="container">
 
+        <div class="tbl-wrap">
+            <table class="tbl">
+                <thead>
+                    <tr>
+                        <th class="tbl-label">Committee</th>
+                        <th>Document</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="tbl-label">Internal Complaint Committee</td>
+                        <td><a href="assets/images/media/ComitteeDocument/Internal-Complaints-Committee.pdf" style="text-decoration:none;color:#f47521;" target="_blank">Link</a></td>
+                    </tr>
+                    <tr>
+                        <td class="tbl-label">Grievance Redressal Committee</td>
+                        <td><a href="assets/images/media/ComitteeDocument/Grievances-Redressal-Committee.pdf" style="text-decoration:none;color:#f47521;" target="_blank">Link</a></td>
+                    </tr>
+                    <tr>
+                        <td class="tbl-label">Online Grievance Redressal Mechanism Committee</td>
+                        <td><a href="assets/images/media/ComitteeDocument/Online-Grievance-Redressal-Mechanism.pdf" style="text-decoration:none;color:#f47521;" target="_blank">Link</a></td>
+                    </tr>
+                    <tr>
+                        <td class="tbl-label">SC ST Committee</td>
+                        <td><a href="assets/images/media/ComitteeDocument/SC_ST_COMMITTEE_26_27.pdf" style="text-decoration:none;color:#f47521;" target="_blank">Link</a></td>
+                    </tr>
+                    <tr>
+                        <td class="tbl-label">Prevention of Caste Based Discrimination Committee</td>
+                        <td><a href="#" style="text-decoration:none;color:#f47521;">Link</a></td>
+                    </tr>
+                    <tr>
+                        <td class="tbl-label">Internal Quality Assurance Cell (IQAC)</td>
+                        <td><a href="assets/images/media/ComitteeDocument/Internal-Quality-Assurance-Cell-(IQAC).pdf" style="text-decoration:none;color:#f47521;" target="_blank">Link</a></td>
+                    </tr>
+                    <tr>
+                        <td class="tbl-label">Anti Ragging Committee</td>
+                        <td><a href="assets/images/media/ComitteeDocument/Anti-Ragging-Committee.pdf" style="text-decoration:none;color:#f47521;" target="_blank">Link</a></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
 
-    </main>
-    <!-- Footer Start -->
+    </div>
+</section>
 
-    <?php include "footer.php"?>
+<!-- ═══════════════════════════════════════════════
+   SITE FOOTER
+════════════════════════════════════════════════ -->
+<?php include "footer-new.php" ?>
 
-
-    <!-- footer end  -->
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/js/bootstrap-select.min.js"></script>
-    <script src="assets/js/slick.min.js"></script>
-    <script src="assets/js/common.js"></script>
-    <script src="assets/js/course-slider.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 
 </body>
-
 </html>

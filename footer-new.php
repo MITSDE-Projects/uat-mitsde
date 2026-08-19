@@ -110,7 +110,7 @@
                   d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07A19.5 19.5 0 0 1 4.69 13a19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 3.6 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z" />
               </svg>
             </span>
-            <p><span class="sf-contact-label">Phone:</span><br><a href="tel:9112207207">9112207207</a></p>
+            <p><span class="sf-contact-label">Phone:</span><br><a href="tel:9112207207">9112-207-207</a></p>
           </div>
           <div class="sf-contact-item">
             <span class="sf-contact-icon">
@@ -167,7 +167,7 @@
             <li><a href="post-graduate-certificate-in-digital-marketing">PGCM Digital Marketing</a></li>
           </ul>
         </div>
-        <hr class="sf-prog-hr" />
+        <!-- <hr class="sf-prog-hr" />
         <div class="sf-prog-group">
           <h6 class="sf-prog-heading">PGDM Courses in Lucknow</h6>
           <ul class="sf-prog-list">
@@ -182,7 +182,7 @@
             <li><a href="online-pgdm-colleges-in-kolkata">PGDM Courses in Kolkata</a></li>
             <li><a href="online-ai-digital-marketing-courses-in-kolkata">AI Digital Marketing Courses in Kolkata</a></li>
           </ul>
-        </div>
+        </div> -->
       </div>
 
       <!-- Card 2 -->
@@ -236,7 +236,7 @@
             <li><a href="pgdm-executive-in-construction-and-project-management">PGDM Exec Construction and Project</a></li>
           </ul>
         </div>
-        <hr class="sf-prog-hr" />
+        <!-- <hr class="sf-prog-hr" />
         <div class="sf-prog-group">
           <h6 class="sf-prog-heading">PGDM in Delhi</h6>
           <ul class="sf-prog-list">
@@ -251,7 +251,7 @@
             <li><a href="online-pgdm-colleges-in-jaipur">PGDM Courses in Jaipur</a></li>
             <li><a href="online-ai-digital-marketing-courses-in-jaipur">AI Digital Marketing Courses in Jaipur</a></li>
           </ul>
-        </div>
+        </div> -->
       </div>
 
     </div>
@@ -262,6 +262,8 @@
   </div><!-- /sf-programs -->
 
 </footer>
+
+<script src="https://extraaedgeresources.blob.core.windows.net/documents/mitsde_1/Chatbot/js/chat.vidyaai.js"></script>
 
 <script src="assets-new/js/jquery.min.js"></script>
 <script src="assets-new/js/api/validation.js" charset="UTF-8"></script>

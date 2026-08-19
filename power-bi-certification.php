@@ -179,7 +179,7 @@
                             </div>
                         </li>
                         <li class="enquiry-btn-wrap">
-                            <button type="button" class="btn btn-dark rounded-pill px-4 py-2">Enquire Now</button>
+                            <button type="button" class="btn btn-dark rounded-pill px-4 py-2" data-bs-toggle="modal" data-bs-target="#eqModal">Enquire Now</button>
                         </li>
                     </ul>
                 </div>

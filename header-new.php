@@ -410,10 +410,11 @@ else $nav_active = '';
 
             <div class="mega-panel" id="panel-la-mocs">
                 <ul class="mega-panel-list">
-                    <li><a href="mit-office-of-career-services"><span>I'm a MITSDE Student</span><svg class="mega-panel-item-arrow" viewBox="0 0 20 10" fill="none"><path d="M0 5h18M14 1l4 4-4 4" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a></li>
-                    <li><a href="mocs-for-external-learner"><span>I'm a Non-MITSDE Student</span><svg class="mega-panel-item-arrow" viewBox="0 0 20 10" fill="none"><path d="M0 5h18M14 1l4 4-4 4" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a></li>
+                    <li><a href="mit-office-of-career-services"><span>MOCS</span><svg class="mega-panel-item-arrow" viewBox="0 0 20 10" fill="none"><path d="M0 5h18M14 1l4 4-4 4" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a></li>
+                    <li><a href="synergysphere"><span>Synergy Sphere</span><svg class="mega-panel-item-arrow" viewBox="0 0 20 10" fill="none"><path d="M0 5h18M14 1l4 4-4 4" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a></li>
+                    <!-- <li><a href="mocs-for-external-learner"><span>I'm a Non-MITSDE Student</span><svg class="mega-panel-item-arrow" viewBox="0 0 20 10" fill="none"><path d="M0 5h18M14 1l4 4-4 4" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a></li>
                     <li><a href="student-mental-well-being-support"><span>Mental Health Helpline</span><svg class="mega-panel-item-arrow" viewBox="0 0 20 10" fill="none"><path d="M0 5h18M14 1l4 4-4 4" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a></li>
-                    <li><a href="mocs-impact"><span>MOCS Impact</span><svg class="mega-panel-item-arrow" viewBox="0 0 20 10" fill="none"><path d="M0 5h18M14 1l4 4-4 4" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a></li>
+                    <li><a href="mocs-impact"><span>MOCS Impact</span><svg class="mega-panel-item-arrow" viewBox="0 0 20 10" fill="none"><path d="M0 5h18M14 1l4 4-4 4" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a></li> -->
                 </ul>
             </div>
 
@@ -455,8 +456,8 @@ else $nav_active = '';
         </svg>
     </a>
 
-    <a href="#">Career Support Hub</a>
-    <a href="#"><strong>Corporate Acceleration</strong></a>
+    <!-- <a href="#">Career Support Hub</a> -->
+    <a href="global-exposure"><strong>Global Exposure</strong></a>
     <div class="mobile-menu-actions">
         <a href="https://mitpro.mitsde.com/" target="_blank" class="btn-outline">Login</a>
         <button class="btn-outline" data-bs-toggle="modal" data-bs-target="#eqModal">Apply Now</button>

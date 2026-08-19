@@ -513,24 +513,6 @@
 
     <?php include "../footer-new.php" ?>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
-
-    <script>
-    document.querySelectorAll('.faq-q').forEach(btn => {
-        btn.addEventListener('click', () => {
-            const item = btn.closest('.faq-item');
-            const isOpen = item.classList.contains('is-open');
-            document.querySelectorAll('.faq-item').forEach(i => {
-                i.classList.remove('is-open');
-                i.querySelector('.faq-q').setAttribute('aria-expanded', 'false');
-            });
-            if (!isOpen) {
-                item.classList.add('is-open');
-                btn.setAttribute('aria-expanded', 'true');
-            }
-        });
-    });
-    </script>
-
 </body>
 
 </html>

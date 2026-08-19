@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+<?php $pagename = "MIT Office of Career Services (MOCS)"; ?>
+<!doctype html>
 <html lang="en">
 
 <head>
@@ -7,1101 +8,808 @@
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
-    <title>MIT Office of Career Services & Placement | MIT SDE </title>
+    <title>MIT Office of Career Services (MOCS) | MITSDE</title>
+    <meta name="description" content="MOCS is MITSDE's built-in career and well-being service — personalised career planning, workshops, mentoring, and placement support, delivered across your entire program." />
+    <meta name="keywords" content="MIT Office of Career Services, MOCS, MITSDE career services, career development plan, CDP, industry mentoring, placement support, MITSDE" />
 
-
-    <meta name="description"
-        content="Learn about MIT Office of Career Services offering career counseling, placement support, industry interaction, and professional development opportunities." />
-    <meta name="keywords"
-        content="MIT office of career services,  mitsde, Soft Skills Training,  Stress Management, mit career services, success, help, academicsuccess, educationalgoals " />
     <!-- CANONICAL TAG -->
     <link rel="canonical" href="https://mitsde.com/mit-office-of-career-services" />
-    <!-- CANONICAL TAG -->
-
-    <?php include "5-common-seo-tag-1.php" ?>
 
     <!-- OGP TAG -->
-
-    <meta property="og:title" content="Post Graduate Diploma Courses in Management | PGDM Course">
+    <meta property="og:title" content="MIT Office of Career Services (MOCS) | MITSDE">
     <meta property="og:site_name" content="MIT School of Distance Education">
     <meta property="og:url" content="https://mitsde.com/mit-office-of-career-services">
-    <meta property="og:description"
-        content="MIT Office of Career Services offers a unique blend of services beyond academics, focusing on the holistic development of learners for career success.">
+    <meta property="og:description" content="MOCS is MITSDE's built-in career and well-being service — personalised career planning, workshops, mentoring, and placement support, delivered across your entire program.">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/assets/images/course/harbour/harbour.jpg">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/placement.webp">
 
+    <link rel="icon" type="image/png" href="assets-new/images/favicon-mit.ico" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="css-new/styles.css" />
+    <link rel="stylesheet" href="css-new/intlTelInput.css">
 
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+        { "@type": "Question", "name": "What is MOCS?", "acceptedAnswer": { "@type": "Answer", "text": "MITSDE's in-house career and well-being team — delivering personalised career planning, workshops, mentoring, counselling, mock interviews, and placement support across your full programme." } },
+        { "@type": "Question", "name": "Is MOCS optional?", "acceptedAnswer": { "@type": "Answer", "text": "For Cohort 15 onwards, MOCS is part of the programme and included in your fee. Every enrolled student has full access." } },
+        { "@type": "Question", "name": "Do I pay extra for MOCS?", "acceptedAnswer": { "@type": "Answer", "text": "No — included in your programme fee for Cohort 15+. Non-MITSDE learners have a separate standalone subscription." } },
+        { "@type": "Question", "name": "What is the Career Diagnostic?", "acceptedAnswer": { "@type": "Answer", "text": "A 30–45 minute assessment in Month 1. Captures your current role, target role, and skill gaps — and drives your personalised CDP and roadmap." } },
+        { "@type": "Question", "name": "What is the CDP?", "acceptedAnswer": { "@type": "Answer", "text": "A personalised career plan delivered as a PDF and audio walkthrough. Specifies your roadmap, services, and milestones across 4 semesters." } },
+        { "@type": "Question", "name": "How long does MOCS run?", "acceptedAnswer": { "@type": "Answer", "text": "Across all four semesters — the full duration of your programme." } },
+        { "@type": "Question", "name": "What services are included?", "acceptedAnswer": { "@type": "Answer", "text": "Counselling, mentoring, Kaushalya (soft skills), communication, Adhyapan (leadership), networking, mock interviews, Maanas & Anubhuti (well-being), resume & LinkedIn sign-off, placement support, and a MOCS Completion Certificate." } },
+        { "@type": "Question", "name": "What happens during exam months?", "acceptedAnswer": { "@type": "Answer", "text": "Live sessions pause during exam windows. Async LMS content remains available. Exam months don't count against attendance." } },
+        { "@type": "Question", "name": "Does MOCS affect my academic certificate?", "acceptedAnswer": { "@type": "Answer", "text": "No. MOCS is co-curricular. The MOCS Completion Certificate is separate from your MITSDE academic certificate." } },
+        { "@type": "Question", "name": "I subscribed in an earlier cohort — what happens?", "acceptedAnswer": { "@type": "Answer", "text": "All services continue exactly as committed. Raise a ticket on TMS for specific queries." } },
+        { "@type": "Question", "name": "I'm not a MITSDE student — can I access MOCS?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. A standalone subscription is available for non-MITSDE learners." } },
+        { "@type": "Question", "name": "How do I see my workshops and milestones?", "acceptedAnswer": { "@type": "Answer", "text": "All in your MOCS dashboard inside the learner portal — calendar, CDP, milestones, and bookings." } },
+        { "@type": "Question", "name": "How do I contact the MOCS team?", "acceptedAnswer": { "@type": "Answer", "text": "MITSDE learners: raise a ticket on TMS or use the MOCS communication channel from your welcome email. Others: use the contact form on the registration page." } }
+    ]
+    }
+    </script>
 
-    <!-- / OG TAG -->
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://mitsde.com/" },
+        { "@type": "ListItem", "position": 2, "name": "MIT Office of Career Services (MOCS)", "item": "https://mitsde.com/mit-office-of-career-services" }
+    ]
+    }
+    </script>
 
-
-    <link rel="icon" type="image/png" href="assets/images/favicon-mit.ico" />
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="assets/css/bootstrap-select.min.css" />
-    <link rel="stylesheet" href="assets/css/slick.min.css" />
-    <link rel="stylesheet" href="assets/css/fonts.css" type="text/css" />
-    <link rel="stylesheet" href="assets/css/style.css" type="text/css" />
-    <link rel="stylesheet" href="assets/fontawesome/css/all.min.css" type="text/css">
-    <link rel="stylesheet" href="assets/css/course-common-internal.css" type="text/css" />
-    <link rel="stylesheet" href="assets/css/harbour.css" type="text/css" />
-    <link rel="stylesheet" href="assets/css/tab-to-common.css" type="text/css" />
-    <link rel="stylesheet" href="assets/css/two-card-slider.css" type="text/css" />
-
-
-    <!--API for Queck contact----->
-    <script src="assets/js/api/jquery-1.10.2.min.js"></script>
-    <script type="text/javascript" src="assets/js/api/validation.js" charset="UTF-8"></script>
-    <!----->
-
-    <style>
-        h4 {
-            color: #f47521;
-        }
-    </style>
-
+    <?php include "5-common-seo-tag-1.php" ?>
 </head>
 
 <body>
-    <?php include "5-common-seo-tag-2.php" ?>
-    <!-- Header Nav Start -->
-    <?php include "header.php" ?>
-    <!-- Header Nav End --->
-    <main class="main-body">
-        <section class="banner inner-banner">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 col-lg-6 main-banner">
-                        <div class="row">
-                            <div class="col-md-3"><img src="assets/images/course/harbour/100x100.png" alt="MIT Office of Career Services logo"></div>
-                            <div class="col-md-9">
-                                <h1>MIT Office of Career Services (MOCS)
-                                </h1>
-                                <p>Empowering Your Career & Well-Being – Your Path to Success Starts Here!</p>
-                            </div>
-                        </div>
+<?php include "5-common-seo-tag-2.php" ?>
+<?php include "header-new.php" ?>
 
-                        <div class="row">
-                            <div class="col-md-12 mt-2"><a href="sign-up-for-mocs-career-services"
-                                    class="text-decoration-none"> <button type="button"
-                                        class="btn btn-primary mit-button cus-btn inner-cus ms-0 "
-                                        data-bs-toggle="modal" data-bs-target="">
-                                        MOCS Registration for Non- Student </button></a></div>
-                        </div>
-
-
-                        <div>
-                            <nav>
-                                <ol class="breadcrumb mt-4">
-                                    <li class="breadcrumb-item"><a href=" https://mitsde.com">Home</a>
-                                    </li>
-
-                                    <li class="breadcrumb-item active" aria-current="page">MIT Office of Career Services
-                                    </li>
-
-                            </nav>
-
-
-                        </div>
-                    </div>
-                    <div class="col-md-12 col-lg-6">
-                        <div class="css-details">
-                            <div class="stc-det student-sec inner-sec">
-                                <img src="assets/images/progress.svg" alt="Progress indicator icon">
-                            </div>
-                            <img src="assets/images/course/harbour/harbour.jpg" class="banner-img"
-                                alt="Frequently Asked Questions">
-                            <div class="stc-det course-sec inner-sec">
-                                <img src="assets/images/walet.svg" alt="Wallet icon for payment">
-                            </div>
-                        </div>
-                    </div>
+<!-- ═══════════════════════════════════════════════
+   HERO
+════════════════════════════════════════════════ -->
+<section class="hero ph-hero">
+    <nav class="page-breadcrumb" aria-label="Breadcrumb">
+        <span class="pb-line"></span>
+        <a href="./">Home</a>
+        <span class="pb-sep">/</span>
+        <span class="pb-current">MIT Office of Career Services</span>
+    </nav>
+    <div class="container">
+        <div class="ph-layout py-5">
+            <div class="ph-left">
+                <h1 class="ph-heading">MIT Office of Career Services <span class="text-orange">(MOCS)</span></h1>
+                <div class="ph-sub">
+                    <p class="fs-5 fw-semibold">Your career, designed personally. Delivered across your program.</p>
+                </div>
+                <p class="text-muted mb-4">MOCS is MITSDE&rsquo;s built-in career and well-being service &mdash; personalised career planning, workshops, mentoring, and placement support, delivered across your entire program.</p>
+                <div class="d-flex flex-wrap gap-3">
+                    <a href="#" class="btn btn-dark rounded-pill px-4 py-2">&rarr; Take the Career Diagnostic</a>
+                    <a href="#" class="btn btn-outline-dark rounded-pill px-4 py-2">Already a MITSDE student? Access your MOCS dashboard</a>
                 </div>
             </div>
-        </section>
-
-        <section class="mt-5">
-            <div class="container-fluid">
-                <div class="row hero13">
-                    <img src="./assets/images/course/harbour/banner.jpg" class="img-responsive"
-                        alt="MITSDE MOCS course banner">
-                </div>
+            <div class="ph-right">
+                <img src="assets-new/images/placement.webp" alt="MIT Office of Career Services (MOCS)" />
             </div>
-        </section>
+        </div>
+    </div>
+</section>
 
+<!-- ═══════════════════════════════════════════════
+   STICKY NAV PILLS
+════════════════════════════════════════════════ -->
+<div class="ph-specs-wrap sticky-pills">
+    <div class="ph-specs">
+        <a href="#what-mocs-is"><button class="ph-spec-pill">What MOCS Is</button></a>
+        <a href="#journey"><button class="ph-spec-pill">The Journey</button></a>
+        <a href="#diagnostic"><button class="ph-spec-pill">Career Diagnostic</button></a>
+        <a href="#cdp"><button class="ph-spec-pill">CDP</button></a>
+        <a href="#roadmap"><button class="ph-spec-pill">Roadmap</button></a>
+        <a href="#services"><button class="ph-spec-pill">Services</button></a>
+        <a href="#impact"><button class="ph-spec-pill">Impact</button></a>
+        <a href="#mentors"><button class="ph-spec-pill">Mentors</button></a>
+        <a href="#plans"><button class="ph-spec-pill">Plans &amp; Access</button></a>
+        <a href="#faq"><button class="ph-spec-pill">FAQ</button></a>
+        <a href="#portal"><button class="ph-spec-pill">Student Portal</button></a>
+    </div>
+</div>
 
-        <section id="overview" class="enroll-certification">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 col-lg-12 fintech-certi">
-                        <h2>MIT Office of Career Services (MOCS)
+<!-- ═══════════════════════════════════════════════
+   WHAT MOCS IS
+════════════════════════════════════════════════ -->
+<section class="about-section" id="what-mocs-is">
+    <div class="container">
+        <h2 class="section-heading">What <span class="text-orange">MOCS Is</span></h2>
+        <h3 class="fw-semibold mb-3">A career office, inside your program.</h3>
+        <p>MOCS is the career and well-being arm of MITSDE, built into every program for students enrolled from Cohort 15 onwards. It delivers a personalised career plan, structured milestones, workshops, mentoring, counselling, and placement support &mdash; running across all 4 semesters.</p>
 
-                        </h2>
-                        <!-- <img src="assets/images/humancloud.svg" alt=""> -->
-                    </div>
-                    <div class="col-md-12 col-lg-12 fin-feature hero11">
-                        <h3>Your career, designed personally. Delivered across your program.</h3>
-                        <p>
-                            MOCS is MITSDE's in-house career and well-being service — built into every program. From the day you enroll, you receive a personalised career plan, structured milestones, expert mentoring, and one-on-one support, right through to your next role.
-                        </p>
+        <h4 class="fw-bold text-orange mt-4 mb-3">Three Pillars</h4>
+        <div class="tbl-wrap">
+            <table class="tbl">
+                <thead>
+                    <tr>
+                        <th class="tbl-label">Pillar</th>
+                        <th>What It Means</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="tbl-label fw-semibold">Personalized</td>
+                        <td>A Career Development Plan built from your own diagnostic, goals, and gaps.</td>
+                    </tr>
+                    <tr>
+                        <td class="tbl-label fw-semibold">Continuous</td>
+                        <td>Support across all 4 semesters &mdash; not a final-semester placement push.</td>
+                    </tr>
+                    <tr>
+                        <td class="tbl-label fw-semibold">Holistic</td>
+                        <td>Career readiness and mental well-being &mdash; both built into your plan.</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</section>
 
+<!-- ═══════════════════════════════════════════════
+   THE MOCS JOURNEY
+════════════════════════════════════════════════ -->
+<section class="about-section" id="journey" style="background:var(--bg-light)">
+    <div class="container">
+        <h2 class="section-heading">The MOCS Journey &mdash; <span class="text-orange">How It Works</span></h2>
+        <h3 class="fw-semibold mb-3">Five stages. Four semesters. One outcome.</h3>
 
-                    </div>
-                    <hr>
-                </div>
-                </div>
-        
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 col-lg-12 fintech-certi">
-                        <h2>What MOCS Is</h2>
-                    </div>
-                    <div class="col-md-12 col-lg-12 fin-feature hero11">
-                        <h3>A career office, inside your program.</h3>
-                        <p>
-                            MOCS is MITSDE's in-house career and well-being service — built into every program. From the day you enroll, you receive a personalised career plan, structured milestones, expert mentoring, and one-on-one support, right through to your next role.
-                        </p>
-                        <p>
-                            This means a personalised career plan written for you, not a generic checklist. A roadmap that runs the full length of your program. Workshops, mentoring, mock interviews, counselling, and placement support — all sequenced to meet you when you need them, not in a rushed final-semester module.
-                        </p>
-                        <p>
-                            Working professionals deserve structured career support built into their program. MOCS delivers exactly that.
-                        </p>
+        <div class="tbl-wrap">
+            <table class="tbl">
+                <thead>
+                    <tr>
+                        <th class="tbl-label">Stage</th>
+                        <th>What Happens</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="tbl-label fw-semibold">1 &mdash; Diagnose &nbsp;|&nbsp; Sem 1, Months 1&ndash;3</td>
+                        <td>Career Diagnostic + 1:1 call + personalised CDP delivered.</td>
+                    </tr>
+                    <tr>
+                        <td class="tbl-label fw-semibold">2 &mdash; Plan &nbsp;|&nbsp; Sem 1, Months 3&ndash;6</td>
+                        <td>Roadmap finalised. LinkedIn setup, role clarity workshops, peer connect.</td>
+                    </tr>
+                    <tr>
+                        <td class="tbl-label fw-semibold">3 &mdash; Build &nbsp;|&nbsp; Sem 2</td>
+                        <td>Soft-skills training, communication, leadership, networking, and mentoring begins.</td>
+                    </tr>
+                    <tr>
+                        <td class="tbl-label fw-semibold">4 &mdash; Practice &nbsp;|&nbsp; Sem 3</td>
+                        <td>Resume sign-off, AI mock interviews, panel mocks, portfolio building.</td>
+                    </tr>
+                    <tr>
+                        <td class="tbl-label fw-semibold">5 &mdash; Place &nbsp;|&nbsp; Sem 4</td>
+                        <td>Active placement support, offer handling, salary negotiation, final mentoring.</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</section>
 
-                        <h4><b>Three Pillars</b></h4>
-                        <div class="table-responsive">
-                            <table class="table table-bordered text-nowrap">
-                                <thead>
-                                    <tr>
-                                        <th>Pillar</th>
-                                        <th>What It Means</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    <tr>
-                                        <td><strong>Personalized</strong></td>
-                                        <td>
-                                            Every student receives a Career Development Plan built from their own diagnostic, goals, and gaps. 
-                                            No two plans are identical.
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td><strong>Continuous</strong></td>
-                                        <td>
-                                            Career support runs across all 4 semesters — not as a final-semester placement push.
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td><strong>Holistic</strong></td>
-                                        <td>
-                                            Career readiness and mental well-being. Counselling, stress management, and life-skills are part 
-                                            of the plan, not optional extras.
-                                        </td>
-                                    </tr>
-                                </tbody>
-                            </table>
-                        </div>
-                        <hr>
-                    </div>
-                </div>
-            </div>
-        
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 col-lg-12 fintech-certi">
-                        <h2>The MOCS Journey — How It Works</h2>
-                    </div>
-                    <div class="col-md-12 col-lg-12 fin-feature hero11">
-                        <h3><b>Your Career Roadmap</b></h3>
-                        <h3>Five stages. One outcome.</h3>
-                        <p>
-                            The MOCS journey runs across four semesters in five clear stages. Each stage builds on the last — you cannot practice for interviews if you have not built the skills, and you cannot build the skills without first diagnosing where you stand.
-                        </p>
+<!-- ═══════════════════════════════════════════════
+   CAREER DIAGNOSTIC
+════════════════════════════════════════════════ -->
+<section class="about-section" id="diagnostic">
+    <div class="container">
+        <h2 class="section-heading">The Career <span class="text-orange">Diagnostic Tool</span></h2>
+        <h3 class="fw-semibold mb-3">Your career is measured before it is planned.</h3>
+        <p>Completed in Month 1, the Career Diagnostic captures four things:</p>
 
-                        <h4><b>Stage 1 — Diagnose</b></h4>
-                        <p>
-                            You complete the Career Diagnostic, meet your career manager, and receive your personalised Career Development Plan (CDP). MOCS establishes your starting point — your current role, target role, strengths, and gaps.
-                        </p>
+        <ul class="learning-outcomes-list mb-4">
+            <li><i class="fa-regular fa-square-check"></i><span>Where you are today &mdash; role, industry, experience, and salary.</span></li>
+            <li><i class="fa-regular fa-square-check"></i><span>Where you want to go &mdash; target role, industry, and type of career move.</span></li>
+            <li><i class="fa-regular fa-square-check"></i><span>What you bring &mdash; skills, certifications, and domain depth.</span></li>
+            <li><i class="fa-regular fa-square-check"></i><span>What is holding you back &mdash; gaps mapped against real hiring patterns.</span></li>
+        </ul>
 
-                        <h4><b>Stage 2 — Plan</b></h4>
-                        <p>
-                            Your roadmap is finalised. You complete role-clarity workshops, set up your LinkedIn profile, and connect with peers in your domain. By the end of Stage 1, you know what you are working towards and how MOCS will get you there.
-                        </p>
+        <p>The diagnostic drives your CDP, roadmap, workshop priorities, and mentor match. It takes 30&ndash;45 minutes, delivered through the LMS in the first 30 days.</p>
+    </div>
+</section>
 
-                        <h4><b>Stage 3 — Build</b></h4>
-                        <p>
-                            The skill-building phase: soft-skills training, communication workshops, leadership programs, networking series, and the commencement of your industry mentoring journey.
-                        </p>
+<!-- ═══════════════════════════════════════════════
+   CDP
+════════════════════════════════════════════════ -->
+<section class="about-section" id="cdp" style="background:var(--bg-light)">
+    <div class="container">
+        <h2 class="section-heading">Your Career Development <span class="text-orange">Plan (CDP)</span></h2>
+        <h3 class="fw-semibold mb-3">A career plan written for you, not for everyone.</h3>
+        <p class="mb-4">Built from your diagnostic, reviewed by the MOCS team, and delivered as a PDF and audio walkthrough. No two CDPs are identical.</p>
 
-                        <h4><b>Stage 4 — Practice</b></h4>
-                        <p>
-                            Resume sign-off, AI-powered mock interviews, panel mocks, portfolio building, and live feedback. By the end of this stage, you are interview-ready.
-                        </p>
-
-                        <h4><b>Stage 5 — Place</b></h4>
-                        <p>
-                            Active placement support, offer-handling guidance, salary negotiation training, and final mentoring. The goal is not just an offer — it is the right offer.
-                        </p>
-
-                        <hr>
-                    </div>
-                </div>
-            </div>
-
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 col-lg-12 fintech-certi">
-                        <h2>The Career Diagnostic Tool</h2>
-                    </div>
-                    <div class="col-md-12 col-lg-12 fin-feature hero11">
-                        <h3>Your career measured before it is planned.</h3>
-                        <p>
-                            Every MOCS journey begins with the Career Diagnostic — a structured assessment completed in the first month at MITSDE. It captures four things:
-                        </p>
-
-                        <ul class="fin-feature1" style="list-style: disc;">
-                            <li>Where you are today — your current role, industry, experience, salary band, and day-to-day responsibilities.</li>
-                            <li>Where you want to go — your target role, industry, salary, and the type of career move you are attempting (advancement, switch, return-to-work, or leadership transition).</li>
-                            <li>What you bring — your skills, certifications, domain depth, and what is already working in your career.</li>
-                            <li>What is holding you back — the specific gaps between your current profile and your target role, mapped against real industry hiring patterns.</li>
-                        </ul>
-                        
-                        <p>
-                            The diagnostic is not a personality test or generic aptitude quiz. It is the input layer for everything MOCS does for you — your roadmap, your CDP, your workshop priorities, and your mentoring match are all shaped by what the diagnostic surfaces.
-                        </p>
-                        <p class="px-5">
-                            <i>ℹ  The most common pattern: students know their target role but underestimate the skill gap to get there. The diagnostic makes that gap concrete — and turns it into a plan with deadlines.</i>
-                        </p>
-                        <p>
-                            The diagnostic is delivered through the LMS within the first 30 days of your program. It takes 30–45 minutes. Your career manager will walk through the results with you in your first 1:1 call.
-                        </p>
-
-                        <hr>
-                    </div>
-                </div>
-            </div>
-
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 col-lg-12 fintech-certi">
-                        <h2>Your Career Development Plan (CDP)</h2>
-                    </div>
-                    <div class="col-md-12 col-lg-12 fin-feature hero11">
-                        <h3>A career plan written for you, not for everyone.</h3>
-                        <p>
-                            Once your diagnostic is complete, MOCS builds your Career Development Plan — a personalised document specifying what you are working on across the duration of your program, why, and how MOCS will support you.
-                        </p>
-                        <p>
-                            Your CDP is generated using AI trained on the MOCS framework, then reviewed and refined by a member of the MOCS career team. It is delivered in two formats:
-                        </p>
-
-                        <ul class="fin-feature1" style="list-style: disc;">
-                            <li>A PDF you can download, print, share with your mentor, and refer to whenever you need a reset.</li>
-                            <li>An audio walkthrough — a short voice note that explains your plan in plain language, designed for working professionals to access on the go.</li>
-                        </ul>
-
-                        <h4><b>What Your CDP Includes</b></h4>
-                        <ul class="fin-feature1" style="list-style: disc;">
-                            <li>Career snapshot — your current role and target role, side by side</li>
-                            <li>Career move type — switch, advancement, leadership transition, or return-to-work</li>
-                            <li>Target role analysis — what hiring managers actually look for</li>
-                            <li>Skill gap map — what you have, what you need, what is missing</li>
-                            <li>Career roadmap — activities and milestones lined up for you</li>
-                            <li>Semester-wise focus — what each semester will build</li>
-                            <li>MOCS services scheduled for you — workshops, mentoring, counselling, and mock interviews</li>
-                            <li>Your career manager's contact details and communication channel</li>
-                        </ul>
-
-                        <p>
-                            Two students in the same program can have very different CDPs. A 5-year HR generalist targeting HR Analytics receives a different plan from a 10-year operations manager aiming for a senior leadership role — same MOCS framework, two distinct journeys.
-                        </p>
-                        <p class="px-5">
-                            <i>ℹ  Impact instrumentation in progress: Quantitative CDP outcomes will be reported from January 2027 onwards, once the Cohort 15 batch completes its first measurement window.</i>
-                        </p>
-
-                        <hr>
-                    </div>
-                </div>
-            </div>
-
-            <!-- <div class="container">
-                <div class="row">
-                    <div class="col-md-12 col-lg-12 fintech-certi">
-                        <h2>Your Career Roadmap</h2>
-                    </div>
-                    <div class="col-md-12 col-lg-12 fin-feature hero11">
-                        <h3>Career support, semester after semester.</h3>
-                        <p>
-                            MOCS is delivered across four semesters, each with a clear purpose, defined activities, and milestones to cross before moving forward.
-                        </p>
-
-                        <h4><b>Semester 1 — Diagnose & Plan</b></h4>
-                        <ul class="fin-feature1" style="list-style: disc;">
-                            <li>Career Diagnostic completion</li>
-                            <li>1:1 plan activation call with your career manager</li>
-                            <li>Personalised CDP delivered</li>
-                            <li>LinkedIn profile setup workshop</li>
-                            <li>Role clarity workshop</li>
-                            <li>Alumni interaction panel</li>
-                            <li>Gap analysis workshop</li>
-                            <li>Career roadmap finalised</li>
-                        </ul>
-
-                        <h4><b>Semester 2 — Build</b></h4>
-                        <ul class="fin-feature1" style="list-style: disc;">
-                            <li>Industry Mentoring Programme begins (4 structured mentor meetings)</li>
-                            <li>Employability Soft-Skills Workshop Series (Kaushalya)</li>
-                            <li>Communication Skills Programme</li>
-                            <li>Networking Workshop Series</li>
-                            <li>Group Counselling Sessions begin (Anubhuti)</li>
-                            <li>LinkedIn profile audit and approval</li>
-                            <li>First skill-building checkpoint</li>
-                        </ul>
-
-                        <h4><b>Semester 3 — Practice</b></h4>
-                        <ul class="fin-feature1" style="list-style: disc;">
-                            <li>Resume building and sign-off</li>
-                            <li>AI mock interview rounds (multiple attempts, scored)</li>
-                            <li>Panel mock interviews</li>
-                            <li>Leadership Development Workshops (Adhyapan)</li>
-                            <li>Portfolio submission and review</li>
-                            <li>20+ targeted job applications logged</li>
-                            <li>Placement readiness assessment</li>
-                        </ul>
-
-                        <h4><b>Semester 4 — Place</b></h4>
-                        <ul class="fin-feature1" style="list-style: disc;">
-                            <li>Active placement facilitation</li>
-                            <li>Offer-handling and salary negotiation training</li>
-                            <li>Final mentoring round</li>
-                            <li>Soft-skills capstone series</li>
-                            <li>1:1 placement support, on demand</li>
-                            <li>MOCS Completion Certificate</li>
-                        </ul>
-
-                        <hr>
-                    </div>
-                </div>
-            </div> -->
-
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 col-lg-12 fintech-certi">
-                        <h2>Services & Milestones</h2>
-                    </div>
-                    <div class="col-md-12 col-lg-12 fin-feature hero11">
-                        <h3>Every service exists to move you closer to your next role.</h3>
-                        <p>
-                            MOCS is not a list of disconnected workshops. Each service is mapped to a specific outcome on your roadmap, and each major checkpoint is a tracked milestone visible on your learner profile.
-                        </p>
-
-                        <h4><b>The 8 Services</b></h4>
-                        <p>
-                            <b>1.  Counselling — 1:1 and Group</b>
-                            <br>
-                            Structured one-on-one counselling with the MOCS team, plus regular small-group cohorts under the Anubhuti initiative. Available throughout the programme.
-                            <br>
-                            <i>Outcome: Clarity on direction, support during personal and professional decisions, confidence at moments that matter.</i>
-                        </p>
-
-                        <p>
-                            <b>2.  Industry Mentoring</b>
-                            <br>
-                            Four structured mentoring meetings with a senior industry professional from your domain. Small groups, focused discussions.
-                            <br>
-                            <i>Outcome: Real-world perspective on your target role, network access, and decision-grade advice from someone in the seat you are aiming for.</i>
-                        </p>
-
-                        <p>
-                            <b>3.  Employability Soft Skills Series (Kaushalya)</b>
-                            <br>
-                            Multi-session workshop series on workplace communication, emotional intelligence, feedback, assertiveness, and adaptability — led by trainers and psychologists.
-                            <br>
-                            <i>Outcome: Workplace-ready communication and interpersonal skills.</i>
-                        </p>
-
-                        <p>
-                            <b>4.  Leadership Development Series (Adhyapan)</b>
-                            <br>
-                            Workshop series on adaptive leadership, strategic thinking, data-driven decision-making, emotional intelligence, and influence without authority.
-                            <br>
-                            <i>Outcome: The skills senior roles actually require.</i>
-                        </p>
-
-                        <p>
-                            <b>5.  Networking Programme</b>
-                            <br>
-                            Structured workshop series on personal brand, networking conversations, and strategic and digital networking.
-                            <br>
-                            <i>Outcome: A working professional network — not just a contact list.</i>
-                        </p>
-
-                        <p>
-                            <b>6.  Mock Interviews — AI and Panel</b>
-                            <br>
-                            AI-powered mock interviews with scored feedback, plus live panel mocks for advanced students. Multiple rounds across the programme.
-                            <br>
-                            <i>Outcome: Interview confidence built through practice, not theory.</i>
-                        </p>
-
-                        <p>
-                            <b>7.  Mental Health & Well-Being Support (Maanas + Anubhuti)</b>
-                            <br>
-                            Counselling sessions, stress assessment profiles, and mindfulness and burnout management workshops led by qualified psychologists.
-                            <br>
-                            <i>Outcome: Sustainable performance — across work, study, and life.</i>
-                        </p>
-
-                        <p>
-                            <b>8.  Placement & Career Move Support</b>
-                            <br>
-                            Resume sign-off, LinkedIn audit, application strategy, offer-handling, salary negotiation, and active placement facilitation in the final semester.
-                            <br>
-                            <i>Outcome: The right next move, on the right terms.</i>
-                        </p>
-
-                        <h4><b>The 10 Milestones</b></h4>
-                        <p>
-                            Hard checkpoints tracked on your learner profile. Visible to you, your career manager, and the placement team.
-                        </p>
-
-                        <div class="table-responsive">
-                            <table class="table table-bordered text-nowrap">
-                                <thead>
-                                    <tr>
-                                        <th>#</th>
-                                        <th>Milestone</th>
-                                        <th>When</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    <tr>
-                                        <td><strong>1</strong></td>
-                                        <td>Career Diagnostic submitted</td>
-                                        <td>Month 1</td>
-                                    </tr>
-                                    <tr>
-                                        <td><strong>2</strong></td>
-                                        <td>Tier classification confirmed</td>
-                                        <td>Month 3</td>
-                                    </tr>
-                                    <tr>
-                                        <td><strong>3</strong></td>
-                                        <td>LinkedIn profile approved</td>
-                                        <td>Month 6</td>
-                                    </tr>
-                                    <tr>
-                                        <td><strong>4</strong></td>
-                                        <td>Resume signed off</td>
-                                        <td>Month 7</td>
-                                    </tr>
-                                    <tr>
-                                        <td><strong>5</strong></td>
-                                        <td>First mock interview cleared</td>
-                                        <td>Month 7</td>
-                                    </tr>
-                                    <tr>
-                                        <td><strong>6</strong></td>
-                                        <td>75% MOCS attendance per semester</td>
-                                        <td>Each semester end</td>
-                                    </tr>
-                                    <tr>
-                                        <td><strong>7</strong></td>
-                                        <td>All 4 mentor meetings completed</td>
-                                        <td>Within mentoring window</td>
-                                    </tr>
-                                    <tr>
-                                        <td><strong>8</strong></td>
-                                        <td>Workshop attendance — minimum one per series</td>
-                                        <td>Per workshop window</td>
-                                    </tr>
-                                    <tr>
-                                        <td><strong>9</strong></td>
-                                        <td>20 job applications logged</td>
-                                        <td>Month 8+</td>
-                                    </tr>
-                                    <tr>
-                                        <td><strong>10</strong></td>
-                                        <td>Portfolio submitted and reviewed</td>
-                                        <td>Before panel mocks</td>
-                                    </tr>
-                                </tbody>
-                            </table>
-                        </div>
-
-                        <hr>
-                    </div>
-                </div>
-            </div>
-
-        </section>
-
-        <div class="container">
-            <div class="row">
-                <h2><b>Student Testimonials</b>
-
-                </h2>
-                <div id="carouselExampleRide" class="carousel slide" data-bs-ride="true">
-                    <div class="carousel-inner">
-                        <div class="carousel-item active">
-                            <img src="./assets/images/course/harbour/testimonials/1.jpg" class="d-block w-100"
-                                alt="...">
-                        </div>
-                        <div class="carousel-item">
-                            <img src="./assets/images/course/harbour/testimonials/2.jpg" class="d-block w-100"
-                                alt="...">
-                        </div>
-                        <div class="carousel-item">
-                            <img src="./assets/images/course/harbour/testimonials/3.jpg" class="d-block w-100"
-                                alt="...">
-                        </div>
-                        <div class="carousel-item">
-                            <img src="./assets/images/course/harbour/testimonials/4.jpg" class="d-block w-100"
-                                alt="...">
-                        </div>
-                        <div class="carousel-item">
-                            <img src="./assets/images/course/harbour/testimonials/5.jpg" class="d-block w-100"
-                                alt="...">
-                        </div>
-                        <div class="carousel-item">
-                            <img src="./assets/images/course/harbour/testimonials/6.jpg" class="d-block w-100"
-                                alt="...">
-                        </div>
-                        <div class="carousel-item">
-                            <img src="./assets/images/course/harbour/testimonials/7.jpg" class="d-block w-100"
-                                alt="...">
-                        </div>
-                        <div class="carousel-item">
-                            <img src="./assets/images/course/harbour/testimonials/8.jpg" class="d-block w-100"
-                                alt="...">
-                        </div>
-                        <div class="carousel-item">
-                            <img src="./assets/images/course/harbour/testimonials/9.jpg" class="d-block w-100"
-                                alt="...">
-                        </div>
-                        <div class="carousel-item">
-                            <img src="./assets/images/course/harbour/testimonials/10.jpg" class="d-block w-100"
-                                alt="...">
-                        </div>
-                    </div>
-                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleRide"
-                        data-bs-slide="prev">
-                        <span class="carousel-control-prev-icon" aria-hidden="true"
-                            style="    color: black;background-color: #000;"></span>
-                        <span class="visually-hidden">Previous</span>
-                    </button>
-                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleRide"
-                        data-bs-slide="next">
-                        <span class="carousel-control-next-icon" aria-hidden="true"
-                            style="    color: black;background-color: #000;"></span>
-                        <span class="visually-hidden">Next</span>
-                    </button>
-                </div>
-            </div>
-            <hr>
-
+        <h4 class="fw-bold text-orange mb-3">What Your CDP Includes</h4>
+        <div class="tbl-wrap">
+            <table class="tbl">
+                <thead>
+                    <tr>
+                        <th class="tbl-label">Component</th>
+                        <th>Description</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="tbl-label fw-semibold">Career Snapshot</td>
+                        <td>Current role vs. target role &mdash; side by side.</td>
+                    </tr>
+                    <tr>
+                        <td class="tbl-label fw-semibold">Career Move Type</td>
+                        <td>Switch, advancement, leadership transition, or return-to-work.</td>
+                    </tr>
+                    <tr>
+                        <td class="tbl-label fw-semibold">Skill Gap Map</td>
+                        <td>What you have, what you need, and what is missing.</td>
+                    </tr>
+                    <tr>
+                        <td class="tbl-label fw-semibold">Semester Roadmap</td>
+                        <td>Activities and milestones lined up semester by semester.</td>
+                    </tr>
+                    <tr>
+                        <td class="tbl-label fw-semibold">MOCS Services Scheduled</td>
+                        <td>Workshops, mentoring, counselling, and mocks mapped for you.</td>
+                    </tr>
+                    <tr>
+                        <td class="tbl-label fw-semibold">Career Manager Details</td>
+                        <td>Your contact and communication channel.</td>
+                    </tr>
+                </tbody>
+            </table>
         </div>
 
-        <div class="section">
-            <div class="container">
-                <div class="slider-container">
-                    <h2><b>Industry Mentors </b></h2>
+        <div class="alert alert-light border mt-4" role="alert">
+            <i class="fa-solid fa-circle-info text-orange me-2"></i>
+            CDP outcome reports scheduled from January 2027 onwards, once Cohort 15 completes its first measurement window.
+        </div>
+    </div>
+</section>
 
-                    <button class="prev"><i class="fas fa-chevron-left"></i></button>
-                    <div class="slider">
-                        <div class="item">
-                            <div class="card cus-card">
-                                <img src="assets/images/course/harbour/Thomas Vaidyan.jpg" class="img-fluid rounded-4"
-                                    alt="Certification">
-                                <div class="card-body">
+<!-- ═══════════════════════════════════════════════
+   CAREER ROADMAP
+════════════════════════════════════════════════ -->
+<section class="about-section" id="roadmap">
+    <div class="container">
+        <h2 class="section-heading">Your Career <span class="text-orange">Roadmap</span></h2>
+        <h3 class="fw-semibold mb-3">Career support, semester after semester.</h3>
 
+        <div class="tbl-wrap">
+            <table class="tbl">
+                <thead>
+                    <tr>
+                        <th class="tbl-label">Semester</th>
+                        <th>Key Activities</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="tbl-label fw-semibold">Sem 1 &mdash; Diagnose &amp; Plan</td>
+                        <td>Diagnostic &rarr; CDP &rarr; 1:1 activation &rarr; LinkedIn setup &rarr; role clarity &rarr; gap analysis &rarr; roadmap finalised.</td>
+                    </tr>
+                    <tr>
+                        <td class="tbl-label fw-semibold">Sem 2 &mdash; Build</td>
+                        <td>Industry Mentoring begins &rarr; Kaushalya (soft skills) &rarr; communication &rarr; networking &rarr; group counselling (Anubhuti) &rarr; LinkedIn audit.</td>
+                    </tr>
+                    <tr>
+                        <td class="tbl-label fw-semibold">Sem 3 &mdash; Practice</td>
+                        <td>Resume sign-off &rarr; AI mock interviews &rarr; panel mocks &rarr; Adhyapan (leadership) &rarr; portfolio submission &rarr; 20+ job applications.</td>
+                    </tr>
+                    <tr>
+                        <td class="tbl-label fw-semibold">Sem 4 &mdash; Place</td>
+                        <td>Active placement &rarr; offer handling &rarr; salary negotiation &rarr; final mentoring &rarr; MOCS Completion Certificate.</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</section>
 
-                                    <h5 class="card-title">Thomas Vaidyan</h5>
-                                    <span>Sr. Business Analyst @ Saudi Aramco UR Project. </span><br>
-                                    <span>Experience - 20+ years </span><br>
-                                    <small><b>LinkedIn </b> <a
-                                            href="https://www.linkedin.com/in/thomas-vaidyan-a2a3105/" target="_blank"
-                                            class="linkedin-icon">
-                                            <i class="fa-brands fa-linkedin fa-xl"></i>
-                                        </a></small><br>
+<!-- ═══════════════════════════════════════════════
+   SERVICES & MILESTONES
+════════════════════════════════════════════════ -->
+<section class="about-section" id="services" style="background:var(--bg-light)">
+    <div class="container">
+        <h2 class="section-heading">Services &amp; <span class="text-orange">Milestones</span></h2>
+        <p class="fs-5 fw-semibold mb-4">Eight services. Ten milestones.</p>
 
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
+        <h4 class="fw-bold text-orange mb-3">The 8 Services</h4>
+        <div class="tbl-wrap mb-5">
+            <table class="tbl">
+                <thead>
+                    <tr>
+                        <th class="tbl-label">Service</th>
+                        <th>What You Get</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="tbl-label fw-semibold">1. Counselling &mdash; 1:1 &amp; Group</td>
+                        <td>Direction, support, and confidence through key career decisions.</td>
+                    </tr>
+                    <tr>
+                        <td class="tbl-label fw-semibold">2. Industry Mentoring</td>
+                        <td>4 structured meetings with a senior professional in your domain.</td>
+                    </tr>
+                    <tr>
+                        <td class="tbl-label fw-semibold">3. Soft Skills &mdash; Kaushalya</td>
+                        <td>Communication, emotional intelligence, feedback, and adaptability.</td>
+                    </tr>
+                    <tr>
+                        <td class="tbl-label fw-semibold">4. Leadership Dev &mdash; Adhyapan</td>
+                        <td>Strategic thinking, decision-making, influence, and EQ.</td>
+                    </tr>
+                    <tr>
+                        <td class="tbl-label fw-semibold">5. Networking Programme</td>
+                        <td>Personal brand, networking conversations, digital and strategic networking.</td>
+                    </tr>
+                    <tr>
+                        <td class="tbl-label fw-semibold">6. Mock Interviews &mdash; AI &amp; Panel</td>
+                        <td>Multiple scored rounds. Interview-ready by Semester 3.</td>
+                    </tr>
+                    <tr>
+                        <td class="tbl-label fw-semibold">7. Mental Well-Being &mdash; Maanas &amp; Anubhuti</td>
+                        <td>Counselling, stress profiling, and mindfulness workshops by qualified psychologists.</td>
+                    </tr>
+                    <tr>
+                        <td class="tbl-label fw-semibold">8. Placement &amp; Career Move Support</td>
+                        <td>Resume, LinkedIn, offer handling, salary negotiation, active placement facilitation.</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
 
-                            <div class="card cus-card">
-                                <img src="assets/images/course/harbour/Vijay Pandey.jpg" class="img-fluid rounded-4"
-                                    alt="Certification">
-                                <div class="card-body">
-                                    <h5 class="card-title">Vijay Pandey </h5>
-                                    <span>AGM @ Porsche India </span><br>
-                                    <span>Experience -18 years. </span><br>
-                                    <small><b>LinkedIn </b> <a href="https://www.linkedin.com/in/vijaypandeyautomotive/"
-                                            target="_blank" class="linkedin-icon">
-                                            <i class="fa-brands fa-linkedin fa-xl"></i>
-                                        </a></small><br>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
+        <h4 class="fw-bold text-orange mb-3">The 10 Milestones</h4>
+        <div class="tbl-wrap">
+            <table class="tbl">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th class="tbl-label">Milestone</th>
+                        <th>When</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr><td>1</td><td class="tbl-label">Career Diagnostic submitted</td><td>Month 1</td></tr>
+                    <tr><td>2</td><td class="tbl-label">Tier classification confirmed</td><td>Month 3</td></tr>
+                    <tr><td>3</td><td class="tbl-label">LinkedIn profile approved</td><td>Month 6</td></tr>
+                    <tr><td>4</td><td class="tbl-label">Resume signed off</td><td>Month 7</td></tr>
+                    <tr><td>5</td><td class="tbl-label">First mock interview cleared</td><td>Month 7</td></tr>
+                    <tr><td>6</td><td class="tbl-label">75% MOCS attendance per semester</td><td>Each semester end</td></tr>
+                    <tr><td>7</td><td class="tbl-label">All 4 mentor meetings completed</td><td>Mentoring window</td></tr>
+                    <tr><td>8</td><td class="tbl-label">Min. 1 workshop attendance per series</td><td>Per workshop window</td></tr>
+                    <tr><td>9</td><td class="tbl-label">20 job applications logged</td><td>Month 8+</td></tr>
+                    <tr><td>10</td><td class="tbl-label">Portfolio submitted and reviewed</td><td>Before panel mocks</td></tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</section>
 
+<!-- ═══════════════════════════════════════════════
+   IMPACT
+════════════════════════════════════════════════ -->
+<section class="about-section" id="impact">
+    <div class="container">
+        <h2 class="section-heading">Impact &mdash; Outcomes, Numbers, <span class="text-orange">Stories</span></h2>
+        <h3 class="fw-semibold mb-4">The proof is in what our students do next.</h3>
 
-                            <div class="card cus-card">
-                                <img src="assets/images/course/harbour/Bijit Sarkar.jpg" class="img-fluid rounded-4"
-                                    alt="Certification">
-                                <div class="card-body">
-                                    <h5 class="card-title">Bijit Sarkar </h5>
-                                    <span>Head Domestic Bid at Alstom </span><br>
-                                    <span>Experience : 24 yrs</span><br>
-                                    <small><b>LinkedIn </b> <a href="https://www.linkedin.com/in/bijit-sarkar-a070b594/"
-                                            target="_blank" class="linkedin-icon">
-                                            <i class="fa-brands fa-linkedin fa-xl"></i>
-                                        </a></small><br>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
+        <h4 class="fw-bold text-orange mb-3">Key Numbers <span class="text-muted fw-normal" style="font-size:14px">(April 2026)</span></h4>
+        <div class="tbl-wrap mb-5">
+            <table class="tbl">
+                <thead>
+                    <tr>
+                        <th class="tbl-label">Metric</th>
+                        <th>Result</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="tbl-label">Students mentored &mdash; Industry Mentoring Programme</td>
+                        <td class="fw-bold">433+</td>
+                    </tr>
+                    <tr>
+                        <td class="tbl-label">Industry mentors in the MOCS network (lifetime)</td>
+                        <td class="fw-bold">55+</td>
+                    </tr>
+                    <tr>
+                        <td class="tbl-label">Group counselling attendance (Anubhuti)</td>
+                        <td class="fw-bold">1,070+ across 7 sessions</td>
+                    </tr>
+                    <tr>
+                        <td class="tbl-label">Average NPS across MOCS workshop series</td>
+                        <td class="fw-bold">80+ &nbsp;<span class="text-muted fw-normal" style="font-size:13px">(Adhyapan: 85.9 &nbsp;|&nbsp; Kaushalya: 79)</span></td>
+                    </tr>
+                    <tr>
+                        <td class="tbl-label">Average skill improvement (pre/post assessments)</td>
+                        <td class="fw-bold">24&ndash;30% score improvement</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
 
+        <!-- Industry Mentoring -->
+        <h4 class="fw-bold text-orange mb-2">Industry Mentoring</h4>
+        <p>433 mentees. 55 mentors. Average +24% lift across 12 career competencies. Self-rated score: 3.46 &rarr; 4.30 / 5.</p>
+        <div class="tbl-wrap mb-4">
+            <table class="tbl">
+                <thead>
+                    <tr>
+                        <th class="tbl-label">Competency</th>
+                        <th>Lift &nbsp;|&nbsp; Score Movement</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr><td class="tbl-label">Professional Network</td><td>+43% &nbsp;|&nbsp; 2.94 &rarr; 4.20</td></tr>
+                    <tr><td class="tbl-label">Career Goal Alignment</td><td>+38% &nbsp;|&nbsp; 3.25 &rarr; 4.50</td></tr>
+                    <tr><td class="tbl-label">Job Satisfaction</td><td>+33% &nbsp;|&nbsp; 3.12 &rarr; 4.15</td></tr>
+                    <tr><td class="tbl-label">Industry Knowledge</td><td>+29% &nbsp;|&nbsp; 3.25 &rarr; 4.20</td></tr>
+                    <tr><td class="tbl-label">CV / Career Tools</td><td>+25% &nbsp;|&nbsp; 3.31 &rarr; 4.15</td></tr>
+                </tbody>
+            </table>
+        </div>
+        <ul class="ac-list text-dark mb-5">
+            <li>Career Confidence post-mentoring: 4.20 / 5</li>
+            <li>Satisfaction with mentoring: 4.45 / 5</li>
+            <li>Would recommend to a peer: 100%</li>
+        </ul>
 
-                            <div class="card cus-card">
-                                <img src="assets/images/course/harbour/Anand-Iyer.jpg" class="img-fluid rounded-4"
-                                    alt="Certification">
-                                <div class="card-body">
-                                    <h5 class="card-title">Anand Iyer </h5>
-                                    <span>Managing Director at Emirates House Group LLC </span><br>
-                                    <span>Experience - 29 years.</span><br>
-                                    <small><b>LinkedIn </b> <a href="https://www.linkedin.com/in/anand-iyer-17024231/"
-                                            target="_blank" class="linkedin-icon">
-                                            <i class="fa-brands fa-linkedin fa-xl"></i>
-                                        </a></small><br>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
+        <!-- Adhyapan -->
+        <h4 class="fw-bold text-orange mb-2">Leadership Development &mdash; Adhyapan</h4>
+        <p>NPS: 85.9 (global benchmark for excellent: 70). Positive lift across all 10 leadership competencies.</p>
+        <div class="tbl-wrap mb-5">
+            <table class="tbl">
+                <thead>
+                    <tr>
+                        <th class="tbl-label">Competency</th>
+                        <th>Lift &nbsp;|&nbsp; Score Movement</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr><td class="tbl-label">Emotional Intelligence</td><td>+0.38 &nbsp;|&nbsp; 3.55 &rarr; 3.93</td></tr>
+                    <tr><td class="tbl-label">Crisis Management &amp; Leading Change</td><td>+0.36 &nbsp;|&nbsp; 3.52 &rarr; 3.88</td></tr>
+                    <tr><td class="tbl-label">Strategic Decision-Making</td><td>+0.34 &nbsp;|&nbsp; 3.57 &rarr; 3.91</td></tr>
+                    <tr><td class="tbl-label">Conflict Resolution &amp; Negotiation</td><td>+0.29 &nbsp;|&nbsp; 3.55 &rarr; 3.84</td></tr>
+                    <tr><td class="tbl-label">Influencing &amp; Motivating Others</td><td>+0.25 &nbsp;|&nbsp; 3.78 &rarr; 4.03</td></tr>
+                </tbody>
+            </table>
+        </div>
 
-                            <div class="card cus-card">
-                                <img src="assets/images/course/harbour/Niranjan Ingale.jpg" class="img-fluid rounded-4"
-                                    alt="Certification">
-                                <div class="card-body">
-                                    <h5 class="card-title">Niranjan Ingale </h5>
-                                    <span>Dataflos Co-founder, CTO </span><br>
-                                    <span>Experience - 17 years.</span><br>
-                                    <small><b>LinkedIn </b> <a
-                                            href="https://www.linkedin.com/in/niranjan-ingale-82942a37/" target="_blank"
-                                            class="linkedin-icon">
-                                            <i class="fa-brands fa-linkedin fa-xl"></i>
-                                        </a></small><br>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
+        <!-- Kaushalya -->
+        <h4 class="fw-bold text-orange mb-2">Communication Skills &mdash; Kaushalya</h4>
+        <p>Average score: 3.35 &rarr; 4.34 (+29.5%). NPS: 79. 184 pre / 94 post assessments (Feb&ndash;Mar 2026).</p>
+        <ul class="ac-list text-dark mb-5">
+            <li>Active Listening: 57% &rarr; 85% rating themselves 4 or 5 out of 5</li>
+            <li>Feedback Skills: 58% &rarr; 89%</li>
+            <li>Cross-Cultural Communication: highest lift at +31.2%</li>
+        </ul>
 
+        <!-- Anubhuti -->
+        <h4 class="fw-bold text-orange mb-2">Well-Being Counselling &mdash; Anubhuti</h4>
+        <p>7 sessions, 1,070+ attendees. Pre/post lifts of up to +27%.</p>
+        <ul class="ac-list text-dark mb-5">
+            <li>&ldquo;The Mask We Wear&rdquo;: 3.16 &rarr; 4.03 (+27%)</li>
+            <li>Stress Management: +33% average post-session improvement</li>
+        </ul>
 
-                            <div class="card cus-card">
-                                <img src="assets/images/course/harbour/Rituraj Kumar Singh.jpg"
-                                    class="img-fluid rounded-4" alt="Certification">
-                                <div class="card-body">
-                                    <h5 class="card-title">Rituraj Kumar Singh </h5>
-                                    <span>Manager Civil at Reliance Industries Limited </span><br>
-                                    <span>Experience – 11+ years.</span><br>
-                                    <small><b>LinkedIn </b> <a
-                                            href="https://www.linkedin.com/in/rituraj-kumar-singh-pmp-%C2%AE-mie-ceng-436ab3147/"
-                                            target="_blank" class="linkedin-icon">
-                                            <i class="fa-brands fa-linkedin fa-xl"></i>
-                                        </a></small><br>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <button class="next"><i class="fas fa-chevron-right"></i></button>
+        <!-- CDP & Placement -->
+        <h4 class="fw-bold text-orange mb-2">CDP &amp; Placement Training</h4>
+        <div class="alert alert-light border" role="alert">
+            <i class="fa-solid fa-circle-info text-orange me-2"></i>
+            Metrics in progress. First reports from January 2027, after Cohort 15 completes its first measurement window.
+        </div>
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════
+   PLANS & ACCESS
+════════════════════════════════════════════════ -->
+<section class="about-section" id="plans" style="background:var(--bg-light)">
+    <div class="container">
+        <h2 class="section-heading">Plans &amp; Access &mdash; <span class="text-orange">Who Gets What</span></h2>
+
+        <div class="tbl-wrap mb-4">
+            <table class="tbl">
+                <thead>
+                    <tr>
+                        <th class="tbl-label">Who</th>
+                        <th>Access</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="tbl-label fw-semibold">Enrolled Students &mdash; Cohort 15 onwards</td>
+                        <td>MOCS is included in your programme fee. No separate subscription needed.</td>
+                    </tr>
+                    <tr>
+                        <td class="tbl-label fw-semibold">Existing Subscribers &mdash; Cohorts 13 &amp; 14</td>
+                        <td>Your subscription continues as committed through the original programme duration.</td>
+                    </tr>
+                    <tr>
+                        <td class="tbl-label fw-semibold">Non-MITSDE Learners</td>
+                        <td>MOCS is available as a standalone subscription.</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div class="d-flex flex-wrap gap-2 mt-3">
+            <a href="#" class="btn btn-dark rounded-pill px-2 py-2">Enrolled students &rarr; Access your MOCS dashboard</a>
+            <a href="#" class="btn btn-outline-dark rounded-pill px-2 py-2">Cohorts 13/14 &rarr; Contact the MOCS team via TMS</a>
+            <a href="#" class="btn btn-outline-dark rounded-pill px-2 py-2">Non-MITSDE learners &rarr; Explore MOCS standalone subscription</a>
+        </div>
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════
+   INDUSTRY MENTORS
+════════════════════════════════════════════════ -->
+<section class="about-section" id="mentors">
+    <div class="container">
+        <h2 class="section-heading">Industry <span class="text-orange">Mentors</span></h2>
+        <h3 class="fw-semibold mb-3">Guidance from professionals who have been where you want to go.</h3>
+        <p class="mb-4">35+ active mentors (55+ lifetime) across operations, HR, project management, finance, logistics, and IT. Matched to students based on domain, goals, and gap profile.</p>
+
+        <h4 class="fw-bold text-orange mb-3">Active Mentor Network &mdash; Domain Distribution</h4>
+        <div class="tbl-wrap mb-5">
+            <table class="tbl">
+                <thead>
+                    <tr>
+                        <th class="tbl-label">Domain</th>
+                        <th>Active Mentors</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr><td class="tbl-label">Operations</td><td>5+</td></tr>
+                    <tr><td class="tbl-label">Project Management</td><td>5+</td></tr>
+                    <tr><td class="tbl-label">HR</td><td>3+</td></tr>
+                    <tr><td class="tbl-label">Finance</td><td>3+</td></tr>
+                    <tr><td class="tbl-label">Logistics</td><td>3+</td></tr>
+                    <tr><td class="tbl-label">IT</td><td>1+</td></tr>
+                </tbody>
+            </table>
+        </div>
+
+        <h4 class="fw-bold text-orange mb-3">Featured Mentors</h4>
+        <div class="row g-4">
+            <div class="col-6 col-md-4 col-lg-2 text-center">
+                <div class="expert-card">
+                    <div class="expert-avatar"><img src="assets-new/images/Thomas-Vaidyan.webp" alt="Thomas-Vaidyan" /></div>
+                    <h3 class="expert-name">Thomas Vaidyan</h3>
+                    <p class="expert-role">Sr. Business Analyst, Saudi Aramco UR Project &middot; 20+ yrs</p>
+                    <a href="https://www.linkedin.com/in/thomas-vaidyan-a2a3105/" class="expert-linkedin" target="_blank" rel="noopener"><i class="fab fa-linkedin-in"></i></a>
+                </div>
+            </div>
+            <div class="col-6 col-md-4 col-lg-2 text-center">
+                <div class="expert-card">
+                    <div class="expert-avatar"><img src="assets-new/images/Vijay-Pandey.webp" alt="Vijay-Pandey" /></div>
+                    <h3 class="expert-name">Vijay Pandey</h3>
+                    <p class="expert-role">AGM, Porsche India <br> &middot; 18 yrs</p>
+                    <a href="https://www.linkedin.com/in/vijaypandeyautomotive/" class="expert-linkedin" target="_blank" rel="noopener"><i class="fab fa-linkedin-in"></i></a>
+                </div>
+            </div>
+            <div class="col-6 col-md-4 col-lg-2 text-center">
+                <div class="expert-card">
+                    <div class="expert-avatar"><img src="assets-new/images/Bijit-Sarkar.webp" alt="Bijit-Sarkar" /></div>
+                    <h3 class="expert-name">Bijit Sarkar</h3>
+                    <p class="expert-role">Head Domestic Bid, Alstom <br> &middot; 24 yrs</p>
+                    <a href="https://www.linkedin.com/in/bijit-sarkar-a070b594/" class="expert-linkedin" target="_blank" rel="noopener"><i class="fab fa-linkedin-in"></i></a>
+                </div>
+            </div>
+            <div class="col-6 col-md-4 col-lg-2 text-center">
+                <div class="expert-card">
+                    <div class="expert-avatar"><img src="assets-new/images/Anand-Iyer.webp" alt="Anand-Iyer" /></div>
+                    <h3 class="expert-name">Anand Iyer</h3>
+                    <p class="expert-role">Managing Director, Emirates House Group LLC &middot; 29 yrs</p>
+                    <a href="https://www.linkedin.com/in/anand-iyer-17024231/" class="expert-linkedin" target="_blank" rel="noopener"><i class="fab fa-linkedin-in"></i></a>
+                </div>
+            </div>
+            <div class="col-6 col-md-4 col-lg-2 text-center">
+                <div class="expert-card">
+                    <div class="expert-avatar"><img src="assets-new/images/Niranjan.webp" alt="Niranjan" /></div>
+                    <h3 class="expert-name">Niranjan Ingale</h3>
+                    <p class="expert-role">Co-founder &amp; CTO, Dataflos <br> &middot; 17 yrs</p>
+                    <a href="https://www.linkedin.com/in/niranjan-ingale-82942a37/" class="expert-linkedin" target="_blank" rel="noopener"><i class="fab fa-linkedin-in"></i></a>
+                </div>
+            </div>
+            <div class="col-6 col-md-4 col-lg-2 text-center">
+                <div class="expert-card">
+                    <div class="expert-avatar"><img src="assets-new/images/Rituraj.webp" alt="Rituraj" /></div>
+                    <h3 class="expert-name">Rituraj Kumar Singh</h3>
+                    <p class="expert-role">Manager Civil, Reliance Industries Limited &middot; 11+ yrs</p>
+                    <a href="https://www.linkedin.com/in/rituraj-kumar-singh-pmp-%C2%AE-mie-ceng-436ab3147/" class="expert-linkedin" target="_blank" rel="noopener"><i class="fab fa-linkedin-in"></i></a>
                 </div>
             </div>
         </div>
 
+        <p class="text-muted mt-4" style="font-size:13px"><i class="fa-solid fa-circle-info me-1 text-orange"></i> LinkedIn links for all mentors will be updated on this page. For mentor enquiries, write to the MOCS team.</p>
+    </div>
+</section>
 
-        <section>
-            <div class="container">
-                <div class="row">
+<!-- ═══════════════════════════════════════════════
+   FAQ
+════════════════════════════════════════════════ -->
+<section class="faq-section" id="faq">
+    <div class="container">
+        <h2 class="section-heading">Frequently Asked <span class="text-orange">Questions</span></h2>
+        <div class="faq-list">
+        <div class="faq-item">
+            <div class="faq-q">What is MOCS?</div>
+            <div class="faq-a"><p>MITSDE&rsquo;s in-house career and well-being team &mdash; delivering personalised career planning, workshops, mentoring, counselling, mock interviews, and placement support across your full programme.</p></div>
+        </div>
+        <div class="faq-item">
+            <div class="faq-q">Is MOCS optional?</div>
+            <div class="faq-a"><p>For Cohort 15 onwards, MOCS is part of the programme and included in your fee. Every enrolled student has full access.</p></div>
+        </div>
+        <div class="faq-item">
+            <div class="faq-q">Do I pay extra for MOCS?</div>
+            <div class="faq-a"><p>No &mdash; included in your programme fee for Cohort 15+. Non-MITSDE learners have a separate standalone subscription.</p></div>
+        </div>
+        <div class="faq-item">
+            <div class="faq-q">What is the Career Diagnostic?</div>
+            <div class="faq-a"><p>A 30&ndash;45 minute assessment in Month 1. Captures your current role, target role, and skill gaps &mdash; and drives your personalised CDP and roadmap.</p></div>
+        </div>
+        <div class="faq-item">
+            <div class="faq-q">What is the CDP?</div>
+            <div class="faq-a"><p>A personalised career plan delivered as a PDF and audio walkthrough. Specifies your roadmap, services, and milestones across 4 semesters.</p></div>
+        </div>
+        <div class="faq-item">
+            <div class="faq-q">How long does MOCS run?</div>
+            <div class="faq-a"><p>Across all four semesters &mdash; the full duration of your programme.</p></div>
+        </div>
+        <div class="faq-item">
+            <div class="faq-q">What services are included?</div>
+            <div class="faq-a"><p>Counselling, mentoring, Kaushalya (soft skills), communication, Adhyapan (leadership), networking, mock interviews, Maanas &amp; Anubhuti (well-being), resume &amp; LinkedIn sign-off, placement support, and a MOCS Completion Certificate.</p></div>
+        </div>
+        <div class="faq-item">
+            <div class="faq-q">What happens during exam months?</div>
+            <div class="faq-a"><p>Live sessions pause during exam windows. Async LMS content remains available. Exam months don&rsquo;t count against attendance.</p></div>
+        </div>
+        <div class="faq-item">
+            <div class="faq-q">Does MOCS affect my academic certificate?</div>
+            <div class="faq-a"><p>No. MOCS is co-curricular. The MOCS Completion Certificate is separate from your MITSDE academic certificate.</p></div>
+        </div>
+        <div class="faq-item">
+            <div class="faq-q">I subscribed in an earlier cohort &mdash; what happens?</div>
+            <div class="faq-a"><p>All services continue exactly as committed. Raise a ticket on TMS for specific queries.</p></div>
+        </div>
+        <div class="faq-item">
+            <div class="faq-q">I&rsquo;m not a MITSDE student &mdash; can I access MOCS?</div>
+            <div class="faq-a"><p>Yes. A standalone subscription is available for non-MITSDE learners.</p></div>
+        </div>
+        <div class="faq-item">
+            <div class="faq-q">How do I see my workshops and milestones?</div>
+            <div class="faq-a"><p>All in your MOCS dashboard inside the learner portal &mdash; calendar, CDP, milestones, and bookings.</p></div>
+        </div>
+        <div class="faq-item">
+            <div class="faq-q">How do I contact the MOCS team?</div>
+            <div class="faq-a"><p>MITSDE learners: raise a ticket on TMS or use the MOCS communication channel from your welcome email. Others: use the contact form on the registration page.</p>
+            <p class="mt-2"><a href="#" class="text-orange">Raise a support ticket &rarr; TMS Portal</a> &nbsp;&nbsp; <a href="#" class="text-orange">Access your MOCS dashboard &rarr; Learner Portal</a></p></div>
+        </div>
+        </div>
+    </div>
+</section>
 
-
-                    <h2><b>What are the Industry Mentors saying</b></h2>
-                    <div class="col-md-6">
-                        <div class="card">
-
-                            <div class="card-body ">
-                                <h5 class="card-title"><b>Jacob George</b></h5>
-
-                                <div class="visible-content">
-                                    <p align="justify">
-                                        <q>The mentoring conducted was very interesting and meaningful. Every member in
-                                            the
-                                            team expressed
-                                            their desire to get into a more challenging field and they find Supply Chain
-                                            &
-                                            Logistics is a
-                                            growing sector with a lot of opportunities and creative ideas can be
-                                            implemented...</q>
-                                    </p>
-                                </div>
-                                <div class="invisible-content">
-                                    <p align="justify">
-                                        The discussions helped to understand the participants strengths and weaknesses
-                                        and
-                                        skill sets
-                                        required for taking up assignments in Logistics. Though few had some
-                                        understanding
-                                        about the
-                                        Supply chain & Logistics, to enter into the field requires more deeper
-                                        understanding
-                                        &
-                                        knowledge.
-                                    </p>
-                                </div>
-                                <button class="btn btn-warning toggle-btn" style="background: #F47521; color: #fff">Read
-                                    More <span class="newdown-arrow"></span> </button>
-
-
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6">
-                        <div class="card">
-
-                            <div class="card-body">
-                                <h5 class="card-title"><b>Hemant Golechha</b> </h5>
-
-                                <div class="visible-content">
-                                    <p align="justify">
-                                        <q>As a mentor of a group of talented students (of MIT School of Distance
-                                            Education)
-                                            from diverse
-                                            backgrounds and different experiences, I couldn't be happier and more
-                                            content to
-                                            see
-                                            their zeal
-                                            to progress and achieve over the course of their masters' program...</q>
-                                    </p>
-                                </div>
-                                <div class="invisible-content">
-                                    <p align="justify">
-                                        Watching them keen to work
-                                        hard, engage in thought-provoking discussions, and develop their skills has been
-                                        a
-                                        truly
-                                        enriching experience for me. Each of them brings a unique perspective to the
-                                        table,
-                                        which has
-                                        made our interactions even more engaging and insightful Seeing them grow both
-                                        professionally and personally will be a great source of satisfaction for
-                                        me.
-
-
-
-                                    </p>
-                                </div>
-
-                                <div class="invisible-content">
-                                    <p align="justify">I enjoy sharing my knowledge and experiences with them and
-                                        learning from their
-                                        insights and
-                                        perspectives. Their enthusiasm and eagerness to learn have filled me with
-                                        positive
-                                        energy and
-                                        renewed my own passion for my work.</p>
-                                </div>
-                                <div class="invisible-content">
-                                    <p align="justify">As we move forward in this journey together, I am confident that
-                                        each one of them
-                                        will achieve
-                                        their aspirations and become successful professionals in their respective
-                                        fields. I
-                                        feel honored
-                                        to be a part of their journey and am looking forward to continued personal and
-                                        professional
-                                        growth for all of us.</p>
-                                </div>
-                                <button class="btn btn-warning toggle-btn" style="background: #F47521; color: #fff">Read
-                                    More &nbsp;<span class="newdown-arrow"> </span>
-
-                                </button>
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <hr>
-            </div>
-        </section>
-
-        <section>
-            <div class="container">
-                <div class="row">
-                    <h2><b>FAQs</b></h2>
-                    <div class="cur-accordiaon">
-                        <!-- <h3>COURSE SYLLABUS</h3> -->
-                        <div class="accordion curriculum-accordion" id="curriculum">
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#module1" aria-expanded="true" aria-controls="module1">
-                                        What is MOCS?
-                                    </button>
-                                </h2>
-                                <div id="module1" class="accordion-collapse collapse show" data-bs-parent="#curriculum">
-                                    <div class="accordion-body hero10">
-                                        <div class="row p-3">
-                                            <!-- <div class="fintech-module digital-mod"> -->
-                                            <div class="alert brandcolor" role="alert">The MIT Office of Career Services is MITSDE's in-house career and well-being team. We deliver personalised career planning, workshops, mentoring, counselling, mock interviews, and placement support to every enrolled MITSDE student across the full duration of their programme.
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#module2" aria-expanded="false" aria-controls="module2">
-                                        Is MOCS optional?
-                                    </button>
-                                </h2>
-                                <div id="module2" class="accordion-collapse collapse show" data-bs-parent="#curriculum">
-                                    <div class="accordion-body hero10">
-                                        <div class="row p-3">
-                                            <!-- <div class="fintech-module digital-mod"> -->
-                                            <div class="alert brandcolor" role="alert">For students enrolled in Cohort 15 onwards, MOCS is part of the programme — included in your fee and delivered to every learner. Participation in individual sessions is your choice, but every student has full access.
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#module3" aria-expanded="false" aria-controls="module3">
-                                        Do I have to pay extra for MOCS?
-                                    </button>
-                                </h2>
-                                <div id="module3" class="accordion-collapse collapse" data-bs-parent="#curriculum">
-                                    <div class="accordion-body hero10">
-                                        <div class="row p-3">
-                                            <!-- <div class="fintech-module digital-mod"> -->
-                                            <div class="alert brandcolor" role="alert">No. If you are enrolled at MITSDE from Cohort 15 onwards, MOCS is included in your programme fee. The only exception is non-MITSDE learners who subscribe to MOCS as a standalone service — separate pricing applies on the dedicated page.
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#module4" aria-expanded="false" aria-controls="module4">
-                                        What is the Career Diagnostic Tool?
-                                    </button>
-                                </h2>
-                                <div id="module4" class="accordion-collapse collapse" data-bs-parent="#curriculum">
-                                    <div class="accordion-body hero10">
-                                        <div class="row p-3">
-                                            <!-- <div class="fintech-module digital-mod"> -->
-                                            <div class="alert brandcolor" role="alert">A structured assessment completed in your first month. It captures your current role, target role, skills, and gaps — and the results shape your personalised Career Development Plan and roadmap.
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#module5" aria-expanded="false" aria-controls="module5">
-                                        What is the Career Development Plan (CDP)?
-                                    </button>
-                                </h2>
-                                <div id="module5" class="accordion-collapse collapse" data-bs-parent="#curriculum">
-                                    <div class="accordion-body hero10">
-                                        <div class="row p-3">
-                                            <!-- <div class="fintech-module digital-mod"> -->
-                                            <div class="alert brandcolor" role="alert">A personalised career plan generated using AI and reviewed by the MOCS team. You receive it as a downloadable PDF and a short audio walkthrough. It specifies what you are working towards, what MOCS has lined up for you across 4 semesters, and which services will help.
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#module6" aria-expanded="false" aria-controls="module6">
-                                        How long does MOCS run?
-                                    </button>
-                                </h2>
-                                <div id="module6" class="accordion-collapse collapse" data-bs-parent="#curriculum">
-                                    <div class="accordion-body hero10">
-                                        <div class="row p-3">
-                                            <!-- <div class="fintech-module digital-mod"> -->
-                                            <div class="alert brandcolor" role="alert">The full duration of your programme — across all four semesters.
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#module7" aria-expanded="false" aria-controls="module7">
-                                        What services are included?
-                                    </button>
-                                </h2>
-                                <div id="module7" class="accordion-collapse collapse" data-bs-parent="#curriculum">
-                                    <div class="accordion-body hero10">
-                                        <div class="row p-3">
-                                            <!-- <div class="fintech-module digital-mod"> -->
-                                            <div class="alert brandcolor" role="alert">Career counselling (1:1 and group), industry mentoring, soft-skills training (Kaushalya), communication skills, leadership development (Adhyapan), networking workshops, AI and panel mock interviews, mental health support (Maanas, Anubhuti), resume and LinkedIn sign-off, placement support, and a MOCS Completion Certificate.
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#module8" aria-expanded="false" aria-controls="module8">
-                                        What happens during exam months?
-                                    </button>
-                                </h2>
-                                <div id="module8" class="accordion-collapse collapse" data-bs-parent="#curriculum">
-                                    <div class="accordion-body hero10">
-                                        <div class="row p-3">
-                                            <!-- <div class="fintech-module digital-mod"> -->
-                                            <div class="alert brandcolor" role="alert">MOCS live sessions pause during university exam windows. Async content remains available on the LMS. Exam months do not count against your MOCS attendance.
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#module9" aria-expanded="false" aria-controls="module9">
-                                        Does MOCS affect my academic certificate?
-                                    </button>
-                                </h2>
-                                <div id="module9" class="accordion-collapse collapse" data-bs-parent="#curriculum">
-                                    <div class="accordion-body hero10">
-                                        <div class="row p-3">
-                                            <!-- <div class="fintech-module digital-mod"> -->
-                                            <div class="alert brandcolor" role="alert">No. MOCS is co-curricular. The MOCS Completion Certificate is separate from your MITSDE academic certificate.
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#module10" aria-expanded="false" aria-controls="module10">
-                                        I subscribed to MOCS in an earlier cohort — what happens to my subscription?
-                                    </button>
-                                </h2>
-                                <div id="module10" class="accordion-collapse collapse" data-bs-parent="#curriculum">
-                                    <div class="accordion-body hero10">
-                                        <div class="row p-3">
-                                            <!-- <div class="fintech-module digital-mod"> -->
-                                            <div class="alert brandcolor" role="alert">
-                                                All services you subscribed to continue exactly as committed. Raise a ticket on the TMS if you have questions about your specific subscription.
-                                                <br>
-                                                <a href="https://elibrary.mitsde.com/stms" target="_blank" style="color: #f47521;">→  Raise a ticket on TMS</a>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#module11" aria-expanded="false" aria-controls="module11">
-                                        What if I am not a MITSDE student but want MOCS services?
-                                    </button>
-                                </h2>
-                                <div id="module11" class="accordion-collapse collapse" data-bs-parent="#curriculum">
-                                    <div class="accordion-body hero10">
-                                        <div class="row p-3">
-                                            <!-- <div class="fintech-module digital-mod"> -->
-                                            <div class="alert brandcolor" role="alert">A standalone MOCS subscription is available for non-MITSDE learners.
-                                                <br>
-                                                <a href="https://mitsde.com/mocs-for-external-learner" target="_blank" style="color: #f47521;">→  Explore MOCS for non-MITSDE learners</a>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#module12" aria-expanded="false" aria-controls="module12">
-                                        How do I see my upcoming workshops, mentor meetings, or counselling sessions?
-                                    </button>
-                                </h2>
-                                <div id="module12" class="accordion-collapse collapse" data-bs-parent="#curriculum">
-                                    <div class="accordion-body hero10">
-                                        <div class="row p-3">
-                                            <!-- <div class="fintech-module digital-mod"> -->
-                                            <div class="alert brandcolor" role="alert">Everything is in your MOCS dashboard inside the learner portal — workshop calendars, milestone progress, your CDP, and 1:1 booking, all in one place. Access your MOCS dashboard on your LMS.
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#module13" aria-expanded="false" aria-controls="module13">
-                                        How do I contact the MOCS team?
-                                    </button>
-                                </h2>
-                                <div id="module13" class="accordion-collapse collapse" data-bs-parent="#curriculum">
-                                    <div class="accordion-body hero10">
-                                        <div class="row p-3">
-                                            <!-- <div class="fintech-module digital-mod"> -->
-                                            <div class="alert brandcolor" role="alert">MITSDE learners: raise a ticket on TMS, or use the MOCS communication channel shared in your welcome email. Non-MITSDE learners: use the contact form on the registration page.
-                                                <br>
-                                                <a href="https://elibrary.mitsde.com/stms" target="_blank" style="color: #f47521;">→  Raise a support ticket</a>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
+<!-- ═══════════════════════════════════════════════
+   PAGE CTAs
+════════════════════════════════════════════════ -->
+<section class="about-section">
+    <div class="container">
+        <h2 class="section-heading text-center">Get <span class="text-orange">Started</span></h2>
+        <div class="row g-4 justify-content-center">
+            <div class="col-md-4 text-center">
+                <div class="p-4 rounded-3 h-100 border">
+                    <div class="mb-3"><i class="fa-solid fa-user-graduate fa-2x text-orange"></i></div>
+                    <h5 class="fw-bold mb-2">Prospective Students</h5>
+                    <a href="#" class="btn btn-dark rounded-pill px-4">Enquire about MITSDE Programmes</a>
                 </div>
             </div>
+            <div class="col-md-4 text-center">
+                <div class="p-4 rounded-3 h-100 border">
+                    <div class="mb-3"><i class="fa-solid fa-graduation-cap fa-2x text-orange"></i></div>
+                    <h5 class="fw-bold mb-2">Enrolled Students</h5>
+                    <a href="#" class="btn btn-dark rounded-pill px-4">Access your MOCS dashboard</a>
+                </div>
+            </div>
+            <div class="col-md-4 text-center">
+                <div class="p-4 rounded-3 h-100 border">
+                    <div class="mb-3"><i class="fa-solid fa-briefcase fa-2x text-orange"></i></div>
+                    <h5 class="fw-bold mb-2">Non-MITSDE Learners</h5>
+                    <a href="#" class="btn btn-dark rounded-pill px-4">Subscribe as a non-MITSDE learner</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
-        </section>
+<!-- ═══════════════════════════════════════════════
+   SECTION B — LEARNER PORTAL: MOCS TAB
+════════════════════════════════════════════════ -->
+<section class="about-section" id="portal" style="background:var(--bg-light)">
+    <div class="container">
+        <h2 class="section-heading">Learner Portal &mdash; <span class="text-orange">MOCS Tab</span></h2>
+        <p class="text-muted mb-4">Inside the Learner Assistance Portal, enrolled MITSDE students access all MOCS services through a dedicated tab. Here is what each tab contains.</p>
 
-    </main>
-    <!-- Footer Start -->
+        <div class="tbl-wrap mb-4">
+            <table class="tbl">
+                <thead>
+                    <tr>
+                        <th class="tbl-label">Tab</th>
+                        <th>Header &nbsp;|&nbsp; Description</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="tbl-label fw-semibold">B1 &mdash; My CDP</td>
+                        <td><strong>My Career Plan</strong> &nbsp;|&nbsp; Download your CDP (PDF) or listen to the audio walkthrough.</td>
+                    </tr>
+                    <tr>
+                        <td class="tbl-label fw-semibold">B2 &mdash; My Roadmap</td>
+                        <td><strong>My Roadmap</strong> &nbsp;|&nbsp; Your 4-semester journey with current position marked.</td>
+                    </tr>
+                    <tr>
+                        <td class="tbl-label fw-semibold">B3 &mdash; Milestones</td>
+                        <td><strong>Milestones</strong> &nbsp;|&nbsp; 10 checkpoints tracking your career readiness.</td>
+                    </tr>
+                    <tr>
+                        <td class="tbl-label fw-semibold">B4 &mdash; Badges</td>
+                        <td><strong>Badges</strong> &nbsp;|&nbsp; Achievements earned. Share directly to LinkedIn.</td>
+                    </tr>
+                    <tr>
+                        <td class="tbl-label fw-semibold">B5 &mdash; Counselling</td>
+                        <td><strong>Book Counselling</strong> &nbsp;|&nbsp; Schedule a 1:1 session with the MOCS team.</td>
+                    </tr>
+                    <tr>
+                        <td class="tbl-label fw-semibold">B6 &mdash; Workshop Calendar</td>
+                        <td><strong>Workshops</strong> &nbsp;|&nbsp; All upcoming sessions across every MOCS series.</td>
+                    </tr>
+                    <tr>
+                        <td class="tbl-label fw-semibold">B7 &mdash; Resources</td>
+                        <td><strong>Resources</strong> &nbsp;|&nbsp; Templates, guides, and self-paced content.</td>
+                    </tr>
+                    <tr>
+                        <td class="tbl-label fw-semibold">B8 &mdash; Help</td>
+                        <td><strong>Help</strong> &nbsp;|&nbsp; Raise a ticket, message your career manager, or escalate.</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
 
-    <?php include "footer.php" ?>
+        <p class="ac-title">What each tab contains:</p>
+        <ul class="ac-list text-dark">
+            <li><strong>B1 &mdash; My Career Plan:</strong> Download CDP (PDF) &nbsp;|&nbsp; Listen to audio walkthrough &nbsp;|&nbsp; Request a CDP refresh</li>
+            <li><strong>B2 &mdash; My Roadmap:</strong> 4-semester timeline &mdash; current position marked, upcoming activities listed</li>
+            <li><strong>B3 &mdash; Milestones:</strong> All 10 milestones with live status: Not Started / In Progress / Completed. Next milestone due date and recommended next action</li>
+            <li><strong>B4 &mdash; Badges:</strong> Visual badges for each milestone cleared &mdash; shareable to LinkedIn</li>
+            <li><strong>B5 &mdash; Book Counselling:</strong> Available slots, 1:1 booking, and past session history</li>
+            <li><strong>B6 &mdash; Workshop Calendar:</strong> All series: Kaushalya, Maanas, Adhyapan, Anubhuti, Networking, Placement Training. Register, add to calendar, or access past session recordings</li>
+            <li><strong>B7 &mdash; Resources:</strong> CDP audio library, industry insights, resume &amp; LinkedIn templates, interview prep guides</li>
+            <li><strong>B8 &mdash; Help &amp; Escalation:</strong> Raise a MOCS ticket &nbsp;|&nbsp; WhatsApp / Telegram channel &nbsp;|&nbsp; Contact your career manager &nbsp;|&nbsp; Full FAQ list</li>
+        </ul>
+    </div>
+</section>
 
+<?php include "footer-new.php" ?>
 
-    <!-- footer end  -->
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/js/bootstrap-select.min.js"></script>
-    <script src="assets/js/slick.min.js"></script>
-    <script src="assets/js/common.js"></script>
-    <script src="assets/js/course-slider.js"></script>
-    <script src="assets/js/two-card-slider.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
+<script>
+/* FAQ accordion */
+document.querySelectorAll('.faq-q').forEach(function (q) {
+    q.addEventListener('click', function () {
+        var item = q.closest('.faq-item');
+        var isOpen = item.classList.contains('open');
+        document.querySelectorAll('.faq-item.open').forEach(function (o) { o.classList.remove('open'); });
+        if (!isOpen) item.classList.add('open');
+    });
+});
+</script>
 
 </body>
-
 </html>

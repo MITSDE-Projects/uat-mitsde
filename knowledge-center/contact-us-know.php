@@ -122,6 +122,11 @@
         </select>
     </div>
 
+    <div class="eq-consent">
+        <input type="checkbox" id="eqConsent" checked>
+        <label for="eqConsent">I authorize MIT-SDE representative to contact me, this will override DND/NDNC registry.</label>
+    </div>
+
     <!-- Submit -->
     <button
         type="button"

@@ -1,317 +1,349 @@
-<!DOCTYPE html>
+<?php $pagename = "Associate Faculty"; ?>
+<!doctype html>
 <html lang="en">
 
 <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+
+    <title>Associate Faculty | MITSDE</title>
+
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-    <title>Academic Staff</title>
 
-    <meta name="description" content="Associate Faculty Members" />
+    <meta name="description"
+        content="Meet the Associate Faculty at MITSDE, bringing industry expertise and practical knowledge to deliver quality education." />
+
     <meta name="keywords"
-        content="online mba courses, distance learning mba, distance learning center, online mba programs, distance PGDM, Online PGDM, Distance Pg Diploma courses, distance pg certificate courses" />
-    <!-- CANONICAL TAG -->
+        content="MITSDE associate faculty, MIT School of Distance Education faculty, associate faculty MITSDE, visiting faculty MITSDE, industry expert faculty" />
 
+    <!-- CANONICAL TAG -->
     <link rel="canonical" href="https://mitsde.com/associate-faculty" />
 
-    <!-- CANONICAL TAG -->
-
-    <?php  include "5-common-seo-tag-1.php" ?>
-
     <!-- OGP TAG -->
-
-    <meta property="og:title" content="Academic Staff">
+    <meta property="og:title" content="Associate Faculty">
     <meta property="og:site_name" content="MIT School of Distance Education">
     <meta property="og:url" content="https://mitsde.com/associate-faculty">
     <meta property="og:description" content="Associate Faculty Members">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/assets/images/course/common/Associate-Faculty.jpg">
+    <meta property="og:image"
+        content="https://mitsde.com/assets/images/course/common/Associate-Faculty.jpg">
 
-    <!-- / OG TAG -->
-    <!-- Page Title -->
-    <link rel="icon" type="image/png" href="assets/images/favicon-mit.ico" />
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="assets/css/bootstrap-select.min.css" />
-    <link rel="stylesheet" href="assets/css/slick.min.css" />
-    <link rel="stylesheet" href="assets/css/fonts.css" type="text/css" />
-    <link rel="stylesheet" href="assets/css/style.css" type="text/css" />
-    <link rel="stylesheet" href="assets/fontawesome/css/all.min.css" type="text/css">
-    <link rel="stylesheet" href="assets/css/course-common-internal.css" type="text/css" />
-    <link rel="stylesheet" href="assets/css/harbour.css" type="text/css" />
-    <!--API for Queck contact----->
-    <script src="assets/js/api/jquery-1.10.2.min.js"></script>
-    <script type="text/javascript" src="assets/js/api/validation.js" charset="UTF-8"></script>
-    <!----->
+    <link rel="icon" type="image/png" href="assets-new/images/favicon-mit.ico" />
+
+    <!-- Bootstrap 5 -->
+    <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" />
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+
+    <!-- New Website CSS -->
+    <link rel="stylesheet" href="css-new/styles.css" />
+
+    <link rel="stylesheet" href="css-new/intlTelInput.css">
+
+    <?php include "5-common-seo-tag-1.php" ?>
 
 </head>
 
 <body>
+
     <?php include "5-common-seo-tag-2.php" ?>
-    <!-- Header Nav Start -->
-    <?php include "header.php"?>
-    <!-- Header Nav End --->
-    <main class="main-body">
-        <section class="banner inner-banner">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 col-lg-6 main-banner">
-                        <h1>Associate Faculty </h1>
 
-                        <div class="page-btn mt-2">
-                            <button type="button" class="btn btn-primary mit-button cus-btn inner-cus ms-0"
-                                data-bs-toggle="modal" data-bs-target="#enquiryModal-download-form"><span
-                                    class="mtsk-download"></span> &nbsp; Download BROCHURE
-                            </button>
+    <?php include "header-new.php" ?>
 
 
+    <!-- =====================================================
+         HERO SECTION
+    ====================================================== -->
+
+    <section class="hero ph-hero">
+
+        <!-- Breadcrumb -->
+
+        <nav class="page-breadcrumb" aria-label="Breadcrumb">
+
+            <span class="pb-line"></span>
+
+            <a href="./">Home</a>
+
+            <span class="pb-sep">/</span>
+
+            <span class="pb-current">Associate Faculty</span>
+
+        </nav>
 
 
-                        </div>
-                        <div>
-                            <nav>
-                                <ol class="breadcrumb">
-                                    <li class="breadcrumb-item"><a href="https://mitsde.com">Home</a></li>
-                                    <li class="breadcrumb-item active" aria-current="page">Associate Faculty</li>
-                                </ol>
-                            </nav>
-                        </div>
-                    </div>
-                    <div class="col-md-12 col-lg-6">
-                        <div class="css-details">
-                            <div class="stc-det student-sec inner-sec">
-                                <img src="assets/images/progress.svg" alt="Progress indicator icon">
-                            </div>
-                            <img src="assets/images/course/common/Associate-Faculty.jpg" class="banner-img"
-                                alt="associate-faculty">
-                            <div class="stc-det course-sec inner-sec">
-                                <img src="assets/images/walet.svg" alt="Wallet icon for payment">
-                            </div>
-                        </div>
-                    </div>
+        <div class="container">
+
+            <div class="ph-layout py-5">
+
+                <!-- LEFT CONTENT -->
+
+                <div class="ph-left">
+
+                    <h1 class="ph-heading">
+                        Associate Faculty
+                    </h1>
+
+                    <button type="button"
+                        class="btn btn-dark rounded-pill px-4 py-2"
+                        data-bs-toggle="modal"
+                        data-bs-target="#downloadModal">
+
+                        Download Brochure
+
+                    </button>
+
                 </div>
-            </div>
-        </section>
-        <section>
-            <div class="container mt-3">
-                <div class="row">
-                    <h2><b>Associate Faculty</b>
-                        <hr
-                            style="width:22%;text-align:left;margin-top: 2px;margin-left:0;height:3px;color:#f47521;background-color:#F47521;opacity: 1">
-                    </h2>
-
-                    <div class="col-md-12 curriculum">
-
-                        <table class="table">
-
-                            <thead>
-                                <tr>
-                                    <th>S.No</th>
-                                    <th>Name</th>
-                                   
-                                    <th>Domain</th>
-                                    <th>Designation</th>
 
 
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <!-- Rows from the first table -->
+                <!-- RIGHT IMAGE -->
 
-								<tr>
-                                    <td>1</td>
-                                    <td>Prof. Asha Oak</td>
-                                    <td>Construction Management</td>
+                <div class="ph-right">
 
-                                    <td><a href="https://www.linkedin.com/in/asha-oak-41a891234/" target="_blank"
-                                            style="color: #0077B5;">
-                                            <i class="fa-brands fa-linkedin fa-xl"></i>
-                                        </a>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>2</td>
-                                    <td>Prof. Uday Purandare</td>
-                                    <td>Operations Management</td>
+                    <img src="assets-new/images/placement.webp"
+                        alt="Associate Faculty">
 
-                                    <td><a href="https://www.linkedin.com/in/uday-purandare-94582119/" target="_blank"
-                                            style="color: #0077B5;">
-                                            <i class="fa-brands fa-linkedin fa-xl"></i>
-                                        </a>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>3</td>
-                                    <td>Prof. Supriya Phadke</td>
-                                    <td>Human Resource Management</td>
-
-                                    <td><a href="https://www.linkedin.com/in/supriya-phadke-9531a0bb/" target="_blank"
-                                            style="color: #0077B5;">
-                                            <i class="fa-brands fa-linkedin fa-xl"></i>
-                                        </a>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>4</td>
-                                    <td>Dr. Prachi Ajit</td>
-                                    <td>Human Resource Management</td>
-
-                                    <td><a href="https://www.linkedin.com/in/dr-prachi-ajeet-ph-d-a7bb8915"
-                                            target="_blank" style="color: #0077B5;">
-                                            <i class="fa-brands fa-linkedin fa-xl"></i>
-                                        </a>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>5</td>
-                                    <td>Prof. Rohan Bhase</td>
-                                    <td>Finance Management</td>
-
-                                    <td><a href="https://www.linkedin.com/in/rohan-bhase-299748120/" target="_blank"
-                                            style="color: #0077B5;">
-                                            <i class="fa-brands fa-linkedin fa-xl"></i>
-                                        </a>
-                                    </td>
-                                </tr>
-								<tr>
-                                    <td>6</td>
-                                    <td>Dr. Amey Pangarkar</td>
-                                    <td>Digital Marketing</td>
-
-                                    <td><a href="https://www.linkedin.com/in/amey-pangarkar/" target="_blank"
-                                            style="color: #0077B5;">
-                                            <i class="fa-brands fa-linkedin fa-xl"></i>
-                                        </a>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>7</td>
-                                    <td>Prof. Affan Mapari</td>
-                                    <td>Operations Management</td>
-
-                                    <td><a href="https://www.linkedin.com/in/affanmapari?" target="_blank"
-                                            style="color: #0077B5;">
-                                            <i class="fa-brands fa-linkedin fa-xl"></i>
-                                        </a>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>8</td>
-                                    <td>Dr. Ashish Mohture</td>
-                                    <td>Human Resource Management</td>
-
-                                    <td><a href="https://www.linkedin.com/in/dr-ashish-mohture-10b92756?"
-                                            target="_blank" style="color: #0077B5;">
-                                            <i class="fa-brands fa-linkedin fa-xl"></i>
-                                        </a>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>9</td>
-                                    <td>Prof. Christopher Dias</td>
-                                    <td>Marketing Management</td>
-
-                                    <td><a href="https://www.linkedin.com/in/chriseducator?" target="_blank"
-                                            style="color: #0077B5;">
-                                            <i class="fa-brands fa-linkedin fa-xl"></i>
-                                        </a>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>10</td>
-                                    <td>Prof. Rachna Arora</td>
-                                    <td>Human Resource Management</td>
-
-                                    <td><a href="https://www.linkedin.com/in/rachna-arora-a5b08930?" target="_blank"
-                                            style="color: #0077B5;">
-                                            <i class="fa-brands fa-linkedin fa-xl"></i>
-                                        </a>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>11</td>
-                                    <td>Prof.Sharayu Patil</td>
-                                    <td>Human Resource Management</td>
-
-                                    <td><a href="https://www.linkedin.com/in/sharayu-patil-sk-hr-services-4180b451/"
-                                            target="_blank" style="color: #0077B5;">
-                                            <i class="fa-brands fa-linkedin fa-xl"></i>
-                                        </a>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>12</td>
-                                    <td>Prof. Sonali Kulkarni</td>
-                                    <td>Business Analytics</td>
-
-                                    <td><a href="https://www.linkedin.com/in/sonalikulkarni/" target="_blank"
-                                            style="color: #0077B5;">
-                                            <i class="fa-brands fa-linkedin fa-xl"></i>
-                                        </a>
-                                    </td>
-                                </tr>
-								<tr>
-									<td>13</td>
-									<td>Prof. Lalit Prasad</td>
-									<td>Operations Research</td>
-									<td><a href="https://www.linkedin.com/in/prof-dr-lalit-prasad-75986246/" target="_blank"
-                                            style="color: #0077B5;">
-                                            <i class="fa-brands fa-linkedin fa-xl"></i>
-                                        </a></td>
-								</tr>
-
-								<tr>
-									<td>14</td>
-									<td>Prof. Sakar Kalkotwar</td>
-									<td>Microsoft Project & JIRA</td>
-									<td><a href="https://www.linkedin.com/in/sakar-kalkotwar/" target="_blank"
-                                            style="color: #0077B5;">
-                                            <i class="fa-brands fa-linkedin fa-xl"></i>
-                                        </a></td>
-								</tr>
-								<tr>
-									<td>15</td>
-									<td>Prof. BT Ade</td>
-									<td>Oracle Primavera/Essentials of Agile</td>
-									<td><a href="https://www.linkedin.com/in/adebt/" target="_blank"
-                                            style="color: #0077B5;">
-                                            <i class="fa-brands fa-linkedin fa-xl"></i>
-                                        </a></td>
-								</tr>
-
-                            </tbody>
-                        </table>
-
-
-
-
-                    </div>
                 </div>
 
             </div>
-        </section>
+
+        </div>
+
+    </section>
 
 
+    <!-- =====================================================
+         ASSOCIATE FACULTY SECTION
+    ====================================================== -->
+
+    <section class="about-section pb-0" id="about">
+
+        <div class="container">
+
+            <!-- SECTION HEADING -->
+
+            <h2 class="section-heading">
+                Meet Our Associate Faculty
+            </h2>
 
 
+            <!-- TABLE -->
+
+            <div class="tbl-wrap">
+
+                <table class="tbl">
+
+                    <thead>
+
+                        <tr>
+
+                            <th class="tbl-label">
+                                S.No
+                            </th>
+
+                            <th class="tbl-label">
+                                Name
+                            </th>
+
+                            <th class="tbl-label">
+                                Domain
+                            </th>
+
+                            <th class="tbl-label">
+                                Designation
+                            </th>
+
+                        </tr>
+
+                    </thead>
 
 
+                    <tbody id="associateFacultyBody">
+
+                        <script>
+
+                            const associateFaculty = [
+
+                                {
+                                    id: 1,
+                                    name: 'Prof. BT Ade',
+                                    domain: 'Oracle Primavera/Essentials of Agile',
+                                    designation: 'https://www.linkedin.com/in/adebt/'
+                                },
+
+                                {
+                                    id: 2,
+                                    name: 'Prof. Rohan Bhase',
+                                    domain: 'Finance Management',
+                                    designation: 'https://www.linkedin.com/in/rohan-bhase-299748120/'
+                                },
+
+                                {
+                                    id: 3,
+                                    name: 'Dr. Ashish Mohture',
+                                    domain: 'Human Resource Management',
+                                    designation: 'https://www.linkedin.com/in/dr-ashish-mohture-10b92756/'
+                                },
+
+                                {
+                                    id: 4,
+                                    name: 'Prof. Christopher Dias',
+                                    domain: 'Marketing Management',
+                                    designation: 'https://www.linkedin.com/in/chriseducator/'
+                                },
+
+                                {
+                                    id: 5,
+                                    name: 'Prof. Rachna Arora',
+                                    domain: 'Human Resource Management',
+                                    designation: 'https://www.linkedin.com/in/rachna-arora-a5b08930/'
+                                },
+
+                                {
+                                    id: 6,
+                                    name: 'Prof. Sonali Kulkarni',
+                                    domain: 'Business Analytics',
+                                    designation: 'https://www.linkedin.com/in/sonalikulkarni/'
+                                },
+
+                                {
+                                    id: 7,
+                                    name: 'Prof. Lalit Prasad',
+                                    domain: 'Operations Research',
+                                    designation: 'https://www.linkedin.com/in/prof-dr-lalit-prasad-75986246/'
+                                },
+
+                                {
+                                    id: 8,
+                                    name: 'Prof. Sakar Kalkotwar',
+                                    domain: 'Microsoft Project & JIRA',
+                                    designation: 'https://www.linkedin.com/in/sakar-kalkotwar/'
+                                },
+
+                                {
+                                    id: 9,
+                                    name: 'Prof.Sharayu Patil',
+                                    domain: 'Human Resource Management',
+                                    designation: 'https://www.linkedin.com/in/sharayu-patil-sk-hr-services-4180b451/'
+                                },
+
+                                {
+                                    id: 10,
+                                    name: 'Prof. Srinivas Prabhu',
+                                    domain: 'Digital Marketing',
+                                    designation: 'https://www.linkedin.com/in/srinivas-prabhu-prof/'
+                                },
+
+                                {
+                                    id: 11,
+                                    name: 'Dr. S.P.Ghodake',
+                                    domain: 'Finance Management',
+                                    designation: 'https://www.linkedin.com/in/dr-shamrao-ghodake-1b790035/'
+                                },
+
+                                {
+                                    id: 12,
+                                    name: 'Prof. Mayank Parkhi',
+                                    domain: 'Project Management',
+                                    designation: 'https://www.linkedin.com/in/mayankparkhi/'
+                                },
+
+                                {
+                                    id: 13,
+                                    name: 'Prof. Mangesh Dande',
+                                    domain: 'Operations & Supply Chain Management',
+                                    designation: 'https://www.linkedin.com/in/dr-mangesh-purushottam-dande-29a19b40/'
+                                },
+
+                                {
+                                    id: 14,
+                                    name: 'Prof. Pavaman Jainapur',
+                                    domain: 'Project Management',
+                                    designation: 'https://www.linkedin.com/in/pavamanjainapur-512b7b355/'
+                                },
+
+                                {
+                                    id: 15,
+                                    name: 'Prof. Vishal Bhosale',
+                                    domain: 'Operations & Supply Chain Management',
+                                    designation: 'https://www.linkedin.com/in/vbhosale214/'
+                                }
+
+                            ];
 
 
-
-    </main>
-    <!-- Footer Start -->
-
-    <?php include "footer.php"?>
+                            const tbody =
+                                document.getElementById('associateFacultyBody');
 
 
-    <!-- footer end  -->
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/js/bootstrap-select.min.js"></script>
-    <script src="assets/js/slick.min.js"></script>
-    <script src="assets/js/common.js"></script>
-    <script src="assets/js/course-slider.js"></script>
+                            associateFaculty.forEach((row, index) => {
+
+                                const tr =
+                                    document.createElement('tr');
+
+
+                                tr.innerHTML = `
+
+                                    <td>
+                                        ${index + 1}
+                                    </td>
+
+                                    <td class="capitalize">
+                                        ${row.name}
+                                    </td>
+
+                                    <td class="capitalize">
+                                        ${row.domain}
+                                    </td>
+
+                                    <td>
+
+                                        <a href="${row.designation}"
+                                            target="_blank"
+                                            rel="noopener noreferrer"
+                                            aria-label="LinkedIn profile of ${row.name}"
+                                            class="linkedin-link">
+
+                                            <i class="fa-brands fa-linkedin fa-xl"></i>
+
+                                        </a>
+
+                                    </td>
+
+                                `;
+
+
+                                tbody.appendChild(tr);
+
+                            });
+
+                        </script>
+
+                    </tbody>
+
+                </table>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- =====================================================
+         FOOTER
+    ====================================================== -->
+
+    <?php include "footer-new.php" ?>
+
+
+    <!-- Bootstrap JS -->
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 
 </body>
 
