@@ -75,11 +75,11 @@
 		
 		<p class="justify">2. Security Purposes: We use information to protect MITSDE, Our students and our website</p>
 		
-		<p class="justify">3. Student Service Purposes: To provide our students uninterruptable services, we provide them with all the information and regular updates through emails, website notifications, text messages and whatsupp messages.</p>
+		<p class="justify">3. Student Service Purposes: To provide our students uninterruptable services, we provide them with all the information and regular updates through emails, website notifications, text messages and whatsapp messages.</p>
 		
 		<p class="justify">4. Marketing Purposes: We send you information about special promotions or offers. We might also tell you about new features or courses. These might be our own offers or products, or third-party offers or products we think you might find interesting. </p>
 		
-		<p class="justify">5. Transactional Communications: We use information to send you acknowledgement of your fees received by emails, text messages and Whatsupp messages.  </p>
+		<p class="justify">5. Transactional Communications: We use information to send you acknowledgement of your fees received by emails, text messages and Whatsapp messages.  </p>
 		
 		<h4><strong>We use information as otherwise permitted by law.</strong></h4>
 		 <p class="justify">Sharing of information with third-parties</p>
