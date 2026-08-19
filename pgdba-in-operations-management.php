@@ -550,7 +550,7 @@
                                             <tr>
                                                 <td class="tbl-label">2 Years</td>
                                                 <td>6 Months</td>
-                                                <td>2 Years 3 Months</td>
+                                                <td>2 Years 6 Months</td>
                                             </tr>
                                         </tbody>
                                     </table>

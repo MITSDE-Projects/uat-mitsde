@@ -76,7 +76,7 @@
                     <h5 class="fw-bold mb-2">Need Assistance?</h5>
                     <p style="color:var(--text-light);font-size:0.9rem;" class="mb-4">Contact us for any inquiries or support.</p>
                     <div class="d-flex justify-content-center gap-3 mb-4">
-                    <a href="tel:08071455041" class="btn btn-dark rounded-pill px-4">Call Us</a>
+                    <a href="tel:9112207207" class="btn btn-dark rounded-pill px-4">Call Us</a>
                     <a href="mailto:admissions@mitsde.com" class="btn btn-dark rounded-pill px-4">Mail Us</a>
                     </div>
                     <h5 class="fw-bold mb-2">Working Hours</h5>

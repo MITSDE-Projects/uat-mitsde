@@ -153,7 +153,7 @@
                 "name": "What is the fee for the program?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "The total fee for the program is ₹95,000."
+                    "text": "The total fee for the program is ₹1,00,000."
                 }
             },
             {
@@ -565,7 +565,7 @@
                         </svg>
                     </button>
                     <div class="faq-a">
-                        <p>The total fee for the program is ₹95,000.</p>
+                        <p>The total fee for the program is ₹1,00,000.</p>
                     </div>
                 </div>
 

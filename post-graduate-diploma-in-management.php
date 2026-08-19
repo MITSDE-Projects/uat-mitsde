@@ -133,7 +133,7 @@
                     "name": "What is the fee for the program?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "The fee for most specializations is ₹ 1,05,000, with some specializations priced at ₹82,000."
+                        "text": "The fee for most specializations is ₹ 1,05,000."
                     }
                 },
                 {
@@ -536,7 +536,7 @@
                         <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                     </button>
                     <div class="faq-a">
-                        <p>The fee for most specializations is ₹ 1,05,000, with some specializations priced at ₹82,000.</p>
+                        <p>The fee for most specializations is ₹ 1,05,000.</p>
                     </div>
                 </div>
 

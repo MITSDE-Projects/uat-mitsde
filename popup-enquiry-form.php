@@ -25,11 +25,11 @@ $_eq_pagename = isset($pagename) ? $pagename : ((isset($_SERVER['HTTPS']) ? 'htt
                      alt="MIT School of Distance Education" class="eq-logo">
                 <h2 class="eq-heading">Get in Touch</h2>
                 <p class="eq-sub">Our academic advisor will help you find the right program for your career goals.</p>
-                <a href="tel:08071455041" class="eq-phone">
+                <a href="tel:9112207207" class="eq-phone">
                     <svg viewBox="0 0 24 24" fill="currentColor" width="14" height="14">
                         <path d="M6.6 10.8c1.4 2.8 3.8 5.1 6.6 6.6l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.58.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1C10.61 21 3 13.39 3 4c0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.24 1.02L6.6 10.8z"/>
                     </svg>
-                    08071455041
+                    9112207207
                 </a>
             </div>
 

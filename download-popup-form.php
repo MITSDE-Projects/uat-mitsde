@@ -86,8 +86,8 @@ function showError(error) {
 <div class="modal-dialog modal-lg">
     <div class="modal-content">
         <div class="modal-header">
-            <h2 class="modal-title fs-5" id="enquiryModal-download-form">Enquire Now <a href="tel:08071455041"
-                    style="text-decoration: none; color: #F47521">08071455041</a></h2>
+            <h2 class="modal-title fs-5" id="enquiryModal-download-form">Enquire Now <a href="tel:9112207207"
+                    style="text-decoration: none; color: #F47521">9112207207</a></h2>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body">
