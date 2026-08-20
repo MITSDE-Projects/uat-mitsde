@@ -22,6 +22,7 @@
 
     <link rel="icon" type="image/png" href="assets-new/images/favicon-mit.ico" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <link rel="stylesheet" href="css-new/styles.css" />
 
@@ -105,7 +106,7 @@
     .bc-cta h2 { color: #fff; font-size: clamp(22px,3vw,36px); margin-bottom: 10px; }
     .bc-cta p { color: rgba(255,255,255,.88); font-size: 16px; margin-bottom: 28px; max-width: 680px; margin-left: auto; margin-right: auto; }
     .cta-strip-links{margin-top:22px;display:flex;gap:22px;justify-content:center;flex-wrap:wrap}
-    .cta-strip-links a{color:rgba(255,255,255,.65);font-size:13px;text-decoration:none;border-bottom:1px solid rgba(255,255,255,.25);padding-bottom:2px}
+    .cta-strip-links a{color:rgba(255,255,255,.65);font-size:0.9rem;text-decoration:none;border-bottom:1px solid rgba(255,255,255,.25);padding-bottom:2px}
     .cta-strip-links a:hover{color:#fff;border-color:#fff}
 
     section[id] { scroll-margin-top: 110px; }
@@ -149,8 +150,8 @@
                 <div class="ph-sub" style="max-width: 400px;">
                     <p>Not just a degree. A structured certification stack in Business Analytics and Digital Marketing &mdash; delivered live, hands-on, and AI-integrated every Saturday and Sunday alongside your academic calendar.</p>
                 </div>
-                <button type="button" class="btn btn-dark rounded-pill px-4 py-2"
-                    data-bs-toggle="modal" data-bs-target="#downloadModal">Apply Now &rarr; Secure Your Seat</button>
+                <!-- <button type="button" class="btn btn-dark rounded-pill px-4 py-2"
+                    data-bs-toggle="modal" data-bs-target="#downloadModal">Apply Now &rarr; Secure Your Seat</button> -->
             </div>
 
             <div class="ph-right">
@@ -224,13 +225,13 @@
                 <div class="row g-3">
                     <div class="col-6">
                         <div class="p-3 rounded-3" style="background:var(--bc-orange-tint)">
-                            <div class="fw-bold text-orange fs-5 mb-1">BA Track</div>
+                            <div class="fw-bold text-orange fs-5 mb-1">Business Analytics Track</div>
                             <div class="text-muted" style="font-size:13px">4 certifications &mdash; Excel, Data Analytics, Data Science &amp; Quantitative BA</div>
                         </div>
                     </div>
                     <div class="col-6">
                         <div class="p-3 rounded-3" style="background:#eff6ff">
-                            <div class="fw-bold fs-5 mb-1" style="color:#2563eb">DM Track</div>
+                            <div class="fw-bold fs-5 mb-1" style="color:#2563eb">Digital Marketing Track</div>
                             <div class="text-muted" style="font-size:13px">2 certifications &mdash; Digital Marketing Essentials &amp; Applications + 3 Labs</div>
                         </div>
                     </div>
@@ -1293,6 +1294,29 @@
     </div>
 </section>
 
+<!-- Additional certifications — Swiper carousel -->
+<section class="dms-cert-carousel-section" id="certificate">
+    <div class="container">
+        <h2 class="section-heading">Sample Certifications</h2>
+
+        <div class="swiper dms-cert-swiper">
+            <div class="swiper-wrapper">
+                <?php for ($i = 1; $i <= 6; $i++): ?>
+                <div class="swiper-slide">
+                    <div class="dms-cert-card">
+                        <img src="assets-new/images/bootcamp/certificates/certificate<?php echo $i; ?>.webp" alt="Certificate <?php echo $i; ?>" />
+                    </div>
+                </div>
+                <?php endfor; ?>
+            </div>
+        </div>
+        <div class="dms-swiper-nav">
+            <button class="dms-swiper-prev dms-cert-prev" aria-label="Previous"><i class="fa-solid fa-chevron-left"></i></button>
+            <button class="dms-swiper-next dms-cert-next" aria-label="Next"><i class="fa-solid fa-chevron-right"></i></button>
+        </div>
+    </div>
+</section>
+
 <!-- ═══════════════════════════════════════════════
    FAQ
 ════════════════════════════════════════════════ -->
@@ -1340,12 +1364,12 @@
     <div class="container">
         <h2>The next batch starts July 2026. Your certification is waiting.</h2>
         <p>Join working professionals from across India who are adding AI-powered industry certifications to their MITSDE programme &mdash; at zero extra cost &mdash; and walking into interviews with proof, not just a degree.</p>
-        <button type="button" class="btn btn-light btn-lg rounded-pill px-5"
-            data-bs-toggle="modal" data-bs-target="#downloadModal">Apply Now &rarr; Secure Your Seat</button>
-            <div class="cta-strip-links">
-    <a href="#">Download full bootcamp schedule PDF →</a>
-    <a href="#">View sample certificate →</a>
-  </div>
+        <!-- <button type="button" class="btn btn-light btn-lg rounded-pill px-5"
+            data-bs-toggle="modal" data-bs-target="#downloadModal">Apply Now &rarr; Secure Your Seat</button> -->
+        <div class="cta-strip-links">
+            <a href="assets-new/images/bootcamp/MITSDE_Bootcamp_Certification_Schedule.pdf" target="_blank">Download full bootcamp schedule PDF →</a>
+            <!-- <a href="#">View sample certificate →</a> -->
+        </div>
     </div>
 </div>
 
@@ -1354,6 +1378,7 @@
 <?php include "footer-new.php" ?>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 
 <script>
 /* Tools filter */
@@ -1403,6 +1428,19 @@ document.querySelectorAll('.faq-q').forEach(function (q) {
         if (!isOpen) item.classList.add('open');
     });
 });
+
+// Additional certifications carousel
+        new Swiper('.dms-cert-swiper', {
+            slidesPerView: 1.2,
+            spaceBetween: 16,
+            navigation: { nextEl: '.dms-cert-next', prevEl: '.dms-cert-prev' },
+            breakpoints: {
+                0: { slidesPerView: 1.2 },
+                576: { slidesPerView: 2.2 },
+                992: { slidesPerView: 3 }
+            }
+        });
+
 </script>
 
 </body>
