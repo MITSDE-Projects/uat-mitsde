@@ -201,7 +201,12 @@
                     <h2 id="top-recruiters-title">Top recruiters</h2>
 
                     <div class="d-flex justify-content-center align-item-center mt-3">
-                        <img src="assets-new/images/placement-logos.webp" class="img-fluid" alt="">
+                        <img src="assets-new/images/top-recruiters.webp" class="img-fluid" alt="">
+                    </div>
+                    <h2 id="top-recruiters-title" class="mt-4">International recruiters</h2>
+
+                    <div class="d-flex justify-content-center align-item-center mt-3">
+                        <img src="assets-new/images/international-recruiters.webp" class="img-fluid" alt="">
                     </div>
                     <?php
                     // $topRecruiters = [
