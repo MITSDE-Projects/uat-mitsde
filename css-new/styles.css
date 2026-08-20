@@ -1137,7 +1137,10 @@ a { text-decoration: none; }
 /* Specialisation pills */
 .ph-specs-wrap { padding: 1.75rem 50px 0; }
 
-/* .sticky-pills { position: sticky; top: 90px; z-index: 100; } */
+.sticky-pills { position: sticky; top: 73px; z-index: 100; }
+
+/* ── Anchor scroll offset — fixed navbar + sticky pills cover headings ── */
+section[id]{scroll-margin-top:100px;}
 
 .ph-specs {
     display: flex;

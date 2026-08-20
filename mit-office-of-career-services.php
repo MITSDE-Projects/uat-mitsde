@@ -88,8 +88,8 @@
                 </div>
                 <p class="text-muted mb-4">MOCS is MITSDE&rsquo;s built-in career and well-being service &mdash; personalised career planning, workshops, mentoring, and placement support, delivered across your entire program.</p>
                 <div class="d-flex flex-wrap gap-3">
-                    <a href="#" class="btn btn-dark rounded-pill px-4 py-2">&rarr; Take the Career Diagnostic</a>
-                    <a href="#" class="btn btn-outline-dark rounded-pill px-4 py-2">Already a MITSDE student? Access your MOCS dashboard</a>
+                    <a href="https://mocscdp.mitsde.com/" class="btn btn-dark rounded-pill px-4 py-2">&rarr; Take the Career Diagnostic</a>
+                    <a href="https://mocscdp.mitsde.com/" class="btn btn-outline-dark rounded-pill px-4 py-2">Already a MITSDE student? Access your MOCS dashboard</a>
                 </div>
             </div>
             <div class="ph-right">
@@ -540,9 +540,9 @@
         </div>
 
         <div class="d-flex flex-wrap gap-2 mt-3">
-            <a href="#" class="btn btn-dark rounded-pill px-2 py-2">Enrolled students &rarr; Access your MOCS dashboard</a>
-            <a href="#" class="btn btn-outline-dark rounded-pill px-2 py-2">Cohorts 13/14 &rarr; Contact the MOCS team via TMS</a>
-            <a href="#" class="btn btn-outline-dark rounded-pill px-2 py-2">Non-MITSDE learners &rarr; Explore MOCS standalone subscription</a>
+            <a href="https://mocscdp.mitsde.com/" class="btn btn-dark rounded-pill px-2 py-2">Enrolled students &rarr; Access your MOCS dashboard</a>
+            <a href="https://elibrary.mitsde.com/" class="btn btn-outline-dark rounded-pill px-2 py-2">Cohorts 13/14 &rarr; Contact the MOCS team via TMS</a>
+            <!-- <a href="#" class="btn btn-outline-dark rounded-pill px-2 py-2">Non-MITSDE learners &rarr; Explore MOCS standalone subscription</a> -->
         </div>
     </div>
 </section>
@@ -690,7 +690,7 @@
         <div class="faq-item">
             <div class="faq-q">How do I contact the MOCS team?</div>
             <div class="faq-a"><p>MITSDE learners: raise a ticket on TMS or use the MOCS communication channel from your welcome email. Others: use the contact form on the registration page.</p>
-            <p class="mt-2"><a href="#" class="text-orange">Raise a support ticket &rarr; TMS Portal</a> &nbsp;&nbsp; <a href="#" class="text-orange">Access your MOCS dashboard &rarr; Learner Portal</a></p></div>
+            <p class="mt-2"><a href="https://elibrary.mitsde.com/" class="text-orange">Raise a support ticket &rarr; TMS Portal</a> &nbsp;&nbsp; <a href="https://mocscdp.mitsde.com/" class="text-orange">Access your MOCS dashboard &rarr; Learner Portal</a></p></div>
         </div>
         </div>
     </div>
@@ -707,23 +707,23 @@
                 <div class="p-4 rounded-3 h-100 border">
                     <div class="mb-3"><i class="fa-solid fa-user-graduate fa-2x text-orange"></i></div>
                     <h5 class="fw-bold mb-2">Prospective Students</h5>
-                    <a href="#" class="btn btn-dark rounded-pill px-4">Enquire about MITSDE Programmes</a>
+                    <a href="#" class="btn btn-dark rounded-pill px-4" data-bs-toggle="modal" data-bs-target="#eqModal">Enquire about MITSDE Programmes</a>
                 </div>
             </div>
             <div class="col-md-4 text-center">
                 <div class="p-4 rounded-3 h-100 border">
                     <div class="mb-3"><i class="fa-solid fa-graduation-cap fa-2x text-orange"></i></div>
                     <h5 class="fw-bold mb-2">Enrolled Students</h5>
-                    <a href="#" class="btn btn-dark rounded-pill px-4">Access your MOCS dashboard</a>
+                    <a href="https://mocscdp.mitsde.com/" class="btn btn-dark rounded-pill px-4">Access your MOCS dashboard</a>
                 </div>
             </div>
-            <div class="col-md-4 text-center">
+            <!-- <div class="col-md-4 text-center">
                 <div class="p-4 rounded-3 h-100 border">
                     <div class="mb-3"><i class="fa-solid fa-briefcase fa-2x text-orange"></i></div>
                     <h5 class="fw-bold mb-2">Non-MITSDE Learners</h5>
                     <a href="#" class="btn btn-dark rounded-pill px-4">Subscribe as a non-MITSDE learner</a>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
 </section>
