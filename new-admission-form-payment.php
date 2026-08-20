@@ -347,8 +347,7 @@ if ($stmt->fetch()) {
                     </div>
 
                     <div class="form-group col-sm-6 d-flex flex-column mt-2">
-                        <select class="form-select form-select-md" name="merchant_param2" id="merchant_param2"
-                            onchange="getState(this.value)">
+                        <select class="form-select form-select-md" name="merchant_param2" id="merchant_param2">
                             <option value="">Select Fees type</option>
                             <option value="1_Lumpsum">Lumpsum</option>
                             <option value="2_Installment">Installment</option>

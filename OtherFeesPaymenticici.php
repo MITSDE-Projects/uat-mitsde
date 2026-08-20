@@ -332,8 +332,7 @@ if ($stmt->fetch()) {
                         value="<?php echo htmlspecialchars($SpecializationID, ENT_QUOTES, 'UTF-8'); ?>" />
 
                     <div class="form-group col-sm-6 d-flex flex-column mt-2">
-                        <select class="form-select form-select-md" name="merchant_param2" id="FeesType"
-                            onchange="getState(this.value)">
+                        <select class="form-select form-select-md" name="merchant_param2" id="FeesType">
                             <option value="">Select Fees type</option>
                             <?php
                             $stmt = $conn->prepare("SELECT description FROM feeshead_new_erp");
