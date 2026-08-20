@@ -226,7 +226,7 @@ if ($stmt->fetch()) {
     <div class="container">
         <div class="rf-card">
             <h2 class="rf-heading">Fee Payment</h2>
-            <p><b><?php echo htmlspecialchars($searchmsg, ENT_QUOTES, 'UTF-8'); ?></b></p>
+            <p class="text-orange"><b><?php echo htmlspecialchars($searchmsg, ENT_QUOTES, 'UTF-8'); ?></b></p>
 
             <form action="ccavRequestHandler02.php" name="OtherFeesPayment" id="OtherFeesPayment"
                 onsubmit="return validatePayment(this);" method="post">
@@ -343,13 +343,13 @@ if ($stmt->fetch()) {
                         </div>
                     </div>
 
-                    <div class="d-flex justify-content-center mt-3">
+                    <div class="d-flex justify-content-start mt-3">
                         <div class="g-recaptcha" data-sitekey="6Lf1dR4gAAAAAJXXpTYVhawIuElj2l7XXvd2FRsJ"
                             required="" data-callback="enableSubmitBtn">
                         </div>
                     </div>
 
-                    <div class="d-flex justify-content-center mt-3">
+                    <div class="d-flex justify-content-start mt-3">
                         <button type="submit" id="mysubmitBtn" disabled="disabled"
                             class="btn btn-primary" style="background:var(--primary-orange);min-width:200px;color:#fff;border:none;">Pay Now</button>
                     </div>
