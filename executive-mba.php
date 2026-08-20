@@ -421,7 +421,7 @@
                     <div class="expert-avatar"><img src="assets-new/images/shilpa-sawant.png" alt="Shilpa Sawant" /></div>
                     <h3 class="expert-name">Shilpa Sawant</h3>
                     <p class="expert-role">Associate Professor</p>
-                    <a href="https://www.avantikauniversity.edu.in/courses/executive-mba/" class="expert-linkedin" target="_blank" rel="noopener"><i class="fab fa-linkedin-in"></i></a>
+                    <a href="https://www.linkedin.com/in/shilpa-sawant-0448a3403/" class="expert-linkedin" target="_blank" rel="noopener"><i class="fab fa-linkedin-in"></i></a>
                 </div>
 
                 <div class="expert-card">
