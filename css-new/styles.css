@@ -4355,3 +4355,45 @@ input.valid, select.valid, textarea.valid { border-color: #22c55e !important; }
   .qfp-right{padding:1.25rem}
   .qtp-heading{font-size:1.3rem}
 }
+/* ── Career Promise Track (.cpt-*) ── */
+.cpt-section{padding:60px 0}
+.cpt-card{background:#0f1117;border-radius:16px;overflow:hidden;display:flex;border-left:5px solid #f97316}
+.cpt-left{flex:0 0 190px;background:#161b25;padding:28px 20px;display:flex;flex-direction:column;gap:14px}
+.cpt-number{font-size:72px;font-weight:900;color:#f97316;line-height:1}
+.cpt-badge{display:inline-block;background:#f97316;color:#fff;font-size:11px;font-weight:700;padding:5px 14px;border-radius:50px;width:fit-content}
+.cpt-label{font-size:10px;color:#f97316;text-transform:uppercase;letter-spacing:.06em;margin-bottom:20px;font-weight:500}
+.cpt-prev-name{font-size:12px;color:#d1d5db;font-style:italic;line-height:1.4}
+.cpt-rocket{font-size:60px;color:#f97316}
+.cpt-persona-list{list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:7px}
+.cpt-persona-list li{font-size:12px;color:#d1d5db;padding-left:14px;position:relative;line-height:1.3}
+.cpt-persona-list li::before{content:'';position:absolute;left:0;top:5px;width:6px;height:6px;border-radius:50%;background:#f97316}
+.cpt-right{flex:1;display:flex;flex-direction:column;min-width:0}
+.cpt-track-header{padding:20px 28px;background:#f97316;border-bottom:none}
+.cpt-track-title{font-size:clamp(15px,2vw,20px);font-weight:700;color:#fff;margin:0}
+.cpt-cols{display:grid;grid-template-columns:repeat(3,1fr);flex:1}
+.cpt-col{padding:22px 18px;border-right:1px solid #1e2433}
+.cpt-col:last-child{border-right:none}
+.cpt-sub-label{font-size:10px;color:#94a3b8;text-transform:uppercase;letter-spacing:.06em;margin-bottom:6px;margin-top:10px;font-weight:600}
+.cpt-sub-label:first-of-type{margin-top:0}
+.cpt-promise-box{background:#1e2433;border-radius:8px;padding:10px 13px;font-size:12px;color:#9ca3af;line-height:1.4;border:1px solid #9ca3af}
+.cpt-promise-box.to{color:#fff;font-weight:600;border:1.5px solid #f97316;border-radius:8px}
+.cpt-upgrade-btn{display:flex;align-items:center;justify-content:center;gap:5px;background:#f97316;color:#fff;border:none;border-radius:6px;font-size:11px;font-weight:700;padding:5px 12px;margin:8px auto;cursor:default;width:fit-content}
+.cpt-motive-pill{display:inline-block;background:#1e2433;color:#9ca3af;font-size:11px;padding:4px 10px;border-radius:50px;margin:3px 2px 0}
+.cpt-skill-item{padding:8px 12px;border-left:3px solid #f97316;background:#161b25;border-radius:0 6px 6px 0;font-size:12px;color:#d1d5db;margin-bottom:6px;line-height:1.3}
+.cpt-jd-tag{border:1.5px solid #f97316;border-radius:6px;padding:8px 12px;font-size:12px;font-weight:600;color:#f97316;margin-bottom:8px;line-height:1.3;display:block}
+.cpt-quote{padding:14px 20px 14px 20px;background:#0a0c12;border-top:1px solid #1e2433;border-left:4px solid #f97316;font-size:13px;font-style:italic;color:#ffffff;margin:0 0 0 0}
+.cpt-quote span{color:inherit}
+@media(max-width:991px){
+  .cpt-card{flex-direction:column}
+  .cpt-left{flex:none;display:grid;grid-template-columns:auto 1fr;gap:10px 16px;padding:20px}
+  .cpt-number{font-size:54px}
+  .cpt-cols{grid-template-columns:1fr}
+  .cpt-col{border-right:none;border-bottom:1px solid #1e2433}
+  .cpt-col:last-child{border-bottom:none}
+}
+@media(max-width:576px){
+  .cpt-left{grid-template-columns:1fr}
+  .cpt-number{font-size:44px}
+  .cpt-track-header{padding:16px 18px}
+  .cpt-quote{padding:12px 18px}
+}

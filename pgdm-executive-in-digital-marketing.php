@@ -454,6 +454,86 @@
     </section>
 
     <!-- ═══════════════════════════════════════════════
+       CAREER PROMISE TRACK
+    ════════════════════════════════════════════════ -->
+    <section class="cpt-section" id="career-track">
+        <div class="container">
+            <h2 class="section-heading mb-4">Career <span>Track</span></h2>
+            <div class="cpt-card">
+
+                <!-- Left panel -->
+                <div class="cpt-left">
+                    <div class="cpt-number">01</div>
+                    <div class="cpt-badge">PGDM (Ex.)</div>
+                    <!-- <div>
+                        <div class="cpt-label">Previously:</div>
+                        <div class="cpt-prev-name">PGDM (Ex.) In Digital Marketing</div>
+                    </div> -->
+                    <div class="cpt-rocket"><i class="fa-solid fa-rocket"></i></div>
+                    <div class="cpt-label">Target Persona</div>
+                    <ul class="cpt-persona-list">
+                        <li>Sales / BD executives</li>
+                        <li>Marketing coordinators</li>
+                        <li>Brand executives</li>
+                        <li>Agency account managers</li>
+                    </ul>
+                </div>
+
+                <!-- Right panel -->
+                <div class="cpt-right">
+                    <div class="cpt-track-header">
+                        <h3 class="cpt-track-title">PGDM Executive in Digital Marketing</h3>
+                    </div>
+
+                    <div class="cpt-cols">
+
+                        <!-- Column 1: Career Promise -->
+                        <div class="cpt-col">
+                            <div class="cpt-label">Career Promise</div>
+                            <div class="cpt-sub-label">From</div>
+                            <div class="cpt-promise-box">Sr. Executive / Marketing Coordinator</div>
+                            <button class="cpt-upgrade-btn">&#8595; Upgrade</button>
+                            <div class="cpt-sub-label">To</div>
+                            <div class="cpt-promise-box to">Performance Marketing Manager / Head of Growth</div>
+                            <div class="cpt-sub-label">Career Motive</div>
+                            <div>
+                                <span class="cpt-motive-pill">Promotion seeker</span>
+                                <span class="cpt-motive-pill">Salary accelerator</span>
+                            </div>
+                        </div>
+
+                        <!-- Column 2: Role Skills Layer -->
+                        <div class="cpt-col">
+                            <div class="cpt-label">Role Skills Layer</div>
+                            <div class="cpt-skill-item">CAC / LTV economics</div>
+                            <div class="cpt-skill-item">Funnel design &amp; CRO</div>
+                            <div class="cpt-skill-item">Marketing analytics &amp; attribution</div>
+                            <div class="cpt-skill-item">AI-enabled marketing automation</div>
+                            <div class="cpt-skill-item">Budget allocation &amp; ROAS</div>
+                            <div class="cpt-skill-item">Real campaign simulations</div>
+                        </div>
+
+                        <!-- Column 3: LinkedIn JD Titles -->
+                        <div class="cpt-col">
+                            <div class="cpt-label">LinkedIn JD Titles</div>
+                            <div class="cpt-jd-tag">Performance Marketing Manager</div>
+                            <div class="cpt-jd-tag">Growth Marketing Manager</div>
+                            <div class="cpt-jd-tag">Head of Growth</div>
+                            <div class="cpt-jd-tag">Demand Generation Manager</div>
+                        </div>
+
+                    </div><!-- /cpt-cols -->
+
+                    <div class="cpt-quote">
+                        &ldquo;Stop managing campaigns. <span>Start owning revenue.&rdquo;</span>
+                    </div>
+                </div><!-- /cpt-right -->
+
+            </div><!-- /cpt-card -->
+        </div>
+    </section>
+
+    <!-- ═══════════════════════════════════════════════
        FEE STRUCTURE
     ════════════════════════════════════════════════ -->
     <section class="fee-structure-section" id="fees">
