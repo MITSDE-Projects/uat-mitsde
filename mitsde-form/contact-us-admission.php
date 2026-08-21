@@ -162,9 +162,7 @@ $pagename = (isset($_SERVER['HTTPS']) ? "https" : "http") . "://$_SERVER[HTTP_HO
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-KQJGLPK');
- //gtag('config', 'UA-157950260-1');  
-</script>
+})(window,document,'script','dataLayer','GTM-KPLJSVF8');</script>
 <!-- End Google Tag Manager -->
 
     <script type="text/javascript">
@@ -261,7 +259,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </head>
 
 <body>
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQJGLPK"
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KPLJSVF8"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
     <div class="d-flex justify-content-end">
@@ -277,9 +276,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <input type="hidden" name="request_type3" value="Enquiry" />
 
                 <div class="mb-1">
-                    <input name="first_name3" type="text" class="form-control" value="First Name*"
+                    <input name="first_name3" type="text" class="form-control" value="Full Name*"
                         onBlur="javascript:addDefault(this,'contactformAddmission')" onFocus="javascript:removeDefault(this)"
-                        validate="Required|First Name*" />
+                        validate="Required|Full Name*" />
                 </div>
 
                 <div class="mb-1">
@@ -391,7 +390,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                     // placeholder text jo default value madhe aahe
                     var defaults = {
-                        first_name3: "First Name*",
+                        first_name3: "Full Name*",
                         email3: "Email*",
                         MobileNumber: "Mobile Number*"
                     };

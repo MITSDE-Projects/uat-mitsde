@@ -276,9 +276,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <input type="hidden" name="request_type3" value="Enquiry" />
 
                 <div class="mb-1">
-                    <input name="first_name3" type="text" class="form-control" value="First Name*"
+                    <input name="first_name3" type="text" class="form-control" value="Full Name*"
                         onBlur="javascript:addDefault(this,'contactform')" onFocus="javascript:removeDefault(this)"
-                        validate="Required|First Name*" />
+                        validate="Required|Full Name*" />
                 </div>
 
                 <div class="mb-1">
@@ -382,7 +382,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     // placeholder text jo default value madhe aahe
     var defaults = {
-        first_name3: "First Name*",
+        first_name3: "Full Name*",
         email3: "Email*",
         MobileNumber: "MobileNumber*"
     };

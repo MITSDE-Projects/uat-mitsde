@@ -227,7 +227,7 @@
             <div class="vertical-divider-1"></div>
             <div class="rating">
               <h4 class="js-counter" data-count="4.8" data-suffix="/5" data-decimals="1">4.8/5</h4>
-              <p class="js-counter" data-count="8000" data-suffix=" Reviews">8000 Reviews</p>
+              <p class="js-counter" data-count="10000" data-suffix=" Reviews">10000 Reviews</p>
             </div>
           </div>
           <div class="vertical-divider-2 d-lg-block d-md-none"></div>
