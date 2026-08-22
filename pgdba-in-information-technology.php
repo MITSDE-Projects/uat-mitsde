@@ -29,7 +29,7 @@
         content="2-year PGDBA in IT, prepares learners for upcoming industry trends and land a job in top IT companies in world with a holistic teaching-learning pedagogy.">
     <meta property="og:type" content="website">
     <meta property="og:image"
-        content="https://mitsde.com/assets-new/images/course/pgdba/pgdba-in-information-technology.jpg">
+        content="https://mitsde.com/assets-new/images/banner/information-technology.webp">
 
     <!-- / OG TAG -->
 
@@ -37,7 +37,7 @@
     <meta name="twitter:title" content="PGDBA in Information Technology | Online PG course in IT">
     <meta name="twitter:description"
         content="2-year PGDBA in IT, prepares learners for upcoming industry trends and land a job in top IT companies in world with a holistic teaching-learning pedagogy.">
-    <meta name="twitter:image" content="https://mitsde.com/assets-new/images/course/pgdba/pgdba-in-information-technology.jpg">
+    <meta name="twitter:image" content="https://mitsde.com/assets-new/images/banner/information-technology.webp">
     <meta name="twitter:image:alt" content="PGDBA in Information Technology | Online PG course in IT">
 
     <link rel="icon" type="image/png" href="assets-new/images/favicon-mit.ico" />
@@ -53,7 +53,7 @@
             "@context": "https://schema.org/",
             "@type": "Product",
             "name": "PGDBA in Information Technology | Online PG course in IT",
-            "image": "https://mitsde.com/assets-new/images/course/pgdba/pgdba-in-information-technology.jpg",
+            "image": "https://mitsde.com/assets-new/images/banner/information-technology.webp",
             "description": "2-year PGDBA in IT, prepares learners for upcoming industry trends and land a job in top IT companies in world with a holistic teaching-learning pedagogy.",
             "brand": {
                 "@type": "Brand",
@@ -261,7 +261,7 @@
                 </div>
 
                 <div class="ph-right">
-                    <img src="assets-new/images/emba.webp" alt="PGDBA in Information Technology" />
+                    <img src="assets-new/images/banner/information-technology.webp" alt="PGDBA in Information Technology" />
                 </div>
 
             </div><!-- /ph-layout -->

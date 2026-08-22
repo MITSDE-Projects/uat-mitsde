@@ -16,7 +16,7 @@
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="Executive MBA in Project Management">
     <meta name="twitter:description" content="EMBA in Project Management: Master the art of execution, leadership, and strategic planning to drive successful projects in any industry.">
-    <meta name="twitter:image" content="https://mitsde.com/assets-new/images/finance-management.webp">
+    <meta name="twitter:image" content="https://mitsde.com/assets-new/images/banner/project-management.webp">
     <meta name="twitter:image:alt" content="Project Management">
 
     <!-- CANONICAL TAG -->
@@ -32,7 +32,7 @@
     <meta property="og:url" content="https://mitsde.com/executive-mba-in-project-management">
     <meta property="og:description" content="EMBA in Project Management: Master the art of execution, leadership, and strategic planning to drive successful projects in any industry.">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/assets-new/images/finance-management.webp">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/banner/project-management.webp">
 
     <!-- / OG TAG -->
 
@@ -49,7 +49,7 @@
             "@context": "https://schema.org/",
             "@type": "Product",
             "name": "Executive MBA in Project Management | Online EMBA",
-            "image": "https://mitsde.com/assets-new/images/finance-management.webp",
+            "image": "https://mitsde.com/assets-new/images/banner/project-management.webp",
             "description": "EMBA in Project Management: Master the art of execution, leadership, and strategic planning to drive successful projects in any industry.",
             "brand": {
                 "@type": "Brand",
@@ -142,7 +142,7 @@
 
                 <!-- Center — hero image -->
                 <div class="ph-right">
-                    <img src="assets-new/images/finance-management.webp" alt="EMBA Project Management Image" />
+                    <img src="assets-new/images/banner/project-management.webp" alt="EMBA Project Management Image" />
                 </div>
 
                 <!-- Right — registration form card -->

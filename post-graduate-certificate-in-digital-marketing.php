@@ -26,7 +26,7 @@
     <meta property="og:description"
         content="1-year PG Certificate in Digital Marketing to upgrade your career. Learn latest trends, hands on DM tools and strategies to stay ahead in the game.">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/assets/images/course/pgdm-exe/PGCM-Digital-Marketing.jpg">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/banner/digital-marketing.webp">
 
     <!-- / OG TAG -->
 
@@ -43,7 +43,7 @@
         "@context": "https://schema.org/",
         "@type": "Product",
         "name": "Digital Marketing Courses Online | Distance PG course in Digital Marketing",
-        "image": "https://mitsde.com/assets/images/course/digital/post-graduate-cetificate-in-digital-marketing.png",
+        "image": "https://mitsde.com/assets-new/images/banner/digital-marketing.webp",
         "description": "1-year PG Certificate in Digital Marketing to upgrade your career. Learn latest trends, hands on DM tools and strategies to stay ahead in the game.",
         "brand": {
             "@type": "Brand",
@@ -222,7 +222,7 @@
                 </div>
 
                 <div class="ph-right">
-                    <img src="assets-new/images/project-management.webp" alt="PGCM in Digital Marketing" />
+                    <img src="assets-new/images/banner/digital-marketing.webp" alt="PGCM in Digital Marketing" />
                 </div>
 
             </div><!-- /ph-layout -->

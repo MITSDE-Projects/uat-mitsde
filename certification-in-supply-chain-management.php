@@ -26,7 +26,7 @@
     <meta property="og:description"
         content="Advance your career with MITSDE’s certification in supply management course. Learn logistics and supply chain skills online efficiently.">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/assets-new/images/project-management.webp">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/banner/supply-chain-management.webp">
     <!-- / OG TAG -->
 
     <link rel="icon" type="image/png" href="assets-new/images/favicon-mit.ico" />
@@ -42,7 +42,7 @@
         "@context": "https://schema.org/",
         "@type": "Product",
         "name": "Certification in Supply Management Course – MITSDE India",
-        "image": "https://mitsde.com/assets-new/images/project-management.webp",
+        "image": "https://mitsde.com/assets-new/images/banner/supply-chain-management.webp",
         "description": "Advance your career with MITSDE’s certification in supply management course. Learn logistics and supply chain skills online efficiently.",
         "brand": {
             "@type": "Brand",
@@ -223,7 +223,7 @@
                 </div>
 
                 <div class="ph-right">
-                    <img src="assets-new/images/project-management.webp" alt="Certification in Logistics and Supply Chain" />
+                    <img src="assets-new/images/banner/supply-chain-management.webp" alt="Certification in Logistics and Supply Chain" />
                 </div>
 
             </div><!-- /ph-layout -->

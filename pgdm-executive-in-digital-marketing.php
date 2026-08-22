@@ -27,7 +27,7 @@
     <meta property="og:description"
         content="Enhance your career with MITSDE’s 15-month AICTE-approved PGDM Executive in Digital Marketing. Learn SEO, SEM, analytics & leadership online.">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/assets-new/images/course/pgdm-exe/PGDM-Executive-Digital-Marketing.png">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/banner/digital-marketing.webp">
     <!-- / OG TAG -->
 
     <link rel="icon" type="image/png" href="assets-new/images/favicon-mit.ico" />
@@ -43,7 +43,7 @@
         "@context": "https://schema.org/",
         "@type": "Product",
         "name": "PGDM Executive in Digital Marketing Online | AICTE-Approved MITSDE",
-        "image": "https://mitsde.com/assets-new/images/course/pgdm-exe/PGDM-Executive-Digital-Marketing.png",
+        "image": "https://mitsde.com/assets-new/images/banner/digital-marketing.webp",
         "description": "Enhance your career with MITSDE’s 15-month AICTE-approved PGDM Executive in Digital Marketing. Learn SEO, SEM, analytics & leadership online.",
         "brand": {
             "@type": "Brand",
@@ -198,7 +198,7 @@
                 </div>
 
                 <div class="ph-right">
-                    <img src="assets-new/images/project-management.webp" alt="Digital Marketing Image" />
+                    <img src="assets-new/images/banner/digital-marketing.webp" alt="Digital Marketing Image" />
                 </div>
 
             </div><!-- /ph-layout -->

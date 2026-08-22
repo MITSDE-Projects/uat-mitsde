@@ -24,7 +24,7 @@
     <meta property="og:url" content="https://mitsde.com/pgdm-executive-in-construction-and-project-management">
     <meta property="og:description" content="Executive PG Diploma in Construction & Project Management is designed as per industry-requirements, perfect for professionals looking for career growth.">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/assets/images/course/pgdm-exe/PGDM-Executive-Construction-And-Project-Management.jpg">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/banner/construction-and-project-management.webp">
 
     <!-- / OG TAG -->
 
@@ -36,41 +36,11 @@
     <link rel="stylesheet" href="css-new/styles.css" />
     <link rel="stylesheet" href="css-new/intlTelInput.css">
 
-   <script type="application/ld+json">
-    {
-        "@context": "https://schema.org/",
-        "@type": "Product",
-        "name": "PGDM Executive in Digital Marketing Online | AICTE-Approved MITSDE",
-        "image": "https://mitsde.com/assets-new/images/course/pgdm-exe/PGDM-Executive-Digital-Marketing.png",
-        "description": "Enhance your career with MITSDE’s 15-month AICTE-approved PGDM Executive in Digital Marketing. Learn SEO, SEM, analytics & leadership online.",
-        "brand": {
-            "@type": "Brand",
-            "name": "MITSDE"
-        },
-        "offers": {
-            "@type": "Offer",
-            "url": "https://mitsde.com/pgdm-executive-in-digital-marketing",
-            "priceCurrency": "INR",
-            "price": "95000",
-            "priceValidUntil": "2026-12-31",
-            "availability": "https://schema.org/InStock",
-            "itemCondition": "https://schema.org/NewCondition"
-        },
-        "aggregateRating": {
-            "@type": "AggregateRating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1",
-            "ratingCount": "10"
-        }
-    }
-    </script>
-
     <script type="application/ld+json">{
         "@context": "https://schema.org/",
         "@type": "Product",
         "name": "PGDM Executive Course in Construction & Project Managementt",
-        "image": "https://mitsde.com/assets/images/course/pgdm-exe/PGDM-Executive-Construction-And-Project-Management.jpg",
+        "image": "https://mitsde.com/assets-new/images/banner/construction-and-project-management.webp",
         "description": "Executive PG Diploma in Construction & Project Management is designed as per industry-requirements, perfect for professionals looking for career growth.",
         "brand": {
             "@type": "Brand",
@@ -253,7 +223,7 @@
                 </div>
 
                 <div class="ph-right">
-                    <img src="assets-new/images/project-management.webp" alt="PGDM Executive In Construction And Project Management" />
+                    <img src="assets-new/images/banner/construction-and-project-management.webp" alt="PGDM Executive In Construction And Project Management" />
                 </div>
 
             </div><!-- /ph-layout -->

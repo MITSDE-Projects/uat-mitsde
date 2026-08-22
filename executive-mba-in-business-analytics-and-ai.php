@@ -17,7 +17,7 @@
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="Executive MBA in Marketing Management">
     <meta name="twitter:description" content="EMBA in Marketing Management: Elevate your strategic thinking, master market trends, and lead with innovation in this executive-level program">
-    <meta name="twitter:image" content="https://mitsde.com/assets-new/images/finance-management.webp">
+    <meta name="twitter:image" content="https://mitsde.com/assets-new/images/banner/business-analytics.webp">
     <meta name="twitter:image:alt" content="Executive MBA in Marketing"> -->
 
     <!-- CANONICAL TAG -->
@@ -34,7 +34,7 @@
     <meta property="og:description"
         content="EMBA in Business Analytics & AI: Master data-driven strategies, AI tools, and smart decision-making with MITSDE to lead digital transformation in any industry">
     <meta property="og:type" content="website">
-    <meta name="twitter:image" content="https://mitsde.com/assets-new/images/finance-management.webp">
+    <meta name="twitter:image" content="https://mitsde.com/assets-new/images/banner/business-analytics.webp">
 
     <!-- / OG TAG -->
 
@@ -51,7 +51,7 @@
             "@context": "https://schema.org/",
             "@type": "Product",
             "name": "Executive MBA in Business Analytics and AI | Online EMBA",
-            "image": "https://mitsde.com/assets-new/images/course/ex-mba/Business-Analytics.jpg",
+            "image": "https://mitsde.com/assets-new/images/banner/business-analytics.webp",
             "description": "EMBA in Business Analytics & AI: Master data-driven strategies, AI tools, and smart decision-making with MITSDE to lead digital transformation in any industry.",
             "brand": {
                 "@type": "Brand",
@@ -144,7 +144,7 @@
 
                 <!-- Center — hero image -->
                 <div class="ph-right">
-                    <img src="assets-new/images/finance-management.webp" alt="EMBA in Business Analytics and AI Image" />
+                    <img src="assets-new/images/banner/business-analytics.webp" alt="EMBA in Business Analytics and AI Image" />
                 </div>
 
                 <!-- Right — registration form card -->

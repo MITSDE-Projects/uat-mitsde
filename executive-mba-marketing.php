@@ -17,7 +17,7 @@
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="Executive MBA in Marketing Management">
     <meta name="twitter:description" content="EMBA in Marketing Management: Elevate your strategic thinking, master market trends, and lead with innovation in this executive-level program">
-    <meta name="twitter:image" content="https://mitsde.com/assets-new/images/finance-management.webp">
+    <meta name="twitter:image" content="https://mitsde.com/assets-new/images/banner/marketing-management.webp">
     <meta name="twitter:image:alt" content="Executive MBA in Marketing">
 
     <!-- CANONICAL TAG -->
@@ -33,7 +33,7 @@
     <meta property="og:url" content="https://mitsde.com/executive-mba-marketing">
     <meta property="og:description" content="EMBA in Marketing Management: Elevate your strategic thinking, master market trends, and lead with innovation in this executive-level program">
     <meta property="og:type" content="website">
-    <meta name="twitter:image" content="https://mitsde.com/assets-new/images/finance-management.webp">
+    <meta name="twitter:image" content="https://mitsde.com/assets-new/images/banner/marketing-management.webp">
 
     <!-- / OG TAG -->
 
@@ -50,7 +50,7 @@
             "@context": "https://schema.org/",
             "@type": "Product",
             "name": "Executive MBA in Marketing Management | Online EMBA",
-            "image": "https://mitsde.com/assets-new/images/course/ex-mba/executive-mba-in-marketing.jpg",
+            "image": "https://mitsde.com/assets-new/images/banner/marketing-management.webp",
             "description": "EMBA in Marketing Management: Elevate your strategic thinking, master market trends, and lead with innovation in this executive-level program",
             "brand": {
                 "@type": "Brand",
@@ -143,7 +143,7 @@
 
                 <!-- Center — hero image -->
                 <div class="ph-right">
-                    <img src="assets-new/images/finance-management.webp" alt="EMBA Marketing Management Image" />
+                    <img src="assets-new/images/banner/marketing-management.webp" alt="EMBA Marketing Management Image" />
                 </div>
 
                 <!-- Right — registration form card -->

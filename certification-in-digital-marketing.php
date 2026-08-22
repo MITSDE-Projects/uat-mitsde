@@ -26,7 +26,7 @@
     <meta property="og:description"
         content="Enrol in MITSDE’s Digital Marketing Certification course. Learn SEO, SEM, social media & analytics with expert guidance and industry-focused training. Apply now!">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/assets-new/images/project-management.webp">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/banner/digital-marketing.webp">
     <!-- / OG TAG -->
 
     <link rel="icon" type="image/png" href="assets-new/images/favicon-mit.ico" />
@@ -42,7 +42,7 @@
         "@context": "https://schema.org/",
         "@type": "Product",
         "name": "Certification in Digital Marketing Course | MITSDE India",
-        "image": "https://mitsde.com/assets-new/images/project-management.webp",
+        "image": "https://mitsde.com/assets-new/images/banner/digital-marketing.webp",
         "description": "Enrol in MITSDE’s Digital Marketing Certification course. Learn SEO, SEM, social media & analytics with expert guidance and industry-focused training. Apply now!",
         "brand": {
             "@type": "Brand",
@@ -223,7 +223,7 @@
                 </div>
 
                 <div class="ph-right">
-                    <img src="assets-new/images/project-management.webp" alt="Certification in Digital Marketing" />
+                    <img src="assets-new/images/banner/digital-marketing.webp" alt="Certification in Digital Marketing" />
                 </div>
 
             </div><!-- /ph-layout -->

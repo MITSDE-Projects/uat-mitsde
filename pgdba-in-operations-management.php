@@ -28,7 +28,7 @@
     <meta property="og:description"
         content="Distance PGDBA program in Operations Management will help you achieve operational excellence with updated curriculum and live sessions with experts.">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/assets-new/images/course/pgdba/Operations-Management.jpg">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/banner/operations-management.webp">
 
     <!-- / OG TAG -->
 
@@ -36,7 +36,7 @@
     <meta name="twitter:title" content="Post Graduate Diploma Business Administration (PGDBA) in Operations Management">
     <meta name="twitter:description"
         content="Distance PGDBA program in Operations Management will help you achieve operational excellence with updated curriculum and live sessions with experts.">
-    <meta name="twitter:image" content="https://mitsde.com/assets-new/images/course/pgdba/Operations-Management.jpg">
+    <meta name="twitter:image" content="https://mitsde.com/assets-new/images/banner/operations-management.webp">
     <meta name="twitter:image:alt"
         content="Post Graduate Diploma Business Administration (PGDBA) in Operations Management">
 
@@ -53,7 +53,7 @@
             "@context": "https://schema.org/",
             "@type": "Product",
             "name": "Post Graduate Diploma Business Administration (PGDBA) in Operations Management",
-            "image": "https://mitsde.com/assets-new/images/course/pgdba/Operations-Management.jpg",
+            "image": "https://mitsde.com/assets-new/images/banner/operations-management.webp",
             "description": "Distance PGDBA program in Operations Management will help you achieve operational excellence with updated curriculum and live sessions with experts.",
             "brand": {
                 "@type": "Brand",
@@ -261,7 +261,7 @@
                 </div>
 
                 <div class="ph-right">
-                    <img src="assets-new/images/emba.webp" alt="PGDBA in Operations Management" />
+                    <img src="assets-new/images/banner/operations-management.webp" alt="PGDBA in Operations Management" />
                 </div>
 
             </div><!-- /ph-layout -->

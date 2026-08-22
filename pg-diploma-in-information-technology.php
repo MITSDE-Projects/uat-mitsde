@@ -24,7 +24,7 @@
     <meta property="og:description"
         content="Online PG Diploma in Information Technology at MITSDE is an AICTE-approved online program with 40+ years of educational legacy, flexible learning, and 100% placement support. Admissions open for 2026.">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/assets-new/images/information-technology.jpg">  
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/banner/information-technology.webp">  
 
 
     <!-- / OG TAG -->
@@ -47,7 +47,7 @@
 
             "name": "Online PGDM in Information Technology - MITSDE 2026 | PG Diploma in IT",
 
-            "image": "https://mitsde.com/assets-new/images/course/pgdm/PGDM-Information-Technology.jpg",
+            "image": "https://mitsde.com/assets-new/images/banner/information-technology.webp",
 
             "description": "Advance your career with MITSDE’s online PG Diploma PGD in IT Management. Learn IT strategy, infrastructure, cybersecurity, cloud computing & business applications with flexible learning.",
 
@@ -341,7 +341,7 @@
                 </div>
 
                 <div class="ph-right">
-                    <img src="assets-new/images/project-management.webp" alt="Information Technology Image" />
+                    <img src="assets-new/images/banner/information-technology.webp" alt="Information Technology Image" />
                 </div>
 
             </div><!-- /ph-layout -->

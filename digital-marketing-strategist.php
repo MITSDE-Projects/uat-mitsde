@@ -24,7 +24,7 @@
     <meta property="og:description"
         content="Become a Digital Marketing Strategist with MITSDE. Learn AI, analytics & strategy to accelerate your career growth. Enroll today!">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/assets-new/images/application-process.webp">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/banner/chief-digital-marketing-strategist-program.webp">
     <!-- / OG TAG -->
 
     <link rel="icon" type="image/png" href="assets-new/images/favicon-mit.ico" />
@@ -40,7 +40,7 @@
         "@context": "https://schema.org/",
         "@type": "Product",
         "name": "Chief Digital Marketing Strategist | MITSDE's PGDM-Executive",
-        "image": "https://mitsde.com/assets-new/images/application-process.webp",
+        "image": "https://mitsde.com/assets-new/images/banner/chief-digital-marketing-strategist-program.webp",
         "description": "Become a Digital Marketing Strategist with MITSDE. Learn AI, analytics & strategy to accelerate your career growth. Enroll today!",
         "brand": {
             "@type": "Brand",
@@ -170,7 +170,7 @@
                 </div>
 
                 <div class="ph-right">
-                    <img src="assets-new/images/application-process.webp" alt="Chief Digital Marketing Strategist Program" />
+                    <img src="assets-new/images/banner/chief-digital-marketing-strategist-program.webp" alt="Chief Digital Marketing Strategist Program" />
                 </div>
 
             </div><!-- /ph-layout -->

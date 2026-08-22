@@ -26,13 +26,13 @@
     <meta property="og:url" content="https://mitsde.com/executive-mba-finance-management">
     <meta property="og:description" content="EMBA in Finance Management: Harness advanced financial strategies, sharpen leadership skills, and excel in the dynamic world of finance in this executive-level program">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/assets-new/images/finance-management.webp">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/banner/finance-management.webp">
 
     <!-- twitter tag -->
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="Executive MBA in Finance Management">
     <meta name="twitter:description" content="EMBA in Finance Management: Harness advanced financial strategies, sharpen leadership skills, and excel in the dynamic world of finance in this executive-level program">
-    <meta name="twitter:image" content="https://mitsde.com/assets-new/images/finance-management.webp">
+    <meta name="twitter:image" content="https://mitsde.com/assets-new/images/banner/finance-management.webp">
     <meta name="twitter:image:alt" content="Executive MBA in Finance Management">
 
     <!--  -->
@@ -49,7 +49,7 @@
             "@context": "https://schema.org/",
             "@type": "Product",
             "name": "Executive MBA in Finance Management | Online EMBA",
-            "image": "https://mitsde.com/assets-new/images/finance-management.webp",
+            "image": "https://mitsde.com/assets-new/images/banner/finance-management.webp",
             "description": "EMBA in Finance Management: Harness advanced financial strategies, sharpen leadership skills, and excel in the dynamic world of finance in this executive-level program",
             "brand": {
                 "@type": "Brand",
@@ -142,7 +142,7 @@
 
                 <!-- Center — hero image -->
                 <div class="ph-right">
-                    <img src="assets-new/images/finance-management.webp" alt="Finance Management Image" />
+                    <img src="assets-new/images/banner/finance-management.webp" alt="EMBA Finance Management" />
                 </div>
 
                 <!-- Right — registration form card -->

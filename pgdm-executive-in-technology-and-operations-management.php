@@ -24,7 +24,7 @@
     <meta property="og:url" content="https://mitsde.com/pgdm-executive-in-technology-and-operations-management">
     <meta property="og:description" content="Boost your career with Distance Executive PG Diploma in Technology & Operations Management is designed as per current industry trends. Admissions Open 2026.">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/assets/images/course/pgdm-exe/PGDM-Executive-Technology-&-Operations-Management.jpg">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/banner/technology-and-operations.webp">
 
     <!-- / OG TAG -->
 
@@ -41,7 +41,7 @@
         "@context": "https://schema.org/",
         "@type": "Product",
         "name": "PGDM Executive in Digital Marketing Online | AICTE-Approved MITSDE",
-        "image": "https://mitsde.com/assets-new/images/course/pgdm-exe/PGDM-Executive-Digital-Marketing.png",
+        "image": "https://mitsde.com/assets-new/images/banner/technology-and-operations.webp",
         "description": "Enhance your career with MITSDE’s 15-month AICTE-approved PGDM Executive in Digital Marketing. Learn SEO, SEM, analytics & leadership online.",
         "brand": {
             "@type": "Brand",
@@ -248,7 +248,7 @@
                 </div>
 
                 <div class="ph-right">
-                    <img src="assets-new/images/project-management.webp" alt="PGDM Executive In Technology & Operations Management" />
+                    <img src="assets-new/images/banner/technology-and-operations.webp" alt="PGDM Executive In Technology & Operations Management" />
                 </div>
 
             </div><!-- /ph-layout -->

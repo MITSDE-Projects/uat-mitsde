@@ -24,7 +24,7 @@
     <meta property="og:url" content="https://mitsde.com/pgdm-executive-in-information-technology">
     <meta property="og:description" content="Boost your career with MITSDE’s 15-month AICTE-approved PGDM Executive in IT. Learn IT strategy, digital transformation, analytics & leadership online.">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/assets/images/course/pgdm-exe/PGDM-Executive-Information-Technology.jpg">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/banner/information-technology.webp">
 
     <!-- / OG TAG -->
 
@@ -36,41 +36,11 @@
     <link rel="stylesheet" href="css-new/styles.css" />
     <link rel="stylesheet" href="css-new/intlTelInput.css">
 
-   <script type="application/ld+json">
-    {
-        "@context": "https://schema.org/",
-        "@type": "Product",
-        "name": "PGDM Executive in Digital Marketing Online | AICTE-Approved MITSDE",
-        "image": "https://mitsde.com/assets-new/images/course/pgdm-exe/PGDM-Executive-Digital-Marketing.png",
-        "description": "Enhance your career with MITSDE’s 15-month AICTE-approved PGDM Executive in Digital Marketing. Learn SEO, SEM, analytics & leadership online.",
-        "brand": {
-            "@type": "Brand",
-            "name": "MITSDE"
-        },
-        "offers": {
-            "@type": "Offer",
-            "url": "https://mitsde.com/pgdm-executive-in-digital-marketing",
-            "priceCurrency": "INR",
-            "price": "95000",
-            "priceValidUntil": "2026-12-31",
-            "availability": "https://schema.org/InStock",
-            "itemCondition": "https://schema.org/NewCondition"
-        },
-        "aggregateRating": {
-            "@type": "AggregateRating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1",
-            "ratingCount": "10"
-        }
-    }
-    </script>
-
     <script type="application/ld+json">{
         "@context": "https://schema.org/",
         "@type": "Product",
         "name": "PGDM Executive in Information Technology (IT) Online | AICTE-Approved MITSDE",
-        "image": "https://mitsde.com/assets/images/course/pgdm-exe/PGDM-Executive-Information-Technology.jpg",
+        "image": "https://mitsde.com/assets-new/images/banner/information-technology.webp",
         "description": "Boost your career with MITSDE’s 15-month AICTE-approved PGDM Executive in IT. Learn IT strategy, digital transformation, analytics & leadership online.
 ",
         "brand": {
@@ -208,7 +178,7 @@
                 </div>
 
                 <div class="ph-right">
-                    <img src="assets-new/images/project-management.webp" alt="PGDM Executive in Information Technology (IT)" />
+                    <img src="assets-new/images/banner/information-technology.webp" alt="PGDM Executive in Information Technology (IT)" />
                 </div>
 
             </div><!-- /ph-layout -->

@@ -23,7 +23,7 @@
     <meta property="og:url" content="https://mitsde.com/pg-diploma-in-finance-management">
     <meta property="og:description" content="Advance your career with the best degree for finance professionals — MITSDE’s PG Diploma in Finance Management. Learn financial planning, analysis, and investment strategies.">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/assets-new/images/finance-management.jpg">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/banner/finance-management.webp">
 
 
     <!-- / OG TAG -->
@@ -41,7 +41,7 @@
             "@context": "https://schema.org/",
             "@type": "Product",
             "name": "PGDM in Finance Management | Online PG Diploma in Finance",
-            "image": "https://mitsde.com/assets-new/images/course/pgdm/pg-diploma-in-finance-management.jpg",
+            "image": "https://mitsde.com/assets-new/images/banner/finance-management.webp",
             "description": "Upskill in finance with MITSDE's online PGDM. Master financial planning, analysis, and decision-making to propel your career.",
             "brand": {
                 "@type": "Brand",
@@ -426,7 +426,7 @@
                 </div>
 
                 <div class="ph-right">
-                    <img src="assets-new/images/project-management.webp" alt="Finance Management Image" />
+                    <img src="assets-new/images/banner/finance-management.webp" alt="Finance Management Image" />
                 </div>
 
             </div><!-- /ph-layout -->

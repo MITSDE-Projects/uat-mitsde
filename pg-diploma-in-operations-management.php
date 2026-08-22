@@ -26,7 +26,7 @@
     <meta property="og:url" content="https://mitsde.com/pg-diploma-in-operations-management">
     <meta property="og:description" content="Pursue one of the top online pg diplomas in operations management with MITSDE. Our online operations management courses are designed for professionals seeking to enhance their managerial skills and career growth.">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/assets-new/images/project-management.webp">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/banner/operations-management.webp">
 
     <!-- / OG TAG -->
 
@@ -43,7 +43,7 @@
             "@context": "https://schema.org/",
             "@type": "Product",
             "name": "Distance PGDM in Operations Management | Online PG course in Operations",
-            "image": "https://mitsde.com/assets-new/images/project-management.webp",
+            "image": "https://mitsde.com/assets-new/images/banner/operations-management.webp",
             "description": "Master operations excellence with MITSDE's online PGDM. Streamline processes, optimize resources, and drive profitability for a competitive edge.",
             "brand": {
                 "@type": "Brand",
@@ -167,7 +167,7 @@
                 </div>
 
                 <div class="ph-right">
-                    <img src="assets-new/images/project-management.webp" alt="Project Management Image" />
+                    <img src="assets-new/images/banner/operations-management.webp" alt="Operations Management Image" />
                 </div>
 
             </div><!-- /ph-layout -->

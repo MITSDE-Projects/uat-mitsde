@@ -23,7 +23,7 @@
     <meta property="og:url" content="https://mitsde.com/pg-diploma-in-construction-and-project-management">
     <meta property="og:description" content="Enroll in MITSDEâ€™s PG Diploma in Project and Construction Management. Gain practical skills and industry knowledge to manage construction projects successfully.">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/assets-new/images/course/pgdm/pg-diploma-in-construction-and-project-management.jpg">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/banner/construction-and-project-management.webp">
 
 
     <!-- / OG TAG -->
@@ -41,7 +41,7 @@
             "@context": "https://schema.org/",
             "@type": "Product",
             "name": "Best PGDM Construction & Project Management | Online PGDM in Construction & Project Management",
-            "image": "https://mitsde.com/assets-new/images/course/pgdm/pg-diploma-in-construction-and-project-management.jpg",
+            "image": "https://mitsde.com/assets-new/images/banner/construction-and-project-management.webp",
             "description": "Lay a strong foundation for bright future with PGDM in Construction and Project with strong industry acumen, expert guidance and placement assistance.",
             "brand": {
                 "@type": "Brand",
@@ -130,45 +130,6 @@
 }
     </script>
 
-    <!-- faq -->
-
-    <script type="application/ld+json">
-        {
-            "@context": "https://schema.org",
-            "@type": "LocalBusiness",
-            "name": "MIT School of Distance Education",
-            "image": "https://mitsde.com/assets-new/images/new/logo-mit-school-of-distance-education.png",
-            "@id": "",
-            "url": "https://mitsde.com/",
-            "telephone": "9112-207-207",
-            "address": {
-                "@type": "PostalAddress",
-                "streetAddress": "opposite Gajanan Maharaj Sansthan, Alandi",
-                "addressLocality": "Pune",
-                "postalCode": "412105",
-                "addressCountry": "IN"
-            },
-            "geo": {
-                "@type": "GeoCoordinates",
-                "latitude": 18.672932,
-                "longitude": 73.889243
-            },
-            "openingHoursSpecification": [{
-                "@type": "OpeningHoursSpecification",
-                "dayOfWeek": [
-                    "Monday",
-                    "Tuesday",
-                    "Wednesday",
-                    "Thursday",
-                    "Friday",
-                    "Saturday"
-                ],
-                "opens": "09:30",
-                "closes": "05:30"
-            }]
-        }
-    </script>
-
 <?php include "5-common-seo-tag-1.php" ?>
 </head>
 
@@ -201,7 +162,7 @@
                 </div>
 
                 <div class="ph-right">
-                    <img src="assets-new/images/project-management.webp" alt="PG Diploma in Construction and Project Management" />
+                    <img src="assets-new/images/banner/construction-and-project-management.webp" alt="PG Diploma in Construction and Project Management" />
                 </div>
 
             </div><!-- /ph-layout -->

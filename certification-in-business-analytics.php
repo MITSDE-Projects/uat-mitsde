@@ -26,7 +26,7 @@
     <meta property="og:description"
         content="Boost your career with MITSDE Business Analytics Certification. Learn Excel, Power BI & data analysis with expert faculty and flexible learning. Enroll now!">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/assets-new/images/project-management.webp">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/banner/business-analytics.webp">
     <!-- / OG TAG -->
 
     <link rel="icon" type="image/png" href="assets-new/images/favicon-mit.ico" />
@@ -42,7 +42,7 @@
         "@context": "https://schema.org/",
         "@type": "Product",
         "name": "Certification in Business Analytics Course | MITSDE India",
-        "image": "https://mitsde.com/assets-new/images/project-management.webp",
+        "image": "https://mitsde.com/assets-new/images/banner/business-analytics.webp",
         "description": "Boost your career with MITSDE Business Analytics Certification. Learn Excel, Power BI & data analysis with expert faculty and flexible learning. Enroll now!",
         "brand": {
             "@type": "Brand",
@@ -223,7 +223,7 @@
                 </div>
 
                 <div class="ph-right">
-                    <img src="assets-new/images/project-management.webp" alt="Certification in Business Analytics" />
+                    <img src="assets-new/images/banner/business-analytics.webp" alt="Certification in Business Analytics" />
                 </div>
 
             </div><!-- /ph-layout -->

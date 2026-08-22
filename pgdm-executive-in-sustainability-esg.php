@@ -24,7 +24,7 @@
     <meta property="og:url" content="https://mitsde.com/pgdm-executive-in-sustainability-esg">
     <meta property="og:description" content="Advance your career with MITSDE’s 15-month AICTE-approved PGDM Executive in Sustainability &amp; ESG. Learn ESG frameworks, sustainable business strategy & governance online.">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/assets-new/images/project-management.webp">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/banner/sustainability-and-esg.webp">
 
     <!-- / OG TAG -->
 
@@ -41,7 +41,7 @@
         "@context": "https://schema.org/",
         "@type": "Product",
         "name": "PGDM Executive in Sustainability & ESG Online | AICTE-Approved MITSDE",
-        "image": "https://mitsde.com/assets-new/images/project-management.webp",
+        "image": "https://mitsde.com/assets-new/images/banner/sustainability-and-esg.webp",
         "description": "Advance your career with MITSDE’s 15-month AICTE-approved PGDM Executive in Sustainability & ESG. Learn ESG frameworks, sustainable business strategy & governance online.",
         "brand": {
             "@type": "Brand",
@@ -161,7 +161,7 @@
                 </div>
 
                 <div class="ph-right">
-                    <img src="assets-new/images/project-management.webp" alt="PGDM Executive in Sustainability & ESG" />
+                    <img src="assets-new/images/banner/sustainability-and-esg.webp" alt="PGDM Executive in Sustainability & ESG" />
                 </div>
 
             </div><!-- /ph-layout -->

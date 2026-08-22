@@ -25,7 +25,7 @@
     <meta property="og:description"
         content="Enroll in MITSDE’s online PG diploma in project management to gain essential skills and certification. Advance your career with our industry-focused PG Diploma program. ">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/assets-new/images/project-management.webp">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/banner/project-management.webp">
 
 
     <!-- / OG TAG -->
@@ -43,7 +43,7 @@
             "@context": "https://schema.org/",
             "@type": "Product",
             "name": "Distance PGDM in Project Management | Online PGDM",
-            "image": "https://mitsde.com/assets-new/images/project-management.webp",
+            "image": "https://mitsde.com/assets-new/images/banner/project-management.webp",
             "description": "Empower your project leadership skills with MITSDE's online PGDM in project management. Gain expertise in planning, execution, and control to drive successful projects.",
             "brand": {
                 "@type": "Brand",
@@ -252,7 +252,7 @@
                 </div>
 
                 <div class="ph-right">
-                    <img src="assets-new/images/project-management.webp" alt="Project Management Image" />
+                    <img src="assets-new/images/banner/project-management.webp" alt="Project Management Image" />
                 </div>
 
             </div><!-- /ph-layout -->

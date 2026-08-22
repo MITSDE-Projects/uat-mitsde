@@ -24,7 +24,7 @@
     <meta property="og:description"
         content="Advance your career with MITSDE’s online PGDM in Marketing. Enroll in PG Diploma courses designed to build practical, industry-ready marketing skills for career growth.">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/assets-new/images/marketing-management.jpg"> 
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/banner/marketing-management.webp"> 
 
 
     <!-- / OG TAG -->
@@ -42,7 +42,7 @@
             "@context": "https://schema.org/",
             "@type": "Product",
             "name": "Online PGDM Marketing | Distance Post Graduate Diploma in Marketing Management",
-            "image": "https://mitsde.com/assets-new/images/course/pgdm/PGDM-Marketing-Management.jpg",
+            "image": "https://mitsde.com/assets-new/images/banner/marketing-management.webp",
             "description": "Dominate the marketing landscape with MITSDE's online PGDM. Master digital marketing, branding, and analytics to drive customer engagement and growth",
             "brand": {
                 "@type": "Brand",
@@ -250,7 +250,7 @@
                 </div>
 
                 <div class="ph-right">
-                    <img src="assets-new/images/project-management.webp" alt="Marketing Management Image" />
+                    <img src="assets-new/images/banner/marketing-management.webp" alt="Marketing Management Image" />
                 </div>
 
             </div><!-- /ph-layout -->

@@ -28,7 +28,7 @@
     <meta property="og:description"
         content="Enhance Yourself with Best Online two years AICTE approved, PGBDA in Marketing Management course  Admissions Open.">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/assets-new/images/course/pgdba/pgdba-in-marketing-management.jpg">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/banner/marketing-management.webp">
 
     <!-- / OG TAG -->
 
@@ -36,7 +36,7 @@
     <meta name="twitter:title" content="Distance PGDBA Marketing Management | Online PG course on Marketing Management">
     <meta name="twitter:description"
         content="Enhance Yourself with Best Online two years AICTE approved, PGBDA in Marketing Management course Admissions Open.">
-    <meta name="twitter:image" content="https://mitsde.com/assets-new/images/course/pgdba/pgdba-in-marketing-management.jpg">
+    <meta name="twitter:image" content="https://mitsde.com/assets-new/images/banner/marketing-management.webp">
     <meta name="twitter:image:alt" content="Distance PGDBA Marketing Management | Online PG course on Marketing Management">
 
     <link rel="icon" type="image/png" href="assets-new/images/favicon-mit.ico" />
@@ -52,7 +52,7 @@
             "@context": "https://schema.org/",
             "@type": "Product",
             "name": "Distance PGDBA Marketing Management | Online PG course on Marketing Management",
-            "image": "https://mitsde.com/assets-new/images/course/pgdba/pgdba-in-marketing-management.jpg",
+            "image": "https://mitsde.com/assets-new/images/banner/marketing-management.webp",
             "description": "Enhance Yourself with Best Online two years AICTE approved, PGBDA in Marketing Management course  Admissions Open.",
             "brand": {
                 "@type": "Brand",
@@ -260,7 +260,7 @@
                 </div>
 
                 <div class="ph-right">
-                    <img src="assets-new/images/emba.webp" alt="PGDBA in Marketing Management" />
+                    <img src="assets-new/images/banner/marketing-management.webp" alt="PGDBA in Marketing Management" />
                 </div>
 
             </div><!-- /ph-layout -->

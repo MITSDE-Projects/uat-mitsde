@@ -17,7 +17,7 @@
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="Executive MBA in Operations Management">
     <meta name="twitter:description" content="EMBA in Operations Management: Optimize processes, enhance efficiency, and lead teams to deliver exceptional results in complex business environments">
-    <meta name="twitter:image" content="https://mitsde.com/assets-new/images/finance-management.webp">
+    <meta name="twitter:image" content="https://mitsde.com/assets-new/images/banner/operations-management.webp">
     <meta name="twitter:image:alt" content="Operations Management">
 
     <!-- CANONICAL TAG -->
@@ -33,7 +33,7 @@
     <meta property="og:url" content="https://mitsde.com/executive-mba-in-operations">
     <meta property="og:description" content="EMBA in Operations Management: Optimize processes, enhance efficiency, and lead teams to deliver exceptional results in complex business environments">
     <meta property="og:type" content="website">
-    <meta name="twitter:image" content="https://mitsde.com/assets-new/images/finance-management.webp">
+    <meta name="twitter:image" content="https://mitsde.com/assets-new/images/banner/operations-management.webp">
 
     <!-- / OG TAG -->
 
@@ -50,7 +50,7 @@
             "@context": "https://schema.org/",
             "@type": "Product",
             "name": "Executive MBA in Operations Management | Online EMBA ",
-            "image": "https://mitsde.com/assets-new/images/course/ex-mba/Operations-Management.jpg",
+            "image": "https://mitsde.com/assets-new/images/banner/operations-management.webp",
             "description": "EMBA in Operations Management: Optimize processes, enhance efficiency, and lead teams to deliver exceptional results in complex business environments",
             "brand": {
                 "@type": "Brand",
@@ -143,7 +143,7 @@
 
                 <!-- Center — hero image -->
                 <div class="ph-right">
-                    <img src="assets-new/images/finance-management.webp" alt="EMBA Operations Management Image" />
+                    <img src="assets-new/images/banner/operations-management.webp" alt="EMBA Operations Management Image" />
                 </div>
 
                 <!-- Right — registration form card -->

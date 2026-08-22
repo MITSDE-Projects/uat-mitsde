@@ -24,7 +24,7 @@
     <meta property="og:url" content="https://mitsde.com/pgdm-executive-in-international-business">
     <meta property="og:description" content="Advance your career with MITSDE’s 15-month AICTE-approved PGDM Executive in International Business. Learn global trade, cross-border strategy & international finance online.">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/assets-new/images/project-management.webp">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/banner/international-business.webp">
 
     <!-- / OG TAG -->
 
@@ -41,7 +41,7 @@
         "@context": "https://schema.org/",
         "@type": "Product",
         "name": "PGDM Executive in International Business Online | AICTE-Approved MITSDE",
-        "image": "https://mitsde.com/assets-new/images/project-management.webp",
+        "image": "https://mitsde.com/assets-new/images/banner/international-business.webp",
         "description": "Advance your career with MITSDE’s 15-month AICTE-approved PGDM Executive in International Business. Learn global trade, cross-border strategy & international finance online.",
         "brand": {
             "@type": "Brand",
@@ -161,7 +161,7 @@
                 </div>
 
                 <div class="ph-right">
-                    <img src="assets-new/images/project-management.webp" alt="PGDM Executive in International Business" />
+                    <img src="assets-new/images/banner/international-business.webp" alt="PGDM Executive in International Business" />
                 </div>
 
             </div><!-- /ph-layout -->

@@ -25,7 +25,7 @@
     <meta property="og:url" content="https://mitsde.com/post-graduate-certificate-in-business-analytics">
     <meta property="og:description" content="Advance your career with MITSDE's business analytics certification in Pune. Learn business intelligence, data analytics, and predictive modeling through an industry-focused online PG course.">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/assets/images/course/pgdm-exe/PGCM-Business-Analytics.jpg">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/banner/business-analytics.webp">
 
 
     <!-- / OG TAG -->
@@ -43,7 +43,7 @@
         "@context": "https://schema.org/",
         "@type": "Product",
         "name": "Best Online PG Business Analytics Course & Certification in Pune | MITSDE",
-        "image": "https://mitsde.com/assets/images/course/business/post-graduate-certificate-in-business-analytics.png",
+        "image": "https://mitsde.com/assets-new/images/banner/business-analytics.webp",
         "description": "Advance your career with MITSDE's business analytics certification in Pune. Learn business intelligence, data analytics, and predictive modeling through an industry-focused online PG course.",
         "brand": {
             "@type": "Brand",
@@ -216,7 +216,7 @@
                 </div>
 
                 <div class="ph-right">
-                    <img src="assets-new/images/project-management.webp" alt="PGCM in Business Analytics" />
+                    <img src="assets-new/images/banner/business-analytics.webp" alt="PGCM in Business Analytics" />
                 </div>
 
             </div><!-- /ph-layout -->

@@ -24,7 +24,7 @@
     <meta property="og:url" content="https://mitsde.com/pgdm-executive-in-global-logistics-and-supply-chain-management">
     <meta property="og:description" content="Distance Executive PGDM in Global Logistics & Supply Chain Management is the perfect solution for professionals looking to enter the global logistics market.">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/assets/images/course/pgdm-exe/PGDM-Executive-Global-Logistics-&-Supply-Chain-Management.jpg">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/banner/supply-chain-management.webp">
 
     <!-- / OG TAG -->
 
@@ -41,7 +41,7 @@
         "@context": "https://schema.org/",
         "@type": "Product",
         "name": "PGDM Executive in Digital Marketing Online | AICTE-Approved MITSDE",
-        "image": "https://mitsde.com/assets-new/images/course/pgdm-exe/PGDM-Executive-Digital-Marketing.png",
+        "image": "https://mitsde.com/assets-new/images/banner/supply-chain-management.webp",
         "description": "Enhance your career with MITSDE’s 15-month AICTE-approved PGDM Executive in Digital Marketing. Learn SEO, SEM, analytics & leadership online.",
         "brand": {
             "@type": "Brand",
@@ -70,7 +70,7 @@
         "@context": "https://schema.org/",
         "@type": "Product",
         "name": "PGDM Executive in Global Logistics & Supply Chain Management",
-        "image": "https://mitsde.com/assets/images/course/pgdm-exe/PGDM-Executive-Global-Logistics-&-Supply-Chain-Management.jpg",
+        "image": "https://mitsde.com/assets-new/images/banner/supply-chain-management.webp",
         "description": "Distance Executive PGDM in Global Logistics & Supply Chain Management is the perfect solution for professionals looking to enter the global logistics market.",
         "brand": {
             "@type": "Brand",
@@ -253,7 +253,7 @@
                 </div>
 
                 <div class="ph-right">
-                    <img src="assets-new/images/project-management.webp" alt="PGDM Executive In Global Logistics & Supply Chain Management" />
+                    <img src="assets-new/images/banner/supply-chain-management.webp" alt="PGDM Executive In Global Logistics & Supply Chain Management" />
                 </div>
 
             </div><!-- /ph-layout -->

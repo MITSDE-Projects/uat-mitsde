@@ -24,7 +24,7 @@
     <meta property="og:url" content="https://mitsde.com/pgdm-executive-in-business-analytics">
     <meta property="og:description" content="Advance your career with MITSDE’s 15-month AICTE-approved PGDM Executive in Business Analytics. Learn data analytics, BI tools & strategic decision-making online.">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/assets/images/course/pgdm-exe/PGDM-Executive-Business-Analytics.png">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/banner/business-analytics.webp">
 
     <!-- / OG TAG -->
 
@@ -36,41 +36,11 @@
     <link rel="stylesheet" href="css-new/styles.css" />
     <link rel="stylesheet" href="css-new/intlTelInput.css">
 
-   <script type="application/ld+json">
-    {
-        "@context": "https://schema.org/",
-        "@type": "Product",
-        "name": "PGDM Executive in Business Analytics Online | AICTE-Approved MITSDE",
-        "image": "https://mitsde.com/assets/images/course/pgdm-exe/PGDM-Executive-Business-Analytics.png",
-        "description": "Advance your career with MITSDE’s 15-month AICTE-approved PGDM Executive in Business Analytics. Learn data analytics, BI tools & strategic decision-making online.",
-        "brand": {
-            "@type": "Brand",
-            "name": "MITSDE"
-        },
-        "offers": {
-            "@type": "Offer",
-            "url": "https://mitsde.com/pgdm-executive-in-business-analytics",
-            "priceCurrency": "INR",
-            "price": "95000",
-            "priceValidUntil": "2026-12-31",
-            "availability": "https://schema.org/InStock",
-            "itemCondition": "https://schema.org/NewCondition"
-        },
-        "aggregateRating": {
-            "@type": "AggregateRating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1",
-            "ratingCount": "10"
-        }
-    }
-    </script>
-
     <script type="application/ld+json">{
         "@context": "https://schema.org/",
         "@type": "Product",
         "name": "PGDM Executive in Business Analytics Online | AICTE-Approved MITSDE",
-        "image": "https://mitsde.com/assets/images/course/pgdm-exe/PGDM-Executive-Business-Analytics.png",
+        "image": "https://mitsde.com/assets-new/images/banner/business-analytics.webp",
         "description": "Advance your career with MITSDE’s 15-month AICTE-approved PGDM Executive in Business Analytics. Learn data analytics, BI tools & strategic decision-making online.",
         "brand": {
             "@type": "Brand",
@@ -214,7 +184,7 @@
                 </div>
 
                 <div class="ph-right">
-                    <img src="assets-new/images/project-management.webp" alt="PGDM Executive in Business Analytics" />
+                    <img src="assets-new/images/banner/business-analytics.webp" alt="PGDM Executive in Business Analytics" />
                 </div>
 
             </div><!-- /ph-layout -->

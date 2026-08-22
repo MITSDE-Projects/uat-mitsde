@@ -26,7 +26,7 @@
     <meta property="og:description"
         content="Enroll in the certification in operations management course at MITSDE. Learn industry-relevant skills online and advance your career with expert guidance.">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/assets-new/images/project-management.webp">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/banner/operations-management.webp">
     <!-- / OG TAG -->
 
     <link rel="icon" type="image/png" href="assets-new/images/favicon-mit.ico" />
@@ -42,7 +42,7 @@
         "@context": "https://schema.org/",
         "@type": "Product",
         "name": "Certification in Operations Management Course – MITSDE India",
-        "image": "https://mitsde.com/assets-new/images/project-management.webp",
+        "image": "https://mitsde.com/assets-new/images/banner/operations-management.webp",
         "description": "Enroll in the certification in operations management course at MITSDE. Learn industry-relevant skills online and advance your career with expert guidance.",
         "brand": {
             "@type": "Brand",
@@ -223,7 +223,7 @@
                 </div>
 
                 <div class="ph-right">
-                    <img src="assets-new/images/project-management.webp" alt="Certification in Operations Management" />
+                    <img src="assets-new/images/banner/operations-management.webp" alt="Certification in Operations Management" />
                 </div>
 
             </div><!-- /ph-layout -->

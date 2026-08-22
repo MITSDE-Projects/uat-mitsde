@@ -23,7 +23,7 @@
     <meta property="og:url" content="https://mitsde.com/pg-diploma-in-material-management">
     <meta property="og:description" content="Enrol for PGDM in Material Management and get placed in MNCs with industry expert guidence, Canvas LMS mobile app and 100% placement assistance.">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/assets-new/images/course/pgdm/pg-diploma-in-material-management.jpg">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/banner/material-management.webp">
 
 
     <!-- / OG TAG -->
@@ -45,7 +45,7 @@
 
             "name": "PGDM in Material Management Distance Learning | Online PGDM Material Management",
 
-            "image": "https://mitsde.com/assets-new/images/course/pgdm/pg-diploma-in-material-management.jpg",
+            "image": "https://mitsde.com/assets-new/images/banner/material-management.webp",
 
             "description": "Optimize your supply chain with MITSDE's online PGDM in Material Management. Master inventory control, procurement, and logistics for cost-efficiency.",
 
@@ -270,7 +270,7 @@
                 </div>
 
                 <div class="ph-right">
-                    <img src="assets-new/images/project-management.webp" alt="PG Diploma in Material Management" />
+                    <img src="assets-new/images/banner/material-management.webp" alt="PG Diploma in Material Management" />
                 </div>
 
             </div><!-- /ph-layout -->

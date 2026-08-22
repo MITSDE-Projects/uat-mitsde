@@ -24,7 +24,7 @@
     <meta property="og:url" content="https://mitsde.com/pgdm-executive-in-banking-finance">
     <meta property="og:description" content="Executive PG Diploma in Banking & Financial Services is designed for working professionals with updated syllabus, expert faculty and sel-paced learning.">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/assets/images/course/pgdm-exe/pgdm-executive-in-banking-finance.jpg">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/banner/banking-and-financial-services.webp">
 
     <!-- / OG TAG -->
 
@@ -36,41 +36,11 @@
     <link rel="stylesheet" href="css-new/styles.css" />
     <link rel="stylesheet" href="css-new/intlTelInput.css">
 
-   <script type="application/ld+json">
-    {
-        "@context": "https://schema.org/",
-        "@type": "Product",
-        "name": "PGDM Executive in Digital Marketing Online | AICTE-Approved MITSDE",
-        "image": "https://mitsde.com/assets-new/images/course/pgdm-exe/PGDM-Executive-Digital-Marketing.png",
-        "description": "Enhance your career with MITSDE’s 15-month AICTE-approved PGDM Executive in Digital Marketing. Learn SEO, SEM, analytics & leadership online.",
-        "brand": {
-            "@type": "Brand",
-            "name": "MITSDE"
-        },
-        "offers": {
-            "@type": "Offer",
-            "url": "https://mitsde.com/pgdm-executive-in-digital-marketing",
-            "priceCurrency": "INR",
-            "price": "95000",
-            "priceValidUntil": "2026-12-31",
-            "availability": "https://schema.org/InStock",
-            "itemCondition": "https://schema.org/NewCondition"
-        },
-        "aggregateRating": {
-            "@type": "AggregateRating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1",
-            "ratingCount": "10"
-        }
-    }
-    </script>
-
     <script type="application/ld+json">{
         "@context": "https://schema.org/",
         "@type": "Product",
         "name": "PGDM Executive Banking & Financial Services| Executive courses",
-        "image": "https://mitsde.com/assets/images/course/pgdm-exe/pgdm-executive-in-banking-finance.jpg",
+        "image": "https://mitsde.com/assets-new/images/banner/banking-and-financial-services.webp",
         "description": "Executive PG Diploma in Banking & Financial Services is designed for working professionals with updated syllabus, expert faculty and sel-paced learning.",
         "brand": {
             "@type": "Brand",
@@ -253,7 +223,7 @@
                 </div>
 
                 <div class="ph-right">
-                    <img src="assets-new/images/project-management.webp" alt="PGDM Executive In Banking & Financial Services" />
+                    <img src="assets-new/images/banner/banking-and-financial-services.webp" alt="PGDM Executive In Banking & Financial Services" />
                 </div>
 
             </div><!-- /ph-layout -->

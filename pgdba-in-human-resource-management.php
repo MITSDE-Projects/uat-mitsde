@@ -28,7 +28,7 @@
     <meta property="og:description"
         content="2-year PGDBA in Human Resource Management (Business Administration) covers HRM essentials, global practices by experts offers 100% placement assistance">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/assets-new/images/course/pgdba/Human-Resource-Management.jpg">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/banner/human-resource-management.webp">
 
     <!-- / OG TAG -->
 
@@ -36,7 +36,7 @@
     <meta name="twitter:title" content="PGDBA in Human Resource Management | Business Administration">
     <meta name="twitter:description"
         content="2-year PGDBA in Human Resource Management (Business Administration) covers HRM essentials, global practices by experts offers 100% placement assistance">
-    <meta name="twitter:image" content="https://mitsde.com/assets-new/images/course/pgdba/Human-Resource-Management.jpg">
+    <meta name="twitter:image" content="https://mitsde.com/assets-new/images/banner/human-resource-management.webp">
     <meta name="twitter:image:alt" content="PGDBA in Human Resource Management | Business Administration">
 
     <link rel="icon" type="image/png" href="assets-new/images/favicon-mit.ico" />
@@ -52,7 +52,7 @@
             "@context": "https://schema.org/",
             "@type": "Product",
             "name": "PGDBA in Human Resource Management | Business Administration",
-            "image": "https://mitsde.com/assets-new/images/course/pgdba/Human-Resource-Management.jpg",
+            "image": "https://mitsde.com/assets-new/images/banner/human-resource-management.webp",
             "description": "2-year PGDBA in Human Resource Management (Business Administration) covers HRM essentials, global practices by experts offers 100% placement assistance",
             "brand": {
                 "@type": "Brand",
@@ -260,7 +260,7 @@
                 </div>
 
                 <div class="ph-right">
-                    <img src="assets-new/images/emba.webp" alt="PGDBA in Human Resource Management" />
+                    <img src="assets-new/images/banner/human-resource-management.webp" alt="PGDBA in Human Resource Management" />
                 </div>
 
             </div><!-- /ph-layout -->

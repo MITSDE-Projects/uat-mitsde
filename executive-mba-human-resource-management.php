@@ -22,7 +22,7 @@
     <meta property="og:url" content="https://mitsde.com/executive-mba-human-resource-management">
     <meta property="og:description" content="EMBA in HR Management: Develop leadership acumen, optimize talent, and drive organizational success through effective human resource strategies in this executive-level program">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/assets-new/images/finance-management.webp">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/banner/human-resource-management.webp">
 
 
     <!-- twitter tag -->
@@ -31,7 +31,7 @@
     <meta name="twitter:description"
         content="EMBA in HR Management: Develop leadership acumen, optimize talent, and drive organizational success through effective human resource strategies in this executive-level program">
     <meta name="twitter:image"
-        content="https://mitsde.com/assets-new/images/finance-management.webp">
+        content="https://mitsde.com/assets-new/images/banner/human-resource-management.webp">
     <meta name="twitter:image:alt" content="Executive MBA in Human Resource Management">
 
 
@@ -49,7 +49,7 @@
             "@context": "https://schema.org/",
             "@type": "Product",
             "name": "Executive MBA in Human Resource Management | Online EMBA",
-            "image": "https://mitsde.com/assets-new/images/finance-management.webp",
+            "image": "https://mitsde.com/assets-new/images/banner/human-resource-management.webp",
             "description": "EMBA in HR Management: Develop leadership acumen, optimize talent, and drive organizational success through effective human resource strategies in this executive-level program",
             "brand": {
                 "@type": "Brand",
@@ -142,7 +142,7 @@
 
                 <!-- Center — hero image -->
                 <div class="ph-right">
-                    <img src="assets-new/images/finance-management.webp" alt="Human Resource Management Image" />
+                    <img src="assets-new/images/banner/human-resource-management.webp" alt="Human Resource Management Image" />
                 </div>
 
                 <!-- Right — registration form card -->

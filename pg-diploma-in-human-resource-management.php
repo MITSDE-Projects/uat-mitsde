@@ -24,7 +24,7 @@
     <meta property="og:description"
         content="Online PG Diploma in Human Resource Management at MITSDE is an AICTE-approved online program with 40+ years of educational legacy, flexible learning, and 100% placement support. Admissions open for 2026.">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/assets-new/images/Human-Resource-Management.jpg">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/banner/human-resource-management.webp">
 
 
     <!-- / OG TAG -->
@@ -42,7 +42,7 @@
             "@context": "https://schema.org/",
             "@type": "Product",
             "name": "Distance PGDM In Human Resourse Management | Online PGDM in HR",
-            "image": "https://mitsde.com/assets-new/images/course/pgdm/EMBA-Human-Resource-Management.jpg",
+            "image": "https://mitsde.com/assets-new/images/banner/human-resource-management.webp",
             "description": "Online PG Diploma in Human Resource Management at MITSDE is an AICTE-approved online program with 40+ years of educational legacy, flexible learning, and 100% placement support. Admissions open for 2026.",
             "brand": {
                 "@type": "Brand",
@@ -251,7 +251,7 @@
                 </div>
 
                 <div class="ph-right">
-                    <img src="assets-new/images/project-management.webp" alt="Human Resource Management Image" />
+                    <img src="assets-new/images/banner/human-resource-management.webp" alt="Human Resource Management Image" />
                 </div>
 
             </div><!-- /ph-layout -->

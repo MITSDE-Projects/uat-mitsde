@@ -26,7 +26,7 @@
     <meta property="og:description"
         content="Explore top finance certifications in India with MITSDE's flexible online and distance learning options. Enroll in certification courses in financial services to boost your finance career.">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/assets-new/images/project-management.webp">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/banner/finance-management.webp">
     <!-- / OG TAG -->
 
     <link rel="icon" type="image/png" href="assets-new/images/favicon-mit.ico" />
@@ -42,7 +42,7 @@
         "@context": "https://schema.org/",
         "@type": "Product",
         "name": "Certification in Finance Management MITSDE",
-        "image": "https://mitsde.com/assets-new/images/project-management.webp",
+        "image": "https://mitsde.com/assets-new/images/banner/finance-management.webp",
         "description": "Excel in finance management with our certification by MITSDE. Develop skills in financial analysis, risk management, and strategic planning. Enroll now for career advancement!",
         "brand": {
             "@type": "Brand",
@@ -223,7 +223,7 @@
                 </div>
 
                 <div class="ph-right">
-                    <img src="assets-new/images/project-management.webp" alt="Certification in Finance Management" />
+                    <img src="assets-new/images/banner/finance-management.webp" alt="Certification in Finance Management" />
                 </div>
 
             </div><!-- /ph-layout -->

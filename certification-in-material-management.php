@@ -26,7 +26,7 @@
     <meta property="og:description"
         content="Gain certification in material management. Perfect for advancing your skills in inventory control and supply chain efficiency. Enroll now">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/assets-new/images/project-management.webp">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/banner/material-management.webp">
     <!-- / OG TAG -->
 
     <link rel="icon" type="image/png" href="assets-new/images/favicon-mit.ico" />
@@ -42,7 +42,7 @@
         "@context": "https://schema.org/",
         "@type": "Product",
         "name": "Certification in Material Management | MITSDE",
-        "image": "https://mitsde.com/assets-new/images/project-management.webp",
+        "image": "https://mitsde.com/assets-new/images/banner/material-management.webp",
         "description": "Gain certification in material management. Perfect for advancing your skills in inventory control and supply chain efficiency. Enroll now",
         "brand": {
             "@type": "Brand",
@@ -223,7 +223,7 @@
                 </div>
 
                 <div class="ph-right">
-                    <img src="assets-new/images/project-management.webp" alt="Certification in Material Management" />
+                    <img src="assets-new/images/banner/material-management.webp" alt="Certification in Material Management" />
                 </div>
 
             </div><!-- /ph-layout -->

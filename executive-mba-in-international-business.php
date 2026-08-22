@@ -17,7 +17,7 @@
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="Executive MBA International Business Program | MITSDE">
     <meta name="twitter:description" content="Advance your career with MITSDE's Executive MBA in International Business. Gain expertise in global business, trade policies, logistics, and forex management.">
-    <meta name="twitter:image" content="https://mitsde.com/assets-new/images/finance-management.webp">
+    <meta name="twitter:image" content="https://mitsde.com/assets-new/images/banner/international-business.webp">
     <meta name="twitter:image:alt" content="Executive MBA in International Business Program">
 
     <!-- CANONICAL TAG -->
@@ -143,7 +143,7 @@
 
                 <!-- Center — hero image -->
                 <div class="ph-right">
-                    <img src="assets-new/images/finance-management.webp" alt="EMBA in International Business" />
+                    <img src="assets-new/images/banner/international-business.webp" alt="EMBA in International Business" />
                 </div>
 
                 <!-- Right — registration form card -->

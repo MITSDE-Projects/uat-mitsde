@@ -28,7 +28,7 @@
     <meta property="og:description"
         content="Advance your career with MITSDE’s PGDBA in Finance (Business Administration) Master financial planning, analysis, and investment strategies with experts.">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/assets-new/images/course/pgdba/Finance-Management.jpg">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/banner/finance-management.webp">
 
     <!-- / OG TAG -->
 
@@ -36,7 +36,7 @@
     <meta name="twitter:title" content="PGDBA in Finance Management | Business Administration - MITSDE">
     <meta name="twitter:description"
         content="Advance your career with MITSDE’s PGDBA in Finance (Business Administration) Master financial planning, analysis, and investment strategies with experts.">
-    <meta name="twitter:image" content="https://mitsde.com/assets-new/images/course/pgdba/Finance-Management.jpg">
+    <meta name="twitter:image" content="https://mitsde.com/assets-new/images/banner/finance-management.webp">
     <meta name="twitter:image:alt" content="PGDBA in Finance Management | Business Administration - MITSDE">
 
     <link rel="icon" type="image/png" href="assets-new/images/favicon-mit.ico" />
@@ -52,7 +52,7 @@
             "@context": "https://schema.org/",
             "@type": "Product",
             "name": "PGDBA in Finance Management | Business Administration - MITSDE",
-            "image": "https://mitsde.com/assets-new/images/course/pgdba/Finance-Management.jpg",
+            "image": "https://mitsde.com/assets-new/images/banner/finance-management.webp",
             "description": "Advance your career with MITSDE’s PGDBA in Finance (Business Administration) Master financial planning, analysis, and investment strategies with experts.",
             "brand": {
                 "@type": "Brand",
@@ -260,7 +260,7 @@
                 </div>
 
                 <div class="ph-right">
-                    <img src="assets-new/images/emba.webp" alt="PGDBA in Finance Management" />
+                    <img src="assets-new/images/banner/finance-management.webp" alt="PGDBA in Finance Management" />
                 </div>
 
             </div><!-- /ph-layout -->

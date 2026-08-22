@@ -17,7 +17,7 @@
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="Executive MBA in Supply Chain Management | MITSDE">
     <meta name="twitter:description" content="Pursue an Executive MBA in Supply Chain Management from MITSDE Pune. Learn logistics, procurement, inventory, transportation, and supply chain strategy.">
-    <meta name="twitter:image" content="https://mitsde.com/assets-new/images/finance-management.webp">
+    <meta name="twitter:image" content="https://mitsde.com/assets-new/images//banner/supply-chain-management.webp">
     <meta name="twitter:image:alt" content="Executive MBA in Supply Chain Management">
 
     <!-- CANONICAL TAG -->
@@ -33,7 +33,7 @@
     <meta property="og:url" content="https://mitsde.com/executive-mba-in-supply-chain-management">
     <meta property="og:description" content="Pursue an Executive MBA in Supply Chain Management from MITSDE Pune. Learn logistics, procurement, inventory, transportation, and supply chain strategy.">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/assets-new/images/finance-management.webp">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/banner/supply-chain-management.webp">
 
     <!-- / OG TAG -->
 
@@ -50,7 +50,7 @@
             "@context": "https://schema.org/",
             "@type": "Product",
             "name": "Executive MBA in Supply Chain Management | MITSDE",
-            "image": "https://mitsde.com/assets-new/images/course/ex-mba/Supply-Chain-Management.jpg",
+            "image": "https://mitsde.com/assets-new/images/banner/supply-chain-management.webp",
             "description": "Pursue an Executive MBA in Supply Chain Management from MITSDE Pune. Learn logistics, procurement, inventory, transportation, and supply chain strategy.",
             "brand": {
                 "@type": "Brand",
@@ -143,7 +143,7 @@
 
                 <!-- Center — hero image -->
                 <div class="ph-right">
-                    <img src="assets-new/images/finance-management.webp" alt="EMBA in Supply Chain Management" />
+                    <img src="assets-new/images/banner/supply-chain-management.webp" alt="EMBA in Supply Chain Management" />
                 </div>
 
                 <!-- Right — registration form card -->

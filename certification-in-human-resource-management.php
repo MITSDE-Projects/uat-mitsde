@@ -26,7 +26,7 @@
     <meta property="og:description"
         content="Upgrade your expertise with MITSDE’s certification in HR management course. Learn online, enhance HR skills, and grow professionally.">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/assets-new/images/project-management.webp">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/banner/human-resource-management.webp">
     <!-- / OG TAG -->
 
     <link rel="icon" type="image/png" href="assets-new/images/favicon-mit.ico" />
@@ -42,7 +42,7 @@
         "@context": "https://schema.org/",
         "@type": "Product",
         "name": "Certification in HR Management Course – MITSDE India",
-        "image": "https://mitsde.com/assets-new/images/project-management.webp",
+        "image": "https://mitsde.com/assets-new/images/banner/human-resource-management.webp",
         "description": "Upgrade your expertise with MITSDE’s certification in HR management course. Learn online, enhance HR skills, and grow professionally.",
         "brand": {
             "@type": "Brand",
@@ -223,7 +223,7 @@
                 </div>
 
                 <div class="ph-right">
-                    <img src="assets-new/images/project-management.webp" alt="Certification in Human Resource Management" />
+                    <img src="assets-new/images/banner/human-resource-management.webp" alt="Certification in Human Resource Management" />
                 </div>
 
             </div><!-- /ph-layout -->

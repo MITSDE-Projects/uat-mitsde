@@ -23,7 +23,7 @@
     <meta property="og:url" content="https://mitsde.com/pg-diploma-in-banking-finance">
     <meta property="og:description" content="Advance your career with an Online PGDM in Banking and Finance Services. Learn banking operations, financial planning, and investment strategies for success.">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/assets-new/images/course/pgdm/pg-diploma-in-banking-finance.jpg">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/banner/banking-and-financial-services.webp">
 
 
     <!-- / OG TAG -->
@@ -45,7 +45,7 @@
 
             "name": "Online PGDM in Banking and Finance Services",
 
-            "image": "https://mitsde.com/assets-new/images/course/pgdm/pg-diploma-in-banking-finance.jpg",
+            "image": "https://mitsde.com/assets-new/images/banner/banking-and-financial-services.webp",
 
             "description": "Advance your career with an Online PGDM in Banking and Finance Services. Learn banking operations, financial planning, and investment strategies for success.",
 
@@ -270,7 +270,7 @@
                 </div>
 
                 <div class="ph-right">
-                    <img src="assets-new/images/project-management.webp" alt="PG Diploma in Banking and Financial Services" />
+                    <img src="assets-new/images/banner/banking-and-financial-services.webp" alt="PG Diploma in Banking and Financial Services" />
                 </div>
 
             </div><!-- /ph-layout -->

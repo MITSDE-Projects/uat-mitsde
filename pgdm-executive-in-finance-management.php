@@ -24,7 +24,7 @@
     <meta property="og:url" content="https://mitsde.com/pgdm-executive-in-finance-management">
     <meta property="og:description" content="Executive PG Diploma in Finance Management a one and half year distance learning program, offers holistic learning experience and self-paced learning.">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="assets/images/course/pgdm-exe/PGDM-Executive-Finance-Management.jpg">
+    <meta property="og:image" content="assets-new/images/banner/finance-management.webp">
 
     <!-- / OG TAG -->
 
@@ -41,7 +41,7 @@
         "@context": "https://schema.org/",
         "@type": "Product",
         "name": "PGDM Executive in Digital Marketing Online | AICTE-Approved MITSDE",
-        "image": "https://mitsde.com/assets-new/images/course/pgdm-exe/PGDM-Executive-Digital-Marketing.png",
+        "image": "https://mitsde.com/assets-new/images/banner/finance-management.webp",
         "description": "Enhance your career with MITSDE’s 15-month AICTE-approved PGDM Executive in Digital Marketing. Learn SEO, SEM, analytics & leadership online.",
         "brand": {
             "@type": "Brand",
@@ -70,7 +70,7 @@
         "@context": "https://schema.org/",
         "@type": "Product",
         "name": "PGDM Executive in Finance Management | Executive courses",
-        "image": "https://mitsde.com/assets/images/course/pgdm-exe/PGDM-Executive-Finance-Management.jpg",
+        "image": "https://mitsde.com/assets-new/images/banner/finance-management.webp",
         "description": "Executive PG Diploma in Finance Management a one and half year distance learning program, offers holistic learning experience and self-paced learning.",
         "brand": {
             "@type": "Brand",
@@ -245,7 +245,7 @@
                 </div>
 
                 <div class="ph-right">
-                    <img src="assets-new/images/project-management.webp" alt="PGDM Executive In Finance Management" />
+                    <img src="assets-new/images/banner/finance-management.webp" alt="PGDM Executive In Finance Management" />
                 </div>
 
             </div><!-- /ph-layout -->
