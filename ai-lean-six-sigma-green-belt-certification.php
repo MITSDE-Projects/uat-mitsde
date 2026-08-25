@@ -450,15 +450,15 @@
 
                         <!-- 1 -->
                         <tr>
-                            <th><b>1</b></th>
-                            <th><b>Quality Defined</b> – VOC, CTQ, KANO Model.</th>
+                            <td><b>1</b></td>
+                            <td><b>Quality Defined</b> – VOC, CTQ, KANO Model.</td>
                         </tr>
 
 
                         <!-- 2 -->
                         <tr>
-                            <th><b>2</b></th>
-                            <th><b>The Process Approach: CTPS</b></th>
+                            <td><b>2</b></td>
+                            <td><b>The Process Approach: CTPS</b></td>
                         </tr>
                         <tr>
                             <td></td>
@@ -468,8 +468,8 @@
 
                         <!-- 3 -->
                         <tr>
-                            <th><b>3</b></th>
-                            <th><b>Evolution of the Quality Function</b></th>
+                            <td><b>3</b></td>
+                            <td><b>Evolution of the Quality Function</b></td>
                         </tr>
                         <tr>
                             <td></td>
@@ -499,8 +499,8 @@
 
                         <!-- 4 -->
                         <tr>
-                            <th><b>4</b></th>
-                            <th><b>Cross-Functional Cooperation / Boundary-less Collaboration</b></th>
+                            <td><b>4</b></td>
+                            <td><b>Cross-Functional Cooperation / Boundary-less Collaboration</b></td>
                         </tr>
                         <tr>
                             <td></td>
@@ -510,8 +510,8 @@
 
                         <!-- 5 -->
                         <tr>
-                            <th><b>5</b></th>
-                            <th><b>The Process Approach: CTPS</b></th>
+                            <td><b>5</b></td>
+                            <td><b>The Process Approach: CTPS</b></td>
                         </tr>
                         <tr>
                             <td></td>
@@ -521,15 +521,15 @@
 
                         <!-- 6 -->
                         <tr>
-                            <th><b>6</b></th>
-                            <th><b>DPU &amp; DPMO – Calculating Process Capability</b></th>
+                            <td><b>6</b></td>
+                            <td><b>DPU &amp; DPMO – Calculating Process Capability</b></td>
                         </tr>
 
 
                         <!-- 7 -->
                         <tr>
-                            <th><b>7</b></th>
-                            <th><b>Cost of Quality</b> – Impacting On Sigma Level Of A Process</th>
+                            <td><b>7</b></td>
+                            <td><b>Cost of Quality</b> – Impacting On Sigma Level Of A Process</td>
                         </tr>
                         <tr>
                             <td></td>
@@ -539,15 +539,15 @@
 
                         <!-- 8 -->
                         <tr>
-                            <th><b>8</b></th>
-                            <th><b>Motorola's journey from 3.4 to 6.0 sigma</b></th>
+                            <td><b>8</b></td>
+                            <td><b>Motorola's journey from 3.4 to 6.0 sigma</b></td>
                         </tr>
 
 
                         <!-- 9 -->
                         <tr>
-                            <th><b>9</b></th>
-                            <th><b>Lean Six Sigma – basic principles</b></th>
+                            <td><b>9</b></td>
+                            <td><b>Lean Six Sigma – basic principles</b></td>
                         </tr>
                         <tr>
                             <td></td>
@@ -557,8 +557,8 @@
 
                         <!-- 10 -->
                         <tr>
-                            <th><b>10</b></th>
-                            <th><b>Importance of studying variation in Lean Six Sigma</b></th>
+                            <td><b>10</b></td>
+                            <td><b>Importance of studying variation in Lean Six Sigma</b></td>
                         </tr>
                         <tr>
                             <td></td>
@@ -588,8 +588,8 @@
 
                         <!-- 11 -->
                         <tr>
-                            <th><b>11</b></th>
-                            <th><b>Seven tools of quality:</b></th>
+                            <td><b>11</b></td>
+                            <td><b>Seven tools of quality:</b></td>
                         </tr>
                         <tr>
                             <td></td>
@@ -627,8 +627,8 @@
 
                         <!-- 12 -->
                         <tr>
-                            <th><b>12</b></th>
-                            <th><b>Use of SPC (Statistical Process Control)</b></th>
+                            <td><b>12</b></td>
+                            <td><b>Use of SPC (Statistical Process Control)</b></td>
                         </tr>
                         <tr>
                             <td></td>
@@ -646,8 +646,8 @@
 
                         <!-- 13 -->
                         <tr>
-                            <th><b>13</b></th>
-                            <th><b>Seven types of Control Charts and their interpretation</b></th>
+                            <td><b>13</b></td>
+                            <td><b>Seven types of Control Charts and their interpretation</b></td>
                         </tr>
                         <tr>
                             <td></td>
@@ -657,8 +657,8 @@
 
                         <!-- 14 -->
                         <tr>
-                            <th><b>14</b></th>
-                            <th><b>DMAIC METHODOLOGY for Implementing Lean Six Sigma Projects To Achieve Process Excellence.</b></th>
+                            <td><b>14</b></td>
+                            <td><b>DMAIC METHODOLOGY for Implementing Lean Six Sigma Projects To Achieve Process Excellence.</b></td>
                         </tr>
                         <tr>
                             <td></td>
@@ -688,29 +688,29 @@
 
                         <!-- 15 -->
                         <tr>
-                            <th><b>15</b></th>
-                            <th><b>Failure Mode &amp; Effect Analysis (FMEA)</b></th>
+                            <td><b>15</b></td>
+                            <td><b>Failure Mode &amp; Effect Analysis (FMEA)</b></td>
                         </tr>
 
 
                         <!-- 16 -->
                         <tr>
-                            <th><b>16</b></th>
-                            <th><b>Use of Lean Tools in Lean Six Sigma</b></th>
+                            <td><b>16</b></td>
+                            <td><b>Use of Lean Tools in Lean Six Sigma</b></td>
                         </tr>
 
 
                         <!-- 17 -->
                         <tr>
-                            <th><b>17</b></th>
-                            <th><b>Value Stream Process Mapping</b></th>
+                            <td><b>17</b></td>
+                            <td><b>Value Stream Process Mapping</b></td>
                         </tr>
 
 
                         <!-- 18 -->
                         <tr>
-                            <th><b>18</b></th>
-                            <th><b>AI applications in Six Sigma - Use cases</b></th>
+                            <td><b>18</b></td>
+                            <td><b>AI applications in Six Sigma - Use cases</b></td>
                         </tr>
 
                     </table>
