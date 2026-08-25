@@ -432,148 +432,288 @@
             </div>
         </section>
 
-        <section id="training-content" class="enroll-certification">
+        <section id="training-content" class="enroll-certification pb-5">
             <div class="container">
                 <div class="row">
 
                     <div class="col-md-12 col-lg-12 fintech-certi aboutMit-skills">
-                        <h2>Training Content</h2>
+                        <h2>AI-Lean Six Sigma Green Belt - Training Content</h2>
                     </div>
 
-                    <div class="col-md-12 col-lg-12 fintech-certi fin-feature hero11">
+                    <table class="table">
 
-                        <ol class="fin-feature1" style="list-style-type: decimal;">
+                        <!-- title -->
+                        <tr>
+                            <th><b>SR No.</b></th>
+                            <th><b>Topic</th>
+                        </tr>
 
-                            <li>
-                                <strong>Quality Defined</strong> – VOC, CTQ, KANO Model.
-                            </li>
+                        <!-- 1 -->
+                        <tr>
+                            <th><b>1</b></th>
+                            <th><b>Quality Defined</b> – VOC, CTQ, KANO Model.</th>
+                        </tr>
 
-                            <li>
-                                <strong>The Process Approach: CTPS</strong>
-                                <ul>
-                                    <li>Improving Effectiveness &amp; Efficiency of Processes</li>
-                                </ul>
-                            </li>
 
-                            <li>
-                                <strong>Evolution of the Quality Function</strong>
-                                <ul>
-                                    <li>Appraisal &amp; Prevention in Processes using ICD &amp; RCO Preventions</li>
-                                    <li>Root Cause Analysis (RCA)</li>
-                                    <li>Correction, Corrective Action, Preventive Action</li>
-                                    <li>Goals of Lean Six Sigma</li>
-                                    <li>Team Formation for Lean Six Sigma Projects – Implementation</li>
-                                    <li>Selecting Organization's Pain areas for implementing Lean Six Sigma Projects</li>
-                                </ul>
-                            </li>
+                        <!-- 2 -->
+                        <tr>
+                            <th><b>2</b></th>
+                            <th><b>The Process Approach: CTPS</b></th>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>Improving Effectiveness &amp; Efficiency of Processes</td>
+                        </tr>
 
-                            <li>
-                                <strong>Cross-Functional Cooperation / Boundary-less Collaboration</strong>
-                                <ul>
-                                    <li>Route for achievement of QCD Goals to deliver VALUE to organization</li>
-                                </ul>
-                            </li>
 
-                            <li>
-                                <strong>The Process Approach: CTPS</strong>
-                                <ul>
-                                    <li>Improving Effectiveness &amp; Efficiency of Processes</li>
-                                </ul>
-                            </li>
+                        <!-- 3 -->
+                        <tr>
+                            <th><b>3</b></th>
+                            <th><b>Evolution of the Quality Function</b></th>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>Appraisal &amp; Prevention in Processes using ICD &amp; RCO Preventions</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>Root Cause Analysis (RCA)</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>Correction, Corrective Action, Preventive Action</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>Goals of Lean Six Sigma</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>Team Formation for Lean Six Sigma Projects – Implementation</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>Selecting Organization's Pain areas for implementing Lean Six Sigma Projects</td>
+                        </tr>
 
-                            <li>
-                                <strong>DPU &amp; DPMO – Calculating Process Capability</strong>
-                            </li>
 
-                            <li>
-                                <strong>Cost of Quality</strong> – Impacting On Sigma Level Of A Process
-                                <ul>
-                                    <li>Phil Crosby's Findings</li>
-                                </ul>
-                            </li>
+                        <!-- 4 -->
+                        <tr>
+                            <th><b>4</b></th>
+                            <th><b>Cross-Functional Cooperation / Boundary-less Collaboration</b></th>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>Route for achievement of QCD Goals to deliver VALUE to organization</td>
+                        </tr>
 
-                            <li>
-                                <strong>Motorola's journey from 3.4 to 6.0 sigma</strong>
-                            </li>
 
-                            <li>
-                                <strong>Lean Six Sigma – basic principles</strong>
-                                <ul>
-                                    <li>Cultural changes required while implementing Lean Six Sigma</li>
-                                </ul>
-                            </li>
+                        <!-- 5 -->
+                        <tr>
+                            <th><b>5</b></th>
+                            <th><b>The Process Approach: CTPS</b></th>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>Improving Effectiveness &amp; Efficiency of Processes</td>
+                        </tr>
 
-                            <li>
-                                <strong>Importance of studying variation in Lean Six Sigma</strong>
-                                <ul>
-                                    <li>Introduction to Descriptive Statistics</li>
-                                    <li>Central Tendency (mean – median - mode)</li>
-                                    <li>Spread (range – standard deviation)</li>
-                                    <li>Use of Excel 'data analysis' tools for descriptive statistics</li>
-                                    <li>Interpreting presence of Assignable cause variation and Non-Assignable cause</li>
-                                    <li>Variation in processes using descriptive statistics</li>
-                                </ul>
-                            </li>
 
-                            <li>
-                                <strong>Seven tools of quality:</strong>
-                                <ol>
-                                    <li>Flowchart / Process map</li>
-                                    <li>Check-sheet</li>
-                                    <li>Pareto Chart</li>
-                                    <li>Histogram</li>
-                                    <li>Fishbone</li>
-                                    <li>Scatter Plot / Correlation Coefficient</li>
-                                    <li>Control Charts</li>
-                                </ol>
+                        <!-- 6 -->
+                        <tr>
+                            <th><b>6</b></th>
+                            <th><b>DPU &amp; DPMO – Calculating Process Capability</b></th>
+                        </tr>
 
-                                <p>
-                                    Quantitative exercises using excel data analytics.
-                                </p>
-                            </li>
 
-                            <li>
-                                <strong>Use of SPC (Statistical Process Control)</strong>
-                                <ul>
-                                    <li>Calculating Process Capability Cp, Cpk</li>
-                                    <li>Breakthrough Improvement and Continual Improvement</li>
-                                    <li>Exercises linked to above concepts</li>
-                                </ul>
-                            </li>
+                        <!-- 7 -->
+                        <tr>
+                            <th><b>7</b></th>
+                            <th><b>Cost of Quality</b> – Impacting On Sigma Level Of A Process</th>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>Phil Crosby's Findings</td>
+                        </tr>
 
-                            <li>
-                                <strong>Seven types of Control Charts and their interpretation</strong>
-                                <ul>
-                                    <li>Exercises linked to above charts</li>
-                                </ul>
-                            </li>
-                            <li>
-                                <strong>DMAIC METHODOLOGY for Implementing Lean Six Sigma Projects To Achieve Process Excellence. </strong>
-                                <ul>
-                                    <li>D - Define Phase</li>
-                                    <li>M - Measure Phase</li>
-                                    <li>A - Analyze Phase</li>
-                                    <li>I - Improve Phase</li>
-                                    <li>C - Control Phase</li>
-                                    <li>DMAIC CASE STUDY - Defect reduction</li>
-                                </ul>
-                            </li>
-                            <li>
-                                <strong>Failure Mode & Effect Analysis (FMEA) </strong>
-                            </li>
-                            <li>
-                                <strong>Use of Lean Tools in Lean Six Sigma </strong>
-                            </li>
-                            <li>
-                                <strong>Value Stream Process Mapping </strong>
-                            </li>
-                            <li>
-                                <strong>AI applications in Six Sigma - Use cases </strong>
-                            </li>
 
-                        </ol>
+                        <!-- 8 -->
+                        <tr>
+                            <th><b>8</b></th>
+                            <th><b>Motorola's journey from 3.4 to 6.0 sigma</b></th>
+                        </tr>
 
-                    </div>
+
+                        <!-- 9 -->
+                        <tr>
+                            <th><b>9</b></th>
+                            <th><b>Lean Six Sigma – basic principles</b></th>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>Cultural changes required while implementing Lean Six Sigma</td>
+                        </tr>
+
+
+                        <!-- 10 -->
+                        <tr>
+                            <th><b>10</b></th>
+                            <th><b>Importance of studying variation in Lean Six Sigma</b></th>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>Introduction to Descriptive Statistics</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>Central Tendency (mean – median - mode)</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>Spread (range – standard deviation)</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>Use of Excel 'data analysis' tools for descriptive statistics</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>Interpreting presence of Assignable cause variation and Non-Assignable cause</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>Variation in processes using descriptive statistics</td>
+                        </tr>
+
+
+                        <!-- 11 -->
+                        <tr>
+                            <th><b>11</b></th>
+                            <th><b>Seven tools of quality:</b></th>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>1. Flowchart / Process map</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>2. Check-sheet</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>3. Pareto Chart</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>4. Histogram</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>5. Fishbone</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>6. Scatter Plot / Correlation Coefficient</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>7. Control Charts</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>Quantitative exercises using excel data analytics.</td>
+                        </tr>
+
+
+                        <!-- 12 -->
+                        <tr>
+                            <th><b>12</b></th>
+                            <th><b>Use of SPC (Statistical Process Control)</b></th>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>Calculating Process Capability Cp, Cpk</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>Breakthrough Improvement and Continual Improvement</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>Exercises linked to above concepts</td>
+                        </tr>
+
+
+                        <!-- 13 -->
+                        <tr>
+                            <th><b>13</b></th>
+                            <th><b>Seven types of Control Charts and their interpretation</b></th>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>Exercises linked to above charts</td>
+                        </tr>
+
+
+                        <!-- 14 -->
+                        <tr>
+                            <th><b>14</b></th>
+                            <th><b>DMAIC METHODOLOGY for Implementing Lean Six Sigma Projects To Achieve Process Excellence.</b></th>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>D - Define Phase</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>M - Measure Phase</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>A - Analyze Phase</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>I - Improve Phase</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>C - Control Phase</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>DMAIC CASE STUDY - Defect reduction</td>
+                        </tr>
+
+
+                        <!-- 15 -->
+                        <tr>
+                            <th><b>15</b></th>
+                            <th><b>Failure Mode &amp; Effect Analysis (FMEA)</b></th>
+                        </tr>
+
+
+                        <!-- 16 -->
+                        <tr>
+                            <th><b>16</b></th>
+                            <th><b>Use of Lean Tools in Lean Six Sigma</b></th>
+                        </tr>
+
+
+                        <!-- 17 -->
+                        <tr>
+                            <th><b>17</b></th>
+                            <th><b>Value Stream Process Mapping</b></th>
+                        </tr>
+
+
+                        <!-- 18 -->
+                        <tr>
+                            <th><b>18</b></th>
+                            <th><b>AI applications in Six Sigma - Use cases</b></th>
+                        </tr>
+
+                    </table>
 
                 </div>
             </div>
@@ -582,117 +722,45 @@
         <section>
             <div class="container">
                 <div class="row">
-                    <div class="cur-accordiaon mt-5">
-                        <h2 class="fw-bold ">Why This Course Is Right for You—Now, Not Later</h2>
-                        <div class="accordion curriculum-accordion" id="freQuestions">
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions12" aria-expanded="false" aria-controls="questions12">
-                                        Stay Ahead with AI
-                                    </button>
-                                </h2>
-                                <div id="questions12" class="accordion-collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body  hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>Learn AI-powered process improvement before it becomes an industry standard.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions13" aria-expanded="false" aria-controls="questions13">
-                                        Grow Your Career Faster
-                                    </button>
-                                </h2>
 
-                                <div id="questions13" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>Build in-demand skills that employers actively seek.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions14" aria-expanded="false" aria-controls="questions14">
-                                        Deliver Results Immediately
-                                    </button>
-                                </h2>
-
-                                <div id="questions14" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>Apply what you learn to improve quality, productivity, and costs.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions15" aria-expanded="false" aria-controls="questions15">
-                                        Stand Out from the Competition
-                                    </button>
-                                </h2>
-
-                                <div id="questions15" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>Earn a globally recognized certification that strengthens your profile.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions23" aria-expanded="false" aria-controls="questions15">
-                                        Future-Proof Your Skills
-                                    </button>
-                                </h2>
-
-                                <div id="questions23" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <p>Prepare for leadership roles in an AI-driven business environment.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                    <div class="col-md-12 col-lg-12 fintech-certi aboutMit-skills">
+                        <h2 class="fw-bold">
+                            Why This Course Is Right for You—Now, Not Later
+                        </h2>
                     </div>
+
+                    <div class="col-md-12 col-lg-12 fintech-certi fin-feature hero11">
+
+                        <ol class="fin-feature1" style="list-style-type: disc;">
+
+                            <li>
+                                <b>Stay Ahead with AI</b> – Learn AI-powered process improvement before it becomes
+                                an industry standard.
+                            </li>
+
+                            <li>
+                                <b>Grow Your Career Faster</b> – Build in-demand skills that employers actively seek.
+                            </li>
+
+                            <li>
+                                <b>Deliver Results Immediately</b> – Apply what you learn to improve quality,
+                                productivity, and costs.
+                            </li>
+
+                            <li>
+                                <b>Stand Out from the Competition</b> – Earn a globally recognized certification
+                                that strengthens your profile.
+                            </li>
+
+                            <li>
+                                <b>Future-Proof Your Skills</b> – Prepare for leadership roles in an AI-driven
+                                business environment.
+                            </li>
+
+                        </ol>
+
+                    </div>
+
                 </div>
             </div>
         </section>
@@ -1373,6 +1441,567 @@
                         </div>
                     </div>
 
+                </div>
+            </div>
+        </section>
+
+        <section id="certificates" class="enroll-certification pt-3">
+            <div class="container py-5">
+                <div class="col-md-12 col-lg-12 fintech-certi aboutMit-skills">
+                    <h2>Program Certification</h2>
+                </div>
+
+                <div class="col-12 col-md-6 col-lg-6">
+                    <img src="assets/images/course/cap/AI-LSSGB.webp" class="d-block w-100 border border-2 rounded" alt="Certificate"/>
+                </div>
+            </div>
+        </section>
+
+        <section id="faq">
+            <div class="container">
+                <div class="row">
+                    <div class="cur-accordiaon mt-5">
+
+                        <h2 class="fw-bold">Frequently Asked Questions (FAQs)</h2>
+
+                        <div class="accordion curriculum-accordion" id="freQuestions">
+
+                            <!-- FAQ 1 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#faqQuestion1"
+                                        aria-expanded="false"
+                                        aria-controls="faqQuestion1">
+                                        What is Lean Six Sigma Green Belt?
+                                    </button>
+                                </h2>
+
+                                <div id="faqQuestion1" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <p>
+                                                        Lean Six Sigma Green Belt is a professional program that develops
+                                                        management abilities in process improvement, waste reduction,
+                                                        data-driven problem-solving, quality improvement, and operational
+                                                        excellence using Lean Six Sigma methodologies.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <!-- FAQ 2 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#faqQuestion2"
+                                        aria-expanded="false"
+                                        aria-controls="faqQuestion2">
+                                        Who should join Lean Six Sigma Green Belt Program?
+                                    </button>
+                                </h2>
+
+                                <div id="faqQuestion2" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <p>
+                                                        The program is ideal for professionals involved in
+                                                        <b>Supply Chain Management (SCM), Procurement, Material Management,
+                                                            Logistics, Warehouse &amp; Inventory, Operations, Quality, and
+                                                            Project Management</b>.
+                                                        It is suitable for professionals looking to
+                                                        <b>reduce waste, optimise inventory, improve material flow, reduce
+                                                            lead time and costs, and lead Lean Six Sigma improvement projects</b>.
+                                                    </p>
+
+                                                    <p>
+                                                        The methodology can be applied across <b>any industry</b>,
+                                                        including manufacturing, automotive, healthcare, IT, BFSI,
+                                                        pharmaceuticals, retail, logistics, and service sectors.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <!-- FAQ 3 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#faqQuestion3"
+                                        aria-expanded="false"
+                                        aria-controls="faqQuestion3">
+                                        What is the accreditation for Lean Six Sigma?
+                                    </button>
+                                </h2>
+
+                                <div id="faqQuestion3" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <p>
+                                                        AIQM is accredited by the
+                                                        <b>Council for Six Sigma Certification (CSSC), USA</b>,
+                                                        one of the largest accreditation bodies across the globe.
+                                                        This accreditation strengthens the credibility and global recognition
+                                                        of the certifications offered by AIQM.
+                                                    </p>
+
+                                                    <p>
+                                                        Lean Six Sigma certifications offered by AIQM are
+                                                        <b>globally recognized and lifetime valid</b>,
+                                                        providing professionals with a valuable credential that remains valid
+                                                        throughout their careers.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <!-- FAQ 4 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#faqQuestion4"
+                                        aria-expanded="false"
+                                        aria-controls="faqQuestion4">
+                                        Who is eligible to join the Lean Six Sigma Green Belt Program?
+                                    </button>
+                                </h2>
+
+                                <div id="faqQuestion4" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <p>
+                                                        The Lean Six Sigma Green Belt Program is open to final-year graduation
+                                                        students, MBA students, BA/BComs/BTechs and working professionals
+                                                        from any industry. It is especially beneficial for professionals
+                                                        working in Supply Chain, Procurement, Project Management, Logistics,
+                                                        Quality, Operations, Manufacturing, and other functional domains.
+                                                    </p>
+
+                                                    <p>
+                                                        The course is suitable for both freshers and experienced professionals
+                                                        who want to develop management skills in process improvement,
+                                                        problem-solving, and operational excellence and build a great career.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <!-- FAQ 5 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#faqQuestion5"
+                                        aria-expanded="false"
+                                        aria-controls="faqQuestion5">
+                                        What methodology is covered in the Green Belt Program?
+                                    </button>
+                                </h2>
+
+                                <div id="faqQuestion5" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <p>
+                                                        The program primarily follows the
+                                                        <b>DMAIC methodology – Define, Measure, Analyze, Improve, and Control</b>,
+                                                        along with Lean principles and process improvement tools to implement
+                                                        Lean Six Sigma Green Belt projects in business scenarios.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <!-- FAQ 6 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#faqQuestion6"
+                                        aria-expanded="false"
+                                        aria-controls="faqQuestion6">
+                                        Is prior Lean Six Sigma knowledge required?
+                                    </button>
+                                </h2>
+
+                                <div id="faqQuestion6" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <p>
+                                                        No. Participants can join the program without prior Green Belt-level
+                                                        knowledge. The course is designed to build understanding progressively
+                                                        from Lean Six Sigma fundamentals to practical application.
+                                                    </p>
+
+                                                    <p>
+                                                        Our trainers use simple language and practical examples for faster
+                                                        understanding.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <!-- FAQ 7 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#faqQuestion7"
+                                        aria-expanded="false"
+                                        aria-controls="faqQuestion7">
+                                        Can professionals from non-manufacturing industries join?
+                                    </button>
+                                </h2>
+
+                                <div id="faqQuestion7" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <p>
+                                                        Yes. Lean Six Sigma can be applied across
+                                                        <b>manufacturing, IT, healthcare, banking, finance, BPO/KPO,
+                                                            logistics, supply chain, education, retail, and service industries</b>.
+                                                        The methodology focuses on improving processes, regardless of industry.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <!-- FAQ 8 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#faqQuestion8"
+                                        aria-expanded="false"
+                                        aria-controls="faqQuestion8">
+                                        What are the key benefits of becoming a Lean Six Sigma Green Belt?
+                                    </button>
+                                </h2>
+
+                                <div id="faqQuestion8" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <p>
+                                                        The program helps professionals develop
+                                                        <b>structured problem-solving, analytical thinking, process improvement,
+                                                            project management, waste reduction, quality improvement, and
+                                                            data-driven decision-making skills</b>
+                                                        and rise fast in their career.
+                                                    </p>
+
+                                                    <p>
+                                                        Management and IT professionals are seen to benefit greatly in career
+                                                        growth with knowledge of Lean Six Sigma.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <!-- FAQ 9 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#faqQuestion9"
+                                        aria-expanded="false"
+                                        aria-controls="faqQuestion9">
+                                        What is the training duration of this course?
+                                    </button>
+                                </h2>
+
+                                <div id="faqQuestion9" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <p>
+                                                        The training will be conducted on weekends and will consist of evening
+                                                        classes from <b>6:00 PM to 9:30 PM</b>.
+                                                        The training duration of the course is
+                                                        <b>28 hours + Home assignments</b>.
+                                                        The training will be spread over <b>4 weekends</b>.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <!-- FAQ 10 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#faqQuestion10"
+                                        aria-expanded="false"
+                                        aria-controls="faqQuestion10">
+                                        Will I get recordings for the lectures?
+                                    </button>
+                                </h2>
+
+                                <div id="faqQuestion10" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <p>
+                                                        The trainings will be recorded and uploaded to the LMS account.
+                                                        The recordings can be accessed for <b>2 months</b> through your LMS account.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <!-- FAQ 11 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#faqQuestion11"
+                                        aria-expanded="false"
+                                        aria-controls="faqQuestion11">
+                                        Is there an examination after completing the training?
+                                    </button>
+                                </h2>
+
+                                <div id="faqQuestion11" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <p>
+                                                        The candidate must successfully complete the examination with a
+                                                        minimum score of <b>50%</b> to qualify for the exam and receive
+                                                        the certification.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <!-- FAQ 12 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#faqQuestion12"
+                                        aria-expanded="false"
+                                        aria-controls="faqQuestion12">
+                                        Will I receive a certificate after successful completion?
+                                    </button>
+                                </h2>
+
+                                <div id="faqQuestion12" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <p>
+                                                        Yes, the <b>soft copy of the Qualification Certificate</b>
+                                                        will be sent to the candidate’s registered email address.
+                                                        The <b>hard copy of the certificate</b> will be delivered to the
+                                                        candidate’s registered address within India by speed post.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <!-- FAQ 13 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#faqQuestion13"
+                                        aria-expanded="false"
+                                        aria-controls="faqQuestion13">
+                                        Is the certification valid internationally?
+                                    </button>
+                                </h2>
+
+                                <div id="faqQuestion13" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <p>
+                                                        The certifications issued by AIQM are accredited by the
+                                                        <b>Council for Six Sigma Certification (CSSC-USA)</b>
+                                                        and the certificate is valid internationally with lifetime validity.
+                                                        The certificate can be validated/verified on the international
+                                                        <b>IROEP portal</b>.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <!-- FAQ 14 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#faqQuestion14"
+                                        aria-expanded="false"
+                                        aria-controls="faqQuestion14">
+                                        Can I use Lean Six Sigma Green Belt skills in my current job?
+                                    </button>
+                                </h2>
+
+                                <div id="faqQuestion14" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <p>
+                                                        Absolutely. Lean Six Sigma Green Belt skills can be applied to
+                                                        <b>quality improvement, productivity improvement, cost reduction,
+                                                            process optimization, customer experience, defect reduction,
+                                                            cycle-time reduction, and operational excellence projects</b>
+                                                        within your organization.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <!-- FAQ 15 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#faqQuestion15"
+                                        aria-expanded="false"
+                                        aria-controls="faqQuestion15">
+                                        Why choose AIQM for Lean Six Sigma Green Belt?
+                                    </button>
+                                </h2>
+
+                                <div id="faqQuestion15" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+
+                                                    <p>
+                                                        AIQM, established in 1995, is a trusted institute for Quality and
+                                                        Operational Excellence, delivering programs across
+                                                        <b>14+ countries</b>.
+                                                        AIQM is accredited by CSSC-USA and focuses on practical,
+                                                        industry-oriented Lean Six Sigma implementation across Manufacturing,
+                                                        Supply Chain, Logistics, Quality, Projects, Services, and other industries.
+                                                    </p>
+
+                                                    <p>
+                                                        AIQM is managed by IIT/IIM alumni and supported by experienced
+                                                        industry professionals. AIQM has supported numerous organisations in
+                                                        implementing Operational Excellence and Lean Six Sigma projects,
+                                                        helping them improve quality, productivity, cost, delivery, and overall
+                                                        process efficiency.
+                                                    </p>
+
+                                                    <p>
+                                                        AIQM’s trainers bring
+                                                        <b>30+ years of real-time experience in training, consulting, and
+                                                            project implementation</b>,
+                                                        combining deep industry knowledge with practical hands-on expertise to
+                                                        help participants effectively apply Lean Six Sigma and Operational
+                                                        Excellence methodologies in their organizations.
+                                                    </p>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
                 </div>
             </div>
         </section>

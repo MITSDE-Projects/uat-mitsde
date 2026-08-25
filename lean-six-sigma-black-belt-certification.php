@@ -432,154 +432,212 @@
             </div>
         </section>
 
-        <section>
-            <div class="container">
-                <div class="row">
-                    <div class="cur-accordiaon mt-5">
-                        <h2 class="fw-bold ">Lean Six Sigma Black Belt - Training Content</h2>
-                        <div class="accordion curriculum-accordion" id="freQuestions">
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions12" aria-expanded="false" aria-controls="questions12">
-                                        MODULE –1:
-                                    </button>
-                                </h2>
-                                <div id="questions12" class="accordion-collapse" data-bs-parent="#freQuestions">
-                                    <div class="accordion-body  hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <ul class="fin-feature1" style="list-style-type: decimal;">
+        <section class="enroll-certification">
+    <div class="container">
+        <div class="row">
 
-                                                        <li>
-                                                            <strong>GB Revision Quiz for entry to GB Level</strong>
-                                                        </li>
-
-                                                        <li>
-                                                            <strong>Design For Six Sigma (DFSS)</strong>
-                                                            <ul>
-                                                                <li>Define – Measure – Analyze – Improve - Control</li>
-                                                                <li>Pugh Matrix</li>
-                                                                <li>QFD</li>
-                                                                <li>Voice of Customer
-                                                                    <ul>
-                                                                        <li>Ethnography</li>
-                                                                        <li>Kano Model</li>
-                                                                    </ul>
-                                                                </li>
-                                                                <li>CT Matrix</li>
-                                                                <li>DMADV Overview</li>
-                                                                <li>Design Of Experiments (DOE)</li>
-                                                            </ul>
-                                                        </li>
-
-                                                        <li>
-                                                            <strong>More on BB Projects</strong>
-                                                            <ul>
-                                                                <li>SIRPORC Diagram</li>
-                                                                <li>Selecting The Right Projects</li>
-                                                                <li>Pareto Priority Index</li>
-                                                                <li>Template For Project Charter - Lean Six Sigma Black Belt Project:</li>
-                                                                <li>The DMAIC Process – Choice Of Tools</li>
-                                                                <li>Other Templates</li>
-                                                            </ul>
-                                                        </li>
-
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions13" aria-expanded="false" aria-controls="questions13">
-                                        MODULE –2:
-                                    </button>
-                                </h2>
-
-                                <div id="questions13" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <ul class="fin-feature1" style="list-style-type: decimal;">
-                                                        <li>Descriptive Statistics</li>
-                                                        <li>Data Distribution, Skewness, Kurtosis,</li>
-                                                        <li>Box & Whisker Plots</li>
-                                                        <li>Inferential Statistics.</li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions14" aria-expanded="false" aria-controls="questions14">
-                                        MODULE –3:
-                                    </button>
-                                </h2>
-
-                                <div id="questions14" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <ul class="fin-feature1" style="list-style-type: decimal;">
-                                                        <li>Confidence Intervals</li>
-                                                        <li>Hypothesis Testing (z-test / t-test for one population mean)</li>
-                                                        <li>Hypothesis Testing (z-test / t-test for two population means)</li>
-                                                        <li>(ANOVA – Analysis of Variances)</li>
-                                                        <li>Regression Analysis</li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions15" aria-expanded="false" aria-controls="questions15">
-                                        MODULE –4: 
-                                    </button>
-                                </h2>
-
-                                <div id="questions15" class="accordion-collapse collapse"
-                                    data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12">
-                                                <div class="fintech-module alert brandcolor">
-                                                    <ul class="fin-feature1" style="list-style-type: decimal;">
-                                                        <li>Six Sigma – A complete Management System</li>
-                                                        <li>Lean Tools Implementation </li>
-                                                        <li>Balanced Scorecard </li>
-                                                        <li>Benchmarking Techniques </li>
-                                                        <li>Measurement System Analysis (MSA)</li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+            <div class="col-md-12 col-lg-12 fintech-certi aboutMit-skills">
+                <h2>Lean Six Sigma Black Belt - Training Content</h2>
             </div>
-        </section>
+
+            <table class="table">
+
+                <!-- MODULE 1 -->
+                <tr>
+                    <th><b>SR No.</b></th>
+                    <th><b>Topic</b></th>
+                </tr>
+                <tr>
+                    <th>1</th>
+                    <th><b>MODULE - 1</b></th>
+                </tr>
+
+                <tr>
+                    <td></td>
+                    <td><b>GB Revision Quiz for entry to GB Level</b></td>
+                </tr>
+
+                <tr>
+                    <td></td>
+                    <td><b>Design For Six Sigma (DFSS)</b></td>
+                </tr>
+
+                <tr>
+                    <td></td>
+                    <td>Define – Measure – Analyze – Improve - Control</td>
+                </tr>
+
+                <tr>
+                    <td></td>
+                    <td>Pugh Matrix</td>
+                </tr>
+
+                <tr>
+                    <td></td>
+                    <td>QFD</td>
+                </tr>
+
+                <tr>
+                    <td></td>
+                    <td>Voice of Customer</td>
+                </tr>
+
+                <tr>
+                    <td></td>
+                    <td>Ethnography</td>
+                </tr>
+
+                <tr>
+                    <td></td>
+                    <td>Kano Model</td>
+                </tr>
+
+                <tr>
+                    <td></td>
+                    <td>CT Matrix</td>
+                </tr>
+
+                <tr>
+                    <td></td>
+                    <td>DMADV Overview</td>
+                </tr>
+
+                <tr>
+                    <td></td>
+                    <td>Design Of Experiments (DOE)</td>
+                </tr>
+
+                <tr>
+                    <td></td>
+                    <td><b>More on BB Projects</b></td>
+                </tr>
+
+                <tr>
+                    <td></td>
+                    <td>SIRPORC Diagram</td>
+                </tr>
+
+                <tr>
+                    <td></td>
+                    <td>Selecting The Right Projects</td>
+                </tr>
+
+                <tr>
+                    <td></td>
+                    <td>Pareto Priority Index</td>
+                </tr>
+
+                <tr>
+                    <td></td>
+                    <td>Template For Project Charter - Lean Six Sigma Black Belt Project:</td>
+                </tr>
+
+                <tr>
+                    <td></td>
+                    <td>The DMAIC Process – Choice Of Tools</td>
+                </tr>
+
+                <tr>
+                    <td></td>
+                    <td>Other Templates</td>
+                </tr>
+
+
+                <!-- MODULE 2 -->
+                <tr>
+                    <th>2</th>
+                    <th><b>MODULE – 2</b></th>
+                </tr>
+
+                <tr>
+                    <td></td>
+                    <td>Descriptive Statistics</td>
+                </tr>
+
+                <tr>
+                    <td></td>
+                    <td>Data Distribution, Skewness, Kurtosis,</td>
+                </tr>
+
+                <tr>
+                    <td></td>
+                    <td>Box &amp; Whisker Plots</td>
+                </tr>
+
+                <tr>
+                    <td></td>
+                    <td>Inferential Statistics.</td>
+                </tr>
+
+
+                <!-- MODULE 3 -->
+                <tr>
+                    <th>3</th>
+                    <th><b>MODULE – 3</b></th>
+                </tr>
+
+                <tr>
+                    <td></td>
+                    <td>Confidence Intervals</td>
+                </tr>
+
+                <tr>
+                    <td></td>
+                    <td>Hypothesis Testing (z-test / t-test for one population mean)</td>
+                </tr>
+
+                <tr>
+                    <td></td>
+                    <td>Hypothesis Testing (z-test / t-test for two population means)</td>
+                </tr>
+
+                <tr>
+                    <td></td>
+                    <td>(ANOVA – Analysis of Variances)</td>
+                </tr>
+
+                <tr>
+                    <td></td>
+                    <td>Regression Analysis</td>
+                </tr>
+
+
+                <!-- MODULE 4 -->
+                <tr>
+                    <th>4</th>
+                    <th><b>MODULE – 4</b></th>
+                </tr>
+
+                <tr>
+                    <td></td>
+                    <td>Six Sigma – A complete Management System</td>
+                </tr>
+
+                <tr>
+                    <td></td>
+                    <td>Lean Tools Implementation</td>
+                </tr>
+
+                <tr>
+                    <td></td>
+                    <td>Balanced Scorecard</td>
+                </tr>
+
+                <tr>
+                    <td></td>
+                    <td>Benchmarking Techniques</td>
+                </tr>
+
+                <tr>
+                    <td></td>
+                    <td>Measurement System Analysis (MSA)</td>
+                </tr>
+
+            </table>
+
+        </div>
+    </div>
+</section>
 
         <section id="progressFee" class="enroll-certification pb-5">
             <div class="container">
@@ -1257,6 +1315,694 @@
                         </div>
                     </div>
 
+                </div>
+            </div>
+        </section>
+
+        <section id="certificates" class="enroll-certification pt-3">
+            <div class="container py-5">
+                <div class="col-md-12 col-lg-12 fintech-certi aboutMit-skills">
+                    <h2>Program Certification</h2>
+                </div>
+
+                <div class="col-12 col-md-6 col-lg-6">
+                    <div class="d-flex flex-column flex-md-row gap-3">
+
+                        <img src="assets/images/course/cap/LSSBB-Provisional.webp"
+                            class="img-fluid w-100 border border-2 rounded"
+                            alt="Provisional Certificate">
+
+                        <img src="assets/images/course/cap/LSSBB-Final.webp"
+                            class="img-fluid w-100 border border-2 rounded"
+                            alt="Final Certificate">
+
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="faq">
+            <div class="container">
+                <div class="row">
+                    <div class="cur-accordiaon mt-5">
+
+                        <h2 class="fw-bold">Frequently Asked Questions (FAQs)</h2>
+
+                        <div class="accordion curriculum-accordion" id="freQuestions">
+
+                            <!-- FAQ 1 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#faqQuestion1"
+                                        aria-expanded="false"
+                                        aria-controls="faqQuestion1">
+                                        What is Lean Six Sigma Black Belt?
+                                    </button>
+                                </h2>
+
+                                <div id="faqQuestion1" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <p>
+                                                        Lean Six Sigma Black Belt is an advanced professional program that
+                                                        develops expertise in process improvement, advanced problem-solving,
+                                                        waste reduction, data-driven decision-making, project leadership, and
+                                                        operational excellence using Lean Six Sigma methodologies.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <!-- FAQ 2 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#faqQuestion2"
+                                        aria-expanded="false"
+                                        aria-controls="faqQuestion2">
+                                        Who should join the Lean Six Sigma Black Belt Program?
+                                    </button>
+                                </h2>
+
+                                <div id="faqQuestion2" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <p>
+                                                        The program is ideal for professionals involved in Supply Chain
+                                                        Management (SCM), Procurement, Material Management, Logistics,
+                                                        Warehouse &amp; Inventory, Operations, Quality, Manufacturing,
+                                                        Project Management, and Business Excellence.
+                                                    </p>
+
+                                                    <p>
+                                                        It is especially suitable for professionals who want to lead complex
+                                                        improvement projects, reduce costs, optimise processes, improve
+                                                        productivity, eliminate defects and waste, and drive sustainable
+                                                        operational excellence.
+                                                    </p>
+
+                                                    <p>
+                                                        Lean Six Sigma can be implemented across industries including
+                                                        manufacturing, automotive, healthcare, IT, BFSI, pharmaceuticals,
+                                                        retail, logistics, and service sectors.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <!-- FAQ 3 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#faqQuestion3"
+                                        aria-expanded="false"
+                                        aria-controls="faqQuestion3">
+                                        Who is eligible to join the Lean Six Sigma Black Belt Program?
+                                    </button>
+                                </h2>
+
+                                <div id="faqQuestion3" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <p>
+                                                        The Lean Six Sigma Black Belt Program is primarily designed for
+                                                        <b>Lean Six Sigma Green Belt-certified professionals.</b>
+                                                    </p>
+
+                                                    <p>
+                                                        Professionals who are certified Lean Six Sigma Green Belt are eligible
+                                                        for Lean Six Sigma Black Belt. Candidates can also join both courses
+                                                        together as a <b>combo course</b>.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <!-- FAQ 4 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#faqQuestion4"
+                                        aria-expanded="false"
+                                        aria-controls="faqQuestion4">
+                                        What is the accreditation for Lean Six Sigma Black Belt?
+                                    </button>
+                                </h2>
+
+                                <div id="faqQuestion4" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <p>
+                                                        AIQM is accredited by the
+                                                        <b>Council for Six Sigma Certification (CSSC), USA</b>,
+                                                        one of the leading accreditation bodies for Six Sigma certification.
+                                                        This accreditation strengthens the credibility and global recognition
+                                                        of AIQM’s Lean Six Sigma certifications.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <!-- FAQ 5 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#faqQuestion5"
+                                        aria-expanded="false"
+                                        aria-controls="faqQuestion5">
+                                        What methodology is covered in the Black Belt Program?
+                                    </button>
+                                </h2>
+
+                                <div id="faqQuestion5" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <p>
+                                                        The program primarily follows the
+                                                        <b>DMAIC &amp; DFSS Methodology</b>,
+                                                        along with advanced Lean Six Sigma tools, statistical analysis,
+                                                        process improvement techniques, project management, and
+                                                        problem-solving methodologies.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <!-- FAQ 6 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#faqQuestion6"
+                                        aria-expanded="false"
+                                        aria-controls="faqQuestion6">
+                                        Is prior Lean Six Sigma knowledge required?
+                                    </button>
+                                </h2>
+
+                                <div id="faqQuestion6" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <p>
+                                                        Yes. The Black Belt program is an advanced-level program, and
+                                                        candidates should have a Lean Six Sigma Green Belt certification.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <!-- FAQ 7 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#faqQuestion7"
+                                        aria-expanded="false"
+                                        aria-controls="faqQuestion7">
+                                        What are the key benefits of becoming a Lean Six Sigma Black Belt?
+                                    </button>
+                                </h2>
+
+                                <div id="faqQuestion7" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <p>
+                                                        The program helps professionals develop advanced problem-solving,
+                                                        statistical analysis, project implementation, process optimization,
+                                                        cost reduction, quality improvement, waste elimination, risk reduction,
+                                                        and data-driven decision-making skills.
+                                                    </p>
+
+                                                    <p>
+                                                        It also prepares professionals to lead complex Lean Six Sigma projects
+                                                        and support organizational-level operational excellence initiatives,
+                                                        leading to fast-growing career opportunities.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <!-- FAQ 8 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#faqQuestion8"
+                                        aria-expanded="false"
+                                        aria-controls="faqQuestion8">
+                                        Is an LSS Black Belt project required to complete the certification?
+                                    </button>
+                                </h2>
+
+                                <div id="faqQuestion8" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <p>
+                                                        The Lean Six Sigma Black Belt certification requires candidates to
+                                                        submit a project as part of the certification process.
+                                                    </p>
+
+                                                    <p>
+                                                        AIQM recommends implementing a <b>live project</b> to demonstrate the
+                                                        practical application of Lean Six Sigma methodologies. However, if a
+                                                        candidate does not have the opportunity to implement a live project, a
+                                                        <b>simulated project</b> may be submitted to complete the
+                                                        certification process.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <!-- FAQ 9 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#faqQuestion9"
+                                        aria-expanded="false"
+                                        aria-controls="faqQuestion9">
+                                        Can I implement a Lean Six Sigma project after completing the Black Belt?
+                                    </button>
+                                </h2>
+
+                                <div id="faqQuestion9" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <p>
+                                                        Yes. The Black Belt program is designed to help professionals lead and
+                                                        implement improvement projects using a structured DMAIC/DFSS approach.
+                                                        Participants can apply the methodology to real or simulated business
+                                                        improvement projects.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <!-- FAQ 10 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#faqQuestion10"
+                                        aria-expanded="false"
+                                        aria-controls="faqQuestion10">
+                                        What is the duration and timing of the Black Belt course?
+                                    </button>
+                                </h2>
+
+                                <div id="faqQuestion10" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+
+                                                    <p>
+                                                        The Lean Six Sigma Black Belt course is conducted through live
+                                                        training. The program includes
+                                                        <b>28 hours of live training for LSS Green Belt-certified candidates</b>,
+                                                        along with home assignments and project implementation
+                                                        <b>(Live/Simulated)</b>.
+                                                    </p>
+
+                                                    <p>
+                                                        The <b>online examination</b> is conducted separately from the
+                                                        training and has a duration of <b>2 hours</b>.
+                                                    </p>
+
+                                                    <p>
+                                                        Training sessions are conducted on
+                                                        <b>weekends (Saturday &amp; Sunday), from 6:00 PM to 9:30 PM</b>.
+                                                    </p>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <!-- FAQ 11 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#faqQuestion11"
+                                        aria-expanded="false"
+                                        aria-controls="faqQuestion11">
+                                        Will I get recordings for the lectures?
+                                    </button>
+                                </h2>
+
+                                <div id="faqQuestion11" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <p>
+                                                        The training sessions will be recorded and uploaded to the LMS
+                                                        account. Participants can access the recordings through their LMS
+                                                        account for <b>2 months</b>.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <!-- FAQ 12 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#faqQuestion12"
+                                        aria-expanded="false"
+                                        aria-controls="faqQuestion12">
+                                        Is there an examination after completing the training?
+                                    </button>
+                                </h2>
+
+                                <div id="faqQuestion12" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <p>
+                                                        Yes. Candidates are required to successfully complete the Black Belt
+                                                        examination with a minimum score of <b>50%</b> to qualify for the
+                                                        certification. On successful completion, the candidate will receive
+                                                        the <b>exam certification</b>.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <!-- FAQ 13 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#faqQuestion13"
+                                        aria-expanded="false"
+                                        aria-controls="faqQuestion13">
+                                        When do I need to submit the project?
+                                    </button>
+                                </h2>
+
+                                <div id="faqQuestion13" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <p>
+                                                        The project needs to be submitted after completion of the examination.
+                                                        On successful submission of the Lean Six Sigma Black Belt project,
+                                                        the candidate will receive the certification for project completion
+                                                        in both <b>soft copy and hard copy</b>.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <!-- FAQ 14 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#faqQuestion14"
+                                        aria-expanded="false"
+                                        aria-controls="faqQuestion14">
+                                        Is the Lean Six Sigma Black Belt certification valid internationally?
+                                    </button>
+                                </h2>
+
+                                <div id="faqQuestion14" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <p>
+                                                        Yes. The Lean Six Sigma Black Belt certification offered by AIQM is
+                                                        accredited by the <b>Council for Six Sigma Certification (CSSC-USA)</b>
+                                                        and carries international recognition with lifetime validity.
+                                                    </p>
+
+                                                    <p>
+                                                        The certificate can be validated and verified on the international
+                                                        <b>IROEP portal</b>.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <!-- FAQ 15 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#faqQuestion15"
+                                        aria-expanded="false"
+                                        aria-controls="faqQuestion15">
+                                        Can I use Lean Six Sigma Black Belt skills in my current job?
+                                    </button>
+                                </h2>
+
+                                <div id="faqQuestion15" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <p>
+                                                        Absolutely. Black Belt skills can be applied to cost reduction,
+                                                        productivity improvement, process optimization, defect reduction,
+                                                        quality improvement, cycle-time reduction, customer experience,
+                                                        supply chain improvement, operational efficiency, and business
+                                                        excellence projects.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <!-- FAQ 16 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#faqQuestion16"
+                                        aria-expanded="false"
+                                        aria-controls="faqQuestion16">
+                                        What career benefits can a Lean Six Sigma Black Belt Certification provide?
+                                    </button>
+                                </h2>
+
+                                <div id="faqQuestion16" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <p>
+                                                        Lean Six Sigma Black Belt certification can strengthen a professional’s
+                                                        profile for roles involving Operational Excellence, Continuous
+                                                        Improvement, Quality Management, Supply Chain, Operations, Project
+                                                        Management, Process Excellence, Business Excellence, and Process
+                                                        Improvement.
+                                                    </p>
+
+                                                    <p>
+                                                        LSSBB professionals can also lead Lean Six Sigma projects.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <!-- FAQ 17 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#faqQuestion17"
+                                        aria-expanded="false"
+                                        aria-controls="faqQuestion17">
+                                        Can Black Belt professionals lead improvement teams?
+                                    </button>
+                                </h2>
+
+                                <div id="faqQuestion17" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <p>
+                                                        Yes. A key focus of the Black Belt role is leading improvement
+                                                        projects and guiding teams in the structured application of Lean Six
+                                                        Sigma methodologies, data analysis, root-cause analysis, and
+                                                        continuous improvement.
+                                                    </p>
+
+                                                    <p>
+                                                        This can lead to faster growth toward senior leadership positions.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <!-- FAQ 18 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#faqQuestion18"
+                                        aria-expanded="false"
+                                        aria-controls="faqQuestion18">
+                                        Why choose AIQM for Lean Six Sigma Black Belt?
+                                    </button>
+                                </h2>
+
+                                <div id="faqQuestion18" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+
+                                                    <p>
+                                                        AIQM, established in 1995, is a trusted institute for Quality and
+                                                        Operational Excellence, delivering programs across
+                                                        <b>14+ countries</b>. AIQM is accredited by CSSC-USA and focuses on
+                                                        practical, industry-oriented Lean Six Sigma implementation across
+                                                        Manufacturing, Supply Chain, Logistics, Quality, Projects, Services,
+                                                        and other industries.
+                                                    </p>
+
+                                                    <p>
+                                                        AIQM is managed by IIT/IIM alumni and supported by experienced
+                                                        industry professionals. AIQM has supported numerous organizations in
+                                                        implementing Operational Excellence and Lean Six Sigma projects,
+                                                        helping them improve quality, productivity, cost, delivery, and overall
+                                                        process efficiency.
+                                                    </p>
+
+                                                    <p>
+                                                        AIQM’s trainers bring
+                                                        <b>30+ years of real-time experience in training, consulting, and
+                                                            project implementation</b>,
+                                                        combining deep industry knowledge with practical hands-on expertise to
+                                                        help participants effectively apply Lean Six Sigma and Operational
+                                                        Excellence methodologies in their organizations.
+                                                    </p>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
                 </div>
             </div>
         </section>

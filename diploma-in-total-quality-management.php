@@ -460,7 +460,7 @@
 
                                 <!-- Module TQM-101 -->
                                 <tr>
-                                    <th><b>Module TQM-101</b></th>
+                                    <th><b>Module TQM - 101</b></th>
                                     <th><b>Total Quality Management Fundamentals</b></th>
                                 </tr>
                                 <tr>
@@ -495,7 +495,7 @@
 
                                 <!-- Module TQM-102 -->
                                 <tr>
-                                    <th><b>Module TQM-102</b></th>
+                                    <th><b>Module TQM - 102</b></th>
                                     <th><b>Statistical and other Tools &amp; Techniques</b></th>
                                 </tr>
                                 <tr>
@@ -558,7 +558,7 @@
 
                                 <!-- Module TQM-103 -->
                                 <tr>
-                                    <th><b>Module TQM-103</b></th>
+                                    <th><b>Module TQM - 103</b></th>
                                     <th><b>Customer Focus, Employee Participation and Teamwork</b></th>
                                 </tr>
                                 <tr>
@@ -605,7 +605,7 @@
 
                                 <!-- Module TQM-104 -->
                                 <tr>
-                                    <th><b>Module TQM-104</b></th>
+                                    <th><b>Module TQM - 104</b></th>
                                     <th><b>Implementing Methods for Continual Improvement: Kaizen, 3Ms, 5S</b></th>
                                 </tr>
                                 <tr>
@@ -1392,6 +1392,682 @@
                         </div>
                     </div>
 
+                </div>
+            </div>
+        </section>
+
+        <section id="certificates" class="enroll-certification pt-3">
+            <div class="container py-5">
+                <div class="col-md-12 col-lg-12 fintech-certi aboutMit-skills">
+                    <h2>Program Certification</h2>
+                </div>
+
+                <div class="col-12 col-md-6 col-lg-6">
+                    <img src="assets/images/course/cap/D-TQM.webp" class="d-block w-100 border border-2 rounded" alt="Certificate"/>
+                </div>
+            </div>
+        </section>
+
+        <section id="faq">
+            <div class="container">
+                <div class="row">
+                    <div class="cur-accordiaon mt-5">
+                        <h2 class="fw-bold">Frequently Asked Questions (FAQs)</h2>
+
+                        <div class="accordion curriculum-accordion" id="freQuestions">
+
+                            <!-- 1 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#questions1"
+                                        aria-expanded="false"
+                                        aria-controls="questions1">
+                                        What is Diploma in Total Quality Management?
+                                    </button>
+                                </h2>
+
+                                <div id="questions1" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <p>
+                                                        Diploma in Total Quality Management (TQM) is a professional program
+                                                        designed to develop practical knowledge of quality management,
+                                                        continuous improvement, customer satisfaction, process optimization,
+                                                        and organizational excellence. The course helps professionals
+                                                        understand how to implement TQM principles across different
+                                                        business functions and industries.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- 2 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#questions2"
+                                        aria-expanded="false"
+                                        aria-controls="questions2">
+                                        Who should join the Diploma in Total Quality Management program?
+                                    </button>
+                                </h2>
+
+                                <div id="questions2" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <p>
+                                                        The program is ideal for professionals working in
+                                                        <b>Quality, Operations, Supply Chain Management, Procurement,
+                                                            Material Management, Logistics, Manufacturing, Project Management,
+                                                            and Process Improvement</b>.
+                                                        It is also suitable for professionals who want to develop skills
+                                                        in quality improvement, process optimization, customer satisfaction,
+                                                        and operational excellence.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- 3 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#questions3"
+                                        aria-expanded="false"
+                                        aria-controls="questions3">
+                                        What is the accreditation for the TQM Certification?
+                                    </button>
+                                </h2>
+
+                                <div id="questions3" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <p>
+                                                        AIQM is accredited by <b>UK Certification and Inspection</b> Body
+                                                        along with <b>UAF</b> recognized by International Accreditation Forum
+                                                        (<b>IAF</b>). This accreditation strengthens the credibility and
+                                                        global recognition of certifications offered by AIQM.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- 4 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#questions4"
+                                        aria-expanded="false"
+                                        aria-controls="questions4">
+                                        Who is eligible to join the TQM Certification program?
+                                    </button>
+                                </h2>
+
+                                <div id="questions4" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <p>
+                                                        The program is suitable for <b>graduation students, MBA students,
+                                                            BA/BTech students, freshers, and working professionals</b>
+                                                        from any industry. No specific educational background or industry
+                                                        experience is mandatory.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- 5 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#questions5"
+                                        aria-expanded="false"
+                                        aria-controls="questions5">
+                                        What methodology and concepts are covered in the TQM program?
+                                    </button>
+                                </h2>
+
+                                <div id="questions5" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <p>
+                                                        The program covers key Total Quality Management principles, including
+                                                        <b>customer focus, continuous improvement, Kaisen Lean tools,
+                                                            TQM Principles, quality culture, process approach, employee
+                                                            involvement, problem-solving, quality improvement, and
+                                                            organizational excellence</b>.
+                                                        Practical quality improvement tools and methodologies are also
+                                                        discussed.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- 6 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#questions6"
+                                        aria-expanded="false"
+                                        aria-controls="questions6">
+                                        Is prior knowledge of Total Quality Management required?
+                                    </button>
+                                </h2>
+
+                                <div id="questions6" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <p>
+                                                        No. Participants do not need prior knowledge of TQM. The course is
+                                                        designed to build understanding from the fundamentals of Total Quality
+                                                        Management to its practical application in organizations.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- 7 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#questions7"
+                                        aria-expanded="false"
+                                        aria-controls="questions7">
+                                        Can professionals from non-manufacturing industries join?
+                                    </button>
+                                </h2>
+
+                                <div id="questions7" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <p>
+                                                        Yes. TQM principles can be applied across
+                                                        <b>manufacturing, automotive, healthcare, IT, BFSI, pharmaceuticals,
+                                                            logistics, supply chain, BPO/KPO, retail, education, and service
+                                                            industries</b>.
+                                                        The principles focus on improving quality and processes, regardless
+                                                        of the industry.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- 8 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#questions8"
+                                        aria-expanded="false"
+                                        aria-controls="questions8">
+                                        What are the key benefits of TQM Certification?
+                                    </button>
+                                </h2>
+
+                                <div id="questions8" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <p>
+                                                        The program helps professionals develop skills in
+                                                        <b>quality management, continuous improvement, structured
+                                                            problem-solving, process optimization, customer satisfaction,
+                                                            waste reduction, teamwork, and operational excellence</b>.
+                                                        These skills can support professionals in leading and contributing
+                                                        to quality improvement initiatives.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- 9 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#questions9"
+                                        aria-expanded="false"
+                                        aria-controls="questions9">
+                                        Can I apply TQM concepts in my current job?
+                                    </button>
+                                </h2>
+
+                                <div id="questions9" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <p>
+                                                        Absolutely. TQM principles can be applied to
+                                                        <b>quality improvement, process optimization, productivity
+                                                            improvement, customer satisfaction, defect reduction, cost
+                                                            reduction, service improvement, and operational excellence</b>
+                                                        projects within an organization.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- 10 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#questions10"
+                                        aria-expanded="false"
+                                        aria-controls="questions10">
+                                        How can Diploma in TQM help organizations?
+                                    </button>
+                                </h2>
+
+                                <div id="questions10" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <p>
+                                                        TQM helps organizations establish a culture of
+                                                        <b>continuous improvement and customer-focused quality</b>.
+                                                        It encourages employee involvement, process improvement, prevention
+                                                        of defects, better decision-making, and consistent improvement in
+                                                        organizational performance.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- 11 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#questions11"
+                                        aria-expanded="false"
+                                        aria-controls="questions11">
+                                        What is the duration and timing of the course?
+                                    </button>
+                                </h2>
+
+                                <div id="questions11" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <p>
+                                                        The course is conducted through <b>weekend sessions</b> in the
+                                                        evening. The duration of the training is <b>21 hours</b> and
+                                                        <b>100 min exam</b> (separate from training).
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- 12 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#questions12"
+                                        aria-expanded="false"
+                                        aria-controls="questions12">
+                                        Will I get recordings of the lectures?
+                                    </button>
+                                </h2>
+
+                                <div id="questions12" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <p>
+                                                        The trainings will be recorded and uploaded on the LMS account.
+                                                        The recordings can be accessed for <b>2 months</b> through your
+                                                        LMS account.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- 13 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#questions13"
+                                        aria-expanded="false"
+                                        aria-controls="questions13">
+                                        Is there an examination after completing the course?
+                                    </button>
+                                </h2>
+
+                                <div id="questions13" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <p>
+                                                        Yes. Candidates are required to successfully complete the examination
+                                                        with a <b>minimum score of 50%</b> to qualify for certification.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- 14 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#questions14"
+                                        aria-expanded="false"
+                                        aria-controls="questions14">
+                                        What is the examination pattern?
+                                    </button>
+                                </h2>
+
+                                <div id="questions14" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <p>
+                                                        The examination is conducted <b>online</b> with an
+                                                        <b>MCQ pattern</b> and there is <b>no negative marking</b>.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- 15 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#questions15"
+                                        aria-expanded="false"
+                                        aria-controls="questions15">
+                                        Will I receive a certificate after successful completion?
+                                    </button>
+                                </h2>
+
+                                <div id="questions15" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <p>
+                                                        Yes. After successfully completing the course requirements and
+                                                        examination, the <b>soft copy of the certificate</b> will be sent
+                                                        to the candidate's registered email address. The <b>hard copy</b>
+                                                        will be delivered to the registered address within India.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- 16 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#questions16"
+                                        aria-expanded="false"
+                                        aria-controls="questions16">
+                                        Is the Diploma in TQM valid internationally?
+                                    </button>
+                                </h2>
+
+                                <div id="questions16" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <p>
+                                                        Yes. AIQM certifications are accredited by
+                                                        <b>UK Certification and Inspection</b> Body along with
+                                                        <b>UAF</b> and <b>IAF</b>. The Certificates are intended to
+                                                        provide international recognition. The certification is
+                                                        <b>lifetime valid</b>. The certificate will be validated/verified
+                                                        in IROEP portal.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- 17 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#questions17"
+                                        aria-expanded="false"
+                                        aria-controls="questions17">
+                                        Can freshers benefit from Diploma in TQM Certification?
+                                    </button>
+                                </h2>
+
+                                <div id="questions17" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <p>
+                                                        Yes. The program is suitable for freshers who want to build
+                                                        foundational knowledge in <b>quality management, process
+                                                            improvement, problem-solving, and operational excellence</b>
+                                                        and develop skills relevant to a wide range of industries.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- 18 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#questions18"
+                                        aria-expanded="false"
+                                        aria-controls="questions18">
+                                        Is TQM applicable only to the Quality department?
+                                    </button>
+                                </h2>
+
+                                <div id="questions18" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <p>
+                                                        No. TQM is an organization-wide approach. Its principles can be
+                                                        applied across <b>Quality, Operations, Supply Chain, Procurement,
+                                                            Logistics, Manufacturing, Projects, Customer Service, HR,
+                                                            Finance</b>, and other functions to improve processes and
+                                                        organizational performance.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- 19 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#questions19"
+                                        aria-expanded="false"
+                                        aria-controls="questions19">
+                                        How is TQM useful for Supply Chain and Operations professionals?
+                                    </button>
+                                </h2>
+
+                                <div id="questions19" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+                                                    <p>
+                                                        TQM can help Supply Chain and Operations professionals improve
+                                                        <b>process consistency, supplier quality, material flow, productivity,
+                                                            inventory-related processes, customer satisfaction, defect
+                                                            reduction, and overall operational performance</b>.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- 20 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button"
+                                        data-bs-toggle="collapse"
+                                        data-bs-target="#questions20"
+                                        aria-expanded="false"
+                                        aria-controls="questions20">
+                                        Why choose AIQM for Certification in Total Quality Management?
+                                    </button>
+                                </h2>
+
+                                <div id="questions20" class="accordion-collapse collapse"
+                                    data-bs-parent="#freQuestions">
+                                    <div class="accordion-body hero10">
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12">
+                                                <div class="fintech-module alert brandcolor">
+
+                                                    <p>
+                                                        AIQM is established in <b>1995</b> and is a trusted institute
+                                                        for Quality and Operational Excellence, delivering programs across
+                                                        <b>14+ countries</b>. AIQM is accredited by <b>CSSC-USA</b> and
+                                                        focuses on practical, industry-oriented Lean Six Sigma implementation
+                                                        across Manufacturing, Supply Chain, Logistics, Quality, Projects,
+                                                        Services, and other industries.
+                                                    </p>
+
+                                                    <p>
+                                                        AIQM is managed by <b>IIT/IIM alumni</b> and supported by experienced
+                                                        industry professionals. AIQM has supported numerous organizations in
+                                                        implementing Operational Excellence and Lean Six Sigma projects,
+                                                        helping them improve quality, productivity, cost, delivery, and
+                                                        overall process efficiency.
+                                                    </p>
+
+                                                    <p>
+                                                        AIQM’s trainers bring <b>30+ years of real-time experience in
+                                                            training, consulting, and project implementation</b>, combining
+                                                        deep industry knowledge with practical hands-on expertise to help
+                                                        participants effectively apply Lean Six Sigma and Operational
+                                                        Excellence methodologies in their organizations.
+                                                    </p>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
                 </div>
             </div>
         </section>
