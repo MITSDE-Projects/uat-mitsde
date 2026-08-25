@@ -1047,6 +1047,32 @@
                     </div>
                 </div>
             </div>
+            <div class="col-md-6">
+                <div class="bc-testi">
+                    <div class="bc-testi-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+                    <p class="bc-testi-quote">&ldquo;I found the VLOOKUP training session very useful and informative. Previously, I only used basic VLOOKUP, but this session helped me understand the importance of columns, the MATCH function, and practical VLOOKUP hacks. I am glad I attended this session and appreciate the valuable insights shared by Mr. Chanakya sir, as well as the efforts of the entire MIT team.&rdquo;</p>
+                    <div class="d-flex align-items-center gap-3">
+                        <div class="bc-testi-avatar">AK</div>
+                        <div>
+                            <div class="fw-bold" style="font-size:14px">Ajeet Kumar.</div>
+                            <!-- <div style="font-size:12px;color:#6b7280">Business Analyst &middot; Ahmedabad &middot; CPDSA Certified</div> -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="bc-testi">
+                    <div class="bc-testi-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+                    <p class="bc-testi-quote">&ldquo;The Excel Bootcamp was a very useful and enriching experience. The way of teaching was very simple, clear, and easy to understand, which was especially helpful as the participants had different levels of Excel knowledge. If we listened attentively and followed the instructions properly, everything was very easy to understand. Despite the limited time, an excellent amount of information was delivered in a simple and effective manner. The hands-on activities made the session engaging and practical. I particularly liked the  trainer's patient, inclusive, and easy-to-follow approach.&rdquo;</p>
+                    <div class="d-flex align-items-center gap-3">
+                        <div class="bc-testi-avatar">SA</div>
+                        <div>
+                            <div class="fw-bold" style="font-size:14px">Shrabani Adhikary.</div>
+                            <!-- <div style="font-size:12px;color:#6b7280">Business Analyst &middot; Ahmedabad &middot; CPDSA Certified</div> -->
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </section>

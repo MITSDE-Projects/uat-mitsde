@@ -373,10 +373,10 @@
             <div class="lab-eyebrow">C15 Batch &middot; Now Open</div>
             <h1>Skills Bhi, Degree Bhi, <em>Job Bhi.</em></h1>
             <p class="lab-sub">23 free, industry-expert-led certification workshops across Project Management, Supply Chain, Marketing, HR, Finance &amp; IT. One day. One weekend. Real tools, real skills, real certificate &mdash; at zero cost.</p>
-            <div class="lab-hero-actions">
+            <!-- <div class="lab-hero-actions">
                 <a href="#lab-register" class="lab-btn lab-btn-primary">Register for a LABs Workshop</a>
                 <a href="#lab-faq" class="lab-btn lab-btn-outline">Download Workshop Calendar</a>
-            </div>
+            </div> -->
         </div>
 
         <div class="lab-pass">
@@ -628,7 +628,7 @@
 </section>
 
 <!-- ═══════════════════════════ REGISTRATION CTA ═══════════════════════════ -->
-<section class="lab-cta-section" id="lab-register">
+<!-- <section class="lab-cta-section" id="lab-register">
     <div class="lab-wrap lab-cta-grid">
         <div class="lab-cta-copy">
             <div class="lab-eyebrow" style="color:var(--lab-gold);">Registration</div>
@@ -657,7 +657,9 @@
             <p class="lab-confirm">Thanks &mdash; the LABs team will confirm your seat by email shortly.</p>
         </form>
     </div>
-</section>
+</section> -->
+
+<div class="lab-faculty-note text-center mb-0"><h5 class="mb-0">Note: You will be notified via email, LMS, and our official Telegram group for the workshop details.</h5></div>
 
 </div><!-- /.lab-page -->
 
@@ -749,7 +751,7 @@ const LAB_TESTIMONIALS = [
 ];
 
 const LAB_FAQS = [
-["Who is eligible to attend MITSDE LABs workshops?","Every enrolled MITSDE learner is eligible. If the workshop is part of your program's official curriculum, you become eligible once you've cleared the remaining subjects of that semester; if it isn't part of your curriculum, you can join as an open elective once seats are announced."],
+["Who is eligible to attend MITSDE LABs workshops?","Eligibility: Learners who have completed the 1st semester, are currently in the 2nd semester, and have opted for the mentioned LABs subject in their curriculum."],
 ["Is there any cost to attend a LABs workshop?","No. All MITSDE LABs workshops are offered completely free of cost — certifications that would otherwise cost up to ₹1,00,000 in the open market."],
 ["Are the workshops mandatory for every learner?","Only for learners whose program structure includes a specific LAB subject as a credited course. For everyone else, LABs are optional, free skill-enhancement workshops."],
 ["Will I receive a certificate after the workshop?","Yes. Learners who attend the entire full-day session and complete the assessment receive a Certificate of Participation/Completion."],
@@ -769,8 +771,7 @@ const LAB_FAQS = [
 ["Is the LABs certificate recognised by employers?","It validates hands-on exposure to industry-standard tools taught by practitioners — a skill-validation credential distinct from vendor-issued certifications."],
 ["Can working professionals attend MITSDE LABs?","Yes — since sessions are held on weekends, working professionals in MITSDE's executive programs can attend without disrupting work."],
 ["What if I have a technical issue during the live session?","Learner support is available through the Student Support helpdesk; recordings are also provided so you don't lose access to content."],
-["Do I need prior experience with the software taught?","No prior experience is required for most workshops — sessions take learners from foundational understanding to hands-on application within the day."],
-["How do I download the LABs workshop calendar?","Use the \"Download Workshop Calendar\" button on this page, or check your registered email/Telegram channel for the latest schedule."]
+["Do I need prior experience with the software taught?","No prior experience is required for most workshops — sessions take learners from foundational understanding to hands-on application within the day."]
 ];
 
 const LAB_FACULTY = [
