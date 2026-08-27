@@ -232,7 +232,7 @@
                         <li>
                             <div class="program-feature">
                                 <p>Course fee</p>
-                                <span>INR 1,40,000</span>
+                                <span>INR 2,70,000</span>
                             </div>
                         </li>
                         <li class="enquiry-btn-wrap">
@@ -627,7 +627,7 @@
 
                     <div class="fs-left">
                         <p>Full course fee</p>
-                        <h3 class="fs-main-amount">INR 1,40,000/-</h3>
+                        <h3 class="fs-main-amount">INR 2,70,000/-</h3>
                         <p>Inclusive of all taxes</p>
                         <a href="#" data-bs-toggle="modal" data-bs-target="#eqModal" class="btn-fs-dark">Talk to our expert</a>
 
@@ -660,25 +660,25 @@
                                 <ul class="fs-fee-list">
                                     <li>Installment 1</li>
                                     <li>Installment 2</li>
-                                    <li>Installment 3</li>
-                                    <li>Installment 4</li>
+                                    <!-- <li>Installment 3</li>
+                                    <li>Installment 4</li> -->
                                 </ul>
                             </div>
 
                             <div class="fs-info-card">
                                 <p class="fs-card-label">Course fee - Installment</p>
                                 <ul class="fs-fee-list">
-                                    <li>At the time of admission ₹ 35,000/-</li>
-                                    <li>Within 3 months - ₹ 35,000/-</li>
-                                    <li>Within 6 months - ₹ 35,000/-</li>
-                                    <li>Within 9 months - ₹ 35,000/-</li>
+                                    <li>At the time of admission ₹ 1,35,000/-</li>
+                                    <li>After 6 months - ₹ 1,35,000/-</li>
+                                    <!-- <li>Within 6 months - ₹ 35,000/-</li>
+                                    <li>Within 9 months - ₹ 35,000/-</li> -->
                                 </ul>
                             </div>
 
                             <div class="fs-info-card">
-                                <p class="fs-card-label">Course fee - Lumpsum ₹1,40,000</p>
-                                <span class="fs-discount-badge">Discount ₹ 5,000/-</span>
-                                <p class="fs-sub">Total lumpsum - ₹1,35,000/-</p>
+                                <p class="fs-card-label">Course fee - Lumpsum ₹2,70,000</p>
+                                <span class="fs-discount-badge">Discount ₹ 20,000/-</span>
+                                <p class="fs-sub">Total lumpsum - ₹2,50,000/-</p>
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#eqModal" class="btn-fs-orange">Enquire Now</a>
                             </div>
 
@@ -691,15 +691,14 @@
                     <div class="pgcs-note">
                         <h3 class="pgcs-note-heading">Note :</h3>
                         <ul class="pgcs-note-list">
-                            <li>Students are required to pay an additional Exam Fee per paper per attempt and a
-                                Project Evaluation Fee.</li>
+                            <li>Students are required to pay an additional Exam Fee of ₹750 per paper and a Project Evaluation Fee of ₹2,000.</li>
                         </ul>
                         <p class="fs-note-subhead">For Installments</p>
                         <ul class="pgcs-note-list">
                             <li>First Installment needs to be paid at the time of admission.</li>
-                            <li>Second Installment needs to be paid within 3 months from the date of admission.</li>
-                            <li>Third Installment needs to be paid within 6 months from the date of admission.</li>
-                            <li>Fourth Installment needs to be paid within 9 months from the date of admission.</li>
+                            <li>Second Installment needs to be paid after 6 months from the date of admission.</li>
+                            <!-- <li>Third Installment needs to be paid within 6 months from the date of admission.</li>
+                            <li>Fourth Installment needs to be paid within 9 months from the date of admission.</li> -->
                         </ul>
                     </div>
                 </div><!-- /fs-note-wrap -->
