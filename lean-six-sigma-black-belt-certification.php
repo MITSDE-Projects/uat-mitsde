@@ -213,7 +213,7 @@
 
                                     <p>Duration</p>
 
-                                    <span>28 Hours</span>
+                                    <span>3 months</span>
 
                                 </div>
 

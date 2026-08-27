@@ -76,7 +76,7 @@
                 <div class="d-flex flex-column gap-2" id="cws-tab-nav">
                     <button class="ph-spec-pill is-active" style="width:100%;justify-content:flex-start;text-align:left;" data-cws="exam">Exam Queries</button>
                     <button class="ph-spec-pill" style="width:100%;justify-content:flex-start;text-align:left;" data-cws="academic">Academic Queries</button>
-                    <button class="ph-spec-pill" style="width:100%;justify-content:flex-start;text-align:left;" data-cws="marksheet">Marksheet / Certification Queries</button>
+                    <button class="ph-spec-pill" style="width:100%;justify-content:flex-start;text-align:left;" data-cws="gradesheet">Grade Sheet / Certification Queries</button>
                     <button class="ph-spec-pill" style="width:100%;justify-content:flex-start;text-align:left;" data-cws="admission">Admission Process</button>
                     <button class="ph-spec-pill" style="width:100%;justify-content:flex-start;text-align:left;" data-cws="books">Books Related Queries</button>
                     <button class="ph-spec-pill" style="width:100%;justify-content:flex-start;text-align:left;" data-cws="lms">LMS Related Queries</button>
@@ -146,7 +146,7 @@
                                 <span>When are results announced and where can we find them?</span>
                                 <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                             </button>
-                            <div class="faq-a"><p>After the exams have been completed, the results will be announced within 45 days. Exam results will be available to view in the E-library portal under the progress report tab.</p></div>
+                            <div class="faq-a"><p>After the exams have been completed, the results will be announced within 45 days. Exam results will be available to view in the MIT Pro portal under the progress report tab.</p></div>
                         </div>
 
                         <div class="faq-item">
@@ -226,7 +226,7 @@
                                 <span>What are the exam fees?</span>
                                 <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                             </button>
-                            <div class="faq-a"><p>Exam fees are Rs. 500/- per subject. Additionally, if a student has any backlog, they must pay a backlog fee of Rs. 500/- per subject.</p></div>
+                            <div class="faq-a"><p>Exam fees are Rs. 750/- per subject. Additionally, if a student has any backlog, they must pay a backlog fee of Rs. 500/- per subject.</p></div>
                         </div>
 
                         <div class="faq-item">
@@ -466,7 +466,7 @@
                                 <span>Can I change my elective subject, and are there any charges?</span>
                                 <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                             </button>
-                            <div class="faq-a"><p>Certainly, you can change your elective subject. To do so, please raise a ticket through e-library. Kindly note that there are no additional charges for changing your elective subject.</p></div>
+                            <div class="faq-a"><p>You can change your elective subject by raising a ticket through e-Library; the change is free within one month from the date of admission, and ₹500 per subject will be charged for changes requested after one month.</p></div>
                         </div>
 
                         <div class="faq-item">
@@ -738,14 +738,14 @@
                     </div>
                 </div><!-- /cws-academic -->
 
-                <!-- ── Tab 3: Marksheet / Certification Queries ── -->
-                <div class="cws-tab-pane" id="cws-marksheet" style="display:none;">
-                    <h2 class="section-heading mb-4">Marksheet / Certification Queries</h2>
+                <!-- ── Tab 3: Grade Sheet / Certification Queries ── -->
+                <div class="cws-tab-pane" id="cws-gradesheet" style="display:none;">
+                    <h2 class="section-heading mb-4">Grade Sheet / Certification Queries</h2>
                     <div class="faq-list">
 
                         <div class="faq-item is-open">
                             <button class="faq-q" aria-expanded="true">
-                                <span>What is the format of the mark sheet / certificate?</span>
+                                <span>What is the format of the grade sheet / certificate?</span>
                                 <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                             </button>
                             <div class="faq-a"><p>Please check mitsde.com → Learner Assistance → Sample Certificate for the format.</p></div>
@@ -753,10 +753,10 @@
 
                         <div class="faq-item">
                             <button class="faq-q" aria-expanded="false">
-                                <span>After my project is submitted, when will I receive my mark sheet and certificate?</span>
+                                <span>After my project is submitted, when will I receive my grade sheet and certificate?</span>
                                 <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                             </button>
-                            <div class="faq-a"><p>After the project marks are updated in the progress report, students will receive an address and initial Google Form. After this form is submitted by the student, they will receive their hard copy of the mark sheet and certificate within 45 working days.</p></div>
+                            <div class="faq-a"><p>After the project marks are updated in the progress report, students will receive an address and initial Google Form. After this form is submitted by the student, they will receive their hard copy of the grade sheet and certificate within 45 working days.</p></div>
                         </div>
 
                         <div class="faq-item">
@@ -769,10 +769,10 @@
 
                         <div class="faq-item">
                             <button class="faq-q" aria-expanded="false">
-                                <span>Will I get semester-wise hard copies of mark sheets?</span>
+                                <span>Will I get semester-wise hard copies of grade sheets?</span>
                                 <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                             </button>
-                            <div class="faq-a"><p>No, students will receive the soft copy of the semester-wise mark sheet once they clear their semester exams on their E-library portal. They will receive the Semester Wise mark sheets and certificate after completing their course.</p></div>
+                            <div class="faq-a"><p>No, students will receive the soft copy of the semester-wise grade sheet once they clear their semester exams on their E-library portal. They will receive the Semester Wise grade sheets and certificate after completing their course.</p></div>
                         </div>
 
                         <div class="faq-item">
@@ -793,10 +793,10 @@
 
                         <div class="faq-item">
                             <button class="faq-q" aria-expanded="false">
-                                <span>What are the charges for duplicate mark sheet / certificate?</span>
+                                <span>What are the charges for duplicate grade sheet / certificate?</span>
                                 <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                             </button>
-                            <div class="faq-a"><p>Yes, for duplicate mark sheets, students need to pay semester-wise fees, i.e., INR 500/- or $15 per semester. For duplicate certificates, students need to pay INR 250 or $25.</p></div>
+                            <div class="faq-a"><p>Yes, for duplicate grade sheets, students need to pay semester-wise fees, i.e., INR 500/- or $15 per semester. For duplicate certificates, students need to pay INR 250 or $25.</p></div>
                         </div>
 
                         <div class="faq-item">
@@ -804,7 +804,7 @@
                                 <span>What is the process to get a Bonafide Certificate?</span>
                                 <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                             </button>
-                            <div class="faq-a"><p>For a bonafide certificate, students need to pay bonafide charges, i.e., INR 250/- or $25, and raise a ticket to the concerned department with transaction details. Note: Provisionally Students are not eligible for bonafide certificates.</p></div>
+                            <div class="faq-a"><p>For a bonafide certificate, students need to pay bonafide charges, i.e., INR 250/- or $25, and raise a ticket to the concerned department with transaction details.</p></div>
                         </div>
 
                         <div class="faq-item">
@@ -820,12 +820,12 @@
                                 <span>What is the process for the WES (World Education Services) process?</span>
                                 <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                             </button>
-                            <div class="faq-a"><p>Only AICTE-approved courses are eligible for the WES evaluation process. We require the WES Application form with the WES reference number, along with a scanned copy of the Gradesheet. The student has to apply for the Transcript Certificate and pay the Transcript fee receipt. The fee is 1000 rupees. You will receive the mark sheet within 45-60 working days.</p></div>
+                            <div class="faq-a"><p>Only AICTE-approved courses are eligible for the WES evaluation process. We require the WES Application form with the WES reference number, along with a scanned copy of the Gradesheet. The student has to apply for the Transcript Certificate and pay the Transcript fee receipt. The fee is 1000 rupees. You will receive the grade sheet within 45-60 working days.</p></div>
                         </div>
 
                         <div class="faq-item">
                             <button class="faq-q" aria-expanded="false">
-                                <span>Can I obtain a soft copy of the mark sheet for the final semester?</span>
+                                <span>Can I obtain a soft copy of the grade sheet for the final semester?</span>
                                 <svg class="faq-chevron" viewBox="0 0 24 24" fill="none">
                                     <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
                                 </svg>
@@ -837,7 +837,7 @@
 
                         <div class="faq-item">
                             <button class="faq-q" aria-expanded="false">
-                                <span>What are the charges for duplicate mark sheets per semester?</span>
+                                <span>What are the charges for duplicate grade sheets per semester?</span>
                                 <svg class="faq-chevron" viewBox="0 0 24 24" fill="none">
                                     <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
                                 </svg>
@@ -873,14 +873,13 @@
                             </button>
                             <div class="faq-a">
                                 <p>
-                                    Students' course status should not be provisionally enrolled. There should be no
-                                    pending payments, and all subjects along with assignments have to be completed.
+                                    Students' course status should not be marked as “Provisionally Enrolled.” The student must have no pending dues, and all course fees and other applicable fees must be fully paid. Additionally, all subjects and assignments must be completed before the course status is considered complete.
                                 </p>
                             </div>
                         </div>
 
                     </div>
-                </div><!-- /cws-marksheet -->
+                </div><!-- /cws-gradesheet -->
 
                 <!-- ── Tab 4: Admission Process ── -->
                 <div class="cws-tab-pane" id="cws-admission" style="display:none;">
@@ -951,7 +950,7 @@
                             <div class="faq-a">
                                 <p>Share pending documents at enrollment@mitsde.com. Pending documents include:</p>
                                 <ul class="ac-list">
-                                    <li>Graduation Marksheet / Certificate</li>
+                                    <li>Graduation Grade Sheet / Certificate</li>
                                     <li>Work Experience letter</li>
                                     <li>ID Proof</li>
                                     <li>Colour photo</li>

@@ -75,7 +75,7 @@
       <div class="sf-nav-col">
         <h5 class="sf-nav-heading">Resources</h5>
         <ul class="sf-nav-list">
-          <li><a href="https://myaccount.mitsde.com/" target="_blank">My Account</a></li>
+          <li><a href="https://mitpro.mitsde.com/" target="_blank">My Account</a></li>
           <li><a href="placement">Placement</a></li>
           <li><a href="feedback">Feedback</a></li>
           <li><a href="chat-with-support">Student Support</a></li>
@@ -147,16 +147,16 @@
         <div class="sf-prog-group">
           <h6 class="sf-prog-heading">PGDM Specialization</h6>
           <ul class="sf-prog-list">
-            <li><a href="pg-diploma-in-project-management">PGDM in Project Management</a></li>
-            <li><a href="pg-diploma-in-operations-management">PGDM in Operations Management</a></li>
-            <li><a href="pg-diploma-in-human-resource-management">PGDM in Human Resource Management</a></li>
-            <li><a href="pg-diploma-in-information-technology">PGDM in Information Technology</a></li>
-            <li><a href="pg-diploma-in-marketing-management">PGDM in Marketing Management</a></li>
-            <li><a href="pg-diploma-in-finance-management">PGDM in Finance Management</a></li>
-            <li><a href="pg-diploma-in-supply-chain-management">PGDM in Logistics and Supply Chain Management</a></li>
-            <li><a href="pg-diploma-in-material-management">PGDM in Material Management</a></li>
-            <li><a href="pg-diploma-in-banking-finance">PGDM in Banking &amp; Financial Services</a></li>
-            <li><a href="pg-diploma-in-construction-and-project-management">PGDM in Construction And Project Management</a></li>
+            <li><a href="pg-diploma-in-project-management">PGDM Project Management</a></li>
+            <li><a href="pg-diploma-in-operations-management">PGDM Operations Management</a></li>
+            <li><a href="pg-diploma-in-human-resource-management">PGDM Human Resource Management</a></li>
+            <li><a href="pg-diploma-in-information-technology">PGDM Information Technology</a></li>
+            <li><a href="pg-diploma-in-marketing-management">PGDM Marketing Management</a></li>
+            <li><a href="pg-diploma-in-finance-management">PGDM Finance Management</a></li>
+            <li><a href="pg-diploma-in-supply-chain-management">PGDM Logistics and Supply Chain Management</a></li>
+            <li><a href="pg-diploma-in-material-management">PGDM Material Management</a></li>
+            <li><a href="pg-diploma-in-banking-finance">PGDM Banking &amp; Financial Services</a></li>
+            <li><a href="pg-diploma-in-construction-and-project-management">PGDM Construction And Project Management</a></li>
           </ul>
         </div>
         <hr class="sf-prog-hr" />
@@ -165,6 +165,13 @@
           <ul class="sf-prog-list">
             <li><a href="post-graduate-certificate-in-business-analytics">PGCM Business Analytics</a></li>
             <li><a href="post-graduate-certificate-in-digital-marketing">PGCM Digital Marketing</a></li>
+          </ul>
+        </div>
+        <hr class="sf-prog-hr" />
+        <div class="sf-prog-group">
+          <h6 class="sf-prog-heading">Dual Executive Programs</h6>
+          <ul class="sf-prog-list">
+            <li><a href="pgdm-executive-emba-dual-program">EMBA+ PGDM Executive</a></li>
           </ul>
         </div>
         <!-- <hr class="sf-prog-hr" />
@@ -188,15 +195,10 @@
       <!-- Card 2 -->
       <div class="sf-prog-card">
         <div class="sf-prog-group">
-          <h6 class="sf-prog-heading">Dual Executive Programs</h6>
-          <ul class="sf-prog-list">
-            <li><a href="pgdm-executive-emba-dual-program">EMBA+ PGDM Executive</a></li>
-          </ul>
-        </div>
-        <hr class="sf-prog-hr" />
-        <div class="sf-prog-group">
           <h6 class="sf-prog-heading">EMBA Specialization</h6>
           <ul class="sf-prog-list">
+            <li><a href="executive-mba-in-international-business">EMBA International Business</a></li>
+            <li><a href="executive-mba-in-supply-chain-management">EMBA Supply Chain Management</a></li>
             <li><a href="executive-mba-finance-management">EMBA Finance</a></li>
             <li><a href="executive-mba-human-resource-management">EMBA HR</a></li>
             <li><a href="executive-mba-marketing">EMBA Marketing</a></li>
@@ -209,6 +211,8 @@
         <div class="sf-prog-group">
           <h6 class="sf-prog-heading">Professional Certifications</h6>
           <ul class="sf-prog-list">
+            <li><a href="certification-in-digital-marketing">PCP Digital Marketing</a></li>
+            <li><a href="certification-in-business-analytics">PCP Business Analytics</a></li>
             <li><a href="certification-in-operations-management">PCP Operations</a></li>
             <li><a href="certification-in-finance-management">PCP Finance</a></li>
             <li><a href="certification-in-human-resource-management">PCP Human Resource</a></li>
@@ -225,6 +229,12 @@
         <div class="sf-prog-group">
           <h6 class="sf-prog-heading">PGDM Exec. Specialization</h6>
           <ul class="sf-prog-list">
+            <li><a href="digital-marketing-strategist"><span>Chief Digital Marketing Strategist Program</a></li>
+            <li><a href="pgdm-executive-in-international-business"><span>PGDM Exec International Business</a></li>
+            <li><a href="pgdm-executive-in-sustainability-esg"><span>PGDM Exec Sustainability & ESG</a></li>
+            <li><a href="pgdm-executive-in-digital-marketing"><span>PGDM Exec Digital Marketing</a></li>
+            <li><a href="pgdm-executive-in-business-analytics"><span>PGDM Exec Business Analytics</a></li>
+            <li><a href="pgdm-executive-in-information-technology"><span>PGDM Exec Information Technology</a></li>
             <li><a href="pgdm-executive-in-modern-project-management">PGDM Exec Modern Project Management</a></li>
             <li><a href="pgdm-executive-in-technology-and-operations-management">PGDM Exec Technology & Operations</a></li>
             <li><a href="pgdm-executive-in-human-capital-management">PGDM Exec Human Capital Management</a></li>

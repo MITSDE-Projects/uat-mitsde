@@ -148,6 +148,7 @@
                             copies of</p>
                         <ul class="ac-list">
                             <li>Standard 10th mark sheet or certificate from recognized board</li>
+                            <li>ID Proof (Aadhar Card ,Pan card or driving license)</li>
                             <li>10+2 / 12th grade pass / or equivalent course mark sheet or certificate from recognized
                                 board</li>
                             <li>Graduation - consolidated mark sheet / certificate from recognized university (**In case
@@ -160,6 +161,7 @@
                             copies of</p>
                         <ul class="ac-list">
                             <li>Standard 10th mark sheet or certificate from recognized board</li>
+                            <li>ID Proof (Aadhar Card ,Pan card or driving license)</li>
                             <li>10+2 / 12th grade pass / or equivalent course mark sheet or certificate from recognized
                                 board</li>
                             <li>Graduation - consolidated mark sheet / certificate from recognized university (**In case
@@ -196,7 +198,17 @@
                             <li>Payment receipt</li>
                         </ul>
 
-                        <p class="ac-title">Professional Certification Programs - <br>Self-attested scanned copies of
+                        <p class="ac-title">Professional Certification Programs (PCP) - <br>Self-attested scanned copies of
+                        </p>
+                        <ul class="ac-list">
+                            <li>Standard 10th mark sheet or certificate from recognized board</li>
+                            <li>10+2 / 12th grade pass</li>
+                            <li>ID Proof (Aadhar Card ,Pan card or driving license)</li>
+                            <li>Passport size color photograph</li>
+                            <li>Payment receipt</li>
+                        </ul>
+
+                        <p class="ac-title">Career Acceletator Programs (CAP) - <br>Self-attested scanned copies of
                         </p>
                         <ul class="ac-list">
                             <li>Standard 10th mark sheet or certificate from recognized board</li>
@@ -250,14 +262,7 @@
                         </svg>
                     </button>
                     <div class="faq-a">
-                        <p>Students appearing for their final year may also apply. However, MITSDE will process the
-                            admission as a provisional one; on receipt of the Degree or Provisional Certificate, the
-                            admission will be confirmed.</p>
-                        <p>In case the documents are not submitted within six months of taking the provisional
-                            admission, the admission will stand cancelled and all the fees will be forfeited. Exams
-                            cannot be taken until the admission is confirmed.</p>
-                        <P>For the admission to be confirmed, you will have to submit the required documents within six
-                            months from the date of admission taken.</P>
+                        <p>The required pending documents must be submitted within six months from the date of admission. If the documents are not submitted within this period, the student’s MITSDE grade sheet and certificate will be kept on hold until the required documents are received and the admission is confirmed.</p>
                     </div>
                 </div>
 
@@ -461,39 +466,21 @@
 
                                         <tbody>
                                             <tr>
-                                                <td class="tbl-label">Advance Certificate in UI/UX</td>
-                                                <td>84,500</td>
+                                                <td class="tbl-label">SQL- POWER BI</td>
+                                                <td>12,700</td>
                                                 <td>1,000</td>
-                                                <td>6,000</td>
-                                                <td>3,500</td>
-                                                <td class="tbl-accent">95,000</td>
+                                                <td>4,000</td>
+                                                <td>-</td>
+                                                <td class="tbl-accent">17,700</td>
                                             </tr>
 
                                             <tr>
-                                                <td class="tbl-label">AI in Digital Marketing</td>
-                                                <td>69,500</td>
+                                                <td class="tbl-label">Gen AI</td>
+                                                <td>20,000</td>
                                                 <td>1,000</td>
-                                                <td>6,000</td>
-                                                <td>3,500</td>
-                                                <td class="tbl-accent">80,000</td>
-                                            </tr>
-
-                                            <tr>
-                                                <td class="tbl-label">AI &amp; Machine Learning</td>
-                                                <td>70,500</td>
-                                                <td>1,000</td>
-                                                <td>5,000</td>
-                                                <td>3,500</td>
-                                                <td class="tbl-accent">80,000</td>
-                                            </tr>
-
-                                            <tr>
-                                                <td class="tbl-label">Data Science</td>
-                                                <td>70,500</td>
-                                                <td>1,000</td>
-                                                <td>5,000</td>
-                                                <td>3,500</td>
-                                                <td class="tbl-accent">80,000</td>
+                                                <td>4,000</td>
+                                                <td>-</td>
+                                                <td class="tbl-accent">25,000</td>
                                             </tr>
 
                                             <tr>
