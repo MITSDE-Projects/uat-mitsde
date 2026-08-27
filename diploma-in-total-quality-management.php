@@ -268,9 +268,11 @@
                 <div class="row">
                     <ul class="app-features">
                         <li><a class="active" href="#overview">About Program</a></li>
-                        <li><a href="#learning">Learning</a></li>
+                        <li><a href="#curriculum">Curriculum</a></li>
                         <li><a href="#progressFee">Program Fees</a></li>
-                        <li><a href="#learnExpert">Our Courses</a></li>
+                        <li><a href="#faculty">Faculty</a></li>
+                        <li><a href="#certificate">Certification</a></li>
+                        <li><a href="#faq">FAQ</a></li>
                     </ul>
                 </div>
             </div>
@@ -449,7 +451,7 @@
             </div>
         </section>
 
-        <section class="enroll-certification">
+        <section id="curriculum" class="enroll-certification">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 col-lg-12 fintech-certi aboutMit-skills">
@@ -735,7 +737,7 @@
             </div>
         </section>
 
-        <section id="learnExpert">
+        <section id="faculty">
             <div class="container">
                 <h2 class="fw-bold mb-5">Trainer Profile</h2>
                 <div class="row">
@@ -1396,7 +1398,7 @@
             </div>
         </section>
 
-        <section id="certificates" class="enroll-certification pt-3">
+        <section id="certificate" class="enroll-certification pt-3">
             <div class="container py-5">
                 <div class="col-md-12 col-lg-12 fintech-certi aboutMit-skills">
                     <h2>Program Certification</h2>
