@@ -439,7 +439,8 @@
                 <div class="row">
 
                     <div class="col-md-12 col-lg-12 fintech-certi aboutMit-skills">
-                        <h2>AI-Lean Six Sigma Green Belt - Training Content</h2>
+                        <h2>Curriculum</h2>
+                        <h3>AI-Lean Six Sigma Green Belt - Training Content</h3>
                     </div>
 
                     <table class="table">

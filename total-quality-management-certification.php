@@ -453,157 +453,204 @@
         </section>
 
         <section id="curriculum" class="enroll-certification">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 col-lg-12 fintech-certi aboutMit-skills">
-                        <h2>Certification in Total Quality Management </h2>
-                    </div>
-                    <ul class="curriculum">
-                        <table class="table">
+    <div class="container">
+        <div class="row">
 
-                                <!-- Module TQM-101 -->
-                                <tr>
-                                    <th><b>Module TQM - 101</b></th>
-                                    <th><b>Total Quality Management Fundamentals</b></th>
-                                </tr>
-                                <tr>
-                                    <td></td>
-                                    <td>Principles and Concepts of TQM</td>
-                                </tr>
-                                <tr>
-                                    <td></td>
-                                    <td>Elements of TQM</td>
-                                </tr>
-                                <tr>
-                                    <td></td>
-                                    <td>Phil Crosby’s “Cost of Quality”</td>
-                                </tr>
-                                <tr>
-                                    <td></td>
-                                    <td>The Eight Principles of Quality Management.</td>
-                                </tr>
-
-
-                                <!-- Module TQM-102 -->
-                                <tr>
-                                    <th><b>Module TQM - 102</b></th>
-                                    <th><b>Statistical and other Tools &amp; Techniques</b></th>
-                                </tr>
-                                <tr>
-                                    <td></td>
-                                    <td><b>Important Tools of Quality:</b></td>
-                                </tr>
-                                <tr>
-                                    <td></td>
-                                    <td>Check-Sheet</td>
-                                </tr>
-                                <tr>
-                                    <td></td>
-                                    <td>Check-list</td>
-                                </tr>
-                                <tr>
-                                    <td></td>
-                                    <td>Flow-chart &amp; Process Map analysis</td>
-                                </tr>
-                                <tr>
-                                    <td></td>
-                                    <td>Fishbone for brainstorming</td>
-                                </tr>
-                                <tr>
-                                    <td></td>
-                                    <td>Pareto Chart</td>
-                                </tr>
-                                <tr>
-                                    <td></td>
-                                    <td>Why-why analysis</td>
-                                </tr>
-                                <tr>
-                                    <td></td>
-                                    <td>Multi-voting</td>
-                                </tr>
-                                <tr>
-                                    <td></td>
-                                    <td>Pareto chart</td>
-                                </tr>
-                                <tr>
-                                    <td></td>
-                                    <td>Root Cause Analysis (RCA) and Poka Yoke</td>
-                                </tr>
-                                <tr>
-                                    <td></td>
-                                    <td>Scatter Plot (Correlation analysis)</td>
-                                </tr>
-
-                                <!-- Module TQM-103 -->
-                                <tr>
-                                    <th><b>Module TQM - 103</b></th>
-                                    <th><b>Customer Focus, Employee Participation and Teamwork</b></th>
-                                </tr>
-                                <tr>
-                                    <td></td>
-                                    <td>Identifying Customer Needs</td>
-                                </tr>
-                                <tr>
-                                    <td></td>
-                                    <td>Customer Satisfaction Measurement Techniques</td>
-                                </tr>
-                                <tr>
-                                    <td></td>
-                                    <td>Quality Function Deployment</td>
-                                </tr>
-                                <tr>
-                                    <td></td>
-                                    <td>Cross Functional Teams - Value for customer through S.Q.C.D.</td>
-                                </tr>
-                                <tr>
-                                    <td></td>
-                                    <td>Quality Circles</td>
-                                </tr>
-                                <tr>
-                                    <td></td>
-                                    <td>Employee Suggestion Programs</td>
-                                </tr>
-                                <tr>
-                                    <td></td>
-                                    <td>Getting Quality Goods from your Suppliers</td>
-                                </tr>
-
-
-                                <!-- Module TQM-104 -->
-                                <tr>
-                                    <th><b>Module TQM - 104</b></th>
-                                    <th><b>Implementing Methods for Continual Improvement: Kaizen, 3Ms, 5S</b></th>
-                                </tr>
-                                <tr>
-                                    <td></td>
-                                    <td>Lean Management Basics - the 08 wastes</td>
-                                </tr>
-                                <tr>
-                                    <td></td>
-                                    <td>Stop to Fix Problems (Jidoka, Poka Yoke) - RCA, PA, CA</td>
-                                </tr>
-                                <tr>
-                                    <td></td>
-                                    <td>3Ms: MUDA, MURA, MURI</td>
-                                </tr>
-                                <tr>
-                                    <td></td>
-                                    <td>GEMBA KAIZEN for continual improvement</td>
-                                </tr>
-                                <tr>
-                                    <td></td>
-                                    <td>5S Techniques of Good Housekeeping</td>
-                                </tr>
-                                <tr>
-                                    <td></td>
-                                    <td>Improving Management Practices through Benchmarking</td>
-                                </tr>
-
-                        </table>
-                    </ul>
-                </div>
+            <div class="col-md-12 col-lg-12 fintech-certi aboutMit-skills">
+                <h2>Curriculum</h2>
+                <h3>Certification in Total Quality Management</h3>
             </div>
-        </section>
+
+            <div class="cur-accordiaon mt-4">
+
+                <div class="accordion curriculum-accordion" id="curriculumAccordion">
+
+                    <!-- Module TQM-101 -->
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="curriculumHeading101">
+                            <button class="accordion-button collapsed" type="button"
+                                data-bs-toggle="collapse"
+                                data-bs-target="#curriculumModule101"
+                                aria-expanded="false"
+                                aria-controls="curriculumModule101">
+
+                                Module TQM - 101
+
+                            </button>
+                        </h2>
+
+                        <div id="curriculumModule101"
+                            class="accordion-collapse collapse"
+                            aria-labelledby="curriculumHeading101"
+                            data-bs-parent="#curriculumAccordion">
+
+                            <div class="accordion-body hero10">
+                                <div class="row">
+                                    <div class="col-md-12 col-lg-12">
+                                        <div class="fintech-module alert brandcolor">
+
+                                            <h5>Total Quality Management Fundamentals</h5>
+
+                                            <ul>
+                                                <li>Principles and Concepts of TQM</li>
+                                                <li>Elements of TQM</li>
+                                                <li>Phil Crosby’s “Cost of Quality”</li>
+                                                <li>The Eight Principles of Quality Management.</li>
+                                            </ul>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+
+
+                    <!-- Module TQM-102 -->
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="curriculumHeading102">
+                            <button class="accordion-button collapsed" type="button"
+                                data-bs-toggle="collapse"
+                                data-bs-target="#curriculumModule102"
+                                aria-expanded="false"
+                                aria-controls="curriculumModule102">
+
+                                Module TQM - 102
+
+                            </button>
+                        </h2>
+
+                        <div id="curriculumModule102"
+                            class="accordion-collapse collapse"
+                            aria-labelledby="curriculumHeading102"
+                            data-bs-parent="#curriculumAccordion">
+
+                            <div class="accordion-body hero10">
+                                <div class="row">
+                                    <div class="col-md-12 col-lg-12">
+                                        <div class="fintech-module alert brandcolor">
+
+                                            <h5>Statistical and other Tools &amp; Techniques</h5>
+
+                                            <ul>
+                                                <li><b>Important Tools of Quality:</b></li>
+                                                <li>Check-Sheet</li>
+                                                <li>Check-list</li>
+                                                <li>Flow-chart &amp; Process Map analysis</li>
+                                                <li>Fishbone for brainstorming</li>
+                                                <li>Pareto Chart</li>
+                                                <li>Why-why analysis</li>
+                                                <li>Multi-voting</li>
+                                                <li>Pareto chart</li>
+                                                <li>Root Cause Analysis (RCA) and Poka Yoke</li>
+                                                <li>Scatter Plot (Correlation analysis)</li>
+                                            </ul>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+
+
+                    <!-- Module TQM-103 -->
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="curriculumHeading103">
+                            <button class="accordion-button collapsed" type="button"
+                                data-bs-toggle="collapse"
+                                data-bs-target="#curriculumModule103"
+                                aria-expanded="false"
+                                aria-controls="curriculumModule103">
+
+                                Module TQM - 103
+
+                            </button>
+                        </h2>
+
+                        <div id="curriculumModule103"
+                            class="accordion-collapse collapse"
+                            aria-labelledby="curriculumHeading103"
+                            data-bs-parent="#curriculumAccordion">
+
+                            <div class="accordion-body hero10">
+                                <div class="row">
+                                    <div class="col-md-12 col-lg-12">
+                                        <div class="fintech-module alert brandcolor">
+
+                                            <h5>Customer Focus, Employee Participation and Teamwork</h5>
+
+                                            <ul>
+                                                <li>Identifying Customer Needs</li>
+                                                <li>Customer Satisfaction Measurement Techniques</li>
+                                                <li>Quality Function Deployment</li>
+                                                <li>Cross Functional Teams - Value for customer through S.Q.C.D.</li>
+                                                <li>Quality Circles</li>
+                                                <li>Employee Suggestion Programs</li>
+                                                <li>Getting Quality Goods from your Suppliers</li>
+                                            </ul>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+
+
+                    <!-- Module TQM-104 -->
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="curriculumHeading104">
+                            <button class="accordion-button collapsed" type="button"
+                                data-bs-toggle="collapse"
+                                data-bs-target="#curriculumModule104"
+                                aria-expanded="false"
+                                aria-controls="curriculumModule104">
+
+                                Module TQM - 104
+
+                            </button>
+                        </h2>
+
+                        <div id="curriculumModule104"
+                            class="accordion-collapse collapse"
+                            aria-labelledby="curriculumHeading104"
+                            data-bs-parent="#curriculumAccordion">
+
+                            <div class="accordion-body hero10">
+                                <div class="row">
+                                    <div class="col-md-12 col-lg-12">
+                                        <div class="fintech-module alert brandcolor">
+
+                                            <h5>Implementing Methods for Continual Improvement: Kaizen, 3Ms, 5S</h5>
+
+                                            <ul>
+                                                <li>Lean Management Basics - the 08 wastes</li>
+                                                <li>Stop to Fix Problems (Jidoka, Poka Yoke) - RCA, PA, CA</li>
+                                                <li>3Ms: MUDA, MURA, MURI</li>
+                                                <li>GEMBA KAIZEN for continual improvement</li>
+                                                <li>5S Techniques of Good Housekeeping</li>
+                                                <li>Improving Management Practices through Benchmarking</li>
+                                            </ul>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+</section>
 
         <section id="learning" class="enroll-certification">
             <div class="container">

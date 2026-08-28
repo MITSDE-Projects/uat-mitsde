@@ -439,203 +439,192 @@
         <div class="row">
 
             <div class="col-md-12 col-lg-12 fintech-certi aboutMit-skills">
-                <h2>Lean Six Sigma Black Belt - Training Content</h2>
+                <h2>Curriculum</h2>
+                <h3>Lean Six Sigma Black Belt - Training Content</h3>
             </div>
 
-            <table class="table">
+            <div class="cur-accordiaon mt-4">
 
-                <!-- MODULE 1 -->
-                <tr>
-                    <th><b>SR No.</b></th>
-                    <th><b>Topic</b></th>
-                </tr>
-                <tr>
-                    <th>1</th>
-                    <th><b>MODULE - 1</b></th>
-                </tr>
+                <div class="accordion curriculum-accordion" id="curriculumAccordion">
 
-                <tr>
-                    <td></td>
-                    <td><b>GB Revision Quiz for entry to GB Level</b></td>
-                </tr>
+                    <!-- MODULE 1 -->
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="curriculumHeading1">
+                            <button class="accordion-button collapsed" type="button"
+                                data-bs-toggle="collapse"
+                                data-bs-target="#curriculumModule1"
+                                aria-expanded="false"
+                                aria-controls="curriculumModule1">
 
-                <tr>
-                    <td></td>
-                    <td><b>Design For Six Sigma (DFSS)</b></td>
-                </tr>
+                                MODULE - 1
 
-                <tr>
-                    <td></td>
-                    <td>Define – Measure – Analyze – Improve - Control</td>
-                </tr>
+                            </button>
+                        </h2>
 
-                <tr>
-                    <td></td>
-                    <td>Pugh Matrix</td>
-                </tr>
+                        <div id="curriculumModule1"
+                            class="accordion-collapse collapse"
+                            aria-labelledby="curriculumHeading1"
+                            data-bs-parent="#curriculumAccordion">
 
-                <tr>
-                    <td></td>
-                    <td>QFD</td>
-                </tr>
+                            <div class="accordion-body hero10">
+                                <div class="row">
+                                    <div class="col-md-12 col-lg-12">
+                                        <div class="fintech-module alert brandcolor">
 
-                <tr>
-                    <td></td>
-                    <td>Voice of Customer</td>
-                </tr>
+                                            <ul>
+                                                <li><b>GB Revision Quiz for entry to GB Level</b></li>
+                                                <li><b>Design For Six Sigma (DFSS)</b></li>
+                                                <li>Define – Measure – Analyze – Improve - Control</li>
+                                                <li>Pugh Matrix</li>
+                                                <li>QFD</li>
+                                                <li>Voice of Customer</li>
+                                                <li>Ethnography</li>
+                                                <li>Kano Model</li>
+                                                <li>CT Matrix</li>
+                                                <li>DMADV Overview</li>
+                                                <li>Design Of Experiments (DOE)</li>
+                                                <li><b>More on BB Projects</b></li>
+                                                <li>SIRPORC Diagram</li>
+                                                <li>Selecting The Right Projects</li>
+                                                <li>Pareto Priority Index</li>
+                                                <li>Template For Project Charter - Lean Six Sigma Black Belt Project:</li>
+                                                <li>The DMAIC Process – Choice Of Tools</li>
+                                                <li>Other Templates</li>
+                                            </ul>
 
-                <tr>
-                    <td></td>
-                    <td>Ethnography</td>
-                </tr>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
 
-                <tr>
-                    <td></td>
-                    <td>Kano Model</td>
-                </tr>
-
-                <tr>
-                    <td></td>
-                    <td>CT Matrix</td>
-                </tr>
-
-                <tr>
-                    <td></td>
-                    <td>DMADV Overview</td>
-                </tr>
-
-                <tr>
-                    <td></td>
-                    <td>Design Of Experiments (DOE)</td>
-                </tr>
-
-                <tr>
-                    <td></td>
-                    <td><b>More on BB Projects</b></td>
-                </tr>
-
-                <tr>
-                    <td></td>
-                    <td>SIRPORC Diagram</td>
-                </tr>
-
-                <tr>
-                    <td></td>
-                    <td>Selecting The Right Projects</td>
-                </tr>
-
-                <tr>
-                    <td></td>
-                    <td>Pareto Priority Index</td>
-                </tr>
-
-                <tr>
-                    <td></td>
-                    <td>Template For Project Charter - Lean Six Sigma Black Belt Project:</td>
-                </tr>
-
-                <tr>
-                    <td></td>
-                    <td>The DMAIC Process – Choice Of Tools</td>
-                </tr>
-
-                <tr>
-                    <td></td>
-                    <td>Other Templates</td>
-                </tr>
+                        </div>
+                    </div>
 
 
-                <!-- MODULE 2 -->
-                <tr>
-                    <th>2</th>
-                    <th><b>MODULE – 2</b></th>
-                </tr>
+                    <!-- MODULE 2 -->
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="curriculumHeading2">
+                            <button class="accordion-button collapsed" type="button"
+                                data-bs-toggle="collapse"
+                                data-bs-target="#curriculumModule2"
+                                aria-expanded="false"
+                                aria-controls="curriculumModule2">
 
-                <tr>
-                    <td></td>
-                    <td>Descriptive Statistics</td>
-                </tr>
+                                MODULE - 2
 
-                <tr>
-                    <td></td>
-                    <td>Data Distribution, Skewness, Kurtosis,</td>
-                </tr>
+                            </button>
+                        </h2>
 
-                <tr>
-                    <td></td>
-                    <td>Box &amp; Whisker Plots</td>
-                </tr>
+                        <div id="curriculumModule2"
+                            class="accordion-collapse collapse"
+                            aria-labelledby="curriculumHeading2"
+                            data-bs-parent="#curriculumAccordion">
 
-                <tr>
-                    <td></td>
-                    <td>Inferential Statistics.</td>
-                </tr>
+                            <div class="accordion-body hero10">
+                                <div class="row">
+                                    <div class="col-md-12 col-lg-12">
+                                        <div class="fintech-module alert brandcolor">
 
+                                            <ul>
+                                                <li>Descriptive Statistics</li>
+                                                <li>Data Distribution, Skewness, Kurtosis,</li>
+                                                <li>Box &amp; Whisker Plots</li>
+                                                <li>Inferential Statistics.</li>
+                                            </ul>
 
-                <!-- MODULE 3 -->
-                <tr>
-                    <th>3</th>
-                    <th><b>MODULE – 3</b></th>
-                </tr>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
 
-                <tr>
-                    <td></td>
-                    <td>Confidence Intervals</td>
-                </tr>
-
-                <tr>
-                    <td></td>
-                    <td>Hypothesis Testing (z-test / t-test for one population mean)</td>
-                </tr>
-
-                <tr>
-                    <td></td>
-                    <td>Hypothesis Testing (z-test / t-test for two population means)</td>
-                </tr>
-
-                <tr>
-                    <td></td>
-                    <td>(ANOVA – Analysis of Variances)</td>
-                </tr>
-
-                <tr>
-                    <td></td>
-                    <td>Regression Analysis</td>
-                </tr>
+                        </div>
+                    </div>
 
 
-                <!-- MODULE 4 -->
-                <tr>
-                    <th>4</th>
-                    <th><b>MODULE – 4</b></th>
-                </tr>
+                    <!-- MODULE 3 -->
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="curriculumHeading3">
+                            <button class="accordion-button collapsed" type="button"
+                                data-bs-toggle="collapse"
+                                data-bs-target="#curriculumModule3"
+                                aria-expanded="false"
+                                aria-controls="curriculumModule3">
 
-                <tr>
-                    <td></td>
-                    <td>Six Sigma – A complete Management System</td>
-                </tr>
+                                MODULE - 3
 
-                <tr>
-                    <td></td>
-                    <td>Lean Tools Implementation</td>
-                </tr>
+                            </button>
+                        </h2>
 
-                <tr>
-                    <td></td>
-                    <td>Balanced Scorecard</td>
-                </tr>
+                        <div id="curriculumModule3"
+                            class="accordion-collapse collapse"
+                            aria-labelledby="curriculumHeading3"
+                            data-bs-parent="#curriculumAccordion">
 
-                <tr>
-                    <td></td>
-                    <td>Benchmarking Techniques</td>
-                </tr>
+                            <div class="accordion-body hero10">
+                                <div class="row">
+                                    <div class="col-md-12 col-lg-12">
+                                        <div class="fintech-module alert brandcolor">
 
-                <tr>
-                    <td></td>
-                    <td>Measurement System Analysis (MSA)</td>
-                </tr>
+                                            <ul>
+                                                <li>Confidence Intervals</li>
+                                                <li>Hypothesis Testing (z-test / t-test for one population mean)</li>
+                                                <li>Hypothesis Testing (z-test / t-test for two population means)</li>
+                                                <li>(ANOVA - Analysis of Variances)</li>
+                                                <li>Regression Analysis</li>
+                                            </ul>
 
-            </table>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+
+
+                    <!-- MODULE 4 -->
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="curriculumHeading4">
+                            <button class="accordion-button collapsed" type="button"
+                                data-bs-toggle="collapse"
+                                data-bs-target="#curriculumModule4"
+                                aria-expanded="false"
+                                aria-controls="curriculumModule4">
+
+                                MODULE - 4
+
+                            </button>
+                        </h2>
+
+                        <div id="curriculumModule4"
+                            class="accordion-collapse collapse"
+                            aria-labelledby="curriculumHeading4"
+                            data-bs-parent="#curriculumAccordion">
+
+                            <div class="accordion-body hero10">
+                                <div class="row">
+                                    <div class="col-md-12 col-lg-12">
+                                        <div class="fintech-module alert brandcolor">
+
+                                            <ul>
+                                                <li>Six Sigma – A complete Management System</li>
+                                                <li>Lean Tools Implementation</li>
+                                                <li>Balanced Scorecard</li>
+                                                <li>Benchmarking Techniques</li>
+                                                <li>Measurement System Analysis (MSA)</li>
+                                            </ul>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
 
         </div>
     </div>
