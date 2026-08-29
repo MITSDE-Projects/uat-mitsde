@@ -225,25 +225,13 @@
                                 style="position: absolute; right: 0; top: 0; height: 100%; width: 40px; text-align: center;">
                                 <span class="visually-hidden">Toggle Dropdown</span>
                             </a>
-                            <ul class="dropdown-menu secondDrop" style="width: 255px;">
-                                <li><a class="dropdown-item" href="power-bi-certification">SQL Power bi certification
-                                    </a></li>
-                                <li><a class="dropdown-item" href="gen-ai-for-educators">Gen AI for Educators
-                                    </a></li>
-                                <!-- <li><a class="dropdown-item" href="advanced-certificate-in-ui-ux">Advanced Certificate
-                                        In UI
-                                        UX</a></li> -->
-
-                                <!-- <li><a class="dropdown-item" href="ai-in-digital-marketing">AI in Digital Marketing</a>
-                                </li> -->
-                                <!--<li><a class="dropdown-item" href="ai-in-machine-learning">AI and Machine Learning</a>
-                                </li>
-
-                                <li><a class="dropdown-item" href="data-science">Data Science</a></li>-->
-
-
-
-
+                            <ul class="dropdown-menu secondDrop" style="width: 100%;">
+                                <li><a class="dropdown-item" href="power-bi-certification">SQL Power bi certification</a></li>
+                                <li><a class="dropdown-item" href="gen-ai-for-educators">Gen AI for Educators</a></li>
+                                <li><a class="dropdown-item" href="ai-lean-six-sigma-green-belt-certification">AI-Lean Six Sigma Green Belt Certification</a></li>
+                                <li><a class="dropdown-item" href="lean-six-sigma-black-belt-certification">Lean Six Sigma Black Belt Certification</a></li>
+                                <li><a class="dropdown-item" href="total-quality-management-certification">Certification in Total Quality Management</a></li>
+                                <li><a class="dropdown-item" href="diploma-in-total-quality-management">Diploma in Total Quality Management</a></li>
                             </ul>
                         </li>
                         <!-- cap -->
