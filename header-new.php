@@ -373,12 +373,12 @@ else $nav_active = '';
                 <a><span class="mega-cat-label">Placement</span></a>
             </div>
 
-            <div class="mega-cat" data-cat="la-academic">
-                <a href="academic"><span class="mega-cat-label">Academic</span></a>
-            </div>
-
             <div class="mega-cat" data-cat="la-mocs">
                 <a><span class="mega-cat-label">MIT office of career services</span></a>
+            </div>
+
+            <div class="mega-cat" data-cat="la-academic">
+                <a href="academic"><span class="mega-cat-label">Academic</span></a>
             </div>
 
             <div class="mega-cat" data-cat="la-support">

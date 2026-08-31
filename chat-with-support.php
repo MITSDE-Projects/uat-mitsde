@@ -483,18 +483,6 @@
 
                         <div class="faq-item">
                             <button class="faq-q" aria-expanded="false">
-                                <span>What is MIT Harbour?</span>
-                                <svg class="faq-chevron" viewBox="0 0 24 24" fill="none">
-                                    <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                                </svg>
-                            </button>
-                            <div class="faq-a">
-                                <p>MIT Harbour is a service that assists learners beyond academics. It focuses on the holistic development of learners to develop them into well-rounded working professionals. To know more about the service and offerings under Harbour kindly visit: <a href="https://mitsde.com/harbour">https://mitsde.com/harbour</a></p>
-                            </div>
-                        </div>
-
-                        <div class="faq-item">
-                            <button class="faq-q" aria-expanded="false">
                                 <span>Is it a compulsory service or optional?</span>
                                 <svg class="faq-chevron" viewBox="0 0 24 24" fill="none">
                                     <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>

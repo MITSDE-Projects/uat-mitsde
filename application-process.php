@@ -601,6 +601,15 @@
                                 Final Decision Authority
                                 <p>The calculation of charges and refund approval shall rest solely with the Institution and its decision will be final and binding.</p>
                             </li>
+                            <li class="ac-title">
+                                Once the Admission Cancellation Form is submitted to the Accounts Department, the 40–45 working days timeline will be calculated from the date of submission.
+                            </li>
+                            <li class="ac-title">
+                                The student will be required to continue paying the applicable EMIs until the UTR number is generated and the admission cancellation process is completed.
+                            </li>
+                            <li class="ac-title">
+                                In case of any bounce charges or penalty charges, MITSDE will not be responsible for such charges.
+                            </li>
                         </ul>
                     </div>
                 </div>

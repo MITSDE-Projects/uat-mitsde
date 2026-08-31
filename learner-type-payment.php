@@ -215,127 +215,170 @@
                             <th>Charges in USD</th>
                         </tr>
                     </thead>
+
                     <tbody>
+
                         <tr>
                             <td>1</td>
-                            <td>Course Extension Fee</td>
+                            <td>Course Extension Fee (For 6 Month)</td>
                             <td class="tbl-accent">&#8377; 7,500</td>
                             <td>&#36; 300</td>
                         </tr>
+
                         <tr>
                             <td>2</td>
-                            <td>Duplicate ID Card</td>
-                            <td class="tbl-accent">&#8377; 250</td>
-                            <td>&#36; 10</td>
+                            <td>Course Extension Fee (For 1 Year)</td>
+                            <td class="tbl-accent">&#8377; 15,000</td>
+                            <td>&#36; 600</td>
                         </tr>
+
                         <tr>
                             <td>3</td>
                             <td>Replacement of Study Material</td>
                             <td class="tbl-accent">—</td>
                             <td>—</td>
                         </tr>
+
                         <tr>
                             <td></td>
                             <td class="tbl-sub">PGDM</td>
                             <td class="tbl-accent">&#8377; 8,000</td>
                             <td>&#36; 200</td>
                         </tr>
+
                         <tr>
                             <td></td>
                             <td class="tbl-sub">PGDBA</td>
                             <td class="tbl-accent">&#8377; 10,000</td>
                             <td>&#36; 250</td>
                         </tr>
+
+                        <tr>
+                            <td></td>
+                            <td class="tbl-sub">PGCM</td>
+                            <td class="tbl-accent">&#8377; 5,100</td>
+                            <td>—</td>
+                        </tr>
+
+                        <tr>
+                            <td></td>
+                            <td class="tbl-sub">PGDM-EX</td>
+                            <td class="tbl-accent">&#8377; 5,100</td>
+                            <td>—</td>
+                        </tr>
+
                         <tr>
                             <td>4</td>
                             <td>Bonafide Certificate</td>
                             <td class="tbl-accent">&#8377; 250</td>
                             <td>&#36; 25</td>
                         </tr>
+
                         <tr>
                             <td>5</td>
+                            <td>LOR Letter</td>
+                            <td class="tbl-accent">&#8377; 250</td>
+                            <td>&#36; 25</td>
+                        </tr>
+
+                        <tr>
+                            <td>6</td>
                             <td>Duplicate Certificate</td>
                             <td class="tbl-accent">&#8377; 250</td>
                             <td>&#36; 25</td>
                         </tr>
+
                         <tr>
-                            <td>6</td>
+                            <td>7</td>
+                            <td>Duplicate Grade Sheet per semester</td>
+                            <td class="tbl-accent">&#8377; 500</td>
+                            <td>—</td>
+                        </tr>
+
+                        <tr>
+                            <td>8</td>
                             <td>Transcript Certificate</td>
                             <td class="tbl-accent">&#8377; 1,000</td>
                             <td>&#36; 50</td>
                         </tr>
-                        <tr>
-                            <td>7</td>
-                            <td>Duplicate Mark Sheet per semester</td>
-                            <td class="tbl-accent">&#8377; 500</td>
-                            <td>&#36; 15</td>
-                        </tr>
-                        <tr>
-                            <td>8</td>
-                            <td>Change in Specialization</td>
-                            <td class="tbl-accent">—</td>
-                            <td>—</td>
-                        </tr>
-                        <tr>
-                            <td></td>
-                            <td class="tbl-sub">PGCM</td>
-                            <td class="tbl-accent">&#8377; 3,000</td>
-                            <td>—</td>
-                        </tr>
-                        <tr>
-                            <td></td>
-                            <td class="tbl-sub">PGDM</td>
-                            <td class="tbl-accent">&#8377; 3,000</td>
-                            <td>&#36; 150</td>
-                        </tr>
-                        <tr>
-                            <td></td>
-                            <td class="tbl-sub">PGDBA</td>
-                            <td class="tbl-accent">&#8377; 5,000</td>
-                            <td>&#36; 200</td>
-                        </tr>
+
                         <tr>
                             <td>9</td>
-                            <td>Project Evaluation</td>
-                            <td class="tbl-accent">&#8377; 2,000</td>
-                            <td>&#36; 30</td>
+                            <td>Change in Specialization (Within 6 Month)</td>
+                            <td class="tbl-accent">&#8377; 3,000</td>
+                            <td>—</td>
                         </tr>
+
                         <tr>
                             <td>10</td>
+                            <td>Change in Specialization (After 6 Month)</td>
+                            <td class="tbl-accent">&#8377; 5,000</td>
+                            <td>—</td>
+                        </tr>
+
+                        <tr>
+                            <td>11</td>
+                            <td>Course Change Charges (Within a Month)</td>
+                            <td class="tbl-accent">&#8377; 3,000</td>
+                            <td>—</td>
+                        </tr>
+
+                        <tr>
+                            <td>12</td>
+                            <td>Course Change Charges (After a Month)</td>
+                            <td class="tbl-accent">&#8377; 5,000</td>
+                            <td>—</td>
+                        </tr>
+
+                        <tr>
+                            <td>13</td>
+                            <td>Project Evaluation</td>
+                            <td class="tbl-accent">&#8377; 2,000</td>
+                            <td>—</td>
+                        </tr>
+
+                        <tr>
+                            <td>14</td>
                             <td>Late Fee Charges (per month)</td>
                             <td class="tbl-accent">&#8377; 1,000</td>
                             <td>&#36; 100</td>
                         </tr>
+
                         <tr>
-                            <td>11</td>
-                            <td>Verification Charges</td>
+                            <td>15</td>
+                            <td>Course Verification Charges</td>
                             <td class="tbl-accent">&#8377; 2,500</td>
-                            <td>&#36; 50</td>
+                            <td>—</td>
                         </tr>
+
                         <tr>
-                            <td>12</td>
+                            <td>16</td>
                             <td>International Dispatch for One Semester</td>
                             <td class="tbl-accent">&#8377; 7,500</td>
                             <td>&#36; 100</td>
                         </tr>
+
                         <tr>
-                            <td>13</td>
+                            <td>17</td>
                             <td>Elective Change Charges</td>
                             <td class="tbl-accent">&#8377; 500</td>
                             <td>—</td>
                         </tr>
+
                         <tr>
-                            <td>14</td>
+                            <td>18</td>
                             <td>Exam Fee Per Paper</td>
                             <td class="tbl-accent">&#8377; 750</td>
                             <td>—</td>
                         </tr>
+
                         <tr>
-                            <td>15</td>
+                            <td>19</td>
                             <td>Exam Form Late Fee (per semester)</td>
                             <td class="tbl-accent">&#8377; 1,000</td>
                             <td>—</td>
                         </tr>
+
                     </tbody>
                 </table>
             </div>
