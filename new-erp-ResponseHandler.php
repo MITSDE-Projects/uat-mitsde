@@ -386,7 +386,7 @@ for ($i = 0; $i < $dataSize; $i++) {
                                     <?php
                                     if ($course_Name == "Dual Program") {
                                         echo $course_Name . " - PGDM Executive Specializations: " . $Specialization_Name . ", EMBA Specializations: " . $D_Specialization_Name . " ";
-                                    } elseif ($course_id == "38" || $course_id == "47") {
+                                    } elseif ($course_id == "38" || $course_id == "47" || $course_id == "14" || $course_id == "56" || $course_id == "57" || $course_id == "58") {
                                         echo $course_Name;
                                     } else {
                                         echo $course_Name . " in " . $Specialization_Name . " ";

@@ -148,6 +148,18 @@ if ($stmt->fetch()) {
                 else if (Course == "47_Gen AI for Educators Program") {
 
                 }
+                else if (Course == "14_AI-Integrated Lean Six Sigma Green Belt") {
+
+                }
+                else if (Course == "56_Lean Six Sigma Black Belt") {
+
+                }
+                else if (Course == "57_Certification in TQM") {
+
+                }
+                else if (Course == "58_Diploma in TQM") {
+
+                }
                 else {
                     errors[errors.length] = "Select Specialization";
                 }
