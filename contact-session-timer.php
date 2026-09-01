@@ -83,8 +83,88 @@
     <section class="py-4">
         <div class="container">
 
+            <!-- ═══ AUGUST 2026 ═══ -->
+            <h2 class="section-heading mt-2 mb-3">Contact Sessions <span>August 2026</span></h2>
+
+            <h3 class="module-title-new"><strong> Cohort Live session </strong></h3>
+            <div class="tbl-wrap">
+                <table class="tbl">
+                    <thead>
+                        <tr>
+                            <th>Sr No</th>
+                            <th>Subject</th>
+                            <th>Program</th>
+                            <th>Faculty Name</th>
+                            <th>Date</th>
+                            <th>Time</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th colspan="6" style="text-align:center; background-color:#F47521; color:#fff;"><strong>C15 Sem-1</strong></th>
+                        </tr>
+                        <tr><td>1</td><td>Managerial Economics</td><td>PGDM, PGDM Exe and PGCM-BA</td><td>Rajesh Raut</td><td>6-Aug-26</td><td>6:00 - 8:00 PM</td></tr>
+                        <tr><td>2</td><td>Strategic Marketing Communications</td><td>PGCM-DM</td><td>Rohan Das</td><td>6-Aug-26</td><td>6:00 - 8:00 PM</td></tr>
+                        <tr><td>3</td><td>Accounting for Managers</td><td>PGDM, PGDM Exe and PGCM-BA</td><td>SP Ghodake</td><td>7-Aug-26</td><td>6:00 - 8:00 PM</td></tr>
+                        <tr><td>4</td><td>Strategic Management and Business Policy</td><td>PGCM-DM</td><td>Mayank Parkhi</td><td>13-Aug-26</td><td>6:00 - 8:00 PM</td></tr>
+                        <tr><td>5</td><td>Foundations of Business Management</td><td>PGDM, PGDM Exe and PGCM-BA</td><td>Bonnie Rajesh</td><td>14-Aug-26</td><td>6:00 - 8:00 PM</td></tr>
+                        <tr><td>6</td><td>Product and Brand Strategy</td><td>PGCM-DM</td><td>Ansted Joseph</td><td>21-Aug-26</td><td>6:00 - 8:00 PM</td></tr>
+                        <tr><td>7</td><td>Leading People and Organization</td><td>PGDM, PGDM Exe and PGCM-BA</td><td>Ashish Mohture</td><td>21-Aug-26</td><td>6:00 - 8:00 PM</td></tr>
+                        <tr><td>8</td><td>Managerial Communication</td><td>PGDM, PGDM Exe and PGCM-BA</td><td>Gomati Ghosh</td><td>27-Aug-26</td><td>6:00 - 8:00 PM</td></tr>
+                        <tr>
+                            <th colspan="6" style="text-align:center; background-color:#F47521; color:#fff;"><strong>C13 Sem-2</strong></th>
+                        </tr>
+                        <tr><td>9</td><td>Data Mining for Business Analytics</td><td>PGCM-BA</td><td>Sonali Kulkarni</td><td>5-Aug-26</td><td>6:00 - 7:00 PM</td></tr>
+                        <tr><td>10</td><td>Lean Management System</td><td>PGDM Exe-TQM and PGDM -MaM, OM, PM</td><td>Mangesh Dande</td><td>5-Aug-26</td><td>6:00 - 8:00 PM</td></tr>
+                        <tr><td>11</td><td>Human Resource Management</td><td>PGDM-HRM &amp; PGDBA &amp; PGDM-Exe-HCM</td><td>Rachna Arora</td><td>6-Aug-26</td><td>6:00 - 8:00 PM</td></tr>
+                        <tr><td>12</td><td>Project Analysis and Integration Management</td><td>PGDM Exe-MPM</td><td>Mayank Parkhi</td><td>6-Aug-26</td><td>6:00 - 7:00 PM</td></tr>
+                        <tr><td>13</td><td>Operations Management</td><td>PGDM Exe-TQM, MaM and PGDM-OM</td><td>Mangesh Dande</td><td>12-Aug-26</td><td>6:00 - 8:00 PM</td></tr>
+                        <tr><td>14</td><td>Project Planning</td><td>PGDM Exe-MPM</td><td>Pavaman Jainapur</td><td>12-Aug-26</td><td>6:00 - 7:00 PM</td></tr>
+                        <tr><td>15</td><td>Generative AI Applications in Business</td><td>PGDM-IT</td><td>Deepak Verma</td><td>12-Aug-26</td><td>6:00 - 8:00 PM</td></tr>
+                        <tr><td>16</td><td>Financial Reporting, Statement and Analysis</td><td>PGDM All</td><td>Rajesh Raut</td><td>13-Aug-26</td><td>6:00 - 8:00 PM</td></tr>
+                        <tr><td>17</td><td>Business Analytics</td><td>PGDBA</td><td>Sonali Kulkarni</td><td>20-Aug-26</td><td>6:00 - 7:00 PM</td></tr>
+                        <tr><td>18</td><td>Data Analytics and Visualization</td><td>PGDM-IT</td><td>Jyoti Yemul</td><td>21-Aug-26</td><td>6:00 - 8:00 PM</td></tr>
+                        <tr><td>19</td><td>Financial Analytics</td><td>PGCM-BA &amp; PGDM Exe-B&amp;FS</td><td>Rohan Bhase</td><td>26-Aug-26</td><td>7:00 - 8:00 PM</td></tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <h3 class="module-title"><strong> LABs</strong></h3>
+            <div class="tbl-wrap">
+                <table class="tbl">
+                    <thead>
+                        <tr><th>Sr No</th><th>Company's Name</th><th>Engagement Activity</th><th>Domain</th><th>Industry/Sector</th><th>Speaker - Webinar</th><th>Topic - Webinar</th><th>Date of Webinar</th></tr>
+                    </thead>
+                    <tbody>
+                        <tr><td>1</td><td>MITSDE</td><td>MITSDE LABs</td><td>All</td><td>Supply Chain</td><td>Dr. Vishal Bhosale</td><td>LABs_Global logistics and supply chain management</td><td>1-Aug-2026</td></tr>
+                        <tr><td>2</td><td>MITSDE</td><td>MITSDE LABs</td><td>All</td><td>Project Management</td><td>B. T. Ade</td><td>LABs_Microsoft Project</td><td>8-Aug-2026</td></tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <h3 class="module-title"><strong> MITSDE- BOOTCAMP</strong></h3>
+            <div class="tbl-wrap">
+                <table class="tbl">
+                    <thead>
+                        <tr><th>Sr No</th><th>Company's Name</th><th>Engagement Activity</th><th>Domain</th><th>Industry/Sector</th><th>Speaker - Webinar</th><th>Topic - Webinar</th><th>Date of Webinar</th></tr>
+                    </thead>
+                    <tbody>
+                        <tr><td>1</td><td>MITSDE</td><td>MITSDE Bootcamp</td><td>All</td><td>Business Analytics</td><td>Ms. Nayana Menon</td><td>Python Data Structures &amp; File Handling</td><td>1st Aug 2026</td></tr>
+                        <tr><td>2</td><td>MITSDE</td><td>MITSDE Bootcamp</td><td>All</td><td>Business Analytics</td><td>Dr. Chanakya Kumar</td><td>CPEA Session 3 - Pivot Tables &amp; Data Analysis</td><td>2nd Aug 2026</td></tr>
+                        <tr><td>3</td><td>MITSDE</td><td>MITSDE Bootcamp</td><td>All</td><td>Business Analytics</td><td>Dr. Chanakya Kumar</td><td>CPEA Session 4 - Advanced VLOOKUP Techniques</td><td>12th Aug 2026</td></tr>
+                        <tr><td>4</td><td>MITSDE</td><td>MITSDE Bootcamp</td><td>All</td><td>Business Analytics</td><td>Dr. Chanakya Kumar</td><td>CPEA Session 5 - VBA, Macros &amp; Power Query</td><td>16th Aug 2026</td></tr>
+                        <tr><td>5</td><td>MITSDE</td><td>MITSDE Bootcamp</td><td>All</td><td>Managerial Communication</td><td>Ms. Gomati Ghosh</td><td>Managerial Communication Bootcamp 1</td><td>22nd Aug 2026</td></tr>
+                        <tr><td>6</td><td>MITSDE</td><td>MITSDE Bootcamp</td><td>All</td><td>Business Analytics</td><td>Ms. Nayana Menon</td><td>CPDA Session 1 - SQL Fundamentals, Database Concepts &amp; Environment Setup</td><td>23rd Aug 2026</td></tr>
+                        <tr><td>7</td><td>MITSDE</td><td>MITSDE Bootcamp</td><td>All</td><td>Business Analytics</td><td>Dr. Chanakya Kumar</td><td>Introduction to Tableau</td><td>23rd Aug 2026</td></tr>
+                        <tr><td>8</td><td>MITSDE</td><td>MITSDE Bootcamp</td><td>All</td><td>Managerial Communication</td><td>Ms. Gomati Ghosh</td><td>Managerial Communication Bootcamp 2</td><td>29th Aug 2026</td></tr>
+                        <tr><td>9</td><td>MITSDE</td><td>MITSDE Bootcamp</td><td>All</td><td>Business Analytics</td><td>Ms. Nayana Menon</td><td>CPDA Session 2 - Fundamentals of Visualizations and Filters</td><td>30th Aug 2026</td></tr>
+                        <tr><td>10</td><td>MITSDE</td><td>MITSDE Bootcamp</td><td>All</td><td>Business Analytics</td><td>Dr. Chanakya Kumar</td><td>Fundamentals of Visualizations and Filters</td><td>30th Aug 2026</td></tr>
+                    </tbody>
+                </table>
+            </div>
+
             <!-- ═══ JULY 2026 ═══ -->
-            <h2 class="section-heading mt-2 mb-3">Contact Sessions <span>July 2026</span></h2>
+            <h2 class="section-heading mt-5 mb-3">July <span>2026</span></h2>
 
             <h3 class="module-title-new"><strong> Cohort Live session </strong></h3>
             <div class="tbl-wrap">
