@@ -833,8 +833,8 @@
                             <div class="faq-a">
                                 <p>
                                     Please refer to the MITSDE website for details:
-                                    <a href="https://mitsde.com/other-fees-details">
-                                        https://mitsde.com/other-fees-details
+                                    <a href="learner-type-payment#fee-details" target="_blank">
+                                        Link
                                     </a>
                                 </p>
                             </div>

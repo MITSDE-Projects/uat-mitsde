@@ -245,11 +245,9 @@
                             <li>You need to complete your admission formalities to have a confirmed admission status.
                             </li>
                         </ul>
-                        <p class="ac-title">Please note</p>
-                        <p>In case any discrepancy is noticed during the verification call, the admission will be put on
-                            hold until further clarification or documents are provided. Further, in case the
-                            verification does not stand satisfactory, the admission will be cancelled and refund of fee
-                            will be processed, if applicable</p>
+                        <p class="ac-title">Course Verification</p>
+                        <p>The Course Verification call is required to be completed within <b>40 days from the date of enrollment</b>. If the verification call is not completed within this period, the <b>LMS account may be temporarily suspended</b> until the verification process is successfully completed.</p>
+                        <p>In case any discrepancy is identified during the verification call, the <b>admission may be kept on hold</b> until the required clarification or documents are provided. If the verification is not satisfactory, the <b>admission may be cancelled</b>, and a refund will be processed, if applicable.</p>
                     </div>
                 </div>
 

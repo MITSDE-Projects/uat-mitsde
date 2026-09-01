@@ -200,7 +200,7 @@
     <!-- ═══════════════════════════════════════════════
        FEE DETAILS TABLE
     ════════════════════════════════════════════════ -->
-    <section class="accordian-section">
+    <section class="accordian-section" id="fee-details">
         <div class="container">
 
             <h2 class="section-heading">Fee Details</h2>
