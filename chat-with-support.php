@@ -81,7 +81,7 @@
                     <button class="ph-spec-pill" style="width:100%;justify-content:flex-start;text-align:left;" data-cws="books">Books Related Queries</button>
                     <button class="ph-spec-pill" style="width:100%;justify-content:flex-start;text-align:left;" data-cws="lms">LMS Related Queries</button>
                     <button class="ph-spec-pill" style="width:100%;justify-content:flex-start;text-align:left;" data-cws="placement">Placement Related Queries</button>
-                    <a class="ph-spec-pill" style="width:100%;justify-content:flex-start;text-align:left;text-decoration:none;" href="https://mitsde.com/OnlineGrievances" target="_blank">Online Grievance Redressal <i class="fa fa-external-link-alt ms-1" style="font-size:0.7rem;"></i></a>
+                    <a class="ph-spec-pill" style="width:100%;justify-content:flex-start;text-align:left;text-decoration:none;" href="OnlineGrievances" target="_blank">Online Grievance Redressal <i class="fa fa-external-link-alt ms-1" style="font-size:0.7rem;"></i></a>
                 </div>
             </div>
 
@@ -226,7 +226,7 @@
                                 <span>What are the exam fees?</span>
                                 <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                             </button>
-                            <div class="faq-a"><p>Exam fees are Rs. 750/- per subject. Additionally, if a student has any backlog, they must pay a backlog fee of Rs. 500/- per subject.</p></div>
+                            <div class="faq-a"><p>Exam fees are Rs. 750/- per subject. Additionally, if a student has any backlog, they must pay a backlog fee of Rs. 750/- per subject.</p></div>
                         </div>
 
                         <div class="faq-item">
