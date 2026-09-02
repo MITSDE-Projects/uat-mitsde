@@ -74,3 +74,20 @@ $(".country-code").intlTelInput({
     });
   });
 })();
+
+// Scroll-reveal
+(function () {
+  var observer = new IntersectionObserver(function (entries) {
+    entries.forEach(function (e) {
+      if (e.isIntersecting) {
+        e.target.classList.add('sr-visible');
+        observer.unobserve(e.target);
+      }
+    });
+  }, { threshold: 0.1 });
+
+  document.querySelectorAll('section:not(.hero)').forEach(function (el) {
+    el.classList.add('sr');
+    observer.observe(el);
+  });
+})();

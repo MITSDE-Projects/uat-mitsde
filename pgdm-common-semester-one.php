@@ -26,7 +26,7 @@
     <div class="pgcs-cert">
         <span class="pgcs-tag"><span class="pgcs-tag-inner">Certificate</span></span>
         <ul class="pgcs-cert-list">
-            <li>AI Readiness Certificate (AIRC)</li>
+            <li>AI-Ready Professional(Foundation)</li>
             <li>Certified Professional Excel Analyst (CPEA)</li>
             <li>Certified Professional Data Analyst (CPDA)</li>
         </ul>

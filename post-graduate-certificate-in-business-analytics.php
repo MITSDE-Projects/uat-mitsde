@@ -415,7 +415,7 @@
                         <div class="pgcs-cert">
                             <span class="pgcs-tag"><span class="pgcs-tag-inner">Certificate</span></span>
                             <ul class="pgcs-cert-list">
-                                <li>AI Readiness Certificate + AI Productivity Certificate (AIRCPC)</li>
+                                <li>AI-Ready Professional(Foundation)</li>
                                 <li>Certified Professional Excel Analyst (CPEA)</li>
                                 <li>Certified Professional Data Analyst (CPDA)</li>
                             </ul>
@@ -453,7 +453,7 @@
                         <div class="pgcs-cert">
                             <span class="pgcs-tag"><span class="pgcs-tag-inner">Certificate</span></span>
                             <ul class="pgcs-cert-list">
-                                <li>AI Automation Certificate + AI Strategy Certificate (AIACSC)</li>
+                                <li>AI Productivity Specialist(Bronze)</li>
                                 <li>Certified Professional Data Science Analyst (CPDSA)</li>
                                 <li>Certified Professional Quantitative Business Analyst (CPQBA)</li>
                             </ul>

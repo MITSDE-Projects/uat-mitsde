@@ -419,7 +419,7 @@
                         <div class="pgcs-cert">
                             <span class="pgcs-tag"><span class="pgcs-tag-inner">Certificate</span></span>
                             <ul class="pgcs-cert-list">
-                                <li>AI Automation Certificate + AI Strategy Certificate (AIACSC)</li>
+                                <li>AI Productivity Specialist(Bronze)</li>
                                 <li>Certificate in Digital Marketing Essentials (CDME)</li>
                                 <li>CDMA -Certificate in Digital Marketing Applications (CDMA)</li>
                             </ul>
@@ -454,35 +454,35 @@
     </section>
 
     <?php
-    $cpt_number    = "01";
-    $cpt_icon      = "fa-rocket";
-    $cpt_badge     = "PGDM (Ex.)";
-    $cpt_title     = "PGDM Executive in Digital Marketing";
-    $cpt_persona   = [
-        "Sales / BD executives",
-        "Marketing coordinators",
-        "Brand executives",
-        "Agency account managers",
-    ];
-    $cpt_from      = "Sr. Executive / Marketing Coordinator";
-    $cpt_to        = "Performance Marketing Manager / Head of Growth";
-    $cpt_motives   = ["Promotion seeker", "Salary accelerator"];
-    $cpt_skills    = [
-        "CAC / LTV economics",
-        "Funnel design & CRO",
-        "Marketing analytics & attribution",
-        "AI-enabled marketing automation",
-        "Budget allocation & ROAS",
-        "Real campaign simulations",
-    ];
-    $cpt_jd_titles = [
-        "Performance Marketing Manager",
-        "Growth Marketing Manager",
-        "Head of Growth",
-        "Demand Generation Manager",
-    ];
-    $cpt_quote     = "Stop managing campaigns. <span>Start owning revenue.</span>";
-    include "career-promise-track.php";
+    // $cpt_number    = "01";
+    // $cpt_icon      = "fa-rocket";
+    // $cpt_badge     = "PGDM (Ex.)";
+    // $cpt_title     = "PGDM Executive in Digital Marketing";
+    // $cpt_persona   = [
+    //     "Sales / BD executives",
+    //     "Marketing coordinators",
+    //     "Brand executives",
+    //     "Agency account managers",
+    // ];
+    // $cpt_from      = "Sr. Executive / Marketing Coordinator";
+    // $cpt_to        = "Performance Marketing Manager / Head of Growth";
+    // $cpt_motives   = ["Promotion seeker", "Salary accelerator"];
+    // $cpt_skills    = [
+    //     "CAC / LTV economics",
+    //     "Funnel design & CRO",
+    //     "Marketing analytics & attribution",
+    //     "AI-enabled marketing automation",
+    //     "Budget allocation & ROAS",
+    //     "Real campaign simulations",
+    // ];
+    // $cpt_jd_titles = [
+    //     "Performance Marketing Manager",
+    //     "Growth Marketing Manager",
+    //     "Head of Growth",
+    //     "Demand Generation Manager",
+    // ];
+    // $cpt_quote     = "Stop managing campaigns. <span>Start owning revenue.</span>";
+    // include "career-promise-track.php";
     ?>
 
     <!-- ═══════════════════════════════════════════════

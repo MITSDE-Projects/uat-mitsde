@@ -565,17 +565,20 @@ a { text-decoration: none; }
     #blueprint-btn { font-size: 0.82rem; padding: 0.5rem 1.1rem; }
 
     .cards-scroll-strip {
+        align-self: flex-start;
         width: 100vw;
         margin-left: calc(-1rem);
         display: flex;
+        justify-content: flex-start;
         overflow-x: auto;
         gap: 10px;
-        padding: 0.5rem 1rem 1rem;
+        padding: 0.5rem 1rem 1rem 1.5rem;
         scroll-snap-type: x mandatory;
         -webkit-overflow-scrolling: touch;
         scrollbar-width: none;
     }
     .cards-scroll-strip::-webkit-scrollbar { display: none; }
+    .cards-scroll-strip::after { content: ''; display: block; flex-shrink: 0; }
     .floating-cards { display: flex !important; position: static; transform: none; left: auto; right: auto; gap: 10px; flex-shrink: 0; }
     .mini-card { width: 110px; height: 110px; flex-shrink: 0; scroll-snap-align: start; }
 
@@ -4067,7 +4070,10 @@ input.valid, select.valid, textarea.valid { border-color: #22c55e !important; }
 /* Infographic image sections */
 .dms-infographic-img { max-width: 900px; margin: 0 auto; border-radius: 14px; overflow: hidden; border: 1px solid #e5e7eb; }
 .dms-infographic-img img { width: 100%; display: block; }
-.dms-cert-img { max-width: 420px; }
+.dms-cert-img { max-width: 420px; transition: box-shadow 0.3s ease, border-color 0.3s ease; cursor: pointer; }
+.dms-cert-img img { transition: transform 0.3s ease; }
+.dms-cert-img:hover { border-color: var(--primary-orange); box-shadow: 0 8px 24px rgba(234, 88, 12, 0.25); }
+.dms-cert-img:hover img { transform: scale(1.05); }
 
 /* AI Marketing Tools marquee */
 .dms-tools-note { font-size: 0.85rem; color: var(--text-dark); margin-bottom: 1.25rem; }
@@ -4396,4 +4402,15 @@ input.valid, select.valid, textarea.valid { border-color: #22c55e !important; }
   .cpt-number{font-size:44px}
   .cpt-track-header{padding:16px 18px}
   .cpt-quote{padding:12px 18px}
+}
+
+/* ── Scroll-reveal ─────────────────────────────────────────── */
+section.sr {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: opacity 0.55s ease, transform 0.55s ease;
+}
+section.sr.sr-visible {
+  opacity: 1;
+  transform: none;
 }

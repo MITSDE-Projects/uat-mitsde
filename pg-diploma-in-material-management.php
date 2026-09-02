@@ -427,7 +427,7 @@
                         <div class="pgcs-cert">
                             <span class="pgcs-tag"><span class="pgcs-tag-inner">Certificate</span></span>
                             <ul class="pgcs-cert-list">
-                                <li>AI Productivity Certificate (AIPC)</li>
+                                <li>AI Productivity Specialist(Bronze)</li>
                                 <li>Certified Professional Data Science Analyst (CPDSA)</li>
                                 <li>Certified Professional Quantitative Business Analyst (CPQBA)</li>
                             </ul>
@@ -465,7 +465,7 @@
                         <div class="pgcs-cert">
                             <span class="pgcs-tag"><span class="pgcs-tag-inner">Certificate</span></span>
                             <ul class="pgcs-cert-list">
-                                <li>AI Automation Certificate (AIAC)</li>
+                                <li>AI Solutions Builder(Silver)</li>
                             </ul>
                             <p class="sub-text"><strong>Total Credits 26</strong></p>
                         </div><!-- /pgcs-cert -->
@@ -499,7 +499,7 @@
                         <div class="pgcs-cert">
                             <span class="pgcs-tag"><span class="pgcs-tag-inner">Certificate</span></span>
                             <ul class="pgcs-cert-list">
-                                <li>AI Strategy Certificate (AISC)</li>
+                                <li>AI-Enabled Business Leader(Gold)</li>
                             </ul>
                             <p class="sub-text"><strong>Total Credits 16</strong></p>
                         </div><!-- /pgcs-cert -->
