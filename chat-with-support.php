@@ -475,7 +475,7 @@
                                 <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                             </button>
                             <div class="faq-a"><p>The evaluation methodology for the workshop subject includes:
-                                <ul class="ac-list">
+                                <ul class="ac-list text-dark">
                                     <li>Two assignments, each carrying 60 marks (with each question weighted at 2 marks).</li>
                                     <li>A proctored exam worth 40 marks.</li>
                             </p></div>
@@ -537,7 +537,7 @@
                                 </svg>
                             </button>
                             <div class="faq-a">
-                                <ul>
+                                <ul class="ac-list text-dark">
                                     <li>Study Plans</li>
                                     <li>Coping Workshops</li>
                                     <li>Psychological Counselling</li>
@@ -556,7 +556,7 @@
                                 </svg>
                             </button>
                             <div class="faq-a">
-                                <ul>
+                                <ul class="ac-list text-dark">
                                     <li>Receive MIT Harbour Welcome Email</li>
                                     <li>Fill the Induction Form shared by MIT Harbour</li>
                                     <li>Receive Welcome Call</li>
@@ -937,7 +937,7 @@
                             </button>
                             <div class="faq-a">
                                 <p>Share pending documents at enrollment@mitsde.com. Pending documents include:</p>
-                                <ul class="ac-list">
+                                <ul class="ac-list text-dark">
                                     <li>Graduation Grade Sheet / Certificate</li>
                                     <li>Work Experience letter</li>
                                     <li>ID Proof</li>
@@ -953,7 +953,7 @@
                             </button>
                             <div class="faq-a">
                                 <p>Changes within 1 month of enrollment — no charges. After 1 month (before 1st semester):</p>
-                                <ul class="ac-list">
+                                <ul class="ac-list text-dark">
                                     <li>PGCM / PGDM Exe / PGDM: Rs. 3000/-</li>
                                     <li>PGDBA: Rs. 5000/-</li>
                                 </ul>
@@ -1000,7 +1000,7 @@
                             </button>
                             <div class="faq-a">
                                 <p>Upon confirmation of admission, you will receive a welcome kit containing:</p>
-                                <ul class="ac-list">
+                                <ul class="ac-list text-dark">
                                     <li>Welcome Letter</li>
                                     <li>Student Identification Card</li>
                                     <li>Receipt of Fee Paid</li>
