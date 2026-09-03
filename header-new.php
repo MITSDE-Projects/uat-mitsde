@@ -319,9 +319,6 @@ else $nav_active = '';
 
         <div class="mega-left">
 
-            <div class="mega-cat" data-cat="gs-knowledge">
-                <a href="#"><span class="mega-cat-label">Knowledge Center</span></a>
-            </div>
             <div class="mega-cat" data-cat="gs-app">
                 <a href="application-process"><span class="mega-cat-label">Application Process</span></a>
             </div>
@@ -340,6 +337,10 @@ else $nav_active = '';
 
             <div class="mega-cat" data-cat="gs-pay">
                 <a href="new-admission-form-payment"><span class="mega-cat-label">Pay Now</span></a>
+            </div>
+
+            <div class="mega-cat" data-cat="gs-knowledge">
+                <a href="#"><span class="mega-cat-label">Knowledge Center</span></a>
             </div>
 
             <!-- <div class="mega-cat" data-cat="gs-industry">
