@@ -98,7 +98,7 @@
                                 <span>What is the process for filling out the exam form?</span>
                                 <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                             </button>
-                            <div class="faq-a"><p>Students will access the Exam Form from the Exam Tab in the E-library. As per the schedule, they can submit the Exam Form.</p></div>
+                            <div class="faq-a"><p>Students can access the Exam Form through the MITPro portal and submit it as per the examination schedule.</p></div>
                         </div>
 
                         <div class="faq-item">
@@ -106,7 +106,7 @@
                                 <span>Can I receive a referral discount on the exam fee?</span>
                                 <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                             </button>
-                            <div class="faq-a"><p>Yes, if your course fees are completely paid, you will receive a referral discount on the exam fees.</p></div>
+                            <div class="faq-a"><p>Yes, if your course fees have been paid in full and you provide a valid referral, you will be eligible for a referral discount on the examination fee, subject to the applicable referral policy.</p></div>
                         </div>
 
                         <div class="faq-item">
@@ -154,7 +154,7 @@
                                 <span>How many subjects can we take in one exam cycle?</span>
                                 <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                             </button>
-                            <div class="faq-a"><p>The maximum number of subjects is 12 per exam cycle.</p></div>
+                            <div class="faq-a"><p>You can appear for a maximum of 12 subjects or 2 semesters if you have missed an earlier examination cycle.</p></div>
                         </div>
 
                         <div class="faq-item">
