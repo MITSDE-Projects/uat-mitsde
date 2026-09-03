@@ -280,6 +280,10 @@ else $nav_active = '';
                 <ul class="mega-panel-list">
                     <li><a href="power-bi-certification"><span>SQL Power bi certification</span><svg class="mega-panel-item-arrow" viewBox="0 0 20 10" fill="none"><path d="M0 5h18M14 1l4 4-4 4" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a></li>
                     <li><a href="gen-ai-for-educators"><span>Gen AI for Educators</span><svg class="mega-panel-item-arrow" viewBox="0 0 20 10" fill="none"><path d="M0 5h18M14 1l4 4-4 4" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a></li>
+                    <li><a href="ai-lean-six-sigma-green-belt-certification"><span>AI-Lean Six Sigma Green Belt Certification</span><svg class="mega-panel-item-arrow" viewBox="0 0 20 10" fill="none"><path d="M0 5h18M14 1l4 4-4 4" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a></li>
+                    <li><a href="lean-six-sigma-black-belt-certification"><span>Lean Six Sigma Black Belt Certification</span><svg class="mega-panel-item-arrow" viewBox="0 0 20 10" fill="none"><path d="M0 5h18M14 1l4 4-4 4" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a></li>
+                    <li><a href="total-quality-management-certification"><span>Certification in Total Quality Management</span><svg class="mega-panel-item-arrow" viewBox="0 0 20 10" fill="none"><path d="M0 5h18M14 1l4 4-4 4" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a></li>
+                    <li><a href="diploma-in-total-quality-management"><span>Diploma in Total Quality Management</span><svg class="mega-panel-item-arrow" viewBox="0 0 20 10" fill="none"><path d="M0 5h18M14 1l4 4-4 4" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a></li>
                 </ul>
                 <div class="mega-img-card">
                     <img src="assets-new/images/stage-1.jpg" alt="Dual Degree" class="mega-img" />
