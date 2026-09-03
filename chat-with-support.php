@@ -706,7 +706,7 @@
                             </button>
                             <div class="faq-a">
                                 <p>
-                                    Fill the Google Form <a href="https://forms.gle/8jAoixmCu2Jyd2KCA">Google Form</a> or contact us at <a href="mailto:synergy.sphere@gmail.com">synergy.sphere@gmail.com</a>.
+                                    Fill the Google Form <a href="https://forms.gle/kjhM1skgArN9AJL1A">Google Form</a> or contact us at <a href="mailto:synergy.sphere@gmail.com">synergy.sphere@gmail.com</a>.
                                 </p>
                             </div>
                         </div>

@@ -169,7 +169,7 @@
                     </a>
                 </div>
                 <div class="col-12 col-md-4">
-                    <a href="OtherFeesPaymenticici" class="text-decoration-none">
+                    <a href="#" data-bs-toggle="modal" data-bs-target="#pgModal" class="text-decoration-none">
                         <div class="ltp-card">
                             <span class="ltp-card__icon"><i class="fa-solid fa-calendar-check"></i></span>
                             <h3 class="ltp-card__title">Learners Enrolled <strong>After</strong> December 2022</h3>
@@ -385,6 +385,35 @@
 
         </div>
     </section>
+
+    <!-- Payment Gateway Modal -->
+    <div class="modal fade" id="pgModal" tabindex="-1" aria-labelledby="pgModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header border-0 pb-0">
+                    <h5 class="modal-title fw-bold" id="pgModalLabel">Select Payment Gateway</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body py-4">
+                    <h6 class="text-center mb-4" style="color:var(--primary-orange)">Choose your preferred payment gateway to proceed.</h6>
+                    <div class="row g-3">
+                        <div class="col-6">
+                            <a href="OtherFeesPaymentHDFC" class="btn w-100 py-3 fw-semibold text-decoration-none" style="background:var(--primary-orange);color:#fff;border:none;border-radius:12px;">
+                                <span style="width:44px;height:44px;border-radius:50%;background:rgba(255,255,255,.2);display:flex;align-items:center;justify-content:center;margin:0 auto .5rem;font-size:1.3rem;"><i class="fa-solid fa-building-columns"></i></span>
+                                HDFC
+                            </a>
+                        </div>
+                        <div class="col-6">
+                            <a href="OtherFeesPaymenticici" class="btn w-100 py-3 fw-semibold text-decoration-none" style="background:var(--primary-orange);color:#fff;border:none;border-radius:12px;">
+                                <span style="width:44px;height:44px;border-radius:50%;background:rgba(255,255,255,.2);display:flex;align-items:center;justify-content:center;margin:0 auto .5rem;font-size:1.3rem;"><i class="fa-solid fa-building-columns"></i></span>
+                                ICICI
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <!-- ═══════════════════════════════════════════════
        SITE FOOTER

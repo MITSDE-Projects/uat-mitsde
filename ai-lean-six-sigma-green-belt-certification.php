@@ -128,7 +128,7 @@
                         </li>
                         <li>
                             <div class="program-feature">
-                                <p>Program Fee</p>
+                                <p>Program Fee <small>(incl. GST)</small></p>
                                 <span>₹ 17,110/-</span>
                             </div>
                         </li>
