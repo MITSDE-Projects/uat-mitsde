@@ -960,7 +960,7 @@ a { text-decoration: none; }
 .mega-backdrop { position: fixed; inset: 0; background: rgba(0,0,0,0.18); backdrop-filter: blur(5px); -webkit-backdrop-filter: blur(5px); z-index: 97; opacity: 0; pointer-events: none; transition: opacity 0.28s ease; }
 .mega-backdrop.is-open { opacity: 1; pointer-events: all; }
 
-.mega-dd { position: fixed; width: fit-content; top: 120px; left: 50%; padding: 30px; background: #fafafad5; border-radius: 14px; z-index: 999; box-shadow: 0 16px 48px rgba(0,0,0,0.13); opacity: 0; pointer-events: none; transition: opacity 0.24s ease, transform 0.24s ease; overflow: hidden; }
+.mega-dd { position: fixed; width: fit-content; top: 85px; left: 50%; padding: 30px; background: #fafafad5; border-radius: 14px; z-index: 99; box-shadow: 0 16px 48px rgba(0,0,0,0.13); opacity: 0; pointer-events: none; transition: opacity 0.24s ease, transform 0.24s ease; overflow: hidden; }
 .mega-dd.is-open { opacity: 1; pointer-events: all; transform: translateX(-50%); }
 
 .mega-dd-inner { display: grid; grid-template-columns: 320px; }
