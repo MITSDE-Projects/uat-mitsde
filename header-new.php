@@ -319,6 +319,9 @@ else $nav_active = '';
 
         <div class="mega-left">
 
+            <div class="mega-cat" data-cat="gs-knowledge">
+                <a href="#"><span class="mega-cat-label">Knowledge Center</span></a>
+            </div>
             <div class="mega-cat" data-cat="gs-app">
                 <a href="application-process"><span class="mega-cat-label">Application Process</span></a>
             </div>
@@ -337,10 +340,6 @@ else $nav_active = '';
 
             <div class="mega-cat" data-cat="gs-pay">
                 <a href="new-admission-form-payment"><span class="mega-cat-label">Pay Now</span></a>
-            </div>
-
-            <div class="mega-cat" data-cat="gs-knowledge">
-                <a href="#"><span class="mega-cat-label">Knowledge Center</span></a>
             </div>
 
             <!-- <div class="mega-cat" data-cat="gs-industry">
@@ -374,6 +373,14 @@ else $nav_active = '';
 
         <div class="mega-left">
 
+            <div class="mega-cat" data-cat="la-placement">
+                <a><span class="mega-cat-label">Placement</span></a>
+            </div>
+
+            <div class="mega-cat" data-cat="la-mocs">
+                <a><span class="mega-cat-label">MIT office of career services</span></a>
+            </div>
+
             <div class="mega-cat" data-cat="la-academic">
                 <a href="academic"><span class="mega-cat-label">Academic</span></a>
             </div>
@@ -392,14 +399,6 @@ else $nav_active = '';
 
             <div class="mega-cat" data-cat="la-aicte">
                 <a href="aicte-feedback-facility"><span class="mega-cat-label">AICTE Feedback Facility</span></a>
-            </div>
-
-            <div class="mega-cat" data-cat="la-placement">
-                <a><span class="mega-cat-label">Placement</span></a>
-            </div>
-
-            <div class="mega-cat" data-cat="la-mocs">
-                <a><span class="mega-cat-label">MIT office of career services</span></a>
             </div>
 
         </div><!-- /mega-left -->
@@ -486,13 +485,15 @@ else $nav_active = '';
         var panels    = dropdown.querySelectorAll('.mega-panel');
         var isOpen    = false;
         var closeTimer = null;
+        var openTimer  = null;
+        var catTimer   = null;
 
-        // Desktop only: anchor the dropdown directly under its own trigger
-        // instead of the default viewport-centered position (CSS left:50% +
-        // translateX(-50%)). Tablet/mobile keep the centered/full-width CSS
-        // behaviour untouched.
+        // Desktop only: anchor the dropdown flush under the navbar, left-aligned to trigger.
         function positionDD() {
-            if (isMobile()) { dropdown.style.left = ''; dropdown.style.transform = ''; return; }
+            if (isMobile()) { dropdown.style.left = ''; dropdown.style.top = ''; dropdown.style.transform = ''; return; }
+            var navbarEl = document.querySelector('header.navbar');
+            var topPos = navbarEl ? Math.round(navbarEl.getBoundingClientRect().bottom) - 4 : 84;
+            dropdown.style.top = topPos + 'px';
             var rect = trigger.getBoundingClientRect();
             var ddWidth = dropdown.offsetWidth;
             var left = rect.left;
@@ -535,23 +536,32 @@ else $nav_active = '';
             dropdown.classList.remove('has-panel');
             cats.forEach(function (c) { c.classList.remove('is-active'); });
             panels.forEach(function (p) { p.classList.remove('is-active'); });
+            var megaRight = dropdown.querySelector('.mega-right');
+            if (megaRight) megaRight.classList.remove('has-active-panel');
         }
 
         function scheduleClose() {
             if (closeTimer) clearTimeout(closeTimer);
-            closeTimer = setTimeout(closeDD, 150);
+            closeTimer = setTimeout(closeDD, 600);
         }
 
         function cancelClose() {
             if (closeTimer) { clearTimeout(closeTimer); closeTimer = null; }
+            if (openTimer)  { clearTimeout(openTimer);  openTimer  = null; }
         }
 
-        // ── Desktop: hover trigger → open; mouseleave → delayed close ──
+        // ── Desktop: hover trigger → open after intent delay; mouseleave → delayed close ──
         trigger.addEventListener('mouseenter', function () {
-            if (!isMobile()) openDD();
+            if (!isMobile()) {
+                cancelClose();
+                openTimer = setTimeout(openDD, 120);
+            }
         });
         trigger.addEventListener('mouseleave', function () {
-            if (!isMobile()) scheduleClose();
+            if (!isMobile()) {
+                if (openTimer) { clearTimeout(openTimer); openTimer = null; }
+                scheduleClose();
+            }
         });
         dropdown.addEventListener('mouseenter', function () {
             if (!isMobile()) cancelClose();
@@ -573,18 +583,30 @@ else $nav_active = '';
         backdrop.addEventListener('click', closeDD);
         document.addEventListener('keydown', function (e) { if (e.key === 'Escape') closeDD(); });
 
+        // Stagger panel items on category switch
+        function staggerPanel(panel) {
+            if (!panel) return;
+            var items = panel.querySelectorAll('.mega-panel-list li, .mega-img-card');
+            items.forEach(function (el, i) {
+                el.style.animation = 'none';
+                el.offsetHeight; // force reflow
+                el.style.animation = 'panelItemIn 0.28s ease ' + (i * 35) + 'ms both';
+            });
+        }
+
         // Activate a category and show its panel (if it has one)
         function activateCat(cat) {
             var panel = dropdown.querySelector('#panel-' + cat.dataset.cat);
             cats.forEach(function (c) { c.classList.remove('is-active'); });
             panels.forEach(function (p) { p.classList.remove('is-active'); });
             cat.classList.add('is-active');
+            var megaRight = dropdown.querySelector('.mega-right');
             if (panel) {
                 panel.classList.add('is-active');
-                dropdown.classList.add('has-panel');
-            } else {
-                dropdown.classList.remove('has-panel');
+                staggerPanel(panel);
+                if (megaRight) megaRight.classList.add('has-active-panel');
             }
+            // Once expanded, right column stays at full width (removed only on closeDD)
             // Re-anchor: the panel column can widen the dropdown well past
             // the width it had when openDD() first positioned it.
             positionDD();
@@ -592,9 +614,15 @@ else $nav_active = '';
         }
 
         cats.forEach(function (cat) {
-            // Desktop: hover over category → show panel immediately
+            // Desktop: hover over category → show panel after brief intent delay
             cat.addEventListener('mouseenter', function () {
-                if (!isMobile()) activateCat(cat);
+                if (!isMobile()) {
+                    if (catTimer) clearTimeout(catTimer);
+                    catTimer = setTimeout(function () { activateCat(cat); }, 80);
+                }
+            });
+            cat.addEventListener('mouseleave', function () {
+                if (!isMobile() && catTimer) { clearTimeout(catTimer); catTimer = null; }
             });
 
             // Click behaviour differs by device:
@@ -620,8 +648,9 @@ else $nav_active = '';
             });
         });
 
-        // Close on outside click
+        // Close on outside click (skip chatbot widget clicks so it doesn't interfere)
         document.addEventListener('click', function (e) {
+            if (e.target.closest('[class*="vidya"],[id*="chat"],[class*="chatbot"],[id*="vidya"]')) return;
             if (isOpen && !dropdown.contains(e.target) && !trigger.contains(e.target) && (!mobTrigger || !mobTrigger.contains(e.target))) {
                 closeDD();
             }
