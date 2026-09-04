@@ -84,7 +84,7 @@ $(".country-code").intlTelInput({
         observer.unobserve(e.target);
       }
     });
-  }, { threshold: 0.1 });
+  }, { threshold: 0 });
 
   document.querySelectorAll('section:not(.hero)').forEach(function (el) {
     el.classList.add('sr');
