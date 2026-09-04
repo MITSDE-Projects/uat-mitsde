@@ -865,12 +865,12 @@
 
                                                         <li>
                                                             <b>
-                                                                Quality Defined – VOC, CTQ, KANO Model
+                                                                Quality Defined - VOC, CTQ, KANO Model
                                                             </b>
                                                         </li>
 
                                                         <li>
-                                                            The Process Approach: CTPs
+                                                            <b>The Process Approach: CTPs</b>
                                                         </li>
 
                                                         <li>
@@ -878,7 +878,7 @@
                                                         </li>
 
                                                         <li>
-                                                            Evolution of The Quality Function
+                                                            <b>Evolution of The Quality Function</b>
                                                         </li>
 
                                                         <li>
@@ -905,17 +905,17 @@
                                                             Team Formation for Lean Six Sigma Projects
                                                         </li>
 
-                                                        <li>
+                                                        <p>
                                                             Selecting Organization's Pain Areas for implementing Lean Six Sigma Projects
-                                                        </li>
+                                                        </p>
 
                                                         <li>
-                                                            Cross-Functional Cooperation / Boundary-less Collaboration
+                                                            <b>Cross-Functional Cooperation / Boundary-less Collaboration</b>
                                                         </li>
 
-                                                        <li>
+                                                        <p>
                                                             Route for achievement of SQCD Goals to deliver VALUE to organization
-                                                        </li>
+                                                        </p>
 
                                                     </ul>
 
@@ -970,15 +970,11 @@
                                                     <ul>
 
                                                         <li>
-                                                            DPU & DPMO – Calculating Process Capability / Sigma Level
+                                                            <b>DPU & DPMO - Calculating Process Capability / Sigma Level</b>
                                                         </li>
 
                                                         <li>
-                                                            Cost of Good Quality Vs Cost of Poor Quality
-                                                        </li>
-
-                                                        <li>
-                                                            Impact On Sigma Level Of A Process
+                                                            <b>Cost of Good Quality Vs Cost of Poor Quality - Impact On Sigma Level Of A Process</b>
                                                         </li>
 
                                                         <li>
@@ -986,17 +982,19 @@
                                                         </li>
 
                                                         <li>
-                                                            Motorola’s journey from 3.4 to 6.0 sigma
-                                                            <b>(SELF READING)</b>
+                                                            Motorola’s journey from 3.4 to 6.0 sigma (SELF READING)
                                                         </li>
 
                                                         <li>
-                                                            Lean Six Sigma – Basic principles
+                                                            <b>Lean Six Sigma</b>
                                                         </li>
 
                                                         <li>
-                                                            Cultural changes required while implementing Lean Six Sigma
-                                                            <b>(SELF-READING)</b>
+                                                            Basic principles
+                                                        </li>
+
+                                                        <li>
+                                                            Cultural changes required while implementing Lean Six Sigma (SELF-READING)
                                                         </li>
 
                                                     </ul>
@@ -1052,7 +1050,7 @@
                                                     <ul>
 
                                                         <li>
-                                                            Understanding Variation in Processes
+                                                            <b>Understanding Variation in Processes</b>
                                                         </li>
 
                                                         <li>
@@ -1060,11 +1058,11 @@
                                                         </li>
 
                                                         <li>
-                                                            Central Tendency (mean – median - mode)
+                                                            Central Tendency (mean - median - mode)
                                                         </li>
 
                                                         <li>
-                                                            Spread (range – standard deviation)
+                                                            Spread (range - standard deviation)
                                                         </li>
 
                                                         <li>
@@ -1084,7 +1082,7 @@
                                                         </li>
 
                                                         <li>
-                                                            Seven Tools of Quality
+                                                            <b>Seven Tools of Quality</b>
                                                         </li>
 
                                                         <li>
@@ -1115,12 +1113,12 @@
                                                             Control Charts
                                                         </li>
 
-                                                        <li>
+                                                        <p>
                                                             Quantitative exercises using Excel data analytics
-                                                        </li>
+                                                        </p>
 
                                                         <li>
-                                                            Use of SPC (Statistical Process Control)
+                                                            <b>Use of SPC (Statistical Process Control)</b>
                                                         </li>
 
                                                         <li>
@@ -1136,7 +1134,7 @@
                                                         </li>
 
                                                         <li>
-                                                            Seven types of Control Charts and their interpretation
+                                                            <b>Seven types of Control Charts and their interpretation</b>
                                                         </li>
 
                                                         <li>
@@ -1144,7 +1142,7 @@
                                                         </li>
 
                                                         <li>
-                                                            DMAIC Methodology for Implementing Lean Six Sigma Projects to Achieve Process Excellence
+                                                            <b>DMAIC Methodology for Implementing Lean Six Sigma Projects to Achieve Process Excellence</b>
                                                         </li>
 
                                                         <li>
@@ -1167,9 +1165,9 @@
                                                             C - Control Phase
                                                         </li>
 
-                                                        <li>
-                                                            DMAIC Framework & DMAIC Case Study – Defect Reduction (Workbook)
-                                                        </li>
+                                                        <p>
+                                                            DMAIC Framework & DMAIC Case Study - Defect Reduction (Workbook)
+                                                        </p>
 
                                                     </ul>
 
@@ -1224,19 +1222,19 @@
                                                     <ul>
 
                                                         <li>
-                                                            Failure Mode & Effect Analysis (FMEA)
+                                                            <b>Failure Mode & Effect Analysis (FMEA)</b>
                                                         </li>
 
                                                         <li>
-                                                            Use of Lean Tools in Lean Six Sigma
+                                                            <b>Use of Lean Tools in Lean Six Sigma</b>
                                                         </li>
 
                                                         <li>
-                                                            Value Stream Process Mapping
+                                                            <b>Value Stream Process Mapping</b>
                                                         </li>
 
                                                         <li>
-                                                            AI Applications in Six Sigma - Use Cases
+                                                            <b>AI Applications in Six Sigma - Use Cases</b>
                                                         </li>
 
                                                     </ul>
@@ -1326,7 +1324,7 @@
                                                 </li>
 
                                                 <li>
-                                                    Define – Measure – Analyze – Improve - Control
+                                                    Define - Measure - Analyze - Improve - Control
                                                 </li>
 
                                                 <li>
@@ -1382,7 +1380,7 @@
                                                 </li>
 
                                                 <li>
-                                                    The DMAIC Process – Choice Of Tools
+                                                    The DMAIC Process - Choice Of Tools
                                                 </li>
 
                                                 <li>
@@ -1560,7 +1558,7 @@
                                             <ul>
 
                                                 <li>
-                                                    Six Sigma – A Complete Management System
+                                                    Six Sigma - A Complete Management System
                                                 </li>
 
                                                 <li>
@@ -1696,7 +1694,7 @@
                                     </h5>
 
                                     <small class="text-muted">
-                                        (Founder, Director – AIQM)
+                                        (Founder, Director - AIQM)
                                     </small>
 
                                     <br>
@@ -1786,7 +1784,7 @@
                                                 </li>
 
                                                 <li>
-                                                    PGDMI, I.I.M. – Kolkata
+                                                    PGDMI, I.I.M. - Kolkata
                                                 </li>
 
                                                 <li>
@@ -1916,11 +1914,11 @@
                                                 style="font-size:13px;line-height:1.35;">
 
                                                 <li>
-                                                    Founder - Director, Asian Institute of Quality Management (since 1995) – Pune
+                                                    Founder - Director, Asian Institute of Quality Management (since 1995) - Pune
                                                 </li>
 
                                                 <li>
-                                                    Director-Data Systems Services – Pune (1987 – 1990)
+                                                    Director-Data Systems Services - Pune (1987 - 1990)
                                                 </li>
 
                                                 <li>
@@ -1928,11 +1926,11 @@
                                                 </li>
 
                                                 <li>
-                                                    Horstmann India (Baker Gauges) – Pune (1983 to 1986)
+                                                    Horstmann India (Baker Gauges) - Pune (1983 to 1986)
                                                 </li>
 
                                                 <li>
-                                                    Johnson & Johnson Ltd. - Mumbai (1978 – 1983)
+                                                    Johnson & Johnson Ltd. - Mumbai (1978 - 1983)
                                                 </li>
 
                                             </ul>
@@ -2017,7 +2015,7 @@
                                     </h5>
 
                                     <small class="text-muted">
-                                        (CEO – AIQM)
+                                        (CEO - AIQM)
                                     </small>
 
                                     <br>
@@ -2103,11 +2101,11 @@
                                                 style="font-size:13px;line-height:1.35;">
 
                                                 <li>
-                                                    Post-Graduate in Systems Analysis & Design, N.I.I.T., Delhi – 1984
+                                                    Post-Graduate in Systems Analysis & Design, N.I.I.T., Delhi - 1984
                                                 </li>
 
                                                 <li>
-                                                    Graduated from Sacred Heart College, Dalsiee – 1979
+                                                    Graduated from Sacred Heart College, Dalsiee - 1979
                                                 </li>
 
                                                 <li>
@@ -2115,7 +2113,7 @@
                                                 </li>
 
                                                 <li>
-                                                    QMS / EMS Lead Auditor (IRCA – UK), IATF Internal Auditor
+                                                    QMS / EMS Lead Auditor (IRCA - UK), IATF Internal Auditor
                                                 </li>
 
                                                 <li>
