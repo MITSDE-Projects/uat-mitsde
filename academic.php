@@ -230,7 +230,7 @@
 
                 <div class="service-item">
                     <div class="service-card">
-                        <div class="img-wrap"><img src="assets-new/images/mitsde-crie.webp" alt="MITSDE CRIE" /></div>
+                        <div class="img-wrap"><img src="assets-new/images/crie-logo-new.jpg" alt="MITSDE CRIE" /></div>
                         <a href="mitsde-crie" target="_blank" class="service-action" aria-label="Open">
                             <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
                                 <path d="M6 18 L18 6" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"

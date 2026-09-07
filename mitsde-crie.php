@@ -67,7 +67,7 @@
                     <h1 class="ph-heading">MITSDE Centre for Research, Innovation and Entrepreneurship</h1>
                 </div>
                 <div class="ph-right">
-                    <img src="assets-new/images/mitsde-crie.webp" alt="MITSDE CRIE" />
+                    <img src="assets-new/images/crie-logo-new.jpg" class="w-auto" alt="MITSDE CRIE" />
                 </div>
             </div><!-- /ph-layout -->
         </div>

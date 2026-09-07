@@ -4,7 +4,8 @@
    BASE STYLES & CSS VARIABLES
 ═══════════════════════════════════════════ */
 :root {
-    --primary-orange: #ea580c;
+    /* --primary-orange: #ea580c; */
+    --primary-orange: #f97316;
     --accent-orange: #f97316;
     --text-dark: #000000;
     --text-light: #6b7280;
@@ -39,7 +40,7 @@ a { text-decoration: none; }
 ═══════════════════════════════════════════ */
 
 /* Orange text highlight */
-.text-orange { color: var(--primary-orange); }
+/* .text-orange { color: var(--primary-orange); } */
 
 /* Section heading — 2rem bold, used across all major sections */
 .section-heading {
@@ -51,7 +52,7 @@ a { text-decoration: none; }
 }
 
 /* Default: orange spans inside section headings use accent orange */
-.section-heading span { color: var(--accent-orange); }
+/* .section-heading span { color: var(--accent-orange); } */
 
 /* Section sub-text — small intro line below a heading */
 .section-sub {
@@ -720,8 +721,6 @@ a { text-decoration: none; }
 ════════════════════════════════════════ */
 
 .program-heading { max-width: 650px; }
-/* Programs heading span uses primary orange (not accent) */
-.program-heading .section-heading span { color: var(--primary-orange); }
 
 .program-heading p { font-size: 0.9rem; color: var(--text-dark); max-width: 600px; font-weight: 500; line-height: 1.6; margin-bottom: 0.6rem; }
 
@@ -3022,7 +3021,7 @@ select.rf-input option[value=""] { color: #9ca3af; }
 }
 .service-card:hover { border-color: rgba(0,0,0,0.12); box-shadow: 0 14px 34px rgba(15,23,42,0.09); }
 .service-card .img-wrap {
-    width: 120px;
+    /* width: 120px; */
     height: 120px;
     border-radius: 10px;
     display: flex;
@@ -3056,7 +3055,7 @@ select.rf-input option[value=""] { color: #9ca3af; }
 .service-card .service-action:hover { transform: translateY(-2px); }
 .service-card .service-action svg { width: 12px; height: 12px; display: block; }
 @media (max-width: 768px) {
-    .service-card .img-wrap { width: 100px; height: 100px; }
+    .service-card .img-wrap { /*width: 100px;*/ height: 100px; }
 }
 
 /*==============================
