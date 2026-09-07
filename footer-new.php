@@ -52,7 +52,7 @@
           <li><a href="./">Home</a></li>
           <li><a href="global-exposure">Global Exposure</a></li>
           <li><a href="pgdm-executive-emba-dual-program">Dual Programs</a></li>
-          <li><a href="careers">Careers</a></li>
+          <!-- <li><a href="careers">Careers</a></li> -->
           <li><a href="application-process">Admissions</a></li>
           <li><a href="refer-friend">Refer a Friend</a></li>
           <li><a href="mandatory-disclosure">Mandatory Disclosure</a></li>

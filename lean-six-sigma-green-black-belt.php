@@ -285,7 +285,7 @@
 
                                     <p>Mode of Delivery</p>
 
-                                    <span>VILT</span>
+                                    <span>Online</span>
 
                                 </div>
 
