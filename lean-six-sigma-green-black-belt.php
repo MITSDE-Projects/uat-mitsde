@@ -17,7 +17,7 @@
 
     <!-- CANONICAL TAG -->
     <link rel="canonical"
-        href="https://mitsde.com/lean-six-sigma-green-black-belt-certification" />
+        href="https://mitsde.com/lean-six-sigma-green-black-belt" />
     <!-- CANONICAL TAG -->
 
     <?php include "5-common-seo-tag-1.php" ?>
@@ -79,7 +79,7 @@
         },
         "offers": {
             "@type": "Offer",
-            "url": "https://mitsde.com/lean-six-sigma-green-black-belt-certification",
+            "url": "https://mitsde.com/lean-six-sigma-green-black-belt",
             "priceCurrency": "INR",
             "price": "45000",
             "availability": "https://schema.org/InStock",
@@ -105,7 +105,7 @@
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Lean Six Sigma Green Belt + Black Belt",
-                "item": "https://mitsde.com/lean-six-sigma-green-black-belt-certification"
+                "item": "https://mitsde.com/lean-six-sigma-green-black-belt"
             }
         ]
     }
@@ -120,7 +120,7 @@
         content="MIT School of Distance Education">
 
     <meta property="og:url"
-        content="https://mitsde.com/lean-six-sigma-green-black-belt-certification">
+        content="https://mitsde.com/lean-six-sigma-green-black-belt">
 
     <meta property="og:description"
         content="AI-Enabled Lean Six Sigma Green Belt + Black Belt Training and Certification covering DMAIC, DFSS, AI-powered process improvement, statistical analysis and Lean Six Sigma tools.">
