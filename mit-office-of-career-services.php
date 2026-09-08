@@ -639,59 +639,114 @@
     <div class="container">
         <h2 class="section-heading">Frequently Asked <span class="text-orange">Questions</span></h2>
         <div class="faq-list">
-        <div class="faq-item">
-            <div class="faq-q">What is MOCS?</div>
-            <div class="faq-a"><p>MITSDE&rsquo;s in-house career and well-being team &mdash; delivering personalised career planning, workshops, mentoring, counselling, mock interviews, and placement support across your full programme.</p></div>
-        </div>
-        <div class="faq-item">
-            <div class="faq-q">Is MOCS optional?</div>
-            <div class="faq-a"><p>For Cohort 15 onwards, MOCS is part of the programme and included in your fee. Every enrolled student has full access.</p></div>
-        </div>
-        <div class="faq-item">
-            <div class="faq-q">Do I pay extra for MOCS?</div>
-            <div class="faq-a"><p>No &mdash; included in your programme fee for Cohort 15+. Non-MITSDE learners have a separate standalone subscription.</p></div>
-        </div>
-        <div class="faq-item">
-            <div class="faq-q">What is the Career Diagnostic?</div>
-            <div class="faq-a"><p>A 30&ndash;45 minute assessment in Month 1. Captures your current role, target role, and skill gaps &mdash; and drives your personalised CDP and roadmap.</p></div>
-        </div>
-        <div class="faq-item">
-            <div class="faq-q">What is the CDP?</div>
-            <div class="faq-a"><p>A personalised career plan delivered as a PDF and audio walkthrough. Specifies your roadmap, services, and milestones across 4 semesters.</p></div>
-        </div>
-        <div class="faq-item">
-            <div class="faq-q">How long does MOCS run?</div>
-            <div class="faq-a"><p>Across all four semesters &mdash; the full duration of your programme.</p></div>
-        </div>
-        <div class="faq-item">
-            <div class="faq-q">What services are included?</div>
-            <div class="faq-a"><p>Counselling, mentoring, Kaushalya (soft skills), communication, Adhyapan (leadership), networking, mock interviews, Maanas &amp; Anubhuti (well-being), resume &amp; LinkedIn sign-off, placement support, and a MOCS Completion Certificate.</p></div>
-        </div>
-        <div class="faq-item">
-            <div class="faq-q">What happens during exam months?</div>
-            <div class="faq-a"><p>Live sessions pause during exam windows. Async LMS content remains available. Exam months don&rsquo;t count against attendance.</p></div>
-        </div>
-        <div class="faq-item">
-            <div class="faq-q">Does MOCS affect my academic certificate?</div>
-            <div class="faq-a"><p>No. MOCS is co-curricular. The MOCS Completion Certificate is separate from your MITSDE academic certificate.</p></div>
-        </div>
-        <div class="faq-item">
-            <div class="faq-q">I subscribed in an earlier cohort &mdash; what happens?</div>
-            <div class="faq-a"><p>All services continue exactly as committed. Raise a ticket on TMS for specific queries.</p></div>
-        </div>
-        <div class="faq-item">
-            <div class="faq-q">I&rsquo;m not a MITSDE student &mdash; can I access MOCS?</div>
-            <div class="faq-a"><p>Yes. A standalone subscription is available for non-MITSDE learners.</p></div>
-        </div>
-        <div class="faq-item">
-            <div class="faq-q">How do I see my workshops and milestones?</div>
-            <div class="faq-a"><p>All in your MOCS dashboard inside the learner portal &mdash; calendar, CDP, milestones, and bookings.</p></div>
-        </div>
-        <div class="faq-item">
-            <div class="faq-q">How do I contact the MOCS team?</div>
-            <div class="faq-a"><p>MITSDE learners: raise a ticket on TMS or use the MOCS communication channel from your welcome email. Others: use the contact form on the registration page.</p>
-            <p class="mt-2"><a href="https://elibrary.mitsde.com/" class="text-orange">Raise a support ticket &rarr; TMS Portal</a> &nbsp;&nbsp; <a href="https://mocscdp.mitsde.com/" class="text-orange">Access your MOCS dashboard &rarr; Learner Portal</a></p></div>
-        </div>
+
+            <div class="faq-item is-open">
+                <button class="faq-q" aria-expanded="true">
+                    <span>What is MOCS?</span>
+                    <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /></svg>
+                </button>
+                <div class="faq-a"><p>MITSDE&rsquo;s in-house career and well-being team &mdash; delivering personalised career planning, workshops, mentoring, counselling, mock interviews, and placement support across your full programme.</p></div>
+            </div>
+
+            <div class="faq-item">
+                <button class="faq-q" aria-expanded="false">
+                    <span>Is MOCS optional?</span>
+                    <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /></svg>
+                </button>
+                <div class="faq-a"><p>For Cohort 15 onwards, MOCS is part of the programme and included in your fee. Every enrolled student has full access.</p></div>
+            </div>
+
+            <div class="faq-item">
+                <button class="faq-q" aria-expanded="false">
+                    <span>Do I pay extra for MOCS?</span>
+                    <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /></svg>
+                </button>
+                <div class="faq-a"><p>No &mdash; included in your programme fee for Cohort 15+. Non-MITSDE learners have a separate standalone subscription.</p></div>
+            </div>
+
+            <div class="faq-item">
+                <button class="faq-q" aria-expanded="false">
+                    <span>What is the Career Diagnostic?</span>
+                    <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /></svg>
+                </button>
+                <div class="faq-a"><p>A 30&ndash;45 minute assessment in Month 1. Captures your current role, target role, and skill gaps &mdash; and drives your personalised CDP and roadmap.</p></div>
+            </div>
+
+            <div class="faq-item">
+                <button class="faq-q" aria-expanded="false">
+                    <span>What is the CDP?</span>
+                    <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /></svg>
+                </button>
+                <div class="faq-a"><p>A personalised career plan delivered as a PDF and audio walkthrough. Specifies your roadmap, services, and milestones across 4 semesters.</p></div>
+            </div>
+
+            <div class="faq-item">
+                <button class="faq-q" aria-expanded="false">
+                    <span>How long does MOCS run?</span>
+                    <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /></svg>
+                </button>
+                <div class="faq-a"><p>Across all four semesters &mdash; the full duration of your programme.</p></div>
+            </div>
+
+            <div class="faq-item">
+                <button class="faq-q" aria-expanded="false">
+                    <span>What services are included?</span>
+                    <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /></svg>
+                </button>
+                <div class="faq-a"><p>Counselling, mentoring, Kaushalya (soft skills), communication, Adhyapan (leadership), networking, mock interviews, Maanas &amp; Anubhuti (well-being), resume &amp; LinkedIn sign-off, placement support, and a MOCS Completion Certificate.</p></div>
+            </div>
+
+            <div class="faq-item">
+                <button class="faq-q" aria-expanded="false">
+                    <span>What happens during exam months?</span>
+                    <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /></svg>
+                </button>
+                <div class="faq-a"><p>Live sessions pause during exam windows. Async LMS content remains available. Exam months don&rsquo;t count against attendance.</p></div>
+            </div>
+
+            <div class="faq-item">
+                <button class="faq-q" aria-expanded="false">
+                    <span>Does MOCS affect my academic certificate?</span>
+                    <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /></svg>
+                </button>
+                <div class="faq-a"><p>No. MOCS is co-curricular. The MOCS Completion Certificate is separate from your MITSDE academic certificate.</p></div>
+            </div>
+
+            <div class="faq-item">
+                <button class="faq-q" aria-expanded="false">
+                    <span>I subscribed in an earlier cohort &mdash; what happens?</span>
+                    <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /></svg>
+                </button>
+                <div class="faq-a"><p>All services continue exactly as committed. Raise a ticket on TMS for specific queries.</p></div>
+            </div>
+
+            <div class="faq-item">
+                <button class="faq-q" aria-expanded="false">
+                    <span>I&rsquo;m not a MITSDE student &mdash; can I access MOCS?</span>
+                    <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /></svg>
+                </button>
+                <div class="faq-a"><p>Yes. A standalone subscription is available for non-MITSDE learners.</p></div>
+            </div>
+
+            <div class="faq-item">
+                <button class="faq-q" aria-expanded="false">
+                    <span>How do I see my workshops and milestones?</span>
+                    <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /></svg>
+                </button>
+                <div class="faq-a"><p>All in your MOCS dashboard inside the learner portal &mdash; calendar, CDP, milestones, and bookings.</p></div>
+            </div>
+
+            <div class="faq-item">
+                <button class="faq-q" aria-expanded="false">
+                    <span>How do I contact the MOCS team?</span>
+                    <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /></svg>
+                </button>
+                <div class="faq-a">
+                    <p>MITSDE learners: raise a ticket on TMS or use the MOCS communication channel from your welcome email. Others: use the contact form on the registration page.</p>
+                    <p class="mt-2"><a href="https://elibrary.mitsde.com/" class="text-orange">Raise a support ticket &rarr; TMS Portal</a> &nbsp;&nbsp; <a href="https://mocscdp.mitsde.com/" class="text-orange">Access your MOCS dashboard &rarr; Learner Portal</a></p>
+                </div>
+            </div>
+
         </div>
     </div>
 </section>
@@ -799,17 +854,6 @@
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 
-<script>
-/* FAQ accordion */
-document.querySelectorAll('.faq-q').forEach(function (q) {
-    q.addEventListener('click', function () {
-        var item = q.closest('.faq-item');
-        var isOpen = item.classList.contains('open');
-        document.querySelectorAll('.faq-item.open').forEach(function (o) { o.classList.remove('open'); });
-        if (!isOpen) item.classList.add('open');
-    });
-});
-</script>
 
 </body>
 </html>

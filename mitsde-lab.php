@@ -320,12 +320,12 @@
     .lab-testi-controls button:hover { border-color: var(--lab-teal); color: var(--lab-teal); }
 
     /* LAB-SPECIFIC FAQ (avoids script.js conflict with .faq-q) */
-    .lab-faq-item { border-bottom: 1px solid var(--lab-line); }
-    .lab-faq-q { width: 100%; text-align: left; background: none; border: none; padding: 17px 4px; display: flex; justify-content: space-between; align-items: center; gap: 16px; font-size: 15px; color: var(--lab-navy); font-weight: 600; cursor: pointer; font-family: inherit; }
-    .lab-plus { font-family: 'Courier New', monospace; font-size: 20px; color: var(--lab-teal); transition: transform .2s; flex-shrink: 0; }
-    .lab-faq-item.lab-open .lab-plus { transform: rotate(45deg); }
+    .lab-faq-item { border-bottom: 1px solid #e5e7eb; }
+    .lab-faq-q { width: 100%; text-align: left; background: none; border: none; padding: 17px 4px; display: flex; justify-content: space-between; align-items: center; gap: 16px; font-size: 15px; color: var(--text-dark, #000); font-weight: 600; cursor: pointer; font-family: inherit; }
+    .lab-faq-chevron { width: 20px; height: 20px; flex-shrink: 0; color: var(--primary-orange, #ea580c); transition: transform .26s cubic-bezier(0.16,1,0.3,1); }
+    .lab-faq-item.lab-open .lab-faq-chevron { transform: rotate(180deg); }
     .lab-faq-a { max-height: 0; overflow: hidden; transition: max-height .25s ease; }
-    .lab-faq-a p { padding: 0 4px 16px; font-size: 13.5px; color: var(--lab-ink-soft); max-width: 740px; margin: 0; }
+    .lab-faq-a p { padding: 0 4px 16px; font-size: 13.5px; color: #374151; max-width: 740px; margin: 0; }
     .lab-faq-cols { columns: 2; column-gap: 44px; }
     .lab-faq-cols .lab-faq-item { break-inside: avoid; }
     @media (max-width: 800px) { .lab-faq-cols { columns: 1; } }
@@ -871,9 +871,11 @@ document.getElementById('labTestiTrack').innerHTML = LAB_TESTIMONIALS.map(t=>`
 
 function labScrollTesti(dir){ document.getElementById('labTestiTrack').scrollBy({left:dir*320,behavior:'smooth'}); }
 
+const LAB_FAQ_SVG = `<svg class="lab-faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
+
 document.getElementById('labFaqList').innerHTML = LAB_FAQS.map((f,i)=>`
   <div class="lab-faq-item" id="lab-faq-${i}">
-    <button class="lab-faq-q" onclick="labToggleFaq(${i})"><span>${f[0]}</span><span class="lab-plus">+</span></button>
+    <button class="lab-faq-q" onclick="labToggleFaq(${i})"><span>${f[0]}</span>${LAB_FAQ_SVG}</button>
     <div class="lab-faq-a"><p>${f[1]}</p></div>
   </div>`).join('');
 
