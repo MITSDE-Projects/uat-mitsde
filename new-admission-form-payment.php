@@ -160,6 +160,9 @@ if ($stmt->fetch()) {
                 else if (Course == "58_Diploma in TQM") {
 
                 }
+                else if (Course == "59_Lean Six Sigma Green Belt + Black Belt") {
+
+                }
                 else {
                     errors[errors.length] = "Select Specialization";
                 }

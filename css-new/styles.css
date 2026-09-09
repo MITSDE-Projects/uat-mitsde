@@ -967,7 +967,7 @@ a { text-decoration: none; }
 .mega-left { padding: 1.2rem 0; display: flex; flex-direction: column; max-height: 70vh; overflow-y: auto; width: 320px; flex-shrink: 0; }
 .mega-cat { cursor: pointer; }
 .mega-cat-label { display: block; font-size: 12px; font-weight: 600; color: var(--text-dark); padding: 0.55rem 1.4rem; }
-.mega-cat.is-active .mega-cat-label, .mega-cat-label:hover { background: rgb(255,208,191); color: var(--text-dark); clip-path: polygon(0 0, 94% 0, 100% 50%, 94% 100%, 0 100%); padding-right: 2rem; }
+.mega-cat.is-active .mega-cat-label, .mega-cat-label:hover { background: rgb(255,208,191); color: var(--text-dark); clip-path: polygon(0 0, calc(100% - 14px) 0, 100% 50%, calc(100% - 14px) 100%, 0 100%); padding-right: 2rem; }
 @keyframes panelItemIn { from { opacity: 0; transform: translateX(-8px); } to { opacity: 1; transform: translateX(0); } }
 
 .mega-right { display: flex; flex-direction: column; flex-shrink: 0; max-height: 70vh; max-width: 0; overflow: hidden; opacity: 0; pointer-events: none; padding: 0; transition: max-width 0.32s cubic-bezier(0.16,1,0.3,1), opacity 0.25s ease; }
@@ -2761,7 +2761,7 @@ select.rf-input option[value=""] { color: #9ca3af; }
 .pgcs-tag {
     display: inline-block;
     background: var(--primary-orange);
-    clip-path: polygon(0 0, 90% 0, 100% 50%, 90% 100%, 0 100%);
+    clip-path: polygon(0 0, calc(100% - 14px) 0, 100% 50%, calc(100% - 14px) 100%, 0 100%);
     padding: 1px;
     margin-bottom: 1rem;
 }

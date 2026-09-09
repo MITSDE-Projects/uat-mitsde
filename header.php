@@ -232,6 +232,7 @@
                                 <li><a class="dropdown-item" href="lean-six-sigma-black-belt-certification">Lean Six Sigma Black Belt Certification</a></li>
                                 <li><a class="dropdown-item" href="total-quality-management-certification">Certification in Total Quality Management</a></li>
                                 <li><a class="dropdown-item" href="diploma-in-total-quality-management">Diploma in Total Quality Management</a></li>
+                                <li><a class="dropdown-item" href="lean-six-sigma-green-black-belt">Lean Six Sigma Green Belt + Black Belt Certification</a></li>
                             </ul>
                         </li>
                         <!-- cap -->

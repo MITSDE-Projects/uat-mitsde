@@ -81,6 +81,9 @@ else if ($Course == "57_Certification in TQM") {
 }
 else if ($Course == "58_Diploma in TQM") {
     $S_ID = 0;
+}
+else if ($Course == "59_Lean Six Sigma Green Belt + Black Belt") {
+    $S_ID = 0;
 } else {
     $S_ID = isset($_POST['SpecializationID']) ? trim($_POST['SpecializationID']) : '';
 }
