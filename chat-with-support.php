@@ -1248,65 +1248,250 @@
                 <!-- ── Tab 7: Placement Related Queries ── -->
                 <div class="cws-tab-pane" id="cws-placement" style="display:none;">
                     <h2 class="section-heading mb-4">Placement Related Queries</h2>
-                    <div class="faq-list">
 
+                    <p class="fw-bold text-uppercase text-muted" style="font-size:12px;letter-spacing:.08em;margin:0 0 8px;">Placement Eligibility</p>
+                    <div class="faq-list mb-2">
                         <div class="faq-item is-open">
                             <button class="faq-q" aria-expanded="true">
-                                <span>When will I be eligible for placement?</span>
+                                <span>When am I eligible for placement assistance?</span>
                                 <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                             </button>
-                            <div class="faq-a"><p>In the last semester of your course, there should be no backlogs, no pending dues, and no documents pending.</p></div>
+                            <div class="faq-a"><p>You become eligible in the final semester of your course, provided you have no active backlogs, no pending dues, and no pending documents with the institute.</p></div>
                         </div>
-
                         <div class="faq-item">
                             <button class="faq-q" aria-expanded="false">
-                                <span>Are there any charges for placement registration?</span>
+                                <span>Is there a fee for registering for placement assistance?</span>
                                 <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                             </button>
-                            <div class="faq-a"><p>No fee for placement registration.</p></div>
+                            <div class="faq-a"><p>No. There are absolutely no charges for placement assistance registration.</p></div>
                         </div>
-
                         <div class="faq-item">
                             <button class="faq-q" aria-expanded="false">
-                                <span>I did not receive any placement opportunities.</span>
+                                <span>I am in my final semester but have a backlog. Am I eligible?</span>
                                 <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                             </button>
-                            <div class="faq-a"><p>All Job and Internship Opportunities are posted in the Portal. Check out relevant job opportunities as per your qualifications, experience, and eligibility.</p></div>
+                            <div class="faq-a"><p>No. Students with any active backlogs are not eligible for placement assistance. All pending backlogs must be cleared before registering.</p></div>
                         </div>
-
-                        <div class="faq-item">
-                            <button class="faq-q" aria-expanded="false">
-                                <span>How many opportunities will I get?</span>
-                                <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-                            </button>
-                            <div class="faq-a"><p>You will get lifetime job opportunities from the MITSDE Placement Cell (as posted on the portal) and through the TCS ION Job portal.</p></div>
-                        </div>
-
-                        <div class="faq-item">
-                            <button class="faq-q" aria-expanded="false">
-                                <span>Can I have an online interview or an offline interview?</span>
-                                <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-                            </button>
-                            <div class="faq-a"><p>We request HR to have preliminary interview rounds online. However, it depends on the Company HR rules.</p></div>
-                        </div>
-
-                        <div class="faq-item">
-                            <button class="faq-q" aria-expanded="false">
-                                <span>Will there be any mock interviews?</span>
-                                <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-                            </button>
-                            <div class="faq-a"><p>Yes, once in your placement lifecycle. No recordings are available.</p></div>
-                        </div>
-
-                        <div class="faq-item">
-                            <button class="faq-q" aria-expanded="false">
-                                <span>My results have been declared, but I haven't received any placement service updates.</span>
-                                <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-                            </button>
-                            <div class="faq-a"><p>You receive Placement Support Service 30 days after the declaration of Semester Result.</p></div>
-                        </div>
-
                     </div>
+
+                    <p class="fw-bold text-uppercase text-muted" style="font-size:12px;letter-spacing:.08em;margin:20px 0 8px;">Placement Eligibility (Detailed)</p>
+                    <div class="faq-list mb-2">
+                        <div class="faq-item">
+                            <button class="faq-q" aria-expanded="false">
+                                <span>What are the three types of eligibility required for placement assistance?</span>
+                                <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                            </button>
+                            <div class="faq-a"><p>Academic Eligibility (final semester), Enrollment Eligibility (status must be Confirmed — not Provisional, Cancelled, or Suspended), and Training Eligibility (must submit the TCS iON Employability Readiness Programme certificate, MOCS, APL Certificate, Internshala Account Verification).</p></div>
+                        </div>
+                    </div>
+
+                    <p class="fw-bold text-uppercase text-muted" style="font-size:12px;letter-spacing:.08em;margin:20px 0 8px;">Placement Portal</p>
+                    <div class="faq-list mb-2">
+                        <div class="faq-item">
+                            <button class="faq-q" aria-expanded="false">
+                                <span>How do I access the placement portal?</span>
+                                <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                            </button>
+                            <div class="faq-a"><p>The portal is at mitsde.pod.ai. Your User ID is your registered MITSDE email address; you set your password on first login (use "Forgot Password" if needed).</p></div>
+                        </div>
+                        <div class="faq-item">
+                            <button class="faq-q" aria-expanded="false">
+                                <span>For how long will I have access to the placement portal?</span>
+                                <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                            </button>
+                            <div class="faq-a"><p>The placement portal remains active for six months from registration. After this, you transition to the Alumni Portal, which offers lifetime access.</p></div>
+                        </div>
+                        <div class="faq-item">
+                            <button class="faq-q" aria-expanded="false">
+                                <span>I am facing a technical issue on the POD placement portal. Who do I contact?</span>
+                                <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                            </button>
+                            <div class="faq-a"><p>Contact the POD technical helpline at 01141179695, available Monday to Friday, 10:00 AM to 6:00 PM.</p></div>
+                        </div>
+                    </div>
+
+                    <p class="fw-bold text-uppercase text-muted" style="font-size:12px;letter-spacing:.08em;margin:20px 0 8px;">Job &amp; Internship Opportunities</p>
+                    <div class="faq-list mb-2">
+                        <div class="faq-item">
+                            <button class="faq-q" aria-expanded="false">
+                                <span>How will I receive job and internship opportunities?</span>
+                                <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                            </button>
+                            <div class="faq-a"><p>All opportunities are posted on the Placement Portal, with notifications via email. You may also follow the official MITSDE Alumni &amp; Career Network WhatsApp Channel for real-time updates.</p></div>
+                        </div>
+                        <div class="faq-item">
+                            <button class="faq-q" aria-expanded="false">
+                                <span>What happens once I receive a job offer?</span>
+                                <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                            </button>
+                            <div class="faq-a"><p>Once you receive a job offer — whether accepted or declined — you are no longer eligible for further opportunities through the Placement Cell. The policy entitles each student to one job offer at the first instance.</p></div>
+                        </div>
+                    </div>
+
+                    <p class="fw-bold text-uppercase text-muted" style="font-size:12px;letter-spacing:.08em;margin:20px 0 8px;">Interview Process</p>
+                    <div class="faq-list mb-2">
+                        <div class="faq-item">
+                            <button class="faq-q" aria-expanded="false">
+                                <span>What is the policy regarding interviews after applying for a position?</span>
+                                <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                            </button>
+                            <div class="faq-a"><p>Once you apply for an opportunity, attending the interview process is mandatory. Failure to attend after applying results in termination of placement assistance.</p></div>
+                        </div>
+                        <div class="faq-item">
+                            <button class="faq-q" aria-expanded="false">
+                                <span>Will there be mock interviews?</span>
+                                <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                            </button>
+                            <div class="faq-a"><p>Yes. One mock interview session is provided per student per placement lifecycle. No recordings are available.</p></div>
+                        </div>
+                    </div>
+
+                    <p class="fw-bold text-uppercase text-muted" style="font-size:12px;letter-spacing:.08em;margin:20px 0 8px;">Resume &amp; Profile</p>
+                    <div class="faq-list mb-2">
+                        <div class="faq-item">
+                            <button class="faq-q" aria-expanded="false">
+                                <span>Is there a prescribed format for the resume?</span>
+                                <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                            </button>
+                            <div class="faq-a"><p>Yes. The Placement Cell provides a prescribed CV format. Only this format is accepted; resumes in any other format will not be accepted.</p></div>
+                        </div>
+                    </div>
+
+                    <p class="fw-bold text-uppercase text-muted" style="font-size:12px;letter-spacing:.08em;margin:20px 0 8px;">TCS iON Training Platform</p>
+                    <div class="faq-list mb-2">
+                        <div class="faq-item">
+                            <button class="faq-q" aria-expanded="false">
+                                <span>When will I receive my TCS iON credentials?</span>
+                                <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                            </button>
+                            <div class="faq-a"><p>Within three months after the Master Induction / Live Session begins. Add nqt@tcsion.com to your Safe Senders list and check your spam folder if the email does not arrive.</p></div>
+                        </div>
+                    </div>
+
+                    <p class="fw-bold text-uppercase text-muted" style="font-size:12px;letter-spacing:.08em;margin:20px 0 8px;">Salary &amp; Compensation</p>
+                    <div class="faq-list mb-2">
+                        <div class="faq-item">
+                            <button class="faq-q" aria-expanded="false">
+                                <span>What is the expected salary range for freshers in the Marketing domain?</span>
+                                <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                            </button>
+                            <div class="faq-a"><p>Between Rs. 3.5 LPA and Rs. 4.5 LPA on average; total CTC can extend up to Rs. 5 LPA with an incentive component. Prior experience or specialised exposure can command higher offers.</p></div>
+                        </div>
+                    </div>
+
+                    <p class="fw-bold text-uppercase text-muted" style="font-size:12px;letter-spacing:.08em;margin:20px 0 8px;">Salary, Packages &amp; Compensation</p>
+                    <div class="faq-list mb-2">
+                        <div class="faq-item">
+                            <button class="faq-q" aria-expanded="false">
+                                <span>What is the minimum and average salary package for MITSDE campus placements?</span>
+                                <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                            </button>
+                            <div class="faq-a"><p>The minimum and average package range is Rs. 2.5 LPA to Rs. 7 LPA. Salary details are shared with students before the selection process for each opportunity.</p></div>
+                        </div>
+                        <div class="faq-item">
+                            <button class="faq-q" aria-expanded="false">
+                                <span>What has been the highest CTC offered and received through MITSDE placements?</span>
+                                <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                            </button>
+                            <div class="faq-a"><p>The highest CTC offered has been Rs. 20 LPA (True Elements); the highest CTC received by a placed student has been Rs. 8 LPA (Ajanta Bottles Pvt Ltd), based on available placement data.</p></div>
+                        </div>
+                    </div>
+
+                    <p class="fw-bold text-uppercase text-muted" style="font-size:12px;letter-spacing:.08em;margin:20px 0 8px;">Alumni Portal</p>
+                    <div class="faq-list mb-2">
+                        <div class="faq-item">
+                            <button class="faq-q" aria-expanded="false">
+                                <span>How do I access the Alumni Portal?</span>
+                                <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                            </button>
+                            <div class="faq-a"><p>The Alumni Portal (alumni.mitsde.com) is by invitation only. Eligible students — final semester, no backlogs, no pending fees or documents — are added and notified via email.</p></div>
+                        </div>
+                    </div>
+
+                    <p class="fw-bold text-uppercase text-muted" style="font-size:12px;letter-spacing:.08em;margin:20px 0 8px;">Contact &amp; Escalation</p>
+                    <div class="faq-list mb-2">
+                        <div class="faq-item">
+                            <button class="faq-q" aria-expanded="false">
+                                <span>How do I contact the Placement Cell?</span>
+                                <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                            </button>
+                            <div class="faq-a"><p>You may reach the Placement Cell at placement@mitsde.com for any placement-related queries.</p></div>
+                        </div>
+                    </div>
+
+                    <p class="fw-bold text-uppercase text-muted" style="font-size:12px;letter-spacing:.08em;margin:20px 0 8px;">Placement Process</p>
+                    <div class="faq-list mb-2">
+                        <div class="faq-item">
+                            <button class="faq-q" aria-expanded="false">
+                                <span>What are the typical steps in the Placement Process?</span>
+                                <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                            </button>
+                            <div class="faq-a"><p>Recruiters are invited and confirm participation, submit job descriptions, and share their recruitment process; interview dates are communicated; an optional Pre-Placement Talk may be held; CVs are shared with HR; interviews take place; final offers are extended in writing through the Placement Department (verbal/telephonic offers are not valid); the One Offer per Student policy is then activated.</p></div>
+                        </div>
+                    </div>
+
+                    <p class="fw-bold text-uppercase text-muted" style="font-size:12px;letter-spacing:.08em;margin:20px 0 8px;">Selection Process</p>
+                    <div class="faq-list mb-2">
+                        <div class="faq-item">
+                            <button class="faq-q" aria-expanded="false">
+                                <span>May I contact company HR representatives directly during the placement process?</span>
+                                <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                            </button>
+                            <div class="faq-a"><p>No. All communication with companies must go exclusively through the Placement Cell. Contacting HR directly can result in strict action against the student.</p></div>
+                        </div>
+                    </div>
+
+                    <p class="fw-bold text-uppercase text-muted" style="font-size:12px;letter-spacing:.08em;margin:20px 0 8px;">Offer Letters &amp; Post-Selection</p>
+                    <div class="faq-list mb-2">
+                        <div class="faq-item">
+                            <button class="faq-q" aria-expanded="false">
+                                <span>How will I receive my offer letter?</span>
+                                <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                            </button>
+                            <div class="faq-a"><p>All job offers are channelled through the Placement Department. Only written communication (an offer letter) is valid — the company must submit it within 15 days of final selection.</p></div>
+                        </div>
+                        <div class="faq-item">
+                            <button class="faq-q" aria-expanded="false">
+                                <span>How many placement opportunities will I receive in total?</span>
+                                <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                            </button>
+                            <div class="faq-a"><p>Eligible registered students are entitled to three placement opportunities (interview calls), governed by the policy of one job to one student at the first instance.</p></div>
+                        </div>
+                    </div>
+
+                    <p class="fw-bold text-uppercase text-muted" style="font-size:12px;letter-spacing:.08em;margin:20px 0 8px;">Placement Highlights &amp; Corporate Network</p>
+                    <div class="faq-list mb-2">
+                        <div class="faq-item">
+                            <button class="faq-q" aria-expanded="false">
+                                <span>How many companies has MITSDE onboarded for placements?</span>
+                                <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                            </button>
+                            <div class="faq-a"><p>MITSDE has onboarded 354+ companies across sectors including BFSI, FMCG, IT, consulting, retail, manufacturing, logistics, and healthcare.</p></div>
+                        </div>
+                    </div>
+
+                    <p class="fw-bold text-uppercase text-muted" style="font-size:12px;letter-spacing:.08em;margin:20px 0 8px;">Interview Readiness &amp; Conduct</p>
+                    <div class="faq-list mb-2">
+                        <div class="faq-item">
+                            <button class="faq-q" aria-expanded="false">
+                                <span>What documents must I carry on the day of a campus placement drive?</span>
+                                <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                            </button>
+                            <div class="faq-a"><p>A valid Identity Card, three sets of updated resumes with photocopies of mark sheets and certificates, and two recent passport-size photographs.</p></div>
+                        </div>
+                    </div>
+
+                    <p class="fw-bold text-uppercase text-muted" style="font-size:12px;letter-spacing:.08em;margin:20px 0 8px;">Placement Process Guidelines</p>
+                    <div class="faq-list mb-2">
+                        <div class="faq-item">
+                            <button class="faq-q" aria-expanded="false">
+                                <span>Is it mandatory to accept a job offer received during a placement drive?</span>
+                                <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                            </button>
+                            <div class="faq-a"><p>Yes. Per the signed placement undertaking, a Confirmation Mail, Offer Letter, or Letter of Intent must be accepted and joined within the specified time. Refusing an offer on any grounds results in debarment from all future placement support at MITSDE.</p></div>
+                        </div>
+                    </div>
+
                 </div><!-- /cws-placement -->
 
             </div><!-- /col right -->

@@ -352,14 +352,8 @@
                         ['name' => 'Vanshika Rajesh Thorat', 'designation' => 'Intern - Marketing, HR and Finance', 'course' => 'Post Graduate Diploma in Management', 'specialization' => 'Human Resource Management'],
                         ['name' => 'Mansi Arora', 'designation' => 'Intern - Marketing, HR and Finance', 'course' => 'Post Graduate Diploma in Management', 'specialization' => 'Human Resource Management'],
                     ],
-                    'Basti Ki Pathshala Foundation' => [
-                        ['name' => 'Viral Chopra', 'designation' => 'Intern - Fundraising', 'course' => 'Post Graduate Certificate in Management', 'specialization' => 'Business Analytics'],
-                    ],
                     'Bigbull Research' => [
                         ['name' => 'Akshada Parekar', 'designation' => 'Human Resources (HR) Executive', 'course' => 'Post Graduate Diploma in Management', 'specialization' => 'Human Resource Management'],
-                    ],
-                    'Billion Strategies' => [
-                        ['name' => 'A V Vishal', 'designation' => 'Intern', 'course' => 'Post Graduate Diploma in Management', 'specialization' => 'Marketing Management'],
                     ],
                     'Codeyoung' => [
                         ['name' => 'Iyer Divya Srinivasan', 'designation' => 'Associate Customer Experience - US Shift', 'course' => 'Post Graduate Diploma in Management', 'specialization' => 'Finance Management'],
@@ -419,14 +413,6 @@
                         ['name' => 'Mishra Shriya Durgesh', 'designation' => 'Inside Sales Representative', 'course' => 'Post Graduate Diploma in Management', 'specialization' => 'Human Resource Management'],
                         ['name' => 'Prem Lahukumar Bundhe', 'designation' => 'Inside Sales Representative', 'course' => 'Post Graduate Diploma in Management', 'specialization' => 'Information Technology'],
                     ],
-                    'Hamari Pahchan' => [
-                        ['name' => 'Patil Prasad Niwas', 'designation' => 'Intern', 'course' => 'Post Graduate Diploma in Management', 'specialization' => 'Project Management'],
-                    ],
-                    'Hamari Pahchan NGO' => [
-                        ['name' => 'Pratibha Palve', 'designation' => 'Intern', 'course' => 'Post Graduate Certificate in Management', 'specialization' => 'Business Analytics'],
-                        ['name' => 'Sakshi Sandip Hagavane', 'designation' => 'Intern', 'course' => 'Post Graduate Diploma in Management', 'specialization' => 'Finance Management'],
-                        ['name' => 'Rubal Samuel Massey', 'designation' => 'Intern', 'course' => 'Executive MBA', 'specialization' => 'Operations Management'],
-                    ],
                     'Heleum' => [
                         ['name' => 'Akanksha Shivaji Arekar', 'designation' => 'HR Intern', 'course' => 'Post Graduate Diploma in Management', 'specialization' => 'Construction and Project Management'],
                         ['name' => 'Dhanashri Sunil Shinde', 'designation' => 'HR Intern', 'course' => 'Post Graduate Diploma in Management', 'specialization' => 'Human Resource Management'],
@@ -445,15 +431,6 @@
                         ['name' => 'Madhura Kulkarni', 'designation' => 'HR Recruiter Intern', 'course' => 'Post Graduate Diploma in Management', 'specialization' => 'Human Resource Management'],
                         ['name' => 'Mokshitha Jain', 'designation' => 'HR Recruiter Intern', 'course' => 'Post Graduate Diploma in Management', 'specialization' => 'Finance Management'],
                         ['name' => 'Piyush Jain', 'designation' => 'HR Recruiter Intern', 'course' => 'CAP', 'specialization' => 'Lean Six Sigma'],
-                    ],
-                    'InAmigos Foundation' => [
-                        ['name' => 'Jashan Deep Kaur Dhaliwal', 'designation' => 'Intern', 'course' => 'Post Graduate Certificate in Management', 'specialization' => 'Digital Marketing'],
-                        ['name' => 'Saudatti Pooja Prashant', 'designation' => 'Intern', 'course' => 'Post Graduate Diploma in Management', 'specialization' => 'Logistics and Supply Chain Management'],
-                        ['name' => 'Rubal Samuel Massey', 'designation' => 'Intern', 'course' => 'Executive MBA', 'specialization' => 'Operations Management'],
-                        ['name' => 'Kolhe Komal Ujwal', 'designation' => 'Intern', 'course' => 'Post Graduate Diploma in Management', 'specialization' => 'Marketing Management'],
-                        ['name' => 'Viral Chopra', 'designation' => 'Intern', 'course' => 'Post Graduate Certificate in Management', 'specialization' => 'Business Analytics'],
-                        ['name' => 'Priya Dongre', 'designation' => 'Intern', 'course' => 'Post Graduate Diploma in Management(Executive)', 'specialization' => 'Banking and Financial Services'],
-                        ['name' => 'Amruta Gulabrao Gawande', 'designation' => 'Intern', 'course' => 'Post Graduate Certificate in Management', 'specialization' => 'Business Analytics'],
                     ],
                     'Insplore Consultants Pvt. Ltd.' => [
                         ['name' => 'Aishwarya Raju Potdar', 'designation' => 'Intern - HR/Marketing/Finance', 'course' => 'Post Graduate Diploma in Management', 'specialization' => 'Human Resource Management'],
@@ -524,13 +501,6 @@
                     'Mobicloud Technologies' => [
                         ['name' => 'Siddhesh Vilas Sangle', 'designation' => 'IT Sales Executive', 'course' => 'Post Graduate Diploma in Management', 'specialization' => 'Information Technology'],
                     ],
-                    'Muskurahat Foundation' => [
-                        ['name' => 'Pratibha Palve', 'designation' => 'Intern', 'course' => 'Post Graduate Certificate in Management', 'specialization' => 'Business Analytics'],
-                    ],
-                    'NayePankh Foundation' => [
-                        ['name' => 'Suthar Manju Babulal', 'designation' => 'Intern', 'course' => 'Post Graduate Certificate in Management', 'specialization' => 'Business Analytics'],
-                        ['name' => 'Deep Kumar', 'designation' => 'Intern', 'course' => 'Post Graduate Diploma in Management', 'specialization' => 'Logistics and Supply Chain Management'],
-                    ],
                     'Omadus Infotech' => [
                         ['name' => 'Vaishnavi Bhoite', 'designation' => 'Executive', 'course' => 'Post Graduate Diploma in Management', 'specialization' => 'Marketing Management'],
                     ],
@@ -547,9 +517,6 @@
                     'Qapita' => [
                         ['name' => 'Atharva Baliram Dhage', 'designation' => 'Intern', 'course' => 'Post Graduate Diploma in Management', 'specialization' => 'Human Resource Management'],
                     ],
-                    'Queens of change Foundation' => [
-                        ['name' => 'Prajakta Santosh Jadhav', 'designation' => 'Intern', 'course' => 'Post Graduate Diploma in Management', 'specialization' => 'Project Management'],
-                    ],
                     "RAAM'S Infra and Project Developers Private Limited" => [
                         ['name' => 'Sakshi Anil Patil', 'designation' => 'Executive', 'course' => 'Post Graduate Diploma in Management', 'specialization' => 'Construction and Project Management'],
                     ],
@@ -558,15 +525,6 @@
                     ],
                     'Safexpress' => [
                         ['name' => 'Shivang Sharma', 'designation' => 'Business Development Manager', 'course' => 'Post Graduate Diploma in Management', 'specialization' => 'Marketing Management'],
-                    ],
-                    'Sanyukt Organisation' => [
-                        ['name' => 'Badal Kumar', 'designation' => 'Intern', 'course' => 'Post Graduate Certificate in Management', 'specialization' => 'Digital Marketing'],
-                        ['name' => 'Shine Sharma', 'designation' => 'Intern', 'course' => 'Post Graduate Diploma in Management(Executive)', 'specialization' => 'Human Capital Management'],
-                        ['name' => 'Rustam', 'designation' => 'Intern', 'course' => 'Post Graduate Certificate in Management', 'specialization' => 'Business Analytics'],
-                    ],
-                    'She Can Foundation' => [
-                        ['name' => 'Bhatt Kuldeep Shaileshbhai', 'designation' => 'Intern', 'course' => 'Post Graduate Diploma in Management-Executive', 'specialization' => 'Business Analytics'],
-                        ['name' => 'Khan Aksan Zuber', 'designation' => 'Intern', 'course' => 'Post Graduate Diploma in Management', 'specialization' => 'Logistics and Supply Chain Management'],
                     ],
                     'Stellar Innovations' => [
                         ['name' => 'Anup Vaidya', 'designation' => 'Analyst', 'course' => 'Post Graduate Diploma in Management', 'specialization' => 'Operations Management'],
@@ -601,10 +559,6 @@
                         ['name' => 'Samiksha Surendra Bhujade', 'designation' => 'Management Intern', 'course' => 'Post Graduate Diploma in Management', 'specialization' => 'Human Resource Management'],
                         ['name' => 'Sonam Hare', 'designation' => 'Management Intern', 'course' => 'Post Graduate Certificate in Management', 'specialization' => 'Business Analytics'],
                         ['name' => 'Upendra Gurudas Zade', 'designation' => 'Management Intern', 'course' => 'Post Graduate Diploma in Management', 'specialization' => 'Logistics and Supply Chain Management'],
-                    ],
-                    'Unessa Foundation' => [
-                        ['name' => 'Suthar Manju Babulal', 'designation' => 'Intern', 'course' => 'Post Graduate Certificate in Management', 'specialization' => 'Business Analytics'],
-                        ['name' => 'Kolhe Komal Ujwal', 'designation' => 'Intern', 'course' => 'Post Graduate Diploma in Management', 'specialization' => 'Marketing Management'],
                     ],
                     'Unlox' => [
                         ['name' => 'Amodh Choudhari', 'designation' => 'Business Development Associate', 'course' => 'Post Graduate Diploma in Management', 'specialization' => 'Information Technology'],
