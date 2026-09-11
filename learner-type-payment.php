@@ -304,7 +304,7 @@
 
                         <tr>
                             <td>9</td>
-                            <td>Change in Specialization (Within 6 Month)</td>
+                            <td>Change in Specialization (Within 5 Month)</td>
                             <td class="tbl-accent">&#8377; 3,000</td>
                             <td>—</td>
                         </tr>

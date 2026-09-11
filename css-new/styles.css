@@ -209,7 +209,7 @@ a { text-decoration: none; }
 .hero {
     margin-top: -120px;
     position: relative;
-    background: linear-gradient(180deg, #FD771F 0%, #ffffff 100%); /* fallback for pages without video */
+    background: linear-gradient(180deg, #FD771F 0%, #ffffff 80%); /* fallback for pages without video */
     padding-top: 100px;
     text-align: center;
     overflow: hidden;
@@ -1826,18 +1826,8 @@ section[id]{scroll-margin-top:100px;}
     100% { left: 130%; }
 }
 
-.btn-fs-orange {
-    display: inline-block;
-    background: var(--accent-orange);
-    color: var(--white);
-    border-radius: 20px;
-    padding: 0.4rem 1rem;
-    font-size: 0.8rem;
-    font-weight: 400;
-    text-decoration: none;
-    width: fit-content;
-    margin-top: auto;
-}
+.btn-fs-orange {display: inline-block; background: var(--accent-orange); color: var(--white); border-radius: 20px; padding: 0.4rem 1rem; font-size: 0.8rem; font-weight: 400; text-decoration: none; width: fit-content; margin-top: auto; transition: background .2s, transform .15s;}
+.btn-fs-orange:hover { background: #e05a00; color: var(--white); transform: translateY(-2px); }
 
 @media (max-width: 991px) {
     .fs-card { flex-direction: column; padding: 2.5rem; }

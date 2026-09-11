@@ -98,6 +98,10 @@
     }
     </script>
 
+    <style>
+        .list-q { width: 100%; display: flex; align-items: center; justify-content: space-between; gap: 1rem; padding: 0.95rem 3rem 0.95rem 1.25rem; background: #fde0d0; border: none; cursor: pointer; font-size: 0.9rem; font-weight: 500; color: var(--text-dark); text-align: left; clip-path: polygon(0 0, calc(100% - 22px) 0, 100% 50%, calc(100% - 22px) 100%, 0 100%); transition: background 0.25s; }
+    </style>
+
 <?php include "5-common-seo-tag-1.php" ?>
 </head>
 
@@ -118,15 +122,18 @@
         <div class="container">
             <div class="ph-layout">
                 <div class="ph-left">
-                    <h1 class="ph-heading">SynergySphere</h1>
+                    <!-- <h1 class="ph-heading">SynergySphere</h1>
                     <div class="ph-sub">
                         <p>Uniting minds for collective success</p>
+                    </div> -->
+                    <div class="d-flex flex-column justify-content-center align-items-center">
+                        <img src="assets-new/images/logos/synergy-sphere-logo.webp" style="width: 250px;" alt="SynergySphere — Uniting Minds For Collective Success" />
+                        <a href="https://forms.gle/KY7s8xsjFGJ4mZm69" target="_blank" rel="noopener" class="btn-fs-orange mt-3">Register Now</a>
                     </div>
-                    <a href="https://forms.gle/KY7s8xsjFGJ4mZm69" target="_blank" rel="noopener" class="btn btn-dark rounded-pill px-4 py-2 mt-3">Register Now</a>
                 </div>
 
                 <div class="ph-right">
-                    <img src="assets-new/images/synergy-sphere.webp" alt="SynergySphere — Uniting Minds For Collective Success" />
+                    <img src="assets-new/images/banner/synergy-sphere.webp" style="width: 400px;" alt="SynergySphere — Uniting Minds For Collective Success" />
                 </div>
             </div><!-- /ph-layout -->
 
@@ -209,21 +216,17 @@
             </h2>
 
             <ul class="learning-outcomes-list">
-                <li>
-                    <i class="fa-regular fa-square-check"></i>
-                    <span>Certificate of Participation</span>
+                <li style="border: none; padding-bottom: 0px;">
+                    <span class="list-q">Certificate of Participation</span>
                 </li>
-                <li>
-                    <i class="fa-regular fa-square-check"></i>
-                    <span>Networking opportunity among various other working professionals</span>
+                <li style="border: none; padding-bottom: 0px;">
+                    <span class="list-q">Networking opportunity among various other working professionals</span>
                 </li>
-                <li>
-                    <i class="fa-regular fa-square-check"></i>
-                    <span>Spotlight across social media platforms of MITSDE</span>
+                <li style="border: none; padding-bottom: 0px;">
+                    <span class="list-q">Spotlight across social media platforms of MITSDE</span>
                 </li>
-                <li>
-                    <i class="fa-regular fa-square-check"></i>
-                    <span>A shout-out on MITSDE's promotional campaigns across social media</span>
+                <li style="border: none; padding-bottom: 0px;">
+                    <span class="list-q">A shout-out on MITSDE's promotional campaigns across social media</span>
                 </li>
             </ul>
         </div>

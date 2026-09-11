@@ -56,104 +56,44 @@
 
         .ge-page { color: var(--ge-text); }
 
-        /* ── HERO ── */
-        .ge-hero {
-            background: linear-gradient(180deg, #FD771F 0%, #ffffff 100%);
-            position: relative; overflow: hidden;
-            padding: 80px 0 72px;
-            min-height: 460px; display: flex; align-items: center;
-            margin-top: -120px; padding-top: 160px;
+        /* ── HERO STATS (page-specific, not in styles.css) ── */
+        .ge-cta-grid { display: grid; grid-template-columns: repeat(3, 1fr); margin-top: 24px; margin-bottom: 28px; }
+        .ge-stat-col { padding: 0 20px 16px; border-left: 1px solid #ced0d4; text-align: center; }
+        .ge-stat-col:first-child { padding-left: 0; border-left: none; }
+        .ge-btn-col { padding: 0 20px; margin-top: 15px; text-align: center; }
+        .ge-btn-col:nth-child(4) { padding-left: 0; }
+        .ge-stat-val { font-size: 40px; font-weight: 500; color: black; line-height: 1; }
+        .ge-stat-lbl { font-size: 11px; color: #6b7280; letter-spacing: 0.08em; text-transform: uppercase; margin-top: 4px; }
+        @media (max-width: 576px) {
+            .ge-stat-col { padding: 0 8px 12px; }
+            .ge-btn-col { padding: 0 8px; }
+            .ge-stat-val { font-size: 26px; }
         }
-        .ge-hero-grid {
-            position: absolute;
-            inset: 0;
-            pointer-events: none;
-            background-image: repeating-linear-gradient(0deg, transparent, transparent 47px, #ffffff 47px, #ffffff 48px), repeating-linear-gradient(90deg, transparent, transparent 79px, #ffffff 79px, #ffffff 80px);
-            opacity: 0.2;
-        }
-        .ge-hero-globe {
-            position: absolute; right: 80px; top: 50%; transform: translateY(-50%);
-            width: 420px; height: 420px; pointer-events: none; opacity: 0.22;
-        }
-        .ge-hero-content { position: relative; z-index: 1; }
-        .ge-eyebrow {
-            display: inline-flex; align-items: center; gap: 8px;
-            background: rgba(255,255,255,.35); border-radius: 4px;
-            padding: 5px 14px; margin-bottom: 20px;
-            font-size: 10.5px; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase;
-            color: #7c1500;
-            border: 1px solid rgba(255,255,255,.5);
-        }
-        .ge-hero-h1 { font-size: 56px; font-weight: 800; line-height: 1.1; color: #fff; margin-bottom: 8px; letter-spacing: -0.01em; }
-        .ge-hero-h1 em { color: #fff3e0; font-weight: 300; }
-        .ge-hero-sub { font-size: 16px; color: rgba(255,255,255,.88); line-height: 1.6; margin-bottom: 32px; max-width: 580px; }
-        .ge-stats { display: flex; gap: 48px; margin-bottom: 36px; }
-        .ge-stat-val { font-size: 40px; font-weight: 800; color: #7c1500; line-height: 1; }
-        .ge-stat-lbl { font-size: 11px; color: rgba(124,21,0,.7); letter-spacing: 0.08em; text-transform: uppercase; margin-top: 4px; }
-        .ge-ctas { display: flex; gap: 12px; flex-wrap: wrap; }
-        .ge-btn-primary {
-            padding: 12px 28px; background: #f47521; color: #fff;
-            font-size: 13.5px; font-weight: 700; border-radius: 50px;
-            text-decoration: none; letter-spacing: 0.02em; transition: background .15s;
-        }
-        .ge-btn-primary:hover { background: #374151; color: #fff; }
-        .ge-btn-outline {
-            padding: 12px 28px; background: #f47521; color: #fff;
-            font-size: 13.5px; font-weight: 600; border-radius: 50px;
-            border: 1px solid rgba(255,255,255,.5); text-decoration: none; transition: background .15s, border-color .15s;
-        }
-        .ge-btn-outline:hover { background: #374151; border-color: #fff; color: #fff; }
+
+        .btn-g-orange { display: inline-block; background: var(--accent-orange); color: var(--white); border-radius: 20px; padding: 0.4rem 1rem; font-size: 0.8rem; font-weight: 400; text-decoration: none; width: fit-content; margin-top: auto; transition: background .2s, transform .15s; }
+        .btn-g-orange:hover { background: #e05a00; color: var(--white); transform: translateY(-2px); }
 
         /* ── SECTION COMMONS ── */
         .ge-section { padding: 64px 0; }
-        .ge-section-dark { background: var(--ge-dark); padding: 64px 0; }
         .ge-section-light { background: var(--ge-bg-lt); }
-        .ge-section-gray  { background: var(--ge-bg); }
-        .ge-section-white { background: #fff; }
 
-        .ge-section-header { text-align: center; margin-bottom: 48px; }
-        .ge-section-eyebrow { font-size: 10.5px; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ge-primary-dim); margin-bottom: 12px; }
-        .ge-section-dark .ge-section-eyebrow { color: var(--ge-primary-lt); }
-        .ge-section-h2 { font-size: 34px; font-weight: 300; letter-spacing: -0.01em; color: var(--ge-text); margin-bottom: 10px; }
-        .ge-section-dark .ge-section-h2 { color: #fff; }
-        .ge-section-sub { font-size: 15px; color: var(--ge-text-sec); }
-        .ge-section-dark .ge-section-sub { color: #9ca3af; }
-        .ge-dot-row { display: flex; justify-content: center; gap: 6px; margin-top: 16px; }
-        .ge-dot { width: 5px; height: 5px; border-radius: 50%; background: var(--ge-primary-dim); }
-        .ge-dot:nth-child(3) { background: var(--ge-primary); }
+        .ge-section-eyebrow { font-size: 11px; color: #6b7280; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 12px; }
 
-        .ge-gold-rule { height: 1px; background: rgba(234,88,12,.2); }
-
-        /* ── PILLARS ── */
-        .ge-pillars-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; max-width: 860px; margin: 0 auto; }
-        .ge-pillar-card {
-            background: #fff; border-radius: var(--r-md);
-            border: 1px solid var(--ge-border); padding: 28px 28px 24px;
-            position: relative; overflow: hidden;
-            transition: transform .2s, box-shadow .2s;
-        }
-        .ge-pillar-card:hover { transform: translateY(-3px); box-shadow: 0 8px 24px rgba(0,0,0,.08); }
-        /* .ge-pillar-card::before { content:''; position:absolute; top:0;left:0;right:0;height:3px; background:var(--ge-primary); } */
-        /* .ge-pillar-card::after  { content:''; position:absolute; top:0;left:0;bottom:0;width:3px; background:var(--ge-primary); } */
-        .ge-pillar-num { font-size: 11px; font-weight: 700; color: var(--ge-primary); letter-spacing: 0.1em; margin-bottom: 12px; font-family: monospace; }
-        .ge-pillar-title { font-size: 17px; font-weight: 600; color: var(--ge-text); margin-bottom: 8px; line-height: 1.3; }
-        .ge-pillar-desc { font-size: 13.5px; color: var(--ge-text-sec); line-height: 1.6; }
+        .ge-about-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+        @media (max-width: 768px) { .ge-about-grid { grid-template-columns: 1fr; } }
 
         /* ── MAP ── */
-        .ge-map-section { padding: 60px 0 48px; border-top: 1px solid rgba(234,88,12,.12); border-bottom: 1px solid rgba(234,88,12,.12); }
-        .ge-world-svg { width: 100%; max-width: 1100px; margin: 0 auto; display: block; border-radius: 12px; box-shadow: 0 4px 24px rgba(154,52,18,.15); }
-        .ge-map-legend { display: flex; gap: 28px; justify-content: center; margin-top: 20px; }
-        .ge-legend-item { display: flex; align-items: center; gap: 8px; font-size: 12px; color: #9a3412; font-weight: 500; }
-        .ge-legend-dot { width: 10px; height: 10px; border-radius: 50%; }
-        .ge-legend-dot-india { background: var(--ge-primary); box-shadow: 0 0 0 3px rgba(234,88,12,.25); }
+        .ge-map-section { padding-bottom: 48px; }
+        .ge-world-map-img { width: 100%; display: block; }
+        .ge-map-legend { display: flex; gap: 12px; justify-content: center; margin-top: 24px; flex-wrap: wrap; }
+        .ge-legend-item { display: flex; align-items: center; gap: 8px; font-size: 12px; color: #374151; font-weight: 600; background: #ffede5; padding: 6px 16px 6px 10px; border-radius: 999px; }
+        .ge-legend-dot { width: 9px; height: 9px; border-radius: 50%; flex-shrink: 0; }
+        .ge-legend-dot-india { background: var(--ge-primary); }
         .ge-legend-dot-isip  { background: #9a3412; }
-        .ge-country-pills { display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin-top: 28px; }
-        .ge-c-pill {
-            display: inline-flex; align-items: center; gap: 6px;
-            padding: 5px 14px; border-radius: var(--r-pill);
-            border: 1px solid rgba(154,52,18,.3); background: rgba(234,88,12,.08);
-            font-size: 12px; font-weight: 600; color: #9a3412;
-        }
+        .ge-flag-row { display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 20px; }
+        .ge-flag-row img { height: 58px; width: auto; object-fit: cover; border: 1px solid #000000; transition: transform .2s; }
+        .ge-flag-row img:hover { transform: translateY(-3px) scale(1.06); }
+        @media (max-width: 576px) { .ge-flag-row img { height: 42px; } .ge-flag-row { gap: 8px; } }
 
         /* ── ISIP TABLE ── */
         .ge-tab-row { display: flex; gap: 4px; margin-bottom: 20px; }
@@ -191,33 +131,15 @@
         .ge-badge-muted  { background: #f3f4f6; color: var(--ge-muted); }
         .ge-table-note { margin-top: 12px; font-size: 12px; color: var(--ge-muted); }
 
-        /* ── SESSION CARDS ── */
-        .ge-sessions-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
-        .ge-session-card {
-            background: #fff; border: 1px solid var(--ge-border);
-            border-radius: var(--r-md); overflow: hidden;
-            transition: transform .2s, box-shadow .2s;
-        }
-        .ge-session-card:hover { transform: translateY(-3px); box-shadow: 0 8px 24px rgba(0,0,0,.08); }
-        .ge-session-status-bar { height: 3px; }
-        /* .ge-session-status-bar.upcoming  { background: var(--ge-green); } */
-        /* .ge-session-status-bar.completed { background: var(--ge-muted); } */
-        .ge-session-body { padding: 20px; }
+        /* ── SESSION PILLS (used in Faculty Sessions fs-info-card) ── */
         .ge-session-pills { display: flex; align-items: center; gap: 8px; margin-bottom: 14px; }
         .ge-session-pill { font-size: 10px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; padding: 3px 10px; border-radius: var(--r-pill); }
-        .ge-session-pill.upcoming  { background: var(--ge-green-lt);  color: var(--ge-green); }
-        .ge-session-pill.completed { background: #f3f4f6; color: var(--ge-muted); }
+        .ge-session-pill.upcoming { background: var(--ge-green-lt); color: var(--ge-green); }
         .ge-session-date { font-size: 11px; color: var(--ge-muted); }
-        .ge-session-title { font-size: 14.5px; font-weight: 600; color: var(--ge-text); margin-bottom: 6px; line-height: 1.35; }
-        .ge-session-institution { font-size: 11.5px; color: var(--ge-muted); margin-bottom: 12px; }
         .ge-session-tags { display: flex; flex-wrap: wrap; gap: 5px; margin-bottom: 16px; }
         .ge-session-tag { font-size: 10px; font-weight: 600; padding: 3px 10px; border-radius: var(--r-pill); background: #fde8d0; color: #9a3412; }
-        .ge-session-cta { font-size: 12px; font-weight: 600; text-decoration: none; }
-        .ge-session-cta.upcoming  { color: var(--ge-green); }
-        .ge-session-cta.completed { color: var(--ge-muted); }
 
         /* ── STUDENT STORIES ── */
-        .ge-stories-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
         .ge-stories-swiper { padding-bottom: 40px; }
         .ge-stories-swiper .swiper-pagination-bullet-active { background: var(--ge-primary); }
         .ge-stories-swiper .swiper-button-next,
@@ -244,7 +166,7 @@
         .ge-story-quote { font-size: 13px; color: var(--ge-text); line-height: 1.55; }
 
         /* ── HOW TO APPLY ── */
-        .ge-apply-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 64px; align-items: start; max-width: 960px; margin: 0 auto; }
+        .ge-apply-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 64px; align-items: start; padding: 20px; margin: 0 auto; }
         .ge-steps-list { display: flex; flex-direction: column; gap: 0; }
         .ge-step-item { display: flex; gap: 20px; position: relative; }
         .ge-step-item:not(:last-child) .ge-step-line { position:absolute; left:17px; top:36px; bottom:-24px; width:1px; background:var(--ge-border); }
@@ -286,70 +208,17 @@
         .ge-benefit-title { font-size: 13.5px; font-weight: 700; color: var(--ge-text); margin-bottom: 6px; }
         .ge-benefit-desc { font-size: 12.5px; color: var(--ge-text-sec); line-height: 1.55; }
 
-        /* ── ABOUT ISIP LISTS ── */
-        .ge-about-intro { font-size: 15px; color: var(--ge-text-sec); line-height: 1.75; margin-bottom: 28px; }
-        .ge-about-two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 40px; margin-bottom: 32px; }
-        .ge-about-block-title { font-size: 15px; font-weight: 700; color: var(--ge-text); margin-bottom: 16px; padding-bottom: 10px; border-bottom: 1px solid var(--ge-border); }
-        .ge-about-list { list-style: none; display: flex; flex-direction: column; gap: 10px; }
-        .ge-about-list li { display: flex; gap: 10px; align-items: flex-start; font-size: 13.5px; color: var(--ge-text); line-height: 1.55; }
-        .ge-about-list-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--ge-primary); flex-shrink: 0; margin-top: 6px; }
-
-        /* ── FAQ ── */
-        .ge-faq-list { display: flex; flex-direction: column; gap: 0; max-width: 820px; margin: 0 auto; }
-        .ge-faq-item { border-bottom: 1px solid var(--ge-border); }
-        .ge-faq-q {
-            display: flex; justify-content: space-between; align-items: center;
-            padding: 18px 0; font-size: 14px; font-weight: 600; color: var(--ge-text);
-            cursor: pointer; gap: 16px; background: none; border: none; width: 100%; text-align: left;
-        }
-        .ge-faq-q:hover { color: var(--ge-primary); }
-        .ge-faq-chevron { color: var(--ge-primary); flex-shrink: 0; transition: transform .2s; }
-        .ge-faq-item.open .ge-faq-chevron { transform: rotate(180deg); }
-        .ge-faq-a { font-size: 13.5px; color: var(--ge-text-sec); line-height: 1.65; padding-bottom: 18px; display: none; }
-        .ge-faq-item.open .ge-faq-a { display: block; }
-
-        /* ── ANIMATIONS ── */
-        @keyframes ge-globe-spin {
-            from { transform: rotate(0deg); }
-            to   { transform: rotate(360deg); }
-        }
-        .ge-globe-inner {
-            transform-origin: 240px 240px;
-            animation: ge-globe-spin 30s linear infinite;
-        }
-
-        @keyframes ge-india-pulse {
-            0%   { transform: scale(1);   opacity: 0.7; }
-            100% { transform: scale(2.8); opacity: 0; }
-        }
-        .ge-india-ring {
-            transform-box: fill-box;
-            transform-origin: center;
-            animation: ge-india-pulse 2.2s ease-out infinite;
-        }
-        .ge-india-ring-2 { animation-delay: 1.1s; }
-
         /* ── RESPONSIVE ── */
         @media (max-width: 991px) {
-            .ge-hero { padding: 90px 0 48px; }
-            .ge-hero-h1 { font-size: 36px; }
-            .ge-stats { gap: 24px; }
-            .ge-pillars-grid { grid-template-columns: 1fr; }
-            .ge-about-two-col { grid-template-columns: 1fr; }
             .ge-apply-grid { grid-template-columns: 1fr; gap: 36px; }
             .ge-benefit-grid { grid-template-columns: 1fr 1fr; }
         }
         @media (max-width: 768px) {
-            .ge-sessions-grid { grid-template-columns: 1fr 1fr; }
-            .ge-stories-grid  { grid-template-columns: 1fr 1fr; }
-            .ge-benefit-grid  { grid-template-columns: 1fr; }
+            .ge-benefit-grid { grid-template-columns: 1fr; }
         }
         @media (max-width: 480px) {
-            .ge-sessions-grid { grid-template-columns: 1fr; }
-            .ge-stories-grid  { grid-template-columns: 1fr; }
             .ge-stat-val { font-size: 28px; }
-            .ge-hero-h1 { font-size: 28px; }
-            .ge-hero-globe { right: -100px; }
+            .btn-g-orange { padding: 0.5rem 0.4rem; font-size: 0.5rem; }
         }
     </style>
 
@@ -363,196 +232,145 @@
     <div class="ge-page">
 
         <!-- ── HERO ── -->
-        <section class="ge-hero">
-            <div class="ge-hero-grid"></div>
-            <svg class="ge-hero-globe" viewBox="0 0 480 480" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-                <g class="ge-globe-inner">
-                    <circle cx="240" cy="240" r="200" stroke="#fff" stroke-width="2"/>
-                    <circle cx="240" cy="240" r="150" stroke="#fff" stroke-width="2"/>
-                    <circle cx="240" cy="240" r="100" stroke="#fff" stroke-width="2"/>
-                    <circle cx="240" cy="240" r="50"  stroke="#fff" stroke-width="2"/>
-                    <ellipse cx="240" cy="240" rx="200" ry="70"  stroke="#fff" stroke-width="2"/>
-                    <ellipse cx="240" cy="240" rx="200" ry="140" stroke="#fff" stroke-width="2"/>
-                    <line x1="240" y1="40" x2="240" y2="440" stroke="#fff" stroke-width="2"/>
-                    <line x1="40"  y1="240" x2="440" y2="240" stroke="#fff" stroke-width="2"/>
-                    <line x1="100" y1="90"  x2="380" y2="390" stroke="#fff" stroke-width="2"/>
-                    <line x1="380" y1="90"  x2="100" y2="390" stroke="#fff" stroke-width="2"/>
-                </g>
-            </svg>
+        <section class="hero ph-hero">
+            <nav class="page-breadcrumb" aria-label="Breadcrumb">
+                <span class="pb-line"></span>
+                <a href="./">Home</a>
+                <span class="pb-sep">/</span>
+                <span class="pb-current">Global Exposure</span>
+            </nav>
             <div class="container">
-                <div class="ge-hero-content">
-                    <div class="ge-eyebrow">MITSDE &middot; Office of Global Exposure</div>
-                    <h1 class="ge-hero-h1">Your degree,<br><em>globally connected.</em></h1>
-                    <p class="ge-hero-sub">Internships and immersion programs across 15+ countries — built into your MITSDE journey as a distance learner.</p>
-                    <div class="ge-stats">
-                        <div><div class="ge-stat-val">15+</div><div class="ge-stat-lbl">Countries</div></div>
-                        <div><div class="ge-stat-val">40+</div><div class="ge-stat-lbl">Programs</div></div>
-                        <div><div class="ge-stat-val">200+</div><div class="ge-stat-lbl">Students placed</div></div>
+                <div class="ph-layout mt-5">
+                    <div class="ph-left">
+                        <p>MITSDE &middot; Office of Global Exposure</p>
+                        <h1 class="ph-heading">Your Degree,<br>Globally Connected.</h1>
+                        <p class="text-center text-lg-start" style="max-width: 400px;">Internships and immersion programs across 15+ countries — built into your MITSDE journey as a distance learner.</p>
+                        <div class="ge-cta-grid">
+                            <div class="ge-stat-col">
+                                <div class="ge-stat-val">15+</div>
+                                <div class="ge-stat-lbl">Countries</div>
+                            </div>
+                            <div class="ge-stat-col">
+                                <div class="ge-stat-val">40+</div>
+                                <div class="ge-stat-lbl">Programs</div>
+                            </div>
+                            <div class="ge-stat-col">
+                                <div class="ge-stat-val">200+</div>
+                                <div class="ge-stat-lbl">Students Placed</div>
+                            </div>
+                            <div class="ge-btn-col">
+                                <a href="#isip" class="btn btn-g-orange rounded-pill w-100">Explore ISIP Programs</a>
+                            </div>
+                            <div class="ge-btn-col">
+                                <a href="#apply" class="btn btn-g-orange rounded-pill w-100">How to join</a>
+                            </div>
+                            <div class="ge-btn-col">
+                                <a href="#about-isip" class="btn btn-g-orange rounded-pill w-100">About ISIP</a>
+                            </div>
+                        </div>
                     </div>
-                    <div class="ge-ctas">
-                        <a href="#isip" class="ge-btn-primary">Explore ISIP programs</a>
-                        <a href="#apply" class="ge-btn-outline">How to join</a>
-                        <a href="#about-isip" class="ge-btn-outline">About ISIP</a>
+                    <div class="ph-right">
+                        <img src="assets-new/images/banner/global-exposure.webp" class="w-auto" alt="MITSDE Global Exposure — International Programs" />
                     </div>
                 </div>
             </div>
         </section>
-        <div class="ge-gold-rule"></div>
 
         <!-- ── ABOUT ISIP ── -->
-        <section class="ge-section ge-section-gray" id="about-isip">
+        <section class="about-section" id="about-isip">
             <div class="container">
-                <div class="ge-section-header">
-                    <div class="ge-section-eyebrow">Know the program</div>
-                    <h2 class="ge-section-h2">About ISIP</h2>
-                    <p class="ge-section-sub">International Summer Internship &amp; Immersion Program</p>
-                    <div class="ge-dot-row"><div class="ge-dot"></div><div class="ge-dot"></div><div class="ge-dot"></div><div class="ge-dot"></div><div class="ge-dot"></div></div>
+                <div class="mb-4">
+                    <p class="ge-section-eyebrow">Know the Program</p>
+                    <h2 class="section-heading"><span class="text-orange">About </span>ISIP</h2>
+                    <p><b>International Summer Internship &amp; Immersion Program</b></p>
+                    <p>The International Summer Internship Program (ISIP) is MITSDE's flagship initiative designed to give distance learners real-world global exposure. MITSDE has established strategic collaborations with renowned international institutions, enabling students to participate in internships, immersion programs, seminars, and workshops at universities in Japan, Denmark, UK, Europe, South-East Asia, and beyond.</p>
+                    <p>More than just a study tour, ISIP nurtures cross-cultural competence, strategic thinking, and a global mindset — qualities essential for professionals in today's interconnected world. Through corporate visits, academic sessions, live projects, and guided cultural experiences, participants gain practical insights into multinational business operations and international trade ecosystems.</p>
                 </div>
-                <p class="ge-about-intro">The International Summer Internship Program (ISIP) is MITSDE's flagship initiative designed to give distance learners real-world global exposure. MITSDE has established strategic collaborations with renowned international institutions, enabling students to participate in internships, immersion programs, seminars, and workshops at universities in Japan, Denmark, UK, Europe, South-East Asia, and beyond.</p>
-                <p class="ge-about-intro">More than just a study tour, ISIP nurtures cross-cultural competence, strategic thinking, and a global mindset — qualities essential for professionals in today's interconnected world. Through corporate visits, academic sessions, live projects, and guided cultural experiences, participants gain practical insights into multinational business operations and international trade ecosystems.</p>
-                <div class="ge-about-two-col">
-                    <div>
-                        <div class="ge-about-block-title">Areas of collaboration (IRO)</div>
-                        <ul class="ge-about-list">
-                            <li><span class="ge-about-list-dot"></span>Summer internship programs for MITSDE learners (ISIP)</li>
-                            <li><span class="ge-about-list-dot"></span>Faculty exchange for teaching and research</li>
-                            <li><span class="ge-about-list-dot"></span>Semester abroad for PG level (ISLIP)</li>
-                            <li><span class="ge-about-list-dot"></span>Hosting summer / winter school for foreign university students</li>
-                            <li><span class="ge-about-list-dot"></span>Student exchange at postgraduate / graduate level</li>
-                            <li><span class="ge-about-list-dot"></span>Cooperative research and development activities</li>
-                            <li><span class="ge-about-list-dot"></span>Joint research and funding proposals (EU Commission, Fulbright, GREAT)</li>
-                            <li><span class="ge-about-list-dot"></span>Online project supervision leading to research papers or patents</li>
-                        </ul>
-                    </div>
-                    <div>
-                        <div class="ge-about-block-title">Proposed internship tracks</div>
-                        <ul class="ge-about-list">
-                            <li><span class="ge-about-list-dot"></span><strong>AI &amp; Business Intelligence</strong> — with tech startups in India and USA</li>
-                            <li><span class="ge-about-list-dot"></span><strong>Sustainable Business Practices</strong> — corporate ESG programs</li>
-                            <li><span class="ge-about-list-dot"></span><strong>International Trade &amp; Finance</strong> — joint initiative with global financial institutions</li>
-                            <li><span class="ge-about-list-dot"></span><strong>Leadership &amp; Organisational Behaviour</strong> — university collaboration</li>
-                        </ul>
+                <div class="pgcs-bg-wrap mt-4">
+                    <div class="ge-about-grid">
+                        <div class="pgcs-card">
+                            <div class="pgcs-top">
+                                <div class="pgcs-left">
+                                    <span class="pgcs-tag"><span class="pgcs-tag-inner">Areas of Collaboration (IRO)</span></span>
+                                    <ul class="pgcs-course-list">
+                                        <li>Summer internship programs for MITSDE learners (ISIP)</li>
+                                        <li>Faculty exchange for teaching and research</li>
+                                        <li>Semester abroad for PG level (ISLIP)</li>
+                                        <li>Hosting summer / winter school for foreign university students</li>
+                                        <li>Student exchange at postgraduate / graduate level</li>
+                                        <li>Cooperative research and development activities</li>
+                                        <li>Joint research and funding proposals (EU Commission, Fulbright, GREAT)</li>
+                                        <li>Online project supervision leading to research papers or patents</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="pgcs-card">
+                            <div class="pgcs-top">
+                                <div class="pgcs-left">
+                                    <span class="pgcs-tag"><span class="pgcs-tag-inner">Proposed Internship Tracks</span></span>
+                                    <ul class="pgcs-course-list">
+                                        <li><strong>AI &amp; Business Intelligence</strong> — with tech startups in India and USA</li>
+                                        <li><strong>Sustainable Business Practices</strong> — corporate ESG programs</li>
+                                        <li><strong>International Trade &amp; Finance</strong> — joint initiative with global financial institutions</li>
+                                        <li><strong>Leadership &amp; Organisational Behaviour</strong> — university collaboration</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
         </section>
-        <div class="ge-gold-rule"></div>
 
         <!-- ── TWO PILLARS ── -->
-        <section class="ge-section ge-section-light">
+        <section class="eligibility-section">
             <div class="container">
-                <div class="ge-section-header">
-                    <div class="ge-section-eyebrow">What we offer</div>
-                    <h2 class="ge-section-h2">Two pillars of global engagement</h2>
-                    <p class="ge-section-sub">Structured international experiences that complement your distance learning program</p>
-                    <div class="ge-dot-row"><div class="ge-dot"></div><div class="ge-dot"></div><div class="ge-dot"></div><div class="ge-dot"></div><div class="ge-dot"></div></div>
-                </div>
-                <div class="ge-pillars-grid">
-                    <div class="ge-pillar-card">
-                        <div class="ge-pillar-num">01</div>
-                        <div class="ge-pillar-title">International Internships (ISIP)</div>
-                        <div class="ge-pillar-desc">Japan &middot; Denmark &middot; UK &middot; Indonesia &middot; Vietnam &middot; Singapore &middot; Germany &middot; France and more. Fully funded and self-funded tracks available, curated for management learners.</div>
+                <p class="ge-section-eyebrow">What We Offer</p>
+                <h2 class="section-heading">Two Pillars of <span class="text-orange">Global Engagement</span></h2>
+                <p class="mb-4"><b>Structured international experiences that complement your distance learning program</b></p>
+                <div class="eligibility-grid">
+                    <div class="eligibility-card">
+                        <span class="eligibility-tag">International Internships (ISIP)</span>
+                        <p class="mt-3">Japan &middot; Denmark &middot; UK &middot; Indonesia &middot; Vietnam &middot; Singapore &middot; Germany &middot; France and more. Fully funded and self-funded tracks available, curated for management learners.</p>
                     </div>
-                    <div class="ge-pillar-card">
-                        <div class="ge-pillar-num">02</div>
-                        <div class="ge-pillar-title">International Faculty Sessions</div>
-                        <div class="ge-pillar-desc">Live sessions by faculty from globally ranked universities delivered directly to MITSDE learners. Watch past recordings or register for upcoming sessions.</div>
+                    <div class="eligibility-card">
+                        <span class="eligibility-tag" style="background: #FFF5DE;">International Faculty Sessions</span>
+                        <p class="mt-3">Live sessions by faculty from globally ranked universities delivered directly to MITSDE learners. Watch past recordings or register for upcoming sessions.</p>
                     </div>
                 </div>
             </div>
         </section>
-        <div class="ge-gold-rule"></div>
 
         <!-- ── WORLD REACH MAP ── -->
-        <section class="ge-map-section ge-section-gray">
-            <div class="container">
-                <div class="ge-section-header">
-                    <div class="ge-section-eyebrow">Where MITSDE learners go</div>
-                    <h2 class="ge-section-h2">ISIP countries</h2>
-                    <p class="ge-section-sub">Countries where MITSDE students have completed international programs</p>
-                    <div class="ge-dot-row"><div class="ge-dot"></div><div class="ge-dot"></div><div class="ge-dot"></div><div class="ge-dot"></div><div class="ge-dot"></div></div>
-                </div>
-            </div>
-            <svg class="ge-world-svg" viewBox="0 0 1100 520" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="World map showing ISIP countries">
-                <rect width="1100" height="520" rx="10" fill="#fff3e8"/>
-                <!-- Continent blobs -->
-                <ellipse cx="540" cy="195" rx="120" ry="40" fill="#f4c0a0"/>
-                <ellipse cx="620" cy="190" rx="80" ry="30" fill="#f4c0a0"/>
-                <ellipse cx="700" cy="200" rx="60" ry="25" fill="#f4c0a0"/>
-                <ellipse cx="520" cy="280" rx="55" ry="80" fill="#f4c0a0"/>
-                <ellipse cx="820" cy="200" rx="140" ry="50" fill="#f4c0a0"/>
-                <ellipse cx="860" cy="245" rx="80" ry="40" fill="#f4c0a0"/>
-                <ellipse cx="180" cy="210" rx="60" ry="80" fill="#f4c0a0"/>
-                <ellipse cx="200" cy="310" rx="40" ry="60" fill="#f4c0a0"/>
-                <ellipse cx="920" cy="340" rx="50" ry="35" fill="#f4c0a0"/>
-                <ellipse cx="300" cy="130" rx="30" ry="22" fill="#f4c0a0"/>
-                <!-- INDIA (orange + animated pulse rings) -->
-                <circle class="ge-india-ring"   cx="780" cy="252" r="14" fill="none" stroke="#ea580c" stroke-width="2" stroke-opacity="0.6"/>
-                <circle class="ge-india-ring ge-india-ring-2" cx="780" cy="252" r="14" fill="none" stroke="#ea580c" stroke-width="1.5" stroke-opacity="0.4"/>
-                <circle cx="780" cy="252" r="9" fill="#ea580c"/>
-                <text x="794" y="246" fill="#7c1500" font-size="11" font-family="monospace" font-weight="700">India</text>
-                <!-- Japan -->
-                <circle cx="940" cy="198" r="6" fill="#9a3412"/>
-                <circle cx="940" cy="198" r="12" stroke="#9a3412" stroke-width="1" stroke-opacity="0.25" fill="none"/>
-                <text x="950" y="194" fill="#9a3412" font-size="10" font-family="monospace" font-weight="600">Japan</text>
-                <!-- Denmark -->
-                <circle cx="516" cy="164" r="6" fill="#9a3412"/>
-                <text x="526" y="160" fill="#9a3412" font-size="10" font-family="monospace" font-weight="600">Denmark</text>
-                <!-- UK -->
-                <circle cx="482" cy="172" r="6" fill="#9a3412"/>
-                <text x="448" y="168" fill="#9a3412" font-size="10" font-family="monospace" font-weight="600">UK</text>
-                <!-- Germany -->
-                <circle cx="530" cy="178" r="6" fill="#9a3412"/>
-                <text x="540" y="186" fill="#9a3412" font-size="10" font-family="monospace" font-weight="600">Germany</text>
-                <!-- France -->
-                <circle cx="506" cy="188" r="6" fill="#9a3412"/>
-                <text x="465" y="196" fill="#9a3412" font-size="10" font-family="monospace" font-weight="600">France</text>
-                <!-- Switzerland -->
-                <circle cx="520" cy="194" r="6" fill="#9a3412"/>
-                <text x="528" y="202" fill="#9a3412" font-size="10" font-family="monospace" font-weight="600">Switzerland</text>
-                <!-- Indonesia -->
-                <circle cx="895" cy="285" r="6" fill="#9a3412"/>
-                <text x="904" y="281" fill="#9a3412" font-size="10" font-family="monospace" font-weight="600">Indonesia</text>
-                <!-- Vietnam -->
-                <circle cx="868" cy="262" r="6" fill="#9a3412"/>
-                <text x="876" y="258" fill="#9a3412" font-size="10" font-family="monospace" font-weight="600">Vietnam</text>
-                <!-- Singapore -->
-                <circle cx="876" cy="288" r="6" fill="#9a3412"/>
-                <text x="828" y="298" fill="#9a3412" font-size="10" font-family="monospace" font-weight="600">Singapore</text>
-                <!-- Thailand -->
-                <circle cx="852" cy="268" r="6" fill="#9a3412"/>
-                <text x="812" y="276" fill="#9a3412" font-size="10" font-family="monospace" font-weight="600">Thailand</text>
-            </svg>
+        <section class="ge-map-section pt-0">
+            <img src="assets-new/images/world-map.webp" class="ge-world-map-img" alt="ISIP countries — world map showing MITSDE global reach" />
             <div class="container">
                 <div class="ge-map-legend">
                     <div class="ge-legend-item"><div class="ge-legend-dot ge-legend-dot-india"></div> India (MITSDE)</div>
                     <div class="ge-legend-item"><div class="ge-legend-dot ge-legend-dot-isip"></div> ISIP countries</div>
                 </div>
-                <div class="ge-country-pills">
-                    <div class="ge-c-pill">🇯🇵 Japan</div>
-                    <div class="ge-c-pill">🇩🇰 Denmark</div>
-                    <div class="ge-c-pill">🇬🇧 UK</div>
-                    <div class="ge-c-pill">🇩🇪 Germany</div>
-                    <div class="ge-c-pill">🇫🇷 France</div>
-                    <div class="ge-c-pill">🇨🇭 Switzerland</div>
-                    <div class="ge-c-pill">🇮🇩 Indonesia</div>
-                    <div class="ge-c-pill">🇻🇳 Vietnam</div>
-                    <div class="ge-c-pill">🇸🇬 Singapore</div>
-                    <div class="ge-c-pill">🇹🇭 Thailand</div>
+                <div class="ge-flag-row">
+                    <img src="assets-new/images/flags/1.webp" alt="UK" />
+                    <img src="assets-new/images/flags/2.webp" alt="France" />
+                    <img src="assets-new/images/flags/3.webp" alt="Denmark" />
+                    <img src="assets-new/images/flags/4.webp" alt="Germany" />
+                    <img src="assets-new/images/flags/5.webp" alt="Switzerland" />
+                    <img src="assets-new/images/flags/6.webp" alt="Thailand" />
+                    <img src="assets-new/images/flags/7.webp" alt="Singapore" />
+                    <img src="assets-new/images/flags/8.webp" alt="Vietnam" />
+                    <img src="assets-new/images/flags/9.webp" alt="Japan" />
+                    <img src="assets-new/images/flags/10.webp" alt="Indonesia" />
                 </div>
             </div>
         </section>
-        <div class="ge-gold-rule"></div>
 
         <!-- ── ISIP EXPLORER ── -->
-        <section class="ge-section ge-section-white" id="isip">
+        <section class="ge-section" id="isip">
             <div class="container">
-                <div class="ge-section-header">
-                    <div class="ge-section-eyebrow">International Summer Internship Programs</div>
-                    <h2 class="ge-section-h2">ISIP program explorer</h2>
-                    <p class="ge-section-sub">Filter by year, funding type, or destination</p>
-                    <div class="ge-dot-row"><div class="ge-dot"></div><div class="ge-dot"></div><div class="ge-dot"></div><div class="ge-dot"></div><div class="ge-dot"></div></div>
-                </div>
+                <p class="ge-section-eyebrow">International Summer Internship Programs</p>
+                <h2 class="section-heading">ISIP <span class="text-orange">program explorer</span></h2>
+                <p class="mb-4"><b>Filter by year, funding type, or destination</b></p>
 
                 <div class="ge-tab-row">
                     <button class="ge-tab-btn active" onclick="geTab(this,'2026')">ISIP 2026</button>
@@ -585,100 +403,94 @@
                 <p class="ge-table-note">Contact <strong>isip@mitsde.com</strong> for eligibility criteria, itinerary and direct application links.</p>
             </div>
         </section>
-        <div class="ge-gold-rule"></div>
 
         <!-- ── FACULTY SESSIONS ── -->
-        <section class="ge-section ge-section-light">
+        <section class="fee-structure-section pt-0">
             <div class="container">
-                <div class="ge-section-header">
-                    <div class="ge-section-eyebrow">Expert-led global learning</div>
-                    <h2 class="ge-section-h2">International faculty sessions</h2>
-                    <p class="ge-section-sub">Live sessions by faculty from globally ranked universities — for every MITSDE learner</p>
-                    <div class="ge-dot-row"><div class="ge-dot"></div><div class="ge-dot"></div><div class="ge-dot"></div><div class="ge-dot"></div><div class="ge-dot"></div></div>
-                </div>
-                <div class="ge-sessions-grid">
-                    <div class="ge-session-card">
-                        <div class="ge-session-status-bar upcoming"></div>
-                        <div class="ge-session-body">
-                            <div class="ge-session-pills">
-                                <span class="ge-session-pill upcoming">Upcoming</span>
-                                <span class="ge-session-date">Jul 2026</span>
+                <div class="fs-card">
+
+                    <div class="fs-left">
+                        <p>Expert-led global learning</p>
+                        <h3 class="fs-main-amount">International<br>Faculty Sessions</h3>
+                        <p>Live sessions by faculty from globally ranked universities — for every MITSDE learner</p>
+                    </div>
+
+                    <div class="fs-right">
+                        <div class="fs-grid">
+
+                            <div class="fs-info-card">
+                                <div class="ge-session-pills">
+                                    <span class="ge-session-pill upcoming">Upcoming</span>
+                                    <span class="ge-session-date">Jul 2026</span>
+                                </div>
+                                <p class="fs-card-label">Global Supply Chain Disruptions</p>
+                                <p class="fs-sub">NUS Business School, Singapore</p>
+                                <div class="ge-session-tags">
+                                    <span class="ge-session-tag">Operations</span>
+                                    <span class="ge-session-tag">Logistics</span>
+                                    <span class="ge-session-tag">SCM</span>
+                                </div>
+                                <a href="#" class="btn-fs-orange mt-3 d-inline-block">Register &rarr;</a>
                             </div>
-                            <div class="ge-session-title">Global Supply Chain Disruptions</div>
-                            <div class="ge-session-institution">NUS Business School, Singapore</div>
-                            <div class="ge-session-tags">
-                                <span class="ge-session-tag">Operations</span>
-                                <span class="ge-session-tag">Logistics</span>
-                                <span class="ge-session-tag">SCM</span>
+
+                            <div class="fs-info-card">
+                                <div class="ge-session-pills">
+                                    <span class="ge-session-pill upcoming">Upcoming</span>
+                                    <span class="ge-session-date">Aug 2026</span>
+                                </div>
+                                <p class="fs-card-label">Digital Transformation in Finance</p>
+                                <p class="fs-sub">Bocconi University, Italy</p>
+                                <div class="ge-session-tags">
+                                    <span class="ge-session-tag">Finance</span>
+                                    <span class="ge-session-tag">FinTech</span>
+                                    <span class="ge-session-tag">Strategy</span>
+                                </div>
+                                <a href="#" class="btn-fs-orange mt-3 d-inline-block">Register &rarr;</a>
                             </div>
-                            <a href="#" class="ge-session-cta upcoming">Register &rarr;</a>
+
+                            <div class="fs-info-card">
+                                <div class="ge-session-pills">
+                                    <span class="ge-session-pill upcoming">Upcoming</span>
+                                    <span class="ge-session-date">Sep 2026</span>
+                                </div>
+                                <p class="fs-card-label">AI in Financial Services</p>
+                                <p class="fs-sub">Teesside University, UK</p>
+                                <div class="ge-session-tags">
+                                    <span class="ge-session-tag">Finance</span>
+                                    <span class="ge-session-tag">AI</span>
+                                    <span class="ge-session-tag">Risk</span>
+                                </div>
+                                <a href="#" class="btn-fs-orange mt-3 d-inline-block">Register &rarr;</a>
+                            </div>
+
+                            <div class="fs-info-card">
+                                <div class="ge-session-pills">
+                                    <span class="ge-session-pill upcoming">Upcoming</span>
+                                    <span class="ge-session-date">Oct 2026</span>
+                                </div>
+                                <p class="fs-card-label">Sustainability &amp; ESG Leadership</p>
+                                <p class="fs-sub">Aarhus University, Denmark</p>
+                                <div class="ge-session-tags">
+                                    <span class="ge-session-tag">HR</span>
+                                    <span class="ge-session-tag">Operations</span>
+                                    <span class="ge-session-tag">ESG</span>
+                                </div>
+                                <a href="#" class="btn-fs-orange mt-3 d-inline-block">Register &rarr;</a>
+                            </div>
+
                         </div>
                     </div>
-                    <div class="ge-session-card">
-                        <div class="ge-session-status-bar upcoming"></div>
-                        <div class="ge-session-body">
-                            <div class="ge-session-pills">
-                                <span class="ge-session-pill upcoming">Upcoming</span>
-                                <span class="ge-session-date">Aug 2026</span>
-                            </div>
-                            <div class="ge-session-title">Digital Transformation in Finance</div>
-                            <div class="ge-session-institution">Bocconi University, Italy</div>
-                            <div class="ge-session-tags">
-                                <span class="ge-session-tag">Finance</span>
-                                <span class="ge-session-tag">FinTech</span>
-                                <span class="ge-session-tag">Strategy</span>
-                            </div>
-                            <a href="#" class="ge-session-cta upcoming">Register &rarr;</a>
-                        </div>
-                    </div>
-                    <div class="ge-session-card">
-                        <div class="ge-session-status-bar upcoming"></div>
-                        <div class="ge-session-body">
-                            <div class="ge-session-pills">
-                                <span class="ge-session-pill upcoming">Upcoming</span>
-                                <span class="ge-session-date">Sep 2026</span>
-                            </div>
-                            <div class="ge-session-title">AI in Financial Services</div>
-                            <div class="ge-session-institution">Teesside University, UK</div>
-                            <div class="ge-session-tags">
-                                <span class="ge-session-tag">Finance</span>
-                                <span class="ge-session-tag">AI</span>
-                                <span class="ge-session-tag">Risk</span>
-                            </div>
-                            <a href="#" class="ge-session-cta upcoming">Register &rarr;</a>
-                        </div>
-                    </div>
-                    <div class="ge-session-card">
-                        <div class="ge-session-status-bar upcoming"></div>
-                        <div class="ge-session-body">
-                            <div class="ge-session-pills">
-                                <span class="ge-session-pill upcoming">Upcoming</span>
-                                <span class="ge-session-date">Oct 2026</span>
-                            </div>
-                            <div class="ge-session-title">Sustainability &amp; ESG Leadership</div>
-                            <div class="ge-session-institution">Aarhus University, Denmark</div>
-                            <div class="ge-session-tags">
-                                <span class="ge-session-tag">HR</span>
-                                <span class="ge-session-tag">Operations</span>
-                                <span class="ge-session-tag">ESG</span>
-                            </div>
-                            <a href="#" class="ge-session-cta upcoming">Register &rarr;</a>
-                        </div>
-                    </div>
+
                 </div>
             </div>
         </section>
-        <div class="ge-gold-rule"></div>
 
         <!-- ── STUDENT STORIES ── -->
-        <section class="ge-section ge-section-white">
+        <section class="ge-section">
             <div class="container">
-                <div class="ge-section-header">
-                    <div class="ge-section-eyebrow">ISIP alumni</div>
-                    <h2 class="ge-section-h2">Voices from the field</h2>
-                    <p class="ge-section-sub">MITSDE students who stepped into a global classroom</p>
-                    <div class="ge-dot-row"><div class="ge-dot"></div><div class="ge-dot"></div><div class="ge-dot"></div><div class="ge-dot"></div><div class="ge-dot"></div></div>
-                </div>
+                <p class="ge-section-eyebrow">ISIP alumni</p>
+                <h2 class="section-heading">Voices <span class="text-orange">from the field</span></h2>
+                <p class="mb-4"><b>MITSDE students who stepped into a global classroom</b></p>
                 <div class="ge-stories-swiper swiper">
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
@@ -796,18 +608,14 @@
                 </div>
             </div>
         </section>
-        <div class="ge-gold-rule"></div>
 
         <!-- ── HOW TO JOIN ── -->
-        <section class="ge-section ge-section-light" id="apply">
+        <section class="ge-section" id="apply">
             <div class="container">
-                <div class="ge-section-header">
-                    <div class="ge-section-eyebrow">Your path to global exposure</div>
-                    <h2 class="ge-section-h2">How to join an ISIP program</h2>
-                    <p class="ge-section-sub">Four steps from admission to international experience</p>
-                    <div class="ge-dot-row"><div class="ge-dot"></div><div class="ge-dot"></div><div class="ge-dot"></div><div class="ge-dot"></div><div class="ge-dot"></div></div>
-                </div>
-                <div class="ge-apply-grid">
+                <p class="ge-section-eyebrow">Your path to global exposure</p>
+                <h2 class="section-heading">How to join an <span class="text-orange">ISIP program</span></h2>
+                <p class="mb-4"><b>Four steps from admission to international experience</b></p>
+                <div class="ge-apply-grid  ge-section-light">
                     <div class="ge-steps-list">
                         <div class="ge-step-item">
                             <div class="ge-step-line"></div>
@@ -862,18 +670,14 @@
                 </div>
             </div>
         </section>
-        <div class="ge-gold-rule"></div>
 
         <!-- ── PROGRAM OBJECTIVES ── -->
-        <section class="ge-section ge-section-gray" id="objectives">
+        <section class="ge-section" id="objectives">
             <div class="container">
-                <div class="ge-section-header">
-                    <div class="ge-section-eyebrow">What ISIP sets out to do</div>
-                    <h2 class="ge-section-h2">Program objectives</h2>
-                    <p class="ge-section-sub">Six core outcomes every ISIP participant is designed to achieve</p>
-                    <div class="ge-dot-row"><div class="ge-dot"></div><div class="ge-dot"></div><div class="ge-dot"></div><div class="ge-dot"></div><div class="ge-dot"></div></div>
-                </div>
-                <div class="ge-benefit-grid" style="max-width:1060px;margin:0 auto;">
+                <p class="ge-section-eyebrow">What ISIP sets out to do</p>
+                <h2 class="section-heading">Program <span class="text-orange">objectives</span></h2>
+                <p class="mb-4"><b>Six core outcomes every ISIP participant is designed to achieve</b></p>
+                <div class="ge-benefit-grid">
                     <div class="ge-benefit-card">
                         <div class="ge-benefit-icon">🌐</div>
                         <div class="ge-benefit-title">International market exposure</div>
@@ -907,17 +711,13 @@
                 </div>
             </div>
         </section>
-        <div class="ge-gold-rule"></div>
 
         <!-- ── BENEFITS & HIGHLIGHTS ── -->
-        <section class="ge-section ge-section-white" id="benefits">
+        <section class="ge-section" id="benefits">
             <div class="container">
-                <div class="ge-section-header">
-                    <div class="ge-section-eyebrow">Why participate</div>
-                    <h2 class="ge-section-h2">Benefits &amp; highlights</h2>
-                    <p class="ge-section-sub">What every ISIP student gains — beyond the certificate</p>
-                    <div class="ge-dot-row"><div class="ge-dot"></div><div class="ge-dot"></div><div class="ge-dot"></div><div class="ge-dot"></div><div class="ge-dot"></div></div>
-                </div>
+                <p class="ge-section-eyebrow">Why participate</p>
+                <h2 class="section-heading">Benefits &amp;  <span class="text-orange">highlights</span></h2>
+                <p class="mb-4"><b>What every ISIP student gains — beyond the certificate</b></p>
                 <div class="ge-benefit-grid">
                     <div class="ge-benefit-card">
                         <div class="ge-benefit-icon">🏢</div>
@@ -967,54 +767,85 @@
                 </div>
             </div>
         </section>
-        <div class="ge-gold-rule"></div>
 
         <!-- ── FAQ ── -->
-        <section class="ge-section ge-section-light" id="faqs">
+        <section class="faq-section" id="faqs">
             <div class="container">
-                <div class="ge-section-header">
-                    <div class="ge-section-eyebrow">Common questions</div>
-                    <h2 class="ge-section-h2">Frequently asked questions</h2>
-                    <p class="ge-section-sub">Everything you need to know before applying</p>
-                    <div class="ge-dot-row"><div class="ge-dot"></div><div class="ge-dot"></div><div class="ge-dot"></div><div class="ge-dot"></div><div class="ge-dot"></div></div>
-                </div>
-                <div class="ge-faq-list" id="geFaq">
+                <p class="ge-section-eyebrow">Common questions</p>
+                <h2 class="section-heading">Frequently Asked <span class="text-orange">Questions</span></h2>
+                <p class="mb-4"><b>Everything you need to know before applying</b></p>
+                <div class="faq-list">
 
-                    <div class="ge-faq-item">
-                        <button class="ge-faq-q">Is a valid passport mandatory?<span class="ge-faq-chevron"><i class="fa-solid fa-chevron-down"></i></span></button>
-                        <div class="ge-faq-a">Yes. A valid passport with at least six months of validity from the date of travel is compulsory for participation in any ISIP program.</div>
+                    <div class="faq-item is-open">
+                        <button class="faq-q" aria-expanded="true">
+                            <span>Is a valid passport mandatory?</span>
+                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                        </button>
+                        <div class="faq-a"><p>Yes. A valid passport with at least six months of validity from the date of travel is compulsory for participation in any ISIP program.</p></div>
                     </div>
-                    <div class="ge-faq-item">
-                        <button class="ge-faq-q">What support is provided for visa processing?<span class="ge-faq-chevron"><i class="fa-solid fa-chevron-down"></i></span></button>
-                        <div class="ge-faq-a">MITSDE, in collaboration with authorised partners, assists with visa documentation, submission, and coordination to ensure smooth processing. Detailed guidance is provided during the pre-departure orientation session.</div>
+
+                    <div class="faq-item">
+                        <button class="faq-q" aria-expanded="false">
+                            <span>What support is provided for visa processing?</span>
+                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                        </button>
+                        <div class="faq-a"><p>MITSDE, in collaboration with authorised partners, assists with visa documentation, submission, and coordination to ensure smooth processing. Detailed guidance is provided during the pre-departure orientation session.</p></div>
                     </div>
-                    <div class="ge-faq-item">
-                        <button class="ge-faq-q">What does the program fee include?<span class="ge-faq-chevron"><i class="fa-solid fa-chevron-down"></i></span></button>
-                        <div class="ge-faq-a">The fee generally covers airfare, visa processing, accommodation, meals, insurance, local transportation, academic or corporate visits, and entry tickets where applicable. Full inclusions are shared during orientation. For fully funded programs, there is no cost to the student.</div>
+
+                    <div class="faq-item">
+                        <button class="faq-q" aria-expanded="false">
+                            <span>What does the program fee include?</span>
+                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                        </button>
+                        <div class="faq-a"><p>The fee generally covers airfare, visa processing, accommodation, meals, insurance, local transportation, academic or corporate visits, and entry tickets where applicable. Full inclusions are shared during orientation. For fully funded programs, there is no cost to the student.</p></div>
                     </div>
-                    <div class="ge-faq-item">
-                        <button class="ge-faq-q">Are there any costs not included in the program fee?<span class="ge-faq-chevron"><i class="fa-solid fa-chevron-down"></i></span></button>
-                        <div class="ge-faq-a">Yes. Personal expenses such as shopping, optional tours, additional meals outside the itinerary, and incidental expenses are not covered by the program fee.</div>
+
+                    <div class="faq-item">
+                        <button class="faq-q" aria-expanded="false">
+                            <span>Are there any costs not included in the program fee?</span>
+                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                        </button>
+                        <div class="faq-a"><p>Yes. Personal expenses such as shopping, optional tours, additional meals outside the itinerary, and incidental expenses are not covered by the program fee.</p></div>
                     </div>
-                    <div class="ge-faq-item">
-                        <button class="ge-faq-q">Will there be a pre-departure orientation?<span class="ge-faq-chevron"><i class="fa-solid fa-chevron-down"></i></span></button>
-                        <div class="ge-faq-a">Yes. A mandatory orientation session is conducted for all selected students covering the itinerary, travel protocols, safety guidelines, cultural etiquette, and program expectations.</div>
+
+                    <div class="faq-item">
+                        <button class="faq-q" aria-expanded="false">
+                            <span>Will there be a pre-departure orientation?</span>
+                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                        </button>
+                        <div class="faq-a"><p>Yes. A mandatory orientation session is conducted for all selected students covering the itinerary, travel protocols, safety guidelines, cultural etiquette, and program expectations.</p></div>
                     </div>
-                    <div class="ge-faq-item">
-                        <button class="ge-faq-q">Will participants receive a certificate?<span class="ge-faq-chevron"><i class="fa-solid fa-chevron-down"></i></span></button>
-                        <div class="ge-faq-a">Yes. Students receive an official MITSDE certificate upon successful completion of the international program, which can be added to their professional and academic portfolio.</div>
+
+                    <div class="faq-item">
+                        <button class="faq-q" aria-expanded="false">
+                            <span>Will participants receive a certificate?</span>
+                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                        </button>
+                        <div class="faq-a"><p>Yes. Students receive an official MITSDE certificate upon successful completion of the international program, which can be added to their professional and academic portfolio.</p></div>
                     </div>
-                    <div class="ge-faq-item">
-                        <button class="ge-faq-q">How are participants selected if seats are limited?<span class="ge-faq-chevron"><i class="fa-solid fa-chevron-down"></i></span></button>
-                        <div class="ge-faq-a">Selection is based on eligibility criteria, timely registration, and document verification. Seats are allotted on a first-come, first-served basis. Some programs may additionally consider academic performance and field alignment.</div>
+
+                    <div class="faq-item">
+                        <button class="faq-q" aria-expanded="false">
+                            <span>How are participants selected if seats are limited?</span>
+                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                        </button>
+                        <div class="faq-a"><p>Selection is based on eligibility criteria, timely registration, and document verification. Seats are allotted on a first-come, first-served basis. Some programs may additionally consider academic performance and field alignment.</p></div>
                     </div>
-                    <div class="ge-faq-item">
-                        <button class="ge-faq-q">Can students extend their stay after the program ends?<span class="ge-faq-chevron"><i class="fa-solid fa-chevron-down"></i></span></button>
-                        <div class="ge-faq-a">No. Participants are required to adhere to the official itinerary and return with the group unless prior written approval is obtained under exceptional circumstances.</div>
+
+                    <div class="faq-item">
+                        <button class="faq-q" aria-expanded="false">
+                            <span>Can students extend their stay after the program ends?</span>
+                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                        </button>
+                        <div class="faq-a"><p>No. Participants are required to adhere to the official itinerary and return with the group unless prior written approval is obtained under exceptional circumstances.</p></div>
                     </div>
-                    <div class="ge-faq-item">
-                        <button class="ge-faq-q">Whom should I contact for further queries?<span class="ge-faq-chevron"><i class="fa-solid fa-chevron-down"></i></span></button>
-                        <div class="ge-faq-a">For queries related to ISIP programs, contact the MITSDE IRO at <strong>isip@mitsde.com</strong> or the Student Support Team at <strong>support@mitsde.com</strong>.</div>
+
+                    <div class="faq-item">
+                        <button class="faq-q" aria-expanded="false">
+                            <span>Whom should I contact for further queries?</span>
+                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                        </button>
+                        <div class="faq-a"><p>For queries related to ISIP programs, contact the MITSDE IRO at <strong>isip@mitsde.com</strong> or the Student Support Team at <strong>support@mitsde.com</strong>.</p></div>
                     </div>
 
                 </div>
@@ -1181,17 +1012,6 @@
 
         geRender();
 
-        // FAQ accordion
-        document.querySelectorAll('#geFaq .ge-faq-q').forEach(function (btn) {
-            btn.addEventListener('click', function () {
-                var item = this.closest('.ge-faq-item');
-                var isOpen = item.classList.contains('open');
-                document.querySelectorAll('#geFaq .ge-faq-item.open').forEach(function (el) {
-                    el.classList.remove('open');
-                });
-                if (!isOpen) { item.classList.add('open'); }
-            });
-        });
     </script>
 
 </body>
