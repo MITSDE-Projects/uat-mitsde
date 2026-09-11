@@ -117,7 +117,7 @@
                         <li>
                             <div class="program-feature">
                                 <p>Duration</p>
-                                <span>3 months</span>
+                                <span>5 months<small>(2 Months Session & Exam + 3 Months Project work)</small></span>
                             </div>
                         </li>
                         <li>
