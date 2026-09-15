@@ -23,7 +23,7 @@
     <meta property="og:url" content="https://mitsde.com/mitsde-crie">
     <meta property="og:description" content="MITSDE CRIE — the Centre for Research, Innovation and Entrepreneurship — positions MITSDE as a hub for applied, interdisciplinary, impact-oriented research and innovation.">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/assets-new/images/mitsde-crie.webp">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/logos/crie-logo.webp">
     <!-- / OG TAG -->
 
     <link rel="icon" type="image/png" href="assets-new/images/favicon-mit.ico" />
@@ -62,6 +62,26 @@
             <span class="pb-current">MITSDE CRIE</span>
         </nav>
         <div class="container">
+        <div class="ph-layout">
+            <div class="ph-left">
+                <img src="assets-new/images/logos/crie-logo.webp" class="mt-3 img-fluid" alt="MITSDE CRIE — Centre for Research, Innovation and Entrepreneurship" />
+                <!-- <h1 class="ph-heading mb-1">MITSDE CRIE</h1> -->
+                <!-- <div class="ph-sub">
+                    <p style="max-width: 500px;">23 free, industry-expert-led certification workshops across Project Management, Supply Chain, Marketing, HR, Finance &amp; IT. One day. One weekend. Real tools, real skills, real certificate - at zero cost.</p>
+                </div> -->
+                <!-- <div class="d-flex flex-column justify-content-center align-items-center">
+                    <img src="assets-new/images/logos/synergy-sphere-logo.webp" style="width: 250px;" alt="SynergySphere — Uniting Minds For Collective Success" />
+                    <a href="https://forms.gle/KY7s8xsjFGJ4mZm69" target="_blank" rel="noopener" class="btn-fs-orange mt-3">Register Now</a>
+                </div> -->
+            </div>
+
+            <div class="ph-right">
+                <img src="assets-new/images/banner/mitsde-crie.webp" class="w-auto" alt="MITSDE CRIE — Centre for Research, Innovation and Entrepreneurship" />
+            </div>
+        </div><!-- /ph-layout -->
+
+    </div>
+        <!-- <div class="container">
             <div class="ph-layout">
                 <div class="ph-left">
                     <h1 class="ph-heading">MITSDE Centre for Research, Innovation and Entrepreneurship</h1>
@@ -69,8 +89,8 @@
                 <div class="ph-right">
                     <img src="assets-new/images/crie-logo-new.jpg" class="w-auto" alt="MITSDE CRIE" />
                 </div>
-            </div><!-- /ph-layout -->
-        </div>
+            </div>
+        </div> -->
     </section>
 
     <!-- About CRIE -->
@@ -98,24 +118,20 @@
     <section class="about-section pt-0">
         <div class="container">
             <h2 class="section-heading">Mission</h2>
-            <ul class="learning-outcomes-list">
-                <li>
-                    <i class="fa-regular fa-square-check"></i>
+            <div class="faq-list">
+                <div class="faq-q">
                     <span>To create a favourable environment for the enhancement of research productivity.</span>
-                </li>
-                <li>
-                    <i class="fa-regular fa-square-check"></i>
+                </div>
+                <div class="faq-q">
                     <span>To encourage collaboration across industry, government, community-based organizations, and agencies at the local, national and international levels.</span>
-                </li>
-                <li>
-                    <i class="fa-regular fa-square-check"></i>
+                </div>
+                <div class="faq-q">
                     <span>To facilitate greater access to research through the mobilization of resources and funding.</span>
-                </li>
-                <li>
-                    <i class="fa-regular fa-square-check"></i>
+                </div>
+                <div class="faq-q">
                     <span>To facilitate resources of the institute to stakeholders of society.</span>
-                </li>
-            </ul>
+                </div>
+            </div>
         </div>
     </section>
 
@@ -123,20 +139,17 @@
     <section class="about-section pt-0">
         <div class="container">
             <h2 class="section-heading">Objectives</h2>
-            <ul class="learning-outcomes-list">
-                <li>
-                    <i class="fa-regular fa-square-check"></i>
+            <div class="faq-list">
+                <div class="faq-q">
                     <span>Create awareness and opportunities in Research, Innovation and Development among faculties and students.</span>
-                </li>
-                <li>
-                    <i class="fa-regular fa-square-check"></i>
+                </div>
+                <div class="faq-q">
                     <span>Increase research collaboration, linkages and MoUs at national and international levels.</span>
-                </li>
-                <li>
-                    <i class="fa-regular fa-square-check"></i>
+                </div>
+                <div class="faq-q">
                     <span>Foster a scientific temper for interdisciplinary research in the institute.</span>
-                </li>
-            </ul>
+                </div>
+            </div>
         </div>
     </section>
 
@@ -207,7 +220,7 @@
             <h2 class="section-heading">Structural Components Under CRIE</h2>
 
             <!-- 3.1 IIC -->
-            <h3>3.1 Institution's Innovation Council (IIC)</h3>
+            <h4><b>3.1 Institution's Innovation Council (IIC)</b></h4>
             <p>MITSDE's IIC is aligned with the national IIC framework promoted through MoE's Innovation Cell
                 (MIC), which supports institutional innovation culture through structured activities, innovation
                 challenges, IPR focus, startup support, and innovation repository building.</p>
@@ -221,10 +234,10 @@
                 <li>Support for innovation programs/initiatives (where applicable) under MIC/YUKTI ecosystem</li>
             </ul>
 
-            <h3>What We Do Under IIC</h3>
+            <h4><b>What We Do Under IIC</b></h4>
             <p>We conduct the following activities to promote entrepreneurial thinking among students.</p>
 
-            <h4>Innovate NEXT</h4>
+            <h4><b>Innovate NEXT</b></h4>
             <p>Innovate NEXT is a national-level annual business plan competition aimed at discovering and
                 nurturing the next generation of entrepreneurs. Through this competition, students get the
                 opportunity to present their innovative business ideas, develop structured business plans, and
@@ -258,14 +271,14 @@
                 </table>
             </div>
 
-            <h2 class="section-heading mt-4"><span class="text-orange">Connect </span>X</h2>
+            <h4><b><span class="text-orange">Connect </span>X</b></h4>
             <p>Under ConnectX we conduct networking events, one on one dissection that offer an unparalleled
                 opportunity to connect with like-minded individuals, industry experts, and potential collaborators.
                 These events foster meaningful interactions, allowing you to expand your professional network and
                 explore new opportunities. Whether you are seeking mentorship or simply want to exchange ideas, our
                 networking events are the perfect platform for professional growth.</p>
 
-            <h3>The following are the details of the mentors/experts associated with us</h3>
+            <h4 class="mt-4"><b>The following are the details of the mentors/experts associated with us</b></h4>
 
             <div class="gae-faculty-bio">
                 <div class="gae-faculty-photo">
@@ -324,10 +337,10 @@
                 </div>
             </div>
 
-            <p class="fs-5">Contact us: <a href="mailto:edcell@mitsde.com" class="text-orange">edcell@mitsde.com</a></p>
+            <p style="color:var(--text-light);font-size:0.9rem;">Contact us: <a href="mailto:edcell@mitsde.com" style="color:#f47521;font-size:0.9rem;">edcell@mitsde.com</a></p>
 
             <!-- 3.2 Climate Cell -->
-            <h3 class="mt-4">3.2 Climate Cell</h3>
+            <h4 class="mt-4"><b>3.2 Climate Cell</b></h4>
             <p>The Climate Cell acts as a thematic driver for climate-responsible research and innovation. NEP
                 2020 explicitly highlights climate change, sustainability, and environmental challenges as areas
                 requiring interdisciplinary capability and research capacity.</p>
@@ -343,23 +356,29 @@
                     circular economy, low-carbon practices)</li>
             </ul>
 
-            <h3>What We Do Under the Climate Cell</h3>
+            <h4><b>What We Do Under the Climate Cell</b></h4>
 
-            <h4>1. 1M1B Activity</h4>
-            <p>Under the Climate Cell, our learners are actively participating in the 1M1B (One Million for One
-                Billion) Internship Program, which focuses on climate action and sustainability. Through this
-                initiative, students engage in projects related to environmental awareness, climate education, and
-                sustainable development. The internship helps learners develop practical skills, global
-                perspectives, and a strong sense of responsibility toward building a sustainable future.</p>
+            <div class="eligibility-grid">
+                <div class="eligibility-card">
+                    <span class="eligibility-tag">1M1B Activity</span>
+                    <p>Under the Climate Cell, our learners are actively participating in the 1M1B (One Million for One
+                        Billion) Internship Program, which focuses on climate action and sustainability. Through this
+                        initiative, students engage in projects related to environmental awareness, climate education, and
+                        sustainable development. The internship helps learners develop practical skills, global
+                        perspectives, and a strong sense of responsibility toward building a sustainable future.</p>
+                </div>
 
-            <h4>2. Faculty and Student Research</h4>
-            <p>The Climate Cell encourages faculty members and students to participate in research and academic
-                activities related to environmental sustainability and climate-related issues. These initiatives
-                promote awareness, knowledge sharing, and the exploration of sustainable practices that support
-                environmental responsibility.</p>
+                <div class="eligibility-card">
+                    <span class="eligibility-tag" style="background: #FFF5DE;">Faculty and Student Research</span>
+                    <p>The Climate Cell encourages faculty members and students to participate in research and academic
+                        activities related to environmental sustainability and climate-related issues. These initiatives
+                        promote awareness, knowledge sharing, and the exploration of sustainable practices that support
+                        environmental responsibility.</p>
+                </div>
+            </div>
 
             <!-- 3.3 R&D Cell with Idea Café -->
-            <h3 class="mt-4">3.3 R&amp;D Cell with Idea Café</h3>
+            <h4 class="mt-4"><b>3.3 R&amp;D Cell with Idea Café</b></h4>
             <p>MITSDE's R&amp;D Cell with Idea Café is designed as the institutional engine for research ecosystem
                 building — aligned with national expectations for robust research governance and output. The UGC's
                 R&amp;D Cell (RDC) Guidelines provide a clear structure for building institutional research
@@ -374,34 +393,44 @@
                 <li>Industry problem statements, consultancy research, applied projects, and MoUs</li>
             </ul>
 
-            <h3>What We Do Under the R&amp;D Cell and Idea Café</h3>
+            <h4><b>What We Do Under the R&amp;D Cell and Idea Café</b></h4>
 
-            <h4>1. Udyam — The Journal of Business Insights</h4>
-            <p>Under the R&amp;D Cell and Idea Café, we encourage learners to participate in the Udyam Research
-                Journal by contributing research papers and innovative ideas. This initiative promotes academic
-                research, critical thinking, and knowledge sharing among learners.<br>
-                <a href="https://www.udyammitsde.com/index.php/udyam" target="_blank" rel="noopener" class="text-orange">
-                    <i class="fa-solid fa-arrow-right"></i> Visit Udyam – The Journal of Business Insights Website
-                </a>
-            </p>
+            <div class="eligibility-grid">
+                <div class="eligibility-card">
+                    <span class="eligibility-tag">Udyam — The Journal of Business Insights</span>
+                    <p>Under the R&amp;D Cell and Idea Café, we encourage learners to participate in the Udyam Research
+                        Journal by contributing research papers and innovative ideas. This initiative promotes academic
+                        research, critical thinking, and knowledge sharing among learners.<br>
+                        <a href="https://www.udyammitsde.com/index.php/udyam" target="_blank" rel="noopener" style="color:#f47521;font-size:0.9rem;">
+                            Visit Udyam – The Journal of Business Insights Website
+                        </a>
+                    </p>
+                </div>
 
-            <h4>2. X-Culture Research Internship</h4>
-            <p>We also encourage learners to participate in the X-Culture Research Internship, an international
-                experiential learning program that provides students with the opportunity to collaborate with
-                global teams, work on real business challenges, and gain exposure to international research and
-                business practices.</p>
+                <div class="eligibility-card">
+                    <span class="eligibility-tag" style="background: #FFF5DE;">X-Culture Research Internship</span>
+                    <p>We also encourage learners to participate in the X-Culture Research Internship, an international
+                        experiential learning program that provides students with the opportunity to collaborate with
+                        global teams, work on real business challenges, and gain exposure to international research and
+                        business practices.</p>
+                </div>
 
-            <h4>3. Faculty and Student Research</h4>
-            <p>The Climate Cell encourages faculty members and students to participate in research and academic
-                activities related to environmental sustainability and climate-related issues. These initiatives
-                promote awareness, knowledge sharing, and the exploration of sustainable practices that support
-                environmental responsibility.</p>
+                <div class="eligibility-card">
+                    <span class="eligibility-tag">Faculty and Student Research</span>
+                    <p>The Climate Cell encourages faculty members and students to participate in research and academic
+                        activities related to environmental sustainability and climate-related issues. These initiatives
+                        promote awareness, knowledge sharing, and the exploration of sustainable practices that support
+                        environmental responsibility.</p>
+                </div>
 
-            <h4>4. MITSDE Business Research Lab Program</h4>
-            <p>The <strong>MITSDE Business Research Lab Program</strong> is a live industry-based learning
-                initiative where learners work on real business problems shared by companies. Under expert
-                mentorship, participants conduct research, perform data analysis, and develop innovative, practical
-                solutions to address industry challenges.</p>
+                <div class="eligibility-card">
+                    <span class="eligibility-tag" style="background: #FFF5DE;">MITSDE Business Research Lab Program</span>
+                    <p>The <strong>MITSDE Business Research Lab Program</strong> is a live industry-based learning
+                        initiative where learners work on real business problems shared by companies. Under expert
+                        mentorship, participants conduct research, perform data analysis, and develop innovative, practical
+                        solutions to address industry challenges.</p>
+                </div>
+            </div>
 
         </div>
     </section>

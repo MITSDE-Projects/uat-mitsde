@@ -24,7 +24,7 @@
     <meta property="og:description"
         content="Explore SynergySphere — MITSDE's platform connecting speakers and learners one-on-one to boost career growth, collaboration, and industry insight.">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/assets-new/images/synergy-sphere.webp">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/banner/synergy-sphere.webp">
     <!-- / OG TAG -->
 
     <link rel="icon" type="image/png" href="assets-new/images/favicon-mit.ico" />
@@ -39,7 +39,7 @@
         "@context": "https://schema.org/",
         "@type": "Product",
         "name": "SynergySphere | MITSDE's Student Learning Platform",
-        "image": "https://mitsde.com/assets-new/images/synergy-sphere.webp",
+        "image": "https://mitsde.com/assets-new/images/banner/synergy-sphere.webp",
         "description": "Explore SynergySphere — MITSDE's platform connecting speakers and learners one-on-one to boost career growth, collaboration, and industry insight.",
         "brand": {
             "@type": "Brand",
@@ -215,20 +215,20 @@
                 <span class="text-orange">Speaker </span>Benefits
             </h2>
 
-            <ul class="learning-outcomes-list">
-                <li style="border: none; padding-bottom: 0px;">
-                    <span class="list-q">Certificate of Participation</span>
-                </li>
-                <li style="border: none; padding-bottom: 0px;">
-                    <span class="list-q">Networking opportunity among various other working professionals</span>
-                </li>
-                <li style="border: none; padding-bottom: 0px;">
-                    <span class="list-q">Spotlight across social media platforms of MITSDE</span>
-                </li>
-                <li style="border: none; padding-bottom: 0px;">
-                    <span class="list-q">A shout-out on MITSDE's promotional campaigns across social media</span>
-                </li>
-            </ul>
+            <div class="faq-list">
+                <div class="faq-q">
+                    <span>Certificate of Participation</span>
+                </div>
+                <div class="faq-q">
+                    <span>Networking opportunity among various other working professionals</span>
+                </div>
+                <div class="faq-q">
+                    <span>Spotlight across social media platforms of MITSDE</span>
+                </div>
+                <div class="faq-q">
+                    <span>A shout-out on MITSDE's promotional campaigns across social media</span>
+                </div>
+            </div>
         </div>
     </section>
 

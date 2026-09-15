@@ -15,7 +15,7 @@
     <meta property="og:url" content="https://mitsde.com/global-exposure">
     <meta property="og:description" content="MITSDE's Global Exposure initiative connects distance learners to international internship and immersion programs across 15+ countries through the ISIP program.">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/assets-new/images/achievers.webp">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/banner/global-exposure.webp">
 
     <link rel="icon" type="image/png" href="assets-new/images/favicon-mit.ico" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" />
