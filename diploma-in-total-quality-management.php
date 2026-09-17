@@ -128,7 +128,7 @@
                         <li>
                             <div class="program-feature">
                                 <p>Program Fee <small>(incl. GST)</small></p>
-                                <span>₹ 19,470/-</span>
+                                <span>₹ 19,500/-</span>
                             </div>
                         </li>
                         <li class="enquiry-btn-wrap">
@@ -423,7 +423,7 @@
                 <div class="fs-card">
                     <div class="fs-left">
                         <p>Full course fee</p>
-                        <h3 class="fs-main-amount">INR 19,470/-</h3>
+                        <h3 class="fs-main-amount">INR 19,500/-</h3>
                         <p>Inclusive of all taxes</p>
                         <a href="#" data-bs-toggle="modal" data-bs-target="#eqModal" class="btn-fs-dark">Talk to our expert</a>
                     </div>
