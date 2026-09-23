@@ -30,30 +30,29 @@
     /* ── Bootcamp page — all rules scoped to .bc-page ── */
     .bc-page { --bc-orange: #ea580c; --bc-orange-tint: #fef3ee; --bc-paper: #fdf8f5; --bc-line: #e5e7eb; --bc-navy: #111827; }
 
-    /* Revamp banner */
-    .bc-revamp-bar { background: #ea580c; color: #fff; padding: 14px 0; font-size: 14px; }
-    .bc-revamp-bar span { color: #fbbf24; font-weight: 600; }
+    .bc-page .ph-spec-pill {font-size: 0.7rem;}
 
-    /* Anchor nav */
-    .bc-anchor-nav { position: sticky; top: 72px; z-index: 100; background: #fff; border-bottom: 1px solid var(--bc-line); }
-    .bc-anchor-scroll { display: flex; overflow-x: auto; scrollbar-width: none; }
-    .bc-anchor-scroll::-webkit-scrollbar { display: none; }
-    .bc-anchor-nav .nav-link { font-size: 13px; font-weight: 600; color: #6b7280; padding: 10px 14px; white-space: nowrap; border-radius: 0; border-bottom: 2px solid transparent; }
-    .bc-anchor-nav .nav-link:hover,
-    .bc-anchor-nav .nav-link.active { color: var(--bc-orange); border-bottom-color: var(--bc-orange); }
+    /* Overview grid — 4 cards highlight orange on hover */
+    .bc-page .bc-ov-card { transition: background .2s, border-color .2s; }
+    .bc-page .bc-ov-card:hover { background: #FFC8AB !important; border-color: var(--bc-orange) !important; }
 
-    /* Proof bar */
-    .bc-proof-bar { background: var(--bc-navy); padding: 18px 0; }
-    .bc-proof-item { text-align: center; border-right: 1px solid rgba(255,255,255,.15); padding: 6px 18px; }
-    .bc-proof-item:last-child { border-right: none; }
-    .bc-proof-label { font-size: 13px; font-weight: 600; color: #fff; }
+    /* AI Skills Gap — 6-stat grid with row/column dividers */
+    .bc-stat-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem; }
+    .bc-stat-item { position: relative; text-align: center; }
+    .bc-stat-item:not(:nth-child(3n))::after {
+        content: ''; position: absolute; right: -0.75rem; top: 8%; bottom: 8%;
+        width: 1px; background: var(--bc-line);
+    }
+    .bc-stat-item:nth-child(-n+3) { padding-bottom: 1.5rem; }
+    @media (max-width: 767px) {
+        .bc-stat-grid { grid-template-columns: repeat(2, 1fr); }
+        .bc-stat-item::after { display: none; }
+        .bc-stat-item:nth-child(odd)::after { display: block; }
+        .bc-stat-item:nth-child(-n+4) { padding-bottom: 1.5rem; }
+        .bc-stat-item:nth-child(n+5) { border-bottom: none; padding-bottom: 0; }
+    }
 
-    .section-label{display:inline-block;font-size:11px;font-weight:700;color: #f97316;text-transform:uppercase;letter-spacing:.1em;margin-bottom:8px}
-
-    /* AI Gap stat cards */
-    .bc-stat-card { background: var(--bc-orange-tint); border-radius: 10px; padding: 18px 14px; text-align: center; height: 100%; }
-    .bc-stat-val { display: block; font-size: clamp(22px,2.8vw,36px); font-weight: 700; color: var(--bc-orange); line-height: 1.1; margin-bottom: 6px; }
-    .bc-stat-src { font-size: 11px; color: #6b7280; margin-top: 4px; }
+    .section-label{display:inline-block;font-size:11px;font-weight:500;color: var(--text-light);text-transform:uppercase;letter-spacing:0.08em;margin-bottom:12px}
 
     /* Cert cards */
     .bc-cert-card { background: #fff; border: 1px solid var(--bc-line); border-top: 3px solid var(--bc-orange); border-radius: 8px; padding: 20px; height: 100%; }
@@ -70,16 +69,13 @@
     .bc-arc-step-label { font-size: 10px; font-weight: 700; color: var(--bc-orange); text-transform: uppercase; margin-bottom: 3px; }
     .bc-arc-arrow { font-size: 20px; color: var(--bc-orange); align-self: center; flex-shrink: 0; }
 
-    /* Tools chips */
-    .bc-chip { display: inline-block; border: 1px solid var(--bc-line); padding: 6px 14px; border-radius: 999px; font-size: 13px; background: #fff; margin: 3px; transition: border-color .15s, color .15s; }
-    .bc-chip:hover { border-color: var(--bc-orange); color: var(--bc-orange); }
-    .bc-filter-btn { background: #fff; border: 1.5px solid var(--bc-line); padding: 7px 16px; border-radius: 999px; font-size: 13px; font-weight: 600; color: #6b7280; cursor: pointer; transition: .15s; font-family: inherit; }
-    .bc-filter-btn:hover { border-color: var(--bc-orange); color: var(--bc-orange); }
-    .bc-filter-btn.active { background: var(--bc-orange); border-color: var(--bc-orange); color: #fff; }
+    /* Tools filter buttons (chip cloud below reuses global .academic-services-wrap/.academic-tags/.academic-tag) */
+    .bc-filter-btn { background: #FFF5DE; border: none; padding: 7px 16px; border-radius: 999px; font-size: 13px; font-weight: 500; color: var(--bc-navy); cursor: pointer; transition: .15s; font-family: inherit; }
+    .bc-filter-btn:hover { color: var(--bc-orange); }
+    .bc-filter-btn.active { background: #FFC8AB; color: var(--bc-navy); }
 
     /* AI in Sessions */
-    .bc-ai-row { background: #fff; border: 1px solid var(--bc-line); border-radius: 8px; padding: 16px; margin-bottom: 12px; }
-    .bc-ai-cert { font-size: 11px; font-weight: 700; font-family: 'Courier New', monospace; color: var(--bc-orange); background: var(--bc-orange-tint); padding: 2px 8px; border-radius: 4px; }
+    .bc-ai-cert { font-size: 11px; font-weight: 500; color: #6b7280; }
     .bc-ai-headline { font-weight: 600; font-size: 14px; margin: 6px 0 4px; }
     .bc-ai-tools { font-size: 12px; color: #6b7280; }
 
@@ -101,19 +97,47 @@
     .bc-faculty-card { background: #fff; border: 1px solid var(--bc-line); border-radius: 10px; padding: 22px; height: 100%; }
     .bc-faculty-quote { font-size: 14px; color: #374151; border-left: 3px solid var(--bc-orange); padding-left: 14px; margin-bottom: 16px; }
 
-    /* CTA strip */
-    .bc-cta { background: linear-gradient(180deg, #ffcead 0%, #FD771F 100%); color: #fff; padding: 64px 0; text-align: center; }
-    .bc-cta h2 { color: #fff; font-size: clamp(22px,3vw,36px); margin-bottom: 10px; }
-    .bc-cta p { color: rgba(255,255,255,.88); font-size: 16px; margin-bottom: 28px; max-width: 680px; margin-left: auto; margin-right: auto; }
-    .cta-strip-links{margin-top:22px;display:flex;gap:22px;justify-content:center;flex-wrap:wrap}
-    .cta-strip-links a{color:rgba(255,255,255,.65);font-size:0.9rem;text-decoration:none;border-bottom:1px solid rgba(255,255,255,.25);padding-bottom:2px}
-    .cta-strip-links a:hover{color:#fff;border-color:#fff}
-
     section[id] { scroll-margin-top: 110px; }
 
-    @media (max-width: 768px) {
-        .bc-proof-item { border-right: none; border-bottom: 1px solid rgba(255,255,255,.15); }
-        .bc-proof-item:last-child { border-bottom: none; }
+    /* TEMP — Sample Certifications v2 (3-card peek), self-contained, no shared classes touched */
+    #certificate-v2 { background: linear-gradient(180deg, #ffffff 60%, #f8ded0 100%); }
+    .cert2-wrap { position: relative; padding: 1rem 0 3rem; }
+    .cert2-swiper { padding: 2rem 0; overflow: hidden; }
+    /* .cert2-slide (the actual Swiper slide) keeps the SAME fixed width/height always, and its
+       own `transform` is left alone for Swiper's positioning (translate3d) — Swiper sets that
+       inline, and it would silently overwrite any `transform` we put on this same element.
+       The visual scale/blur difference is done on the INNER .cert2-card instead, which Swiper
+       never touches, so the two transforms don't collide. */
+    .cert2-slide {
+        width: 340px; height: 440px; align-self: center; position: relative; z-index: 1;
+        display: flex; align-items: center; justify-content: center;
+    }
+    .cert2-card {
+        width: 100%; height: 100%; border-radius: 16px; overflow: hidden;
+        transition: transform .4s ease, filter .4s ease;
+        transform: scale(0.72); filter: blur(3px);
+    }
+    .cert2-card img { width: 100%; height: 100%; object-fit: cover; display: block; }
+    /* Only active + immediate neighbours ever show — hides anything else regardless of container width */
+    .cert2-slide:not(.swiper-slide-active):not(.swiper-slide-prev):not(.swiper-slide-next) { opacity: 0 !important; }
+    /* z-index goes on the outer slide (not just the inner card) — each slide's own transform
+       creates its own stacking context, so a z-index on the inner card can't out-rank a
+       sibling slide's content; it has to be set here to make the active card stack on top. */
+    .cert2-slide.swiper-slide-active { z-index: 3; }
+    .cert2-slide.swiper-slide-active .cert2-card {
+        transform: scale(1); filter: none;
+        border: 5px solid #fff;
+    }
+    .cert2-wrap .dms-swiper-prev, .cert2-wrap .dms-swiper-next {
+        position: absolute; top: 50%; transform: translateY(-50%); z-index: 5;
+        width: 30px; height: 30px; font-size: 12px;
+    }
+    .cert2-wrap .dms-swiper-prev { left: calc(50% - 160px); }
+    .cert2-wrap .dms-swiper-next { right: calc(50% - 160px); }
+    @media (max-width: 767px) {
+        .cert2-slide { width: 220px; height: 300px; }
+        .cert2-wrap .dms-swiper-prev { left: calc(50% - 100px); }
+        .cert2-wrap .dms-swiper-next { right: calc(50% - 100px); }
     }
     </style>
 
@@ -143,8 +167,8 @@
 
             <div class="ph-left">
                 <div class="d-flex gap-2 flex-wrap mb-3">
-                    <span style="display:inline-block;background:var(--bc-orange-tint);color:var(--bc-orange);font-size:12px;font-weight:600;padding:5px 12px;border-radius:999px;">&#9733; Included in your MITSDE programme</span>
-                    <span style="display:inline-block;background:#f0fdf4;color:#16a34a;font-size:12px;font-weight:600;padding:5px 12px;border-radius:999px;">&#10022; 100% Free &mdash; part of your fee</span>
+                    <span style="display:inline-block;background: #9a3412;color: #fff;font-size:12px;font-weight:600;padding:5px 12px;border-radius:999px;">&#9733; Included in your MITSDE programme</span>
+                    <span style="display:inline-block;background: #9a3412;color: #fff;font-size:12px;font-weight:600;padding:5px 12px;border-radius:999px;">&#10022; 100% Free &mdash; part of your fee</span>
                 </div>
                 <h1 class="ph-heading">Your PG programme.<br> Plus <span class="text-orange">6 industry certifications.</span><br> All AI-powered. All free.</h1>
                 <div class="ph-sub" style="max-width: 400px;">
@@ -155,7 +179,7 @@
             </div>
 
             <div class="ph-right">
-                <img src="assets-new/images/application-process.webp" alt="MITSDE Bootcamp — 6 AI-Powered Certifications" />
+                <img src="assets-new/images/banner/bootcamp.webp" alt="MITSDE Bootcamp — 6 AI-Powered Certifications" />
             </div>
 
         </div>
@@ -166,85 +190,83 @@
 <!-- ═══════════════════════════════════════════════
    REVAMP BANNER
 ════════════════════════════════════════════════ -->
-<div class="bc-revamp-bar">
-    <div class="container text-center">
-        &#x1F504; <span>MITSDE Bootcamp has been completely revamped for 2026&ndash;27</span> &mdash; Every session now integrates AI tools as a core skill component. From ChatGPT-assisted SQL to Julius AI dashboards to Gemini-powered marketing reports &mdash; you will use AI the way industry actually uses it.
-    </div>
+<div class="container">
+    <p class="text-muted mb-0">MITSDE Bootcamp has been completely revamped for 2026&ndash;27 &mdash; Every session now integrates AI tools as a core skill component. From ChatGPT-assisted SQL to Julius AI dashboards to Gemini-powered marketing reports &mdash; you will use AI the way industry actually uses it.</p>
 </div>
 
 <!-- ═══════════════════════════════════════════════
    PROOF BAR — 5 trust chips
 ════════════════════════════════════════════════ -->
-<div class="bc-proof-bar">
+<section class="cib-section">
     <div class="container">
-        <div class="row g-0 justify-content-center text-center">
-            <div class="col bc-proof-item"><span class="bc-proof-label">JD-aligned tools</span></div>
-            <div class="col bc-proof-item"><span class="bc-proof-label">SME-taught</span></div>
-            <div class="col bc-proof-item"><span class="bc-proof-label">Your own laptop</span></div>
-            <div class="col bc-proof-item"><span class="bc-proof-label">Sat &amp; Sun</span></div>
-            <div class="col bc-proof-item"><span class="bc-proof-label">Zero extra cost</span></div>
+        <div class="enquiry-bar" style="border-radius:30px;border-color:#000;margin:0 auto;">
+            <ul class="program-details text-center">
+                <li><div class="program-feature"><span class="text-muted">JD-aligned tools</span></div></li>
+                <li><div class="program-feature"><span class="text-muted">SME-taught</span></div></li>
+                <li><div class="program-feature"><span class="text-muted">Your own laptop</span></div></li>
+                <li><div class="program-feature"><span class="text-muted">Sat &amp; Sun</span></div></li>
+                <li><div class="program-feature"><span class="text-muted">Zero extra cost</span></div></li>
+            </ul>
         </div>
     </div>
-</div>
+</section>
 
 <!-- ═══════════════════════════════════════════════
    ANCHOR NAV
 ════════════════════════════════════════════════ -->
-<div class="bc-anchor-nav">
-    <div class="container">
-        <div class="bc-anchor-scroll">
-            <nav class="nav">
-                <a class="nav-link" href="#overview">Overview</a>
-                <a class="nav-link" href="#ai-gap">AI &amp; Skills Gap</a>
-                <a class="nav-link" href="#certifications">Certifications</a>
-                <a class="nav-link" href="#tools">Tools</a>
-                <a class="nav-link" href="#ai-sessions">AI in Sessions</a>
-                <a class="nav-link" href="#career">Career Outcomes</a>
-                <a class="nav-link" href="#faculty">Faculty</a>
-                <a class="nav-link" href="#stories">Student Stories</a>
-                <a class="nav-link" href="#experts">Industry Experts</a>
-                <a class="nav-link" href="#schedule">Schedule</a>
-                <a class="nav-link" href="#why">Why MITSDE</a>
-            </nav>
-        </div>
+<div class="ph-specs-wrap sticky-pills">
+    <div class="ph-specs">
+        <a href="#overview"><button class="ph-spec-pill">Overview</button></a>
+        <a href="#ai-gap"><button class="ph-spec-pill">AI &amp; Skills Gap</button></a>
+        <a href="#certifications"><button class="ph-spec-pill">Certifications</button></a>
+        <a href="#tools"><button class="ph-spec-pill">Tools</button></a>
+        <a href="#ai-sessions"><button class="ph-spec-pill">AI in Sessions</button></a>
+        <a href="#career"><button class="ph-spec-pill">Career Outcomes</button></a>
+        <a href="#faculty"><button class="ph-spec-pill">Faculty</button></a>
+        <a href="#stories"><button class="ph-spec-pill">Student Stories</button></a>
+        <a href="#experts"><button class="ph-spec-pill">Industry Experts</button></a>
+        <a href="#schedule"><button class="ph-spec-pill">Schedule</button></a>
+        <a href="#why"><button class="ph-spec-pill">Why MITSDE</button></a>
     </div>
 </div>
 
 <!-- ═══════════════════════════════════════════════
    OVERVIEW
 ════════════════════════════════════════════════ -->
-<section class="about-section" id="overview">
+<section class="about-section pb-0" id="overview">
     <div class="container">
-        <h2 class="section-heading">What is the <span class="text-orange">MITSDE Bootcamp?</span></h2>
-        <div class="row g-4 align-items-center">
-            <div class="col-md-6">
-                <p class="fs-5 mb-3">A structured six-certification stack built into your MITSDE PG programme &mdash; not as an add-on, but as a parallel skill layer running alongside your academic calendar.</p>
-                <p class="text-muted mb-0">Every session runs live on weekends. Every tool is one employers actually use. And the cost to you is exactly &#8377;0 extra.</p>
-            </div>
-            <div class="col-md-6">
-                <div class="row g-3">
-                    <div class="col-6">
-                        <div class="p-3 rounded-3" style="background:var(--bc-orange-tint)">
-                            <div class="fw-bold text-orange fs-5 mb-1">Business Analytics Track</div>
-                            <div class="text-muted" style="font-size:13px">4 certifications &mdash; Excel, Data Analytics, Data Science &amp; Quantitative BA</div>
+        <div class="rounded-4 p-4 p-md-5" style="background:var(--bc-paper)">
+            <div class="row g-4 align-items-center">
+                <div class="col-md-6">
+                    <h2 class="fw-bold fs-3 mb-3">What is the MITSDE Bootcamp?</h2>
+                    <p class="mb-3">A structured six-certification stack built into your MITSDE PG programme &mdash; not as an add-on, but as a parallel skill layer running alongside your academic calendar.</p>
+                    <p class="text-muted mb-0">Every session runs live on weekends. Every tool is one employers actually use. And the cost to you is exactly &#8377;0 extra.</p>
+                </div>
+                <div class="col-md-6">
+                    <div class="row g-3">
+                        <div class="col-6">
+                            <div class="bc-ov-card p-3 rounded-3 h-100 bg-white" style="border:1px solid var(--bc-line)">
+                                <div class="fw-bold text-orange fs-6 mb-1">Business Analytics Track</div>
+                                <div class="text-muted" style="font-size:12px">4 certifications &mdash; Excel, Data Analytics, Data Science &amp; Quantitative BA</div>
+                            </div>
                         </div>
-                    </div>
-                    <div class="col-6">
-                        <div class="p-3 rounded-3" style="background:#eff6ff">
-                            <div class="fw-bold fs-5 mb-1" style="color:#2563eb">Digital Marketing Track</div>
-                            <div class="text-muted" style="font-size:13px">2 certifications &mdash; Digital Marketing Essentials &amp; Applications + 3 Labs</div>
+                        <div class="col-6">
+                            <div class="bc-ov-card p-3 rounded-3 h-100 bg-white" style="border:1px solid var(--bc-line)">
+                                <div class="fw-bold fs-6 mb-1">Digital Marketing Track</div>
+                                <div class="text-muted" style="font-size:12px">2 certifications &mdash; Digital Marketing Essentials &amp; Applications + 3 Labs</div>
+                            </div>
                         </div>
-                    </div>
-                    <div class="col-6">
-                        <div class="p-3 rounded-3" style="background:#f0fdf4">
-                            <div class="fw-bold fs-5 mb-1" style="color:#16a34a">3 Labs</div>
-                            <div class="text-muted" style="font-size:13px">Applied capstone labs in Marketing Analytics, Social Media &amp; Future Intelligence</div>
+                        <div class="col-6">
+                            <div class="bc-ov-card p-3 rounded-3 h-100 bg-white" style="border:1px solid var(--bc-line)">
+                                <div class="fw-bold fs-6 mb-1">3 Labs</div>
+                                <div class="text-muted" style="font-size:12px">Applied capstone labs in Marketing Analytics, Social Media &amp; Future Intelligence</div>
+                            </div>
                         </div>
-                    </div>
-                    <div class="col-6">
-                        <div class="p-3 rounded-3" style="background:#fdf4ff">
-                            <div class="fw-bold fs-5 mb-1" style="color:#9333ea">40+ Tools</div>
-                            <div class="text-muted" style="font-size:13px">Excel, Python, GA4, Meta Suite, ChatGPT, Julius AI and more</div>
+                        <div class="col-6">
+                            <div class="bc-ov-card p-3 rounded-3 h-100 bg-white" style="border:1px solid var(--bc-line)">
+                                <div class="fw-bold fs-6 mb-1">40+ Tools</div>
+                                <div class="text-muted" style="font-size:12px">Excel, Python, GA4, Meta Suite, ChatGPT, Julius AI and more</div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -256,93 +278,84 @@
 <!-- ═══════════════════════════════════════════════
    AI & SKILLS GAP
 ════════════════════════════════════════════════ -->
-<section class="about-section" id="ai-gap" style="background:var(--bc-paper)">
+<section class="about-section" id="ai-gap">
     <div class="container">
-        <div class="section-label">The AI Skills Gap — Why This Matters Now</div>
-        <h2 class="section-heading">India has a 51 million worker AI skills gap. <span class="text-orange"><br>MITSDE is closing it &mdash; one certification at a time.</span></h2>
+        
+        <div class="row g-4 align-items-center">
+            <div class="section-label">The AI Skills Gap — Why This Matters Now</div>
+            <h2 class="section-heading">India has a 51 million worker AI skills gap.<br>MITSDE is closing it &mdash; one certification at a time.</h2>
+            <div class="col-lg-6">
 
-        <div class="row g-3 mb-5">
-            <div class="col-6 col-md-4 col-lg-2">
-                <div class="bc-stat-card">
-                    <span class="bc-stat-val">51M</span>
-                    <div class="fw-semibold mb-1" style="font-size:13px">Workers India needs by 2030 with AI skills</div>
-                    <div class="bc-stat-src">WEF, 2024</div>
+                <div class="bc-stat-grid">
+                    <div class="bc-stat-item">
+                        <div class="mb-1" style="font-size:1.6rem">51M</div>
+                        <div class="mb-1" style="font-size:13px">Workers India needs by 2030 with AI skills</div>
+                        <div class="text-muted" style="font-size:11px">WEF, 2024</div>
+                    </div>
+                    <div class="bc-stat-item">
+                        <div class="mb-1" style="font-size:1.6rem">74%</div>
+                        <div class="mb-1" style="font-size:13px">Of employers say candidates lack AI fluency</div>
+                        <div class="text-muted" style="font-size:11px">LinkedIn, 2025</div>
+                    </div>
+                    <div class="bc-stat-item">
+                        <div class="mb-1" style="font-size:1.6rem">3&times;</div>
+                        <div class="mb-1" style="font-size:13px">More likely to be <em>hired</em> with AI skills</div>
+                        <div class="text-muted" style="font-size:11px">NASSCOM India Tech Talent Report, 2024</div>
+                    </div>
+                    <div class="bc-stat-item">
+                        <div class="mb-1" style="font-size:1.6rem">65%</div>
+                        <div class="mb-1" style="font-size:13px">Of analytics &amp; marketing jobs now require tool proficiency</div>
+                        <div class="text-muted" style="font-size:11px">Naukri.com, 2025</div>
+                    </div>
+                    <div class="bc-stat-item">
+                        <div class="mb-1" style="font-size:1.6rem">&#8377;8L+</div>
+                        <div class="mb-1" style="font-size:13px">Average starting salary for AI-integrated roles</div>
+                        <div class="text-muted" style="font-size:11px">AmbitionBox, 2025</div>
+                    </div>
+                    <div class="bc-stat-item">
+                        <div class="mb-1" style="font-size:1.6rem">92%</div>
+                        <div class="mb-1" style="font-size:13px">Of companies plan to expand AI use &mdash; yet fewer than 10% of employees are ready</div>
+                        <div class="text-muted" style="font-size:11px">McKinsey Global AI Survey, 2024</div>
+                    </div>
                 </div>
             </div>
-            <div class="col-6 col-md-4 col-lg-2">
-                <div class="bc-stat-card">
-                    <span class="bc-stat-val">74%</span>
-                    <div class="fw-semibold mb-1" style="font-size:13px">Of employers say candidates lack AI fluency</div>
-                    <div class="bc-stat-src">LinkedIn, 2025</div>
-                </div>
-            </div>
-            <div class="col-6 col-md-4 col-lg-2">
-                <div class="bc-stat-card">
-                    <span class="bc-stat-val">3&times;</span>
-                    <div class="fw-semibold mb-1" style="font-size:13px">More likely to be <em>hired</em> with AI skills</div>
-                    <div class="bc-stat-src">NASSCOM India Tech Talent Report, 2024</div>
-                </div>
-            </div>
-            <div class="col-6 col-md-4 col-lg-2">
-                <div class="bc-stat-card">
-                    <span class="bc-stat-val">65%</span>
-                    <div class="fw-semibold mb-1" style="font-size:13px">Of analytics &amp; marketing jobs now require tool proficiency</div>
-                    <div class="bc-stat-src">Naukri.com, 2025</div>
-                </div>
-            </div>
-            <div class="col-6 col-md-4 col-lg-2">
-                <div class="bc-stat-card">
-                    <span class="bc-stat-val">&#8377;8L+</span>
-                    <div class="fw-semibold mb-1" style="font-size:13px">Average starting salary for AI-integrated roles</div>
-                    <div class="bc-stat-src">AmbitionBox, 2025</div>
-                </div>
-            </div>
-            <div class="col-6 col-md-4 col-lg-2">
-                <div class="bc-stat-card">
-                    <span class="bc-stat-val">92%</span>
-                    <div class="fw-semibold mb-1" style="font-size:13px">Of companies plan to expand AI use &mdash; yet fewer than 10% of employees are ready</div>
-                    <div class="bc-stat-src">McKinsey Global AI Survey, 2024</div>
-                </div>
+            <div class="col-lg-1"></div>
+            <div class="col-lg-5 mt-0 text-center">
+                <img src="assets-new/images/banner/ai-skill-gap.webp" style="width: 300px;" alt="MITSDE closing the AI skills gap" />
             </div>
         </div>
 
-        <div class="row g-4">
-            <div class="col-md-4">
-                <div class="p-4 rounded-3 h-100" style="background:#fff2f0;border-left:3px solid #dc2626">
-                    <div class="fw-bold mb-3" style="color:#dc2626;font-size:12px;letter-spacing:.06em;text-transform:uppercase">The Problem</div>
-                          <p>Most postgraduate management programmes teach concepts. They teach you about AI. They don't put AI tools in your hands in a live session and say: do this task right now. The result is graduates who can talk about AI but can't demonstrate it in an interview or on day one of a job.</p>
-                    <ul class="mb-0" style="font-size:14px;color:#374151;padding-left:18px">
-                        <li>Degree programmes aren't updating fast enough</li>
-                        <li>Generic online courses have no peer learning, no SME interaction</li>
-                        <li>Self-learning is unstructured — no certification, no proof</li>
-                        <li>Industry moves faster than academia — the gap widens every year</li>
-                    </ul>
-                </div>
+        <div class="d-flex flex-column gap-3">
+            <div class="eligibility-card">
+                <span class="eligibility-tag">The Problem</span>
+                <p>Most postgraduate management programmes teach concepts. They teach you about AI. They don't put AI tools in your hands in a live session and say: do this task right now. The result is graduates who can talk about AI but can't demonstrate it in an interview or on day one of a job.</p>
+                <ul class="ac-list text-dark mb-0">
+                    <li>Degree programmes aren't updating fast enough</li>
+                    <li>Generic online courses have no peer learning, no SME interaction</li>
+                    <li>Self-learning is unstructured — no certification, no proof</li>
+                    <li>Industry moves faster than academia — the gap widens every year</li>
+                </ul>
             </div>
-            <div class="col-md-4">
-                <div class="p-4 rounded-3 h-100" style="background:var(--bc-orange-tint);border-left:3px solid var(--bc-orange)">
-                    <div class="fw-bold mb-3 text-orange" style="font-size:12px;letter-spacing:.06em;text-transform:uppercase">The MITSDE Response</div>
-                    <p>MITSDE recognised this gap in 2025 and made a decision: the Bootcamp vertical would be completely rebuilt — not just updated. Every session was redesigned from scratch with AI integration as a non-negotiable element. Not a tool demo at the end. A live task, during the session, on your laptop.</p>
-                    <ul class="mb-0" style="font-size:14px;color:#374151;padding-left:18px">
-                        <li>11 AI tools integrated across 6 certifications</li>
-                        <li>AI task in every single session — not optional</li>
-                        <li>Taught by SMEs who use these AI tools professionally</li>
-                        <li>Included in your MITSDE programme fee — zero extra cost</li>
-                        <li>Runs on weekends, alongside your academic programme, at zero extra cost</li>
-                    </ul>
-                </div>
+            <div class="eligibility-card">
+                <span class="eligibility-tag">The MITSDE Response</span>
+                <p>MITSDE recognised this gap in 2025 and made a decision: the Bootcamp vertical would be completely rebuilt — not just updated. Every session was redesigned from scratch with AI integration as a non-negotiable element. Not a tool demo at the end. A live task, during the session, on your laptop.</p>
+                <ul class="ac-list text-dark mb-0">
+                    <li>11 AI tools integrated across 6 certifications</li>
+                    <li>AI task in every single session — not optional</li>
+                    <li>Taught by SMEs who use these AI tools professionally</li>
+                    <li>Included in your MITSDE programme fee — zero extra cost</li>
+                    <li>Runs on weekends, alongside your academic programme, at zero extra cost</li>
+                </ul>
             </div>
-            <div class="col-md-4">
-                <div class="p-4 rounded-3 h-100" style="background:#f0fdf4;border-left:3px solid #16a34a">
-                    <div class="fw-bold mb-3" style="color:#16a34a;font-size:12px;letter-spacing:.06em;text-transform:uppercase">What You Walk Away With</div>
-                    <p>MITSDE Bootcamp is now the only PG distance education programme in India that gives students a structured, AI-integrated certification stack as part of their degree — with real tools, real sessions, and real industry experts. When you graduate, you don't just have a PGCM or PGDM. You have proof.</p>
-                    <ul class="mb-0" style="font-size:14px;color:#374151;padding-left:18px">
-                        <li>6 certifications: CPEA, CPDA, CPDSA, CPQBA + CDME, CDMA</li>
-                        <li>3 full-day Bootcamp Labs: B1, B2, B3 (MITSDE LABS vertical)</li>
-                        <li>Delivered live — Saturdays &amp; Sundays</li>
-                        <li>Verified MITSDE certification on completion of each programme</li>
-                    </ul>
-                </div>
+            <div class="eligibility-card">
+                <span class="eligibility-tag">What You Walk Away With</span>
+                <p>MITSDE Bootcamp is now the only PG distance education programme in India that gives students a structured, AI-integrated certification stack as part of their degree — with real tools, real sessions, and real industry experts. When you graduate, you don't just have a PGCM or PGDM. You have proof.</p>
+                <ul class="ac-list text-dark mb-0">
+                    <li>6 certifications: CPEA, CPDA, CPDSA, CPQBA + CDME, CDMA</li>
+                    <li>3 full-day Bootcamp Labs: B1, B2, B3 (MITSDE LABS vertical)</li>
+                    <li>Delivered live — Saturdays &amp; Sundays</li>
+                    <li>Verified MITSDE certification on completion of each programme</li>
+                </ul>
             </div>
         </div>
 
@@ -356,25 +369,13 @@
     <div class="container">
         <div class="section-label">The Certification Stack</div>
         <h2 class="section-heading">Six certifications. One programme. All AI-integrated.</span></h2>
-        <p class="text-muted mb-4">Every MITSDE student in Business Analytics or Digital Marketing earns structured, tool-based certifications — delivered by industry SMEs in live weekend sessions on Saturdays and Sundays. Each certification has a dedicated AI component that is not a demo — it is a live, scored skill task.</p>
+        <p class="mb-4"><b>Every MITSDE student in Business Analytics or Digital Marketing earns structured, tool-based certifications — delivered by industry SMEs in live weekend sessions on Saturdays and Sundays. Each certification has a dedicated AI component that is not a demo — it is a live, scored skill task.</b></p>
 
-        <ul class="nav nav-tabs mb-4" id="certTabs" role="tablist">
-            <li class="nav-item" role="presentation">
-                <button class="nav-link active" data-bs-toggle="tab" data-bs-target="#ba-track" type="button" role="tab">
-                    <i class="fa-solid fa-chart-bar me-2"></i>Business Analytics Track
-                </button>
-            </li>
-            <li class="nav-item" role="presentation">
-                <button class="nav-link" data-bs-toggle="tab" data-bs-target="#dm-track" type="button" role="tab">
-                    <i class="fa-solid fa-bullhorn me-2"></i>Digital Marketing Track
-                </button>
-            </li>
-            <li class="nav-item" role="presentation">
-                <button class="nav-link" data-bs-toggle="tab" data-bs-target="#arc-track" type="button" role="tab">
-                    <i class="fa-solid fa-route me-2"></i>Learning Arc
-                </button>
-            </li>
-        </ul>
+        <div class="d-flex flex-wrap gap-2 mb-4" id="certTabs" role="tablist">
+            <button class="bc-filter-btn active" data-bs-toggle="tab" data-bs-target="#ba-track" type="button" role="tab">Business Analytics Track</button>
+            <button class="bc-filter-btn" data-bs-toggle="tab" data-bs-target="#dm-track" type="button" role="tab">Digital Marketing Track</button>
+            <button class="bc-filter-btn" data-bs-toggle="tab" data-bs-target="#arc-track" type="button" role="tab">Learning Arc</button>
+        </div>
 
         <div class="tab-content">
 
@@ -609,67 +610,69 @@
     <div class="container">
         <div class="section-label">Tools Wall</div>
         <h2 class="section-heading">Tools you'll use. Not tools you'll hear about.</h2>
-        <p class="text-muted mb-4">Every tool below is practised live in session — on your own laptop, with a real task, alongside the SME. Purple-highlighted tools are AI tools integrated as core session skills.</p>
+        <p class="mb-4"><b>Every tool below is practised live in session — on your own laptop, with a real task, alongside the SME. Purple-highlighted tools are AI tools integrated as core session skills.</b></p>
 
-        <div class="d-flex flex-wrap gap-2 mb-4">
+        <div class="d-flex flex-wrap gap-2 mb-4" id="toolsFilterBar">
             <button class="bc-filter-btn active" data-track="all">All Tools</button>
             <button class="bc-filter-btn" data-track="ba">Business Analytics</button>
             <button class="bc-filter-btn" data-track="dm">Digital Marketing</button>
             <button class="bc-filter-btn" data-track="ai">AI Tools</button>
         </div>
 
-        <div id="bcToolsCloud">
+        <div class="academic-services-wrap">
+        <div id="bcToolsCloud" class="academic-tags">
             <!-- BA -->
-            <span class="bc-chip" data-track="ba">Excel + Power Query</span>
-            <span class="bc-chip" data-track="ba">MySQL Workbench</span>
-            <span class="bc-chip" data-track="ba">Power BI Desktop</span>
-            <span class="bc-chip" data-track="ba">Anaconda / Jupyter</span>
-            <span class="bc-chip" data-track="ba">Pandas / NumPy / Matplotlib</span>
-            <span class="bc-chip" data-track="ba">SAS Software</span>
-            <span class="bc-chip" data-track="ba">R / RStudio</span>
-            <span class="bc-chip" data-track="ba">Tableau Public</span>
-            <span class="bc-chip" data-track="ba">VBA / Macros</span>
-            <span class="bc-chip" data-track="ba">Pivot Tables (advanced)</span>
+            <span class="academic-tag active" data-track="ba">Excel + Power Query</span>
+            <span class="academic-tag" data-track="ba">MySQL Workbench</span>
+            <span class="academic-tag" data-track="ba">Power BI Desktop</span>
+            <span class="academic-tag" data-track="ba">Anaconda / Jupyter</span>
+            <span class="academic-tag" data-track="ba">Pandas / NumPy / Matplotlib</span>
+            <span class="academic-tag" data-track="ba">SAS Software</span>
+            <span class="academic-tag" data-track="ba">R / RStudio</span>
+            <span class="academic-tag" data-track="ba">Tableau Public</span>
+            <span class="academic-tag" data-track="ba">VBA / Macros</span>
+            <span class="academic-tag" data-track="ba">Pivot Tables (advanced)</span>
             <!-- DM -->
-            <span class="bc-chip" data-track="dm">Google Analytics 4</span>
-            <span class="bc-chip" data-track="dm">Google Ads (sandbox)</span>
-            <span class="bc-chip" data-track="dm">Ahrefs Webmaster Tools</span>
-            <span class="bc-chip" data-track="dm">Screaming Frog SEO Spider</span>
-            <span class="bc-chip" data-track="dm">Brevo (Sendinblue)</span>
-            <span class="bc-chip" data-track="dm">Looker Studio</span>
-            <span class="bc-chip" data-track="dm">HubSpot CRM (free)</span>
-            <span class="bc-chip" data-track="dm">Shopify (3-day trial)</span>
-            <span class="bc-chip" data-track="dm">Microsoft Clarity</span>
-            <span class="bc-chip" data-track="dm">Hotjar</span>
-            <span class="bc-chip" data-track="dm">Zapier / Make.com</span>
-            <span class="bc-chip" data-track="dm">ManyChat / Tidio / Landbot</span>
-            <span class="bc-chip" data-track="dm">WhatsApp Business App</span>
-            <span class="bc-chip" data-track="dm">Canva / CapCut / Notion</span>
-            <span class="bc-chip" data-track="dm">Meta Business Suite</span>
-            <span class="bc-chip" data-track="dm">Buffer / Heepsy</span>
-            <span class="bc-chip" data-track="dm">Mention / Social Blade</span>
-            <span class="bc-chip" data-track="dm">Impact / Bitly / SimilarWeb</span>
-            <span class="bc-chip" data-track="dm">Riverside.fm / Descript</span>
+            <span class="academic-tag" data-track="dm">Google Analytics 4</span>
+            <span class="academic-tag" data-track="dm">Google Ads (sandbox)</span>
+            <span class="academic-tag" data-track="dm">Ahrefs Webmaster Tools</span>
+            <span class="academic-tag" data-track="dm">Screaming Frog SEO Spider</span>
+            <span class="academic-tag" data-track="dm">Brevo (Sendinblue)</span>
+            <span class="academic-tag" data-track="dm">Looker Studio</span>
+            <span class="academic-tag" data-track="dm">HubSpot CRM (free)</span>
+            <span class="academic-tag" data-track="dm">Shopify (3-day trial)</span>
+            <span class="academic-tag" data-track="dm">Microsoft Clarity</span>
+            <span class="academic-tag" data-track="dm">Hotjar</span>
+            <span class="academic-tag" data-track="dm">Zapier / Make.com</span>
+            <span class="academic-tag" data-track="dm">ManyChat / Tidio / Landbot</span>
+            <span class="academic-tag" data-track="dm">WhatsApp Business App</span>
+            <span class="academic-tag" data-track="dm">Canva / CapCut / Notion</span>
+            <span class="academic-tag" data-track="dm">Meta Business Suite</span>
+            <span class="academic-tag" data-track="dm">Buffer / Heepsy</span>
+            <span class="academic-tag" data-track="dm">Mention / Social Blade</span>
+            <span class="academic-tag" data-track="dm">Impact / Bitly / SimilarWeb</span>
+            <span class="academic-tag" data-track="dm">Riverside.fm / Descript</span>
             <!-- AI -->
-            <span class="bc-chip" data-track="ai">ChatGPT / Claude</span>
-            <span class="bc-chip" data-track="ai">Julius AI</span>
-            <span class="bc-chip" data-track="ai">Microsoft Copilot (Excel)</span>
-            <span class="bc-chip" data-track="ai">Power BI Copilot</span>
-            <span class="bc-chip" data-track="ai">Gemini for Workspace</span>
-            <span class="bc-chip" data-track="ai">NotebookLM (Google)</span>
-            <span class="bc-chip" data-track="ai">Descript AI (Overdub)</span>
-            <span class="bc-chip" data-track="ai">Perplexity AI</span>
-            <span class="bc-chip" data-track="ai">Predis.ai</span>
-            <span class="bc-chip" data-track="ai">Opus Clip</span>
-            <span class="bc-chip" data-track="ai">Adobe Firefly</span>
-            <span class="bc-chip" data-track="ai">Otter.ai</span>
-            <span class="bc-chip" data-track="ai">Zapier AI</span>
-            <span class="bc-chip" data-track="ai">Tableau Ask Data / Pulse AI</span>
-            <span class="bc-chip" data-track="ai">Shopify Magic AI</span>
-            <span class="bc-chip" data-track="ai">Tidio Lyro AI</span>
-            <span class="bc-chip" data-track="ai">Google Vertex AI (demo)</span>
-            <span class="bc-chip" data-track="ai">Adzooma (PPC AI audit)</span>
-            <span class="bc-chip" data-track="ai">GitHub Copilot</span>
+            <span class="academic-tag" data-track="ai">ChatGPT / Claude</span>
+            <span class="academic-tag" data-track="ai">Julius AI</span>
+            <span class="academic-tag" data-track="ai">Microsoft Copilot (Excel)</span>
+            <span class="academic-tag" data-track="ai">Power BI Copilot</span>
+            <span class="academic-tag" data-track="ai">Gemini for Workspace</span>
+            <span class="academic-tag" data-track="ai">NotebookLM (Google)</span>
+            <span class="academic-tag" data-track="ai">Descript AI (Overdub)</span>
+            <span class="academic-tag" data-track="ai">Perplexity AI</span>
+            <span class="academic-tag" data-track="ai">Predis.ai</span>
+            <span class="academic-tag" data-track="ai">Opus Clip</span>
+            <span class="academic-tag" data-track="ai">Adobe Firefly</span>
+            <span class="academic-tag" data-track="ai">Otter.ai</span>
+            <span class="academic-tag" data-track="ai">Zapier AI</span>
+            <span class="academic-tag" data-track="ai">Tableau Ask Data / Pulse AI</span>
+            <span class="academic-tag" data-track="ai">Shopify Magic AI</span>
+            <span class="academic-tag" data-track="ai">Tidio Lyro AI</span>
+            <span class="academic-tag" data-track="ai">Google Vertex AI (demo)</span>
+            <span class="academic-tag" data-track="ai">Adzooma (PPC AI audit)</span>
+            <span class="academic-tag" data-track="ai">GitHub Copilot</span>
+        </div>
         </div>
     </div>
 </section>
@@ -681,92 +684,104 @@
     <div class="container">
         <div class="section-label">AI Readiness — Session by Session</div>
         <h2 class="section-heading">AI isn't an optional extra.<br/>It's in every session. Always live. Always on your laptop.</h2>
-        <p class="text-muted mb-4">Every certification and Bootcamp Lab includes a dedicated AI task — a real skill you practise during the session, not a presentation you watch. These are the AI skills appearing in 2025–26 job descriptions across analytics, marketing, and management roles.</p>
+        <p class="mb-4"><b>Every certification and Bootcamp Lab includes a dedicated AI task — a real skill you practise during the session, not a presentation you watch. These are the AI skills appearing in 2025–26 job descriptions across analytics, marketing, and management roles.</b></p>
 
         <!-- BA Sessions -->
-        <h5 class="fw-bold mb-3 text-orange">Business Analytics Track</h5>
-
-        <div class="bc-ai-row">
-            <span class="bc-ai-cert">CPEA &mdash; Excel</span>
-            <div class="bc-ai-headline">Microsoft Copilot + ChatGPT for formulas, summaries, charts</div>
-            <div class="bc-ai-tools"><strong>Tools used:</strong> Microsoft Copilot (Excel), ChatGPT</div>
-        </div>
-        <div class="bc-ai-row">
-            <span class="bc-ai-cert">CPDA &mdash; SQL + Power BI</span>
-            <div class="bc-ai-headline">ChatGPT for SQL auto-generation, Power BI Copilot for DAX measures</div>
-            <div class="bc-ai-tools"><strong>Tools used:</strong> ChatGPT, Power BI Copilot</div>
-        </div>
-        <div class="bc-ai-row">
-            <span class="bc-ai-cert">CPDSA &mdash; Python + SAS</span>
-            <div class="bc-ai-headline">Julius AI for CSV dataset analysis, ChatGPT to generate and debug Pandas code</div>
-            <div class="bc-ai-tools"><strong>Tools used:</strong> Julius AI, ChatGPT</div>
-        </div>
-        <div class="bc-ai-row">
-            <span class="bc-ai-cert">CPQBA &mdash; R + Tableau</span>
-            <div class="bc-ai-headline">ChatGPT generates R regression and ARIMA code, Tableau Ask Data + Pulse AI for visual intelligence</div>
-            <div class="bc-ai-tools"><strong>Tools used:</strong> ChatGPT, Tableau Ask Data, Tableau Pulse AI</div>
+        <div class="cs-bg-wrap mb-4">
+            <h3 class="cs-heading">Business Analytics Track</h3>
+            <div class="cs-grid">
+                <div class="cs-block"><div class="flex-fill">
+                    <div class="bc-ai-cert">CPEA &mdash; Excel</div>
+                    <div class="bc-ai-headline">Microsoft Copilot + ChatGPT for formulas, summaries, charts</div>
+                    <div class="bc-ai-tools"><strong>Tools used:</strong> Microsoft Copilot (Excel), ChatGPT</div>
+                </div></div>
+                <div class="cs-block"><div class="flex-fill">
+                    <div class="bc-ai-cert">CPDA &mdash; SQL + Power BI</div>
+                    <div class="bc-ai-headline">ChatGPT for SQL auto-generation, Power BI Copilot for DAX measures</div>
+                    <div class="bc-ai-tools"><strong>Tools used:</strong> ChatGPT, Power BI Copilot</div>
+                </div></div>
+                <div class="cs-block"><div class="flex-fill">
+                    <div class="bc-ai-cert">CPDSA &mdash; Python + SAS</div>
+                    <div class="bc-ai-headline">Julius AI for CSV dataset analysis, ChatGPT to generate and debug Pandas code</div>
+                    <div class="bc-ai-tools"><strong>Tools used:</strong> Julius AI, ChatGPT</div>
+                </div></div>
+                <div class="cs-block"><div class="flex-fill">
+                    <div class="bc-ai-cert">CPQBA &mdash; R + Tableau</div>
+                    <div class="bc-ai-headline">ChatGPT generates R regression and ARIMA code, Tableau Ask Data + Pulse AI for visual intelligence</div>
+                    <div class="bc-ai-tools"><strong>Tools used:</strong> ChatGPT, Tableau Ask Data, Tableau Pulse AI</div>
+                </div></div>
+            </div>
         </div>
 
         <!-- DM Sessions -->
-        <h5 class="fw-bold mb-3 mt-4 text-orange">Digital Marketing Track — CDME Sessions</h5>
-
-        <div class="bc-ai-row">
-            <span class="bc-ai-cert">CDME &mdash; SEO Session</span>
-            <div class="bc-ai-headline">ChatGPT writes meta tags and FAQ schema 10&times; faster than manual &mdash; demonstrated live</div>
-            <div class="bc-ai-tools"><strong>Tools used:</strong> ChatGPT, SEOwind AI, Bing AI Webmaster</div>
-        </div>
-        <div class="bc-ai-row">
-            <span class="bc-ai-cert">CDME &mdash; Google Ads Session</span>
-            <div class="bc-ai-headline">15 ad headlines + 4 descriptions generated in under 2 minutes, evaluated live</div>
-            <div class="bc-ai-tools"><strong>Tools used:</strong> ChatGPT, Google Ads AI, Adzooma</div>
-        </div>
-        <div class="bc-ai-row">
-            <span class="bc-ai-cert">CDME &mdash; Email Marketing Session</span>
-            <div class="bc-ai-headline">Complete 5-email B2B nurture sequence built live in class</div>
-            <div class="bc-ai-tools"><strong>Tools used:</strong> ChatGPT / Claude, Brevo AI, Phrasee</div>
-        </div>
-        <div class="bc-ai-row">
-            <span class="bc-ai-cert">CDME &mdash; CRO &amp; E-commerce Session</span>
-            <div class="bc-ai-headline">Landing page copy in 3 minutes, Shopify Magic for product descriptions, MS Clarity AI heatmap analysis</div>
-            <div class="bc-ai-tools"><strong>Tools used:</strong> ChatGPT, Shopify Magic, MS Clarity AI</div>
+        <div class="cs-bg-wrap mb-4">
+            <h3 class="cs-heading">Digital Marketing Track — CDME Sessions</h3>
+            <div class="cs-grid">
+                <div class="cs-block"><div class="flex-fill">
+                    <div class="bc-ai-cert">CDME &mdash; SEO Session</div>
+                    <div class="bc-ai-headline">ChatGPT writes meta tags and FAQ schema 10&times; faster than manual &mdash; demonstrated live</div>
+                    <div class="bc-ai-tools"><strong>Tools used:</strong> ChatGPT, SEOwind AI, Bing AI Webmaster</div>
+                </div></div>
+                <div class="cs-block"><div class="flex-fill">
+                    <div class="bc-ai-cert">CDME &mdash; Google Ads Session</div>
+                    <div class="bc-ai-headline">15 ad headlines + 4 descriptions generated in under 2 minutes, evaluated live</div>
+                    <div class="bc-ai-tools"><strong>Tools used:</strong> ChatGPT, Google Ads AI, Adzooma</div>
+                </div></div>
+                <div class="cs-block"><div class="flex-fill">
+                    <div class="bc-ai-cert">CDME &mdash; Email Marketing Session</div>
+                    <div class="bc-ai-headline">Complete 5-email B2B nurture sequence built live in class</div>
+                    <div class="bc-ai-tools"><strong>Tools used:</strong> ChatGPT / Claude, Brevo AI, Phrasee</div>
+                </div></div>
+                <div class="cs-block"><div class="flex-fill">
+                    <div class="bc-ai-cert">CDME &mdash; CRO &amp; E-commerce Session</div>
+                    <div class="bc-ai-headline">Landing page copy in 3 minutes, Shopify Magic for product descriptions, MS Clarity AI heatmap analysis</div>
+                    <div class="bc-ai-tools"><strong>Tools used:</strong> ChatGPT, Shopify Magic, MS Clarity AI</div>
+                </div></div>
+            </div>
         </div>
 
         <!-- CDMA Sessions -->
-        <h5 class="fw-bold mb-3 mt-4 text-orange">Digital Marketing Track — CDMA Sessions</h5>
-
-        <div class="bc-ai-row">
-            <span class="bc-ai-cert">CDMA &mdash; Automation Session</span>
-            <div class="bc-ai-headline">Zapier AI builds a full automation workflow from plain English instructions &mdash; live</div>
-            <div class="bc-ai-tools"><strong>Tools used:</strong> Zapier AI, Make AI Assistant, ChatGPT</div>
-        </div>
-        <div class="bc-ai-row">
-            <span class="bc-ai-cert">CDMA &mdash; Chatbots Session</span>
-            <div class="bc-ai-headline">Tidio Lyro AI deployed with zero training, WhatsApp chatbot built live in class</div>
-            <div class="bc-ai-tools"><strong>Tools used:</strong> Tidio Lyro AI, ManyChat AI Step, ChatGPT</div>
-        </div>
-        <div class="bc-ai-row">
-            <span class="bc-ai-cert">CDMA &mdash; Content at Scale Session</span>
-            <div class="bc-ai-headline">One idea repurposed into 6 formats in under 10 minutes</div>
-            <div class="bc-ai-tools"><strong>Tools used:</strong> Descript AI, Otter.ai, ChatGPT / Claude</div>
+        <div class="cs-bg-wrap mb-4">
+            <h3 class="cs-heading">Digital Marketing Track — CDMA Sessions</h3>
+            <div class="cs-grid">
+                <div class="cs-block"><div class="flex-fill">
+                    <div class="bc-ai-cert">CDMA &mdash; Automation Session</div>
+                    <div class="bc-ai-headline">Zapier AI builds a full automation workflow from plain English instructions &mdash; live</div>
+                    <div class="bc-ai-tools"><strong>Tools used:</strong> Zapier AI, Make AI Assistant, ChatGPT</div>
+                </div></div>
+                <div class="cs-block"><div class="flex-fill">
+                    <div class="bc-ai-cert">CDMA &mdash; Chatbots Session</div>
+                    <div class="bc-ai-headline">Tidio Lyro AI deployed with zero training, WhatsApp chatbot built live in class</div>
+                    <div class="bc-ai-tools"><strong>Tools used:</strong> Tidio Lyro AI, ManyChat AI Step, ChatGPT</div>
+                </div></div>
+                <div class="cs-block"><div class="flex-fill">
+                    <div class="bc-ai-cert">CDMA &mdash; Content at Scale Session</div>
+                    <div class="bc-ai-headline">One idea repurposed into 6 formats in under 10 minutes</div>
+                    <div class="bc-ai-tools"><strong>Tools used:</strong> Descript AI, Otter.ai, ChatGPT / Claude</div>
+                </div></div>
+            </div>
         </div>
 
         <!-- Labs -->
-        <h5 class="fw-bold mb-3 mt-4 text-orange">Bootcamp Labs</h5>
-
-        <div class="bc-ai-row">
-            <span class="bc-ai-cert">B1 Labs &mdash; Marketing Analytics</span>
-            <div class="bc-ai-headline">Export GA4 data to CSV &rarr; Julius AI analysis &rarr; Gemini for Workspace executive summary</div>
-            <div class="bc-ai-tools"><strong>Tools used:</strong> Julius AI, Gemini for Workspace, Vertex AI (demo)</div>
-        </div>
-        <div class="bc-ai-row">
-            <span class="bc-ai-cert">B2 Labs &mdash; Social &amp; Content</span>
-            <div class="bc-ai-headline">Adobe Firefly for branded visuals, Predis.ai for captions, Opus Clip for Reels &mdash; in one session</div>
-            <div class="bc-ai-tools"><strong>Tools used:</strong> Adobe Firefly, Predis.ai, Opus Clip, Canva AI</div>
-        </div>
-        <div class="bc-ai-row">
-            <span class="bc-ai-cert">B3 Labs &mdash; Social Intelligence</span>
-            <div class="bc-ai-headline">Perplexity AI for trends, NotebookLM for brand intel, ChatGPT for sentiment analysis &mdash; all in under 15 minutes</div>
-            <div class="bc-ai-tools"><strong>Tools used:</strong> Perplexity AI, NotebookLM, ChatGPT / Claude</div>
+        <div class="cs-bg-wrap">
+            <h3 class="cs-heading">Bootcamp Labs</h3>
+            <div class="cs-grid">
+                <div class="cs-block"><div class="flex-fill">
+                    <div class="bc-ai-cert">B1 Labs &mdash; Marketing Analytics</div>
+                    <div class="bc-ai-headline">Export GA4 data to CSV &rarr; Julius AI analysis &rarr; Gemini for Workspace executive summary</div>
+                    <div class="bc-ai-tools"><strong>Tools used:</strong> Julius AI, Gemini for Workspace, Vertex AI (demo)</div>
+                </div></div>
+                <div class="cs-block"><div class="flex-fill">
+                    <div class="bc-ai-cert">B2 Labs &mdash; Social &amp; Content</div>
+                    <div class="bc-ai-headline">Adobe Firefly for branded visuals, Predis.ai for captions, Opus Clip for Reels &mdash; in one session</div>
+                    <div class="bc-ai-tools"><strong>Tools used:</strong> Adobe Firefly, Predis.ai, Opus Clip, Canva AI</div>
+                </div></div>
+                <div class="cs-block"><div class="flex-fill">
+                    <div class="bc-ai-cert">B3 Labs &mdash; Social Intelligence</div>
+                    <div class="bc-ai-headline">Perplexity AI for trends, NotebookLM for brand intel, ChatGPT for sentiment analysis &mdash; all in under 15 minutes</div>
+                    <div class="bc-ai-tools"><strong>Tools used:</strong> Perplexity AI, NotebookLM, ChatGPT / Claude</div>
+                </div></div>
+            </div>
         </div>
 
     </div>
@@ -775,11 +790,11 @@
 <!-- ═══════════════════════════════════════════════
    CAREER OUTCOMES
 ════════════════════════════════════════════════ -->
-<section class="about-section" id="career" style="background:var(--bc-paper)">
+<section class="about-section pb-0" id="career">
     <div class="container">
         <div class="section-label">Career Outcomes</div>
         <h2 class="section-heading">Every tool we teach maps to a job description.</h2>
-        <p class="text-muted mb-4">Tools in each certification are chosen because they appear in real industry job descriptions. This is what you'll be able to demonstrate in your next interview — backed by your MITSDE certification.</p>
+        <p class="mb-4"><b>Tools in each certification are chosen because they appear in real industry job descriptions. This is what you'll be able to demonstrate in your next interview — backed by your MITSDE certification.</b></p>
 
         <div class="row g-4">
             <div class="col-lg-6">
@@ -880,7 +895,7 @@
     <div class="container">
         <div class="section-label">Faculty Bytes</div>
         <h2 class="section-heading">Straight from the people teaching you.</h2>
-        <p class="text-muted mb-4">Our SMEs don't just teach these tools — they use them professionally every day. Here's what they want you to know before you walk into your first session.</p>
+        <p class="mb-4"><b>Our SMEs don't just teach these tools — they use them professionally every day. Here's what they want you to know before you walk into your first session.</b></p>
 
         <div class="row g-4">
             <div class="col-md-6">
@@ -962,11 +977,11 @@
 <!-- ═══════════════════════════════════════════════
    STUDENT STORIES
 ════════════════════════════════════════════════ -->
-<section class="about-section" id="stories" style="background:var(--bc-paper)">
+<section class="about-section" id="stories">
     <div class="container">
         <div class="section-label">Student Stories</div>
         <h2 class="section-heading">What our students say.</h2>
-        <p class="text-muted mb-4">Real feedback from MITSDE students who completed Bootcamp certifications alongside their PG programmes.</p>
+        <p class="mb-4"><b>Real feedback from MITSDE students who completed Bootcamp certifications alongside their PG programmes.</b></p>
 
         <div class="row g-4">
             <div class="col-md-6">
@@ -1084,7 +1099,7 @@
     <div class="container">
         <div class="section-label">Industry Experts</div>
         <h2 class="section-heading">Taught by practitioners, not just academics.</h2>
-        <p class="text-muted mb-4">Every session is delivered by a working industry professional who uses these tools in their current role — with live industry exposure they bring directly into the classroom.</p>
+        <p class="mb-4"><b>Every session is delivered by a working industry professional who uses these tools in their current role — with live industry exposure they bring directly into the classroom.</b></p>
 
         <div class="row g-4 justify-content-center">
             <div class="col-6 col-md-4 col-lg-2 text-center">
@@ -1136,11 +1151,11 @@
 <!-- ═══════════════════════════════════════════════
    SCHEDULE
 ════════════════════════════════════════════════ -->
-<section class="about-section" id="schedule" style="background:var(--bc-paper)">
+<section class="about-section" id="schedule">
     <div class="container">
         <div class="section-label">Certification Schedule — 2026 / 2027</div>
         <h2 class="section-heading">Real dates. Real batches. No guessing.</h2>
-        <p class="text-muted mb-4">All sessions run on Saturdays and Sundays. Participants use their own laptops. All certifications are included in your MITSDE programme fee — no additional charges.</p>
+        <p class="mb-4"><b>All sessions run on Saturdays and Sundays. Participants use their own laptops. All certifications are included in your MITSDE programme fee — no additional charges.</b></p>
 
         <div class="tbl-wrap">
             <table class="tbl">
@@ -1241,7 +1256,7 @@
     <div class="container">
         <div class="section-label">Why MITSDE</div>
         <h2 class="section-heading">Discover the MITSDE Bootcamp edge.</h2>
-        <p class="text-muted mb-4">How MITSDE Bootcamp stacks up for working professionals who want proof of skill, not just certificates of completion.</p>
+        <p class="mb-4"><b>How MITSDE Bootcamp stacks up for working professionals who want proof of skill, not just certificates of completion.</b></p>
 
         <div class="tbl-wrap">
             <table class="tbl">
@@ -1344,6 +1359,33 @@
 </section>
 
 <!-- ═══════════════════════════════════════════════
+   TEMP — Sample Certifications v2 (coverflow experiment)
+   Compare against #certificate above; once approved, delete the
+   old #certificate section and rename this one to id="certificate".
+════════════════════════════════════════════════ -->
+<section class="about-section" id="certificate-v2">
+    <div class="container">
+        <h2 class="section-heading">Sample Certifications <small class="text-muted" style="font-size:0.9rem;">(v2 — temp)</small></h2>
+
+        <div class="cert2-wrap">
+            <div class="swiper cert2-swiper">
+                <div class="swiper-wrapper">
+                    <?php for ($i = 1; $i <= 6; $i++): ?>
+                    <div class="swiper-slide cert2-slide">
+                        <div class="cert2-card">
+                            <img src="assets-new/images/certificate/bootcamp-certificate.webp" alt="Certificate <?php echo $i; ?>" />
+                        </div>
+                    </div>
+                    <?php endfor; ?>
+                </div>
+            </div>
+            <button class="dms-swiper-prev cert2-prev" aria-label="Previous"><i class="fa-solid fa-chevron-left"></i></button>
+            <button class="dms-swiper-next cert2-next" aria-label="Next"><i class="fa-solid fa-chevron-right"></i></button>
+        </div>
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════
    FAQ
 ════════════════════════════════════════════════ -->
 <!-- <section class="about-section accordian-section" style="background:var(--bc-paper)">
@@ -1386,18 +1428,13 @@
 <!-- ═══════════════════════════════════════════════
    CTA STRIP
 ════════════════════════════════════════════════ -->
-<div class="bc-cta">
+<section class="about-section text-center">
     <div class="container">
-        <h2>The next batch starts July 2026. Your certification is waiting.</h2>
-        <p>Join working professionals from across India who are adding AI-powered industry certifications to their MITSDE programme &mdash; at zero extra cost &mdash; and walking into interviews with proof, not just a degree.</p>
-        <!-- <button type="button" class="btn btn-light btn-lg rounded-pill px-5"
-            data-bs-toggle="modal" data-bs-target="#downloadModal">Apply Now &rarr; Secure Your Seat</button> -->
-        <div class="cta-strip-links">
-            <a href="assets-new/images/bootcamp/MITSDE_Bootcamp_Certification_Schedule.pdf" target="_blank">Download full bootcamp schedule PDF →</a>
-            <!-- <a href="#">View sample certificate →</a> -->
-        </div>
+        <h2 class="fw-bold" style="font-size:clamp(22px,3vw,36px);">The next batch starts July 2026. Your certification is waiting.</h2>
+        <p class="mb-4" style="max-width: 1000px; margin-left: auto; margin-right: auto;">Join working professionals from across India who are adding AI-powered industry certifications to their MITSDE programme at zero extra cost and walking into interviews with proof, not just a degree.</p>
+        <a href="assets-new/images/bootcamp/MITSDE_Bootcamp_Certification_Schedule.pdf" target="_blank" class="btn btn-outline-dark rounded-pill px-4 py-1" style="font-size: 0.9rem;">Download full bootcamp schedule PDF &rarr;</a>
     </div>
-</div>
+</section>
 
 </div><!-- /.bc-page -->
 
@@ -1409,8 +1446,8 @@
 <script>
 /* Tools filter */
 (function () {
-    const btns = document.querySelectorAll('.bc-filter-btn');
-    const chips = document.querySelectorAll('#bcToolsCloud .bc-chip');
+    const btns = document.querySelectorAll('#toolsFilterBar .bc-filter-btn');
+    const chips = document.querySelectorAll('#bcToolsCloud .academic-tag');
     btns.forEach(function (btn) {
         btn.addEventListener('click', function () {
             btns.forEach(function (b) { b.classList.remove('active'); });
@@ -1425,12 +1462,12 @@
 
 /* Scrollspy for anchor nav */
 (function () {
-    const links = document.querySelectorAll('.bc-anchor-nav .nav-link');
+    const pills = document.querySelectorAll('.ph-specs-wrap .ph-spec-pill');
     const sections = [];
-    links.forEach(function (l) {
-        const id = l.getAttribute('href').replace('#', '');
+    pills.forEach(function (p) {
+        const id = p.closest('a').getAttribute('href').replace('#', '');
         const el = document.getElementById(id);
-        if (el) sections.push({ el: el, link: l });
+        if (el) sections.push({ el: el, pill: p });
     });
     function onScroll() {
         const scrollY = window.scrollY + 140;
@@ -1438,8 +1475,8 @@
         sections.forEach(function (s) {
             if (scrollY >= s.el.offsetTop) current = s;
         });
-        links.forEach(function (l) { l.classList.remove('active'); });
-        if (current) current.link.classList.add('active');
+        pills.forEach(function (p) { p.classList.remove('is-active'); });
+        if (current) current.pill.classList.add('is-active');
     }
     window.addEventListener('scroll', onScroll, { passive: true });
     onScroll();
@@ -1465,6 +1502,18 @@ document.querySelectorAll('.faq-q').forEach(function (q) {
                 576: { slidesPerView: 2.2 },
                 992: { slidesPerView: 3 }
             }
+        });
+
+// TEMP — Sample Certifications v2 (3-card peek)
+        new Swiper('.cert2-swiper', {
+            centeredSlides: true,
+            slidesPerView: 'auto',
+            spaceBetween: -80,
+            loop: true,
+            loopedSlides: 8,
+            watchSlidesProgress: true,
+            speed: 400,
+            navigation: { nextEl: '.cert2-next', prevEl: '.cert2-prev' }
         });
 
 </script>
