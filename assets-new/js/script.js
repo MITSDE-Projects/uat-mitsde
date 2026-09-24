@@ -75,6 +75,47 @@ $(".country-code").intlTelInput({
   });
 })();
 
+// Sticky pill nav — scrollspy. Highlights the pill matching the section
+// currently in view, and keeps it scrolled into view within the pill strip
+// itself (not just the page) when it changes on scroll. No-ops entirely on
+// pages without a .ph-specs-wrap, so it costs nothing there.
+(function () {
+  var wraps = document.querySelectorAll('.ph-specs-wrap');
+  if (!wraps.length) return;
+
+  wraps.forEach(function (wrap) {
+    var pills = wrap.querySelectorAll('.ph-spec-pill');
+    var sections = [];
+    pills.forEach(function (p) {
+      var a = p.closest('a');
+      var id = a && (a.getAttribute('href') || '').replace('#', '');
+      var el = id && document.getElementById(id);
+      if (el) sections.push({ el: el, pill: p });
+    });
+    if (!sections.length) return;
+
+    var activePill = null;
+    function onScroll() {
+      var scrollY = window.scrollY + 140;
+      var current = sections[0];
+      sections.forEach(function (s) {
+        if (scrollY >= s.el.offsetTop) current = s;
+      });
+      pills.forEach(function (p) { p.classList.remove('is-active'); });
+      current.pill.classList.add('is-active');
+      if (current.pill !== activePill) {
+        activePill = current.pill;
+        // Bring the newly-active pill into view within the horizontally
+        // scrollable pill strip — only on real change, so this doesn't
+        // fight the user's own manual swiping of the pills.
+        activePill.scrollIntoView({ behavior: 'smooth', inline: 'center', block: 'nearest' });
+      }
+    }
+    window.addEventListener('scroll', onScroll, { passive: true });
+    onScroll();
+  });
+})();
+
 // Scroll-reveal
 (function () {
   var observer = new IntersectionObserver(function (entries) {

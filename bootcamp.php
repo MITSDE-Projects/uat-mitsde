@@ -99,8 +99,13 @@
 
     section[id] { scroll-margin-top: 110px; }
 
-    /* TEMP — Sample Certifications v2 (3-card peek), self-contained, no shared classes touched */
-    #certificate-v2 { background: linear-gradient(180deg, #ffffff 60%, #f8ded0 100%); }
+    /* Hero badges — center as a group on mobile (matches .ph-left's own 480px centering breakpoint) */
+    @media (max-width: 480px) {
+        .bc-hero-badges { justify-content: center; }
+    }
+
+    /* Sample Certifications — 3-card peek carousel */
+    #certificate { background: linear-gradient(180deg, #ffffff 60%, #f8ded0 100%); }
     .cert2-wrap { position: relative; padding: 1rem 0 3rem; }
     .cert2-swiper { padding: 2rem 0; overflow: hidden; }
     /* .cert2-slide (the actual Swiper slide) keeps the SAME fixed width/height always, and its
@@ -166,7 +171,7 @@
         <div class="ph-layout py-5">
 
             <div class="ph-left">
-                <div class="d-flex gap-2 flex-wrap mb-3">
+                <div class="d-flex gap-2 flex-wrap mb-3 bc-hero-badges">
                     <span style="display:inline-block;background: #9a3412;color: #fff;font-size:12px;font-weight:600;padding:5px 12px;border-radius:999px;">&#9733; Included in your MITSDE programme</span>
                     <span style="display:inline-block;background: #9a3412;color: #fff;font-size:12px;font-weight:600;padding:5px 12px;border-radius:999px;">&#10022; 100% Free &mdash; part of your fee</span>
                 </div>
@@ -1335,37 +1340,9 @@
     </div>
 </section>
 
-<!-- Additional certifications — Swiper carousel -->
-<section class="dms-cert-carousel-section" id="certificate">
+<!-- Sample Certifications — 3-card peek Swiper carousel -->
+<section class="about-section" id="certificate">
     <div class="container">
-        <h2 class="section-heading">Sample Certifications</h2>
-
-        <div class="swiper dms-cert-swiper">
-            <div class="swiper-wrapper">
-                <?php for ($i = 1; $i <= 6; $i++): ?>
-                <div class="swiper-slide">
-                    <div class="dms-cert-card">
-                        <img src="assets-new/images/bootcamp/certificates/certificate<?php echo $i; ?>.webp" alt="Certificate <?php echo $i; ?>" />
-                    </div>
-                </div>
-                <?php endfor; ?>
-            </div>
-        </div>
-        <div class="dms-swiper-nav">
-            <button class="dms-swiper-prev dms-cert-prev" aria-label="Previous"><i class="fa-solid fa-chevron-left"></i></button>
-            <button class="dms-swiper-next dms-cert-next" aria-label="Next"><i class="fa-solid fa-chevron-right"></i></button>
-        </div>
-    </div>
-</section>
-
-<!-- ═══════════════════════════════════════════════
-   TEMP — Sample Certifications v2 (coverflow experiment)
-   Compare against #certificate above; once approved, delete the
-   old #certificate section and rename this one to id="certificate".
-════════════════════════════════════════════════ -->
-<section class="about-section" id="certificate-v2">
-    <div class="container">
-        <h2 class="section-heading">Sample Certifications <small class="text-muted" style="font-size:0.9rem;">(v2 — temp)</small></h2>
 
         <div class="cert2-wrap">
             <div class="swiper cert2-swiper">
@@ -1460,28 +1437,6 @@
     });
 })();
 
-/* Scrollspy for anchor nav */
-(function () {
-    const pills = document.querySelectorAll('.ph-specs-wrap .ph-spec-pill');
-    const sections = [];
-    pills.forEach(function (p) {
-        const id = p.closest('a').getAttribute('href').replace('#', '');
-        const el = document.getElementById(id);
-        if (el) sections.push({ el: el, pill: p });
-    });
-    function onScroll() {
-        const scrollY = window.scrollY + 140;
-        let current = sections[0];
-        sections.forEach(function (s) {
-            if (scrollY >= s.el.offsetTop) current = s;
-        });
-        pills.forEach(function (p) { p.classList.remove('is-active'); });
-        if (current) current.pill.classList.add('is-active');
-    }
-    window.addEventListener('scroll', onScroll, { passive: true });
-    onScroll();
-})();
-
 /* FAQ accordion */
 document.querySelectorAll('.faq-q').forEach(function (q) {
     q.addEventListener('click', function () {
@@ -1492,19 +1447,7 @@ document.querySelectorAll('.faq-q').forEach(function (q) {
     });
 });
 
-// Additional certifications carousel
-        new Swiper('.dms-cert-swiper', {
-            slidesPerView: 1.2,
-            spaceBetween: 16,
-            navigation: { nextEl: '.dms-cert-next', prevEl: '.dms-cert-prev' },
-            breakpoints: {
-                0: { slidesPerView: 1.2 },
-                576: { slidesPerView: 2.2 },
-                992: { slidesPerView: 3 }
-            }
-        });
-
-// TEMP — Sample Certifications v2 (3-card peek)
+// Sample Certifications carousel
         new Swiper('.cert2-swiper', {
             centeredSlides: true,
             slidesPerView: 'auto',

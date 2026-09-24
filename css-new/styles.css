@@ -1150,6 +1150,21 @@ section[id]{scroll-margin-top:100px;}
     justify-content: center;
 }
 
+/* Sticky pill groups only (e.g. bootcamp.php's anchor nav) — too many pills to
+   fit one row, and can't wrap since the row is sticky; scroll horizontally
+   instead. Plain (non-sticky) .ph-specs-wrap groups keep wrapping as before. */
+.ph-specs-wrap.sticky-pills .ph-specs {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    /* Plain fallback for browsers without `safe`, then the safe-aligned version:
+       centers when everything fits, but falls back to start-alignment on overflow
+       so the first pill is never scrolled out of reach at the initial scroll position. */
+    justify-content: center;
+    justify-content: safe center;
+    scrollbar-width: none;
+}
+.ph-specs-wrap.sticky-pills .ph-specs::-webkit-scrollbar { display: none; }
+
 .ph-spec-pill {
     padding: 0.4rem 1.1rem;
     border-radius: 25px;
@@ -1159,6 +1174,7 @@ section[id]{scroll-margin-top:100px;}
     font-size: 0.82rem;
     font-weight: 500;
     cursor: pointer;
+    white-space: nowrap;
     transition: background 0.2s, color 0.2s, border-color 0.2s;
     font-family: 'SF Pro Display', sans-serif;
 }
