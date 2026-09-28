@@ -74,7 +74,7 @@ $pagename = (isset($_SERVER['HTTPS']) ? 'https' : 'http') . "://$_SERVER[HTTP_HO
     <title>Thank You | MIT School of Distance Education</title>
     <meta name="robots" content="noindex, nofollow">
     <link rel="icon" type="image/png" href="assets-new/images/favicon-mit.ico">
-    <link rel="stylesheet" href="css-new/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="css-new/styles.css">
     <link rel="stylesheet" href="css-new/fonts.css">
 <?php include "5-common-seo-tag-1.php" ?>

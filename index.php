@@ -4,41 +4,40 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>MIT School of Distance Education</title>
-<meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Distance Learning & Online Education | PGDM & MBA Courses at MITSDE</title>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Distance Learning & Online Education | PGDM & MBA Courses at MITSDE</title>
 
 
-    <meta name="description"
-        content="MIT School of Distance Education, an AICTE approved distance learning institution providing PGDM courses it is equivalent to online MBA courses." />
-    <meta name="keywords"
-        content="mitsde, distance learning mba, online learning mba, distance learning center, online mba courses, online mba programs, online learning, Distance Education, online education , distance learning courses, PGDM Courses, MBA Programs, MBA colleges, online colleges, online school, online mba programs, best online colleges, online college courses, MIT School of Distance Education " />
+  <meta name="description"
+      content="MIT School of Distance Education, an AICTE approved distance learning institution providing PGDM courses it is equivalent to online MBA courses." />
+  <meta name="keywords"
+      content="mitsde, distance learning mba, online learning mba, distance learning center, online mba courses, online mba programs, online learning, Distance Education, online education , distance learning courses, PGDM Courses, MBA Programs, MBA colleges, online colleges, online school, online mba programs, best online colleges, online college courses, MIT School of Distance Education " />
 
-        <!-- CANONICAL TAG -->
+      <!-- CANONICAL TAG -->
 
-    <link rel="canonical" href="https://mitsde.com" />
+  <link rel="canonical" href="https://mitsde.com" />
 
-    <!-- CANONICAL TAG -->
+  <!-- CANONICAL TAG -->
 
-    <!--  Linked and Facebook OG Tag -->
-    <meta property="og:title" content="Distance Learning Courses | Distance MBA Colleges | Online MBA Courses | MITSDE">
-    <meta property="og:site_name" content="MIT School of Distance Education">
-    <meta property="og:url" content="https://mitsde.com/">
-    <meta property="og:description"
-        content="MIT School of Distance Education, an AICTE approved distance learning institution providing PG courses it is equivalent to online MBA courses.">
-    <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/assets-new/images/logo_mitsde.png">
-    <!-- / OG TAG -->
+  <!--  Linked and Facebook OG Tag -->
+  <meta property="og:title" content="Distance Learning Courses | Distance MBA Colleges | Online MBA Courses | MITSDE">
+  <meta property="og:site_name" content="MIT School of Distance Education">
+  <meta property="og:url" content="https://mitsde.com/">
+  <meta property="og:description"
+      content="MIT School of Distance Education, an AICTE approved distance learning institution providing PG courses it is equivalent to online MBA courses.">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="https://mitsde.com/assets-new/images/logo_mitsde.png">
+  <!-- / OG TAG -->
 
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:site" content="@MITSDE1" />
-    <meta name="twitter:title" content="Distance Learning & Online Education | PGDM & MBA Courses at MITSDE" />
-    <meta name="twitter:description"
-        content="MIT School of Distance Education, an AICTE approved distance learning institution providing PGDM courses it is equivalent to online MBA courses" />
-    <meta name="twitter:image"
-        content="https://mitsde.com/assets-new/images/logo_mitsde.png" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@MITSDE1" />
+  <meta name="twitter:title" content="Distance Learning & Online Education | PGDM & MBA Courses at MITSDE" />
+  <meta name="twitter:description"
+      content="MIT School of Distance Education, an AICTE approved distance learning institution providing PGDM courses it is equivalent to online MBA courses" />
+  <meta name="twitter:image"
+      content="https://mitsde.com/assets-new/images/logo_mitsde.png" />
 
   <link rel="icon" type="image/png" href="assets-new/images/favicon-mit.ico" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" />
