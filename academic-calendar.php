@@ -65,6 +65,254 @@
 
         <div class="container">
 
+            <!-- October to December -->
+            <div class="tbl-wrap">
+                <table class="tbl">
+                    <thead>
+                        <tr>
+                            <th colspan="7" class="tbl-accent">
+                                <strong>Academic Calendar : October to December 2026</strong>
+                            </th>
+                        </tr>
+                        <tr>
+                            <th class="tbl-label">Month</th>
+                            <th>Cohort live sessions</th>
+                            <th>MIT Office of Career Services</th>
+                            <th>MITSDE LABS</th>
+                            <th>MITSDE Bootcamp</th>
+                            <th>E-Induction / LMS Orientation Session</th>
+                            <th>MITSDE SynergySphere</th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+
+                        <!-- October -->
+                        <tr>
+                            <td class="tbl-label tbl-accent bg-light" rowspan="7">October</td>
+                            <td>C14 Batch: 07th to 09th October</td>
+                            <td>01st to 04th October</td>
+                            <td>03rd October</td>
+                            <td>11th October</td>
+                            <td>10th October</td>
+                            <td>10th October</td>
+                        </tr>
+
+                        <tr>
+                            <td>C14 Batch: 14th to 16th October</td>
+                            <td>05th to 11th October</td>
+                            <td>04th October</td>
+                            <td>18th October</td>
+                            <td>-</td>
+                            <td>24th October</td>
+                        </tr>
+
+                        <tr>
+                            <td>C16 Batch: 15th and 16th October</td>
+                            <td>12th to 18th October</td>
+                            <td>11th October</td>
+                            <td>25th October</td>
+                            <td>-</td>
+                            <td>-</td>
+                        </tr>
+
+                        <tr>
+                            <td>C14 Batch: 21st to 23rd October</td>
+                            <td>19th to 25th October</td>
+                            <td>17th October</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                        </tr>
+
+                        <tr>
+                            <td>C16 Batch: 22nd and 23rd October</td>
+                            <td>26th to 31st October</td>
+                            <td>25th October</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                        </tr>
+
+                        <tr>
+                            <td>C14 Batch: 28th to 30th October</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                        </tr>
+
+                        <tr>
+                            <td>C16 Batch: 29th and 30th October</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                        </tr>
+
+
+                        <!-- November -->
+                        <tr>
+                            <td class="tbl-label tbl-accent bg-light" rowspan="6">November</td>
+                            <td>C14 Batch: 04th and 05th November</td>
+                            <td>01st to 05th November</td>
+                            <td>21st November</td>
+                            <td>01st November</td>
+                            <td>20th November</td>
+                            <td>28th November</td>
+                        </tr>
+
+                        <tr>
+                            <td>C16 Batch: 05th November</td>
+                            <td>15th to 22nd November</td>
+                            <td>-</td>
+                            <td>21st November</td>
+                            <td>-</td>
+                            <td>-</td>
+                        </tr>
+
+                        <tr>
+                            <td>C14 Batch: 18th to 20th November</td>
+                            <td>23rd to 30th November</td>
+                            <td>-</td>
+                            <td>22nd November</td>
+                            <td>-</td>
+                            <td>-</td>
+                        </tr>
+
+                        <tr>
+                            <td>C16 Batch: 19th and 20th November</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>29th November</td>
+                            <td>-</td>
+                            <td>-</td>
+                        </tr>
+
+                        <tr>
+                            <td>C14 Batch: 25th to 27th November</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                        </tr>
+
+                        <tr>
+                            <td>C16 Batch: 26th and 27th November</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                        </tr>
+
+
+                        <!-- December -->
+                        <tr>
+                            <td class="tbl-label tbl-accent bg-light" rowspan="10">December</td>
+                            <td>C14 Batch: 02nd to 04th December</td>
+                            <td>01st to 06th December</td>
+                            <td>-</td>
+                            <td>06th December</td>
+                            <td>12th December</td>
+                            <td>12th December</td>
+                        </tr>
+
+                        <tr>
+                            <td>C16 Batch: 03rd and 04th December</td>
+                            <td>07th to 13th December</td>
+                            <td>-</td>
+                            <td>13th December</td>
+                            <td>-</td>
+                            <td>26th December</td>
+                        </tr>
+
+                        <tr>
+                            <td>C14 Batch: 09th to 11th December</td>
+                            <td>14th to 20th December</td>
+                            <td>-</td>
+                            <td>20th December</td>
+                            <td>-</td>
+                            <td>-</td>
+                        </tr>
+
+                        <tr>
+                            <td>C16 Batch: 10th and 11th December</td>
+                            <td>21st to 27th December</td>
+                            <td>-</td>
+                            <td>27th December</td>
+                            <td>-</td>
+                            <td>-</td>
+                        </tr>
+
+                        <tr>
+                            <td>C14 Batch: 16th to 18th December</td>
+                            <td>28th to 31st December</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                        </tr>
+
+                        <tr>
+                            <td>C16 Batch: 17th and 18th December</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                        </tr>
+
+                        <tr>
+                            <td>C14 Batch: 23rd and 24th December</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                        </tr>
+
+                        <tr>
+                            <td>C16 Batch: 24th December</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                        </tr>
+
+                        <tr>
+                            <td>C14 Batch: 30th and 31st December</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                        </tr>
+
+                        <tr>
+                            <td>C16 Batch: 31st December</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                        </tr>
+
+                    </tbody>
+                </table>
+            </div>
+
+            <p>
+                <strong>
+                    [*This is a tentative calendar for October, November and December 2026.
+                    The days are subject to change depending on parallel sessions.
+                    The academic calendar will be updated quarterly.]
+                </strong>
+            </p>
             <!-- July to September -->
             <div class="tbl-wrap">
                 <table class="tbl">
