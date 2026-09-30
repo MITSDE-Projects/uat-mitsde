@@ -965,7 +965,7 @@
       <!-- Dynamic Content -->
       <div class="award-info mt-2">
 
-        <img src="assets-new/images/logo2.png" id="awardLogo" class="award-logo mb-2">
+        <!-- <img src="assets-new/images/logo2.png" id="awardLogo" class="award-logo mb-2"> -->
 
         <h4 id="awardTitle">
           Education Excellence Award 2025
@@ -1233,8 +1233,8 @@
       const activeSlide =
         swiper.slides[swiper.activeIndex];
 
-      document.getElementById('awardLogo').src =
-        activeSlide.dataset.logo;
+      /*document.getElementById('awardLogo').src =
+        activeSlide.dataset.logo;*/
 
       document.getElementById('awardTitle').innerText =
         activeSlide.dataset.title;
