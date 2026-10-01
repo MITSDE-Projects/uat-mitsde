@@ -83,8 +83,101 @@
     <section class="py-4">
         <div class="container">
 
+            <!-- ═══ SEPTEMBER 2026 ═══ -->
+            <h2 class="section-heading mt-2 mb-3">Contact Sessions September<span> 2026</span></h2>
+
+            <h3 class="module-title-new"><strong> Cohort Live session </strong></h3>
+
+            <div class="tbl-wrap">
+                <table class="tbl">
+                    <thead>
+                        <tr><th>Sr No</th><th>Subject</th><th>Program</th><th>Faculty Name</th><th>Date</th><th>Time</th></tr>
+                    </thead>
+
+                    <tbody>
+                        <!-- C15 Sem-1 -->
+                        <tr>
+                            <th colspan="6" style="text-align:center; background-color:#F47521; color:#fff;"><strong>C15 Sem-1</strong></th>
+                        </tr>
+                        <tr><td>1</td><td>Accounting for Managers</td><td>PGCM-BA, PGDM and PGDM Exe</td><td>SP Ghodake</td><td>4-Sep-26</td><td>6:00 - 8:00 PM</td></tr>
+                        <tr><td>2</td><td>Foundations of Business Management</td><td>PGCM-BA, PGDM and PGDM Exe</td><td>Rajesh Raut</td><td>10-Sep-26</td><td>6:00 - 8:00 PM</td></tr>
+                        <tr><td>3</td><td>Principles of Marketing Management</td><td>PGCM-DM</td><td>Bonnie Rajesh</td><td>10-Sep-26</td><td>6:00 - 8:00 PM</td></tr>
+                        <tr><td>4</td><td>Strategic Marketing Communications</td><td>PGCM-DM</td><td>Rohan Das</td><td>18-Sep-26</td><td>6:00 - 8:00 PM</td></tr>
+                        <tr><td>5</td><td>Managerial Communication</td><td>PGCM-BA, PGDM Exe and PGDM</td><td>Gomati Ghosh</td><td>24-Sep-26</td><td>6:00 - 8:00 PM</td></tr>
+                        <tr><td>6</td><td>Product and Brand Strategy</td><td>PGCM-DM</td><td>Ansted Joseph</td><td>24-Sep-26</td><td>6:00 - 8:00 PM</td></tr>
+                        <!-- C13 Sem-2 -->
+                        <tr>
+                            <th colspan="6" style="text-align:center; background-color:#F47521; color:#fff;"><strong>C13 Sem-2</strong></th>
+                        </tr>
+                        <tr><td>7</td><td>Integrated Marketing Communication</td><td>PGCM-DM &amp; PGDM Exe-SMM</td><td>Christopher Dias</td><td>2-Sep-26</td><td>6:00 - 7:00 PM</td></tr>
+                        <tr><td>8</td><td>Materials Management</td><td>PGDM Exe-MaM and PGDM-MaM</td><td>Vishal Bhosale</td><td>2-Sep-26</td><td>6:00 - 8:00 PM</td></tr>
+                        <tr><td>9</td><td>Business Analytics</td><td>PGDBA</td><td>Sonali Kulkarni</td><td>3-Sep-26</td><td>6:00 - 7:00 PM</td></tr>
+                        <tr><td>10</td><td>Consumer Behaviour</td><td>PGCM-DM &amp; PGDM-MM</td><td>Bonnie Rajesh</td><td>4-Sep-26</td><td>6:00 - 8:00 PM</td></tr>
+                        <tr><td>11</td><td>Warehouse Management</td><td>PGDM Exe-GL&amp;SCM, MaM and PGDM-L&amp;SCM</td><td>Mangesh Dande</td><td>4-Sep-26</td><td>6:00 - 8:00 PM</td></tr>
+                        <tr><td>12</td><td>Learning and Development</td><td>PGDM Exe-HCM and PGDM-HRM</td><td>Rachna Arora</td><td>4-Sep-26</td><td>6:00 - 8:00 PM</td></tr>
+                        <tr><td>13</td><td>Product and Brand Management</td><td>PGCM-DM &amp; PGDM Exe-SMM</td><td>Christopher Dias</td><td>9-Sep-26</td><td>7:00 - 8:00 PM</td></tr>
+                        <tr><td>14</td><td>Introduction to Logistics and Supply Chain Management</td><td>PGDM Exe-MaM and PGDM-L&amp;SCM</td><td>Vishal Bhosale</td><td>9-Sep-26</td><td>6:00 - 8:00 PM</td></tr>
+                        <tr><td>15</td><td>Security Analysis and Portfolio Management</td><td>PGDM Exe-B&amp;FS, FM</td><td>Rajesh Raut</td><td>9-Sep-26</td><td>6:00 - 7:00 PM</td></tr>
+                        <tr><td>16</td><td>Data Analytics and Visualization</td><td>PGDM-IT</td><td>Jyoti Yemul</td><td>9-Sep-26</td><td>6:00 - 8:00 PM</td></tr>
+                        <tr><td>17</td><td>Marketing Management</td><td>PGDM Exe-SMM and PGDM-MM</td><td>Bonnie Rajesh</td><td>16-Sep-26</td><td>6:00 - 8:00 PM</td></tr>
+                        <tr><td>18</td><td>Project Management</td><td>PGDM- PM, C&amp;PM</td><td>Mangesh Dande</td><td>16-Sep-26</td><td>6:00 - 8:00 PM</td></tr>
+                        <tr><td>19</td><td>Research Methodology and Management Decision</td><td>PGDM- All &amp; PGDBA-All &amp; PGDM-Exe-All</td><td>Supriya Phadke</td><td>23-Sep-26</td><td>6:00 - 8:00 PM</td></tr>
+
+                    </tbody>
+                </table>
+            </div>
+
+            <h3 class="module-title"><strong> LABs</strong></h3>
+
+            <div class="tbl-wrap">
+                <table class="tbl">
+                    <thead>
+                        <tr><th>Sr No</th><th>Company's Name</th><th>Engagement Activity</th><th>Domain</th><th>Industry/Sector</th><th>Speaker - Workshop</th><th>Topic - Workshop</th><th>Date of Workshop</th></tr>
+                    </thead>
+
+                    <tbody>
+                        <tr><td>1</td><td>MITSDE</td><td>MITSDE LABs</td><td>All</td><td>All</td><td>Dr. Rajesh Raut</td><td>MITSDE LABs Awareness session</td><td>16-Sep-2026</td></tr>
+                        <tr><td>2</td><td>MITSDE</td><td>MITSDE LABs</td><td>All</td><td>Management</td><td>Cdr. Vineet Datta</td><td>Lean Six Sigma Workshop</td><td>19-Sep-2026</td></tr>
+                        <tr><td>3</td><td>MITSDE</td><td>MITSDE LABs</td><td>All</td><td>Global logistics &amp; Supply Chain</td><td>Dr. Vishal Bhosale</td><td>Global Logistics &amp; SCM Workshop</td><td>27-Sep-2026</td></tr>
+
+                    </tbody>
+                </table>
+            </div>
+
+
+            <h3 class="module-title"><strong> MITSDE- BOOTCAMP</strong></h3>
+
+            <div class="tbl-wrap">
+                <table class="tbl">
+                    <thead>
+                        <tr><th>Sr No</th><th>Company's Name</th><th>Engagement Activity</th><th>Domain</th><th>Industry/Sector</th><th>Speaker - Webinar</th><th>Topic - Webinar</th><th>Date of Webinar</th></tr>
+                    </thead>
+
+                    <tbody>
+                        <tr><td>1</td><td>MITSDE</td><td>MITSDE Bootcamp</td><td>All</td><td>Managerial Communication</td><td>Ms. Gomati Ghosh</td><td>Managerial Communication Bootcamp -3</td><td>6th Sep 2026</td></tr>
+                        <tr><td>2</td><td>MITSDE</td><td>MITSDE Bootcamp</td><td>All</td><td>Business Analytics</td><td>Ms. Nayana Menon</td><td>CPDA Session 3 - Advanced SQL Querying, Joins &amp; Analytical Functions</td><td>20th Sep 2026</td></tr>
+                        <tr><td>3</td><td>MITSDE</td><td>MITSDE Bootcamp</td><td>All</td><td>Business Analytics</td><td>Mr. Kaushik Swaroop</td><td>CPDA Session 4 - Power BI Fundamentals &amp; Basic Visualizations</td><td>27th Sep 2026</td></tr>
+
+                    </tbody>
+                </table>
+            </div>
+
+            <h3 class="module-title"><strong> SynergySphere</strong></h3>
+            <div class="tbl-wrap">
+                <table class="tbl">
+                    <thead>
+                        <tr><th>Sr No</th><th>Company's Name</th><th>Engagement Activity</th><th>Domain</th><th>Industry/Sector</th><th>Speaker - Webinar</th><th>Topic - Webinar</th><th>Date of Webinar</th></tr>
+                    </thead>
+
+                    <tbody>
+                        <tr><td>1</td><td>MITSDE</td><td>General</td><td>General</td><td>General</td><td>Charulata Wankhede</td><td>SynergySphere_Skillverse_HR Edition</td><td>12th Sep 2026</td></tr>
+                        <tr><td>2</td><td>MITSDE</td><td>For HR</td><td>HR</td><td>HR</td><td>Charulata Wankhede</td><td>SynergySphere_Skillverse_HR Edition</td><td>26th Sep 2026</td></tr>
+                    </tbody>
+                </table>
+            </div>
+
             <!-- ═══ AUGUST 2026 ═══ -->
-            <h2 class="section-heading mt-2 mb-3">Contact Sessions <span>August 2026</span></h2>
+            <h2 class="section-heading mt-5 mb-3">August<span> 2026</span></h2>
 
             <h3 class="module-title-new"><strong> Cohort Live session </strong></h3>
             <div class="tbl-wrap">
