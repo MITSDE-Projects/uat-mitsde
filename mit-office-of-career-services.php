@@ -40,13 +40,15 @@
         { "@type": "Question", "name": "What is the Career Diagnostic?", "acceptedAnswer": { "@type": "Answer", "text": "A 30–45 minute assessment in Month 1. Captures your current role, target role, and skill gaps — and drives your personalised CDP and roadmap." } },
         { "@type": "Question", "name": "What is the CDP?", "acceptedAnswer": { "@type": "Answer", "text": "A personalised career plan delivered as a PDF and audio walkthrough. Specifies your roadmap, services, and milestones across 4 semesters." } },
         { "@type": "Question", "name": "How long does MOCS run?", "acceptedAnswer": { "@type": "Answer", "text": "Across all four semesters — the full duration of your programme." } },
-        { "@type": "Question", "name": "What services are included?", "acceptedAnswer": { "@type": "Answer", "text": "Counselling, mentoring, Kaushalya (soft skills), communication, Adhyapan (leadership), networking, mock interviews, Maanas & Anubhuti (well-being), resume & LinkedIn sign-off, placement support, and a MOCS Completion Certificate." } },
+        { "@type": "Question", "name": "What services are included in MOCS?", "acceptedAnswer": { "@type": "Answer", "text": "MOCS — the MIT Office of Career Services — provides a structured, personalised career development programme for all enrolled MITSDE students. Through the MOCS Career App and the Learner Portal, students have access to: My Career Plan (CDP) — a personalised Career Development Plan specific to your target role, your gaps, and your semester-wise roadmap, available as a PDF or audio walkthrough. My Roadmap — a visual view of your semester-wise career journey with your current position marked. Milestones — 10 structured checkpoints that track your career readiness from diagnostic to placement; completing one unlocks the next stage. Badges — digital achievement badges earned at each milestone and shareable to your LinkedIn profile. Book Counselling — schedule a 1:1 career guidance session with the MOCS team. Workshop Calendar — all upcoming MOCS sessions, including Role Clarity sessions, the LinkedIn and Resume Workshop series, mock interview preparation, and mentoring programme sessions. In addition, MOCS runs the Alumni Mentoring Programme, the Student Wellness Index, group counselling sessions, and mental health workshops." } },
         { "@type": "Question", "name": "What happens during exam months?", "acceptedAnswer": { "@type": "Answer", "text": "Live sessions pause during exam windows. Async LMS content remains available. Exam months don't count against attendance." } },
         { "@type": "Question", "name": "Does MOCS affect my academic certificate?", "acceptedAnswer": { "@type": "Answer", "text": "No. MOCS is co-curricular. The MOCS Completion Certificate is separate from your MITSDE academic certificate." } },
         { "@type": "Question", "name": "I subscribed in an earlier cohort — what happens?", "acceptedAnswer": { "@type": "Answer", "text": "All services continue exactly as committed. Raise a ticket on TMS for specific queries." } },
         { "@type": "Question", "name": "I'm not a MITSDE student — can I access MOCS?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. A standalone subscription is available for non-MITSDE learners." } },
         { "@type": "Question", "name": "How do I see my workshops and milestones?", "acceptedAnswer": { "@type": "Answer", "text": "All in your MOCS dashboard inside the learner portal — calendar, CDP, milestones, and bookings." } },
-        { "@type": "Question", "name": "How do I contact the MOCS team?", "acceptedAnswer": { "@type": "Answer", "text": "MITSDE learners: raise a ticket on TMS or use the MOCS communication channel from your welcome email. Others: use the contact form on the registration page." } }
+        { "@type": "Question", "name": "How do I contact the MOCS team?", "acceptedAnswer": { "@type": "Answer", "text": "MITSDE learners: raise a ticket on TMS or use the MOCS communication channel from your welcome email. Others: use the contact form on the registration page." } },
+        { "@type": "Question", "name": "Who is eligible for MOCS services?", "acceptedAnswer": { "@type": "Answer", "text": "All students enrolled in MITSDE's PGDM, PGDM Executive, and PGCM programmes are automatically enrolled in MOCS. No separate registration is required. Log in to the MOCS Career App at mocscdp.mitsde.com using your registered MITSDE email ID to get started." } },
+        { "@type": "Question", "name": "Is MOCS the same as the Placement team?", "acceptedAnswer": { "@type": "Answer", "text": "No. MOCS and the Placement team are separate departments. MOCS focuses on career development, helping you build clarity on your career direction, close skill gaps, and prepare for the job market. The Placement team manages placement drives, company partnerships, and job opportunities. MOCS prepares you for what the Placement team connects you to." } }
     ]
     }
     </script>
@@ -690,10 +692,22 @@
 
             <div class="faq-item">
                 <button class="faq-q" aria-expanded="false">
-                    <span>What services are included?</span>
-                    <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /></svg>
+                    <span>What services are included in MOCS?</span>
+                    <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                    </svg>
                 </button>
-                <div class="faq-a"><p>Counselling, mentoring, Kaushalya (soft skills), communication, Adhyapan (leadership), networking, mock interviews, Maanas &amp; Anubhuti (well-being), resume &amp; LinkedIn sign-off, placement support, and a MOCS Completion Certificate.</p></div>
+
+                <div class="faq-a">
+                    <p>MOCS — the MIT Office of Career Services — provides a structured, personalised career development programme for all enrolled MITSDE students. Through the <a href="https://mocscdp.mitsde.com/" target="_blank" rel="noopener noreferrer">MOCS Career App</a> and the Learner Portal, students have access to:</p>
+                    <p><strong>My Career Plan (CDP)</strong> — A personalised Career Development Plan specific to your target role, your gaps, and your semester-wise roadmap. Download it as a PDF or listen to the audio walkthrough.</p>
+                    <p><strong>My Roadmap</strong> — A visual view of your semester-wise career journey with your current position marked.</p>
+                    <p><strong>Milestones</strong> — 10 structured checkpoints that track your career readiness from diagnostic to placement. Each milestone is gated — completing one unlocks the next stage.</p>
+                    <p><strong>Badges</strong> — Digital achievement badges earned at each milestone and shareable to your LinkedIn profile.</p>
+                    <p><strong>Book Counselling</strong> — Schedule a 1:1 career guidance session with the MOCS team to discuss your CDP, your goals, or any career-related concerns.</p>
+                    <p><strong>Workshop Calendar</strong> — Access all upcoming MOCS sessions, including Role Clarity sessions, the LinkedIn and Resume Workshop series, mock interview preparation, and mentoring programme sessions.</p>
+                    <p>In addition, MOCS runs the Alumni Mentoring Programme, the Student Wellness Index, group counselling sessions, and mental health workshops — all aimed at ensuring students are career-ready and supported throughout their programme journey.</p>
+                </div>
             </div>
 
             <div class="faq-item">
@@ -744,6 +758,26 @@
                 <div class="faq-a">
                     <p>MITSDE learners: raise a ticket on TMS or use the MOCS communication channel from your welcome email. Others: use the contact form on the registration page.</p>
                     <p class="mt-2"><a href="https://elibrary.mitsde.com/" class="text-orange">Raise a support ticket &rarr; TMS Portal</a> &nbsp;&nbsp; <a href="https://mocscdp.mitsde.com/" class="text-orange">Access your MOCS dashboard &rarr; Learner Portal</a></p>
+                </div>
+            </div>
+
+            <div class="faq-item">
+                <button class="faq-q" aria-expanded="false">
+                    <span>Who is eligible for MOCS services?</span>
+                    <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /></svg>
+                </button>
+                <div class="faq-a">
+                    <p>All students enrolled in MITSDE's PGDM, PGDM Executive, and PGCM programmes are automatically enrolled in MOCS. No separate registration is required. Log in to the MOCS Career App at <a href="https://mocscdp.mitsde.com/" target="_blank" rel="noopener noreferrer">mocscdp.mitsde.com</a> using your registered MITSDE email ID to get started.</p>
+                </div>
+            </div>
+
+            <div class="faq-item">
+                <button class="faq-q" aria-expanded="false">
+                    <span>Is MOCS the same as the Placement team?</span>
+                    <svg class="faq-chevron" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /></svg>
+                </button>
+                <div class="faq-a">
+                    <p>No. MOCS and the Placement team are separate departments. MOCS focuses on career development, helping you build clarity on your career direction, close skill gaps, and prepare for the job market. The Placement team manages placement drives, company partnerships, and job opportunities. MOCS prepares you for what the Placement team connects you to.</p>
                 </div>
             </div>
 

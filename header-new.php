@@ -415,7 +415,7 @@ else $nav_active = '';
 
             <div class="mega-panel" id="panel-la-mocs">
                 <ul class="mega-panel-list">
-                    <li><a href="mit-office-of-career-services"><span>MOCS</span><svg class="mega-panel-item-arrow" viewBox="0 0 20 10" fill="none"><path d="M0 5h18M14 1l4 4-4 4" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a></li>
+                    <li><a href="mit-office-of-career-services"><span>MOCS Career App</span><svg class="mega-panel-item-arrow" viewBox="0 0 20 10" fill="none"><path d="M0 5h18M14 1l4 4-4 4" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a></li>
                     <li><a href="synergysphere"><span>Synergy Sphere</span><svg class="mega-panel-item-arrow" viewBox="0 0 20 10" fill="none"><path d="M0 5h18M14 1l4 4-4 4" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a></li>
                     <!-- <li><a href="mocs-for-external-learner"><span>I'm a Non-MITSDE Student</span><svg class="mega-panel-item-arrow" viewBox="0 0 20 10" fill="none"><path d="M0 5h18M14 1l4 4-4 4" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a></li>
                     <li><a href="student-mental-well-being-support"><span>Mental Health Helpline</span><svg class="mega-panel-item-arrow" viewBox="0 0 20 10" fill="none"><path d="M0 5h18M14 1l4 4-4 4" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a></li>
