@@ -526,20 +526,20 @@
                                 <div class="row g-3">
                                     <div class="col-12 col-md-4">
                                         <div style="display: flex; flex-direction: column; gap: 6px; height: 100%; padding: 18px 20px; border: 1px solid #f0c8b4; border-radius: 10px; background: #fff0e8; color: #2d2521;">
-                                            <span style="color: #b94d17; font-size: 12px; font-weight: 600; text-transform: uppercase; letter-spacing: .04em;">Course Duration</span>
-                                            <strong style="font-size: 16px;">1 Year</strong>
+                                            <span style="color: #b94d17; font-size: var(--fz-xsmall); font-weight: 600; text-transform: uppercase; letter-spacing: .04em;">Course Duration</span>
+                                            <strong style="font-size: var(--fz-large);">1 Year</strong>
                                         </div>
                                     </div>
                                     <div class="col-12 col-md-4">
                                         <div style="display: flex; flex-direction: column; gap: 6px; height: 100%; padding: 18px 20px; border: 1px solid #f0c8b4; border-radius: 10px; background: #fff0e8; color: #2d2521;">
-                                            <span style="color: #b94d17; font-size: 12px; font-weight: 600; text-transform: uppercase; letter-spacing: .04em;">Extension</span>
-                                            <strong style="font-size: 16px;">6 Months</strong>
+                                            <span style="color: #b94d17; font-size: var(--fz-xsmall); font-weight: 600; text-transform: uppercase; letter-spacing: .04em;">Extension</span>
+                                            <strong style="font-size: var(--fz-large);">6 Months</strong>
                                         </div>
                                     </div>
                                     <div class="col-12 col-md-4">
                                         <div style="display: flex; flex-direction: column; gap: 6px; height: 100%; padding: 18px 20px; border: 1px solid #f0c8b4; border-radius: 10px; background: #fff0e8; color: #2d2521;">
-                                            <span style="color: #b94d17; font-size: 12px; font-weight: 600; text-transform: uppercase; letter-spacing: .04em;">Validity</span>
-                                            <strong style="font-size: 16px;">1 Year 6 Months</strong>
+                                            <span style="color: #b94d17; font-size: var(--fz-xsmall); font-weight: 600; text-transform: uppercase; letter-spacing: .04em;">Validity</span>
+                                            <strong style="font-size: var(--fz-large);">1 Year 6 Months</strong>
                                         </div>
                                     </div>
                                 </div>

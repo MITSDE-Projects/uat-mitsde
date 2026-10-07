@@ -76,7 +76,7 @@
             gap: .45rem;
             padding: .45rem 1.3rem;
             border-radius: 50px;
-            font-size: .85rem;
+            font-size: var(--fz-normal);
             font-weight: 600;
             background: var(--primary-orange);
             color: #fff;
@@ -97,7 +97,7 @@
             border-radius: 10px;
             padding: .9rem 1.2rem;
             color: var(--text-dark);
-            font-size: .9rem;
+            font-size: var(--fz-medium);
         }
         .ltp-note i {
             color: var(--primary-orange);

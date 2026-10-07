@@ -81,7 +81,7 @@
                     <button class="ph-spec-pill" style="width:100%;justify-content:flex-start;text-align:left;" data-cws="books">Books Related Queries</button>
                     <button class="ph-spec-pill" style="width:100%;justify-content:flex-start;text-align:left;" data-cws="lms">LMS Related Queries</button>
                     <button class="ph-spec-pill" style="width:100%;justify-content:flex-start;text-align:left;" data-cws="placement">Placement Related Queries</button>
-                    <a class="ph-spec-pill" style="width:100%;justify-content:flex-start;text-align:left;text-decoration:none;" href="OnlineGrievances" target="_blank">Online Grievance Redressal <i class="fa fa-external-link-alt ms-1" style="font-size:0.7rem;"></i></a>
+                    <a class="ph-spec-pill" style="width:100%;justify-content:flex-start;text-align:left;text-decoration:none;" href="OnlineGrievances" target="_blank">Online Grievance Redressal <i class="fa fa-external-link-alt ms-1" style="font-size:var(--fz-mini);"></i></a>
                 </div>
             </div>
 
@@ -1249,7 +1249,7 @@
                 <div class="cws-tab-pane" id="cws-placement" style="display:none;">
                     <h2 class="section-heading mb-4">Placement Related Queries</h2>
 
-                    <p class="fw-bold text-uppercase text-muted" style="font-size:12px;letter-spacing:.08em;margin:0 0 8px;">Placement Eligibility</p>
+                    <p class="fw-bold text-uppercase text-muted" style="font-size:var(--fz-xsmall);letter-spacing:.08em;margin:0 0 8px;">Placement Eligibility</p>
                     <div class="faq-list mb-2">
                         <div class="faq-item is-open">
                             <button class="faq-q" aria-expanded="true">
@@ -1274,7 +1274,7 @@
                         </div>
                     </div>
 
-                    <p class="fw-bold text-uppercase text-muted" style="font-size:12px;letter-spacing:.08em;margin:20px 0 8px;">Placement Eligibility (Detailed)</p>
+                    <p class="fw-bold text-uppercase text-muted" style="font-size:var(--fz-xsmall);letter-spacing:.08em;margin:20px 0 8px;">Placement Eligibility (Detailed)</p>
                     <div class="faq-list mb-2">
                         <div class="faq-item">
                             <button class="faq-q" aria-expanded="false">
@@ -1285,7 +1285,7 @@
                         </div>
                     </div>
 
-                    <p class="fw-bold text-uppercase text-muted" style="font-size:12px;letter-spacing:.08em;margin:20px 0 8px;">Placement Portal</p>
+                    <p class="fw-bold text-uppercase text-muted" style="font-size:var(--fz-xsmall);letter-spacing:.08em;margin:20px 0 8px;">Placement Portal</p>
                     <div class="faq-list mb-2">
                         <div class="faq-item">
                             <button class="faq-q" aria-expanded="false">
@@ -1310,7 +1310,7 @@
                         </div>
                     </div>
 
-                    <p class="fw-bold text-uppercase text-muted" style="font-size:12px;letter-spacing:.08em;margin:20px 0 8px;">Job &amp; Internship Opportunities</p>
+                    <p class="fw-bold text-uppercase text-muted" style="font-size:var(--fz-xsmall);letter-spacing:.08em;margin:20px 0 8px;">Job &amp; Internship Opportunities</p>
                     <div class="faq-list mb-2">
                         <div class="faq-item">
                             <button class="faq-q" aria-expanded="false">
@@ -1328,7 +1328,7 @@
                         </div>
                     </div>
 
-                    <p class="fw-bold text-uppercase text-muted" style="font-size:12px;letter-spacing:.08em;margin:20px 0 8px;">Interview Process</p>
+                    <p class="fw-bold text-uppercase text-muted" style="font-size:var(--fz-xsmall);letter-spacing:.08em;margin:20px 0 8px;">Interview Process</p>
                     <div class="faq-list mb-2">
                         <div class="faq-item">
                             <button class="faq-q" aria-expanded="false">
@@ -1346,7 +1346,7 @@
                         </div>
                     </div>
 
-                    <p class="fw-bold text-uppercase text-muted" style="font-size:12px;letter-spacing:.08em;margin:20px 0 8px;">Resume &amp; Profile</p>
+                    <p class="fw-bold text-uppercase text-muted" style="font-size:var(--fz-xsmall);letter-spacing:.08em;margin:20px 0 8px;">Resume &amp; Profile</p>
                     <div class="faq-list mb-2">
                         <div class="faq-item">
                             <button class="faq-q" aria-expanded="false">
@@ -1357,7 +1357,7 @@
                         </div>
                     </div>
 
-                    <p class="fw-bold text-uppercase text-muted" style="font-size:12px;letter-spacing:.08em;margin:20px 0 8px;">TCS iON Training Platform</p>
+                    <p class="fw-bold text-uppercase text-muted" style="font-size:var(--fz-xsmall);letter-spacing:.08em;margin:20px 0 8px;">TCS iON Training Platform</p>
                     <div class="faq-list mb-2">
                         <div class="faq-item">
                             <button class="faq-q" aria-expanded="false">
@@ -1368,7 +1368,7 @@
                         </div>
                     </div>
 
-                    <p class="fw-bold text-uppercase text-muted" style="font-size:12px;letter-spacing:.08em;margin:20px 0 8px;">Salary &amp; Compensation</p>
+                    <p class="fw-bold text-uppercase text-muted" style="font-size:var(--fz-xsmall);letter-spacing:.08em;margin:20px 0 8px;">Salary &amp; Compensation</p>
                     <div class="faq-list mb-2">
                         <div class="faq-item">
                             <button class="faq-q" aria-expanded="false">
@@ -1379,7 +1379,7 @@
                         </div>
                     </div>
 
-                    <p class="fw-bold text-uppercase text-muted" style="font-size:12px;letter-spacing:.08em;margin:20px 0 8px;">Salary, Packages &amp; Compensation</p>
+                    <p class="fw-bold text-uppercase text-muted" style="font-size:var(--fz-xsmall);letter-spacing:.08em;margin:20px 0 8px;">Salary, Packages &amp; Compensation</p>
                     <div class="faq-list mb-2">
                         <div class="faq-item">
                             <button class="faq-q" aria-expanded="false">
@@ -1397,7 +1397,7 @@
                         </div>
                     </div>
 
-                    <p class="fw-bold text-uppercase text-muted" style="font-size:12px;letter-spacing:.08em;margin:20px 0 8px;">Alumni Portal</p>
+                    <p class="fw-bold text-uppercase text-muted" style="font-size:var(--fz-xsmall);letter-spacing:.08em;margin:20px 0 8px;">Alumni Portal</p>
                     <div class="faq-list mb-2">
                         <div class="faq-item">
                             <button class="faq-q" aria-expanded="false">
@@ -1408,7 +1408,7 @@
                         </div>
                     </div>
 
-                    <p class="fw-bold text-uppercase text-muted" style="font-size:12px;letter-spacing:.08em;margin:20px 0 8px;">Contact &amp; Escalation</p>
+                    <p class="fw-bold text-uppercase text-muted" style="font-size:var(--fz-xsmall);letter-spacing:.08em;margin:20px 0 8px;">Contact &amp; Escalation</p>
                     <div class="faq-list mb-2">
                         <div class="faq-item">
                             <button class="faq-q" aria-expanded="false">
@@ -1419,7 +1419,7 @@
                         </div>
                     </div>
 
-                    <p class="fw-bold text-uppercase text-muted" style="font-size:12px;letter-spacing:.08em;margin:20px 0 8px;">Placement Process</p>
+                    <p class="fw-bold text-uppercase text-muted" style="font-size:var(--fz-xsmall);letter-spacing:.08em;margin:20px 0 8px;">Placement Process</p>
                     <div class="faq-list mb-2">
                         <div class="faq-item">
                             <button class="faq-q" aria-expanded="false">
@@ -1430,7 +1430,7 @@
                         </div>
                     </div>
 
-                    <p class="fw-bold text-uppercase text-muted" style="font-size:12px;letter-spacing:.08em;margin:20px 0 8px;">Selection Process</p>
+                    <p class="fw-bold text-uppercase text-muted" style="font-size:var(--fz-xsmall);letter-spacing:.08em;margin:20px 0 8px;">Selection Process</p>
                     <div class="faq-list mb-2">
                         <div class="faq-item">
                             <button class="faq-q" aria-expanded="false">
@@ -1441,7 +1441,7 @@
                         </div>
                     </div>
 
-                    <p class="fw-bold text-uppercase text-muted" style="font-size:12px;letter-spacing:.08em;margin:20px 0 8px;">Offer Letters &amp; Post-Selection</p>
+                    <p class="fw-bold text-uppercase text-muted" style="font-size:var(--fz-xsmall);letter-spacing:.08em;margin:20px 0 8px;">Offer Letters &amp; Post-Selection</p>
                     <div class="faq-list mb-2">
                         <div class="faq-item">
                             <button class="faq-q" aria-expanded="false">
@@ -1459,7 +1459,7 @@
                         </div>
                     </div>
 
-                    <p class="fw-bold text-uppercase text-muted" style="font-size:12px;letter-spacing:.08em;margin:20px 0 8px;">Placement Highlights &amp; Corporate Network</p>
+                    <p class="fw-bold text-uppercase text-muted" style="font-size:var(--fz-xsmall);letter-spacing:.08em;margin:20px 0 8px;">Placement Highlights &amp; Corporate Network</p>
                     <div class="faq-list mb-2">
                         <div class="faq-item">
                             <button class="faq-q" aria-expanded="false">
@@ -1470,7 +1470,7 @@
                         </div>
                     </div>
 
-                    <p class="fw-bold text-uppercase text-muted" style="font-size:12px;letter-spacing:.08em;margin:20px 0 8px;">Interview Readiness &amp; Conduct</p>
+                    <p class="fw-bold text-uppercase text-muted" style="font-size:var(--fz-xsmall);letter-spacing:.08em;margin:20px 0 8px;">Interview Readiness &amp; Conduct</p>
                     <div class="faq-list mb-2">
                         <div class="faq-item">
                             <button class="faq-q" aria-expanded="false">
@@ -1481,7 +1481,7 @@
                         </div>
                     </div>
 
-                    <p class="fw-bold text-uppercase text-muted" style="font-size:12px;letter-spacing:.08em;margin:20px 0 8px;">Placement Process Guidelines</p>
+                    <p class="fw-bold text-uppercase text-muted" style="font-size:var(--fz-xsmall);letter-spacing:.08em;margin:20px 0 8px;">Placement Process Guidelines</p>
                     <div class="faq-list mb-2">
                         <div class="faq-item">
                             <button class="faq-q" aria-expanded="false">
@@ -1512,7 +1512,7 @@
                 <div class="card h-100 border-0 shadow-sm rounded-4 p-4 text-center">
                     <div class="mb-3"><i class="fa fa-headset fa-3x" style="color:var(--primary-orange);"></i></div>
                     <h5 class="fw-bold mb-2">Need Assistance?</h5>
-                    <p style="color:var(--text-light);font-size:0.9rem;" class="mb-4">Please create a ticket if you have any questions. We will respond usually within 24 hours.</p>
+                    <p style="color:var(--text-light);font-size:var(--fz-medium);" class="mb-4">Please create a ticket if you have any questions. We will respond usually within 24 hours.</p>
                     <a href="https://elibrary.mitsde.com/" target="_blank" class="btn btn-dark rounded-pill px-4">E-library Portal</a>
                 </div>
             </div>
@@ -1524,7 +1524,7 @@
                     </div>
                     <div class="p-4">
                         <h5 class="fw-bold mb-2">Our Location</h5>
-                        <p style="color:var(--text-light);font-size:0.9rem;" class="mb-0">MIT Alandi Campus, Moshi-Alandi Road, Opposite to Ganjanan Maharaj Sansthan, Alandi, Pune, Maharashtra 412105</p>
+                        <p style="color:var(--text-light);font-size:var(--fz-medium);" class="mb-0">MIT Alandi Campus, Moshi-Alandi Road, Opposite to Ganjanan Maharaj Sansthan, Alandi, Pune, Maharashtra 412105</p>
                     </div>
                 </div>
             </div>

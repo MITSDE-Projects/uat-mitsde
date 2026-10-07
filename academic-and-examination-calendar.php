@@ -117,15 +117,15 @@
                                 </tr>
                                 <tr>
                                     <td>Assignment 1 &amp; 2 Submission Deadline</td>
-                                    <td class="tbl-accent">30 May 2026 <span style="display:block;font-size:.8rem;color:var(--text-light);">Submission via LMS</span></td>
+                                    <td class="tbl-accent">30 May 2026 <span style="display:block;font-size:var(--fz-small);color:var(--text-light);">Submission via LMS</span></td>
                                 </tr>
                                 <tr>
                                     <td>Examination Date</td>
-                                    <td class="tbl-accent">July 2026 <span style="display:block;font-size:.8rem;color:var(--text-light);">Online Proctored Exam</span></td>
+                                    <td class="tbl-accent">July 2026 <span style="display:block;font-size:var(--fz-small);color:var(--text-light);">Online Proctored Exam</span></td>
                                 </tr>
                                 <tr>
                                     <td>Result Declaration</td>
-                                    <td class="tbl-accent">September 2026 <span style="display:block;font-size:.8rem;color:var(--text-light);">Available on Student Portal</span></td>
+                                    <td class="tbl-accent">September 2026 <span style="display:block;font-size:var(--fz-small);color:var(--text-light);">Available on Student Portal</span></td>
                                 </tr>
                             </tbody>
                         </table>
@@ -169,15 +169,15 @@
                                 </tr>
                                 <tr>
                                     <td>Assignment 1 &amp; 2 Submission Deadline</td>
-                                    <td class="tbl-accent">30 November 2026 <span style="display:block;font-size:.8rem;color:var(--text-light);">Submission via LMS</span></td>
+                                    <td class="tbl-accent">30 November 2026 <span style="display:block;font-size:var(--fz-small);color:var(--text-light);">Submission via LMS</span></td>
                                 </tr>
                                 <tr>
                                     <td>Examination Date</td>
-                                    <td class="tbl-accent">January 2027 <span style="display:block;font-size:.8rem;color:var(--text-light);">Online Proctored Exam</span></td>
+                                    <td class="tbl-accent">January 2027 <span style="display:block;font-size:var(--fz-small);color:var(--text-light);">Online Proctored Exam</span></td>
                                 </tr>
                                 <tr>
                                     <td>Result Declaration</td>
-                                    <td class="tbl-accent">March 2027 <span style="display:block;font-size:.8rem;color:var(--text-light);">Available on Student Portal</span></td>
+                                    <td class="tbl-accent">March 2027 <span style="display:block;font-size:var(--fz-small);color:var(--text-light);">Available on Student Portal</span></td>
                                 </tr>
                             </tbody>
                         </table>

@@ -99,7 +99,7 @@
     </script>
 
     <style>
-        .list-q { width: 100%; display: flex; align-items: center; justify-content: space-between; gap: 1rem; padding: 0.95rem 3rem 0.95rem 1.25rem; background: #fde0d0; border: none; cursor: pointer; font-size: 0.9rem; font-weight: 500; color: var(--text-dark); text-align: left; clip-path: polygon(0 0, calc(100% - 22px) 0, 100% 50%, calc(100% - 22px) 100%, 0 100%); transition: background 0.25s; }
+        .list-q { width: 100%; display: flex; align-items: center; justify-content: space-between; gap: 1rem; padding: 0.95rem 3rem 0.95rem 1.25rem; background: #fde0d0; border: none; cursor: pointer; font-size: var(--fz-medium); font-weight: 500; color: var(--text-dark); text-align: left; clip-path: polygon(0 0, calc(100% - 22px) 0, 100% 50%, calc(100% - 22px) 100%, 0 100%); transition: background 0.25s; }
     </style>
 
 <?php include "5-common-seo-tag-1.php" ?>

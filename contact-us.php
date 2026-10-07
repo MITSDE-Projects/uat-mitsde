@@ -74,13 +74,13 @@
                 <div class="card h-100 border-0 shadow-sm rounded-4 p-4 text-center">
                     <div class="mb-3"><i class="fa fa-headset fa-3x" style="color:var(--primary-orange);"></i></div>
                     <h5 class="fw-bold mb-2">Need Assistance?</h5>
-                    <p style="color:var(--text-light);font-size:0.9rem;" class="mb-4">Contact us for any inquiries or support.</p>
+                    <p style="color:var(--text-light);font-size:var(--fz-medium);" class="mb-4">Contact us for any inquiries or support.</p>
                     <div class="d-flex justify-content-center gap-3 mb-4">
-                    <a href="tel:9112207207" class="btn btn-dark rounded-pill px-4">Call Us</a>
+                    <a href="tel:+91-9112207207" class="btn btn-dark rounded-pill px-4">Call Us</a>
                     <a href="mailto:admissions@mitsde.com" class="btn btn-dark rounded-pill px-4">Mail Us</a>
                     </div>
                     <h5 class="fw-bold mb-2">Working Hours</h5>
-                    <p style="color:var(--text-light);font-size:0.9rem;" class="mb-0">Monday - Friday: 9.30 AM - 05.30 PM</p>
+                    <p style="color:var(--text-light);font-size:var(--fz-medium);" class="mb-0">Monday - Friday: 9.30 AM - 05.30 PM</p>
                 </div>
             </div>
 
@@ -91,7 +91,7 @@
                     </div>
                     <div class="p-4">
                         <h5 class="fw-bold mb-2">Our Location</h5>
-                        <p style="color:var(--text-light);font-size:0.9rem;" class="mb-0">MIT Alandi Campus, Moshi-Alandi Road, Opposite to Ganjanan Maharaj Sansthan, Alandi, Pune, Maharashtra 412105</p>
+                        <p style="color:var(--text-light);font-size:var(--fz-medium);" class="mb-0">MIT Alandi Campus, Moshi-Alandi Road, Opposite to Ganjanan Maharaj Sansthan, Alandi, Pune, Maharashtra 412105</p>
                     </div>
                 </div>
             </div>

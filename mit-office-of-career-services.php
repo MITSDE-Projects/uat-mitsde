@@ -400,7 +400,7 @@
         <h2 class="section-heading">Impact &mdash; Outcomes, Numbers, <span class="text-orange">Stories</span></h2>
         <h3 class="fw-semibold mb-4">The proof is in what our students do next.</h3>
 
-        <h4 class="fw-bold text-orange mb-3">Key Numbers <span class="text-muted fw-normal" style="font-size:14px">(April 2026)</span></h4>
+        <h4 class="fw-bold text-orange mb-3">Key Numbers <span class="text-muted fw-normal" style="font-size:var(--fz-normal)">(April 2026)</span></h4>
         <div class="tbl-wrap mb-5">
             <table class="tbl">
                 <thead>
@@ -424,7 +424,7 @@
                     </tr>
                     <tr>
                         <td class="tbl-label">Average NPS across MOCS workshop series</td>
-                        <td class="fw-bold">80+ &nbsp;<span class="text-muted fw-normal" style="font-size:13px">(Adhyapan: 85.9 &nbsp;|&nbsp; Kaushalya: 79)</span></td>
+                        <td class="fw-bold">80+ &nbsp;<span class="text-muted fw-normal" style="font-size:var(--fz-small)">(Adhyapan: 85.9 &nbsp;|&nbsp; Kaushalya: 79)</span></td>
                     </tr>
                     <tr>
                         <td class="tbl-label">Average skill improvement (pre/post assessments)</td>
@@ -628,7 +628,7 @@
             </div>
         </div>
 
-        <p class="text-muted mt-4" style="font-size:13px"><i class="fa-solid fa-circle-info me-1 text-orange"></i> LinkedIn links for all mentors will be updated on this page. For mentor enquiries, write to the MOCS team.</p>
+        <p class="text-muted mt-4" style="font-size:var(--fz-small)"><i class="fa-solid fa-circle-info me-1 text-orange"></i> LinkedIn links for all mentors will be updated on this page. For mentor enquiries, write to the MOCS team.</p>
     </div>
 </section>
 

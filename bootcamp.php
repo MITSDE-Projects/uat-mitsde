@@ -30,7 +30,7 @@
     /* ── Bootcamp page — all rules scoped to .bc-page ── */
     .bc-page { --bc-orange: #ea580c; --bc-orange-tint: #fef3ee; --bc-paper: #fdf8f5; --bc-line: #e5e7eb; --bc-navy: #111827; }
 
-    .bc-page .ph-spec-pill {font-size: 0.7rem;}
+    .bc-page .ph-spec-pill {font-size: var(--fz-mini);}
 
     /* Overview grid — 4 cards highlight orange on hover */
     .bc-page .bc-ov-card { transition: background .2s, border-color .2s; }
@@ -52,34 +52,34 @@
         .bc-stat-item:nth-child(n+5) { border-bottom: none; padding-bottom: 0; }
     }
 
-    .section-label{display:inline-block;font-size:11px;font-weight:500;color: var(--text-light);text-transform:uppercase;letter-spacing:0.08em;margin-bottom:12px}
+    .section-label{display:inline-block;font-size:var(--fz-mini);font-weight:500;color: var(--text-light);text-transform:uppercase;letter-spacing:0.08em;margin-bottom:12px}
 
     /* Cert cards */
     .bc-cert-card { background: #fff; border: 1px solid var(--bc-line); border-top: 3px solid var(--bc-orange); border-radius: 8px; padding: 20px; height: 100%; }
-    .bc-cert-code { display: inline-block; background: var(--bc-orange-tint); color: var(--bc-orange); font-size: 11px; font-weight: 700; padding: 3px 9px; border-radius: 4px; margin-bottom: 10px; font-family: 'Courier New', monospace; letter-spacing: .04em; }
-    .bc-cert-tools { font-size: 12px; color: #6b7280; margin-top: 10px; }
-    .bc-cert-ai { font-size: 12px; background: #f0fdf4; color: #15803d; border-radius: 6px; padding: 8px 10px; margin-top: 10px; }
+    .bc-cert-code { display: inline-block; background: var(--bc-orange-tint); color: var(--bc-orange); font-size: var(--fz-mini); font-weight: 700; padding: 3px 9px; border-radius: 4px; margin-bottom: 10px; font-family: 'Courier New', monospace; letter-spacing: .04em; }
+    .bc-cert-tools { font-size: var(--fz-xsmall); color: #6b7280; margin-top: 10px; }
+    .bc-cert-ai { font-size: var(--fz-xsmall); background: #f0fdf4; color: #15803d; border-radius: 6px; padding: 8px 10px; margin-top: 10px; }
 
     /* Learning Arc table */
     .bc-arc-table { width: 100%; border-collapse: separate; border-spacing: 0; }
-    .bc-arc-table th { background: var(--bc-navy); color: #fff; font-size: 12px; font-weight: 600; padding: 10px 14px; text-transform: uppercase; letter-spacing: .04em; }
-    .bc-arc-table td { border: 1px solid var(--bc-line); padding: 12px 14px; font-size: 13px; vertical-align: top; }
-    .bc-arc-track { font-size: 11px; font-weight: 700; color: #fff; padding: 3px 8px; border-radius: 4px; display: inline-block; margin-bottom: 6px; }
-    .bc-arc-step { background: var(--bc-orange-tint); border-radius: 6px; padding: 10px; text-align: center; font-size: 12px; position: relative; }
-    .bc-arc-step-label { font-size: 10px; font-weight: 700; color: var(--bc-orange); text-transform: uppercase; margin-bottom: 3px; }
+    .bc-arc-table th { background: var(--bc-navy); color: #fff; font-size: var(--fz-xsmall); font-weight: 600; padding: 10px 14px; text-transform: uppercase; letter-spacing: .04em; }
+    .bc-arc-table td { border: 1px solid var(--bc-line); padding: 12px 14px; font-size: var(--fz-small); vertical-align: top; }
+    .bc-arc-track { font-size: var(--fz-mini); font-weight: 700; color: #fff; padding: 3px 8px; border-radius: 4px; display: inline-block; margin-bottom: 6px; }
+    .bc-arc-step { background: var(--bc-orange-tint); border-radius: 6px; padding: 10px; text-align: center; font-size: var(--fz-xsmall); position: relative; }
+    .bc-arc-step-label { font-size: var(--fz-tiny); font-weight: 700; color: var(--bc-orange); text-transform: uppercase; margin-bottom: 3px; }
     .bc-arc-arrow { font-size: 20px; color: var(--bc-orange); align-self: center; flex-shrink: 0; }
 
     /* Tools filter buttons (chip cloud below reuses global .academic-services-wrap/.academic-tags/.academic-tag) */
-    .bc-filter-btn { background: #FFF5DE; border: none; padding: 7px 16px; border-radius: 999px; font-size: 13px; font-weight: 500; color: var(--bc-navy); cursor: pointer; transition: .15s; font-family: inherit; }
+    .bc-filter-btn { background: #FFF5DE; border: none; padding: 7px 16px; border-radius: 999px; font-size: var(--fz-small); font-weight: 500; color: var(--bc-navy); cursor: pointer; transition: .15s; font-family: inherit; }
     .bc-filter-btn:hover { color: var(--bc-orange); }
     .bc-filter-btn.active { background: #FFC8AB; color: var(--bc-navy); }
 
     /* AI in Sessions */
-    .bc-ai-cert { font-size: 11px; font-weight: 500; color: #6b7280; }
-    .bc-ai-headline { font-weight: 600; font-size: 14px; margin: 6px 0 4px; }
-    .bc-ai-tools { font-size: 12px; color: #6b7280; }
+    .bc-ai-cert { font-size: var(--fz-mini); font-weight: 500; color: #6b7280; }
+    .bc-ai-headline { font-weight: 600; font-size: var(--fz-normal); margin: 6px 0 4px; }
+    .bc-ai-tools { font-size: var(--fz-xsmall); color: #6b7280; }
 
-    .sched-badge{font-size:10px;font-weight:700;padding:3px 8px;border-radius:4px;text-transform:uppercase}
+    .sched-badge{font-size:var(--fz-tiny);font-weight:700;padding:3px 8px;border-radius:4px;text-transform:uppercase}
 .sched-badge.ba{background:#E6EEF8;color:var(--navy)}
 .sched-badge.dm{background:var(--teal-light);color:var(--teal)}
 .sched-badge.labs{background:#EDE9FE;color:var(--purple)}
@@ -87,7 +87,7 @@
     /* Quote / testimonial cards */
     .bc-testi { background: var(--bc-paper); border-radius: 10px; padding: 22px; border-left: 3px solid var(--bc-orange); height: 100%; }
     .bc-testi-stars { color: #f97316; margin-bottom: 10px; }
-    .bc-testi-quote { font-size: 14px; color: #374151; margin-bottom: 14px; }
+    .bc-testi-quote { font-size: var(--fz-normal); color: #374151; margin-bottom: 14px; }
     .bc-testi-avatar { width: 38px; height: 38px; border-radius: 50%; background: linear-gradient(135deg, var(--bc-navy), var(--bc-orange)); color: #fff; display: inline-flex; align-items: center; justify-content: center; font-weight: 700; font-size: 13px; flex-shrink: 0; }
 
     /* Expert card avatar */
@@ -95,7 +95,7 @@
 
     /* Faculty quote card */
     .bc-faculty-card { background: #fff; border: 1px solid var(--bc-line); border-radius: 10px; padding: 22px; height: 100%; }
-    .bc-faculty-quote { font-size: 14px; color: #374151; border-left: 3px solid var(--bc-orange); padding-left: 14px; margin-bottom: 16px; }
+    .bc-faculty-quote { font-size: var(--fz-normal); color: #374151; border-left: 3px solid var(--bc-orange); padding-left: 14px; margin-bottom: 16px; }
 
     section[id] { scroll-margin-top: 110px; }
 
@@ -172,8 +172,8 @@
 
             <div class="ph-left">
                 <div class="d-flex gap-2 flex-wrap mb-3 bc-hero-badges">
-                    <span style="display:inline-block;background: #9a3412;color: #fff;font-size:12px;font-weight:600;padding:5px 12px;border-radius:999px;">&#9733; Included in your MITSDE programme</span>
-                    <span style="display:inline-block;background: #9a3412;color: #fff;font-size:12px;font-weight:600;padding:5px 12px;border-radius:999px;">&#10022; 100% Free &mdash; part of your fee</span>
+                    <span style="display:inline-block;background: #9a3412;color: #fff;font-size:var(--fz-xsmall);font-weight:600;padding:5px 12px;border-radius:999px;">&#9733; Included in your MITSDE programme</span>
+                    <span style="display:inline-block;background: #9a3412;color: #fff;font-size:var(--fz-xsmall);font-weight:600;padding:5px 12px;border-radius:999px;">&#10022; 100% Free &mdash; part of your fee</span>
                 </div>
                 <h1 class="ph-heading">Your PG programme.<br> Plus <span class="text-orange">6 industry certifications.</span><br> All AI-powered. All free.</h1>
                 <div class="ph-sub" style="max-width: 400px;">
@@ -252,25 +252,25 @@
                         <div class="col-6">
                             <div class="bc-ov-card p-3 rounded-3 h-100 bg-white" style="border:1px solid var(--bc-line)">
                                 <div class="fw-bold text-orange fs-6 mb-1">Business Analytics Track</div>
-                                <div class="text-muted" style="font-size:12px">4 certifications &mdash; Excel, Data Analytics, Data Science &amp; Quantitative BA</div>
+                                <div class="text-muted" style="font-size:var(--fz-xsmall)">4 certifications &mdash; Excel, Data Analytics, Data Science &amp; Quantitative BA</div>
                             </div>
                         </div>
                         <div class="col-6">
                             <div class="bc-ov-card p-3 rounded-3 h-100 bg-white" style="border:1px solid var(--bc-line)">
                                 <div class="fw-bold fs-6 mb-1">Digital Marketing Track</div>
-                                <div class="text-muted" style="font-size:12px">2 certifications &mdash; Digital Marketing Essentials &amp; Applications + 3 Labs</div>
+                                <div class="text-muted" style="font-size:var(--fz-xsmall)">2 certifications &mdash; Digital Marketing Essentials &amp; Applications + 3 Labs</div>
                             </div>
                         </div>
                         <div class="col-6">
                             <div class="bc-ov-card p-3 rounded-3 h-100 bg-white" style="border:1px solid var(--bc-line)">
                                 <div class="fw-bold fs-6 mb-1">3 Labs</div>
-                                <div class="text-muted" style="font-size:12px">Applied capstone labs in Marketing Analytics, Social Media &amp; Future Intelligence</div>
+                                <div class="text-muted" style="font-size:var(--fz-xsmall)">Applied capstone labs in Marketing Analytics, Social Media &amp; Future Intelligence</div>
                             </div>
                         </div>
                         <div class="col-6">
                             <div class="bc-ov-card p-3 rounded-3 h-100 bg-white" style="border:1px solid var(--bc-line)">
                                 <div class="fw-bold fs-6 mb-1">40+ Tools</div>
-                                <div class="text-muted" style="font-size:12px">Excel, Python, GA4, Meta Suite, ChatGPT, Julius AI and more</div>
+                                <div class="text-muted" style="font-size:var(--fz-xsmall)">Excel, Python, GA4, Meta Suite, ChatGPT, Julius AI and more</div>
                             </div>
                         </div>
                     </div>
@@ -294,33 +294,33 @@
                 <div class="bc-stat-grid">
                     <div class="bc-stat-item">
                         <div class="mb-1" style="font-size:1.6rem">51M</div>
-                        <div class="mb-1" style="font-size:13px">Workers India needs by 2030 with AI skills</div>
-                        <div class="text-muted" style="font-size:11px">WEF, 2024</div>
+                        <div class="mb-1" style="font-size:var(--fz-small)">Workers India needs by 2030 with AI skills</div>
+                        <div class="text-muted" style="font-size:var(--fz-mini)">WEF, 2024</div>
                     </div>
                     <div class="bc-stat-item">
                         <div class="mb-1" style="font-size:1.6rem">74%</div>
-                        <div class="mb-1" style="font-size:13px">Of employers say candidates lack AI fluency</div>
-                        <div class="text-muted" style="font-size:11px">LinkedIn, 2025</div>
+                        <div class="mb-1" style="font-size:var(--fz-small)">Of employers say candidates lack AI fluency</div>
+                        <div class="text-muted" style="font-size:var(--fz-mini)">LinkedIn, 2025</div>
                     </div>
                     <div class="bc-stat-item">
                         <div class="mb-1" style="font-size:1.6rem">3&times;</div>
-                        <div class="mb-1" style="font-size:13px">More likely to be <em>hired</em> with AI skills</div>
-                        <div class="text-muted" style="font-size:11px">NASSCOM India Tech Talent Report, 2024</div>
+                        <div class="mb-1" style="font-size:var(--fz-small)">More likely to be <em>hired</em> with AI skills</div>
+                        <div class="text-muted" style="font-size:var(--fz-mini)">NASSCOM India Tech Talent Report, 2024</div>
                     </div>
                     <div class="bc-stat-item">
                         <div class="mb-1" style="font-size:1.6rem">65%</div>
-                        <div class="mb-1" style="font-size:13px">Of analytics &amp; marketing jobs now require tool proficiency</div>
-                        <div class="text-muted" style="font-size:11px">Naukri.com, 2025</div>
+                        <div class="mb-1" style="font-size:var(--fz-small)">Of analytics &amp; marketing jobs now require tool proficiency</div>
+                        <div class="text-muted" style="font-size:var(--fz-mini)">Naukri.com, 2025</div>
                     </div>
                     <div class="bc-stat-item">
                         <div class="mb-1" style="font-size:1.6rem">&#8377;8L+</div>
-                        <div class="mb-1" style="font-size:13px">Average starting salary for AI-integrated roles</div>
-                        <div class="text-muted" style="font-size:11px">AmbitionBox, 2025</div>
+                        <div class="mb-1" style="font-size:var(--fz-small)">Average starting salary for AI-integrated roles</div>
+                        <div class="text-muted" style="font-size:var(--fz-mini)">AmbitionBox, 2025</div>
                     </div>
                     <div class="bc-stat-item">
                         <div class="mb-1" style="font-size:1.6rem">92%</div>
-                        <div class="mb-1" style="font-size:13px">Of companies plan to expand AI use &mdash; yet fewer than 10% of employees are ready</div>
-                        <div class="text-muted" style="font-size:11px">McKinsey Global AI Survey, 2024</div>
+                        <div class="mb-1" style="font-size:var(--fz-small)">Of companies plan to expand AI use &mdash; yet fewer than 10% of employees are ready</div>
+                        <div class="text-muted" style="font-size:var(--fz-mini)">McKinsey Global AI Survey, 2024</div>
                     </div>
                 </div>
             </div>
@@ -391,8 +391,8 @@
                         <div class="bc-cert-card">
                             <span class="bc-cert-code">CPEA</span>
                             <h4 class="fw-bold mb-1">Certified Professional Excel Analyst</h4>
-                            <p class="text-muted mb-2" style="font-size:14px">Master data handling, Pivot Tables, advanced formulas, Power Query, VBA/Macros and dashboard building &mdash; the universal analytics foundation every employer expects.</p>
-                            <div style="font-size:12px;color:#6b7280" class="mb-2">
+                            <p class="text-muted mb-2" style="font-size:var(--fz-normal)">Master data handling, Pivot Tables, advanced formulas, Power Query, VBA/Macros and dashboard building &mdash; the universal analytics foundation every employer expects.</p>
+                            <div style="font-size:var(--fz-xsmall);color:#6b7280" class="mb-2">
                                 <span class="me-3"><i class="fa-solid fa-calendar-days me-1 text-orange"></i>July 2026</span>
                                 <span class="me-3"><i class="fa-solid fa-video me-1 text-orange"></i>5 Sessions</span>
                                 <span><i class="fa-solid fa-clock me-1 text-orange"></i>15 hrs</span>
@@ -405,8 +405,8 @@
                         <div class="bc-cert-card">
                             <span class="bc-cert-code">CPDA</span>
                             <h4 class="fw-bold mb-1">Certified Professional Data Analyst</h4>
-                            <p class="text-muted mb-2" style="font-size:14px">SQL querying, Power BI dashboards and DAX measures &mdash; from raw datasets to insight-driven business decisions with AI-generated code.</p>
-                            <div style="font-size:12px;color:#6b7280" class="mb-2">
+                            <p class="text-muted mb-2" style="font-size:var(--fz-normal)">SQL querying, Power BI dashboards and DAX measures &mdash; from raw datasets to insight-driven business decisions with AI-generated code.</p>
+                            <div style="font-size:var(--fz-xsmall);color:#6b7280" class="mb-2">
                                 <span class="me-3"><i class="fa-solid fa-calendar-days me-1 text-orange"></i>Aug 2026</span>
                                 <span class="me-3"><i class="fa-solid fa-video me-1 text-orange"></i>6 Sessions</span>
                                 <span><i class="fa-solid fa-clock me-1 text-orange"></i>15 hrs</span>
@@ -419,8 +419,8 @@
                         <div class="bc-cert-card">
                             <span class="bc-cert-code">CPDSA</span>
                             <h4 class="fw-bold mb-1">Certified Professional Data Science Analyst</h4>
-                            <p class="text-muted mb-2" style="font-size:14px">Python data analysis, SAS and statistical modelling applied to real business datasets &mdash; with AI-assisted coding that makes Python accessible from day one.</p>
-                            <div style="font-size:12px;color:#6b7280" class="mb-2">
+                            <p class="text-muted mb-2" style="font-size:var(--fz-normal)">Python data analysis, SAS and statistical modelling applied to real business datasets &mdash; with AI-assisted coding that makes Python accessible from day one.</p>
+                            <div style="font-size:var(--fz-xsmall);color:#6b7280" class="mb-2">
                                 <span class="me-3"><i class="fa-solid fa-calendar-days me-1 text-orange"></i>Jan 2027</span>
                                 <span class="me-3"><i class="fa-solid fa-video me-1 text-orange"></i>6 Sessions</span>
                                 <span><i class="fa-solid fa-clock me-1 text-orange"></i>15 hrs</span>
@@ -433,8 +433,8 @@
                         <div class="bc-cert-card">
                             <span class="bc-cert-code">CPQBA</span>
                             <h4 class="fw-bold mb-1">Certified Professional Quantitative Business Analyst</h4>
-                            <p class="text-muted mb-2" style="font-size:14px">Statistical modelling, forecasting with R and Tableau visualisation &mdash; turning complex quantitative methods into business decisions and leadership conversations.</p>
-                            <div style="font-size:12px;color:#6b7280" class="mb-2">
+                            <p class="text-muted mb-2" style="font-size:var(--fz-normal)">Statistical modelling, forecasting with R and Tableau visualisation &mdash; turning complex quantitative methods into business decisions and leadership conversations.</p>
+                            <div style="font-size:var(--fz-xsmall);color:#6b7280" class="mb-2">
                                 <span class="me-3"><i class="fa-solid fa-calendar-days me-1 text-orange"></i>Feb 2027</span>
                                 <span class="me-3"><i class="fa-solid fa-video me-1 text-orange"></i>6 Sessions</span>
                                 <span><i class="fa-solid fa-clock me-1 text-orange"></i>15 hrs</span>
@@ -453,8 +453,8 @@
                         <div class="bc-cert-card">
                             <span class="bc-cert-code">CDME</span>
                             <h4 class="fw-bold mb-1">Certificate in Digital Marketing Essentials</h4>
-                            <p class="text-muted mb-2" style="font-size:14px">SEO, Google Ads, email marketing and e-commerce &mdash; the full entry-level digital marketing stack taught live with the tools running campaigns right now.</p>
-                            <div style="font-size:12px;color:#6b7280" class="mb-2">
+                            <p class="text-muted mb-2" style="font-size:var(--fz-normal)">SEO, Google Ads, email marketing and e-commerce &mdash; the full entry-level digital marketing stack taught live with the tools running campaigns right now.</p>
+                            <div style="font-size:var(--fz-xsmall);color:#6b7280" class="mb-2">
                                 <span class="me-3"><i class="fa-solid fa-calendar-days me-1 text-orange"></i>Jan 2027</span>
                                 <span class="me-3"><i class="fa-solid fa-video me-1 text-orange"></i>4 Sessions</span>
                                 <span><i class="fa-solid fa-clock me-1 text-orange"></i>15 hrs</span>
@@ -467,8 +467,8 @@
                         <div class="bc-cert-card">
                             <span class="bc-cert-code">CDMA</span>
                             <h4 class="fw-bold mb-1">Certificate in Digital Marketing Applications</h4>
-                            <p class="text-muted mb-2" style="font-size:14px">Marketing automation, chatbots, content at scale and affiliate marketing &mdash; the advanced tool stack that separates practitioners from strategists.</p>
-                            <div style="font-size:12px;color:#6b7280" class="mb-2">
+                            <p class="text-muted mb-2" style="font-size:var(--fz-normal)">Marketing automation, chatbots, content at scale and affiliate marketing &mdash; the advanced tool stack that separates practitioners from strategists.</p>
+                            <div style="font-size:var(--fz-xsmall);color:#6b7280" class="mb-2">
                                 <span class="me-3"><i class="fa-solid fa-calendar-days me-1 text-orange"></i>Feb 2027</span>
                                 <span class="me-3"><i class="fa-solid fa-video me-1 text-orange"></i>4 Sessions</span>
                                 <span><i class="fa-solid fa-clock me-1 text-orange"></i>15 hrs</span>
@@ -481,8 +481,8 @@
                         <div class="bc-cert-card">
                             <span class="bc-cert-code">B1 &mdash; Bootcamp Lab</span>
                             <h4 class="fw-bold mb-1">Marketing Analytics Mastery</h4>
-                            <p class="text-muted mb-2" style="font-size:14px">Build a GA4 dashboard, an attribution model in Looker Studio and a Tableau customer journey map &mdash; one full Sunday using Julius AI and Gemini for Workspace.</p>
-                            <div style="font-size:12px;color:#6b7280" class="mb-2">
+                            <p class="text-muted mb-2" style="font-size:var(--fz-normal)">Build a GA4 dashboard, an attribution model in Looker Studio and a Tableau customer journey map &mdash; one full Sunday using Julius AI and Gemini for Workspace.</p>
+                            <div style="font-size:var(--fz-xsmall);color:#6b7280" class="mb-2">
                                 <span class="me-3"><i class="fa-solid fa-calendar-days me-1 text-orange"></i>Mar 7, 2027</span>
                                 <span class="me-3"><i class="fa-solid fa-sun me-1 text-orange"></i>Full Day</span>
                                 <span><i class="fa-solid fa-clock me-1 text-orange"></i>8 hrs</span>
@@ -495,8 +495,8 @@
                         <div class="bc-cert-card">
                             <span class="bc-cert-code">B2 &mdash; Bootcamp Lab</span>
                             <h4 class="fw-bold mb-1">Social Media, Content &amp; Influencer Marketing</h4>
-                            <p class="text-muted mb-2" style="font-size:14px">Create a Canva post, a CapCut reel, a 1-month content calendar and an influencer brief &mdash; all in one Sunday, with AI-generated visuals and captions.</p>
-                            <div style="font-size:12px;color:#6b7280" class="mb-2">
+                            <p class="text-muted mb-2" style="font-size:var(--fz-normal)">Create a Canva post, a CapCut reel, a 1-month content calendar and an influencer brief &mdash; all in one Sunday, with AI-generated visuals and captions.</p>
+                            <div style="font-size:var(--fz-xsmall);color:#6b7280" class="mb-2">
                                 <span class="me-3"><i class="fa-solid fa-calendar-days me-1 text-orange"></i>Mar 14, 2027</span>
                                 <span class="me-3"><i class="fa-solid fa-sun me-1 text-orange"></i>Full Day</span>
                                 <span><i class="fa-solid fa-clock me-1 text-orange"></i>8 hrs</span>
@@ -509,8 +509,8 @@
                         <div class="bc-cert-card">
                             <span class="bc-cert-code">B3 &mdash; Bootcamp Lab</span>
                             <h4 class="fw-bold mb-1">Social Media Analytics &amp; Future Intelligence</h4>
-                            <p class="text-muted mb-2" style="font-size:14px">Use Perplexity AI for trends, NotebookLM for brand intelligence and ChatGPT for sentiment analysis &mdash; the analytics stack that turns social data into strategy.</p>
-                            <div style="font-size:12px;color:#6b7280" class="mb-2">
+                            <p class="text-muted mb-2" style="font-size:var(--fz-normal)">Use Perplexity AI for trends, NotebookLM for brand intelligence and ChatGPT for sentiment analysis &mdash; the analytics stack that turns social data into strategy.</p>
+                            <div style="font-size:var(--fz-xsmall);color:#6b7280" class="mb-2">
                                 <span class="me-3"><i class="fa-solid fa-calendar-days me-1 text-orange"></i>Mar 21, 2027</span>
                                 <span class="me-3"><i class="fa-solid fa-sun me-1 text-orange"></i>Full Day</span>
                                 <span><i class="fa-solid fa-clock me-1 text-orange"></i>8 hrs</span>
@@ -542,29 +542,29 @@
                             <td>
                                 <div class="bc-arc-step">
                                     <div class="bc-arc-step-label">CPEA &mdash; Excel</div>
-                                    <div class="fw-semibold" style="font-size:13px">Certified Professional Excel Analyst</div>
-                                    <div style="font-size:11px;color:#6b7280;margin-top:4px">15 hrs &middot; Jul 2026</div>
+                                    <div class="fw-semibold" style="font-size:var(--fz-small)">Certified Professional Excel Analyst</div>
+                                    <div style="font-size:var(--fz-mini);color:#6b7280;margin-top:4px">15 hrs &middot; Jul 2026</div>
                                 </div>
                             </td>
                             <td>
                                 <div class="bc-arc-step">
                                     <div class="bc-arc-step-label">CPDA &mdash; SQL + Power BI</div>
-                                    <div class="fw-semibold" style="font-size:13px">Certified Professional Data Analyst</div>
-                                    <div style="font-size:11px;color:#6b7280;margin-top:4px">15 hrs &middot; Aug 2026</div>
+                                    <div class="fw-semibold" style="font-size:var(--fz-small)">Certified Professional Data Analyst</div>
+                                    <div style="font-size:var(--fz-mini);color:#6b7280;margin-top:4px">15 hrs &middot; Aug 2026</div>
                                 </div>
                             </td>
                             <td>
                                 <div class="bc-arc-step">
                                     <div class="bc-arc-step-label">CPDSA &mdash; Python + SAS</div>
-                                    <div class="fw-semibold" style="font-size:13px">Certified Professional Data Science Analyst</div>
-                                    <div style="font-size:11px;color:#6b7280;margin-top:4px">15 hrs &middot; Jan 2027</div>
+                                    <div class="fw-semibold" style="font-size:var(--fz-small)">Certified Professional Data Science Analyst</div>
+                                    <div style="font-size:var(--fz-mini);color:#6b7280;margin-top:4px">15 hrs &middot; Jan 2027</div>
                                 </div>
                             </td>
                             <td>
                                 <div class="bc-arc-step">
                                     <div class="bc-arc-step-label">CPQBA &mdash; R + Tableau</div>
-                                    <div class="fw-semibold" style="font-size:13px">Certified Professional Quantitative Business Analyst</div>
-                                    <div style="font-size:11px;color:#6b7280;margin-top:4px">15 hrs &middot; Feb 2027</div>
+                                    <div class="fw-semibold" style="font-size:var(--fz-small)">Certified Professional Quantitative Business Analyst</div>
+                                    <div style="font-size:var(--fz-mini);color:#6b7280;margin-top:4px">15 hrs &middot; Feb 2027</div>
                                 </div>
                             </td>
                         </tr>
@@ -573,29 +573,29 @@
                             <td>
                                 <div class="bc-arc-step" style="background:#eff6ff">
                                     <div class="bc-arc-step-label" style="color:#2563eb">CDME &mdash; Essentials</div>
-                                    <div class="fw-semibold" style="font-size:13px">Certificate in Digital Marketing Essentials</div>
-                                    <div style="font-size:11px;color:#6b7280;margin-top:4px">15 hrs &middot; Jan 2027</div>
+                                    <div class="fw-semibold" style="font-size:var(--fz-small)">Certificate in Digital Marketing Essentials</div>
+                                    <div style="font-size:var(--fz-mini);color:#6b7280;margin-top:4px">15 hrs &middot; Jan 2027</div>
                                 </div>
                             </td>
                             <td>
                                 <div class="bc-arc-step" style="background:#eff6ff">
                                     <div class="bc-arc-step-label" style="color:#2563eb">CDMA &mdash; Applications</div>
-                                    <div class="fw-semibold" style="font-size:13px">Certificate in Digital Marketing Applications</div>
-                                    <div style="font-size:11px;color:#6b7280;margin-top:4px">15 hrs &middot; Feb 2027</div>
+                                    <div class="fw-semibold" style="font-size:var(--fz-small)">Certificate in Digital Marketing Applications</div>
+                                    <div style="font-size:var(--fz-mini);color:#6b7280;margin-top:4px">15 hrs &middot; Feb 2027</div>
                                 </div>
                             </td>
                             <td>
                                 <div class="bc-arc-step" style="background:#f0fdf4">
                                     <div class="bc-arc-step-label" style="color:#15803d">B1 &mdash; Labs Analytics</div>
-                                    <div class="fw-semibold" style="font-size:13px">Marketing Analytics Mastery</div>
-                                    <div style="font-size:11px;color:#6b7280;margin-top:4px">8 hrs &middot; Mar 7, 2027</div>
+                                    <div class="fw-semibold" style="font-size:var(--fz-small)">Marketing Analytics Mastery</div>
+                                    <div style="font-size:var(--fz-mini);color:#6b7280;margin-top:4px">8 hrs &middot; Mar 7, 2027</div>
                                 </div>
                             </td>
                             <td>
                                 <div class="bc-arc-step" style="background:#f0fdf4">
                                     <div class="bc-arc-step-label" style="color:#15803d">B2 + B3 &mdash; Labs Intelligence</div>
-                                    <div class="fw-semibold" style="font-size:13px">Social Media, Content &amp; Future Intelligence</div>
-                                    <div style="font-size:11px;color:#6b7280;margin-top:4px">8 hrs each &middot; Mar 14 &amp; 21, 2027</div>
+                                    <div class="fw-semibold" style="font-size:var(--fz-small)">Social Media, Content &amp; Future Intelligence</div>
+                                    <div style="font-size:var(--fz-mini);color:#6b7280;margin-top:4px">8 hrs each &middot; Mar 14 &amp; 21, 2027</div>
                                 </div>
                             </td>
                         </tr>
@@ -909,8 +909,8 @@
                     <div class="d-flex align-items-center gap-3">
                         <div class="bc-testi-avatar">CK</div>
                         <div>
-                            <div class="fw-bold" style="font-size:14px">Dr. Chanakya Kumar</div>
-                            <div style="font-size:12px;color:#6b7280">Associate Prof., ISBS Pune &middot; Business Analytics &middot; 18 years</div>
+                            <div class="fw-bold" style="font-size:var(--fz-normal)">Dr. Chanakya Kumar</div>
+                            <div style="font-size:var(--fz-xsmall);color:#6b7280">Associate Prof., ISBS Pune &middot; Business Analytics &middot; 18 years</div>
                         </div>
                     </div>
                 </div>
@@ -921,8 +921,8 @@
                     <div class="d-flex align-items-center gap-3">
                         <div class="bc-testi-avatar">KS</div>
                         <div>
-                            <div class="fw-bold" style="font-size:14px">Mr. Kaushik Swaroop</div>
-                            <div style="font-size:12px;color:#6b7280">Data Scientist, Equifax &middot; Business Analytics &middot; 7 years</div>
+                            <div class="fw-bold" style="font-size:var(--fz-normal)">Mr. Kaushik Swaroop</div>
+                            <div style="font-size:var(--fz-xsmall);color:#6b7280">Data Scientist, Equifax &middot; Business Analytics &middot; 7 years</div>
                         </div>
                     </div>
                 </div>
@@ -933,8 +933,8 @@
                     <div class="d-flex align-items-center gap-3">
                         <div class="bc-testi-avatar">DI</div>
                         <div>
-                            <div class="fw-bold" style="font-size:14px">Mr. Dilip Iyer</div>
-                            <div style="font-size:12px;color:#6b7280">Training Manager, Aditya Birla Group &middot; Business Analytics &middot; 8 years</div>
+                            <div class="fw-bold" style="font-size:var(--fz-normal)">Mr. Dilip Iyer</div>
+                            <div style="font-size:var(--fz-xsmall);color:#6b7280">Training Manager, Aditya Birla Group &middot; Business Analytics &middot; 8 years</div>
                         </div>
                     </div>
                 </div>
@@ -945,8 +945,8 @@
                     <div class="d-flex align-items-center gap-3">
                         <div class="bc-testi-avatar">NM</div>
                         <div>
-                            <div class="fw-bold" style="font-size:14px">Ms. Nayana Menon</div>
-                            <div style="font-size:12px;color:#6b7280">Enterprise Insight Analyst, Giant Eagle GCC &middot; Business Analytics &middot; 5 years</div>
+                            <div class="fw-bold" style="font-size:var(--fz-normal)">Ms. Nayana Menon</div>
+                            <div style="font-size:var(--fz-xsmall);color:#6b7280">Enterprise Insight Analyst, Giant Eagle GCC &middot; Business Analytics &middot; 5 years</div>
                         </div>
                     </div>
                 </div>
@@ -957,8 +957,8 @@
                     <div class="d-flex align-items-center gap-3">
                         <div class="bc-testi-avatar">SP</div>
                         <div>
-                            <div class="fw-bold" style="font-size:14px">Mr. Srinivas Prabhu</div>
-                            <div style="font-size:12px;color:#6b7280">Founder, Incanto Dynamics &middot; Digital Marketing &middot; 8 years</div>
+                            <div class="fw-bold" style="font-size:var(--fz-normal)">Mr. Srinivas Prabhu</div>
+                            <div style="font-size:var(--fz-xsmall);color:#6b7280">Founder, Incanto Dynamics &middot; Digital Marketing &middot; 8 years</div>
                         </div>
                     </div>
                 </div>
@@ -969,8 +969,8 @@
                     <div class="d-flex align-items-center gap-3">
                         <div class="bc-testi-avatar">AM</div>
                         <div>
-                            <div class="fw-bold" style="font-size:14px">Mr. Ajith Mathew</div>
-                            <div style="font-size:12px;color:#6b7280">CMO, S&amp;H Ventures LLP &middot; Digital Marketing &middot; 13 years</div>
+                            <div class="fw-bold" style="font-size:var(--fz-normal)">Mr. Ajith Mathew</div>
+                            <div style="font-size:var(--fz-xsmall);color:#6b7280">CMO, S&amp;H Ventures LLP &middot; Digital Marketing &middot; 13 years</div>
                         </div>
                     </div>
                 </div>
@@ -996,8 +996,8 @@
                     <div class="d-flex align-items-center gap-3">
                         <div class="bc-testi-avatar">RN</div>
                         <div>
-                            <div class="fw-bold" style="font-size:14px">Rohit N.</div>
-                            <div style="font-size:12px;color:#6b7280">Finance Executive &middot; Mumbai &middot; CPEA Certified</div>
+                            <div class="fw-bold" style="font-size:var(--fz-normal)">Rohit N.</div>
+                            <div style="font-size:var(--fz-xsmall);color:#6b7280">Finance Executive &middot; Mumbai &middot; CPEA Certified</div>
                         </div>
                     </div>
                 </div>
@@ -1009,8 +1009,8 @@
                     <div class="d-flex align-items-center gap-3">
                         <div class="bc-testi-avatar">PM</div>
                         <div>
-                            <div class="fw-bold" style="font-size:14px">Priya M.</div>
-                            <div style="font-size:12px;color:#6b7280">Operations Manager &rarr; Data Analyst &middot; Pune &middot; CPDA Certified</div>
+                            <div class="fw-bold" style="font-size:var(--fz-normal)">Priya M.</div>
+                            <div style="font-size:var(--fz-xsmall);color:#6b7280">Operations Manager &rarr; Data Analyst &middot; Pune &middot; CPDA Certified</div>
                         </div>
                     </div>
                 </div>
@@ -1022,8 +1022,8 @@
                     <div class="d-flex align-items-center gap-3">
                         <div class="bc-testi-avatar">AK</div>
                         <div>
-                            <div class="fw-bold" style="font-size:14px">Arjun K.</div>
-                            <div style="font-size:12px;color:#6b7280">Digital Marketing Manager &middot; Bengaluru &middot; B1 Labs Certified</div>
+                            <div class="fw-bold" style="font-size:var(--fz-normal)">Arjun K.</div>
+                            <div style="font-size:var(--fz-xsmall);color:#6b7280">Digital Marketing Manager &middot; Bengaluru &middot; B1 Labs Certified</div>
                         </div>
                     </div>
                 </div>
@@ -1035,8 +1035,8 @@
                     <div class="d-flex align-items-center gap-3">
                         <div class="bc-testi-avatar">SL</div>
                         <div>
-                            <div class="fw-bold" style="font-size:14px">Sneha L.</div>
-                            <div style="font-size:12px;color:#6b7280">Marketing Head &middot; Hyderabad &middot; CDME Certified</div>
+                            <div class="fw-bold" style="font-size:var(--fz-normal)">Sneha L.</div>
+                            <div style="font-size:var(--fz-xsmall);color:#6b7280">Marketing Head &middot; Hyderabad &middot; CDME Certified</div>
                         </div>
                     </div>
                 </div>
@@ -1048,8 +1048,8 @@
                     <div class="d-flex align-items-center gap-3">
                         <div class="bc-testi-avatar">VT</div>
                         <div>
-                            <div class="fw-bold" style="font-size:14px">Vanessa T.</div>
-                            <div style="font-size:12px;color:#6b7280">Brand Manager &middot; Chennai &middot; B2 Labs Certified</div>
+                            <div class="fw-bold" style="font-size:var(--fz-normal)">Vanessa T.</div>
+                            <div style="font-size:var(--fz-xsmall);color:#6b7280">Brand Manager &middot; Chennai &middot; B2 Labs Certified</div>
                         </div>
                     </div>
                 </div>
@@ -1061,8 +1061,8 @@
                     <div class="d-flex align-items-center gap-3">
                         <div class="bc-testi-avatar">MD</div>
                         <div>
-                            <div class="fw-bold" style="font-size:14px">Megha D.</div>
-                            <div style="font-size:12px;color:#6b7280">Business Analyst &middot; Ahmedabad &middot; CPDSA Certified</div>
+                            <div class="fw-bold" style="font-size:var(--fz-normal)">Megha D.</div>
+                            <div style="font-size:var(--fz-xsmall);color:#6b7280">Business Analyst &middot; Ahmedabad &middot; CPDSA Certified</div>
                         </div>
                     </div>
                 </div>
@@ -1074,8 +1074,8 @@
                     <div class="d-flex align-items-center gap-3">
                         <div class="bc-testi-avatar">AK</div>
                         <div>
-                            <div class="fw-bold" style="font-size:14px">Ajeet Kumar.</div>
-                            <!-- <div style="font-size:12px;color:#6b7280">Business Analyst &middot; Ahmedabad &middot; CPDSA Certified</div> -->
+                            <div class="fw-bold" style="font-size:var(--fz-normal)">Ajeet Kumar.</div>
+                            <!-- <div style="font-size:var(--fz-xsmall);color:#6b7280">Business Analyst &middot; Ahmedabad &middot; CPDSA Certified</div> -->
                         </div>
                     </div>
                 </div>
@@ -1087,8 +1087,8 @@
                     <div class="d-flex align-items-center gap-3">
                         <div class="bc-testi-avatar">SA</div>
                         <div>
-                            <div class="fw-bold" style="font-size:14px">Shrabani Adhikary.</div>
-                            <!-- <div style="font-size:12px;color:#6b7280">Business Analyst &middot; Ahmedabad &middot; CPDSA Certified</div> -->
+                            <div class="fw-bold" style="font-size:var(--fz-normal)">Shrabani Adhikary.</div>
+                            <!-- <div style="font-size:var(--fz-xsmall);color:#6b7280">Business Analyst &middot; Ahmedabad &middot; CPDSA Certified</div> -->
                         </div>
                     </div>
                 </div>
@@ -1109,45 +1109,45 @@
         <div class="row g-4 justify-content-center">
             <div class="col-6 col-md-4 col-lg-2 text-center">
                 <div class="bc-expert-avatar">CK</div>
-                <div class="fw-bold" style="font-size:14px">Dr. Chanakya Kumar</div>
-                <div style="font-size:12px;color:#6b7280;margin-top:4px">Associate Prof., ISBS Pune</div>
-                <div style="font-size:12px;color:#6b7280">Academician, Business Analyst, Data Scientist &amp; Trainer</div>
-                <div style="font-size:11px;color:var(--bc-orange);font-weight:600;margin-top:4px">Business Analytics &middot; 18 yrs</div>
+                <div class="fw-bold" style="font-size:var(--fz-normal)">Dr. Chanakya Kumar</div>
+                <div style="font-size:var(--fz-xsmall);color:#6b7280;margin-top:4px">Associate Prof., ISBS Pune</div>
+                <div style="font-size:var(--fz-xsmall);color:#6b7280">Academician, Business Analyst, Data Scientist &amp; Trainer</div>
+                <div style="font-size:var(--fz-mini);color:var(--bc-orange);font-weight:600;margin-top:4px">Business Analytics &middot; 18 yrs</div>
             </div>
             <div class="col-6 col-md-4 col-lg-2 text-center">
                 <div class="bc-expert-avatar">KS</div>
-                <div class="fw-bold" style="font-size:14px">Mr. Kaushik Swaroop</div>
-                <div style="font-size:12px;color:#6b7280;margin-top:4px">Data Scientist, Equifax</div>
-                <div style="font-size:12px;color:#6b7280">Analytics Insights, CSM, AI Strategist</div>
-                <div style="font-size:11px;color:var(--bc-orange);font-weight:600;margin-top:4px">Business Analytics &middot; 7 yrs</div>
+                <div class="fw-bold" style="font-size:var(--fz-normal)">Mr. Kaushik Swaroop</div>
+                <div style="font-size:var(--fz-xsmall);color:#6b7280;margin-top:4px">Data Scientist, Equifax</div>
+                <div style="font-size:var(--fz-xsmall);color:#6b7280">Analytics Insights, CSM, AI Strategist</div>
+                <div style="font-size:var(--fz-mini);color:var(--bc-orange);font-weight:600;margin-top:4px">Business Analytics &middot; 7 yrs</div>
             </div>
             <div class="col-6 col-md-4 col-lg-2 text-center">
                 <div class="bc-expert-avatar">DI</div>
-                <div class="fw-bold" style="font-size:14px">Mr. Dilip Iyer</div>
-                <div style="font-size:12px;color:#6b7280;margin-top:4px">Training Manager, Aditya Birla Group</div>
-                <div style="font-size:12px;color:#6b7280">Program Mgmt, Data Science, Info Security</div>
-                <div style="font-size:11px;color:var(--bc-orange);font-weight:600;margin-top:4px">Business Analytics &middot; 8 yrs</div>
+                <div class="fw-bold" style="font-size:var(--fz-normal)">Mr. Dilip Iyer</div>
+                <div style="font-size:var(--fz-xsmall);color:#6b7280;margin-top:4px">Training Manager, Aditya Birla Group</div>
+                <div style="font-size:var(--fz-xsmall);color:#6b7280">Program Mgmt, Data Science, Info Security</div>
+                <div style="font-size:var(--fz-mini);color:var(--bc-orange);font-weight:600;margin-top:4px">Business Analytics &middot; 8 yrs</div>
             </div>
             <div class="col-6 col-md-4 col-lg-2 text-center">
                 <div class="bc-expert-avatar">NM</div>
-                <div class="fw-bold" style="font-size:14px">Ms. Nayana Menon</div>
-                <div style="font-size:12px;color:#6b7280;margin-top:4px">Enterprise Insight Analyst, Giant Eagle GCC</div>
-                <div style="font-size:12px;color:#6b7280">Data Analyst &amp; Corporate Trainer</div>
-                <div style="font-size:11px;color:var(--bc-orange);font-weight:600;margin-top:4px">Business Analytics &middot; 5 yrs</div>
+                <div class="fw-bold" style="font-size:var(--fz-normal)">Ms. Nayana Menon</div>
+                <div style="font-size:var(--fz-xsmall);color:#6b7280;margin-top:4px">Enterprise Insight Analyst, Giant Eagle GCC</div>
+                <div style="font-size:var(--fz-xsmall);color:#6b7280">Data Analyst &amp; Corporate Trainer</div>
+                <div style="font-size:var(--fz-mini);color:var(--bc-orange);font-weight:600;margin-top:4px">Business Analytics &middot; 5 yrs</div>
             </div>
             <div class="col-6 col-md-4 col-lg-2 text-center">
                 <div class="bc-expert-avatar">SP</div>
-                <div class="fw-bold" style="font-size:14px">Mr. Srinivas Prabhu</div>
-                <div style="font-size:12px;color:#6b7280;margin-top:4px">Founder, Incanto Dynamics</div>
-                <div style="font-size:12px;color:#6b7280">Digital Marketing, Generative AI &amp; Strategy</div>
-                <div style="font-size:11px;color:var(--bc-orange);font-weight:600;margin-top:4px">Digital Marketing &middot; 8 yrs</div>
+                <div class="fw-bold" style="font-size:var(--fz-normal)">Mr. Srinivas Prabhu</div>
+                <div style="font-size:var(--fz-xsmall);color:#6b7280;margin-top:4px">Founder, Incanto Dynamics</div>
+                <div style="font-size:var(--fz-xsmall);color:#6b7280">Digital Marketing, Generative AI &amp; Strategy</div>
+                <div style="font-size:var(--fz-mini);color:var(--bc-orange);font-weight:600;margin-top:4px">Digital Marketing &middot; 8 yrs</div>
             </div>
             <div class="col-6 col-md-4 col-lg-2 text-center">
                 <div class="bc-expert-avatar">AM</div>
-                <div class="fw-bold" style="font-size:14px">Mr. Ajith Mathew</div>
-                <div style="font-size:12px;color:#6b7280;margin-top:4px">Chief Marketing Officer, S&amp;H Ventures LLP</div>
-                <div style="font-size:12px;color:#6b7280">SEM, Google Ads, Social Media</div>
-                <div style="font-size:11px;color:var(--bc-orange);font-weight:600;margin-top:4px">Digital Marketing &middot; 13 yrs</div>
+                <div class="fw-bold" style="font-size:var(--fz-normal)">Mr. Ajith Mathew</div>
+                <div style="font-size:var(--fz-xsmall);color:#6b7280;margin-top:4px">Chief Marketing Officer, S&amp;H Ventures LLP</div>
+                <div style="font-size:var(--fz-xsmall);color:#6b7280">SEM, Google Ads, Social Media</div>
+                <div style="font-size:var(--fz-mini);color:var(--bc-orange);font-weight:600;margin-top:4px">Digital Marketing &middot; 13 yrs</div>
             </div>
         </div>
     </div>
@@ -1176,7 +1176,7 @@
                 </thead>
                 <tbody>
                     <tr>
-                        <td><span class="bc-cert-code" style="font-size:10px">CPEA</span> Certified Professional Excel Analyst</td>
+                        <td><span class="bc-cert-code" style="font-size:var(--fz-tiny)">CPEA</span> Certified Professional Excel Analyst</td>
                         <td><span class="sched-badge ba">Bootcamp</span></td>
                         <td class="tbl-accent fw-semibold">July 19, 2026</td>
                         <td>5 sessions</td>
@@ -1184,7 +1184,7 @@
                         <td>Live Online &middot; Sat/Sun</td>
                     </tr>
                     <tr>
-                        <td><span class="bc-cert-code" style="font-size:10px">CPDA</span> Certified Professional Data Analyst</td>
+                        <td><span class="bc-cert-code" style="font-size:var(--fz-tiny)">CPDA</span> Certified Professional Data Analyst</td>
                         <td><span class="sched-badge ba">Bootcamp</span></td>
                         <td class="tbl-accent fw-semibold">Aug 23, 2026</td>
                         <td>6 sessions</td>
@@ -1192,7 +1192,7 @@
                         <td>Live Online &middot; Sat/Sun</td>
                     </tr>
                     <tr>
-                        <td><span class="bc-cert-code" style="font-size:10px">CPDSA</span> Certified Professional Data Science Analyst</td>
+                        <td><span class="bc-cert-code" style="font-size:var(--fz-tiny)">CPDSA</span> Certified Professional Data Science Analyst</td>
                         <td><span class="sched-badge ba">Bootcamp</span></td>
                         <td class="tbl-accent fw-semibold">Jan 9, 2027</td>
                         <td>6 sessions</td>
@@ -1200,7 +1200,7 @@
                         <td>Live Online &middot; Sat/Sun</td>
                     </tr>
                     <tr>
-                        <td><span class="bc-cert-code" style="font-size:10px">CPQBA</span> Certified Professional Quantitative Business Analyst</td>
+                        <td><span class="bc-cert-code" style="font-size:var(--fz-tiny)">CPQBA</span> Certified Professional Quantitative Business Analyst</td>
                         <td><span class="sched-badge ba">Bootcamp</span></td>
                         <td class="tbl-accent fw-semibold">Feb 20, 2027</td>
                         <td>6 sessions</td>
@@ -1208,7 +1208,7 @@
                         <td>Live Online &middot; Sat/Sun</td>
                     </tr>
                     <tr>
-                        <td><span class="bc-cert-code" style="font-size:10px">CDME</span> Certificate in Digital Marketing Essentials</td>
+                        <td><span class="bc-cert-code" style="font-size:var(--fz-tiny)">CDME</span> Certificate in Digital Marketing Essentials</td>
                         <td><span class="sched-badge ba">Bootcamp</span></td>
                         <td class="tbl-accent fw-semibold">Jan 10, 2027</td>
                         <td>4 sessions</td>
@@ -1216,7 +1216,7 @@
                         <td>Live Online &middot; Sat/Sun</td>
                     </tr>
                     <tr>
-                        <td><span class="bc-cert-code" style="font-size:10px">CDMA</span> Certificate in Digital Marketing Applications</td>
+                        <td><span class="bc-cert-code" style="font-size:var(--fz-tiny)">CDMA</span> Certificate in Digital Marketing Applications</td>
                         <td><span class="sched-badge ba">Bootcamp</span></td>
                         <td class="tbl-accent fw-semibold">Feb 7, 2027</td>
                         <td>4 sessions</td>
@@ -1224,7 +1224,7 @@
                         <td>Live Online &middot; Sat/Sun</td>
                     </tr>
                     <tr>
-                        <td><span class="bc-cert-code" style="font-size:10px">B1</span> Marketing Analytics Mastery</td>
+                        <td><span class="bc-cert-code" style="font-size:var(--fz-tiny)">B1</span> Marketing Analytics Mastery</td>
                         <td><span class="sched-badge labs">LABS ★</span></td>
                         <td class="tbl-accent fw-semibold">Mar 7, 2027</td>
                         <td>Full day</td>
@@ -1232,7 +1232,7 @@
                         <td>Live Online &middot; Sunday</td>
                     </tr>
                     <tr>
-                        <td><span class="bc-cert-code" style="font-size:10px">B2</span> Social Media, Content &amp; Influencer Marketing</td>
+                        <td><span class="bc-cert-code" style="font-size:var(--fz-tiny)">B2</span> Social Media, Content &amp; Influencer Marketing</td>
                         <td><span class="sched-badge labs">LABS ★</span></td>
                         <td class="tbl-accent fw-semibold">Mar 14, 2027</td>
                         <td>Full day</td>
@@ -1240,7 +1240,7 @@
                         <td>Live Online &middot; Sunday</td>
                     </tr>
                     <tr>
-                        <td><span class="bc-cert-code" style="font-size:10px">B3</span> Social Media Analytics &amp; Future Intelligence</td>
+                        <td><span class="bc-cert-code" style="font-size:var(--fz-tiny)">B3</span> Social Media Analytics &amp; Future Intelligence</td>
                         <td><span class="sched-badge labs">LABS ★</span></td>
                         <td class="tbl-accent fw-semibold">Mar 21, 2027</td>
                         <td>Full day</td>

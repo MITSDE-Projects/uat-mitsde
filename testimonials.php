@@ -36,7 +36,7 @@
 
         .tv-group-eyebrow {
             display: inline-flex; align-items: center; gap: 8px;
-            font-size: 10.5px; font-weight: 700; letter-spacing: 0.13em;
+            font-size: var(--fz-tiny); font-weight: 700; letter-spacing: 0.13em;
             text-transform: uppercase; color: var(--primary-orange);
             margin-bottom: 8px;
         }
@@ -89,7 +89,7 @@
         }
 
         .tv-title {
-            font-size: 13.5px; font-weight: 600;
+            font-size: var(--fz-normal); font-weight: 600;
             color: var(--text-dark); line-height: 1.45;
             margin-top: 12px; text-align: center;
         }

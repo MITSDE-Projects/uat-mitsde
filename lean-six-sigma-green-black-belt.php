@@ -477,8 +477,8 @@
                                 <div class="modal-body py-3">
 
                                     <div class="mb-3">
-                                        <h6 class="mb-1" style="color:#ea580c;font-weight:700;font-size:14px;">Education And Certifications</h6>
-                                        <ul class="ps-4 mb-0" style="font-size:13px;line-height:1.35;">
+                                        <h6 class="mb-1" style="color:#ea580c;font-weight:700;font-size:var(--fz-normal);">Education And Certifications</h6>
+                                        <ul class="ps-4 mb-0" style="font-size:var(--fz-small);line-height:1.35;">
                                             <li>B. Tech (Hons.) I.I.T.- Mumbai (Silver Medalist).</li>
                                             <li>PGDMI, I.I.M. – Kolkata</li>
                                             <li>Lean Six Sigma Master Black Belt</li>
@@ -488,10 +488,10 @@
                                     </div>
 
                                     <div class="mb-3">
-                                        <h6 class="mb-1" style="color:#ea580c;font-weight:700;font-size:14px;">Training Domains</h6>
+                                        <h6 class="mb-1" style="color:#ea580c;font-weight:700;font-size:var(--fz-normal);">Training Domains</h6>
                                         <div class="row">
                                             <div class="col-md-6">
-                                                <ul class="ps-4 mb-0" style="font-size:13px;line-height:1.35;">
+                                                <ul class="ps-4 mb-0" style="font-size:var(--fz-small);line-height:1.35;">
                                                     <li>Six Sigma / Lean Six Sigma</li>
                                                     <li>Kaizen-Lean Management</li>
                                                     <li>VSM</li>
@@ -506,7 +506,7 @@
                                                 </ul>
                                             </div>
                                             <div class="col-md-6">
-                                                <ul class="ps-4 mb-0" style="font-size:13px;line-height:1.35;">
+                                                <ul class="ps-4 mb-0" style="font-size:var(--fz-small);line-height:1.35;">
                                                     <li>Lead Auditor and Internal Auditor training</li>
                                                     <li>ISO Management Systems</li>
                                                     <li>IATF 16949</li>
@@ -517,8 +517,8 @@
                                     </div>
 
                                     <div class="mb-3">
-                                        <h6 class="mb-1" style="color:#ea580c;font-weight:700;font-size:14px;">Work Experience</h6>
-                                        <ul class="ps-4 mb-0" style="font-size:13px;line-height:1.35;">
+                                        <h6 class="mb-1" style="color:#ea580c;font-weight:700;font-size:var(--fz-normal);">Work Experience</h6>
+                                        <ul class="ps-4 mb-0" style="font-size:var(--fz-small);line-height:1.35;">
                                             <li>Founder – Director, Asian Institute of Quality Management (since 1995) – Pune</li>
                                             <li>Director-Data Systems Services – Pune (1987 – 1990)</li>
                                             <li>Free-lance trainer &amp; Associate Faculty at National Insurance Academy (1990 to 1993)</li>
@@ -527,7 +527,7 @@
                                         </ul>
                                     </div>
 
-                                    <div class="mb-3" style="font-size:13px;line-height:1.4;">
+                                    <div class="mb-3" style="font-size:var(--fz-small);line-height:1.4;">
                                         <p class="mb-2">Mr. Singh has <strong style="color:#1687c9;">trained more than 43,000 persons</strong> in India and 13 countries overseas.</p>
                                         <p class="mb-0">Has mentored over <strong style="color:#1687c9;">6300 organizations</strong> for successful implementation of Lean Six Sigma Green Belt, Black Belt, Kaizen-Lean, Manufacturing Excellence and KPI projects.</p>
                                     </div>
@@ -568,8 +568,8 @@
                                 <div class="modal-body py-3">
 
                                     <div class="mb-3">
-                                        <h6 class="mb-1" style="color:#ea580c;font-weight:700;font-size:14px;">Education And Certifications</h6>
-                                        <ul class="ps-4 mb-0" style="font-size:13px;line-height:1.35;">
+                                        <h6 class="mb-1" style="color:#ea580c;font-weight:700;font-size:var(--fz-normal);">Education And Certifications</h6>
+                                        <ul class="ps-4 mb-0" style="font-size:var(--fz-small);line-height:1.35;">
                                             <li>Post-Graduate in Systems Analysis &amp; Design, N.I.I.T., Delhi – 1984</li>
                                             <li>Graduated from Sacred Heart College, Dalsiee – 1979</li>
                                             <li>Lean Six Sigma Master Black Belt</li>
@@ -579,10 +579,10 @@
                                     </div>
 
                                     <div class="mb-3">
-                                        <h6 class="mb-1" style="color:#ea580c;font-weight:700;font-size:14px;">Training Domains</h6>
+                                        <h6 class="mb-1" style="color:#ea580c;font-weight:700;font-size:var(--fz-normal);">Training Domains</h6>
                                         <div class="row">
                                             <div class="col-md-6">
-                                                <ul class="ps-4 mb-0" style="font-size:13px;line-height:1.35;">
+                                                <ul class="ps-4 mb-0" style="font-size:var(--fz-small);line-height:1.35;">
                                                     <li>Lean Six Sigma</li>
                                                     <li>Manufacturing Excellence</li>
                                                     <li>Operational Excellence</li>
@@ -595,7 +595,7 @@
                                                 </ul>
                                             </div>
                                             <div class="col-md-6">
-                                                <ul class="ps-4 mb-0" style="font-size:13px;line-height:1.35;">
+                                                <ul class="ps-4 mb-0" style="font-size:var(--fz-small);line-height:1.35;">
                                                     <li>KPI Management</li>
                                                     <li>Global 8D Problem-Solving Methodology</li>
                                                     <li>FMEA, SPC, MSA, APQP, PPAP, 5 Core Tools</li>
@@ -608,15 +608,15 @@
                                     </div>
 
                                     <div class="mb-3">
-                                        <h6 class="mb-1" style="color:#ea580c;font-weight:700;font-size:14px;">Work Experience</h6>
-                                        <ul class="ps-4 mb-0" style="font-size:13px;line-height:1.35;">
+                                        <h6 class="mb-1" style="color:#ea580c;font-weight:700;font-size:var(--fz-normal);">Work Experience</h6>
+                                        <ul class="ps-4 mb-0" style="font-size:var(--fz-small);line-height:1.35;">
                                             <li>CEO – Asian Institute of Quality Management since 2007</li>
                                             <li>Enertech UPS Pvt. Ltd. – Pune, 1992 – 2007</li>
                                             <li>Girisons Clothing Industry – Pune, 1985 – 1992</li>
                                         </ul>
                                     </div>
 
-                                    <div class="mb-3" style="font-size:13px;line-height:1.4;">
+                                    <div class="mb-3" style="font-size:var(--fz-small);line-height:1.4;">
                                         <p class="mb-2">Mrs. Singh is an IT professional with <strong style="color:#1687c9;">over 37 years'</strong> work experience in Quality Management and Manufacturing / Operational Excellence.</p>
                                         <p class="mb-2">Lean / Six Sigma / 3P Events / OpEx training &amp; Consultancy offered to more than <strong style="color:#1687c9;">1700 organizations</strong>.</p>
                                         <p class="mb-0">She has mentored more than <strong style="color:#1687c9;">4800 Lean and Six Sigma (DMAIC / DFSS) projects</strong> in India, Kuwait, UAE, Bahrain and Malaysia.</p>

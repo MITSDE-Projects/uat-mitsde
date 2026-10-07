@@ -38,7 +38,7 @@
         .ra-pdf-list li a {
             display: flex; align-items: flex-start; gap: 10px;
             color: var(--text-dark); text-decoration: none;
-            font-size: 14px; line-height: 1.5;
+            font-size: var(--fz-normal); line-height: 1.5;
             padding: 8px 12px;
             border-radius: 6px;
             border: 1px solid #f0ede9;
@@ -52,7 +52,7 @@
         }
         .ra-pdf-list li a i {
             color: #c0392b;
-            font-size: 16px;
+            font-size: var(--fz-large);
             flex-shrink: 0;
             margin-top: 2px;
         }

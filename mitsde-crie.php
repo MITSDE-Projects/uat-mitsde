@@ -337,7 +337,7 @@
                 </div>
             </div>
 
-            <p style="color:var(--text-light);font-size:0.9rem;">Contact us: <a href="mailto:edcell@mitsde.com" style="color:#f47521;font-size:0.9rem;">edcell@mitsde.com</a></p>
+            <p style="color:var(--text-light);font-size:var(--fz-medium);">Contact us: <a href="mailto:edcell@mitsde.com" style="color:#f47521;font-size:var(--fz-medium);">edcell@mitsde.com</a></p>
 
             <!-- 3.2 Climate Cell -->
             <h4 class="mt-4"><b>3.2 Climate Cell</b></h4>
@@ -401,7 +401,7 @@
                     <p>Under the R&amp;D Cell and Idea Café, we encourage learners to participate in the Udyam Research
                         Journal by contributing research papers and innovative ideas. This initiative promotes academic
                         research, critical thinking, and knowledge sharing among learners.<br>
-                        <a href="https://www.udyammitsde.com/index.php/udyam" target="_blank" rel="noopener" style="color:#f47521;font-size:0.9rem;">
+                        <a href="https://www.udyammitsde.com/index.php/udyam" target="_blank" rel="noopener" style="color:#f47521;font-size:var(--fz-medium);">
                             Visit Udyam – The Journal of Business Insights Website
                         </a>
                     </p>
