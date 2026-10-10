@@ -441,15 +441,16 @@ for ($i = 0; $i < $dataSize; $i++) {
                 $mail->AddBCC('sanjay.gaikwad@mitsde.com');
                 $mail->AddBCC('raj.marathe@mitsde.com');
                 $mail->AddBCC('abhishek.kalyana@mitsde.com');
-                $mail->AddBCC('jayjeet.deshmukh@mitsde.com');
+                $mail->AddBCC('dinesh.marke@mitsde.com');
                 $mail->AddBCC('priyanka.kaul@mitsde.com');
                 $mail->AddBCC('nivedita.dawate@mitsde.com');
-                $mail->AddBCC('priti.thakre@mitsde.com');
                 $mail->AddBCC('umesh.ghatale@mitsde.com');
                 $mail->AddBCC('vrushali.bansode@mitsde.com');
-                //$mail->AddBCC('accounts.mitsde@mitpune.edu.in');
+                $mail->AddBCC('jagannath.lande@mitsde.com');
                 $mail->AddBCC('shivraj.pachawadkar@mitsde.com');
                 $mail->AddBCC('tejas.meshram@mitsde.com');
+                $mail->AddBCC('pooja.patwadkar@mitsde.com');
+                $mail->AddBCC('vaibhav.kumar@mitsde.com');
                 $mail->AddBCC($consellername[1]);
 
                 $mail->Send();

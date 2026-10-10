@@ -134,6 +134,9 @@
                     <div class="row align-items-start g-4">
                         <div class="col-md-8">
                             <ul class="ra-pdf-list">
+                                <li><a href="https://mitsde.com/assets/images/media/common-images-new/RecognitionApproval-pdf/EOA-Report-2026-2027.PDF" target="_blank" rel="noopener">
+                                    <i class="fa-solid fa-file-pdf"></i>Approval Letter 2026–27 from AICTE
+                                </a></li>
                                 <li><a href="https://mitsde.com/assets/images/media/common-images-new/RecognitionApproval-pdf/EOA-Report-2025-2026.PDF" target="_blank" rel="noopener">
                                     <i class="fa-solid fa-file-pdf"></i>Approval Letter 2025–26 from AICTE
                                 </a></li>
