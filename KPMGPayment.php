@@ -167,6 +167,7 @@ function sendtoreject(value, id) {
     <!--API for Queck contact----->
     <script src="assets/js/api/jquery-1.10.2.min.js"></script>
     <script type="text/javascript" src="assets/js/api/validation.js" charset="UTF-8"></script>
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 
     <script language="javascript" type="text/javascript">
     function getXMLHTTP() { //fuction to return the xml http object
@@ -464,6 +465,11 @@ if (e.target.value == 'Prarambh') {
                                             </td>
                                         </tr>
                                     </table>
+                                </div>
+                                <div class="d-flex justify-content-center mt-2">
+                                    <div class="g-recaptcha" data-sitekey="6Lf1dR4gAAAAAJXXpTYVhawIuElj2l7XXvd2FRsJ"
+                                        required="" data-callback="enableSubmitBtn">
+                                    </div>
                                 </div>
                                 <div class="center mt-2">
                                     <button type="submit" onclick="myfunction()" style="width: 50%;"
