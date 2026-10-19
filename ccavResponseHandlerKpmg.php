@@ -249,8 +249,7 @@ $learnerstatus[1];
 
 				<p>Used Payment Gateway : ICICI </p>
 
-				<p>If you have any questions, please contact us at campussupport@mitsde.com or <a
-						href="https://elibrary.mitsde.com/callmeback.php" traget="_blnack">Click here</a> to call back
+				<p>If you have any questions, please contact us at monika.pateriya@mitsde.com
 				</p>
 				<p>Thank you and see you soon.<br>
 					Regards,<br>
