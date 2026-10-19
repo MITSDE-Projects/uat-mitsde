@@ -150,7 +150,7 @@ $learnerstatus[1];
 								$temp1['email_id'],
 								$temp1['phone'],
 								$temp1['course'],
-								$Specialization[1],
+								$temp1['SpecializationID'],
 								'141',
 								'KPMG Backlog Fee',
 								$ReceiptType,
