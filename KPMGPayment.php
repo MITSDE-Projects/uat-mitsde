@@ -169,6 +169,12 @@ function sendtoreject(value, id) {
     <script type="text/javascript" src="assets/js/api/validation.js" charset="UTF-8"></script>
     <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 
+    <script>
+        function enableSubmitBtn() {
+            document.getElementById("mysubmitBtn").disabled = false;  //enable the submit button
+        }
+    </script>
+
     <script language="javascript" type="text/javascript">
     function getXMLHTTP() { //fuction to return the xml http object
         var xmlhttp = false;
@@ -472,7 +478,7 @@ if (e.target.value == 'Prarambh') {
                                     </div>
                                 </div>
                                 <div class="center mt-2">
-                                    <button type="submit" onclick="myfunction()" style="width: 50%;"
+                                    <button type="submit" onclick="myfunction()" style="background: #f47521;width: 50%;color: #fff;" id="mysubmitBtn" disabled="disabled"
                                         class="btn btn-primary mit-button">Pay Now</button>
                                 </div>
                         </form>
