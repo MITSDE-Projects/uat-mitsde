@@ -211,7 +211,7 @@ $learnerstatus[1];
 
 						$StudentFeesType = explode('=', $decryptValues[27]);
 
-						echo '<tr><td>Fees Type :</td><td>KPMG BA/BI Certification Course 3rd Attempt fee Payment</td></tr>';
+						echo '<tr><td>Fees Type :</td><td>KPMG Certification Course 3rd Attempt fee Payment</td></tr>';
 
 						$Fees = explode('=', $decryptValues[35]);
 
@@ -287,7 +287,7 @@ $learnerstatus[1];
 
 				$mail->AddReplyTo('admissions@mitsde.com', 'No-Reply');
 
-				$mail->Subject = "KPMG BA/BI Certification Course 3rd Attempt fee Payment Made Successfully";
+				$mail->Subject = "KPMG Certification Course 3rd Attempt fee Payment Made Successfully";
 
 				$mail->AltBody = "To view the message, please use an HTML compatible email viewer!"; // optional, comment out and test
 		
@@ -400,7 +400,7 @@ $learnerstatus[1];
 
 				$mail->AddReplyTo('admissions@mitsde.com', 'No-Reply');
 
-				$mail->Subject = "Canceled This Transaction for KPMG BA/BI Certification Course 3rd Attempt fee Payment";
+				$mail->Subject = "Canceled This Transaction for KPMG Certification Course 3rd Attempt fee Payment";
 
 				$mail->AltBody = "To view the message, please use an HTML compatible email viewer!"; // optional, comment out and test
 			
@@ -515,7 +515,7 @@ $learnerstatus[1];
 
 				$mail->AddReplyTo('admissions@mitsde.com', 'No-Reply');
 
-				$mail->Subject = "Current Transaction is Failed for KPMG BA/BI Certification Course 3rd Attempt fee Payment";
+				$mail->Subject = "Current Transaction is Failed for KPMG Certification Course 3rd Attempt fee Payment";
 
 				$mail->AltBody = "To view the message, please use an HTML compatible email viewer!"; // optional, comment out and test
 			

@@ -343,7 +343,7 @@ if (e.target.value == 'Prarambh') {
 
                     <div class="card">
                         <!-- <h5 class="text-center mb-4">Powering world-class companies</h5> -->
-                        <h3>KPMG BA/BI Certification Course 3rd Attempt fee Payment</h3>
+                        <h3>KPMG Certification Course 3rd Attempt fee Payment</h3>
                         <p class="blue-text"><b>Enter Only Admission ID. We Will get your information from database.</b>
                         </p>
                         <form action="ccavRequestHandlerKpmg.php" name="OtherFeesPayment" id="OtherFeesPayment"
@@ -422,7 +422,7 @@ if (e.target.value == 'Prarambh') {
 
                             <div class="form-group mt-2">
                                     <div>
-                                        <input type="text" readonly class="form-control" name="amount" value="1000" id="exampleInputPassword1" placeholder="Amount">
+                                        <input type="text" readonly class="form-control" name="amount" value="1" id="exampleInputPassword1" placeholder="Amount">
                                             <input type="hidden" readonly class="form-control" id="merchant_param2" name="merchant_param2" value="140" >
                                         <input type="hidden" readonly class="form-control" id="merchant_param4" name="merchant_param4" value="" >
                                             
