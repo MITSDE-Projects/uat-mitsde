@@ -279,8 +279,8 @@ $learnerstatus[1];
 				$mail->SMTPSecure = "tls";                 // sets the prefix to the servier
 				$mail->Host = "email-smtp.us-east-1.amazonaws.com";      // sets GMAIL as the SMTP server
 				$mail->Port = 2587;                   // set the SMTP port for the GMAIL
-				$mail->Username = "AKIA5OQ6466FZWEYNNVJ";  // GMAIL username
-				$mail->Password = "BB8uQenn6fCEjW791mFxeUgQ39xwI/9PEBDPz7uasG58";            // GMAIL password
+				$mail->Username = "AKIA5OQ6466FQH7J437A";  // GMAIL username
+				$mail->Password = "BNuSqYkuMXY6D9OqA7Gp4ABHK3LSIPUBoII+233SV+kC";            // GMAIL password
 		
 
 				$mail->SetFrom('admissions@mitsde.com', 'MIT-School of Distance Education');
@@ -299,6 +299,7 @@ $learnerstatus[1];
 				$mail->AddBCC('sanjay.gaikwad@mitsde.com');
 				$mail->AddBCC('nikhil.bhillare@mitsde.com');
 				$mail->AddBCC('monika.pateriya@mitsde.com');
+				$mail->AddBCC('raj.marathe@mitsde.com');
 
 
 
@@ -393,8 +394,8 @@ $learnerstatus[1];
 				$mail->SMTPSecure = "tls";                 // sets the prefix to the servier
 				$mail->Host = "email-smtp.us-east-1.amazonaws.com";      // sets GMAIL as the SMTP server
 				$mail->Port = 2587;                   // set the SMTP port for the GMAIL
-				$mail->Username = "AKIA5OQ6466FZWEYNNVJ";  // GMAIL username
-				$mail->Password = "BB8uQenn6fCEjW791mFxeUgQ39xwI/9PEBDPz7uasG58";            // GMAIL password
+				$mail->Username = "AKIA5OQ6466FQH7J437A";  // GMAIL username
+				$mail->Password = "BNuSqYkuMXY6D9OqA7Gp4ABHK3LSIPUBoII+233SV+kC";            // GMAIL password
 			
 				$mail->SetFrom('admissions@mitsde.com', 'MIT-School of Distance Education');
 
@@ -414,7 +415,7 @@ $learnerstatus[1];
 				$mail->AddBCC('sanjay.gaikwad@mitsde.com');
 				$mail->AddBCC('nikhil.bhillare@mitsde.com');
 				$mail->AddBCC('monika.pateriya@mitsde.com');
-
+				$mail->AddBCC('raj.marathe@mitsde.com');
 
 
 
@@ -508,8 +509,8 @@ $learnerstatus[1];
 				$mail->SMTPSecure = "tls";                 // sets the prefix to the servier
 				$mail->Host = "email-smtp.us-east-1.amazonaws.com";      // sets GMAIL as the SMTP server
 				$mail->Port = 2587;                   // set the SMTP port for the GMAIL
-				$mail->Username = "AKIA5OQ6466FZWEYNNVJ";  // GMAIL username
-				$mail->Password = "BB8uQenn6fCEjW791mFxeUgQ39xwI/9PEBDPz7uasG58";            // GMAIL password
+				$mail->Username = "AKIA5OQ6466FQH7J437A";  // GMAIL username
+				$mail->Password = "BNuSqYkuMXY6D9OqA7Gp4ABHK3LSIPUBoII+233SV+kC";            // GMAIL password
 			
 				$mail->SetFrom('admissions@mitsde.com', 'MIT-School of Distance Education');
 
@@ -529,6 +530,7 @@ $learnerstatus[1];
 				$mail->AddBCC('sanjay.gaikwad@mitsde.com');
 				$mail->AddBCC('nikhil.bhillare@mitsde.com');
 				$mail->AddBCC('monika.pateriya@mitsde.com');
+				$mail->AddBCC('raj.marathe@mitsde.com');
 
 
 
