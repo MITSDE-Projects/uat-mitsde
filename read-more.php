@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
-    <title>Read More</title>
+    <title>Read More About MIT SDE | Online Learning & PGDM Courses India</title>
 
 
     <meta name="description" content="Explore the application process for PGDM courses at MIT School of Distance Education. Learn how to apply and advance your career with flexible, industry-relevant programs.

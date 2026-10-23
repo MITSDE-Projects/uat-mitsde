@@ -11,7 +11,7 @@
 
 
     <meta name="description"
-        content="Step into Bangalore’s vibrant corporate and industrial hub with MITSDE’s PGDM Operations Management in Bangalore. Designed for working professionals and fresh graduates, this program equips you with the expertise to manage processes, optimize resources, and lead operational excellence across industries. With flexible online learning, an industry-focused curriculum, and the legacy of MIT Pune, MITSDE prepares you to excel in the competitive job market, from IT parks and aerospace units to e-commerce and manufacturing companies. " />
+        content="Explore financial analytics to improve budgeting, forecasting, risk management, and data-driven decisions. Build essential skills for a successful finance career with MIT SDE." />
     <meta name="keywords" content="Financial Analytics, Importance of Financial Analytics, Types of Financial Analytics,
 Financial Data, Financial Analysis Tools" />
     <!-- CANONICAL TAG -->
@@ -26,7 +26,7 @@ Financial Data, Financial Analysis Tools" />
     <meta property="og:site_name" content="MIT School of Distance Education">
     <meta property="og:url" content="https://mitsde.com/financial-analytics">
     <meta property="og:description"
-        content="Step into Bangalore’s vibrant corporate and industrial hub with MITSDE’s PGDM Operations Management in Bangalore. Designed for working professionals and fresh graduates, this program equips you with the expertise to manage processes, optimize resources, and lead operational excellence across industries. With flexible online learning, an industry-focused curriculum, and the legacy of MIT Pune, MITSDE prepares you to excel in the competitive job market, from IT parks and aerospace units to e-commerce and manufacturing companies. ">
+        content="Explore financial analytics to improve budgeting, forecasting, risk management, and data-driven decisions. Build essential skills for a successful finance career with MIT SDE.">
     <meta property="og:type" content="website">
     <meta property="og:image" content="#">
 

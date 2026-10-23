@@ -10,7 +10,7 @@
 
     <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
-<meta name="description" content="MIT School of Distance Education is India's leading correspondence MBA institute. We are distance education arm of MIT Pune group. We provide distance MBA courses across India." />
+<meta name="description" content="Explore an MBA in Information Technology to build IT management, business strategy, and leadership skills for career growth in the technology industry." />
 <meta name="keywords" content="" />
 <meta name="author" content="" />
     <meta name="author" content="#">

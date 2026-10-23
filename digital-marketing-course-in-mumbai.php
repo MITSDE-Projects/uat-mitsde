@@ -223,7 +223,7 @@ Take the next step in your career—enroll in the best digital marketing course 
                                 email
                                 automation, and AI-driven marketing tools</strong>.
                         </p>
-                        <p>Our <strong>industry-recognized digital marketing certification in Mumbai</strong> combines
+                        <p>Our <strong>industry-recognized <a href="https://mitsde.com/certification-in-digital-marketing">digital marketing certification</a> in Mumbai</strong> combines
                             expert-led
                             training, hands-on live projects, real-world case studies, and <strong>100% placement
                                 assistance</strong>—making it one of the most sought-after programs for <strong>digital
