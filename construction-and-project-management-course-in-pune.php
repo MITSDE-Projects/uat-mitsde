@@ -305,7 +305,7 @@
       <div class="row">
         <div class="col-md-12 col-lg-12 fintech-certi fin-feature1 hero11">
   <h2>Eligibility – Construction and Project Management in Pune</h2>
-  <p>To enroll in MITSDE programs:</p>
+  <p>To enroll in <a href="https://mitsde.com/">MITSDE</a> programs:</p>
   <li><span class="newright-icon1"></span>Bachelor’s degree in any discipline from a recognized university</li>
   <li><span class="newright-icon1"></span>Professionals in construction, real estate, or project management are encouraged</li>
   <li><span class="newright-icon1"></span>Open to both fresh graduates and working professionals</li>

@@ -497,7 +497,7 @@
                 <div class="row">
                     <div class="col-md-12 col-lg-12 fintech-certi fin-feature1 hero11">
                         <h2>Banking and Finance Management for Working Professionals </h2>
-                        <p>MITSDE’s <b>banking and finance management programs in Pune</b> are ideal for working professionals aiming to transition into <b>banking leadership, investment roles, or financial consulting</b> — all without leaving their current jobs. The <b>flexible online model</b> ensures skill-building while balancing career growth.
+                        <p><a href="https://mitsde.com/">MITSDE</a>’s <b>banking and finance management programs in Pune</b> are ideal for working professionals aiming to transition into <b>banking leadership, investment roles, or financial consulting</b> — all without leaving their current jobs. The <b>flexible online model</b> ensures skill-building while balancing career growth.
                         </p>
 
                     </div>

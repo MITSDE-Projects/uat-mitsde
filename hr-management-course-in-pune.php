@@ -201,7 +201,7 @@
                 <div class="row">
                     <div class="col-md-12 col-lg-6 main-banner">
                         <h1>HR Management Course in Pune</h1>
-
+                        <p>Develop expertise in recruitment, employee engagement, and HR practices to advance your career.</p>
 
                         <div class="page-btn mt-3">
                             <button type="button" class="btn btn-primary mit-button cus-btn inner-cus ms-0"

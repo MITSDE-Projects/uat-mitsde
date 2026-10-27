@@ -200,7 +200,7 @@
                 <div class="row">
                     <div class="col-md-12 col-lg-6 main-banner">
                         <h1>Material Management Course in Pune</h1>
-
+                        <p>Enhance your skills in procurement, inventory control, and supply chain management for career growth.</p>
 
                         <div class="page-btn mt-3">
                             <button type="button" class="btn btn-primary mit-button cus-btn inner-cus ms-0"
