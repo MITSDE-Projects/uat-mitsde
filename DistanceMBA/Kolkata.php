@@ -69,6 +69,51 @@
 
 
 	</style>
+
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollegeOrUniversity",
+  "name": "MIT School of Distance Education",
+  "alternateName": "MIT SDE",
+  "url": "https://mitsde.com/DistanceMBA/Kolkata",
+  "logo": "https://mitsde.com/assets/images/new/logo-mit-school-of-distance-education.png",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+91 9112207207",
+    "contactType": "customer service",
+    "areaServed": "IN",
+    "availableLanguage": ["en","Hindi"]
+  },
+  "sameAs": [
+    "https://www.facebook.com/MITPuneDistanceEducationOnline/",
+    "https://www.instagram.com/mitdistanceeducation/?hl=en",
+    "https://www.youtube.com/c/MITSDEPune",
+    "https://www.linkedin.com/school/mitsde/home/"
+  ]
+}
+</script>
+
+<!-- breadcrumb -->
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "BreadcrumbList", 
+  "itemListElement": [{
+    "@type": "ListItem", 
+    "position": 1, 
+    "name": "Homepage",
+    "item": "https://mitsde.com/"  
+  },{
+    "@type": "ListItem", 
+    "position": 2, 
+    "name": "Distance MBA Kolkata",
+    "item": "https://mitsde.com/DistanceMBA/Kolkata"  
+  }]
+}
+</script>
+
 </head> 
 <body class="header-sticky">
 

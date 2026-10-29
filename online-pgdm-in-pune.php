@@ -66,6 +66,27 @@
     <!----->
 
     <?php include "new-city-page-google-code.html";?>
+
+    <!-- breadcrumb -->
+
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "BreadcrumbList", 
+  "itemListElement": [{
+    "@type": "ListItem", 
+    "position": 1, 
+    "name": "Homepage",
+    "item": "https://mitsde.com/"  
+  },{
+    "@type": "ListItem", 
+    "position": 2, 
+    "name": "Online PGDM in Pune",
+    "item": "https://mitsde.com/online-pgdm-in-pune"  
+  }]
+}
+</script>
+
 </head>
 
 <body>
