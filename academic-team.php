@@ -95,244 +95,238 @@
                                 email: 'bonnie.rajesh@mitsde.com'
                             },
                             {
-                                id: 4,
+                                id: 3,
                                 name: 'Dr. Nitin Zadpe',
                                 designation: 'Head of Discipline or Professor',
                                 email: 'nitin@mitsde.com'
                             },
                             {
-                                id: 5,
-                                name: 'Pranav Kulkarni',
-                                designation: 'Associate Professor',
-                                email: 'pranav.kulkarni@mitsde.com'
-                            },
-                            {
-                                id: 6,
-                                name: 'Dr. Rajesh Raut',
-                                designation: 'Associate Professor',
-                                email: 'rajesh.raut@mitsde.com'
-                            },
-                            {
-                                id: 7,
-                                name: 'Kalyani Kulkarni',
-                                designation: 'Associate Professor',
-                                email: 'kalyani.kulkarni@mitsde.com'
-                            },
-                            {
-                                id: 8,
+                                id: 4,
                                 name: 'Bhagyashree Pande',
-                                designation: 'Associate Professor',
+                                designation: 'Head of Discipline or Professor',
                                 email: 'bhagyashree.p@mitsde.com'
                             },
                             {
-                                id: 9,
-                                name: 'Reshmi Kumari',
-                                designation: 'Assistant Professor',
-                                email: 'reshmi.kumari@mitsde.com'
-                            },
-                            {
-                                id: 10,
-                                name: 'Yasmin Ansari',
-                                designation: 'Assistant Professor',
-                                email: 'yasmin.ansari@mitsde.com'
-                            },
-                            {
-                                id: 11,
-                                name: 'Prajakta Patil',
-                                designation: 'Assistant Professor',
-                                email: 'prajakta.patil@mitsde.com'
-                            },
-                            {
-                                id: 12,
-                                name: 'Snehal Patil',
-                                designation: 'Assistant Professor',
-                                email: 'snehal.patil@mitsde.com'
-                            },
-                            {
-                                id: 13,
-                                name: 'Nikhil Bhillare',
-                                designation: 'Assistant Professor',
-                                email: 'nikhil.bhillare@mitsde.com'
-                            },
-                            {
-                                id: 14,
-                                name: 'Monika Pateriya',
-                                designation: 'Assistant Professor',
-                                email: 'monika.pateriya@mitsde.com'
-                            },
-                            {
-                                id: 15,
-                                name: 'Ashna Komalkar',
-                                designation: 'Assistant Professor',
-                                email: 'ashna.komalkar@mitsde.com'
-                            },
-                            {
-                                id: 16,
-                                name: 'Omkar Salvi',
-                                designation: 'Assistant Professor',
-                                email: 'omkar.salvi@mitsde.com'
-                            },
-                            {
-                                id: 17,
-                                name: 'Abhishek Kalyana',
-                                designation: 'Assistant Professor',
-                                email: 'abhishek.kalyana@mitsde.com'
-                            },
-                            {
-                                id: 18,
-                                name: 'Shekhar Pol',
-                                designation: 'Assistant',
-                                email: 'shekhar.pol@mitsde.com'
-                            },
-                            {
-                                id: 19,
-                                name: 'Urvashi Jaiswal',
-                                designation: 'Assistant',
-                                email: 'urvashi.jaiswal@mitsde.com'
-                            },
-                            {
-                                id: 20,
-                                name: 'Bhagyashri Pujari',
-                                designation: 'Assistant',
-                                email: 'bhagyashri.pujari@mitsde.com'
-                            },
-                            {
-                                id: 21,
-                                name: 'Pranjal Mandlik',
-                                designation: 'Assistant',
-                                email: 'pranjal.mandlik@mitsde.com'
-                            },
-                            {
-                                id: 22,
-                                name: 'Aniket Patekar',
-                                designation: 'Assistant',
-                                email: 'aniket.patekar@mitsde.com'
-                            },
-                            {
-                                id: 23,
-                                name: 'Pranjali Thombare',
-                                designation: 'Assistant',
-                                email: 'pranjali.thombare@mitsde.com'
-                            },
-                            {
-                                id: 24,
+                                id: 5,
                                 name: 'Nivedita Dawate',
                                 designation: 'Assistant',
                                 email: 'nivedita.dawate@mitsde.com'
                             },
                             {
-                                id: 25,
+                                id: 6,
+                                name: 'Urvashi Jaiswal',
+                                designation: 'Assistant',
+                                email: 'urvashi.jaiswal@mitsde.com'
+                            },
+                            {
+                                id: 7,
                                 name: 'Soham Joshi',
                                 designation: 'Assistant',
                                 email: 'soham.joshi@mitsde.com'
                             },
                             {
-                                id: 26,
+                                id: 8,
+                                name: 'Pranjal Mandlik',
+                                designation: 'Assistant',
+                                email: 'pranjal.mandlik@mitsde.com'
+                            },
+                            {
+                                id: 9,
+                                name: 'Priyanka Kaul',
+                                designation: 'Assistant',
+                                email: 'priyanka.kaul@mitsde.com'
+                            },
+                            {
+                                id: 10,
                                 name: 'Pintu William Murmu',
                                 designation: 'Assistant',
                                 email: 'william.murmu@mitsde.com'
                             },
                             {
-                                id: 27,
-                                name: 'Vibha Mishra',
+                                id: 11,
+                                name: 'Dinesh Marke',
                                 designation: 'Assistant',
-                                email: 'vibha.mishra@mitsde.com'
+                                email: 'dinesh.marke@mitsde.com'
+                            },
+                            {
+                                id: 12,
+                                name: 'Aniket Patekar',
+                                designation: 'Assistant',
+                                email: 'aniket.patekar@mitsde.com'
+                            },
+                            {
+                                id: 13,
+                                name: 'Shekhar Pol',
+                                designation: 'Assistant',
+                                email: 'shekhar.pol@mitsde.com'
+                            },
+                            {
+                                id: 14,
+                                name: 'Tejas Chavan',
+                                designation: 'Assistant',
+                                email: 'tejas.chavan@mitsde.com'
+                            },
+                            {
+                                id: 15,
+                                name: 'Pooja Poojary',
+                                designation: 'Assistant',
+                                email: 'pooja.poojary@mitsde.com'
+                            },
+                            {
+                                id: 16,
+                                name: 'Suyash Pande',
+                                designation: 'Assistant',
+                                email: 'suyash.pande@mitsde.com'
+                            },
+                            {
+                                id: 17,
+                                name: 'Somnath Banerjee',
+                                designation: 'Assistant',
+                                email: 'somnath.banerjee@mitsde.com'
+                            },
+                            {
+                                id: 18,
+                                name: 'Yasmin Ansari',
+                                designation: 'Assistant Professor',
+                                email: 'yasmin.ansari@mitsde.com'
+                            },
+                            {
+                                id: 19,
+                                name: 'Nikhil Bhilare',
+                                designation: 'Assistant Professor',
+                                email: 'nikhil.bhillare@mitsde.com'
+                            },
+                            {
+                                id: 20,
+                                name: 'Ashna Komalkar',
+                                designation: 'Assistant Professor',
+                                email: 'ashna.komalkar@mitsde.com'
+                            },
+                            {
+                                id: 21,
+                                name: 'Abhishek Kalyana',
+                                designation: 'Assistant Professor',
+                                email: 'abhishek.kalyana@mitsde.com'
+                            },
+                            {
+                                id: 22,
+                                name: 'Trupti Kulkarni',
+                                designation: 'Assistant Professor',
+                                email: 'trupti.kulkarni@mitsde.com'
+                            },
+                            {
+                                id: 23,
+                                name: 'Monika Pateriya',
+                                designation: 'Assistant Professor',
+                                email: 'monika.pateriya@mitsde.com'
+                            },
+                            {
+                                id: 24,
+                                name: 'Prajakta Patil',
+                                designation: 'Assistant Professor',
+                                email: 'prajakta.patil@mitsde.com'
+                            },
+                            {
+                                id: 25,
+                                name: 'Charulata Wankhede',
+                                designation: 'Assistant Professor',
+                                email: 'charulata.wankhede@mitsde.com'
+                            },
+                            {
+                                id: 26,
+                                name: 'Omkar Salvi',
+                                designation: 'Assistant Professor',
+                                email: 'omkar.salvi@mitsde.com'
+                            },
+                            {
+                                id: 27,
+                                name: 'Pranav Kulkarni',
+                                designation: 'Associate Professor',
+                                email: 'pranav.kulkarni@mitsde.com'
                             },
                             {
                                 id: 28,
-                                name: 'Veronica Torne',
-                                designation: 'Assistant',
-                                email: 'veronica.torne@mitsde.com'
+                                name: 'Kalyani Kulkarni',
+                                designation: 'Associate Professor',
+                                email: 'kalyani.kulkarni@mitsde.com'
                             },
                             {
                                 id: 29,
-                                name: 'Sheetal Shinde',
-                                designation: 'Assistant',
-                                email: 'sheetal.shinde@mitsde.com'
+                                name: 'Dr. Rajesh Raut',
+                                designation: 'Associate Professor',
+                                email: 'rajesh.raut@mitsde.com'
                             },
                             {
                                 id: 30,
-                                name: 'Dnyaneshwar Nimje',
-                                designation: 'Assistant',
-                                email: 'dnyaneshwar.nimje@mitsde.com'
-                            },
-                            {
-                                id: 31,
-                                name: 'Sachin Upadhye',
-                                designation: 'Associate/Visiting Faculty',
-                                email: 'sachinupadhye2001@gmail.com'
+                                name: 'Zameer Kazi',
+                                designation: 'Associate Professor',
+                                email: 'zameer.kazi@mitsde.com'
                             },
                             {
                                 id: 32,
-                                name: 'Bipin Datar',
-                                designation: 'Associate/Visiting Faculty',
-                                email: 'bipin62@gmail.com'
-                            },
-                            {
-                                id: 33,
-                                name: 'Shashank Divekar',
-                                designation: 'Associate/Visiting Faculty',
-                                email: 'shashankd@yahoo.com'
-                            },
-                            {
-                                id: 34,
-                                name: 'Milind Khirwadkar',
-                                designation: 'Associate/Visiting Faculty',
-                                email: 'mikh61@hotmail.com'
-                            },
-                            {
-                                id: 35,
-                                name: 'Yatindra Kenkre',
-                                designation: 'Associate/Visiting Faculty',
-                                email: 'yatindrakenkre@gmail.com'
-                            },
-                            {
-                                id: 36,
-                                name: 'Rajesh Tukdeo',
-                                designation: 'Associate/Visiting Faculty',
-                                email: 'rajeshtukdeo@gmail.com'
-                            },
-                            {
-                                id: 37,
-                                name: 'Jayjeet Deshmukh',
-                                designation: 'Asst Registrar',
-                                email: 'jayjeet.deshmukh@mitsde.com'
-                            },
-                            {
-                                id: 38,
-                                name: 'Manisha Shinde',
-                                designation: 'Asst Registrar',
-                                email: 'manisha.shinde@mitsde.com'
-                            },
-                            {
-                                id: 39,
-                                name: 'Atul Sawant',
-                                designation: 'Asst Registrar',
-                                email: 'atul.sawant@mitsde.com'
-                            },
-                            {
-                                id: 40,
                                 name: 'Roshan More',
                                 designation: 'Asst Registrar',
                                 email: 'roshan.more@mitsde.com'
                             },
                             {
+                                id: 33,
+                                name: 'Atul Sawant',
+                                designation: 'Asst Registrar',
+                                email: 'atul.sawant@mitsde.com'
+                            },
+                            {
+                                id: 34,
+                                name: 'Manisha Shinde',
+                                designation: 'Asst Registrar',
+                                email: 'manisha.shinde@mitsde.com'
+                            },
+                            {
+                                id: 36,
+                                name: 'Reshma Badukale',
+                                designation: 'Computer Operator',
+                                email: 'reshma.badukale@mitsde.com'
+                            },
+                            {
+                                id: 37,
+                                name: 'Sanjay Gaikwad',
+                                designation: 'Computer Operator',
+                                email: 'sanjay.gaikwad@mitsde.com'
+                            },
+                            {
+                                id: 38,
+                                name: 'Swati Karande',
+                                designation: 'Computer Operator',
+                                email: 'swati.karande@mitsde.com'
+                            },
+                            {
+                                id: 39,
+                                name: 'Ujwala Padwal',
+                                designation: 'Computer Operator',
+                                email: 'ujwala.padwal@mitsde.com'
+                            },
+                            {
+                                id: 40,
+                                name: 'Mohan Patil',
+                                designation: 'Computer Operator',
+                                email: 'mohan.patil@mitsde.com'
+                            },
+                            {
                                 id: 41,
-                                name: 'Sandip Kapadi',
-                                designation: 'Dep Registrar',
-                                email: 'sandip.kapadi@mitsde.com'
+                                name: 'Sachin Sakhare',
+                                designation: 'Computer Operator',
+                                email: 'sachin.sakhare@mitsde.com'
                             },
                             {
                                 id: 42,
-                                name: 'Rashmi Deshmukh',
-                                designation: 'Dep Registrar',
-                                email: 'rashmi.deshmukh@mitsde.com'
+                                name: 'Satish Somase',
+                                designation: 'Computer Operator',
+                                email: 'satish.somase@mitsde.com'
                             },
                             {
                                 id: 43,
-                                name: 'Chaitanya Giri',
-                                designation: 'Dep Registrar',
-                                email: 'chaitanya.giri@mitsde.com'
+                                name: 'Raj Marathe',
+                                designation: 'Computer Operator',
+                                email: 'raj.marathe@mitsde.com'
                             },
                             {
                                 id: 44,
@@ -342,129 +336,105 @@
                             },
                             {
                                 id: 45,
-                                name: 'Sachin Sakhare',
-                                designation: 'Computer Operator',
-                                email: 'sachin.sakhare@mitsde.com'
+                                name: 'Chaitanya Giri',
+                                designation: 'Dep Registrar',
+                                email: 'chaitanya.giri@mitsde.com'
                             },
                             {
                                 id: 46,
-                                name: 'Shravani Suryawanshi',
-                                designation: 'Computer Operator',
-                                email: 'shravani.suryavanshi@mitsde.com'
+                                name: 'Sandip Kapadi',
+                                designation: 'Dep Registrar',
+                                email: 'sandip.kapadi@mitsde.com'
                             },
                             {
                                 id: 47,
-                                name: 'Swati Karande',
-                                designation: 'Computer Operator',
-                                email: 'swati.karande@mitsde.com'
+                                name: 'Rashmi Deshmukh',
+                                designation: 'Dep Registrar',
+                                email: 'rashmi.deshmukh@mitsde.com'
                             },
                             {
                                 id: 48,
-                                name: 'Suraj Awate',
-                                designation: 'Computer Operator',
-                                email: 'suraj.awate@mitsde.com'
-                            },
-                            {
-                                id: 49,
-                                name: 'Reshma Badukale',
-                                designation: 'Computer Operator',
-                                email: 'reshma.badukale@mitsde.com'
-                            },
-                            {
-                                id: 50,
-                                name: 'Sachin Sakhare',
-                                designation: 'Computer Operator',
-                                email: 'sachin.sakhare@mitsde.com'
-                            },
-                            {
-                                id: 51,
-                                name: 'Mohan Patil',
-                                designation: 'Computer Operator',
-                                email: 'mohan.patil@mitsde.com'
-                            },
-                            {
-                                id: 52,
-                                name: 'Sanjay Gaikwad',
-                                designation: 'Computer Operator',
-                                email: 'sanjay.gaikwad@mitsde.com'
-                            },
-                            {
-                                id: 53,
-                                name: 'Neha Game',
-                                designation: 'Multi Tasking Staff',
-                                email: 'neha.game@mitsde.com'
-                            },
-                            {
-                                id: 54,
-                                name: 'Vinay Garud',
-                                designation: 'Multi Tasking Staff',
-                                email: 'vinay.garud@mitsde.com'
-                            },
-                            {
-                                id: 55,
-                                name: 'Sagar Mapari',
-                                designation: 'Multi Tasking Staff',
-                                email: 'sagar.mapari@mitsde.com'
-                            },
-                            {
-                                id: 56,
-                                name: 'Suyash Pande',
-                                designation: 'Multi Tasking Staff',
-                                email: 'suyash.pande@mitsde.com'
-                            },
-                            {
-                                id: 57,
-                                name: 'Priyanka Chavan',
-                                designation: 'Multi Tasking Staff',
-                                email: 'chavan.priyanka@mitsde.com'
-                            },
-                            {
-                                id: 58,
-                                name: 'Harshada Lokhande',
-                                designation: 'Multi Tasking Staff',
-                                email: 'harshada.lokhande@mitsde.com'
-                            },
-                            {
-                                id: 59,
                                 name: 'Narendra Bhangale',
                                 designation: 'Multi Tasking Staff',
                                 email: 'narendra.bhangale@mitsde.com'
                             },
                             {
-                                id: 60,
+                                id: 49,
+                                name: 'Dhananjay Bulbule',
+                                designation: 'Multi Tasking Staff',
+                                email: 'dhananjay.bulbule@mitsde.com'
+                            },
+                            {
+                                id: 50,
+                                name: 'Neha Game',
+                                designation: 'Multi Tasking Staff',
+                                email: 'neha.game@mitsde.com'
+                            },
+                            {
+                                id: 51,
+                                name: 'Vinay Garud',
+                                designation: 'Multi Tasking Staff',
+                                email: 'vinay.garud@mitsde.com'
+                            },
+                            {
+                                id: 52,
+                                name: 'Harshada Lokhande',
+                                designation: 'Multi Tasking Staff',
+                                email: 'harshada.lokhande@mitsde.com'
+                            },
+                            {
+                                id: 53,
+                                name: 'Sagar Mapari',
+                                designation: 'Multi Tasking Staff',
+                                email: 'sagar.mapari@mitsde.com'
+                            },
+                            {
+                                id: 54,
+                                name: 'Avinash Pawar',
+                                designation: 'Multi Tasking Staff',
+                                email: 'avinash.pawar@mitsde.com'
+                            },
+                            {
+                                id: 55,
+                                name: 'Piyush Salve',
+                                designation: 'Multi Tasking Staff',
+                                email: 'piyush.salve@mitsde.com'
+                            },
+                            {
+                                id: 56,
                                 name: 'Umesh Ghatale',
                                 designation: 'Multi Tasking Staff',
                                 email: 'umesh.ghatale@mitsde.com'
                             },
                             {
-                                id: 61,
-                                name: 'Tejas Deshmukh',
-                                designation: 'Section Officer',
-                                email: 'tejas.deshmukh@mitsde.com'
-                            },
-                            {
-                                id: 62,
-                                name: 'Uday Tajane',
-                                designation: 'Section Officer',
-                                email: 'uday.tajane@mitsde.com'
-                            },
-                            {
-                                id: 63,
-                                name: 'Pooja Patwadkar',
-                                designation: 'Section Officer',
-                                email: 'pooja.patwadkar@mitsde.com'
-                            },
-                            {
-                                id: 64,
+                                id: 57,
                                 name: 'Vrushali Bansode',
                                 designation: 'Section Officer',
                                 email: 'vrushli.bansode@mitsde.com'
                             },
                             {
-                                id: 65,
-                                name: 'Piyush Salve',
+                                id: 58,
+                                name: 'Tejas Deshmukh',
                                 designation: 'Section Officer',
-                                email: 'piyush.salve@mitsde.com'
+                                email: 'tejas.deshmukh@mitsde.com'
+                            },
+                            {
+                                id: 59,
+                                name: 'Uday Tajane',
+                                designation: 'Section Officer',
+                                email: 'uday.tajane@mitsde.com'
+                            },
+                            {
+                                id: 60,
+                                name: 'Pooja Patwadkar',
+                                designation: 'Section Officer',
+                                email: 'pooja.patwadkar@mitsde.com'
+                            },
+                            {
+                                id: 61,
+                                name: 'Priyanka Chavan',
+                                designation: 'Section Officer',
+                                email: 'chavan.priyanka@mitsde.com'
                             }
                             ];
                             const tbody = document.getElementById('academicTeamBody');

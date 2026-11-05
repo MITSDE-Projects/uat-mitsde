@@ -83,8 +83,108 @@
     <section class="py-4">
         <div class="container">
 
+            <!-- ═══ OCTOBER 2026 ═══ -->
+            <h2 class="section-heading mt-2 mb-3">Contact Sessions October<span> 2026</span></h2>
+
+            <h3 class="module-title-new"><strong> Cohort Live session </strong></h3>
+
+            <div class="tbl-wrap">
+                <table class="tbl">
+                    <thead>
+                        <tr><th>Sr No</th><th>Subject</th><th>Program</th><th>Faculty Name</th><th>Date</th><th>Time</th></tr>
+                    </thead>
+
+                    <tbody>
+                        <!-- C16 Sem-1 -->
+                        <tr>
+                            <th colspan="6" style="text-align:center; background-color:#F47521; color:#fff;"><strong>C16 Sem-1</strong></th>
+                        </tr>
+                        <tr><td>1</td><td>Foundations of Business Management</td><td>PGDM, PGDM Exe, PGCM-BA, PGDM Exe-IB, S&amp;ESG</td><td>Rachna Arora</td><td>15-Oct-26</td><td>6:00 - 8:00 PM</td></tr>
+                        <tr><td>2</td><td>Product and Brand Strategy</td><td>PGCM-DM</td><td>Ansted Joseph</td><td>15-Oct-26</td><td>6:00 - 8:00 PM</td></tr>
+                        <tr><td>3</td><td>Principles of Marketing Management</td><td>PGCM-DM</td><td>Bonnie Rajesh</td><td>16-Oct-26</td><td>6:00 - 8:00 PM</td></tr>
+                        <tr><td>4</td><td>Managerial Communication</td><td>PGDM, PGDM Exe, PGCM-BA</td><td>Gomati Ghosh</td><td>22-Oct-26</td><td>6:00 - 8:00 PM</td></tr>
+                        <tr><td>5</td><td>Strategic Marketing Communications</td><td>PGCM-DM</td><td>Rohan Das</td><td>22-Oct-26</td><td>6:00 - 8:00 PM</td></tr>
+                        <tr><td>6</td><td>Leading People and Organization</td><td>PGDM, PGDM Exe, PGCM-BA</td><td>Ashish Mohture</td><td>23-Oct-26</td><td>7:00 - 9:00 PM</td></tr>
+                        <tr><td>7</td><td>Consumer Behaviour</td><td>PGDM- MM, PGCM-DM</td><td>Bonnie Rajesh</td><td>29-Oct-26</td><td>6:00 - 8:00 PM</td></tr>
+                        <tr><td>8</td><td>Managerial Economics</td><td>PGDM, PGDM Exe, PGCM-BA</td><td>Rajesh Raut</td><td>29-Oct-26</td><td>6:00 - 8:00 PM</td></tr>
+                        <tr><td>9</td><td>Accounting for Managers</td><td>PGDM, PGDM Exe, PGCM-BA</td><td>Pallavi Murdeshwar</td><td>30-Oct-26</td><td>6:00 - 8:00 PM</td></tr>
+                        <tr><td>10</td><td>Strategic Management and Business Policy</td><td>PGCM-DM, PGDM Exe-IB, S&amp;ESG</td><td>Dhanvi Awate</td><td>30-Oct-26</td><td>6:00 - 8:00 PM</td></tr>
+                        <!-- C15 Sem-1 -->
+                        <tr>
+                            <th colspan="6" style="text-align:center; background-color:#F47521; color:#fff;"><strong>C15 Sem-1</strong></th>
+                        </tr>
+                        <tr><td>11</td><td>Managerial Economics</td><td>PGDM , PGDM Exe, PGCM-BA</td><td>Rajesh Raut</td><td>17-Oct-26</td><td>6:00 - 8:00 PM</td></tr>
+                        <tr><td>12</td><td>Leading People and Organization</td><td>PGDM, PGDM Exe, PGCM-BA</td><td>Ashish Mohture</td><td>8-Oct-26</td><td>7:00 - 9:00 PM</td></tr>
+                        <!-- C14 Sem-1 -->
+                        <tr>
+                            <th colspan="6" style="text-align:center; background-color:#F47521; color:#fff;"><strong>C14 Sem-1</strong></th>
+                        </tr>
+                        <tr><td>13</td><td>Data Mining for Business Analytics</td><td>PGCM-BA and PGDM Exe-BA</td><td>Sonali Kulkarni</td><td>7-Oct-26</td><td>6:00 - 7:00 PM</td></tr>
+                        <tr><td>14</td><td>Generative AI Applications in Business</td><td>PGDM- IT and PGDM Exe-IT</td><td>Deepak Verma</td><td>8-Oct-26</td><td>6:00 - 8:00 PM</td></tr>
+                        <tr><td>15</td><td>Marketing Analytics</td><td>PGCM-BA &amp; PGDM Exe-SMM, BA</td><td>Deepak Verma</td><td>15-Oct-26</td><td>6:00 - 7:00 PM</td></tr>
+                        <tr><td>16</td><td>Project Analysis and Integration Management</td><td>PGDM Exe-MPM</td><td>Mayank Parkhi</td><td>15-Oct-26</td><td>6:00 - 7:00 PM</td></tr>
+                        <tr><td>17</td><td>Human Resource Management</td><td>PGDM-HRM &amp; PGDBA &amp; PGDM-Exe-HCM</td><td>Rachna Arora</td><td>16-Oct-26</td><td>6:00 - 8:00 PM</td></tr>
+                        <tr><td>18</td><td>Management Intelligence System</td><td>PGDM- All</td><td>Sonali Kulkarni</td><td>21-Oct-26</td><td>6:00 - 8:00 PM</td></tr>
+                        <tr><td>19</td><td>Financial Reporting, Statement and Analysis</td><td>PGDM- All</td><td>Rajesh Raut</td><td>22-Oct-26</td><td>6:00 - 8:00 PM</td></tr>
+                        <!-- C13 Sem-1 -->
+                        <tr>
+                            <th colspan="6" style="text-align:center; background-color:#F47521; color:#fff;"><strong>C13 Sem-1</strong></th>
+                        </tr>
+                        <tr><td>20</td><td>Financial Management</td><td>PGDM-FM, B&amp;FS &amp; PGDM Exe-FM &amp; PGDBA</td><td>Rajesh Raut</td><td>7-Oct-26</td><td>6:00 - 8:00 PM</td></tr>
+                        <tr><td>21</td><td>Construction Site Management</td><td>PGDM Exe-C&amp;PM and PGDM-C&amp;PM</td><td>Vipul Patil</td><td>7-Oct-26</td><td>6:00 - 8:00 PM</td></tr>
+                        <tr><td>22</td><td>Strategic Management</td><td>PGDBA</td><td>Mayank Parkhi</td><td>8-Oct-26</td><td>6:00 - 7:00 PM</td></tr>
+                        <tr><td>23</td><td>Strategic Human Resource Management</td><td>PGDM Exe-HCM</td><td>Rachna Arora</td><td>8-Oct-26</td><td>6:00 - 7:00 PM</td></tr>
+                        <tr><td>24</td><td>Production, Planning and Control</td><td>PGDM Exe-TOM, GL&amp;SCM</td><td>Mangesh Dande</td><td>9-Oct-26</td><td>6:00 - 8:00 PM</td></tr>
+                        <tr><td>25</td><td>Cost Engineering and Contracts Management</td><td>PGDM Exe-C&amp;PM</td><td>Vipul Patil</td><td>14-Oct-26</td><td>6:00 - 7:00 PM</td></tr>
+                        <tr><td>26</td><td>HR Analytics</td><td>PGDM Exe-HCM</td><td>Sharayu Patil</td><td>14-Oct-26</td><td>6:00 - 7:00 PM</td></tr>
+                        <tr><td>27</td><td>Predictive Modelling</td><td>PGCM-BA and PGDM Exe-BA, PGCM-BA</td><td>Lalit Prasad</td><td>21-Oct-26</td><td>6:00 - 7:00 PM</td></tr>
+                        <tr><td>28</td><td>Project Formulation and Real Estate Project Development</td><td>PGDM Exe-C&amp;PM</td><td>Vipul Patil</td><td>21-Oct-26</td><td>6:00 - 7:00 PM</td></tr>
+                        <tr><td>29</td><td>Project Execution, Control and Closure</td><td>PGDM Exe-MPM</td><td>Ashish Pathak</td><td>21-Oct-26</td><td>6:00 - 7:00 PM</td></tr>
+                        <tr><td>30</td><td>Inventory Management</td><td>PGDM Exe-GL&amp;SCM, MaM</td><td>Mangesh Dande</td><td>22-Oct-26</td><td>6:00 - 8:00 PM</td></tr>
+                        <tr><td>31</td><td>Construction Technology for Real Estate and Infrastructure Development</td><td>PGDM Exe-C&amp;PM</td><td>Vipul Patil</td><td>28-Oct-26</td><td>6:00 - 7:00 PM</td></tr>
+                        <tr><td>32</td><td>Packaging and Distribution Management</td><td>PGDM Exe-GL&amp;SCM</td><td>Mangesh Dande</td><td>29-Oct-26</td><td>6:00 - 7:00 PM</td></tr>
+
+                    </tbody>
+                </table>
+            </div>
+
+            <h3 class="module-title"><strong> LABs</strong></h3>
+
+            <div class="tbl-wrap">
+                <table class="tbl">
+                    <thead>
+                        <tr><th>Sr No</th><th>Company's Name</th><th>Engagement Activity</th><th>Domain</th><th>Industry/Sector</th><th>Speaker - Workshop</th><th>Topic - Workshop</th><th>Date of Workshop</th></tr>
+                    </thead>
+
+                    <tbody>
+                        <tr><td>1</td><td>MITSDE</td><td>MITSDE LABs</td><td>All</td><td>Project Management</td><td>B.T. Ade</td><td>Essentials of Agile Project Management</td><td>03rd Oct 2026</td></tr>
+                        <tr><td>2</td><td>MITSDE</td><td>MITSDE LABs</td><td>All</td><td>Supply Chain Management</td><td>Mangesh Dande</td><td>Supply Chain Analytics/ Achieving Supply Chain Integration/ Emerging Trends in Supply Chain and Logistics</td><td>04th Oct 2026</td></tr>
+                        <tr><td>3</td><td>MITSDE</td><td>MITSDE LABs</td><td>All</td><td>Operations Management</td><td>Lalit Prasad</td><td>Operations Research</td><td>11th Oct 2026</td></tr>
+                        <tr><td>4</td><td>MITSDE</td><td>MITSDE LABs</td><td>All</td><td>Project Management</td><td>B.T. Ade</td><td>Oracle Primavera</td><td>17th Oct 2026</td></tr>
+
+                    </tbody>
+                </table>
+            </div>
+
+            <h3 class="module-title"><strong> MITSDE- BOOTCAMP</strong></h3>
+
+            <div class="tbl-wrap">
+                <table class="tbl">
+                    <thead>
+                        <tr><th>Sr No</th><th>Company's Name</th><th>Engagement Activity</th><th>Domain</th><th>Industry/Sector</th><th>Speaker - Webinar</th><th>Topic - Webinar</th><th>Date of Webinar</th></tr>
+                    </thead>
+
+                    <tbody>
+                        <tr><td>1</td><td>MITSDE</td><td>MITSDE Bootcamp</td><td>All</td><td>Business Analytics</td><td>Mr. Kaushik Swaroop</td><td>CPDA Session 5 - Visual Formatting, Filters &amp; DAX Basics</td><td>11th Oct 2026</td></tr>
+                        <tr><td>2</td><td>MITSDE</td><td>MITSDE Bootcamp</td><td>All</td><td>Business Analytics</td><td>Dr. Chanakya Kumar</td><td>CPEA Session 1 - Introduction to Excel</td><td>18th Oct 2026</td></tr>
+                        <tr><td>3</td><td>MITSDE</td><td>MITSDE Bootcamp</td><td>All</td><td>Business Analytics</td><td>Mr. Kaushik Swaroop</td><td>CPDA Session 6 - Advanced DAX, Data Modelling &amp; Dashboard Design</td><td>25th Oct 2026</td></tr>
+
+                    </tbody>
+                </table>
+            </div>
+
             <!-- ═══ SEPTEMBER 2026 ═══ -->
-            <h2 class="section-heading mt-2 mb-3">Contact Sessions September<span> 2026</span></h2>
+            <h2 class="section-heading mt-5 mb-3">September<span> 2026</span></h2>
 
             <h3 class="module-title-new"><strong> Cohort Live session </strong></h3>
 
