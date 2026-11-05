@@ -48,16 +48,40 @@ $(".country-code").intlTelInput({
   separateDialCode: true,
 });
 
+// Keeps a clicked accordion header at the same screen position while panels
+// above it collapse, so the page doesn't jump and the user lands on the first
+// question of what they opened. Also used by page-level accordions
+// (e.g. chat-with-support vertical groups).
+window.faqKeepInView = function (btn, toggle) {
+  var root = document.documentElement;
+  var nav = document.querySelector(".navbar-wrap");
+  var navBottom = nav ? nav.getBoundingClientRect().bottom : 0;
+  // never park the header behind the fixed navbar
+  var target = Math.max(btn.getBoundingClientRect().top, navBottom + 12);
+
+  // .faq-freeze (styles.css) turns off panel transitions and browser scroll
+  // anchoring, so the layout settles at once and one correction, done before
+  // the next paint, is exact — no per-frame chasing, no jitter.
+  root.classList.add("faq-freeze");
+  toggle();
+  window.scrollBy(0, btn.getBoundingClientRect().top - target);
+  requestAnimationFrame(function () {
+    root.classList.remove("faq-freeze");
+  });
+};
+
 // faq accordion
 (function () {
   document.querySelectorAll(".faq-q").forEach(function (btn) {
     btn.addEventListener("click", function () {
       var item = btn.closest(".faq-item");
       var isOpen = item.classList.contains("is-open");
-      document.querySelectorAll(".faq-item").forEach(function (i) {
-        i.classList.remove("is-open");
+      faqKeepInView(btn, function () {
+        document.querySelectorAll(".faq-item").forEach(function (i) {
+          i.classList.remove("is-open");
+        });
+        if (!isOpen) item.classList.add("is-open");
       });
-      if (!isOpen) item.classList.add("is-open");
       btn.setAttribute("aria-expanded", !isOpen);
     });
   });

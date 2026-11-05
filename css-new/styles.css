@@ -1592,6 +1592,10 @@ section[id]{scroll-margin-top:100px;}
 }
 .faq-a p { font-size: var(--fz-small); color: var(--text-dark); line-height: 1.7; margin: 0; }
 
+/* Set for one frame by faqKeepInView() (script.js) while an accordion toggles */
+.faq-freeze, .faq-freeze body { overflow-anchor: none; }
+.faq-freeze .faq-a { transition: none !important; }
+
 .ac-title{ font-size: var(--fz-small); font-weight: 500; color: var(--text-dark) !important; margin-bottom: 1rem !important; }
 
 .ac-list { font-size: var(--fz-small); color: var(--text-light); line-height: 1.6; margin-top: 1rem;}

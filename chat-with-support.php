@@ -318,10 +318,10 @@
                                 <div class="faq-list">
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
-                                            <span>My session joining link or recording is missing on the LMS. What should I do?</span>
+                                            <span>My session joining link or recording is missing from the LMS. What should I do?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>Joining links are on the LMS Calendar under 'Today's Classes'. If a link is missing or has expired, allow 24 hours for the recording to be uploaded, then raise a ticket if it is still unavailable.</p></div>
+                                        <div class="faq-a"><p>Joining links are available in the LMS Calendar under 'Today's Classes'. If a link is missing or has expired, allow 24 hours for the recording to be uploaded, then raise a ticket if it is still unavailable.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
@@ -342,14 +342,14 @@
                                             <span>How can I confirm that my ticket has been resolved?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>Each ticket resolution note includes a summary of the action taken (for example, marks updated or LMS fixed). Confirm the resolution by replying to the ticket or marking it as 'Closed'.</p></div>
+                                        <div class="faq-a"><p>Each ticket resolution note includes a summary of the action taken (for example, marks updated or an LMS issue fixed). Confirm the resolution by replying to the ticket or marking it as 'Closed'.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
                                             <span>My LMS is not showing my subjects or assignments. What should I do?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>This may happen because of a sync delay or academic transition. Log out and log back in. If the issue continues, raise an 'LMS Access Issue' ticket.</p></div>
+                                        <div class="faq-a"><p>This may happen because of a sync delay or an academic transition. Log out and log back in. If the issue continues, raise an 'LMS Access Issue' ticket.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
@@ -370,7 +370,7 @@
                                             <span>I have completed a workshop or Bootcamp but haven't received my certificate. What should I do?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>First confirm you met the attendance requirement, then check your email and the LMS certificate section. If it is still missing, raise a ticket. Certificate timelines differ by programme — see the relevant vertical's certificate FAQ.</p></div>
+                                        <div class="faq-a"><p>First, confirm that you met the attendance requirement. Then check your email and the LMS certificate section. If your certificate is still missing, raise a ticket. Certificate timelines differ by programme, so please see the certificate FAQ for your programme.</p></div>
                                     </div>
                                 </div>
                             </div>
@@ -388,7 +388,7 @@
                                             <span>What are MITSDE LABs?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>MITSDE LABs are one-day weekend certification workshops that help learners gain industry-relevant skills, tools and techniques. They are part of MITSDE's learner-centric initiative to combine academic learning with employability-focused skill development.</p></div>
+                                        <div class="faq-a"><p>MITSDE LABs are one-day weekend certification workshops that help learners gain industry-relevant skills and learn practical tools and techniques. They are part of MITSDE's learner-centric initiative to combine academic learning with employability-focused skill development.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
@@ -409,7 +409,7 @@
                                             <span>How long is each MITSDE LABs workshop?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>Each LAB is a full-day workshop with practical learning through hands-on tools, simulations and real-time case studies.</p></div>
+                                        <div class="faq-a"><p>Each MITSDE LABs workshop is a full-day session with practical learning through hands-on tools, simulations and real-time case studies.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
@@ -427,10 +427,10 @@
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
-                                            <span>How can I register for a MITSDE LABs workshop?</span>
+                                            <span>How can I register for an MITSDE LABs workshop?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>Register using the Google Form link shared on your registered email and the official MITSDE Telegram channel. Once registered, a 'MITSDE LABs' course container appears on your LMS Dashboard.</p></div>
+                                        <div class="faq-a"><p>Register using the Google Form link sent to your registered email address and posted on the official MITSDE Telegram channel. Once you have registered, a 'MITSDE LABs' course container will appear on your LMS Dashboard.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
@@ -441,24 +441,24 @@
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
-                                            <span>What happens if I miss a MITSDE LABs workshop?</span>
+                                            <span>What happens if I miss an MITSDE LABs workshop?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
                                         <div class="faq-a"><p>You can watch the recording on the LMS. However, certificates are issued only to learners who attend the full live session, so you will not receive a certificate for a workshop you missed.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
-                                            <span>Will I receive a certificate for attending a MITSDE LABs workshop?</span>
+                                            <span>Will I receive a certificate for attending an MITSDE LABs workshop?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>Yes. A Certificate of Participation is awarded to learners who attend the entire full-day workshop.</p></div>
+                                        <div class="faq-a"><p>Yes. A Certificate of Participation is awarded to learners who attend the full-day workshop in its entirety.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
                                             <span>When and where will I get my MITSDE LABs certificate?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>Certificates are released within 10–15 working days after the session and can be accessed through your LMS profile/certificate section or are shared by email. If you have not received yours, follow the steps in the General Academic Queries FAQ on certificates not received.</p></div>
+                                        <div class="faq-a"><p>Certificates are released within 10–15 working days after the session. You can download yours from the certificate section of your LMS profile, or it will be sent to you by email. If you have not received yours, follow the steps in the General Academic Queries FAQ on certificates not received.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
@@ -493,7 +493,7 @@
                                             <span>Can I attend more than one MITSDE LABs workshop?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>Yes. You can attend as many LAB workshops as you wish, provided you register separately for each one.</p></div>
+                                        <div class="faq-a"><p>Yes. You can attend as many MITSDE LABs workshops as you wish, provided you register separately for each one.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
@@ -518,7 +518,7 @@
                                             <span>What is MITSDE Bootcamp?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>MITSDE Bootcamp is a structured learning initiative conducted in live online mode for enrolled learners. Sessions provide topic-specific exposure and practical engagement in areas such as Business Analytics, Digital Marketing, AI-enabled tools, communication training and other emerging subjects. Bootcamps are short-duration academic engagement sessions and are not formal academic programmes or qualifications.</p></div>
+                                        <div class="faq-a"><p>MITSDE Bootcamp is a structured learning initiative conducted live online for enrolled learners. Sessions provide topic-specific exposure and practical engagement in areas such as Business Analytics, Digital Marketing, AI-enabled tools, communication training and other emerging subjects. Bootcamps are short-duration academic engagement sessions and are not formal academic programmes or qualifications.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
@@ -532,7 +532,7 @@
                                             <span>Who can attend free Bootcamp sessions?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>Free Bootcamp sessions are available only to currently enrolled MITSDE learners of the respective programmes. Session details are shared with eligible learners by registered email, the Telegram group and the LMS Calendar. You can also check upcoming sessions on the official Bootcamp webpage.</p></div>
+                                        <div class="faq-a"><p>Free Bootcamp sessions are available only to currently enrolled MITSDE learners of the respective programmes. Session details are shared with eligible learners through their registered email address, the Telegram group and the LMS Calendar. You can also check upcoming sessions on the official Bootcamp webpage.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
@@ -546,7 +546,7 @@
                                             <span>Is there a fee for Bootcamp sessions?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>No. Standard Bootcamp sessions are complimentary (no additional fee) for eligible enrolled learners. Paid Workshops are offered separately with a programme fee.</p></div>
+                                        <div class="faq-a"><p>No. Standard Bootcamp sessions are complimentary (no additional fee) for eligible enrolled learners. Paid Workshops are offered separately for a fee.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
@@ -571,7 +571,7 @@
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
-                                            <span>What is a MITSDE Paid Bootcamp (Paid Workshop)?</span>
+                                            <span>What is an MITSDE Paid Bootcamp (Paid Workshop)?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
                                         <div class="faq-a"><p>Paid Bootcamps are structured, topic-focused sessions conducted live online. They may cover advanced or domain-specific subjects and are offered separately from the standard free Bootcamp sessions.</p></div>
@@ -581,7 +581,7 @@
                                             <span>How are Paid Workshops different from free Bootcamps?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>Free Bootcamps are short (2–3 hours), introductory or reinforcement-focused sessions available only to enrolled learners. Paid Workshops are extended or specialised sessions that may cover advanced or domain-specific topics and carry a programme fee. Both provide a Certificate of Participation when attendance requirements are met.</p></div>
+                                        <div class="faq-a"><p>Free Bootcamps are short (2–3 hours), introductory or reinforcement-focused sessions available only to enrolled learners. Paid Workshops are extended or specialised sessions that may cover advanced or domain-specific topics and are charged separately. Both provide a Certificate of Participation when attendance requirements are met.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
@@ -602,7 +602,7 @@
                                             <span>When will I receive the joining details for a Paid Workshop?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>Joining details are typically shared 2–3 hours before the workshop on your registered email ID.</p></div>
+                                        <div class="faq-a"><p>Joining details are typically sent to your registered email address 2–3 hours before the workshop.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
@@ -641,28 +641,28 @@
                                             <span>Where can I check my live session schedule?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>Your live session schedule is shown on the LMS dashboard. You can also view it through the LMS Calendar tab.</p></div>
+                                        <div class="faq-a"><p>Your live session schedule is shown on the LMS Dashboard. You can also view it in the LMS Calendar tab.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
                                             <span>How will I be notified about upcoming live sessions?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>Notifications are sent to your registered email ID and through the Telegram channel.</p></div>
+                                        <div class="faq-a"><p>Notifications are sent to your registered email address and through the Telegram channel.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
                                             <span>On which days are live sessions held?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>Live sessions are scheduled on Thursdays, Fridays and Saturdays. In the second semester, Wednesdays are also used.</p></div>
+                                        <div class="faq-a"><p>Live sessions are scheduled on Thursdays, Fridays and Saturdays. In Semester 2, sessions are also held on Wednesdays.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
-                                            <span>What are the timing and duration of live sessions?</span>
+                                            <span>When are live sessions held, and how long do they last?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>Live sessions are held between 6:00 PM and 8:00 PM and last 1 hour or 2 hours, depending on the subject and programme.</p></div>
+                                        <div class="faq-a"><p>Live sessions are held between 6:00 PM and 8:00 PM and last one or two hours, depending on the subject and programme.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
@@ -715,21 +715,21 @@
                                             <span>What study material is available on the LMS?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>The LMS provides a PDF book, pre-recorded videos and PPTs.</p></div>
+                                        <div class="faq-a"><p>The LMS provides a PDF book, pre-recorded videos and presentation slides (PPTs).</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
                                             <span>How many times can I watch the course videos?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>You can watch the videos an unlimited number of times during your validity period of 6 months from the date of registration.</p></div>
+                                        <div class="faq-a"><p>You can watch the videos as many times as you like during your 6-month validity period, which starts on your date of registration.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
                                             <span>What is the passing criterion for the course?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>You must score 50% to pass the assessment.</p></div>
+                                        <div class="faq-a"><p>You must score at least 50% to pass the assessment.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
@@ -768,14 +768,14 @@
                                             <span>What is the SQL &amp; Power BI Certification?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>It is a 3-month live online certification in SQL and Power BI offered under MITSDE's Career Accelerator Program. It is co-designed and validated by KPMG in India and covers querying databases, data modelling, dashboards and reporting.</p></div>
+                                        <div class="faq-a"><p>It is a 3-month live online certification programme in SQL and Power BI, offered under MITSDE's Career Accelerator Program. It is co-designed and validated by KPMG in India and covers querying databases, data modelling, dashboards and reporting.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
                                             <span>Who is the SQL &amp; Power BI Certification for?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>Graduates and working professionals from technical or non-technical backgrounds, aspiring data and business analysts, finance, marketing, HR and operations professionals, and entrepreneurs who want to use business intelligence tools.</p></div>
+                                        <div class="faq-a"><p>It is designed for graduates and working professionals from technical or non-technical backgrounds, aspiring data and business analysts, finance, marketing, HR and operations professionals, and entrepreneurs who want to use business intelligence tools.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
@@ -817,7 +817,7 @@
                                             <span>Which industry use cases are covered in the SQL &amp; Power BI Certification?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>Finance and banking (fraud detection, credit risk), healthcare (patient records, clinical trials), retail and e-commerce (segmentation, demand forecasting), marketing (campaign tracking, churn prediction), and telecom and cloud (network monitoring, subscription analytics).</p></div>
+                                        <div class="faq-a"><p>Use cases include finance and banking (fraud detection, credit risk), healthcare (patient records, clinical trials), retail and e-commerce (segmentation, demand forecasting), marketing (campaign tracking, churn prediction), and telecom and cloud (network monitoring, subscription analytics).</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
@@ -831,42 +831,42 @@
                                             <span>What support is available during the SQL &amp; Power BI Certification?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>Live doubt-clearing sessions, expert mentorship, and LMS access to recordings and study materials.</p></div>
+                                        <div class="faq-a"><p>Support includes live doubt-clearing sessions, expert mentorship, and LMS access to recordings and study materials.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
                                             <span>What are the passing criteria for the SQL &amp; Power BI Certification?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>You need at least 50% in the exam and at least 50% in the project, scored separately. You must score at least 50% in the project to be eligible to sit the exam.</p></div>
+                                        <div class="faq-a"><p>You must score at least 50% in the project to be eligible to sit the exam, and at least 50% in the exam to pass. The project and the exam are scored separately.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
                                             <span>What roles can I target after the SQL &amp; Power BI Certification?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>Potential career paths include entry-level roles (Data Analyst, BI Analyst, Reporting Analyst), mid-level roles (SQL Developer, Data Engineer, ETL Developer, DBA) and senior-level roles (Cloud Data Architect, ML Engineer (SQL + Python), Data Science Consultant). These are potential paths, not guaranteed placements; job placement is not promised for this programme.</p></div>
+                                        <div class="faq-a"><p>Potential career paths include entry-level roles (Data Analyst, BI Analyst, Reporting Analyst), mid-level roles (SQL Developer, Data Engineer, ETL Developer, DBA) and senior-level roles (Cloud Data Architect, ML Engineer with SQL and Python, Data Science Consultant). These are possible career paths only; job placement is not guaranteed for this programme.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
                                             <span>What is the Gen AI for Educators Certification Program?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>A 3-month, 100% online certification offered by MITSDE in collaboration with Digital Maven. It teaches educators how to use generative AI in teaching, assessment, content creation and academic work, through 12 modules covering 25+ AI tools.</p></div>
+                                        <div class="faq-a"><p>It is a 3-month, 100% online certification programme offered by MITSDE in collaboration with Digital Maven. It teaches educators how to use generative AI in teaching, assessment, content creation and academic work, through 12 modules covering more than 25 AI tools.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
                                             <span>Who should join the Gen AI for Educators Program?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>Teachers, professors, instructional designers, tutors and education leaders. School administrators, EdTech entrepreneurs, corporate trainers and tech enthusiasts may also join. No technical or coding background is needed.</p></div>
+                                        <div class="faq-a"><p>The programme is designed for teachers, professors, instructional designers, tutors and education leaders. School administrators, EdTech entrepreneurs, corporate trainers and tech enthusiasts may also join. No technical or coding background is needed.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
                                             <span>Are there any prerequisites for the Gen AI for Educators Program?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>Only basic computer skills and curiosity. The programme starts with the fundamentals.</p></div>
+                                        <div class="faq-a"><p>Only basic computer skills and curiosity are needed. The programme starts with the fundamentals.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
@@ -884,7 +884,7 @@
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
-                                            <span>Will I learn 25+ AI tools in the Gen AI for Educators Program?</span>
+                                            <span>Will I learn more than 25 AI tools in the Gen AI for Educators Certification Program?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
                                         <div class="faq-a"><p>Yes. Tools are introduced by category: lesson planning, assessment, multimedia, student support, research and data, and productivity and admin.</p></div>
@@ -919,7 +919,7 @@
                                             <span>What is the International Summer Internship Program (ISIP)?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>ISIP is a global experiential learning initiative by MITSDE that offers international exposure, hands-on internship experience and cross-cultural learning during the summer term. Know more: <a href="https://mitsde.com/international-relations" target="_blank">https://mitsde.com/international-relations</a></p></div>
+                                        <div class="faq-a"><p>ISIP is a global experiential learning initiative by MITSDE that offers international exposure, hands-on internship experience and cross-cultural learning during the summer term. For more information, visit <a href="https://mitsde.com/international-relations" target="_blank">https://mitsde.com/international-relations</a>.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
@@ -940,7 +940,7 @@
                                             <span>How can I apply for ISIP?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>Applications are announced through official MITSDE communication channels. Apply through the online registration form shared in the programme circular or via <a href="https://mitsde.com/international-relations" target="_blank">https://mitsde.com/international-relations</a></p></div>
+                                        <div class="faq-a"><p>Applications are announced through official MITSDE communication channels. Apply through the online registration form shared in the programme circular or via <a href="https://mitsde.com/international-relations" target="_blank">https://mitsde.com/international-relations</a>.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
@@ -961,7 +961,7 @@
                                             <span>Will MITSDE help with visa or travel arrangements?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>Yes. MITSDE's International Relations (IR) Team provides guidance and assistance with required documentation, invitation letters and visa applications.</p></div>
+                                        <div class="faq-a"><p>Yes. MITSDE's International Relations (IR) Team provides guidance and assistance with the required documentation, invitation letters and visa applications.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
@@ -989,7 +989,7 @@
                                             <span>How can I get updates about upcoming ISIP opportunities?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>ISIP announcements are shared through official MITSDE emailers, the Telegram channel and the International Relations webpage: <a href="https://mitsde.com/international-relations" target="_blank">https://mitsde.com/international-relations</a></p></div>
+                                        <div class="faq-a"><p>ISIP announcements are shared through official MITSDE emails, the Telegram channel and the International Relations webpage: <a href="https://mitsde.com/international-relations" target="_blank">https://mitsde.com/international-relations</a>.</p></div>
                                     </div>
                                 </div>
                             </div>
@@ -1021,7 +1021,7 @@
                                             <span>What types of internships are shared through the ED Cell?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>Internships in startups, incubators and accelerators, venture capital and funding firms, social entrepreneurship organisations, government startup programmes, and family businesses and SMEs.</p></div>
+                                        <div class="faq-a"><p>Internships may be offered by startups, incubators and accelerators, venture capital and funding firms, social entrepreneurship organisations, government startup programmes, and family businesses and SMEs.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
@@ -1056,14 +1056,14 @@
                                             <span>Are ED Cell internships paid?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>Some internships may offer stipends, while others may be unpaid. The ED Cell verifies and shares the available information on stipend and duration.</p></div>
+                                        <div class="faq-a"><p>Some internships may offer stipends, while others may be unpaid. The ED Cell verifies and shares the available information on stipends and duration.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
                                             <span>What funding opportunities are shared through the ED Cell?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>Funding opportunities may include Startup India Seed Fund, DST NIDHI PRAYAS, Atal Innovation Mission, MSME Innovation Schemes, TIDE 2.0, Mudra Loans and Institutional Seed Funding.</p></div>
+                                        <div class="faq-a"><p>Funding opportunities may include the Startup India Seed Fund Scheme, DST NIDHI-PRAYAS, the Atal Innovation Mission, MSME innovation schemes, TIDE 2.0, Mudra loans and institutional seed funding.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
@@ -1105,7 +1105,7 @@
                                             <span>Will I receive a certificate for ED Cell opportunities?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>Certificates depend on the specific internship, workshop or opportunity provider.</p></div>
+                                        <div class="faq-a"><p>It depends on the opportunity. Whether a certificate is issued is decided by the organisation offering the internship or workshop.</p></div>
                                     </div>
                                 </div>
                             </div>
@@ -1130,14 +1130,14 @@
                                             <span>What is the objective of the Business Research Lab?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>To give learners real-world business problem-solving experience through research, analysis and solution development.</p></div>
+                                        <div class="faq-a"><p>The lab aims to give learners real-world business problem-solving experience through research, analysis and solution development.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
                                             <span>How can I participate in the Business Research Lab?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>You will receive an invitation email and can express your interest in participating.</p></div>
+                                        <div class="faq-a"><p>You will receive an invitation email, through which you can express your interest in participating.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
@@ -1186,14 +1186,14 @@
                                             <span>What should be included in the Week 4 (mid-term) submission?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>Problem understanding, research findings, initial analysis and a draft solution.</p></div>
+                                        <div class="faq-a"><p>The mid-term submission should include your problem understanding, research findings, initial analysis and a draft solution.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
                                             <span>What should be included in the final submission?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>A complete project report and a presentation (if applicable).</p></div>
+                                        <div class="faq-a"><p>The final submission should include a complete project report and, if applicable, a presentation.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
@@ -1218,7 +1218,7 @@
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
-                                            <span>Are there rewards beyond the participation certificate?</span>
+                                            <span>Are there rewards beyond the completion certificate?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
                                         <div class="faq-a"><p>If a company accepts your team's solution, the team may receive a Certificate of Excellence and formal recognition.</p></div>
@@ -1260,14 +1260,14 @@
                                             <span>What is the Crisis War Room (CWR)?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>CWR is a live, faculty-led classroom simulation in which you take on a real corporate role and respond in real time to a simulated brand crisis across four escalating rounds. It builds critical thinking and decision-making under pressure rather than testing recall of theory.</p></div>
+                                        <div class="faq-a"><p>CWR is a live, faculty-led classroom simulation in which you take on a realistic corporate role and respond in real time to a simulated brand crisis across four escalating rounds. It builds critical thinking and decision-making under pressure rather than testing recall of theory.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
                                             <span>Why has MITSDE introduced CWR in live sessions?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>To make live sessions more applied and interactive. Instead of only listening to concepts, you apply frameworks and theories to a live decision-making scenario built around a real brand, as you would in an actual boardroom.</p></div>
+                                        <div class="faq-a"><p>It was introduced to make live sessions more applied and interactive. Instead of only listening to concepts, you apply frameworks and theories to a live decision-making scenario built around a real brand, as you would in an actual boardroom.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
@@ -1288,14 +1288,14 @@
                                             <span>Are the CWR crisis scenarios and brands real?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>Every CWR session is built around a real brand and a real-life case study, with a simulated crisis across four rounds that connects the frameworks, theories and tools taught in the subject.</p></div>
+                                        <div class="faq-a"><p>Yes. Every CWR session is built around a real brand and a real-life case study. The crisis itself is simulated and unfolds over four rounds, connecting the frameworks, theories and tools taught in the subject.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
                                             <span>Will I get any material after a CWR session?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>Yes. Immediately after every CWR session you receive a consolidated email with a summary of the case study, the frameworks/theories applied, and 3–4 curated media pieces, videos and articles for further reading.</p></div>
+                                        <div class="faq-a"><p>Yes. Immediately after every CWR session, you receive a consolidated email with a summary of the case study, the frameworks and theories applied, and 3–4 curated videos, articles or other media for further reading.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
@@ -1316,7 +1316,7 @@
                                             <span>Do I need to prepare anything before a CWR session?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>No special preparation is required. Attend the live session prepared as usual, having reviewed the relevant chapter material.</p></div>
+                                        <div class="faq-a"><p>No special preparation is required. Just review the relevant chapter material before the live session, as you normally would.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
@@ -1348,14 +1348,14 @@
                                             <span>Where is the RCFL internship held?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>At RCFL units in Mumbai (Trombay / Thal).</p></div>
+                                        <div class="faq-a"><p>The internship is held at RCFL's units in Mumbai (Trombay / Thal).</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
                                             <span>Which domains are covered in the RCFL internship?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>HR, Finance, Marketing, Operations, Logistics, Supply Chain Management, Material Management and Project Management.</p></div>
+                                        <div class="faq-a"><p>The internship covers HR, Finance, Marketing, Operations, Logistics, Supply Chain Management, Material Management and Project Management.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
@@ -1390,21 +1390,21 @@
                                             <span>How does the RCFL selection process work?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>Selection is based on eligibility, document submission and a first-come, first-served basis.</p></div>
+                                        <div class="faq-a"><p>Selection is based on eligibility and document submission, with seats allotted on a first-come, first-served basis.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
                                             <span>Which documents are required for RCFL selection?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>An updated resume and a copy of your Aadhaar card.</p></div>
+                                        <div class="faq-a"><p>You need an updated resume and a copy of your Aadhaar card.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
                                             <span>Will I have a mentor during the RCFL internship?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>Yes. Each student is guided by an RCFL mentor throughout the internship.</p></div>
+                                        <div class="faq-a"><p>Yes. Each learner is guided by an RCFL mentor throughout the internship.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
@@ -1439,14 +1439,14 @@
                                             <span>What should I carry on the first day of the RCFL internship?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>Your Aadhaar card, student bio-data (resume) and selection letter.</p></div>
+                                        <div class="faq-a"><p>Please carry your Aadhaar card, your resume and your selection letter.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
                                             <span>Why should I apply for the RCFL internship?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>It offers corporate exposure in a Navratna PSU, strengthens your resume, and provides hands-on industry experience with expert mentorship.</p></div>
+                                        <div class="faq-a"><p>It offers corporate exposure at a Navratna PSU, strengthens your resume, and provides hands-on industry experience with expert mentorship.</p></div>
                                     </div>
                                 </div>
                             </div>
@@ -2296,11 +2296,13 @@
         var btn = group.querySelector('.faq-vq');
         btn.addEventListener('click', function () {
             var isOpen = group.classList.contains('is-open');
-            groups.forEach(function (g) {
-                g.classList.remove('is-open');
-                g.querySelector('.faq-vq').setAttribute('aria-expanded', 'false');
+            faqKeepInView(btn, function () {
+                groups.forEach(function (g) {
+                    g.classList.remove('is-open');
+                    g.querySelector('.faq-vq').setAttribute('aria-expanded', 'false');
+                });
+                if (!isOpen) group.classList.add('is-open');
             });
-            if (!isOpen) group.classList.add('is-open');
             btn.setAttribute('aria-expanded', !isOpen);
         });
     });
