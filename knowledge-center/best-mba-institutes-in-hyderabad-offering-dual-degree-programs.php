@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="robots" content="index, follow" />
-    <title>Best MBA Institutes in Hyderabad Offering Dual Degree Programs | MIT SDE</title>
+    <title>Best MBA Institutes in Hyderabad for Dual Degrees | MIT SDE</title>
     <meta name="description"
         content="Explore top Hyderabad MBA colleges offering dual degree programs with flexible learning, industry exposure, and strong career opportunities.">
     <meta name="keywords" content="best executive mba programs, executive mba programs online, online executive mba">

@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
-    <title>Project Management course in Pune | Best Project Management</title>
+    <title>Project Management Course in Pune | Enroll Today | MIT SDE</title>
 
     <meta name="description"
         content="Boost your career with MITSDE’s AICTE-approved online Project Management course in Pune. Master real-world project management skills with flexible learning and placement support." />

@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <title>Best Online PG Business Analytics Course & Certification in Pune | MITSDE </title>
+    <title>Post Graduate Certificate in Management in Business Analytics | MIT SDE</title>
 
     <meta name="description" content="Advance your career with MITSDE's business analytics certification in Pune. Learn business intelligence, data analytics, and predictive modeling through an industry-focused online PG course." />
 
