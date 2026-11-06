@@ -56,6 +56,7 @@
                     <div class="col-md-6 col-6 pink">
                         <h2>Links</h2>
                         <ul>
+                            <li><a class="dropdown-item" href="about-us" target="_blank">About Us</a></li>
                             <li><a class="dropdown-item" href="roi" target="_blank"><b>Career ROI Calculator</b></a></li>
                             <li><a class="dropdown-item" href="international-relations" target="_blank">International Relations</a></li>
                             <li><a class="dropdown-item" href="contact-us" target="_blank">Contact</a></li>
@@ -76,7 +77,6 @@
                             <li><a class="dropdown-item" href="https://www.aicte.gov.in/schemes/students-development-schemes" target="_blank">AICTE Scholarship/Fellowship</br> Schemes</a></li>
                             <li><a class="dropdown-item" href="assets/images/media/AICTE-ombudsperson.pdf" target="_blank">AICTE Ombudsperson</a></li>
                             <!-- <li><a class="dropdown-item" href="read-more.php" target="_blank">Read More</a></li> -->
-                            <li><a class="dropdown-item" href="about-us" target="_blank">About Us</a></li>
                             <li><a class="dropdown-item" href="hire-from-mitsde" target="_blank">Hire From Mitsde</a></li>
                             <!-- <li><a class="dropdown-item" href="apna-advantage/">Apna Advantage</a></li> -->
 

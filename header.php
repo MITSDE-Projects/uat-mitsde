@@ -349,6 +349,7 @@
                     <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
                         aria-expanded="false">Learner Assistance</a>
                     <ul class="dropdown-menu dropMenu">
+                        <li><a class="dropdown-item" href="academic">Academic</a></li>
                         <li class="nav-item dropdown secondnav">
                             <a class="nav-link dropdown-toggle" href="javascript:void(0)" role="button"
                                 data-bs-toggle="dropdown" aria-expanded="false">Placement</a>
@@ -360,7 +361,6 @@
 
                             </ul>
                         </li>
-
 
                         <li><a class="dropdown-item" href="academic">Academic</a></li>
 
