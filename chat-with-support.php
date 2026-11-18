@@ -515,115 +515,185 @@
                                 <div class="faq-list">
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
-                                            <span>What is MITSDE Bootcamp?</span>
+                                            <span>Who is covered under the new Bootcamp certification initiative?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>MITSDE Bootcamp is a structured learning initiative conducted live online for enrolled learners. Sessions provide topic-specific exposure and practical engagement in areas such as Business Analytics, Digital Marketing, AI-enabled tools, communication training and other emerging subjects. Bootcamps are short-duration academic engagement sessions and are not formal academic programmes or qualifications.</p></div>
+                                        <div class="faq-a"><p>Learners from C15 onwards ONLY, subject to the approved programme, specialization and semester mapping.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
-                                            <span>What is the objective of Bootcamp sessions?</span>
+                                            <span>Are learners from C14 or earlier eligible?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>Bootcamp sessions provide structured exposure to selected tools and subject areas and reinforce concepts beyond regular academic sessions.</p></div>
+                                        <div class="faq-a"><p>No. Do not communicate eligibility for batches before C15 under this initiative.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
-                                            <span>Who can attend free Bootcamp sessions?</span>
+                                            <span>In which semesters are these certifications embedded?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>Free Bootcamp sessions are available only to currently enrolled MITSDE learners of the respective programmes. Session details are shared with eligible learners through their registered email address, the Telegram group and the LMS Calendar. You can also check upcoming sessions on the official Bootcamp webpage.</p></div>
+                                        <div class="faq-a"><p>Semester 1 and Semester 2 only, according to the approved mapping. They are not positioned as certifications running across the entire programme duration.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
-                                            <span>Are Bootcamp sessions and Paid Workshops compulsory?</span>
+                                            <span>What is common to all C15 Semester 1 PGDM, PGDM Executive and PGCM specializations?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>No. Both free Bootcamp sessions and Paid Workshops are optional learning initiatives. They are not mandatory components of your academic programme.</p></div>
+                                        <div class="faq-a"><p>CPEA (Basic &amp; Advanced Excel + AI) and CPDA (SQL &amp; Power BI).</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
-                                            <span>Is there a fee for Bootcamp sessions?</span>
+                                            <span>Has CPEA been completed for C15?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>No. Standard Bootcamp sessions are complimentary (no additional fee) for eligible enrolled learners. Paid Workshops are offered separately for a fee.</p></div>
+                                        <div class="faq-a"><p>Yes. The live CPEA certification delivery for the C15 Semester 1 batch has been successfully completed.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
-                                            <span>What subjects and tools are covered in Bootcamp sessions?</span>
+                                            <span>What should C15 learners do now for CPEA?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>Bootcamps may include introductory-level sessions on tools such as Excel, SQL, Power BI, Tableau, R, SEO, Social Media Marketing and Google Analytics. Topics vary by programme and schedule.</p></div>
+                                        <div class="faq-a"><p>The CPEA self-assessment window is open for one month. Learners should complete the LMS self-assessment within the communicated window.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
-                                            <span>What do I need to attend a free Bootcamp session?</span>
+                                            <span>Does attending CPEA sessions alone complete the certification process?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>You need a Windows laptop or desktop (mobile devices are not recommended), a stable internet connection and basic familiarity with Microsoft Office tools. If specific software is required, details will be shared before the session.</p></div>
+                                        <div class="faq-a"><p>No. Attendance/live learning is not the final step. Learners must complete the prescribed LMS self-assessment as part of the certification process.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
-                                            <span>Are datasets or materials shared after free Bootcamp sessions?</span>
+                                            <span>Has CPDA started for C15?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>Yes. Where applicable, session materials and datasets are shared through Google Drive links accessible on the LMS alongside the session recording.</p></div>
+                                        <div class="faq-a"><p>Yes. CPDA certification delivery has started for the C15 Semester 1 batch while the CPEA self-assessment window is running.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
-                                            <span>What is an MITSDE Paid Bootcamp (Paid Workshop)?</span>
+                                            <span>What does CPDA cover?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>Paid Bootcamps are structured, topic-focused sessions conducted live online. They may cover advanced or domain-specific subjects and are offered separately from the standard free Bootcamp sessions.</p></div>
+                                        <div class="faq-a"><p>CPDA is the Certified Professional Data Analyst certification, focused on SQL and Power BI. The approved structure is 16 hours across 6 live sessions.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
-                                            <span>How are Paid Workshops different from free Bootcamps?</span>
+                                            <span>How will the learner receive the completion certificate?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>Free Bootcamps are short (2–3 hours), introductory or reinforcement-focused sessions available only to enrolled learners. Paid Workshops are extended or specialised sessions that may cover advanced or domain-specific topics and are charged separately. Both provide a Certificate of Participation when attendance requirements are met.</p></div>
+                                        <div class="faq-a"><p>The completion certificate with grade will be shared on the learner's registered email ID after completion of the prescribed academic process.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
-                                            <span>How long is a Paid Workshop?</span>
+                                            <span>Will a physical/hard-copy certificate be issued?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>Paid Workshops typically run for 2 to 3 hours or as full-day sessions, depending on the topic and format.</p></div>
+                                        <div class="faq-a"><p>No. Certificates are shared through the learner's registered email ID only; no hard copies are available.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
-                                            <span>How can I register for a Paid Workshop?</span>
+                                            <span>Are all Semester 2 certifications applicable to every learner?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>Workshop details are shared through your registered email, the Telegram group and other official communication channels. Register using the link or QR code provided and complete the payment to confirm your seat.</p></div>
+                                        <div class="faq-a"><p>No. Semester 2 eligibility varies by programme and specialization. Always check the approved mapping before answering.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
-                                            <span>When will I receive the joining details for a Paid Workshop?</span>
+                                            <span>What are CPDSA and CPQBA?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>Joining details are typically sent to your registered email address 2–3 hours before the workshop.</p></div>
+                                        <div class="faq-a"><p>CPDSA is Certified Professional Data Science Analyst (Python &amp; SAS). CPQBA is Certified Professional Quantitative Business Analyst (R &amp; Tableau). Their Semester 2 eligibility excludes PGCM – Digital Marketing and PGDM Executive – Digital Marketing specializations.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
-                                            <span>Will I get a certificate for a Paid Workshop?</span>
+                                            <span>What applies to Digital Marketing specializations in Semester 2?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>Yes. Participants who meet the attendance requirements receive an E-Certificate of Participation, generally within 5–6 working days after the session.</p></div>
+                                        <div class="faq-a"><p>PGCM – Digital Marketing and PGDM Executive – Digital Marketing have their own mapped Digital Marketing certifications/bootcamps, including CDME, CDMA and B2/B3. B1 has a separate subject-wise eligibility mapping and must be checked before confirmation.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
-                                            <span>Are learning materials or datasets provided in Paid Workshops?</span>
+                                            <span>What if a learner says, 'My friend in another specialization has a different certification'?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>Yes. Where applicable, session materials, datasets or reference files used during the workshop are shared with registered participants.</p></div>
+                                        <div class="faq-a"><p>Explain that Semester 2 certifications are mapped by programme and specialization, so different learners may correctly have different certification tracks.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
-                                            <span>What do I need to attend a Paid Workshop?</span>
+                                            <span>What if a learner misses or has an issue with the self-assessment?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>You need a laptop or desktop (mobile devices are not supported for hands-on sessions), a stable internet connection and any required software pre-installed. Specific software requirements (for example Power BI, Tableau, Python or Excel versions) are communicated before the workshop.</p></div>
+                                        <div class="faq-a"><p>Do not invent an extension, retest or exception policy. Escalate the learner's case to Team Academics for the applicable decision/instruction.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>What if a learner asks when the certificate will arrive?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>Confirm only that the certificate with grade is shared on the registered email ID after completion of the prescribed process. Do not promise a specific dispatch date unless Team Academics has officially communicated one.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>What if eligibility, dates, assessment rules or certification mapping are unclear?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>Escalate to Team Academics. Do not assume, improvise or provide an unverified commitment.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>How are the Bootcamp sessions scheduled?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>These are weekend Bootcamp sessions planned on Sundays only, from 7:00 PM to 10:00 PM.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>Who conducts the live sessions?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>All live sessions are conducted only by industry Subject Matter Experts (SMEs).</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>Where is the live-session joining link available?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>The joining link is available ONLY on the LMS. Learners should access the LMS to join the scheduled session.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>What learning resources are provided for every session?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>Learners receive the live-session recording on the LMS, a handbook for every session, and practice datasets on the LMS.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>Where will the learner receive/access the certificate?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>The certificate will be available on the LMS after completion of the prescribed certification process.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>How will learners receive Bootcamp updates?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>Official updates are shared through Email, Telegram and the LMS Community channel. Learners must keep a regular watch on all three sources.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>How early will session details be shared?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>Session details will be shared at least 4 days before the scheduled live session.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>How will an unforeseen cancellation or postponement be communicated?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>If a session must be cancelled or postponed due to unforeseen circumstances beyond reasonable human control, learners will be informed through Email and Telegram only.</p></div>
                                     </div>
                                 </div>
                             </div>
@@ -1106,6 +1176,174 @@
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
                                         <div class="faq-a"><p>It depends on the opportunity. Whether a certificate is issued is decided by the organisation offering the internship or workshop.</p></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="faq-vgroup">
+                            <button class="faq-vq" aria-expanded="false">
+                                <span>Research Cell</span>
+                                <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                            </button>
+                            <div class="faq-vbody">
+                                <div class="faq-list">
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>What is the Research Cell?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>The Research Cell facilitates research internships and manages publication activities related to Udyam: The Journal of Business Insights.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>What are the main initiatives under the Research Cell?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a">
+                                            <p>The Research Cell manages:</p>
+                                            <ol class="ac-list text-dark">
+                                                <li>Research Internship Programme</li>
+                                                <li>Udyam: The Journal of Business Insights (ISSN Journal)</li>
+                                                <li>MITSDE Business Research Lab (Live Business Lab)</li>
+                                            </ol>
+                                        </div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>What is the Research Internship Programme?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>It helps learners identify and participate in research-related internships offered by external organizations.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>Does the Research Cell provide internships directly?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>No. The Research Cell identifies and shares opportunities while learners independently enroll through the respective organizations.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>How will internship opportunities be shared?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a">
+                                            <p>Through official channels such as:</p>
+                                            <ul class="ac-list text-dark">
+                                                <li>Email</li>
+                                                <li>Telegram</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>What happens after completing an internship?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>Learners are required to provide feedback so that the Research Cell can maintain completion records.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>What is Udyam Journal?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>Udyam is MITSDE's ISSN journal that publishes articles, case studies, book reviews, and business insights.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>Who can contribute to Udyam Journal?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>Academicians, industry professionals, researchers, practitioners, and learners may contribute subject to journal guidelines.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>What types of submissions are accepted?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a">
+                                            <ul class="ac-list text-dark mt-0">
+                                                <li>Research articles</li>
+                                                <li>Case studies</li>
+                                                <li>Book reviews</li>
+                                                <li>Business insights papers</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>What happens after article submission?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a">
+                                            <p>The article goes through:</p>
+                                            <ol class="ac-list text-dark">
+                                                <li>Acknowledgement</li>
+                                                <li>Formatting</li>
+                                                <li>Editorial review</li>
+                                                <li>Plagiarism check</li>
+                                                <li>Typesetting</li>
+                                                <li>Final approval</li>
+                                                <li>Publication</li>
+                                            </ol>
+                                        </div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>How long does it take to acknowledge a submission?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>Articles are acknowledged within 48 hours.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>Is plagiarism checking mandatory?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>Yes. All articles undergo plagiarism and quality checks before publication.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>Who approves articles for publication?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>The Editor-in-Chief or Research Cell Head provides final approval.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>Where is the journal published?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>Approved articles are published on the Udyam journal website.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>Will authors receive publication confirmation?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>Yes. Authors are informed once their article completes the review and publication process.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>Is publication guaranteed after submission?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>No. Publication depends on editorial review, quality standards, and final approval.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>Can learners publish research work?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>Yes. Learners can submit research work if it meets the journal's quality and submission requirements.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>Will published authors receive recognition?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>Yes. Publication in an ISSN journal provides academic recognition and can strengthen professional and academic profiles.</p></div>
                                     </div>
                                 </div>
                             </div>
