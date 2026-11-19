@@ -1351,7 +1351,7 @@
 
                         <div class="faq-vgroup">
                             <button class="faq-vq" aria-expanded="false">
-                                <span>Research Business Lab</span>
+                                <span>MITSDE Business Research LAB</span>
                                 <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                             </button>
                             <div class="faq-vbody">

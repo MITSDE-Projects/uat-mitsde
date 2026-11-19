@@ -306,6 +306,39 @@ function do_form_submit(form_id) {
         });
 
         
+      } else if (form_id == "cityHeroForm") {
+        // City page hero form (city-hero-form.php). City is posted to
+        // thankyou.php only, not sent to the CRM.
+        document.getElementById("submitbtnCity").style.visibility = "hidden";
+        var lead = {
+          AuthToken: "MITSDE-11-06-2020",
+          Source: "mitsde",
+          FirstName: $("#cityHeroForm [name='first_name3']").val(),
+          Email:     $("#cityHeroForm [name='email3']").val(),
+          MobileNumber: $("#cityHeroForm [name='MobileNumber']").val(),
+          LeadSource: "Organic-Direct-Form",
+          LeadType: "Online",
+          LeadName: "Contact us form leads",
+          Course: "Not Known",
+          State:  $("#cityHeroForm [name='state']").val(),
+          Textb1: $("#cityHeroForm [name='HQ']").val(),
+        };
+        $.ajax({
+          url: "https://thirdpartyapi.extraaedge.com/api/SaveRequest",
+          type: "POST",
+          data: JSON.stringify(lead),
+          dataType: "Text",
+          crossDomain: true,
+          contentType: "application/json; charset=utf-8",
+          success: function (response) {
+            $("#" + form_id).submit();
+          },
+          error: function (response) {
+            alert("You have already submited a form");
+            location.reload();
+          },
+        });
+
       } else if (form_id == "menuContactknow") {
         document.getElementById("submitbtnknow").style.visibility = "hidden";
         var lead = {
@@ -369,6 +402,45 @@ function do_form_submit(form_id) {
               .finally(function () {
                 if (typeof showQuizThanks === "function") {
                   showQuizThanks(lead.FirstName.split(" ")[0]);
+                }
+              });
+          },
+          error: function (response) {
+            alert("You have already submitted a form");
+            location.reload();
+          },
+        });
+
+
+      } else if (form_id == "bestFitLeadForm") {
+        // Best-Fit Programme Finder popup (best-fit-finder.php) — same flow as quizLeadForm
+        document.getElementById("bfSubmitBtn").style.visibility = "hidden";
+        var lead = {
+          AuthToken: "MITSDE-11-06-2020",
+          Source: "mitsde",
+          FirstName: $("#bestFitLeadForm [name='first_name3']").val(),
+          Email:     $("#bestFitLeadForm [name='email3']").val(),
+          MobileNumber: $("#bestFitLeadForm [name='MobileNumber']").val(),
+          LeadSource: "Organic-Direct-Form",
+          LeadType: "Online",
+          LeadName: "Contact us form leads",
+          Course: "Not Known",
+          State:  $("#bestFitLeadForm [name='state']").val(),
+          Textb1: $("#bestFitLeadForm [name='HQ']").val(),
+        };
+        $.ajax({
+          url: "https://thirdpartyapi.extraaedge.com/api/SaveRequest",
+          type: "POST",
+          data: JSON.stringify(lead),
+          dataType: "Text",
+          crossDomain: true,
+          contentType: "application/json; charset=utf-8",
+          success: function (response) {
+            var fd = new FormData(document.getElementById("bestFitLeadForm"));
+            fetch("ai-thankyou.php", { method: "POST", body: fd })
+              .finally(function () {
+                if (typeof showBestFitThanks === "function") {
+                  showBestFitThanks(lead.FirstName.split(" ")[0]);
                 }
               });
           },

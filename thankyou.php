@@ -1,5 +1,5 @@
 <?php
-include "admin/include/configpdo.php";
+include "admin/include/configpdo.php"; /* ← tu apla DB config path yeth ghalar */
 
 if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
     header("Location: ./", true, 302);
@@ -17,6 +17,7 @@ $emaiid     = isset($_POST['email3'])      ? filter_var($_POST['email3'], FILTER
 $mobile     = isset($_POST['MobileNumber']) ? preg_replace('/[^0-9]/', '', $_POST['MobileNumber']) : '';
 $state      = isset($_POST['state'])    ? $_POST['state']    : '';
 $HQ         = isset($_POST['HQ'])       ? $_POST['HQ']       : '';
+$city       = isset($_POST['city'])     ? $_POST['city']     : '';
 $Divice     = isset($_POST['Divice'])   ? $_POST['Divice']   : '';
 $PageName   = isset($_POST['PageName']) ? $_POST['PageName'] : '';
 $latitude   = isset($_POST['latitude'])  ? $_POST['latitude']  : '';
@@ -50,7 +51,7 @@ $result = $stmt->execute([
     $state, $HQ,
     $curdateTime, $curdate,
     $Divice, $PageName,
-    '', '', '', $state, '',
+    '', '', $city, $state, '',
     $longitude, $latitude, $ip
 ]);
 
