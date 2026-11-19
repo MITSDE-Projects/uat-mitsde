@@ -200,39 +200,66 @@
             <p><strong>Industry sectors:</strong> IT, finance, manufacturing and consulting.</p>
             <p>Many learners choose <strong>human resource courses in Mumbai</strong> because they want both a recognised qualification and career support. We offer placement support and career guidance, so you can plan your next move with help. If you are comparing <strong>HR courses in Mumbai with placement</strong>, ask our admissions team what support is available for your profile.</p>
 
-            <h2 class="section-heading">Course Structure</h2>
-            <h3 class="city-subheading">Year 1: Core Subjects</h3>
-            <div class="row g-4">
-                <div class="col-md-4">
-                    <p><strong>Trimester I</strong></p>
-                    <ul class="ac-list text-dark mt-2">
-                        <li>Principles and Practices of Management</li>
-                        <li>Business Analytics for Decision-Making</li>
-                        <li>Accounting for Managers</li>
-                        <li>Business Economics and Finance</li>
-                    </ul>
-                </div>
-                <div class="col-md-4">
-                    <p><strong>Trimester II</strong></p>
-                    <ul class="ac-list text-dark mt-2">
-                        <li>Human Resource Management and Industrial Relations</li>
-                        <li>Marketing Management</li>
-                        <li>Leadership in VUCA and BANI World</li>
-                        <li>Operations Management</li>
-                    </ul>
-                </div>
-                <div class="col-md-4">
-                    <p><strong>Trimester III</strong></p>
-                    <ul class="ac-list text-dark mt-2">
-                        <li>ESG, Sustainability and Business Ethics</li>
-                        <li>Entrepreneurship and Innovation</li>
-                        <li>AI and Machine Learning for Business Excellence</li>
-                        <li>Design Thinking</li>
-                    </ul>
-                </div>
-            </div>
-            <p><strong>Year 2:</strong> specialisation subjects</p>
-            <button type="button" class="btn btn-dark rounded-pill px-4 py-2 mt-2" data-bs-toggle="modal" data-bs-target="#downloadModal">Download Brochure</button>
+        </div>
+    </section>
+
+    <!-- Course Structure — same cs-* pattern as executive-mba-in-international-business.php "Course Syllabus" (no cs-right box) -->
+    <section class="course-syllabus-section" id="curriculum">
+        <div class="container">
+            <div class="cs-bg-wrap">
+
+                <h2 class="cs-heading">Course Structure</h2>
+                <p class="sub-text text-light mb-3"><strong>Year 1: Core Subjects</strong></p>
+
+                <div class="cs-grid">
+
+                    <div class="cs-block">
+                        <div class="cs-left">
+                            <span class="cs-semester-tag"><span class="cs-semester-tag-inner">Trimester I</span></span>
+                            <ul class="cs-course-list">
+                                <li>Principles and Practices of Management</li>
+                                <li>Business Analytics for Decision-Making</li>
+                                <li>Accounting for Managers</li>
+                                <li>Business Economics and Finance</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="cs-block">
+                        <div class="cs-left">
+                            <span class="cs-semester-tag"><span class="cs-semester-tag-inner">Trimester II</span></span>
+                            <ul class="cs-course-list">
+                                <li>Human Resource Management and Industrial Relations</li>
+                                <li>Marketing Management</li>
+                                <li>Leadership in VUCA and BANI World</li>
+                                <li>Operations Management</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="cs-block">
+                        <div class="cs-left">
+                            <span class="cs-semester-tag"><span class="cs-semester-tag-inner">Trimester III</span></span>
+                            <ul class="cs-course-list">
+                                <li>ESG, Sustainability and Business Ethics</li>
+                                <li>Entrepreneurship and Innovation</li>
+                                <li>AI and Machine Learning for Business Excellence</li>
+                                <li>Design Thinking</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                </div><!-- /cs-grid -->
+
+                <p class="text-white mt-4"><strong>Year 2: Specialisation Subjects</strong></p>
+                <button type="button" class="btn btn-dark rounded-pill px-4 py-2" data-bs-toggle="modal" data-bs-target="#downloadModal">Download Brochure</button>
+
+            </div><!-- /cs-bg-wrap -->
+        </div>
+    </section>
+
+    <section class="city-content">
+        <div class="container">
 
             <h2 class="section-heading">Eligibility and Selection Process</h2>
             <ul class="ac-list text-dark">

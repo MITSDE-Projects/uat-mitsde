@@ -148,21 +148,72 @@
                 <li><strong>Flexible learning options:</strong> weekend and weekday batches</li>
             </ul>
 
-            <h2 class="section-heading">Course Modules: Business Analytics Certification in Pune</h2>
-            <p>The curriculum has ten modules, each focused on a skill employers look for in a business analyst.</p>
-            <ul class="ac-list text-dark">
-                <li><strong>Module 1: Introduction to Business Analytics</strong> – What business analytics is, and the role of a business analyst in an organisation.</li>
-                <li><strong>Module 2: Excel for Data Analysis</strong> – Advanced Excel, pivot tables and data cleaning.</li>
-                <li><strong>Module 3: SQL for Data Handling</strong> – Database queries and reporting.</li>
-                <li><strong>Module 4: Statistics and Data Interpretation</strong> – Descriptive and inferential statistics.</li>
-                <li><strong>Module 5: Data Visualisation</strong> – Power BI and Tableau dashboards.</li>
-                <li><strong>Module 6: Python for Analytics</strong> – Python basics and data libraries.</li>
-                <li><strong>Module 7: Business Intelligence and Reporting</strong> – KPI tracking and dashboards that leaders can act on.</li>
-                <li><strong>Module 8: Case Studies and Projects</strong> – Real-world business problems, solved step by step with guidance.</li>
-                <li><strong>Module 9: Agile and Business Analysis Frameworks</strong> – SDLC and Agile methodology.</li>
-                <li><strong>Module 10: Placement Preparation</strong> – Resume, interviews and portfolio, so you are ready for the market.</li>
-            </ul>
-            <p>Looking for a <strong>business analyst certification Pune</strong> employers will recognise? Our modules take you from first principles to a finished portfolio, so you can show what you can do, not just what you have studied.</p>
+        </div>
+    </section>
+
+    <!-- Course Modules — same pgcs-* / gae-module-* pattern as gen-ai-for-educators.php "Program Curriculum" -->
+    <section class="pgcs-section" id="curriculum">
+        <div class="container">
+            <div class="pgcs-bg-wrap">
+
+                <h2 class="pgcs-heading">Course Modules: Business Analytics Certification in Pune</h2>
+                <p class="text-white mb-3">The curriculum has ten modules, each focused on a skill employers look for in a business analyst.</p>
+
+                <div class="pgcs-stack">
+                    <div class="pgcs-card">
+                        <div class="gae-module-grid mt-0">
+                            <div class="gae-module-card">
+                                <h4>Module 1: Introduction to Business Analytics</h4>
+                                <p>What business analytics is, and the role of a business analyst in an organisation.</p>
+                            </div>
+                            <div class="gae-module-card">
+                                <h4>Module 2: Excel for Data Analysis</h4>
+                                <p>Advanced Excel, pivot tables and data cleaning.</p>
+                            </div>
+                            <div class="gae-module-card">
+                                <h4>Module 3: SQL for Data Handling</h4>
+                                <p>Database queries and reporting.</p>
+                            </div>
+                            <div class="gae-module-card">
+                                <h4>Module 4: Statistics and Data Interpretation</h4>
+                                <p>Descriptive and inferential statistics.</p>
+                            </div>
+                            <div class="gae-module-card">
+                                <h4>Module 5: Data Visualisation</h4>
+                                <p>Power BI and Tableau dashboards.</p>
+                            </div>
+                            <div class="gae-module-card">
+                                <h4>Module 6: Python for Analytics</h4>
+                                <p>Python basics and data libraries.</p>
+                            </div>
+                            <div class="gae-module-card">
+                                <h4>Module 7: Business Intelligence and Reporting</h4>
+                                <p>KPI tracking and dashboards that leaders can act on.</p>
+                            </div>
+                            <div class="gae-module-card">
+                                <h4>Module 8: Case Studies and Projects</h4>
+                                <p>Real-world business problems, solved step by step with guidance.</p>
+                            </div>
+                            <div class="gae-module-card">
+                                <h4>Module 9: Agile and Business Analysis Frameworks</h4>
+                                <p>SDLC and Agile methodology.</p>
+                            </div>
+                            <div class="gae-module-card">
+                                <h4>Module 10: Placement Preparation</h4>
+                                <p>Resume, interviews and portfolio, so you are ready for the market.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div><!-- /pgcs-stack -->
+
+                <p class="text-white mt-4 mb-0">Looking for a <strong>business analyst certification Pune</strong> employers will recognise? Our modules take you from first principles to a finished portfolio, so you can show what you can do, not just what you have studied.</p>
+
+            </div><!-- /pgcs-bg-wrap -->
+        </div>
+    </section>
+
+    <section class="city-content">
+        <div class="container">
 
             <h2 class="section-heading">Who Should Enroll?</h2>
             <p>Our programme suits learners from many backgrounds:</p>

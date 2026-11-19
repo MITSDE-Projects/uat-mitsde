@@ -160,34 +160,57 @@
                 <li>Sustainability in construction projects</li>
             </ul>
 
-            <h2 class="section-heading">Curriculum Structure</h2>
-            <p>The two-year curriculum moves from management and construction foundations to planning, procurement, cost and analytics.</p>
-            <div class="row g-4">
-                <div class="col-md-6">
-                    <h3 class="city-subheading">First Year Subjects</h3>
-                    <ul class="ac-list text-dark mt-2">
-                        <li>Fundamentals of Management Science</li>
-                        <li>Construction Methods and Technology</li>
-                        <li>Accounting and Finance for Built Environment</li>
-                        <li>Economics for Built Environment</li>
-                        <li>Sustainable Practices in Construction</li>
-                        <li>Project Development and Pre-Construction Planning</li>
-                        <li>Business Communication</li>
-                    </ul>
-                </div>
-                <div class="col-md-6">
-                    <h3 class="city-subheading">Second Year Subjects</h3>
-                    <ul class="ac-list text-dark mt-2">
-                        <li>Construction Project Planning and Scheduling</li>
-                        <li>Procurement and Tendering</li>
-                        <li>Cost Planning and Management</li>
-                        <li>Data Analytics for Built Environment</li>
-                        <li>Asset Valuation Principles</li>
-                        <li>Business Development and Marketing Management</li>
-                        <li>Organizational Behavior and HR Management</li>
-                    </ul>
-                </div>
-            </div>
+        </div>
+    </section>
+
+    <!-- Curriculum Structure — same cs-* pattern as executive-mba-in-international-business.php "Course Syllabus" (no cs-right box) -->
+    <section class="course-syllabus-section" id="curriculum">
+        <div class="container">
+            <div class="cs-bg-wrap">
+
+                <h2 class="cs-heading">Curriculum Structure</h2>
+                <p class="text-white mb-3">The two-year curriculum moves from management and construction foundations to planning, procurement, cost and analytics.</p>
+
+                <div class="cs-grid">
+
+                    <div class="cs-block">
+                        <div class="cs-left">
+                            <span class="cs-semester-tag"><span class="cs-semester-tag-inner">First Year Subjects</span></span>
+                            <ul class="cs-course-list">
+                                <li>Fundamentals of Management Science</li>
+                                <li>Construction Methods and Technology</li>
+                                <li>Accounting and Finance for Built Environment</li>
+                                <li>Economics for Built Environment</li>
+                                <li>Sustainable Practices in Construction</li>
+                                <li>Project Development and Pre-Construction Planning</li>
+                                <li>Business Communication</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="cs-block">
+                        <div class="cs-left">
+                            <span class="cs-semester-tag"><span class="cs-semester-tag-inner">Second Year Subjects</span></span>
+                            <ul class="cs-course-list">
+                                <li>Construction Project Planning and Scheduling</li>
+                                <li>Procurement and Tendering</li>
+                                <li>Cost Planning and Management</li>
+                                <li>Data Analytics for Built Environment</li>
+                                <li>Asset Valuation Principles</li>
+                                <li>Business Development and Marketing Management</li>
+                                <li>Organizational Behavior and HR Management</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                </div><!-- /cs-grid -->
+
+            </div><!-- /cs-bg-wrap -->
+        </div>
+    </section>
+
+    <section class="city-content">
+        <div class="container">
 
             <h2 class="section-heading">Skills Developed</h2>
             <p>By the end of the programme, you will be able to:</p>
