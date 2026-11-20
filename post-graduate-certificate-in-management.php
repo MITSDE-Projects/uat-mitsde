@@ -529,28 +529,6 @@
     </section>
 
     <!-- ═══════════════════════════════════════════════
-       COUNSELLOR LEAD MODAL
-       Triggered by the "Talk to Counsellor" card button.
-       Reuses the site's standard lead form (home-get-in-touch-form-new.php)
-       — CSRF + validation.js validate() + AJAX lead push.
-    ════════════════════════════════════════════════ -->
-    <div class="modal fade" id="counsellorModal" tabindex="-1" aria-labelledby="counsellorModalLabel"
-        aria-hidden="true">
-        <div class="modal-dialog modal-dialog-centered">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h5 class="modal-title" id="counsellorModalLabel">Talk to Our Counsellor</h5>
-                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                </div>
-                <div class="modal-body">
-                    <p class="sub-text mb-3">Share your details and our career expert will get in touch with you.</p>
-                    <?php include "home-get-in-touch-form-new.php" ?>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- ═══════════════════════════════════════════════
        SITE FOOTER
     ════════════════════════════════════════════════ -->
     <?php include "footer-new.php" ?>

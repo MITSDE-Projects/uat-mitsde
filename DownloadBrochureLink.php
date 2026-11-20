@@ -105,6 +105,13 @@ $pagename = (isset($_SERVER['HTTPS']) ? 'https' : 'http') . "://$_SERVER[HTTP_HO
     </div>
 </section>
 
+<!-- Google Ads Enhanced Conversions: GTM-TC6SBSS reads jQuery('[name="email3"]') / jQuery('[name="mobile3"]').
+     Keep this BEFORE footer-new.php so it is the first email3 on the page (the footer popup also has an empty email3). -->
+<form action="#" name="google_mitsde" id="google_mitsde">
+    <input type="hidden" id="email3" name="email3" value="<?php echo htmlspecialchars($emaiid, ENT_QUOTES, 'UTF-8'); ?>" />
+    <input type="hidden" id="mobile3" name="mobile3" value="<?php echo htmlspecialchars('+91' . $mobile, ENT_QUOTES, 'UTF-8'); ?>" />
+</form>
+
 <?php include "footer-new.php"; ?>
 </body>
 </html>

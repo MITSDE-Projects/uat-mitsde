@@ -86,6 +86,7 @@
     </script>
 
 <?php include "5-common-seo-tag-1.php" ?>
+<?php include "new-city-page-google-code.html";?>
 </head>
 
 <body>

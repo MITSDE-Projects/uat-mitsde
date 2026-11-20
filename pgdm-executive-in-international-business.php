@@ -352,7 +352,7 @@
                                 <span class="pgcs-tag"><span class="pgcs-tag-inner">Semester 1</span></span>
                                 <ul class="pgcs-course-list">
                                     <li>Foundations of Business Management (S1F01)</li>
-                                    <li>Strategic Management (S3C01)</li>
+                                    <li>Strategic Management and Business Policy (S1F03)</li>
                                     <li>Project Management (S2SP1)</li>
                                     <li>Geopolitical Environment (S1G01)</li>
                                     <li>International Marketing (S4SM1)</li>

@@ -82,9 +82,10 @@ else $nav_active = '';
             }
         
 
+        // Fill latitude/longitude in EVERY form on the page (popup, brochure, knowledge-center, index, etc.)
         function showPosition1(Position) {
-            document.querySelector('.myFormH input[name="latitude"]').value = Position.coords.latitude;
-            document.querySelector('.myFormH input[name="longitude"]').value = Position.coords.longitude;
+            document.querySelectorAll('input[name="latitude"]').forEach(function (el) { el.value = Position.coords.latitude; });
+            document.querySelectorAll('input[name="longitude"]').forEach(function (el) { el.value = Position.coords.longitude; });
         }
         function showError(error){
             switch(error.code){
@@ -96,6 +97,7 @@ else $nav_active = '';
         }
         
 </script>
+<?php //require_once 'ws-analytics.php'; ?>
 <div class="top-gradient"></div>
 <div class="navbar-wrap">
 <header class="navbar">

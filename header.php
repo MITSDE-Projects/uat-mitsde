@@ -1,5 +1,7 @@
 <!-- dynamic code -->
 
+<?php //require_once 'ws-analytics.php'; ?>
+
 <nav class="navbar navbar-expand-lg fixed-top navigation">
 
     <div class="container">

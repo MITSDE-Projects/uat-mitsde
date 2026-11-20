@@ -278,7 +278,7 @@ if ($stmt->fetch()) {
         <div class="rf-card">
             <h2 class="rf-heading">Fee Payment</h2>
             <p><b>For Learners Enrolled after December 2022 only</b></p>
-            <p class="text-orange"><b><?php echo htmlspecialchars($searchmsg, ENT_QUOTES, 'UTF-8'); ?></p>
+            <p class="text-orange"><b><?php echo htmlspecialchars($searchmsg, ENT_QUOTES, 'UTF-8'); ?></b></p>
 
             <form action="ccavRequestHandler0.php" name="OtherFeesPayment" id="OtherFeesPayment"
                 onsubmit="return validatePayment(this);" method="post">
