@@ -210,7 +210,7 @@
             <div class="cs-bg-wrap">
 
                 <h2 class="cs-heading">Course Structure</h2>
-                <p class="sub-text text-light mb-3"><strong>Year 1: Core Subjects</strong></p>
+                <p class="text-light mb-3"><strong>Year 1: Core Subjects</strong></p>
 
                 <div class="cs-grid">
 
@@ -250,10 +250,28 @@
                         </div>
                     </div>
 
-                </div><!-- /cs-grid -->
+                </div><!-- /cs-grid (Year 1) -->
 
-                <p class="text-white mt-4"><strong>Year 2: Specialisation Subjects</strong></p>
-                <button type="button" class="btn btn-dark rounded-pill px-4 py-2" data-bs-toggle="modal" data-bs-target="#downloadModal">Download Brochure</button>
+                <p class="text-light mt-4 mb-3"><strong>Year 2: Specialisation Subjects</strong></p>
+
+                <div class="cs-grid">
+                    <div class="cs-block">
+                        <div class="cs-left">
+                            <span class="cs-semester-tag"><span class="cs-semester-tag-inner">Specialisation</span></span>
+                            <ul class="cs-course-list">
+                                <li>Strategic HRM</li>
+                                <li>Performance Management and Competency Mapping</li>
+                                <li>Compensation Management and HR Audit</li>
+                                <li>International Business</li>
+                                <li>Project Work</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div><!-- /cs-grid (Year 2) -->
+
+                <p class="text-white mt-4 mb-2"><strong>For more details</strong>
+                    <button type="button" class="btn btn-dark rounded-pill ms-2 px-4 py-2" data-bs-toggle="modal" data-bs-target="#downloadModal">Download Brochure</button>
+                </p>
 
             </div><!-- /cs-bg-wrap -->
         </div>
