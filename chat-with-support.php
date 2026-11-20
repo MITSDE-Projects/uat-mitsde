@@ -1519,14 +1519,14 @@
                                             <span>What if I join late or miss part of a CWR session?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>Try to join on time, as each round builds on the previous one. If you miss it, watch the session recording on the LMS; the post-session summary email will also help you catch up on the case and frameworks covered.</p></div>
+                                        <div class="faq-a"><p>CWR is a live, interactive activity conducted during the scheduled session. Learners who miss the session or join late cannot access or participate in the activity later. Hence, timely attendance is essential.</p><p>Please note that the case summary and live simulation details will be shared via email only with participants who attend the live session.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
                                             <span>Are the CWR crisis scenarios and brands real?</span>
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
-                                        <div class="faq-a"><p>CWR is a live, interactive activity conducted during the scheduled session. Learners who miss the session or join late cannot access or participate in the activity later. Hence, timely attendance is essential.</p><p>Please note that the case summary and live simulation details will be shared via email only with participants who attend the live session.</p></div>
+                                        <div class="faq-a"><p>Yes. Every CWR session is built around a real brand and a real-life case study. The crisis itself is simulated and unfolds over four rounds, connecting the frameworks, theories and tools taught in the subject.</p></div>
                                     </div>
                                     <div class="faq-item">
                                         <button class="faq-q" aria-expanded="false">
