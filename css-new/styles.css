@@ -195,8 +195,28 @@ a { text-decoration: none; }
     clip-path: polygon(0 0, 98% 0, 100% 50%, 98% 100%, 0 100%);
 }
 
-.logo-container { display: flex; flex-direction: column; align-items: flex-start; }
-.logo-container img { width: 150px; height: auto; }
+/* Two logos in a row: MIT India | divider | MITSDE (home link) */
+.logo-container { display: flex; flex-direction: row; align-items: center; gap: 14px; flex-shrink: 0; }
+.logo-container a { display: flex; }
+.logo-container .logo-mitsde { width: 150px; height: auto; }
+.logo-container .logo-mitindia { height: 40px; width: auto; }
+.logo-divider { width: 1px; height: 34px; background: #d1d5db; }
+
+/* Small laptop: nav links are tight, so shrink both logos */
+@media (max-width: 1199px) {
+    .logo-container { gap: 10px; }
+    .logo-container .logo-mitsde { width: 120px; }
+    .logo-container .logo-mitindia { height: 32px; }
+    .logo-divider { height: 28px; }
+}
+
+/* Small mobile: both logos + hamburger must fit on one line */
+@media (max-width: 480px) {
+    .logo-container { gap: 8px; }
+    .logo-container .logo-mitsde { width: 105px; }
+    .logo-container .logo-mitindia { height: 28px; }
+    .logo-divider { height: 24px; }
+}
 
 .nav-links {
     display: flex;

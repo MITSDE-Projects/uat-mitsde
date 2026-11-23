@@ -97,13 +97,15 @@ else $nav_active = '';
         }
         
 </script>
-<?php //require_once 'ws-analytics.php'; ?>
+<?php require_once 'ws-analytics.php'; ?>
 <div class="top-gradient"></div>
 <div class="navbar-wrap">
 <header class="navbar">
     <div class="logo-container">
+        <img class="logo-mitindia" src="assets-new/images/mit-india-logo.webp" alt="MIT India - Maharashtra Institute of Technology" />
+        <span class="logo-divider" aria-hidden="true"></span>
         <a href="./">
-        <img src="assets-new/images/logo_mitsde.png" alt="MIT School of Distance Education" />
+        <img class="logo-mitsde" src="assets-new/images/logo_mitsde.png" alt="MIT School of Distance Education" />
         </a>
     </div>
 
