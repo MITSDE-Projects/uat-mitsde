@@ -508,199 +508,6 @@
 
                         <div class="faq-vgroup">
                             <button class="faq-vq" aria-expanded="false">
-                                <span>Bootcamp</span>
-                                <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-                            </button>
-                            <div class="faq-vbody">
-                                <div class="faq-list">
-                                    <div class="faq-item">
-                                        <button class="faq-q" aria-expanded="false">
-                                            <span>Who is covered under the new Bootcamp certification initiative?</span>
-                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-                                        </button>
-                                        <div class="faq-a"><p>Learners from C15 onwards ONLY, subject to the approved programme, specialization and semester mapping.</p></div>
-                                    </div>
-                                    <div class="faq-item">
-                                        <button class="faq-q" aria-expanded="false">
-                                            <span>Are learners from C14 or earlier eligible?</span>
-                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-                                        </button>
-                                        <div class="faq-a"><p>No. Do not communicate eligibility for batches before C15 under this initiative.</p></div>
-                                    </div>
-                                    <div class="faq-item">
-                                        <button class="faq-q" aria-expanded="false">
-                                            <span>In which semesters are these certifications embedded?</span>
-                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-                                        </button>
-                                        <div class="faq-a"><p>Semester 1 and Semester 2 only, according to the approved mapping. They are not positioned as certifications running across the entire programme duration.</p></div>
-                                    </div>
-                                    <div class="faq-item">
-                                        <button class="faq-q" aria-expanded="false">
-                                            <span>What is common to all C15 Semester 1 PGDM, PGDM Executive and PGCM specializations?</span>
-                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-                                        </button>
-                                        <div class="faq-a"><p>CPEA (Basic &amp; Advanced Excel + AI) and CPDA (SQL &amp; Power BI).</p></div>
-                                    </div>
-                                    <div class="faq-item">
-                                        <button class="faq-q" aria-expanded="false">
-                                            <span>Has CPEA been completed for C15?</span>
-                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-                                        </button>
-                                        <div class="faq-a"><p>Yes. The live CPEA certification delivery for the C15 Semester 1 batch has been successfully completed.</p></div>
-                                    </div>
-                                    <div class="faq-item">
-                                        <button class="faq-q" aria-expanded="false">
-                                            <span>What should C15 learners do now for CPEA?</span>
-                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-                                        </button>
-                                        <div class="faq-a"><p>The CPEA self-assessment window is open for one month. Learners should complete the LMS self-assessment within the communicated window.</p></div>
-                                    </div>
-                                    <div class="faq-item">
-                                        <button class="faq-q" aria-expanded="false">
-                                            <span>Does attending CPEA sessions alone complete the certification process?</span>
-                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-                                        </button>
-                                        <div class="faq-a"><p>No. Attendance/live learning is not the final step. Learners must complete the prescribed LMS self-assessment as part of the certification process.</p></div>
-                                    </div>
-                                    <div class="faq-item">
-                                        <button class="faq-q" aria-expanded="false">
-                                            <span>Has CPDA started for C15?</span>
-                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-                                        </button>
-                                        <div class="faq-a"><p>Yes. CPDA certification delivery has started for the C15 Semester 1 batch while the CPEA self-assessment window is running.</p></div>
-                                    </div>
-                                    <div class="faq-item">
-                                        <button class="faq-q" aria-expanded="false">
-                                            <span>What does CPDA cover?</span>
-                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-                                        </button>
-                                        <div class="faq-a"><p>CPDA is the Certified Professional Data Analyst certification, focused on SQL and Power BI. The approved structure is 16 hours across 6 live sessions.</p></div>
-                                    </div>
-                                    <div class="faq-item">
-                                        <button class="faq-q" aria-expanded="false">
-                                            <span>How will the learner receive the completion certificate?</span>
-                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-                                        </button>
-                                        <div class="faq-a"><p>The completion certificate with grade will be shared on the learner's registered email ID after completion of the prescribed academic process.</p></div>
-                                    </div>
-                                    <div class="faq-item">
-                                        <button class="faq-q" aria-expanded="false">
-                                            <span>Will a physical/hard-copy certificate be issued?</span>
-                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-                                        </button>
-                                        <div class="faq-a"><p>No. Certificates are shared through the learner's registered email ID only; no hard copies are available.</p></div>
-                                    </div>
-                                    <div class="faq-item">
-                                        <button class="faq-q" aria-expanded="false">
-                                            <span>Are all Semester 2 certifications applicable to every learner?</span>
-                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-                                        </button>
-                                        <div class="faq-a"><p>No. Semester 2 eligibility varies by programme and specialization. Always check the approved mapping before answering.</p></div>
-                                    </div>
-                                    <div class="faq-item">
-                                        <button class="faq-q" aria-expanded="false">
-                                            <span>What are CPDSA and CPQBA?</span>
-                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-                                        </button>
-                                        <div class="faq-a"><p>CPDSA is Certified Professional Data Science Analyst (Python &amp; SAS). CPQBA is Certified Professional Quantitative Business Analyst (R &amp; Tableau). Their Semester 2 eligibility excludes PGCM – Digital Marketing and PGDM Executive – Digital Marketing specializations.</p></div>
-                                    </div>
-                                    <div class="faq-item">
-                                        <button class="faq-q" aria-expanded="false">
-                                            <span>What applies to Digital Marketing specializations in Semester 2?</span>
-                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-                                        </button>
-                                        <div class="faq-a"><p>PGCM – Digital Marketing and PGDM Executive – Digital Marketing have their own mapped Digital Marketing certifications/bootcamps, including CDME, CDMA and B2/B3. B1 has a separate subject-wise eligibility mapping and must be checked before confirmation.</p></div>
-                                    </div>
-                                    <div class="faq-item">
-                                        <button class="faq-q" aria-expanded="false">
-                                            <span>What if a learner says, 'My friend in another specialization has a different certification'?</span>
-                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-                                        </button>
-                                        <div class="faq-a"><p>Explain that Semester 2 certifications are mapped by programme and specialization, so different learners may correctly have different certification tracks.</p></div>
-                                    </div>
-                                    <div class="faq-item">
-                                        <button class="faq-q" aria-expanded="false">
-                                            <span>What if a learner misses or has an issue with the self-assessment?</span>
-                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-                                        </button>
-                                        <div class="faq-a"><p>Do not invent an extension, retest or exception policy. Escalate the learner's case to Team Academics for the applicable decision/instruction.</p></div>
-                                    </div>
-                                    <div class="faq-item">
-                                        <button class="faq-q" aria-expanded="false">
-                                            <span>What if a learner asks when the certificate will arrive?</span>
-                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-                                        </button>
-                                        <div class="faq-a"><p>Confirm only that the certificate with grade is shared on the registered email ID after completion of the prescribed process. Do not promise a specific dispatch date unless Team Academics has officially communicated one.</p></div>
-                                    </div>
-                                    <div class="faq-item">
-                                        <button class="faq-q" aria-expanded="false">
-                                            <span>What if eligibility, dates, assessment rules or certification mapping are unclear?</span>
-                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-                                        </button>
-                                        <div class="faq-a"><p>Escalate to Team Academics. Do not assume, improvise or provide an unverified commitment.</p></div>
-                                    </div>
-                                    <div class="faq-item">
-                                        <button class="faq-q" aria-expanded="false">
-                                            <span>How are the Bootcamp sessions scheduled?</span>
-                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-                                        </button>
-                                        <div class="faq-a"><p>These are weekend Bootcamp sessions planned on Sundays only, from 7:00 PM to 10:00 PM.</p></div>
-                                    </div>
-                                    <div class="faq-item">
-                                        <button class="faq-q" aria-expanded="false">
-                                            <span>Who conducts the live sessions?</span>
-                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-                                        </button>
-                                        <div class="faq-a"><p>All live sessions are conducted only by industry Subject Matter Experts (SMEs).</p></div>
-                                    </div>
-                                    <div class="faq-item">
-                                        <button class="faq-q" aria-expanded="false">
-                                            <span>Where is the live-session joining link available?</span>
-                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-                                        </button>
-                                        <div class="faq-a"><p>The joining link is available ONLY on the LMS. Learners should access the LMS to join the scheduled session.</p></div>
-                                    </div>
-                                    <div class="faq-item">
-                                        <button class="faq-q" aria-expanded="false">
-                                            <span>What learning resources are provided for every session?</span>
-                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-                                        </button>
-                                        <div class="faq-a"><p>Learners receive the live-session recording on the LMS, a handbook for every session, and practice datasets on the LMS.</p></div>
-                                    </div>
-                                    <div class="faq-item">
-                                        <button class="faq-q" aria-expanded="false">
-                                            <span>Where will the learner receive/access the certificate?</span>
-                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-                                        </button>
-                                        <div class="faq-a"><p>The certificate will be available on the LMS after completion of the prescribed certification process.</p></div>
-                                    </div>
-                                    <div class="faq-item">
-                                        <button class="faq-q" aria-expanded="false">
-                                            <span>How will learners receive Bootcamp updates?</span>
-                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-                                        </button>
-                                        <div class="faq-a"><p>Official updates are shared through Email, Telegram and the LMS Community channel. Learners must keep a regular watch on all three sources.</p></div>
-                                    </div>
-                                    <div class="faq-item">
-                                        <button class="faq-q" aria-expanded="false">
-                                            <span>How early will session details be shared?</span>
-                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-                                        </button>
-                                        <div class="faq-a"><p>Session details will be shared at least 4 days before the scheduled live session.</p></div>
-                                    </div>
-                                    <div class="faq-item">
-                                        <button class="faq-q" aria-expanded="false">
-                                            <span>How will an unforeseen cancellation or postponement be communicated?</span>
-                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-                                        </button>
-                                        <div class="faq-a"><p>If a session must be cancelled or postponed due to unforeseen circumstances beyond reasonable human control, learners will be informed through Email and Telegram only.</p></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="faq-vgroup">
-                            <button class="faq-vq" aria-expanded="false">
                                 <span>Live Sessions</span>
                                 <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                             </button>
@@ -1685,6 +1492,483 @@
                                             <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                                         </button>
                                         <div class="faq-a"><p>It offers corporate exposure at a Navratna PSU, strengthens your resume, and provides hands-on industry experience with expert mentorship.</p></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="faq-vgroup">
+                            <button class="faq-vq" aria-expanded="false">
+                                <span>Bootcamp</span>
+                                <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                            </button>
+                            <div class="faq-vbody">
+                                <p style="font-size:var(--fz-small);line-height:1.7;color:var(--text-dark);margin:0 0 16px;">MITSDE's PG programmes come with free, hands-on, AI-integrated upskilling certifications built into the curriculum. This section answers the most common questions about what the certifications are, who can take them, and how they work.</p>
+                                <p class="fw-bold text-uppercase text-muted" style="font-size:var(--fz-xsmall);letter-spacing:.08em;margin:0 0 8px;">About the MITSDE Bootcamp</p>
+                                <div class="faq-list mb-2">
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>What are the MITSDE Bootcamp certifications?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a">
+                                            <p>They are short, skill-focused certifications in Business Analytics and Digital Marketing, offered by the Bootcamp vertical of MITSDE's Academic Department. Each one is built around tools that show up in today's job descriptions – Excel, SQL, Power BI, Python, SAS, R, Tableau, Google Ads, GA4 and more – with AI tools woven into the curriculum.</p>
+                                            <p class="mt-2">There are six certifications (CPEA, CPDA, CPDSA, CPQBA, CDME and CDMA), plus three full-day bootcamp workshops (B1, B2 and B3), all delivered through live, hands-on sessions.</p>
+                                        </div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>Do I have to pay anything extra for them?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>No. The certifications and bootcamps are completely free. They are embedded in your programme curriculum, so there is no additional fee and no separate enrolment cost.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>Which programmes include these certifications?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>They are part of the PGDM, PGDM Executive and PGCM programmes. Which certifications you receive depends on your programme and specialisation – see the eligibility section below.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>When during the programme will I take them?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>The certifications are embedded in Semester 1 and Semester 2 only, not across the full programme duration. CPEA and CPDA run in Semester 1; all others run in Semester 2.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>Will these take extra time on top of my studies?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>They are built into the PG curriculum itself, so they are designed to fit alongside your regular coursework rather than add a separate course load.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>Who are these certifications designed for?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>Both fresh graduates who want strong, verifiable skills on their first resume, and working professionals who want current, tool-level fluency to grow in their careers. You do not need a coding or technical background – the certifications start from the fundamentals. CPDSA, for example, is designed for non-engineers and begins with your first Python program.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>Is AI part of the curriculum?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>Yes. Every certification includes AI tools relevant to the subject – for example, ChatGPT and Copilot inside Excel in CPEA, Performance Max AI in Google Ads in CDME, and AI content pipelines in CDMA and B2.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>Are the sessions theoretical or practical?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>Practical. You finish each certification with a working, demonstrable skill – such as a live dashboard, a working SQL query, a functioning ad campaign or a content calendar – not just theoretical exposure. In the bootcamps, you build real analytics and content assets on your own laptop.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>Who designs and teaches the sessions?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>CPEA, CPDA, CPDSA, CPQBA, CDME and CDMA are designed and delivered by the Bootcamp vertical of the MITSDE Academic Department. All live sessions are led by industry Subject Matter Experts (SMEs), coordinated by MITSDE's Bootcamp team. For B1, B2 and B3, the Bootcamp team also handles content, scheduling and expert coordination.</p></div>
+                                    </div>
+                                </div>
+
+                                <p class="fw-bold text-uppercase text-muted" style="font-size:var(--fz-xsmall);letter-spacing:.08em;margin:20px 0 8px;">Certifications at a Glance</p>
+                                <div class="faq-list mb-2">
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>Which certifications and bootcamps are offered?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a">
+                                            <p>Six certifications and three full-day bootcamps are offered across Semester 1 and Semester 2:</p>
+                                            <div class="tbl-wrap">
+                                                <table class="tbl">
+                                                    <thead>
+                                                        <tr>
+                                                            <th class="tbl-label">Certification</th>
+                                                            <th>Tools / Focus</th>
+                                                            <th>Duration</th>
+                                                            <th>Semester</th>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                        <tr><td class="tbl-label"><strong>CPEA</strong> — Certified Professional Excel Analyst</td><td>Basic &amp; Advanced Excel + AI</td><td>15 hours · 5 live sessions</td><td>Semester 1</td></tr>
+                                                        <tr><td class="tbl-label"><strong>CPDA</strong> — Certified Professional Data Analyst</td><td>SQL &amp; Power BI</td><td>16 hours · 6 live sessions</td><td>Semester 1</td></tr>
+                                                        <tr><td class="tbl-label"><strong>CPDSA</strong> — Certified Professional Data Science Analyst</td><td>Python &amp; SAS</td><td>16 hours · 6 live sessions</td><td>Semester 2</td></tr>
+                                                        <tr><td class="tbl-label"><strong>CPQBA</strong> — Certified Professional Quantitative Business Analyst</td><td>R &amp; Tableau</td><td>16 hours · 6 live sessions</td><td>Semester 2</td></tr>
+                                                        <tr><td class="tbl-label"><strong>CDME</strong> — Certificate in Digital Marketing Essentials</td><td>SEO, SEM, Google Ads, LinkedIn, Landing Pages</td><td>15 hours · 4 live sessions</td><td>Semester 2</td></tr>
+                                                        <tr><td class="tbl-label"><strong>CDMA</strong> — Certificate in Digital Marketing Applications</td><td>Automation, Chatbots, Performance Marketing, AI Content</td><td>15 hours · 4 live sessions</td><td>Semester 2</td></tr>
+                                                        <tr><td class="tbl-label"><strong>B1</strong> — Marketing Analytics Mastery</td><td>GA4, Looker Studio, Tableau Public, Forecasting</td><td>8 hours · full-day live bootcamp</td><td>Semester 2</td></tr>
+                                                        <tr><td class="tbl-label"><strong>B2</strong> — Social Media, Content &amp; Influencer Marketing</td><td>Notion, Canva, CapCut, Meta, Buffer, Heepsy</td><td>8 hours · full-day live bootcamp</td><td>Semester 2</td></tr>
+                                                        <tr><td class="tbl-label"><strong>B3</strong> — Social Media Analytics &amp; Future Intelligence</td><td>Social listening, Looker Studio, A/B testing</td><td>8 hours · full-day live bootcamp</td><td>Semester 2</td></tr>
+                                                    </tbody>
+                                                </table>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <p class="fw-bold text-uppercase text-muted" style="font-size:var(--fz-xsmall);letter-spacing:.08em;margin:20px 0 8px;">Eligibility: Which Certifications Will I Get?</p>
+                                <div class="faq-list mb-2">
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>Are all certifications available to every programme?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a">
+                                            <p>No. CPEA and CPDA are available to everyone; the rest depend on your programme and specialisation. It is therefore normal for learners from different specialisations to have different Semester 2 certifications.</p>
+                                            <ul class="ac-list text-dark">
+                                                <li><strong>CPEA and CPDA (Semester 1):</strong> available to all programmes – PGDM, PGDM Executive and PGCM – across all specialisations.</li>
+                                                <li><strong>CPDSA and CPQBA (Semester 2):</strong> available to PGDM, PGDM Executive and PGCM learners in all specialisations except PGCM – Digital Marketing and PGDM Executive – Digital Marketing.</li>
+                                                <li><strong>CDME, CDMA, B2 and B3 (Semester 2):</strong> available only to PGCM and PGDM Executive learners in the Digital Marketing specialisation. They are not part of the general PGDM programme or any other specialisation.</li>
+                                                <li><strong>B1 – Marketing Analytics Mastery (Semester 2):</strong> covers two subjects with different eligibility:
+                                                    <ul class="ac-list text-dark mt-2">
+                                                        <li><strong>Marketing Analytics &amp; Future Trends:</strong> PGCM – Digital Marketing and PGDM Executive – Digital Marketing.</li>
+                                                        <li><strong>Marketing Analytics:</strong> PGCM – Business Analytics, PGDM Executive – Strategic Marketing Management and PGDM Executive – Business Analytics.</li>
+                                                    </ul>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>What do Digital Marketing learners get?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>Digital Marketing learners follow the same Semester 1 certifications as everyone else (CPEA and CPDA). In Semester 2, CDME and CDMA are offered in place of CPDSA and CPQBA, along with the B1, B2 and B3 bootcamps.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>What is the complete list of certifications for my programme and specialisation?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a">
+                                            <div class="tbl-wrap mt-0">
+                                                <table class="tbl">
+                                                    <thead>
+                                                        <tr>
+                                                            <th class="tbl-label">Programme &amp; Specialisation</th>
+                                                            <th class="tbl-label">Certifications Included</th>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                        <tr><td class="tbl-label">PGCM – Digital Marketing</td><td class="tbl-label">CPEA, CPDA, CDME, CDMA, B1 (Marketing Analytics &amp; Future Trends), B2, B3</td></tr>
+                                                        <tr><td class="tbl-label">PGDM Executive – Digital Marketing</td><td class="tbl-label">CPEA, CPDA, CDME, CDMA, B1 (Marketing Analytics &amp; Future Trends), B2, B3</td></tr>
+                                                        <tr><td class="tbl-label">PGCM – Business Analytics</td><td class="tbl-label">CPEA, CPDA, CPDSA, CPQBA, B1 (Marketing Analytics)</td></tr>
+                                                        <tr><td class="tbl-label">PGDM Executive – Business Analytics</td><td class="tbl-label">CPEA, CPDA, CPDSA, CPQBA, B1 (Marketing Analytics)</td></tr>
+                                                        <tr><td class="tbl-label">PGDM Executive – Strategic Marketing Management</td><td class="tbl-label">CPEA, CPDA, CPDSA, CPQBA, B1 (Marketing Analytics)</td></tr>
+                                                        <tr><td class="tbl-label">PGDM (all specialisations)</td><td class="tbl-label">CPEA, CPDA, CPDSA, CPQBA</td></tr>
+                                                        <tr><td class="tbl-label">All other PGCM and PGDM Executive specialisations</td><td class="tbl-label">CPEA, CPDA, CPDSA, CPQBA</td></tr>
+                                                    </tbody>
+                                                </table>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>Can I take a certification that is not mapped to my specialisation?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>No. Certifications are mapped by programme and specialisation. CDME, CDMA, B2 and B3 are designed for Digital Marketing specialisation learners only, while CPDSA and CPQBA are offered to all specialisations except Digital Marketing. If you are unsure which certifications are mapped to you, please check with the Student Support team.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>Do I need to complete CDME before CDMA?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>CDMA is the advanced certification that builds on CDME, so CDME lays the foundation for it. Both are part of the Digital Marketing specialisation track.</p></div>
+                                    </div>
+                                </div>
+
+                                <p class="fw-bold text-uppercase text-muted" style="font-size:var(--fz-xsmall);letter-spacing:.08em;margin:20px 0 8px;">What You Will Learn</p>
+                                <div class="faq-list mb-2">
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>What does CPEA – Certified Professional Excel Analyst cover?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>Core Excel (sorting, filtering, essential functions, Flash Fill, Data Validation); logical functions and VLOOKUP; ChatGPT and Copilot inside Excel workflows; Pivot Tables with slicers, calculated fields and pivot charts; advanced and multi-criteria lookups; and automation with Macros, VBA and Power Query.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>What does CPDA – Certified Professional Data Analyst cover?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>SQL fundamentals (SELECT, WHERE, filtering); aggregation with GROUP BY and HAVING; advanced SQL including joins, subqueries, CTEs and window functions; Power BI reporting; and DAX, time intelligence (YTD/MTD), data modelling and dashboard publishing.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>What does CPDSA – Certified Professional Data Science Analyst cover?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>Python in Jupyter Notebook (variables, data types, loops, lists, dictionaries); data analysis with Pandas and NumPy; SAS interface and DATA step fundamentals; and PROC commands and PROC SQL for statistical summaries and reporting. It is built specifically for non-engineers.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>What does CPQBA – Certified Professional Quantitative Business Analyst cover?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>R and RStudio for exploratory analysis and regression; ARIMA forecasting for time-series data; Tableau fundamentals and visualisation (bar/line charts, scatter plots, treemaps, filters); and forecasting and cluster analysis in Tableau.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>What does CDME – Certificate in Digital Marketing Essentials cover?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>Google My Business, SEO and SEM with AI tools such as ChatGPT and SEOwind; Google Ads campaigns, ad copy, Quality Score, bidding and Performance Max AI; LinkedIn B2B lead generation with Sales Navigator; and landing pages, conversion optimisation and e-commerce funnels.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>What does CDMA – Certificate in Digital Marketing Applications cover?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>The advanced layer after CDME: no-code marketing automation with Zapier/Make, CRM workflows and lead scoring; WhatsApp and chatbot marketing with ManyChat and Tidio; affiliate, performance and programmatic marketing with UTM tracking; and AI-powered content production and repurposing at scale.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>What does B1 – Marketing Analytics Mastery cover?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>GA4 setup and KPI dashboards in Bitrix24 CRM; marketing mix modelling and multi-channel attribution in Google Looker Studio; customer journey dashboards in Tableau Public; demand forecasting with Google Trends and Meta Ads Manager insights; and AI-powered data storytelling.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>What does B2 – Social Media, Content &amp; Influencer Marketing cover?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>A one-month content calendar built in Notion; a content sprint creating a Canva creative and a CapCut reel from a live brand brief; Meta Business Suite, LinkedIn analytics and Buffer scheduling; influencer discovery and ROI measurement with Heepsy; and an end-to-end AI content pipeline.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>What does B3 – Social Media Analytics &amp; Future Intelligence cover?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>Native analytics audits across Meta, LinkedIn and YouTube; social listening with Mention and Google Alerts and competitor benchmarking on Social Blade; a multi-platform dashboard in Looker Studio; A/B testing, ROI attribution and search-intent research with Answer The Public; and an AI-powered social intelligence reporting pipeline.</p></div>
+                                    </div>
+                                </div>
+
+                                <p class="fw-bold text-uppercase text-muted" style="font-size:var(--fz-xsmall);letter-spacing:.08em;margin:20px 0 8px;">Sessions &amp; Schedule</p>
+                                <div class="faq-list mb-2">
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>Are the sessions live or recorded, and what learning resources are provided?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>The certifications are delivered through live, hands-on sessions. B1, B2 and B3 are full-day (8-hour) live workshops. For every session, you receive the live-session recording on the LMS, a handbook, and practice datasets on the LMS.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>When are the Bootcamp sessions held?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>Certification sessions are weekend sessions held on Saturdays or Sundays, from 7:00 PM to 10:00 PM. The full-day B1, B2 and B3 workshops are scheduled separately, and their dates are shared through official communication.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>How will I receive session details and Bootcamp updates?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>Official updates are shared through Email, Telegram and the LMS Community channel, so please keep a regular watch on all three. Session details are shared at least 4 days before the scheduled live session.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>How do I join a live session?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>The joining link is available only on the LMS. Log in to the LMS to join the scheduled session.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>What do I need to attend the sessions?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>You need your own laptop and access to the LMS. Sessions are hands-on, so you will practise on your own device during the live session.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>Is attendance compulsory? What if I miss a live session?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>Attendance is not compulsory, but it is encouraged – the sessions are live and hands-on, so attending is the best way to build the skills each certification covers. If you miss a live session, review the recording, handbook and practice datasets on the LMS, and then attempt the self-assessment. The certification is earned by completing the self-assessment, not by attendance alone.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>What is the benefit of attending live if a recording is available?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>Live sessions give you real-time Q&amp;A with the subject matter expert, hands-on practice with live datasets, and the chance to network with your peers. A recording cannot replicate these.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>What happens if a session is cancelled or postponed?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>If a session must be cancelled or postponed due to unforeseen circumstances beyond reasonable control, you will be informed through Email and Telegram.</p></div>
+                                    </div>
+                                </div>
+
+                                <p class="fw-bold text-uppercase text-muted" style="font-size:var(--fz-xsmall);letter-spacing:.08em;margin:20px 0 8px;">Self-Assessment &amp; Certificate</p>
+                                <div class="faq-list mb-2">
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>How will I be assessed, and how do I earn a certificate?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>Each of the six certifications is assessed through a self-assessment multiple-choice (MCQ) test on the MITSDE LMS. After completing the certification learning, you must complete this self-assessment. Attending the live sessions alone does not complete the certification process.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>What is the format of the self-assessment?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>The self-assessment has 15 questions of 2 marks each, for a total of 30 marks. It is taken on the LMS.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>When is the self-assessment available, and for how long?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>The self-assessment opens on the LMS after the final session of the certification and remains available for one month. Please complete it within the window communicated to you.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>How many attempts do I get?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>You get one attempt per certification. Please review the session materials thoroughly before you attempt it.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>What if I fail or miss the self-assessment?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>Please raise a ticket with the Student Support team. Your case will be referred to the Academics team, who will advise on the applicable next steps.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>How will I receive my certificate?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>After you complete the assessment, your completion certificate with grade is sent to your registered email ID after the assessment window closed. Certificates are issued digitally only; hard copies are not provided. Please make sure the email ID registered with MITSDE is correct and active.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>When will I receive my certificate?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>The certificate is issued after you complete the prescribed process. Any specific timeline is communicated officially by the Academics team.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>Do the B1, B2 and B3 bootcamps also include a certificate?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>No. B1, B2 and B3 are full-day, hands-on workshops. The MCQ assessment and emailed certificate apply to the six certifications: CPEA, CPDA, CPDSA, CPQBA, CDME and CDMA.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>Do the certifications carry credits or affect my academic grade?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>No. These are non-credit certifications. They do not affect your academic grade or credit count and are not reflected on your programme certificate. Each certification is issued as a separate certificate that adds to your professional profile.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>Are these certifications recognised by employers?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>The certifications are part of MITSDE's verifiable credential framework. They are designed to give you skill-based proof of competency that is valued by recruiters and industry partners.</p></div>
+                                    </div>
+                                </div>
+
+                                <p class="fw-bold text-uppercase text-muted" style="font-size:var(--fz-xsmall);letter-spacing:.08em;margin:20px 0 8px;">Bootcamp Fit Checker</p>
+                                <div class="faq-list mb-2">
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>What is the Bootcamp Fit Checker?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>The Fit Checker is a free tool that helps you decide whether attending a live Bootcamp session will be useful for you. It considers your programme, specialisation, background, experience, existing knowledge and learning goals, and takes under two minutes to complete.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>Where do I find the Fit Checker, and what if I cannot access it?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>The Fit Checker link is shared through session communications – your registered email, Telegram groups, LMS Community and LMS announcements. Make sure you are logged in to the LMS and check the Community section of your cohort. If you still cannot access it, please raise a support ticket.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>Is the Fit Checker mandatory?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>No. It is completely optional and is there to help you make a better decision, not to restrict your access to any session.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>Do I have to follow the Fit Checker's recommendation?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>No. The Fit Checker is a guide, not a gatekeeper. You are welcome to attend any session of your mapped certifications, even if your result is “Your Call”. If your result is “Attend Live” but you cannot attend because of a prior commitment, that is perfectly fine – review the post-session materials and attempt the self-assessment when you feel ready.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>How many times can I use the Fit Checker?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>You can use the Fit Checker only once per certification. It is designed to provide an honest and personalized recommendation based on your responses. Repeated attempts with different answers are not permitted, as the purpose is to help you make an informed decision about the certification.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>Does the Fit Checker decide whether I can take the self-assessment?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>No. Every learner registered for the certification is eligible to attempt the self-assessment. The Fit Checker only helps you prepare better for it.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>I entered the wrong email ID on the Fit Checker. What should I do?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>Always use your registered email ID. If you have entered an incorrect one, contact the Student Support team immediately so that the records can be corrected.</p></div>
+                                    </div>
+                                </div>
+
+                                <p class="fw-bold text-uppercase text-muted" style="font-size:var(--fz-xsmall);letter-spacing:.08em;margin:20px 0 8px;">Career Value</p>
+                                <div class="faq-list mb-2">
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>How will these certifications help my career?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>They give you verifiable, hands-on skills in the tools employers list in job descriptions across HR, Finance, Operations, Supply Chain, Project Management, Sales and Marketing. Alongside your management qualification, you graduate with technical certifications you can add to your resume and LinkedIn profile and demonstrate in interviews.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>I am a working professional with years of experience. Are these still useful for me?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>Yes. Many experienced professionals stall not because of a lack of experience but because of gaps in current tools such as advanced Excel, SQL, Power BI, Python or digital marketing platforms. These certifications are designed to close exactly that gap, at no extra cost.</p></div>
+                                    </div>
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>I am a fresh graduate. Why should these matter to me?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>They give you practical, job-ready skills and certifications to strengthen your first resume, helping you stand out for analyst, marketing and business roles from day one.</p></div>
+                                    </div>
+                                </div>
+
+                                <p class="fw-bold text-uppercase text-muted" style="font-size:var(--fz-xsmall);letter-spacing:.08em;margin:20px 0 8px;">Still Have Questions?</p>
+                                <div class="faq-list mb-2">
+                                    <div class="faq-item">
+                                        <button class="faq-q" aria-expanded="false">
+                                            <span>Whom do I contact for Bootcamp-related queries?</span>
+                                            <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                                        </button>
+                                        <div class="faq-a"><p>For questions about your eligibility, schedule or certification details, raise a support ticket with the Student Support team. For general enquiries, you can write to <a href="mailto:bootcamp@mitsde.com" style="color:var(--primary-orange);font-weight:600;">bootcamp@mitsde.com</a>.</p></div>
                                     </div>
                                 </div>
                             </div>
