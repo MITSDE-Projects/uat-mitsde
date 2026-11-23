@@ -11,7 +11,7 @@
 
 
     <meta name="description"
-        content="Advance your career with MITSDE’s Online MBA courses in India, designed for working professionals, entrepreneurs, and aspiring business leaders. Our programs combine flexibility, affordability, and industry-relevant learning to help you acquire managerial skills without disrupting your career. With UGC-approved online MBA and AICTE-approved online MBA programs, MITSDE ensures nationwide recognition and equips you for leadership roles in IT, finance, operations, marketing, and more.
+        content="Explore online MBA courses in India at MIT SDE. Gain industry-relevant skills, flexible learning options, and practical knowledge to advance your career.
  " />
     <meta name="keywords"
         content="" />
@@ -27,7 +27,7 @@
     <meta property="og:site_name" content="MIT School of Distance Education">
     <meta property="og:url" content="https://mitsde.com/online-mba-colleges-in-jaipur">
     <meta property="og:description"
-        content="Advance your career with MITSDE’s Online MBA courses in India, designed for working professionals, entrepreneurs, and aspiring business leaders. Our programs combine flexibility, affordability, and industry-relevant learning to help you acquire managerial skills without disrupting your career. With UGC-approved online MBA and AICTE-approved online MBA programs, MITSDE ensures nationwide recognition and equips you for leadership roles in IT, finance, operations, marketing, and more.
+        content="Explore online MBA courses in India at MIT SDE. Gain industry-relevant skills, flexible learning options, and practical knowledge to advance your career.
  ">
     <meta property="og:type" content="website">
     <meta property="og:image" content="#">
@@ -87,7 +87,7 @@
                     <div class="col-md-12 col-lg-6 main-banner d-flex justify-content-center">
                         <div class="row mt-5 mb-5">
                             <h1>Online MBA Courses in India</h1>
-                            <p>Advance your career with MITSDE’s Online MBA courses in India, designed for working professionals, entrepreneurs, and aspiring business leaders. Our programs combine flexibility, affordability, and industry-relevant learning to help you acquire managerial skills without disrupting your career. With UGC-approved online MBA and AICTE-approved online MBA programs, MITSDE ensures nationwide recognition and equips you for leadership roles in IT, finance, operations, marketing, and more.</p>
+                            <p>Explore online MBA courses in India at MIT SDE. Gain industry-relevant skills, flexible learning options, and practical knowledge to advance your career.</p>
                             <div class="page-btn mt-2">
 
 

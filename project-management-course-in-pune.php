@@ -10,7 +10,7 @@
     <title>Project Management Course in Pune | Enroll Today | MIT SDE</title>
 
     <meta name="description"
-        content="Boost your career with MITSDE’s AICTE-approved online Project Management course in Pune. Master real-world project management skills with flexible learning and placement support." />
+        content="Explore the Project Management Course in Pune at MIT SDE to develop practical skills, enhance leadership abilities, and advance your career with flexible learning options." />
 
     <meta name="keywords"
         content="Project management courses in Pune, Project management in Pune, Project management college in Pune, Project management institute in Pune, Best Project management courses in Pune, Project management programs in Pune, Project Management for Working Professionals, PGDM, MBA, EMBA, PGDBA, PGCM" />

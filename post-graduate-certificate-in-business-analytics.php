@@ -8,7 +8,7 @@
 
     <title>Post Graduate Certificate in Management in Business Analytics | MIT SDE</title>
 
-    <meta name="description" content="Advance your career with MITSDE's business analytics certification in Pune. Learn business intelligence, data analytics, and predictive modeling through an industry-focused online PG course." />
+    <meta name="description" content="Explore the PGCM Business Analytics course at MIT SDE to develop data-driven decision-making, analytical, and problem-solving skills for a successful career in business analytics." />
 
     <meta name="keywords" content="pgcm courses, business analytics, certificate courses, post graduate certificate, pgcm" />
 
@@ -23,7 +23,7 @@
     <meta property="og:title" content="Best Online PG Business Analytics Course & Certification in Pune | MITSDE">
     <meta property="og:site_name" content="MIT School of Distance Education">
     <meta property="og:url" content="https://mitsde.com/post-graduate-certificate-in-business-analytics">
-    <meta property="og:description" content="Advance your career with MITSDE's business analytics certification in Pune. Learn business intelligence, data analytics, and predictive modeling through an industry-focused online PG course.">
+    <meta property="og:description" content="Explore the PGCM Business Analytics course at MIT SDE to develop data-driven decision-making, analytical, and problem-solving skills for a successful career in business analytics.">
     <meta property="og:type" content="website">
     <meta property="og:image" content="https://mitsde.com/assets-new/images/banner/business-analytics.webp">
 
@@ -44,7 +44,7 @@
         "@type": "Product",
         "name": "Best Online PG Business Analytics Course & Certification in Pune | MITSDE",
         "image": "https://mitsde.com/assets-new/images/banner/business-analytics.webp",
-        "description": "Advance your career with MITSDE's business analytics certification in Pune. Learn business intelligence, data analytics, and predictive modeling through an industry-focused online PG course.",
+        "description": "Explore the PGCM Business Analytics course at MIT SDE to develop data-driven decision-making, analytical, and problem-solving skills for a successful career in business analytics.",
         "brand": {
             "@type": "Brand",
             "name": "MITSDE"
