@@ -103,7 +103,7 @@ else $nav_active = '';
 <header class="navbar">
     <div class="logo-container">
         <img class="logo-mitindia" src="assets-new/images/mit-india-logo.webp" alt="MIT India - Maharashtra Institute of Technology" />
-        <span class="logo-divider" aria-hidden="true"></span>
+        <!-- <span class="logo-divider" aria-hidden="true"></span> -->
         <a href="./">
         <img class="logo-mitsde" src="assets-new/images/logo_mitsde.png" alt="MIT School of Distance Education" />
         </a>
