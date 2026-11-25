@@ -97,9 +97,14 @@ else $nav_active = '';
         }
         
 </script>
-<?php require_once 'ws-analytics.php'; ?>
+<?php //require_once 'ws-analytics.php'; ?>
 <div class="top-gradient"></div>
 <div class="navbar-wrap">
+<!-- Desktop: call tab sitting on top of the navbar (right side). Hidden ≤991px. -->
+<a href="tel:+919112207207" class="nav-call-strip">
+    <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6.62 10.79a15.05 15.05 0 0 0 6.59 6.59l2.2-2.2a1 1 0 0 1 1.01-.24 11.36 11.36 0 0 0 3.58.57 1 1 0 0 1 1 1V20a1 1 0 0 1-1 1A17 17 0 0 1 3 4a1 1 0 0 1 1-1h3.5a1 1 0 0 1 1 1c0 1.25.2 2.45.57 3.58a1 1 0 0 1-.25 1.01l-2.2 2.2z"/></svg>
+    <strong>Call now: 9112-207-207</strong>
+</a>
 <header class="navbar">
     <div class="logo-container">
         <img class="logo-mitindia" src="assets-new/images/mit-india-logo.webp" alt="MIT India - Maharashtra Institute of Technology" />
@@ -146,6 +151,11 @@ else $nav_active = '';
             <button class="btn-outline" data-bs-toggle="modal" data-bs-target="#eqModal">Apply Now</button>
         </div>
     </nav>
+
+    <!-- Mobile/tablet (≤991px): round call button left of the hamburger -->
+    <a href="tel:+919112207207" class="nav-call-btn" aria-label="Call now: 9112-207-207">
+        <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6.62 10.79a15.05 15.05 0 0 0 6.59 6.59l2.2-2.2a1 1 0 0 1 1.01-.24 11.36 11.36 0 0 0 3.58.57 1 1 0 0 1 1 1V20a1 1 0 0 1-1 1A17 17 0 0 1 3 4a1 1 0 0 1 1-1h3.5a1 1 0 0 1 1 1c0 1.25.2 2.45.57 3.58a1 1 0 0 1-.25 1.01l-2.2 2.2z"/></svg>
+    </a>
 
     <button class="hamburger" aria-label="Toggle menu">
         <span></span><span></span><span></span>
