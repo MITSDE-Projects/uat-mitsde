@@ -462,15 +462,15 @@
                         <span class="pgcs-tag" style="width:max-content;"><span class="pgcs-tag-inner">SQL</span></span>
                         <div class="gae-module-grid">
                             <div class="gae-module-card">
-                                <h4>Basic - 3 Hrs<span class="text-light" style="font-weight:500;">· 3 Hrs</span></h4>
+                                <h4>Basic - 3 Hrs</h4>
                                 <p>• Introduction to Databases • SQL Basics: SELECT, FROM, WHERE • Data Types and Constraints</p>
                             </div>
                             <div class="gae-module-card">
-                                <h4>Intermediate - 5 Hrs<span class="text-light" style="font-weight:500;">· 5 Hrs</span></h4>
+                                <h4>Intermediate - 5 Hrs</h4>
                                 <p>• Joins and Subqueries • Aggregations and Grouping • Indexes and Performance Tuning • Stored Procedures and Functions</p>
                             </div>
                             <div class="gae-module-card">
-                                <h4>Advanced - 7 Hrs<span class="text-light" style="font-weight:500;">· 7 Hrs</span></h4>
+                                <h4>Advanced - 7 Hrs</h4>
                                 <p>• Advanced SQL Functions • Window Functions • Transactions and Concurrency • Database Design and Normalization • SQL Optimization Techniques</p>
                             </div>
                         </div>
@@ -480,15 +480,15 @@
                         <span class="pgcs-tag" style="width:max-content;"><span class="pgcs-tag-inner">Power BI</span></span>
                         <div class="gae-module-grid">
                             <div class="gae-module-card">
-                                <h4>Basic - 3 Hrs<span class="text-light" style="font-weight:500;">· 3 Hrs</span></h4>
+                                <h4>Basic - 3 Hrs</h4>
                                 <p>• Introduction to Power BI • Data Import and Transformation • Basic Visualizations</p>
                             </div>
                             <div class="gae-module-card">
-                                <h4>Intermediate - 5 Hrs<span class="text-light" style="font-weight:500;">· 6 Hrs</span></h4>
+                                <h4>Intermediate - 6 Hrs</h4>
                                 <p>• Data Modeling in Power BI • DAX Basics • Advanced Visualization • Power BI Service and Sharing Reports</p>
                             </div>
                             <div class="gae-module-card">
-                                <h4>Advanced - 6 Hrs<span class="text-light" style="font-weight:500;">· 6 Hrs</span></h4>
+                                <h4>Advanced - 6 Hrs</h4>
                                 <p>• Advanced DAX Functions • Row Level Security • Power BI Integration with Other Tools (SQL, Python) • Performance Optimization in Power BI • Custom Visuals and Advanced Analytics</p>
                             </div>
                         </div>
