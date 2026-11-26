@@ -46,7 +46,6 @@
         .eai-codesign-label { font-size: var(--fz-medium); font-weight: 400; color: var(--text-dark); margin-bottom: 0.5rem; }
         .eai-codesign { justify-content: flex-start; }
         .eai-codesign img { width: 170px; }
-        .eai-logo-placeholder { font-size: var(--fz-large); font-weight: 700; line-height: 1.3; color: var(--text-dark); }
         .eai-badge { display: inline-flex; align-items: center; gap: 8px; padding: 6px 14px; border-radius: 999px; background: var(--bg-light); border: 1px solid var(--primary-orange); color: var(--primary-orange); font-size: var(--fz-small); font-weight: 600; }
 
         /* Section spacing */
@@ -95,8 +94,6 @@
         .eai-tool-item span { font-size: var(--fz-small); font-weight: 600; color: var(--text-dark); white-space: nowrap; }
         @media (prefers-reduced-motion: reduce) { .eai-tools-track { animation: none; flex-wrap: wrap; width: auto; } }
 
-        /* Faculty card without a photo — initials avatar sized like .faculty-card img */
-        .eai-faculty-initials { width: 90px; height: 90px; border-radius: 50%; margin: 0 auto 0.75rem; display: flex; align-items: center; justify-content: center; background: var(--bg-light); border: 3px solid #FD771F; color: var(--primary-orange); font-size: var(--fz-large); font-weight: 800; }
         .dms-faculty-section .faculty-card h4 { margin-bottom: 0.75rem; }
 
         @media (max-width: 1199px) {
@@ -225,9 +222,7 @@
                     <div class="ph-sub eai-codesign">
                         <img src="assets-new/images/logo_mitsde.png" alt="MIT School of Distance Education" />
                         <div class="vertical-divider-3"></div>
-                        <!-- TODO: Entrelogy logo not received yet — replace this placeholder with
-                             <img src="assets-new/images/logos/entrelogy-logo.webp" alt="Entrelogy Business School" /> -->
-                        <span class="eai-logo-placeholder">Entrelogy<br>Business School</span>
+                        <img src="assets-new/images/entrepreneurship-and-ai/Entrelogy-logo.webp" alt="Entrelogy Business School" />
                     </div>
                     <span class="eai-badge"><i class="fa-solid fa-award"></i> Exclusive MIT &amp; Entrelogy Alumni Status</span>
                 </div>
@@ -483,7 +478,7 @@
                             ?>
                             <div class="eai-tool-item<?php echo $t[1] ? ' has-logo' : ''; ?>"<?php echo $copy >= 3 ? ' aria-hidden="true"' : ''; ?>>
                                 <?php if ($t[1]): ?>
-                                <img src="assets-new/images/logos/<?php echo $t[1]; ?>" alt="<?php echo $t[0]; ?>" />
+                                <img src="assets-new/images/entrepreneurship-and-ai/tools/<?php echo $t[1]; ?>" alt="<?php echo $t[0]; ?>" />
                                 <?php else: ?>
                                 <i class="fa-solid fa-gears" aria-hidden="true"></i><span><?php echo $t[0]; ?></span>
                                 <?php endif; ?>
@@ -745,7 +740,7 @@
         </div>
     </section>
 
-    <!-- Faculty — no photos / designations in the content doc yet, so each card shows initials -->
+    <!-- Faculty — photos in assets-new/images/entrepreneurship-and-ai/faculty/ (designations not received yet) -->
     <section class="dms-faculty-section" id="faculty">
         <div class="container">
             <h2 class="section-heading"><span class="text-orange">Expert Faculty </span>and Mentors</h2>
@@ -754,26 +749,24 @@
                 <div class="swiper-wrapper">
                     <?php
                     $eai_faculty = [
-                        ['Arjun Vaidya',          'https://www.linkedin.com/in/arjunvaidya'],
-                        ['Vidushi Vijayvergiya',  'https://www.linkedin.com/in/vidushi-vijayvergiya'],
-                        ['Ayush Panchmiya',       'https://www.linkedin.com/in/ayush-panchmiya-445045211'],
-                        ['Mohit Gulati',          'https://www.linkedin.com/in/mg04'],
-                        ['Mangesh Shinde',        'https://www.linkedin.com/in/mangesh-willpowerstar/'],
-                        ['Samruddhi Chhajed',     'https://www.linkedin.com/in/samruddhi-chhajed/'],
-                        ['Pranay Gupta',          'https://www.linkedin.com/in/pranay-gupta-a03486b7/'],
-                        ['Shashank Verma',        'https://www.linkedin.com/in/shashaankk-verma-764786/'],
-                        ['Sorabh Bajaj',          'https://www.linkedin.com/in/sorabhbajaj/'],
-                        ['Honish Zaveri',         'https://www.linkedin.com/in/honishzaveri'],
-                        ['Mihika Bhanot',         'https://www.linkedin.com/in/mihika-bhanot-2530b6105/'],
-                        ['Akansh Jain',           'https://www.linkedin.com/in/akanshjain/'],
+                        ['Arjun Vaidya',          'https://www.linkedin.com/in/arjunvaidya',                       'Arjun-Vaidya.webp'],
+                        ['Vidushi Vijayvergiya',  'https://www.linkedin.com/in/vidushi-vijayvergiya',              'Vidushi-Vijayvergia.webp'],
+                        ['Ayush Panchmiya',       'https://www.linkedin.com/in/ayush-panchmiya-445045211',         'Ayush-Panchimya.webp'],
+                        ['Mohit Gulati',          'https://www.linkedin.com/in/mg04',                              'Mohit-Gulati.webp'],
+                        ['Mangesh Shinde',        'https://www.linkedin.com/in/mangesh-willpowerstar/',            'Mangesh-Shinde.webp'],
+                        ['Samruddhi Chhajed',     'https://www.linkedin.com/in/samruddhi-chhajed/',                'Samruddhi-Chajjed.webp'],
+                        ['Pranay Gupta',          'https://www.linkedin.com/in/pranay-gupta-a03486b7/',            'Pranay-Gupta.webp'],
+                        ['Shashank Verma',        'https://www.linkedin.com/in/shashaankk-verma-764786/',          'Shashank-Verma.webp'],
+                        ['Sorabh Bajaj',          'https://www.linkedin.com/in/sorabhbajaj/',                      'Sorabh-Bajaj.webp'],
+                        ['Honish Zaveri',         'https://www.linkedin.com/in/honishzaveri',                      'Honish-Zaveri.webp'],
+                        ['Mihika Bhanot',         'https://www.linkedin.com/in/mihika-bhanot-2530b6105/',          'Mihika-Bhanot.webp'],
+                        ['Akansh Jain',           'https://www.linkedin.com/in/akanshjain/',                       'Akansh-Jain.webp'],
                     ];
                     foreach ($eai_faculty as $f):
-                        $parts = explode(' ', $f[0]);
-                        $initials = strtoupper($parts[0][0] . end($parts)[0]);
                     ?>
                     <div class="swiper-slide">
                         <div class="faculty-card">
-                            <span class="eai-faculty-initials" aria-hidden="true"><?php echo $initials; ?></span>
+                            <img src="assets-new/images/entrepreneurship-and-ai/faculty/<?php echo $f[2]; ?>" alt="<?php echo $f[0]; ?>" loading="lazy" />
                             <h4><?php echo $f[0]; ?></h4>
                             <a href="<?php echo $f[1]; ?>" target="_blank" rel="noopener" aria-label="<?php echo $f[0]; ?> on LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
                         </div>
