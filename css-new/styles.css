@@ -4590,7 +4590,9 @@ section.sr.sr-visible {
 .city-content .section-heading { margin: 2.5rem 0 0.75rem; }
 .city-content .section-heading:first-child { margin-top: 0; }
 .city-content .ac-list { font-size: var(--fz-medium); }
-.city-content p a { color: var(--primary-orange); font-weight: 600; }
+.city-content p a,
+.city-content li a,
+.city-faq .faq-a a { color: var(--primary-orange); font-weight: 600; }
 .city-content .tbl { min-width: 0; }
 .city-subheading { font-size: var(--fz-large); font-weight: 700; color: var(--primary-orange); margin: 1.25rem 0 0.4rem; }
 

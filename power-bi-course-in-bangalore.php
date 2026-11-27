@@ -1,27 +1,18 @@
 <!DOCTYPE html>
-
 <html lang="en">
 
-
-
 <head>
-
     <meta charset="UTF-8" />
-
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <title>SQL - Power BI Course in Bangalore | Training & Course Fees</title>
+    <title>SQL - Power BI Course in Bangalore | Training &amp; Course Fees</title>
 
     <meta name="robots" content="index, follow">
 
-    <meta name="description"
-        content="Enroll in MITSDE's SQL - Power BI course in Bangalore. Gain hands-on experience, live training & KPMG-endorsed certification. Boost your data analytics career!">
+    <meta name="description" content="Enroll in MITSDE's SQL - Power BI course in Bangalore. Gain hands-on experience, live training &amp; KPMG-endorsed certification. Boost your data analytics career!" />
 
-    <meta name="keywords"
-        content="power bi course in bangalore, power bi training in bangalore, power bi course fees in bangalore, best power bi training in bangalore, power bi course in bangalore price, power bi training institute in bangalore,best power bi training in bangalore, power bi training in marathahalli, power bi training in bangalore marathahalli">
-
+    <meta name="keywords" content="power bi course in bangalore, power bi training in bangalore, power bi course fees in bangalore, best power bi training in bangalore, power bi course in bangalore price, power bi training institute in bangalore, best power bi training in bangalore, power bi training in marathahalli, power bi training in bangalore marathahalli" />
 
     <!-- CANONICAL TAG -->
 
@@ -29,699 +20,451 @@
 
     <!-- CANONICAL TAG -->
 
-    <?php include "5-common-seo-tag-1.php" ?>
-
     <!-- OGP TAG -->
 
-    <meta property="og:title" content="SQL - Power BI Course in Bangalore | Training & Course Fees">
+    <meta property="og:title" content="SQL - Power BI Course in Bangalore | Training &amp; Course Fees">
     <meta property="og:site_name" content="MIT School of Distance Education">
     <meta property="og:url" content="https://mitsde.com/power-bi-course-in-bangalore">
-    <meta property="og:description"
-        content="Enroll in MITSDE's SQL - Power BI course in Bangalore. Gain hands-on experience, live training & KPMG-endorsed certification. Boost your data analytics career!">
+    <meta property="og:description" content="Enroll in MITSDE's SQL - Power BI course in Bangalore. Gain hands-on experience, live training &amp; KPMG-endorsed certification. Boost your data analytics career!">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://mitsde.com/assets/images/city/power-bi-course-in-bangalore.jpg">
+    <meta property="og:image" content="https://mitsde.com/assets-new/images/banner/city-banner.webp">
 
     <!-- / OG TAG -->
 
-    <!--product schema--->
+    <link rel="icon" type="image/png" href="assets-new/images/favicon-mit.ico" />
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="css-new/styles.css" />
+    <link rel="stylesheet" href="css-new/intlTelInput.css">
+
     <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
         {
-            "@context": "https://schema.org/",
-            "@type": "Product",
-            "name": "SQL - Power BI Course in Bangalore | Training & Course Fees",
-            "image": "https://mitsde.com/assets/images/city/power-bi-course-in-bangalore.jpg",
-            "description": "Enroll in MITSDE's SQL - Power BI course in Bangalore. Gain hands-on experience, live training & KPMG-endorsed certification. Boost your data analytics career!",
-            "brand": {
-                "@type": "Brand",
-                "name": "MITSDE"
-            },
-            "offers": {
-                "@type": "Offer",
-                "url": "https://mitsde.com/power-bi-course-in-bangalore",
-                "priceCurrency": "INR",
-                "price": "15000",
-                "priceValidUntil": "2025-12-19",
-                "availability": "https://schema.org/InStock",
-                "itemCondition": "https://schema.org/NewCondition"
-            },
-            "aggregateRating": {
-                "@type": "AggregateRating",
-                "ratingValue": "5",
-                "bestRating": "5",
-                "worstRating": "1",
-                "ratingCount": "10"
-            }
+          "@type": "Question",
+          "name": "What is the SQL & Power BI Certification Program?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A 3-month live online training program covering SQL querying, Power BI dashboard creation, and business intelligence applications."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need prior technical knowledge?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No! This Power BI course in Bangalore starts from basics and gradually moves to advanced concepts. A computer with an internet connection is all you need."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the mode of course delivery?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The program is conducted online with live instructor-led sessions. Recordings are available for later reference."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Will I receive a certificate upon completion?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes! A joint certification from KPMG in India and MITSDE will be awarded upon successful completion."
+          }
         }
+      ]
+    }
     </script>
 
-    <!--FAQ schema--->
-    <!--FAQ schema--->
-    <script type="application/ld+json">
-        {
-            "@context": "https://schema.org",
-            "@type": "FAQPage",
-            "mainEntity": [{
-                    "@type": "Question",
-                    "name": "What is the SQL & Power BI Certification Program? ",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "A 3-month live online training program covering SQL querying, Power BI dashboard creation, and business intelligence applications."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "Do I need prior technical knowledge? ",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "No! This Power BI course in Bangalore starts from basics and gradually moves to advanced concepts. A computer with an internet connection is all you need."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "What is the mode of course delivery? ",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "The program is conducted online with live instructor-led sessions. Recordings are available for later reference."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "Will I receive a certificate upon completion?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Yes! A joint certification from KPMG in India and MITSDE will be awarded upon successful completion."
-                    }
-                }
-            ]
-        }
-    </script>
-
-    <!-- Page Title -->
-    <link rel="icon" type="image/png" href="assets/images/favicon-mit.ico" />
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="assets/css/bootstrap-select.min.css" />
-    <!-- font awesome css -->
-    <link rel="stylesheet" href="assets/fontawesome/css/all.min.css">
-    <!-- Preload CSS (Non-blocking) -->
-    <link rel="preload" href="assets/css/slick.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <link rel="preload" href="assets/css/fonts.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <link rel="preload" href="assets/css/style.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <link rel="preload" href="assets/css/course-common-internal.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <link rel="preload" href="assets/css/two-card-slider.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-
-
-    <!-- Fallback (Loads CSS if JS disabled) -->
-    <noscript>
-        <link rel="stylesheet" href="assets/css/slick.min.css">
-        <link rel="stylesheet" href="assets/css/fonts.css">
-        <link rel="stylesheet" href="assets/css/style.css">
-        <link rel="stylesheet" href="assets/css/course-common-internal.css">
-        <link rel="stylesheet" href="assets/css/two-card-slider.css">
-    </noscript>
-
-    <!--API for Queck contact----->
-
-    <script src="assets/js/api/jquery-1.10.2.min.js"></script>
-
-    <script type="text/javascript" src="assets/js/api/validation.js" charset="UTF-8"></script>
-
-    <!----->
-
-
-
+<?php include "5-common-seo-tag-1.php" ?>
+<?php include "new-city-page-google-code.html";?>
 </head>
 
-
-
 <body>
+  <?php include "5-common-seo-tag-2.php" ?>
+    <?php include "header-new.php" ?>
 
-    <?php include "5-common-seo-tag-2.php" ?>
+    <!-- ═══════════════════════════════════════════════
+       CITY HERO — same pattern as distance-mba-in-pune.php (Download Brochure only)
+       Content converted from the live mitsde-new/power-bi-course-in-bangalore.php;
+       Why Choose cards, curriculum, use-case accordion and certificate image follow power-bi-certification.php
+    ════════════════════════════════════════════════ -->
+    <section class="hero ph-hero city-hero">
+        <img src="assets-new/images/banner/city-banner.webp" alt="" class="city-hero-bg" aria-hidden="true" />
+        <div class="container">
+            <div class="ph-layout">
 
-    <!-- Header Nav Start -->
-
-    <?php include "header.php" ?>
-
-    <!-- Header Nav End --->
-
-    <main class="main-body">
-
-        <?php include "announcementUpdate.php" ?>
-
-        <section class="banner inner-banner">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-6 col-md-12 main-banner">
-                        <h1>SQL - Power BI Course in Bangalore
-                        </h1>
-
-
-                        <div class="mt-3 page-btn">
-                            <button type="button" class="btn btn-primary cus-btn inner-cus mit-button ms-0"
-                                data-bs-toggle="modal" data-bs-target="#enquiryModal-download-form"><span
-                                    class="mtsk-download"></span> &nbsp; Download BROCHURE
-                            </button>
-
-                        </div>
-                        <nav aria-label="breadcrumb">
-                            <ol class="breadcrumb">
-                                <li class="breadcrumb-item"><a href="https://mitsde.com">Home</a></li>
-                                <!-- <li class="breadcrumb-item"><a href="#">Distance MBA</a></li> -->
-                                <li class="active breadcrumb-item" aria-current="page">SQL - Power BI Course in Bangalore
-                                </li>
-                            </ol>
-                        </nav>
-
-                    </div>
-                    <div class="col-lg-6 col-md-12">
-                        <div class="css-details">
-                            <div class="inner-sec stc-det student-sec">
-                                <img src="assets/images/progress.svg" alt="Progress indicator icon">
-                            </div>
-                            <img src="assets/images/city/power-bi-course-in-bangalore.jpg" class="banner-img" fetchpriority="high"
-                                alt="Distance MBA in Pune | Online MBA Colleges, Degree, Programs">
-                            <div class="course-sec inner-sec stc-det">
-                                <img src="assets/images/walet.svg" alt="Wallet icon for payment">
-                            </div>
+                <!-- Left — heading + AICTE + intro + CTA -->
+                <div class="ph-left">
+                    <div class="ph-sub">
+                        <h1 class="ph-heading">SQL - <span>Power BI</span> Course in Bangalore</h1>
+                        <div class="vertical-divider-3"></div>
+                        <div class="city-aicte">
+                            <img src="assets-new/images/aicte-badge.png" alt="AICTE — All India Council for Technical Education" />
+                            <p>Approved by<br>AICTE,<br>Govt. of India</p>
                         </div>
                     </div>
+                    <p class="city-hero-desc">Master data skills with the <strong>SQL &amp; Power BI Certification Program</strong>, validated by <strong>KPMG in India</strong> and MITSDE.</p>
+                    <button type="button" class="btn btn-dark rounded-pill px-4 py-2" data-bs-toggle="modal" data-bs-target="#downloadModal">Download Brochure</button>
+                </div>
+
+                <!-- Right — lead form -->
+                <div class="ph-form-col">
+                    <?php include "city-hero-form.php" ?>
+                </div>
+
+            </div><!-- /ph-layout -->
+        </div>
+    </section>
+
+    <!-- ═══════════════════════════════════════════════
+       COURSE INFO BAR — same values as power-bi-certification.php
+    ════════════════════════════════════════════════ -->
+    <section class="cib-section">
+        <div class="container">
+            <div>
+                <div class="enquiry-bar">
+                    <ul class="program-details">
+                        <li>
+                            <div class="program-feature">
+                                <p>Live Training</p>
+                                <span>36 Hours</span>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="program-feature">
+                                <p>Mode of Delivery</p>
+                                <span>Online</span>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="program-feature">
+                                <p>Schedule</p>
+                                <span>Weekend Batch</span>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="program-feature">
+                                <p>Course fee <small>(incl. GST)</small></p>
+                                <span>INR 17,700</span>
+                            </div>
+                        </li>
+                        <li class="enquiry-btn-wrap">
+                            <button type="button" class="btn btn-dark rounded-pill px-4 py-2" data-bs-toggle="modal" data-bs-target="#eqModal">Enquire Now</button>
+                        </li>
+                    </ul>
                 </div>
             </div>
-        </section>
+        </div>
+    </section>
 
-        <section id="overview" class="enroll-certification">
+    <!-- ═══════════════════════════════════════════════
+       CITY CONTENT
+    ════════════════════════════════════════════════ -->
+    <section class="city-content">
+        <div class="container">
 
-            <div class="container">
+            <h2 class="section-heading">Master Data Skills with the Best Power BI Certification Course in Bangalore</h2>
+            <p>Take your career to new heights with our <strong>SQL and Power BI Course in Bangalore</strong>, designed to equip you with advanced data management and visualization skills. Learn SQL querying, database design, data manipulation, and Power BI dashboard creation. This <strong>Power BI training in Bangalore</strong> is validated by <strong>KPMG in India and MIT School of Distance Education (MITSDE)</strong> to ensure industry relevance and credibility.</p>
 
-                <div class="row">
-                    <div class="col-md-12 col-lg-12 fintech-certi">
-                        <h2>Master Data Skills with the Best Power BI Certification Course in Bangalore</h2>
+        </div>
+    </section>
+
+    <!-- Why Choose — pedagogy-* cards, same as power-bi-certification.php -->
+    <section class="pedagogy-section pt-0 pb-0">
+        <div class="container">
+            <h2 class="section-heading">Why Choose the SQL &amp; Power BI Course in Bangalore at MITSDE?</h2>
+            <div class="pedagogy-grid">
+
+                <div class="pedagogy-card">
+                    <div class="pedagogy-card-img">
+                        <img src="assets-new/images/unique-pedagogy.jpg" alt="Unique Pedagogy" />
                     </div>
-
-                    <div class="col-md-12 col-lg-8 fin-feature hero11">
-                        <p>
-                            Take your career to new heights with our
-                            <strong>SQL and Power BI Course in Bangalore</strong>, designed to equip you with advanced data management and visualization skills.
-                            Learn SQL querying, database design, data manipulation, and Power BI dashboard creation.
-                            <strong>This Power BI training in Bangalore</strong> is validated by
-                            <strong>KPMG in India and MIT School of Distance Education (MITSDE)</strong>
-                            to ensure industry relevance and credibility.
-                        </p>
-                    </div>
-
-                    <?php include "home-page-final-form.php" ?>
+                    <h3 class="pedagogy-card-title">Unique Pedagogy</h3>
+                    <p>Experience an outcome-based learning approach combining theory and real-world applications. Our <strong>Power BI course in Bangalore</strong> emphasizes hands-on training through projects, interactive sessions, and personalized feedback, ensuring a deep understanding of data analytics and visualization.</p>
                 </div>
 
-
-                <hr>
-
-                <div class="row">
-
-                    <div class="col-md-12">
-                        <h2 class="fw-bold">Why Choose the SQL & Power BI Course in Bangalore at MITSDE?
-                        </h2>
+                <div class="pedagogy-card">
+                    <div class="pedagogy-card-img">
+                        <img src="assets-new/images/academic-partnership.jpg" alt="Industry Collaboration" />
                     </div>
-
-                    <div class="col-lg-4 col-md-12 pede-card">
-
-                        <div class="card over-card">
-
-                            <img src="assets/images/pedagogy.svg" class="img-fluid" alt="...">
-
-                            <div class="card-body">
-
-                                <h5 class="card-title">Unique Pedagogy</h5>
-
-                                <p class="card-text">Experience an outcome-based learning approach combining theory and real-world applications. Our <strong>Power BI course in Bangalore</strong> emphasizes hands-on training through projects, interactive sessions, and personalized feedback, ensuring a deep understanding of data analytics and visualization.</p>
-
-                            </div>
-
-                        </div>
-
-                    </div>
-
-                    <div class="col-lg-4 col-md-12 pede-card">
-
-                        <div class="card over-card">
-
-                            <img src="assets/images/collaberation.svg" class="img-fluid" alt="...">
-
-                            <div class="card-body">
-
-                                <h5 class="card-title">Industry Collaboration</h5>
-
-                                <p class="card-text">The program is co-designed by <strong>KPMG in India</strong>, a global leader in professional services, giving you a competitive edge in the job market.
-                                </p>
-
-                            </div>
-
-                        </div>
-
-                    </div>
-
-                    <div class="col-lg-4 col-md-12 pede-card">
-
-                        <div class="card over-card">
-
-                            <img src="assets/images/faculty.svg" class="img-fluid" alt="...">
-
-                            <div class="card-body">
-
-                                <h5 class="card-title">Expert Faculty</h5>
-
-                                <p class="card-text">Learn from seasoned industry professionals with expertise in <strong>SQL, Power BI, and data analytics or Specialist,</strong> bringing real-world insights and best practices.
-                                </p>
-
-                            </div>
-
-                        </div>
-
-                    </div>
-
-                    <hr>
-
+                    <h3 class="pedagogy-card-title">Industry Collaboration</h3>
+                    <p>The program is co-designed by <strong>KPMG in India</strong>, a global leader in professional services, giving you a competitive edge in the job market.</p>
                 </div>
 
-                <div class="row">
-                    <div class="col-lg-4 col-md-12 aboutMit-skills fintech-certi">
-                        <h2>Who Should <br> Enroll? <br> </h2>
-
+                <div class="pedagogy-card">
+                    <div class="pedagogy-card-img">
+                        <img src="assets-new/images/expert-faculty.jpg" alt="Expert Faculty" />
                     </div>
-                    <div class="col-lg-8 col-md-12 fin-feature1 hero11">
-
-                        <p>This Power BI certification in Bangalore is ideal for:</p>
-
-                        <li><span class="newright-icon1"></span> <strong>Graduates & Working Professionals
-                            </strong>(Technical & Non-Technical Backgrounds)</li>
-                        <li><span class="newright-icon1"></span> <strong>Aspiring Data Analysts, Business Analysts & IT
-                                Professionals</strong></li>
-                        <li><span class="newright-icon1"></span> <strong>Finance, Marketing, HR & Operations
-                                Professionals </strong>seeking data-driven insights</li>
-                        <li><span class="newright-icon1"></span> <strong>Entrepreneurs & Decision-Makers
-                            </strong>wanting to leverage business intelligence tools</li>
-
-                    </div>
+                    <h3 class="pedagogy-card-title">Expert Faculty</h3>
+                    <p>Learn from seasoned industry professionals with expertise in <strong>SQL, Power BI, and data analytics</strong>, bringing real-world insights and best practices.</p>
                 </div>
-                <hr>
 
-                <div class="row">
-                    <div class="col-lg-12 col-md-12 aboutMit-skills fintech-certi">
-                        <h2>Program Overview & Key Highlights </h2>
-                    </div>
-                    <div class="col-lg-12 col-md-12 fin-feature1 hero11">
-
-                        <li><span class="newright-icon1"></span> <strong> Live Interactive Learning:</strong> Weekend
-                            batch with instructor-led training.
-                        </li>
-
-                        <li><span class="newright-icon1"></span><strong> Duration:</strong> 3 months.
-                        </li>
-
-                        <li><span class="newright-icon1"></span><strong> Course Delivery: Online Power BI training in
-                                Bangalore </strong>MIT SDE
-                            with live sessions.
-                        </li>
-                        <li><span class="newright-icon1"></span><strong> What You Will Learn:</strong> SQL querying, database optimization, Power BI dashboards, DAX functions, SQL-Python integration, and data security.
-                        </li>
-
-                        <li><span class="newright-icon1"></span><strong> Hands-On Projects:</strong> Work on real-world
-                            business scenarios.
-                        </li>
-
-                        <li><span class="newright-icon1"></span><strong> Industry-Relevant Curriculum:</strong> Built
-                            around practical applications.
-                        </li>
-
-                        <li><span class="newright-icon1"></span><strong> Career Acceleration:</strong> Gain in-demand
-                            skills for data-driven roles.
-                        </li>
-
-                        <li><span class="newright-icon1"></span><strong> Global Recognition:</strong> Certification
-                            endorsed by <strong>KPMG in India</strong>.
-                        </li>
-
-
-
-                    </div>
-                </div>
-                <hr>
-                <div class="row">
-                    <div class="col-lg-12 col-md-12 aboutMit-skills fintech-certi">
-                        <h2>Power BI Course Fees in Bangalore </h2>
-                    </div>
-                    <div class="col-lg-12 col-md-12 fin-feature1 hero11">
-
-                        <p>The <strong>Power BI course fees in Bangalore </strong> are competitive and provide exceptional value. Flexible payment options and financing plans are available to make learning accessible.
-                        </p>
-
-
-
-                    </div>
-                </div>
-                <hr>
-
-                <div class="row">
-                    <div class="col-lg-12 col-md-12 aboutMit-skills fintech-certi">
-                        <h2>Why Learn SQL & Power BI?</h2>
-                    </div>
-                    <div class="col-lg-12 col-md-12 fin-feature1 hero11">
-
-                        <li><span class="newright-icon1"></span> <strong>Essential for Data Analysts, Data Engineers,
-                                and BI Developers</strong>
-                        </li>
-
-                        <li><span class="newright-icon1"></span> <strong>Widely used in Finance, Healthcare, E-commerce,
-                                Marketing, and Cloud Computing</strong>
-                        </li>
-
-                        <li><span class="newright-icon1"></span> <strong>Critical for big data processing, ETL
-                                workflows, and real-time analytics</strong>
-                        </li>
-
-                    </div>
-                </div>
-                <hr>
-
-                <div class="row">
-                    <div class="col-lg-12 col-md-12 aboutMit-skills fintech-certi">
-                        <h2>Curriculum Overview </h2>
-                    </div>
-                    <div class="col-lg-12 col-md-12 fin-feature1 hero11">
-                        <h3 class="fw-bold mt-3">SQL Modules:</h3>
-
-                        <li><span class="newright-icon1"></span> <strong>Basic (3 Hrs):</strong> Introduction to
-                            Databases, SQL Basics (SELECT, FROM, WHERE), Data Types and Constraints.
-                        </li>
-
-                        <li><span class="newright-icon1"></span><strong> Intermediate (5 Hrs):</strong> Joins,
-                            Subqueries, Aggregations, Indexes, Performance Tuning, Stored Procedures.
-                        </li>
-
-                        <li><span class="newright-icon1"></span><strong> Advanced (6 Hrs):</strong> Advanced SQL
-                            Functions, Window Functions, Transactions, Normalization, Optimization Techniques.
-                        </li>
-
-                    </div>
-                    <div class="col-lg-12 col-md-12 fin-feature1 hero11">
-                        <h3 class="fw-bold mt-3">Power BI Modules:</h3>
-
-                        <li><span class="newright-icon1"></span> <strong>Basic (3 Hrs):</strong> Introduction to Power
-                            BI, Data Import, Basic Visualizations.
-                        </li>
-
-                        <li><span class="newright-icon1"></span><strong> Intermediate (6 Hrs):</strong> Data Modeling,
-                            DAX Basics, Advanced Visualizations, Power BI Service.
-                        </li>
-
-                        <li><span class="newright-icon1"></span><strong> Advanced (6 Hrs):</strong> Advanced DAX,
-                            Row-Level Security, Power BI-SQL-Python Integration, Performance Optimization.
-                        </li>
-
-                    </div>
-                </div>
-                <hr>
-
-                <div class="row">
-                    <div class="col-lg-12 col-md-12 aboutMit-skills fintech-certi">
-                        <h2>Industry-Specific Use Cases</h2>
-                    </div>
-                    <div class="col-lg-12 col-md-12 fin-feature1 hero11">
-
-                        <li><span class="newright-icon1"></span> <strong>Finance & Banking:</strong> Fraud detection,
-                            risk management, real-time trading.
-                        </li>
-
-                        <li><span class="newright-icon1"></span><strong> Healthcare & Pharmaceuticals:</strong>
-                            Electronic health records, patient treatment tracking.
-                        </li>
-
-                        <li><span class="newright-icon1"></span><strong> Retail & ECommerce:</strong>Customer
-                            segmentation, inventory management.
-                        </li>
-
-                        <li><span class="newright-icon1"></span><strong> Marketing & Customer Insights:</strong>
-                            Campaign analysis, personalized recommendations.
-                        </li>
-
-                        <li><span class="newright-icon1"></span><strong> Telecom & Cloud Computing:</strong> Network
-                            performance monitoring, billing analytics.
-                        </li>
-
-                    </div>
-                </div>
-                <hr>
-
-                <div class="row">
-                    <div class="col-lg-12 col-md-12 aboutMit-skills fintech-certi">
-                        <h2>Career Growth & Job Roles</h2>
-                    </div>
-                    <div class="col-lg-12 col-md-12 fin-feature1 hero11">
-
-                        <li><span class="newright-icon1"></span> <strong>Entry-Level:</strong> Data Analyst, BI Analyst,
-                            Reporting Analyst.
-                        </li>
-
-                        <li><span class="newright-icon1"></span><strong> Mid-Level:</strong>
-                            SQL Developer, Data Engineer, ETL Developer, Database Administrator (DBA).
-                        </li>
-
-                        <li><span class="newright-icon1"></span><strong> Senior-Level:</strong>Cloud Data Architect,
-                            Machine Learning Engineer (SQL + Python), Data Science Consultant.
-                        </li>
-
-                        <li><span class="newright-icon1"></span><strong> Leadership Roles:</strong>Chief Data Officer
-                            (CDO), Head of Data & Analytics.
-                        </li>
-
-                    </div>
-                </div>
-                <hr>
-
-                <div class="row">
-                    <div class="col-lg-12 col-md-12 aboutMit-skills fintech-certi">
-                        <h2>Course Features & Benefits</h2>
-                    </div>
-                    <div class="col-lg-12 col-md-12 fin-feature1 hero11">
-
-                        <li><span class="newright-icon1"></span> <strong>Industry-validated curriculum</strong>
-                            co-designed with <strong>KPMG in India</strong>.
-                        </li>
-
-                        <li><span class="newright-icon1"></span><strong> Real-world projects and hands-on case
-                                studies</strong>
-                        </li>
-
-                        <li><span class="newright-icon1"></span><strong> Live instructor-led training with
-                                doubt-clearing
-                                support</strong>
-                        </li>
-
-                        <li><span class="newright-icon1"></span><strong> Joint certification from KPMG in India and
-                                MITSDE</strong>
-                        </li>
-
-                    </div>
-                </div>
-                <hr>
-
-                <div class="row">
-                    <div class="col-lg-12 col-md-12 aboutMit-skills fintech-certi">
-                        <h2>Exams, Certification & Projects</h2>
-                    </div>
-                    <div class="col-lg-12 col-md-12 fin-feature1 hero11">
-
-                        <h3 class="fw-bold mt-2">Exam Structure:</h3>
-
-                        <li><span class="newright-icon1"></span> <strong>100 Marks: 30 Marks (MCQs)</strong>, <strong>70
-                                Marks</strong> (SQL & Power BI Open-ended questions).
-                        </li>
-
-                        <li><span class="newright-icon1"></span> <strong>Project (50 Marks):</strong> Must pass with at
-                            least 50% to qualify for the exam.
-                        </li>
-
-                        <li><span class="newright-icon1"></span> <strong>Passing Criteria: 50%</strong> in both project
-                            and exam.
-                        </li>
-
-                        <h3 class="fw-bold mt-2">Certification:</h3>
-
-                        <li><span class="newright-icon1"></span> Jointly issued by <strong>KPMG in India and
-                                MITSDE</strong>.
-                        </li>
-
-                    </div>
-                </div>
-                <hr>
             </div>
-        </section>
+        </div>
+    </section>
 
-        <!-- faq section -->
+    <section class="city-content">
+        <div class="container">
 
-        <section id="faq" class="enroll-certification pt-0">
-            <div class="container">
-                <div class="row">
-                    <div class="cur-accordiaon">
+            <h2 class="section-heading">Who Should Enroll?</h2>
+            <p class="mb-0"><strong>This Power BI certification in Bangalore is ideal for:</strong></p>
+            <ul class="ac-list text-dark mt-2">
+                <li><strong>Graduates &amp; Working Professionals</strong> (Technical &amp; Non-Technical Backgrounds)</li>
+                <li><strong>Aspiring Data Analysts, Business Analysts &amp; IT Professionals</strong></li>
+                <li><strong>Finance, Marketing, HR &amp; Operations Professionals</strong> seeking data-driven insights</li>
+                <li><strong>Entrepreneurs &amp; Decision-Makers</strong> wanting to leverage business intelligence tools</li>
+            </ul>
 
-                        <h2 class="fw-bold">Frequently Asked Questions (FAQs)</h2>
+            <h2 class="section-heading">Program Overview &amp; Key Highlights</h2>
+            <ul class="ac-list text-dark">
+                <li><strong>Live Interactive Learning:</strong> Weekend batch with instructor-led training.</li>
+                <li><strong>Duration:</strong> 3 months.</li>
+                <li><strong>Course Delivery:</strong> Online Power BI training in Bangalore by MIT SDE with live sessions.</li>
+                <li><strong>What You Will Learn:</strong> SQL querying, database optimization, Power BI dashboards, DAX functions, SQL-Python integration, and data security.</li>
+                <li><strong>Hands-On Projects:</strong> Work on real-world business scenarios.</li>
+                <li><strong>Industry-Relevant Curriculum:</strong> Built around practical applications.</li>
+                <li><strong>Career Acceleration:</strong> Gain in-demand skills for data-driven roles.</li>
+                <li><strong>Global Recognition:</strong> Certification endorsed by <strong>KPMG in India</strong>.</li>
+            </ul>
 
+            <h2 class="section-heading">Power BI Course Fees in Bangalore</h2>
+            <p>The <strong>Power BI course fees in Bangalore</strong> are competitive and provide exceptional value. Flexible payment options and financing plans are available to make learning accessible.</p>
+            <p><strong>Total Fee: ₹17,700</strong> (inclusive of GST)</p>
 
-                        <div class="accordion curriculum-accordion" id="freQuestions">
+            <h2 class="section-heading">Why Learn SQL &amp; Power BI?</h2>
+            <ul class="ac-list text-dark">
+                <li><strong>Essential for Data Analysts, Data Engineers, and BI Developers</strong></li>
+                <li><strong>Widely used in Finance, Healthcare, E-commerce, Marketing, and Cloud Computing</strong></li>
+                <li><strong>Critical for big data processing, ETL workflows, and real-time analytics</strong></li>
+            </ul>
 
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="collapsed accordion-button" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions11" aria-expanded="false" aria-controls="questions11">
-                                        What is the SQL & Power BI Certification Program?
+        </div>
+    </section>
 
-                                    </button>
-                                </h2>
-                                <div id="questions11" class="collapse accordion-collapse"
-                                    data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-lg-12 col-md-12">
-                                                <div class="alert brandcolor fintech-module">
-                                                    <p>
-                                                        A 3-month live online training program covering SQL querying, Power BI dashboard creation, and business intelligence applications.
+    <!-- Curriculum — copied from power-bi-certification.php "Course Curriculum" (updated content) -->
+    <section class="pgcs-section" id="curriculum">
+        <div class="container">
+            <div class="pgcs-bg-wrap">
 
-                                                    </p>
+                <h2 class="pgcs-heading">Course Curriculum</h2>
+                <p class="section-sub text-light">Curriculum Overview (3 Months · SQL + Power BI)</p>
 
+                <div class="pgcs-stack">
 
-                                                </div>
-                                            </div>
-
-
-                                        </div>
-                                    </div>
-                                </div>
+                    <div class="pgcs-card">
+                        <span class="pgcs-tag" style="width:max-content;"><span class="pgcs-tag-inner">SQL</span></span>
+                        <div class="gae-module-grid">
+                            <div class="gae-module-card">
+                                <h4>Basic - 3 Hrs</h4>
+                                <p>• Introduction to Databases • SQL Basics: SELECT, FROM, WHERE • Data Types and Constraints</p>
                             </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="collapsed accordion-button" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions12" aria-expanded="false" aria-controls="questions12">
-                                        Do I need prior technical knowledge?
-
-
-                                    </button>
-                                </h2>
-                                <div id="questions12" class="collapse accordion-collapse"
-                                    data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-lg-12 col-md-12">
-                                                <div class="alert brandcolor fintech-module">
-
-                                                    <p>No! This <strong>Power BI course in Bangalore </strong> starts from
-                                                        basics and gradually
-                                                        moves to advanced concepts. A computer with an internet
-                                                        connection is all you need.</p>
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
+                            <div class="gae-module-card">
+                                <h4>Intermediate - 5 Hrs</h4>
+                                <p>• Joins and Subqueries • Aggregations and Grouping • Indexes and Performance Tuning • Stored Procedures and Functions</p>
                             </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="collapsed accordion-button" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions13" aria-expanded="false" aria-controls="questions13">
-                                        What is the mode of course delivery?
-
-                                    </button>
-                                </h2>
-                                <div id="questions13" class="collapse accordion-collapse"
-                                    data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-lg-12 col-md-12">
-                                                <div class="alert brandcolor fintech-module">
-
-
-                                                    <p>The program is conducted <strong>online with live instructor-led
-                                                            sessions</strong>. Recordings are available for later
-                                                        reference.</p>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
+                            <div class="gae-module-card">
+                                <h4>Advanced - 7 Hrs</h4>
+                                <p>• Advanced SQL Functions • Window Functions • Transactions and Concurrency • Database Design and Normalization • SQL Optimization Techniques</p>
                             </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="collapsed accordion-button" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#questions14" aria-expanded="false" aria-controls="questions14">
-                                        Will I receive a certificate upon completion?
-
-                                    </button>
-                                </h2>
-                                <div id="questions14" class="collapse accordion-collapse"
-                                    data-bs-parent="#freQuestions">
-                                    <div class="accordion-body hero10">
-                                        <div class="row">
-                                            <div class="col-lg-12 col-md-12">
-                                                <div class="alert brandcolor fintech-module">
-
-                                                    <p>Yes! A <strong>joint certification from KPMG in India and
-                                                            MITSDE</strong> will be
-                                                        awarded upon successful completion.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
                         </div>
-
                     </div>
 
+                    <div class="pgcs-card">
+                        <span class="pgcs-tag" style="width:max-content;"><span class="pgcs-tag-inner">Power BI</span></span>
+                        <div class="gae-module-grid">
+                            <div class="gae-module-card">
+                                <h4>Basic - 3 Hrs</h4>
+                                <p>• Introduction to Power BI • Data Import and Transformation • Basic Visualizations</p>
+                            </div>
+                            <div class="gae-module-card">
+                                <h4>Intermediate - 6 Hrs</h4>
+                                <p>• Data Modeling in Power BI • DAX Basics • Advanced Visualization • Power BI Service and Sharing Reports</p>
+                            </div>
+                            <div class="gae-module-card">
+                                <h4>Advanced - 6 Hrs</h4>
+                                <p>• Advanced DAX Functions • Row Level Security • Power BI Integration with Other Tools (SQL, Python) • Performance Optimization in Power BI • Custom Visuals and Advanced Analytics</p>
+                            </div>
+                        </div>
+                    </div>
+
+                </div><!-- /pgcs-stack -->
+
+                <div class="pgcs-note">
+                    <h3 class="pgcs-note-heading">Program Breakdown :</h3>
+                    <ul class="pgcs-note-list">
+                        <li>Live Training: 30 hours of expert instruction.</li>
+                        <li>Doubt-Clearing: 4 hours of dedicated support (2 hours each for SQL and Power BI).</li>
+                        <li>Debrief of Project &amp; Exam: 2 hours for final assessment and project debrief.</li>
+                    </ul>
                 </div>
+
             </div>
-        </section>
+        </div>
+    </section>
 
-        <section id="overview" class="enroll-certification pt-0">
-            <div class="container">
+    <!-- Industry-Specific Use Cases — non-FAQ accordion (.accordian-section), same as power-bi-certification.php -->
+    <section class="accordian-section pb-0" id="usecases">
+        <div class="container">
+            <h2 class="section-heading">Industry-Specific Use Cases</h2>
+            <div class="faq-list">
 
-                <div class="row">
-                    <div class="col-lg-12 col-md-12 aboutMit-skills fintech-certi">
-                        <h2>Enroll Today in the Best Power BI Course in Bangalore!</h2>
-                    </div>
-                    <div class="col-lg-12 col-md-12 fin-feature1 hero11">
-
-                        <p>Don’t miss the opportunity to gain expertise in <strong>SQL and Power BI</strong> from industry leaders. <strong>Enroll in the best Power BI classes in Bangalore</strong> and take your career to new heights!
-                        </p>
-
-                    </div>
+                <div class="faq-item is-open">
+                    <button class="faq-q" aria-expanded="true">
+                        <span>Finance &amp; Banking</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                    </button>
+                    <div class="faq-a"><p>Fraud detection, risk management, real-time trading.</p></div>
                 </div>
-        </section>
 
-    </main>
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>Healthcare &amp; Pharmaceuticals</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                    </button>
+                    <div class="faq-a"><p>Electronic health records, patient treatment tracking.</p></div>
+                </div>
 
-    <!-- Footer Start -->
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>Retail &amp; E-commerce</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                    </button>
+                    <div class="faq-a"><p>Customer segmentation, inventory management.</p></div>
+                </div>
 
-    <?php include "footer.php" ?>
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>Marketing &amp; Customer Insights</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                    </button>
+                    <div class="faq-a"><p>Campaign analysis, personalized recommendations.</p></div>
+                </div>
 
-    <!-- Footer Start -->
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>Telecom &amp; Cloud Computing</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                    </button>
+                    <div class="faq-a"><p>Network performance monitoring, billing analytics.</p></div>
+                </div>
 
-    <script src="assets/js/jquery.min.js"></script>
+            </div>
+        </div>
+    </section>
 
-    <script src="assets/js/bootstrap.bundle.min.js"></script>
+    <section class="city-content">
+        <div class="container">
 
-    <script src="assets/js/bootstrap-select.min.js"></script>
+            <h2 class="section-heading">Career Growth &amp; Job Roles</h2>
+            <ul class="ac-list text-dark">
+                <li><strong>Entry-Level:</strong> Data Analyst, BI Analyst, Reporting Analyst.</li>
+                <li><strong>Mid-Level:</strong> SQL Developer, Data Engineer, ETL Developer, Database Administrator (DBA).</li>
+                <li><strong>Senior-Level:</strong> Cloud Data Architect, Machine Learning Engineer (SQL + Python), Data Science Consultant.</li>
+                <li><strong>Leadership Roles:</strong> Chief Data Officer (CDO), Head of Data &amp; Analytics.</li>
+            </ul>
 
-    <script src="assets/js/slick.min.js"></script>
+            <h2 class="section-heading">Course Features &amp; Benefits</h2>
+            <ul class="ac-list text-dark">
+                <li><strong>Industry-validated curriculum</strong> co-designed with <strong>KPMG in India</strong></li>
+                <li><strong>Real-world projects and hands-on case studies</strong></li>
+                <li><strong>Live instructor-led training with doubt-clearing support</strong></li>
+                <li><strong>Joint certification from KPMG in India and MITSDE</strong></li>
+            </ul>
 
-    <script src="assets/js/common.js"></script>
+            <h2 class="section-heading">Exams, Certification &amp; Projects</h2>
+            <p class="mb-0"><strong>Exam Structure:</strong></p>
+            <ul class="ac-list text-dark mt-2">
+                <li><strong>100 Marks:</strong> 30 Marks (MCQs), 70 Marks (SQL &amp; Power BI open-ended questions).</li>
+                <li><strong>Project (50 Marks):</strong> Must pass with at least 50% to qualify for the exam.</li>
+                <li><strong>Passing Criteria:</strong> 50% in both project and exam.</li>
+            </ul>
+            <p class="mb-0"><strong>Certification:</strong></p>
+            <ul class="ac-list text-dark mt-2">
+                <li>Jointly issued by <strong>KPMG in India and MITSDE</strong>.</li>
+            </ul>
 
-    <script src="assets/js/course-slider.js"></script>
+        </div>
+    </section>
 
-    <script src="assets/js/two-card-slider.js"></script>
+    <!-- Certificate image — same as power-bi-certification.php "Get Certified" -->
+    <section class="dms-infographic-section pt-0" id="certification">
+        <div class="container">
+            <div class="dms-infographic-img dms-cert-img">
+                <img src="assets-new/images/power-bi-certification/sql-powerbi-certificate.webp" alt="SQL &amp; Power BI Joint Certificate — KPMG in India and MITSDE" />
+            </div>
+        </div>
+    </section>
 
+    <!-- Section that sits below the FAQ on live — moved above the FAQ (same as the digital marketing city pages) -->
+    <section class="city-content">
+        <div class="container">
+
+            <h2 class="section-heading">Enroll Today in the Best Power BI Course in Bangalore!</h2>
+            <p>Don’t miss the opportunity to gain expertise in <strong>SQL and Power BI</strong> from industry leaders. <strong>Enroll in the best Power BI classes in Bangalore</strong> and take your career to new heights!</p>
+            <button type="button" class="btn btn-dark rounded-pill px-4 py-2 mt-2 mb-3" data-bs-toggle="modal" data-bs-target="#eqModal">Apply Now</button>
+
+        </div>
+    </section>
+
+    <!-- ═══════════════════════════════════════════════
+       FAQ — from the live page; keep in sync with the FAQPage JSON-LD in <head>
+    ════════════════════════════════════════════════ -->
+    <section class="faq-section pt-0" id="faq">
+        <div class="container">
+            <h2 class="section-heading">Frequently Asked Questions (FAQs)</h2>
+
+            <div class="faq-list">
+
+                <div class="faq-item is-open">
+                    <button class="faq-q" aria-expanded="true">
+                        <span>What is the SQL &amp; Power BI Certification Program?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                    </button>
+                    <div class="faq-a"><p>A 3-month live online training program covering SQL querying, Power BI dashboard creation, and business intelligence applications.</p></div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>Do I need prior technical knowledge?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                    </button>
+                    <div class="faq-a"><p>No! This <strong>Power BI course in Bangalore</strong> starts from basics and gradually moves to advanced concepts. A computer with an internet connection is all you need.</p></div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>What is the mode of course delivery?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                    </button>
+                    <div class="faq-a"><p>The program is conducted <strong>online with live instructor-led sessions</strong>. Recordings are available for later reference.</p></div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-q" aria-expanded="false">
+                        <span>Will I receive a certificate upon completion?</span>
+                        <svg class="faq-chevron" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                    </button>
+                    <div class="faq-a"><p>Yes! A <strong>joint certification from KPMG in India and MITSDE</strong> will be awarded upon successful completion.</p></div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- Disclaimer — same as power-bi-certification.php (KPMG trademark) -->
+    <section class="pt-0">
+        <div class="container">
+            <p><strong>Disclaimer:</strong> The KPMG name and logo are trademarks used under license by the independent member firms of the KPMG global organization. The KPMG trademarks are the sole property of KPMG International Cooperative.</p>
+        </div>
+    </section>
+
+    <?php include "footer-new.php" ?>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
-
-
 
 </html>

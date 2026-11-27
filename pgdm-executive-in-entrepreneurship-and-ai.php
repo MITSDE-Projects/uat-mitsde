@@ -15,6 +15,8 @@
     <link rel="canonical" href="https://mitsde.com/pgdm-executive-in-entrepreneurship-and-ai" />
     <!-- CANONICAL TAG -->
 
+    <meta name="robots" content="index, follow">
+
     <!-- OGP TAG -->
     <meta property="og:title" content="PGDM Executive in Entrepreneurship &amp; AI – MIT SDE x Entrelogy">
     <meta property="og:site_name" content="MIT School of Distance Education">
@@ -133,7 +135,7 @@
             "url": "https://mitsde.com/pgdm-executive-in-entrepreneurship-and-ai",
             "priceCurrency": "INR",
             "price": "850000",
-            "priceValidUntil": "2026-12-31",
+            "priceValidUntil": "2027-12-31",
             "availability": "https://schema.org/InStock",
             "itemCondition": "https://schema.org/NewCondition"
         }
@@ -190,6 +192,31 @@
 }
     </script>
 
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "CollegeOrUniversity",
+    "name": "MIT School of Distance Education",
+    "alternate Name": "MIT SDE",
+    "url": "https://mitsde.com",
+    "logo": "https://mitsde.com/assets/images/new/logo-mit-school-of-distance-education.png",
+    "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91 9112207207",
+        "contactType": "technical support",
+        "contactOption": "TollFree",
+        "areaServed": "IN",
+        "availableLanguage": "en"
+    },
+    "sameAs": [
+        "https://www.facebook.com/MITPuneDistanceEducationOnline/",
+        "https://www.instagram.com/mitdistanceeducation/?hl=en",
+        "https://www.youtube.com/c/MITSDEPune",
+        "https://www.linkedin.com/school/mitsde"
+    ]
+}
+</script>
+
 <?php include "5-common-seo-tag-1.php" ?>
 </head>
 
@@ -206,7 +233,7 @@
             <span class="pb-line"></span>
             <a href="./">Home</a>
             <span class="pb-sep">/</span>
-            <a href="#">PGDM Exe</a>
+            <a href="https://mitsde.com/post-graduate-diploma-in-management-executive">PGDM Exe</a>
             <span class="pb-sep">/</span>
             <span class="pb-current">PGDM Executive in Entrepreneurship &amp; AI</span>
         </nav>
@@ -519,7 +546,7 @@
                             </div>
                             <div class="pgcs-right">
                                 <div class="pgcs-right-info">
-                                    <img class="pgcs-icon" src="assets-new/images/star-icon.png" alt="">
+                                    <img class="pgcs-icon" src="assets-new/images/star-icon.png" alt="star icon" />
                                     <h3 class="pgcs-title">Semester Deliverable</h3>
                                     <p class="pgcs-desc">MVP + Capstone Project</p>
                                 </div>
@@ -546,7 +573,7 @@
                             </div>
                             <div class="pgcs-right">
                                 <div class="pgcs-right-info">
-                                    <img class="pgcs-icon" src="assets-new/images/star-icon.png" alt="">
+                                    <img class="pgcs-icon" src="assets-new/images/star-icon.png" alt="star icon">
                                     <h3 class="pgcs-title">Semester Deliverable</h3>
                                     <p class="pgcs-desc">Startup launched + Capstone Project</p>
                                 </div>
